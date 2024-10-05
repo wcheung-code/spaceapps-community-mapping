@@ -1,0 +1,7001 @@
+Routing Key,City,Month,Year,VALUE
+A41,Ballyboughal,3,2012,0.0
+A41,Ballyboughal,6,2012,0.0
+A41,Ballyboughal,9,2012,2.0
+A41,Ballyboughal,12,2012,3.0
+A41,Ballyboughal,3,2013,5.0
+A41,Ballyboughal,6,2013,3.0
+A41,Ballyboughal,9,2013,4.0
+A41,Ballyboughal,12,2013,4.0
+A41,Ballyboughal,3,2014,1.0
+A41,Ballyboughal,6,2014,1.0
+A41,Ballyboughal,9,2014,1.0
+A41,Ballyboughal,12,2014,1.0
+A41,Ballyboughal,3,2015,1.0
+A41,Ballyboughal,6,2015,0.0
+A41,Ballyboughal,9,2015,0.0
+A41,Ballyboughal,12,2015,3.0
+A41,Ballyboughal,3,2016,5.0
+A41,Ballyboughal,6,2016,7.0
+A41,Ballyboughal,9,2016,7.0
+A41,Ballyboughal,12,2016,8.0
+A41,Ballyboughal,3,2017,3.0
+A41,Ballyboughal,6,2017,4.0
+A41,Ballyboughal,9,2017,5.0
+A41,Ballyboughal,12,2017,2.0
+A41,Ballyboughal,3,2018,0.0
+A41,Ballyboughal,6,2018,0.0
+A41,Ballyboughal,9,2018,8.0
+A41,Ballyboughal,12,2018,12.0
+A41,Ballyboughal,3,2019,24.0
+A41,Ballyboughal,6,2019,22.0
+A41,Ballyboughal,9,2019,2.0
+A41,Ballyboughal,12,2019,0.0
+A41,Ballyboughal,3,2020,26.0
+A41,Ballyboughal,6,2020,1.0
+A41,Ballyboughal,9,2020,3.0
+A41,Ballyboughal,12,2020,2.0
+A41,Ballyboughal,3,2021,0.0
+A41,Ballyboughal,6,2021,2.0
+A41,Ballyboughal,9,2021,0.0
+A41,Ballyboughal,12,2021,1.0
+A41,Ballyboughal,3,2022,0.0
+A41,Ballyboughal,6,2022,2.0
+A41,Ballyboughal,9,2022,0.0
+A41,Ballyboughal,12,2022,1.0
+A41,Ballyboughal,3,2023,1.0
+A41,Ballyboughal,6,2023,0.0
+A41,Ballyboughal,9,2023,1.0
+A41,Ballyboughal,12,2023,1.0
+A41,Ballyboughal,3,2024,0.0
+A41,Ballyboughal,6,2024,0.0
+A42,Garristown,3,2012,2.0
+A42,Garristown,6,2012,2.0
+A42,Garristown,9,2012,3.0
+A42,Garristown,12,2012,4.0
+A42,Garristown,3,2013,1.0
+A42,Garristown,6,2013,0.0
+A42,Garristown,9,2013,2.0
+A42,Garristown,12,2013,1.0
+A42,Garristown,3,2014,0.0
+A42,Garristown,6,2014,1.0
+A42,Garristown,9,2014,0.0
+A42,Garristown,12,2014,1.0
+A42,Garristown,3,2015,0.0
+A42,Garristown,6,2015,1.0
+A42,Garristown,9,2015,1.0
+A42,Garristown,12,2015,2.0
+A42,Garristown,3,2016,1.0
+A42,Garristown,6,2016,2.0
+A42,Garristown,9,2016,6.0
+A42,Garristown,12,2016,1.0
+A42,Garristown,3,2017,2.0
+A42,Garristown,6,2017,0.0
+A42,Garristown,9,2017,0.0
+A42,Garristown,12,2017,3.0
+A42,Garristown,3,2018,0.0
+A42,Garristown,6,2018,3.0
+A42,Garristown,9,2018,2.0
+A42,Garristown,12,2018,7.0
+A42,Garristown,3,2019,2.0
+A42,Garristown,6,2019,2.0
+A42,Garristown,9,2019,4.0
+A42,Garristown,12,2019,4.0
+A42,Garristown,3,2020,5.0
+A42,Garristown,6,2020,3.0
+A42,Garristown,9,2020,4.0
+A42,Garristown,12,2020,1.0
+A42,Garristown,3,2021,2.0
+A42,Garristown,6,2021,3.0
+A42,Garristown,9,2021,2.0
+A42,Garristown,12,2021,5.0
+A42,Garristown,3,2022,1.0
+A42,Garristown,6,2022,4.0
+A42,Garristown,9,2022,17.0
+A42,Garristown,12,2022,2.0
+A42,Garristown,3,2023,6.0
+A42,Garristown,6,2023,12.0
+A42,Garristown,9,2023,8.0
+A42,Garristown,12,2023,15.0
+A42,Garristown,3,2024,7.0
+A42,Garristown,6,2024,20.0
+A45,Oldtown,3,2012,0.0
+A45,Oldtown,6,2012,1.0
+A45,Oldtown,9,2012,0.0
+A45,Oldtown,12,2012,0.0
+A45,Oldtown,3,2013,1.0
+A45,Oldtown,6,2013,0.0
+A45,Oldtown,9,2013,0.0
+A45,Oldtown,12,2013,0.0
+A45,Oldtown,3,2014,1.0
+A45,Oldtown,6,2014,0.0
+A45,Oldtown,9,2014,1.0
+A45,Oldtown,12,2014,0.0
+A45,Oldtown,3,2015,0.0
+A45,Oldtown,6,2015,1.0
+A45,Oldtown,9,2015,0.0
+A45,Oldtown,12,2015,0.0
+A45,Oldtown,3,2016,1.0
+A45,Oldtown,6,2016,0.0
+A45,Oldtown,9,2016,1.0
+A45,Oldtown,12,2016,0.0
+A45,Oldtown,3,2017,0.0
+A45,Oldtown,6,2017,1.0
+A45,Oldtown,9,2017,0.0
+A45,Oldtown,12,2017,0.0
+A45,Oldtown,3,2018,0.0
+A45,Oldtown,6,2018,2.0
+A45,Oldtown,9,2018,0.0
+A45,Oldtown,12,2018,1.0
+A45,Oldtown,3,2019,2.0
+A45,Oldtown,6,2019,0.0
+A45,Oldtown,9,2019,1.0
+A45,Oldtown,12,2019,2.0
+A45,Oldtown,3,2020,1.0
+A45,Oldtown,6,2020,0.0
+A45,Oldtown,9,2020,1.0
+A45,Oldtown,12,2020,1.0
+A45,Oldtown,3,2021,0.0
+A45,Oldtown,6,2021,1.0
+A45,Oldtown,9,2021,0.0
+A45,Oldtown,12,2021,1.0
+A45,Oldtown,3,2022,0.0
+A45,Oldtown,6,2022,2.0
+A45,Oldtown,9,2022,1.0
+A45,Oldtown,12,2022,1.0
+A45,Oldtown,3,2023,1.0
+A45,Oldtown,6,2023,0.0
+A45,Oldtown,9,2023,7.0
+A45,Oldtown,12,2023,6.0
+A45,Oldtown,3,2024,3.0
+A45,Oldtown,6,2024,0.0
+A63,Greystones,3,2012,7.0
+A63,Greystones,6,2012,22.0
+A63,Greystones,9,2012,17.0
+A63,Greystones,12,2012,4.0
+A63,Greystones,3,2013,7.0
+A63,Greystones,6,2013,13.0
+A63,Greystones,9,2013,11.0
+A63,Greystones,12,2013,0.0
+A63,Greystones,3,2014,8.0
+A63,Greystones,6,2014,6.0
+A63,Greystones,9,2014,7.0
+A63,Greystones,12,2014,8.0
+A63,Greystones,3,2015,16.0
+A63,Greystones,6,2015,15.0
+A63,Greystones,9,2015,39.0
+A63,Greystones,12,2015,37.0
+A63,Greystones,3,2016,19.0
+A63,Greystones,6,2016,43.0
+A63,Greystones,9,2016,33.0
+A63,Greystones,12,2016,84.0
+A63,Greystones,3,2017,61.0
+A63,Greystones,6,2017,67.0
+A63,Greystones,9,2017,57.0
+A63,Greystones,12,2017,66.0
+A63,Greystones,3,2018,79.0
+A63,Greystones,6,2018,58.0
+A63,Greystones,9,2018,52.0
+A63,Greystones,12,2018,100.0
+A63,Greystones,3,2019,100.0
+A63,Greystones,6,2019,107.0
+A63,Greystones,9,2019,102.0
+A63,Greystones,12,2019,160.0
+A63,Greystones,3,2020,40.0
+A63,Greystones,6,2020,48.0
+A63,Greystones,9,2020,141.0
+A63,Greystones,12,2020,105.0
+A63,Greystones,3,2021,24.0
+A63,Greystones,6,2021,38.0
+A63,Greystones,9,2021,72.0
+A63,Greystones,12,2021,102.0
+A63,Greystones,3,2022,69.0
+A63,Greystones,6,2022,164.0
+A63,Greystones,9,2022,81.0
+A63,Greystones,12,2022,352.0
+A63,Greystones,3,2023,146.0
+A63,Greystones,6,2023,64.0
+A63,Greystones,9,2023,144.0
+A63,Greystones,12,2023,157.0
+A63,Greystones,3,2024,127.0
+A63,Greystones,6,2024,172.0
+A67,Wicklow,3,2012,8.0
+A67,Wicklow,6,2012,2.0
+A67,Wicklow,9,2012,8.0
+A67,Wicklow,12,2012,5.0
+A67,Wicklow,3,2013,7.0
+A67,Wicklow,6,2013,2.0
+A67,Wicklow,9,2013,6.0
+A67,Wicklow,12,2013,4.0
+A67,Wicklow,3,2014,4.0
+A67,Wicklow,6,2014,4.0
+A67,Wicklow,9,2014,8.0
+A67,Wicklow,12,2014,14.0
+A67,Wicklow,3,2015,12.0
+A67,Wicklow,6,2015,26.0
+A67,Wicklow,9,2015,28.0
+A67,Wicklow,12,2015,14.0
+A67,Wicklow,3,2016,11.0
+A67,Wicklow,6,2016,16.0
+A67,Wicklow,9,2016,23.0
+A67,Wicklow,12,2016,19.0
+A67,Wicklow,3,2017,14.0
+A67,Wicklow,6,2017,17.0
+A67,Wicklow,9,2017,31.0
+A67,Wicklow,12,2017,33.0
+A67,Wicklow,3,2018,28.0
+A67,Wicklow,6,2018,34.0
+A67,Wicklow,9,2018,48.0
+A67,Wicklow,12,2018,57.0
+A67,Wicklow,3,2019,74.0
+A67,Wicklow,6,2019,65.0
+A67,Wicklow,9,2019,201.0
+A67,Wicklow,12,2019,113.0
+A67,Wicklow,3,2020,107.0
+A67,Wicklow,6,2020,94.0
+A67,Wicklow,9,2020,78.0
+A67,Wicklow,12,2020,96.0
+A67,Wicklow,3,2021,47.0
+A67,Wicklow,6,2021,32.0
+A67,Wicklow,9,2021,58.0
+A67,Wicklow,12,2021,51.0
+A67,Wicklow,3,2022,111.0
+A67,Wicklow,6,2022,81.0
+A67,Wicklow,9,2022,78.0
+A67,Wicklow,12,2022,130.0
+A67,Wicklow,3,2023,91.0
+A67,Wicklow,6,2023,143.0
+A67,Wicklow,9,2023,167.0
+A67,Wicklow,12,2023,116.0
+A67,Wicklow,3,2024,83.0
+A67,Wicklow,6,2024,91.0
+A75,Castleblaney,3,2012,8.0
+A75,Castleblaney,6,2012,7.0
+A75,Castleblaney,9,2012,8.0
+A75,Castleblaney,12,2012,1.0
+A75,Castleblaney,3,2013,9.0
+A75,Castleblaney,6,2013,2.0
+A75,Castleblaney,9,2013,5.0
+A75,Castleblaney,12,2013,18.0
+A75,Castleblaney,3,2014,7.0
+A75,Castleblaney,6,2014,2.0
+A75,Castleblaney,9,2014,5.0
+A75,Castleblaney,12,2014,7.0
+A75,Castleblaney,3,2015,7.0
+A75,Castleblaney,6,2015,6.0
+A75,Castleblaney,9,2015,12.0
+A75,Castleblaney,12,2015,13.0
+A75,Castleblaney,3,2016,7.0
+A75,Castleblaney,6,2016,3.0
+A75,Castleblaney,9,2016,4.0
+A75,Castleblaney,12,2016,5.0
+A75,Castleblaney,3,2017,4.0
+A75,Castleblaney,6,2017,7.0
+A75,Castleblaney,9,2017,12.0
+A75,Castleblaney,12,2017,13.0
+A75,Castleblaney,3,2018,6.0
+A75,Castleblaney,6,2018,7.0
+A75,Castleblaney,9,2018,12.0
+A75,Castleblaney,12,2018,5.0
+A75,Castleblaney,3,2019,25.0
+A75,Castleblaney,6,2019,16.0
+A75,Castleblaney,9,2019,14.0
+A75,Castleblaney,12,2019,22.0
+A75,Castleblaney,3,2020,4.0
+A75,Castleblaney,6,2020,6.0
+A75,Castleblaney,9,2020,25.0
+A75,Castleblaney,12,2020,32.0
+A75,Castleblaney,3,2021,20.0
+A75,Castleblaney,6,2021,14.0
+A75,Castleblaney,9,2021,13.0
+A75,Castleblaney,12,2021,12.0
+A75,Castleblaney,3,2022,13.0
+A75,Castleblaney,6,2022,21.0
+A75,Castleblaney,9,2022,19.0
+A75,Castleblaney,12,2022,58.0
+A75,Castleblaney,3,2023,10.0
+A75,Castleblaney,6,2023,10.0
+A75,Castleblaney,9,2023,20.0
+A75,Castleblaney,12,2023,22.0
+A75,Castleblaney,3,2024,26.0
+A75,Castleblaney,6,2024,26.0
+A81,Carrickmacross,3,2012,27.0
+A81,Carrickmacross,6,2012,2.0
+A81,Carrickmacross,9,2012,8.0
+A81,Carrickmacross,12,2012,2.0
+A81,Carrickmacross,3,2013,3.0
+A81,Carrickmacross,6,2013,2.0
+A81,Carrickmacross,9,2013,5.0
+A81,Carrickmacross,12,2013,8.0
+A81,Carrickmacross,3,2014,3.0
+A81,Carrickmacross,6,2014,7.0
+A81,Carrickmacross,9,2014,3.0
+A81,Carrickmacross,12,2014,9.0
+A81,Carrickmacross,3,2015,6.0
+A81,Carrickmacross,6,2015,5.0
+A81,Carrickmacross,9,2015,5.0
+A81,Carrickmacross,12,2015,6.0
+A81,Carrickmacross,3,2016,2.0
+A81,Carrickmacross,6,2016,9.0
+A81,Carrickmacross,9,2016,5.0
+A81,Carrickmacross,12,2016,7.0
+A81,Carrickmacross,3,2017,10.0
+A81,Carrickmacross,6,2017,5.0
+A81,Carrickmacross,9,2017,7.0
+A81,Carrickmacross,12,2017,13.0
+A81,Carrickmacross,3,2018,7.0
+A81,Carrickmacross,6,2018,10.0
+A81,Carrickmacross,9,2018,11.0
+A81,Carrickmacross,12,2018,6.0
+A81,Carrickmacross,3,2019,19.0
+A81,Carrickmacross,6,2019,16.0
+A81,Carrickmacross,9,2019,28.0
+A81,Carrickmacross,12,2019,21.0
+A81,Carrickmacross,3,2020,20.0
+A81,Carrickmacross,6,2020,11.0
+A81,Carrickmacross,9,2020,15.0
+A81,Carrickmacross,12,2020,11.0
+A81,Carrickmacross,3,2021,8.0
+A81,Carrickmacross,6,2021,13.0
+A81,Carrickmacross,9,2021,6.0
+A81,Carrickmacross,12,2021,31.0
+A81,Carrickmacross,3,2022,16.0
+A81,Carrickmacross,6,2022,29.0
+A81,Carrickmacross,9,2022,10.0
+A81,Carrickmacross,12,2022,18.0
+A81,Carrickmacross,3,2023,7.0
+A81,Carrickmacross,6,2023,13.0
+A81,Carrickmacross,9,2023,8.0
+A81,Carrickmacross,12,2023,9.0
+A81,Carrickmacross,3,2024,22.0
+A81,Carrickmacross,6,2024,20.0
+A82,Kells,3,2012,15.0
+A82,Kells,6,2012,18.0
+A82,Kells,9,2012,12.0
+A82,Kells,12,2012,22.0
+A82,Kells,3,2013,7.0
+A82,Kells,6,2013,13.0
+A82,Kells,9,2013,8.0
+A82,Kells,12,2013,15.0
+A82,Kells,3,2014,10.0
+A82,Kells,6,2014,17.0
+A82,Kells,9,2014,16.0
+A82,Kells,12,2014,24.0
+A82,Kells,3,2015,12.0
+A82,Kells,6,2015,12.0
+A82,Kells,9,2015,19.0
+A82,Kells,12,2015,26.0
+A82,Kells,3,2016,19.0
+A82,Kells,6,2016,34.0
+A82,Kells,9,2016,17.0
+A82,Kells,12,2016,22.0
+A82,Kells,3,2017,15.0
+A82,Kells,6,2017,15.0
+A82,Kells,9,2017,16.0
+A82,Kells,12,2017,28.0
+A82,Kells,3,2018,17.0
+A82,Kells,6,2018,26.0
+A82,Kells,9,2018,21.0
+A82,Kells,12,2018,36.0
+A82,Kells,3,2019,26.0
+A82,Kells,6,2019,21.0
+A82,Kells,9,2019,33.0
+A82,Kells,12,2019,33.0
+A82,Kells,3,2020,56.0
+A82,Kells,6,2020,38.0
+A82,Kells,9,2020,73.0
+A82,Kells,12,2020,69.0
+A82,Kells,3,2021,38.0
+A82,Kells,6,2021,49.0
+A82,Kells,9,2021,23.0
+A82,Kells,12,2021,46.0
+A82,Kells,3,2022,37.0
+A82,Kells,6,2022,37.0
+A82,Kells,9,2022,35.0
+A82,Kells,12,2022,55.0
+A82,Kells,3,2023,40.0
+A82,Kells,6,2023,41.0
+A82,Kells,9,2023,58.0
+A82,Kells,12,2023,63.0
+A82,Kells,3,2024,47.0
+A82,Kells,6,2024,53.0
+A83,Enfield,3,2012,2.0
+A83,Enfield,6,2012,2.0
+A83,Enfield,9,2012,5.0
+A83,Enfield,12,2012,5.0
+A83,Enfield,3,2013,2.0
+A83,Enfield,6,2013,2.0
+A83,Enfield,9,2013,5.0
+A83,Enfield,12,2013,3.0
+A83,Enfield,3,2014,4.0
+A83,Enfield,6,2014,1.0
+A83,Enfield,9,2014,4.0
+A83,Enfield,12,2014,5.0
+A83,Enfield,3,2015,9.0
+A83,Enfield,6,2015,13.0
+A83,Enfield,9,2015,8.0
+A83,Enfield,12,2015,4.0
+A83,Enfield,3,2016,3.0
+A83,Enfield,6,2016,6.0
+A83,Enfield,9,2016,20.0
+A83,Enfield,12,2016,15.0
+A83,Enfield,3,2017,14.0
+A83,Enfield,6,2017,21.0
+A83,Enfield,9,2017,20.0
+A83,Enfield,12,2017,11.0
+A83,Enfield,3,2018,10.0
+A83,Enfield,6,2018,11.0
+A83,Enfield,9,2018,6.0
+A83,Enfield,12,2018,27.0
+A83,Enfield,3,2019,4.0
+A83,Enfield,6,2019,11.0
+A83,Enfield,9,2019,23.0
+A83,Enfield,12,2019,15.0
+A83,Enfield,3,2020,10.0
+A83,Enfield,6,2020,15.0
+A83,Enfield,9,2020,23.0
+A83,Enfield,12,2020,13.0
+A83,Enfield,3,2021,27.0
+A83,Enfield,6,2021,24.0
+A83,Enfield,9,2021,18.0
+A83,Enfield,12,2021,26.0
+A83,Enfield,3,2022,22.0
+A83,Enfield,6,2022,26.0
+A83,Enfield,9,2022,31.0
+A83,Enfield,12,2022,35.0
+A83,Enfield,3,2023,9.0
+A83,Enfield,6,2023,21.0
+A83,Enfield,9,2023,25.0
+A83,Enfield,12,2023,28.0
+A83,Enfield,3,2024,60.0
+A83,Enfield,6,2024,19.0
+A84,Ashbourne,3,2012,3.0
+A84,Ashbourne,6,2012,6.0
+A84,Ashbourne,9,2012,7.0
+A84,Ashbourne,12,2012,8.0
+A84,Ashbourne,3,2013,0.0
+A84,Ashbourne,6,2013,7.0
+A84,Ashbourne,9,2013,7.0
+A84,Ashbourne,12,2013,11.0
+A84,Ashbourne,3,2014,9.0
+A84,Ashbourne,6,2014,8.0
+A84,Ashbourne,9,2014,6.0
+A84,Ashbourne,12,2014,18.0
+A84,Ashbourne,3,2015,12.0
+A84,Ashbourne,6,2015,18.0
+A84,Ashbourne,9,2015,17.0
+A84,Ashbourne,12,2015,18.0
+A84,Ashbourne,3,2016,22.0
+A84,Ashbourne,6,2016,20.0
+A84,Ashbourne,9,2016,25.0
+A84,Ashbourne,12,2016,34.0
+A84,Ashbourne,3,2017,51.0
+A84,Ashbourne,6,2017,64.0
+A84,Ashbourne,9,2017,101.0
+A84,Ashbourne,12,2017,97.0
+A84,Ashbourne,3,2018,53.0
+A84,Ashbourne,6,2018,37.0
+A84,Ashbourne,9,2018,71.0
+A84,Ashbourne,12,2018,68.0
+A84,Ashbourne,3,2019,64.0
+A84,Ashbourne,6,2019,67.0
+A84,Ashbourne,9,2019,30.0
+A84,Ashbourne,12,2019,8.0
+A84,Ashbourne,3,2020,11.0
+A84,Ashbourne,6,2020,1.0
+A84,Ashbourne,9,2020,2.0
+A84,Ashbourne,12,2020,14.0
+A84,Ashbourne,3,2021,2.0
+A84,Ashbourne,6,2021,0.0
+A84,Ashbourne,9,2021,2.0
+A84,Ashbourne,12,2021,18.0
+A84,Ashbourne,3,2022,3.0
+A84,Ashbourne,6,2022,2.0
+A84,Ashbourne,9,2022,5.0
+A84,Ashbourne,12,2022,12.0
+A84,Ashbourne,3,2023,10.0
+A84,Ashbourne,6,2023,9.0
+A84,Ashbourne,9,2023,12.0
+A84,Ashbourne,12,2023,9.0
+A84,Ashbourne,3,2024,7.0
+A84,Ashbourne,6,2024,4.0
+A85,Dunshaughlin,3,2012,2.0
+A85,Dunshaughlin,6,2012,3.0
+A85,Dunshaughlin,9,2012,1.0
+A85,Dunshaughlin,12,2012,3.0
+A85,Dunshaughlin,3,2013,2.0
+A85,Dunshaughlin,6,2013,2.0
+A85,Dunshaughlin,9,2013,1.0
+A85,Dunshaughlin,12,2013,5.0
+A85,Dunshaughlin,3,2014,5.0
+A85,Dunshaughlin,6,2014,3.0
+A85,Dunshaughlin,9,2014,12.0
+A85,Dunshaughlin,12,2014,14.0
+A85,Dunshaughlin,3,2015,2.0
+A85,Dunshaughlin,6,2015,13.0
+A85,Dunshaughlin,9,2015,8.0
+A85,Dunshaughlin,12,2015,17.0
+A85,Dunshaughlin,3,2016,7.0
+A85,Dunshaughlin,6,2016,10.0
+A85,Dunshaughlin,9,2016,17.0
+A85,Dunshaughlin,12,2016,10.0
+A85,Dunshaughlin,3,2017,20.0
+A85,Dunshaughlin,6,2017,26.0
+A85,Dunshaughlin,9,2017,26.0
+A85,Dunshaughlin,12,2017,53.0
+A85,Dunshaughlin,3,2018,47.0
+A85,Dunshaughlin,6,2018,43.0
+A85,Dunshaughlin,9,2018,50.0
+A85,Dunshaughlin,12,2018,99.0
+A85,Dunshaughlin,3,2019,45.0
+A85,Dunshaughlin,6,2019,183.0
+A85,Dunshaughlin,9,2019,109.0
+A85,Dunshaughlin,12,2019,141.0
+A85,Dunshaughlin,3,2020,82.0
+A85,Dunshaughlin,6,2020,58.0
+A85,Dunshaughlin,9,2020,52.0
+A85,Dunshaughlin,12,2020,70.0
+A85,Dunshaughlin,3,2021,19.0
+A85,Dunshaughlin,6,2021,22.0
+A85,Dunshaughlin,9,2021,48.0
+A85,Dunshaughlin,12,2021,49.0
+A85,Dunshaughlin,3,2022,6.0
+A85,Dunshaughlin,6,2022,48.0
+A85,Dunshaughlin,9,2022,81.0
+A85,Dunshaughlin,12,2022,124.0
+A85,Dunshaughlin,3,2023,48.0
+A85,Dunshaughlin,6,2023,27.0
+A85,Dunshaughlin,9,2023,70.0
+A85,Dunshaughlin,12,2023,41.0
+A85,Dunshaughlin,3,2024,44.0
+A85,Dunshaughlin,6,2024,43.0
+A86,Dunboyne,3,2012,0.0
+A86,Dunboyne,6,2012,0.0
+A86,Dunboyne,9,2012,1.0
+A86,Dunboyne,12,2012,0.0
+A86,Dunboyne,3,2013,1.0
+A86,Dunboyne,6,2013,1.0
+A86,Dunboyne,9,2013,0.0
+A86,Dunboyne,12,2013,0.0
+A86,Dunboyne,3,2014,1.0
+A86,Dunboyne,6,2014,2.0
+A86,Dunboyne,9,2014,4.0
+A86,Dunboyne,12,2014,3.0
+A86,Dunboyne,3,2015,2.0
+A86,Dunboyne,6,2015,0.0
+A86,Dunboyne,9,2015,4.0
+A86,Dunboyne,12,2015,1.0
+A86,Dunboyne,3,2016,8.0
+A86,Dunboyne,6,2016,1.0
+A86,Dunboyne,9,2016,5.0
+A86,Dunboyne,12,2016,3.0
+A86,Dunboyne,3,2017,2.0
+A86,Dunboyne,6,2017,3.0
+A86,Dunboyne,9,2017,10.0
+A86,Dunboyne,12,2017,5.0
+A86,Dunboyne,3,2018,1.0
+A86,Dunboyne,6,2018,1.0
+A86,Dunboyne,9,2018,3.0
+A86,Dunboyne,12,2018,3.0
+A86,Dunboyne,3,2019,29.0
+A86,Dunboyne,6,2019,1.0
+A86,Dunboyne,9,2019,5.0
+A86,Dunboyne,12,2019,3.0
+A86,Dunboyne,3,2020,0.0
+A86,Dunboyne,6,2020,2.0
+A86,Dunboyne,9,2020,3.0
+A86,Dunboyne,12,2020,11.0
+A86,Dunboyne,3,2021,25.0
+A86,Dunboyne,6,2021,16.0
+A86,Dunboyne,9,2021,11.0
+A86,Dunboyne,12,2021,13.0
+A86,Dunboyne,3,2022,32.0
+A86,Dunboyne,6,2022,13.0
+A86,Dunboyne,9,2022,2.0
+A86,Dunboyne,12,2022,3.0
+A86,Dunboyne,3,2023,0.0
+A86,Dunboyne,6,2023,14.0
+A86,Dunboyne,9,2023,3.0
+A86,Dunboyne,12,2023,27.0
+A86,Dunboyne,3,2024,3.0
+A86,Dunboyne,6,2024,2.0
+A91,Dundalk,3,2012,10.0
+A91,Dundalk,6,2012,15.0
+A91,Dundalk,9,2012,18.0
+A91,Dundalk,12,2012,44.0
+A91,Dundalk,3,2013,36.0
+A91,Dundalk,6,2013,61.0
+A91,Dundalk,9,2013,26.0
+A91,Dundalk,12,2013,19.0
+A91,Dundalk,3,2014,15.0
+A91,Dundalk,6,2014,18.0
+A91,Dundalk,9,2014,13.0
+A91,Dundalk,12,2014,19.0
+A91,Dundalk,3,2015,27.0
+A91,Dundalk,6,2015,14.0
+A91,Dundalk,9,2015,18.0
+A91,Dundalk,12,2015,22.0
+A91,Dundalk,3,2016,23.0
+A91,Dundalk,6,2016,51.0
+A91,Dundalk,9,2016,28.0
+A91,Dundalk,12,2016,56.0
+A91,Dundalk,3,2017,62.0
+A91,Dundalk,6,2017,31.0
+A91,Dundalk,9,2017,69.0
+A91,Dundalk,12,2017,67.0
+A91,Dundalk,3,2018,67.0
+A91,Dundalk,6,2018,78.0
+A91,Dundalk,9,2018,62.0
+A91,Dundalk,12,2018,88.0
+A91,Dundalk,3,2019,105.0
+A91,Dundalk,6,2019,88.0
+A91,Dundalk,9,2019,120.0
+A91,Dundalk,12,2019,120.0
+A91,Dundalk,3,2020,56.0
+A91,Dundalk,6,2020,91.0
+A91,Dundalk,9,2020,94.0
+A91,Dundalk,12,2020,114.0
+A91,Dundalk,3,2021,86.0
+A91,Dundalk,6,2021,99.0
+A91,Dundalk,9,2021,90.0
+A91,Dundalk,12,2021,100.0
+A91,Dundalk,3,2022,80.0
+A91,Dundalk,6,2022,135.0
+A91,Dundalk,9,2022,104.0
+A91,Dundalk,12,2022,59.0
+A91,Dundalk,3,2023,48.0
+A91,Dundalk,6,2023,42.0
+A91,Dundalk,9,2023,89.0
+A91,Dundalk,12,2023,196.0
+A91,Dundalk,3,2024,88.0
+A91,Dundalk,6,2024,96.0
+A92,Drogheda,3,2012,15.0
+A92,Drogheda,6,2012,15.0
+A92,Drogheda,9,2012,46.0
+A92,Drogheda,12,2012,41.0
+A92,Drogheda,3,2013,15.0
+A92,Drogheda,6,2013,21.0
+A92,Drogheda,9,2013,13.0
+A92,Drogheda,12,2013,26.0
+A92,Drogheda,3,2014,14.0
+A92,Drogheda,6,2014,19.0
+A92,Drogheda,9,2014,42.0
+A92,Drogheda,12,2014,26.0
+A92,Drogheda,3,2015,48.0
+A92,Drogheda,6,2015,22.0
+A92,Drogheda,9,2015,29.0
+A92,Drogheda,12,2015,50.0
+A92,Drogheda,3,2016,34.0
+A92,Drogheda,6,2016,57.0
+A92,Drogheda,9,2016,57.0
+A92,Drogheda,12,2016,57.0
+A92,Drogheda,3,2017,52.0
+A92,Drogheda,6,2017,95.0
+A92,Drogheda,9,2017,83.0
+A92,Drogheda,12,2017,153.0
+A92,Drogheda,3,2018,130.0
+A92,Drogheda,6,2018,167.0
+A92,Drogheda,9,2018,132.0
+A92,Drogheda,12,2018,177.0
+A92,Drogheda,3,2019,93.0
+A92,Drogheda,6,2019,133.0
+A92,Drogheda,9,2019,149.0
+A92,Drogheda,12,2019,161.0
+A92,Drogheda,3,2020,159.0
+A92,Drogheda,6,2020,190.0
+A92,Drogheda,9,2020,132.0
+A92,Drogheda,12,2020,218.0
+A92,Drogheda,3,2021,193.0
+A92,Drogheda,6,2021,147.0
+A92,Drogheda,9,2021,152.0
+A92,Drogheda,12,2021,215.0
+A92,Drogheda,3,2022,225.0
+A92,Drogheda,6,2022,225.0
+A92,Drogheda,9,2022,155.0
+A92,Drogheda,12,2022,218.0
+A92,Drogheda,3,2023,163.0
+A92,Drogheda,6,2023,241.0
+A92,Drogheda,9,2023,223.0
+A92,Drogheda,12,2023,298.0
+A92,Drogheda,3,2024,203.0
+A92,Drogheda,6,2024,178.0
+A94,Blackrock,3,2012,0.0
+A94,Blackrock,6,2012,6.0
+A94,Blackrock,9,2012,3.0
+A94,Blackrock,12,2012,2.0
+A94,Blackrock,3,2013,3.0
+A94,Blackrock,6,2013,0.0
+A94,Blackrock,9,2013,4.0
+A94,Blackrock,12,2013,0.0
+A94,Blackrock,3,2014,102.0
+A94,Blackrock,6,2014,4.0
+A94,Blackrock,9,2014,14.0
+A94,Blackrock,12,2014,7.0
+A94,Blackrock,3,2015,3.0
+A94,Blackrock,6,2015,3.0
+A94,Blackrock,9,2015,4.0
+A94,Blackrock,12,2015,2.0
+A94,Blackrock,3,2016,6.0
+A94,Blackrock,6,2016,3.0
+A94,Blackrock,9,2016,62.0
+A94,Blackrock,12,2016,13.0
+A94,Blackrock,3,2017,7.0
+A94,Blackrock,6,2017,22.0
+A94,Blackrock,9,2017,3.0
+A94,Blackrock,12,2017,9.0
+A94,Blackrock,3,2018,4.0
+A94,Blackrock,6,2018,19.0
+A94,Blackrock,9,2018,20.0
+A94,Blackrock,12,2018,50.0
+A94,Blackrock,3,2019,3.0
+A94,Blackrock,6,2019,12.0
+A94,Blackrock,9,2019,16.0
+A94,Blackrock,12,2019,17.0
+A94,Blackrock,3,2020,21.0
+A94,Blackrock,6,2020,11.0
+A94,Blackrock,9,2020,46.0
+A94,Blackrock,12,2020,62.0
+A94,Blackrock,3,2021,20.0
+A94,Blackrock,6,2021,0.0
+A94,Blackrock,9,2021,3.0
+A94,Blackrock,12,2021,35.0
+A94,Blackrock,3,2022,14.0
+A94,Blackrock,6,2022,6.0
+A94,Blackrock,9,2022,40.0
+A94,Blackrock,12,2022,166.0
+A94,Blackrock,3,2023,258.0
+A94,Blackrock,6,2023,35.0
+A94,Blackrock,9,2023,35.0
+A94,Blackrock,12,2023,478.0
+A94,Blackrock,3,2024,39.0
+A94,Blackrock,6,2024,6.0
+A96,Glenageary,3,2012,4.0
+A96,Glenageary,6,2012,3.0
+A96,Glenageary,9,2012,20.0
+A96,Glenageary,12,2012,19.0
+A96,Glenageary,3,2013,12.0
+A96,Glenageary,6,2013,11.0
+A96,Glenageary,9,2013,15.0
+A96,Glenageary,12,2013,7.0
+A96,Glenageary,3,2014,10.0
+A96,Glenageary,6,2014,38.0
+A96,Glenageary,9,2014,24.0
+A96,Glenageary,12,2014,122.0
+A96,Glenageary,3,2015,26.0
+A96,Glenageary,6,2015,32.0
+A96,Glenageary,9,2015,38.0
+A96,Glenageary,12,2015,33.0
+A96,Glenageary,3,2016,48.0
+A96,Glenageary,6,2016,56.0
+A96,Glenageary,9,2016,31.0
+A96,Glenageary,12,2016,186.0
+A96,Glenageary,3,2017,212.0
+A96,Glenageary,6,2017,145.0
+A96,Glenageary,9,2017,87.0
+A96,Glenageary,12,2017,97.0
+A96,Glenageary,3,2018,87.0
+A96,Glenageary,6,2018,171.0
+A96,Glenageary,9,2018,149.0
+A96,Glenageary,12,2018,128.0
+A96,Glenageary,3,2019,41.0
+A96,Glenageary,6,2019,34.0
+A96,Glenageary,9,2019,209.0
+A96,Glenageary,12,2019,74.0
+A96,Glenageary,3,2020,15.0
+A96,Glenageary,6,2020,10.0
+A96,Glenageary,9,2020,11.0
+A96,Glenageary,12,2020,108.0
+A96,Glenageary,3,2021,9.0
+A96,Glenageary,6,2021,127.0
+A96,Glenageary,9,2021,73.0
+A96,Glenageary,12,2021,201.0
+A96,Glenageary,3,2022,81.0
+A96,Glenageary,6,2022,22.0
+A96,Glenageary,9,2022,14.0
+A96,Glenageary,12,2022,109.0
+A96,Glenageary,3,2023,109.0
+A96,Glenageary,6,2023,30.0
+A96,Glenageary,9,2023,158.0
+A96,Glenageary,12,2023,137.0
+A96,Glenageary,3,2024,52.0
+A96,Glenageary,6,2024,191.0
+A98,Bray,3,2012,3.0
+A98,Bray,6,2012,5.0
+A98,Bray,9,2012,20.0
+A98,Bray,12,2012,7.0
+A98,Bray,3,2013,5.0
+A98,Bray,6,2013,9.0
+A98,Bray,9,2013,10.0
+A98,Bray,12,2013,10.0
+A98,Bray,3,2014,7.0
+A98,Bray,6,2014,8.0
+A98,Bray,9,2014,8.0
+A98,Bray,12,2014,20.0
+A98,Bray,3,2015,16.0
+A98,Bray,6,2015,5.0
+A98,Bray,9,2015,17.0
+A98,Bray,12,2015,20.0
+A98,Bray,3,2016,20.0
+A98,Bray,6,2016,12.0
+A98,Bray,9,2016,17.0
+A98,Bray,12,2016,11.0
+A98,Bray,3,2017,16.0
+A98,Bray,6,2017,18.0
+A98,Bray,9,2017,7.0
+A98,Bray,12,2017,20.0
+A98,Bray,3,2018,9.0
+A98,Bray,6,2018,6.0
+A98,Bray,9,2018,7.0
+A98,Bray,12,2018,16.0
+A98,Bray,3,2019,25.0
+A98,Bray,6,2019,29.0
+A98,Bray,9,2019,14.0
+A98,Bray,12,2019,13.0
+A98,Bray,3,2020,15.0
+A98,Bray,6,2020,4.0
+A98,Bray,9,2020,28.0
+A98,Bray,12,2020,81.0
+A98,Bray,3,2021,13.0
+A98,Bray,6,2021,41.0
+A98,Bray,9,2021,76.0
+A98,Bray,12,2021,48.0
+A98,Bray,3,2022,38.0
+A98,Bray,6,2022,30.0
+A98,Bray,9,2022,120.0
+A98,Bray,12,2022,116.0
+A98,Bray,3,2023,12.0
+A98,Bray,6,2023,44.0
+A98,Bray,9,2023,36.0
+A98,Bray,12,2023,35.0
+A98,Bray,3,2024,21.0
+A98,Bray,6,2024,73.0
+All,,3,2012,1131.0
+All,,6,2012,1117.0
+All,,9,2012,1205.0
+All,,12,2012,1458.0
+All,,3,2013,889.0
+All,,6,2013,1146.0
+All,,9,2013,1033.0
+All,,12,2013,1507.0
+All,,3,2014,1094.0
+All,,6,2014,1318.0
+All,,9,2014,1404.0
+All,,12,2014,1702.0
+All,,3,2015,1371.0
+All,,6,2015,1570.0
+All,,9,2015,2033.0
+All,,12,2015,2245.0
+All,,3,2016,1944.0
+All,,6,2016,2381.0
+All,,9,2016,2470.0
+All,,12,2016,2980.0
+All,,3,2017,2752.0
+All,,6,2017,3238.0
+All,,9,2017,3728.0
+All,,12,2017,4535.0
+All,,3,2018,3446.0
+All,,6,2018,4371.0
+All,,9,2018,4608.0
+All,,12,2018,5416.0
+All,,3,2019,4227.0
+All,,6,2019,4812.0
+All,,9,2019,5624.0
+All,,12,2019,6412.0
+All,,3,2020,4932.0
+All,,6,2020,3229.0
+All,,9,2020,5039.0
+All,,12,2020,7323.0
+All,,3,2021,3963.0
+All,,6,2021,4977.0
+All,,9,2021,4637.0
+All,,12,2021,6924.0
+All,,3,2022,5611.0
+All,,6,2022,7609.0
+All,,9,2022,7377.0
+All,,12,2022,9093.0
+All,,3,2023,6646.0
+All,,6,2023,7277.0
+All,,9,2023,8425.0
+All,,12,2023,10234.0
+All,,3,2024,5846.0
+All,,6,2024,6884.0
+C15,Navan,3,2012,19.0
+C15,Navan,6,2012,24.0
+C15,Navan,9,2012,15.0
+C15,Navan,12,2012,27.0
+C15,Navan,3,2013,24.0
+C15,Navan,6,2013,19.0
+C15,Navan,9,2013,11.0
+C15,Navan,12,2013,18.0
+C15,Navan,3,2014,10.0
+C15,Navan,6,2014,23.0
+C15,Navan,9,2014,18.0
+C15,Navan,12,2014,16.0
+C15,Navan,3,2015,14.0
+C15,Navan,6,2015,18.0
+C15,Navan,9,2015,26.0
+C15,Navan,12,2015,23.0
+C15,Navan,3,2016,20.0
+C15,Navan,6,2016,46.0
+C15,Navan,9,2016,72.0
+C15,Navan,12,2016,42.0
+C15,Navan,3,2017,40.0
+C15,Navan,6,2017,34.0
+C15,Navan,9,2017,67.0
+C15,Navan,12,2017,89.0
+C15,Navan,3,2018,88.0
+C15,Navan,6,2018,109.0
+C15,Navan,9,2018,154.0
+C15,Navan,12,2018,170.0
+C15,Navan,3,2019,106.0
+C15,Navan,6,2019,142.0
+C15,Navan,9,2019,150.0
+C15,Navan,12,2019,95.0
+C15,Navan,3,2020,120.0
+C15,Navan,6,2020,112.0
+C15,Navan,9,2020,142.0
+C15,Navan,12,2020,106.0
+C15,Navan,3,2021,61.0
+C15,Navan,6,2021,64.0
+C15,Navan,9,2021,55.0
+C15,Navan,12,2021,151.0
+C15,Navan,3,2022,71.0
+C15,Navan,6,2022,219.0
+C15,Navan,9,2022,125.0
+C15,Navan,12,2022,306.0
+C15,Navan,3,2023,129.0
+C15,Navan,6,2023,212.0
+C15,Navan,9,2023,209.0
+C15,Navan,12,2023,254.0
+C15,Navan,3,2024,135.0
+C15,Navan,6,2024,251.0
+D01,Dublin 1,3,2012,37.0
+D01,Dublin 1,6,2012,0.0
+D01,Dublin 1,9,2012,0.0
+D01,Dublin 1,12,2012,0.0
+D01,Dublin 1,3,2013,1.0
+D01,Dublin 1,6,2013,1.0
+D01,Dublin 1,9,2013,7.0
+D01,Dublin 1,12,2013,8.0
+D01,Dublin 1,3,2014,2.0
+D01,Dublin 1,6,2014,158.0
+D01,Dublin 1,9,2014,7.0
+D01,Dublin 1,12,2014,4.0
+D01,Dublin 1,3,2015,11.0
+D01,Dublin 1,6,2015,10.0
+D01,Dublin 1,9,2015,36.0
+D01,Dublin 1,12,2015,10.0
+D01,Dublin 1,3,2016,17.0
+D01,Dublin 1,6,2016,2.0
+D01,Dublin 1,9,2016,2.0
+D01,Dublin 1,12,2016,2.0
+D01,Dublin 1,3,2017,16.0
+D01,Dublin 1,6,2017,0.0
+D01,Dublin 1,9,2017,30.0
+D01,Dublin 1,12,2017,10.0
+D01,Dublin 1,3,2018,10.0
+D01,Dublin 1,6,2018,3.0
+D01,Dublin 1,9,2018,12.0
+D01,Dublin 1,12,2018,5.0
+D01,Dublin 1,3,2019,29.0
+D01,Dublin 1,6,2019,25.0
+D01,Dublin 1,9,2019,15.0
+D01,Dublin 1,12,2019,84.0
+D01,Dublin 1,3,2020,102.0
+D01,Dublin 1,6,2020,15.0
+D01,Dublin 1,9,2020,64.0
+D01,Dublin 1,12,2020,107.0
+D01,Dublin 1,3,2021,60.0
+D01,Dublin 1,6,2021,50.0
+D01,Dublin 1,9,2021,92.0
+D01,Dublin 1,12,2021,101.0
+D01,Dublin 1,3,2022,229.0
+D01,Dublin 1,6,2022,79.0
+D01,Dublin 1,9,2022,256.0
+D01,Dublin 1,12,2022,114.0
+D01,Dublin 1,3,2023,126.0
+D01,Dublin 1,6,2023,5.0
+D01,Dublin 1,9,2023,3.0
+D01,Dublin 1,12,2023,33.0
+D01,Dublin 1,3,2024,46.0
+D01,Dublin 1,6,2024,9.0
+D02,Dublin 2,3,2012,2.0
+D02,Dublin 2,6,2012,3.0
+D02,Dublin 2,9,2012,6.0
+D02,Dublin 2,12,2012,2.0
+D02,Dublin 2,3,2013,2.0
+D02,Dublin 2,6,2013,1.0
+D02,Dublin 2,9,2013,1.0
+D02,Dublin 2,12,2013,0.0
+D02,Dublin 2,3,2014,0.0
+D02,Dublin 2,6,2014,1.0
+D02,Dublin 2,9,2014,5.0
+D02,Dublin 2,12,2014,4.0
+D02,Dublin 2,3,2015,12.0
+D02,Dublin 2,6,2015,4.0
+D02,Dublin 2,9,2015,8.0
+D02,Dublin 2,12,2015,3.0
+D02,Dublin 2,3,2016,24.0
+D02,Dublin 2,6,2016,9.0
+D02,Dublin 2,9,2016,5.0
+D02,Dublin 2,12,2016,8.0
+D02,Dublin 2,3,2017,5.0
+D02,Dublin 2,6,2017,18.0
+D02,Dublin 2,9,2017,95.0
+D02,Dublin 2,12,2017,9.0
+D02,Dublin 2,3,2018,0.0
+D02,Dublin 2,6,2018,7.0
+D02,Dublin 2,9,2018,42.0
+D02,Dublin 2,12,2018,172.0
+D02,Dublin 2,3,2019,126.0
+D02,Dublin 2,6,2019,17.0
+D02,Dublin 2,9,2019,4.0
+D02,Dublin 2,12,2019,0.0
+D02,Dublin 2,3,2020,57.0
+D02,Dublin 2,6,2020,4.0
+D02,Dublin 2,9,2020,4.0
+D02,Dublin 2,12,2020,11.0
+D02,Dublin 2,3,2021,3.0
+D02,Dublin 2,6,2021,37.0
+D02,Dublin 2,9,2021,55.0
+D02,Dublin 2,12,2021,98.0
+D02,Dublin 2,3,2022,27.0
+D02,Dublin 2,6,2022,26.0
+D02,Dublin 2,9,2022,142.0
+D02,Dublin 2,12,2022,182.0
+D02,Dublin 2,3,2023,34.0
+D02,Dublin 2,6,2023,3.0
+D02,Dublin 2,9,2023,8.0
+D02,Dublin 2,12,2023,24.0
+D02,Dublin 2,3,2024,2.0
+D02,Dublin 2,6,2024,33.0
+D03,Dublin 3,3,2012,1.0
+D03,Dublin 3,6,2012,10.0
+D03,Dublin 3,9,2012,9.0
+D03,Dublin 3,12,2012,1.0
+D03,Dublin 3,3,2013,0.0
+D03,Dublin 3,6,2013,6.0
+D03,Dublin 3,9,2013,5.0
+D03,Dublin 3,12,2013,5.0
+D03,Dublin 3,3,2014,0.0
+D03,Dublin 3,6,2014,5.0
+D03,Dublin 3,9,2014,69.0
+D03,Dublin 3,12,2014,5.0
+D03,Dublin 3,3,2015,3.0
+D03,Dublin 3,6,2015,7.0
+D03,Dublin 3,9,2015,7.0
+D03,Dublin 3,12,2015,6.0
+D03,Dublin 3,3,2016,1.0
+D03,Dublin 3,6,2016,4.0
+D03,Dublin 3,9,2016,24.0
+D03,Dublin 3,12,2016,12.0
+D03,Dublin 3,3,2017,10.0
+D03,Dublin 3,6,2017,7.0
+D03,Dublin 3,9,2017,4.0
+D03,Dublin 3,12,2017,23.0
+D03,Dublin 3,3,2018,17.0
+D03,Dublin 3,6,2018,5.0
+D03,Dublin 3,9,2018,32.0
+D03,Dublin 3,12,2018,39.0
+D03,Dublin 3,3,2019,10.0
+D03,Dublin 3,6,2019,17.0
+D03,Dublin 3,9,2019,5.0
+D03,Dublin 3,12,2019,41.0
+D03,Dublin 3,3,2020,14.0
+D03,Dublin 3,6,2020,7.0
+D03,Dublin 3,9,2020,14.0
+D03,Dublin 3,12,2020,8.0
+D03,Dublin 3,3,2021,5.0
+D03,Dublin 3,6,2021,3.0
+D03,Dublin 3,9,2021,9.0
+D03,Dublin 3,12,2021,79.0
+D03,Dublin 3,3,2022,48.0
+D03,Dublin 3,6,2022,15.0
+D03,Dublin 3,9,2022,9.0
+D03,Dublin 3,12,2022,9.0
+D03,Dublin 3,3,2023,18.0
+D03,Dublin 3,6,2023,21.0
+D03,Dublin 3,9,2023,10.0
+D03,Dublin 3,12,2023,55.0
+D03,Dublin 3,3,2024,5.0
+D03,Dublin 3,6,2024,66.0
+D04,Dublin 4,3,2012,4.0
+D04,Dublin 4,6,2012,5.0
+D04,Dublin 4,9,2012,12.0
+D04,Dublin 4,12,2012,1.0
+D04,Dublin 4,3,2013,2.0
+D04,Dublin 4,6,2013,5.0
+D04,Dublin 4,9,2013,2.0
+D04,Dublin 4,12,2013,1.0
+D04,Dublin 4,3,2014,9.0
+D04,Dublin 4,6,2014,4.0
+D04,Dublin 4,9,2014,15.0
+D04,Dublin 4,12,2014,11.0
+D04,Dublin 4,3,2015,1.0
+D04,Dublin 4,6,2015,7.0
+D04,Dublin 4,9,2015,2.0
+D04,Dublin 4,12,2015,14.0
+D04,Dublin 4,3,2016,4.0
+D04,Dublin 4,6,2016,1.0
+D04,Dublin 4,9,2016,38.0
+D04,Dublin 4,12,2016,2.0
+D04,Dublin 4,3,2017,13.0
+D04,Dublin 4,6,2017,7.0
+D04,Dublin 4,9,2017,19.0
+D04,Dublin 4,12,2017,83.0
+D04,Dublin 4,3,2018,8.0
+D04,Dublin 4,6,2018,11.0
+D04,Dublin 4,9,2018,8.0
+D04,Dublin 4,12,2018,32.0
+D04,Dublin 4,3,2019,18.0
+D04,Dublin 4,6,2019,24.0
+D04,Dublin 4,9,2019,25.0
+D04,Dublin 4,12,2019,57.0
+D04,Dublin 4,3,2020,60.0
+D04,Dublin 4,6,2020,22.0
+D04,Dublin 4,9,2020,35.0
+D04,Dublin 4,12,2020,29.0
+D04,Dublin 4,3,2021,10.0
+D04,Dublin 4,6,2021,31.0
+D04,Dublin 4,9,2021,23.0
+D04,Dublin 4,12,2021,46.0
+D04,Dublin 4,3,2022,38.0
+D04,Dublin 4,6,2022,38.0
+D04,Dublin 4,9,2022,51.0
+D04,Dublin 4,12,2022,10.0
+D04,Dublin 4,3,2023,21.0
+D04,Dublin 4,6,2023,40.0
+D04,Dublin 4,9,2023,103.0
+D04,Dublin 4,12,2023,134.0
+D04,Dublin 4,3,2024,15.0
+D04,Dublin 4,6,2024,4.0
+D05,Dublin 5,3,2012,2.0
+D05,Dublin 5,6,2012,2.0
+D05,Dublin 5,9,2012,2.0
+D05,Dublin 5,12,2012,1.0
+D05,Dublin 5,3,2013,8.0
+D05,Dublin 5,6,2013,12.0
+D05,Dublin 5,9,2013,3.0
+D05,Dublin 5,12,2013,2.0
+D05,Dublin 5,3,2014,5.0
+D05,Dublin 5,6,2014,0.0
+D05,Dublin 5,9,2014,3.0
+D05,Dublin 5,12,2014,2.0
+D05,Dublin 5,3,2015,2.0
+D05,Dublin 5,6,2015,3.0
+D05,Dublin 5,9,2015,1.0
+D05,Dublin 5,12,2015,6.0
+D05,Dublin 5,3,2016,0.0
+D05,Dublin 5,6,2016,4.0
+D05,Dublin 5,9,2016,4.0
+D05,Dublin 5,12,2016,13.0
+D05,Dublin 5,3,2017,8.0
+D05,Dublin 5,6,2017,26.0
+D05,Dublin 5,9,2017,2.0
+D05,Dublin 5,12,2017,12.0
+D05,Dublin 5,3,2018,5.0
+D05,Dublin 5,6,2018,1.0
+D05,Dublin 5,9,2018,59.0
+D05,Dublin 5,12,2018,27.0
+D05,Dublin 5,3,2019,5.0
+D05,Dublin 5,6,2019,15.0
+D05,Dublin 5,9,2019,4.0
+D05,Dublin 5,12,2019,7.0
+D05,Dublin 5,3,2020,10.0
+D05,Dublin 5,6,2020,1.0
+D05,Dublin 5,9,2020,73.0
+D05,Dublin 5,12,2020,52.0
+D05,Dublin 5,3,2021,7.0
+D05,Dublin 5,6,2021,2.0
+D05,Dublin 5,9,2021,1.0
+D05,Dublin 5,12,2021,82.0
+D05,Dublin 5,3,2022,3.0
+D05,Dublin 5,6,2022,18.0
+D05,Dublin 5,9,2022,6.0
+D05,Dublin 5,12,2022,2.0
+D05,Dublin 5,3,2023,6.0
+D05,Dublin 5,6,2023,4.0
+D05,Dublin 5,9,2023,0.0
+D05,Dublin 5,12,2023,0.0
+D05,Dublin 5,3,2024,1.0
+D05,Dublin 5,6,2024,92.0
+D06,Dublin 6,3,2012,2.0
+D06,Dublin 6,6,2012,2.0
+D06,Dublin 6,9,2012,11.0
+D06,Dublin 6,12,2012,3.0
+D06,Dublin 6,3,2013,4.0
+D06,Dublin 6,6,2013,1.0
+D06,Dublin 6,9,2013,9.0
+D06,Dublin 6,12,2013,9.0
+D06,Dublin 6,3,2014,2.0
+D06,Dublin 6,6,2014,10.0
+D06,Dublin 6,9,2014,17.0
+D06,Dublin 6,12,2014,22.0
+D06,Dublin 6,3,2015,14.0
+D06,Dublin 6,6,2015,25.0
+D06,Dublin 6,9,2015,15.0
+D06,Dublin 6,12,2015,19.0
+D06,Dublin 6,3,2016,12.0
+D06,Dublin 6,6,2016,10.0
+D06,Dublin 6,9,2016,22.0
+D06,Dublin 6,12,2016,5.0
+D06,Dublin 6,3,2017,5.0
+D06,Dublin 6,6,2017,41.0
+D06,Dublin 6,9,2017,30.0
+D06,Dublin 6,12,2017,57.0
+D06,Dublin 6,3,2018,40.0
+D06,Dublin 6,6,2018,71.0
+D06,Dublin 6,9,2018,43.0
+D06,Dublin 6,12,2018,18.0
+D06,Dublin 6,3,2019,18.0
+D06,Dublin 6,6,2019,9.0
+D06,Dublin 6,9,2019,27.0
+D06,Dublin 6,12,2019,7.0
+D06,Dublin 6,3,2020,18.0
+D06,Dublin 6,6,2020,0.0
+D06,Dublin 6,9,2020,54.0
+D06,Dublin 6,12,2020,80.0
+D06,Dublin 6,3,2021,4.0
+D06,Dublin 6,6,2021,18.0
+D06,Dublin 6,9,2021,12.0
+D06,Dublin 6,12,2021,18.0
+D06,Dublin 6,3,2022,46.0
+D06,Dublin 6,6,2022,18.0
+D06,Dublin 6,9,2022,27.0
+D06,Dublin 6,12,2022,21.0
+D06,Dublin 6,3,2023,4.0
+D06,Dublin 6,6,2023,52.0
+D06,Dublin 6,9,2023,8.0
+D06,Dublin 6,12,2023,27.0
+D06,Dublin 6,3,2024,9.0
+D06,Dublin 6,6,2024,3.0
+D07,Dublin 7,3,2012,3.0
+D07,Dublin 7,6,2012,8.0
+D07,Dublin 7,9,2012,1.0
+D07,Dublin 7,12,2012,0.0
+D07,Dublin 7,3,2013,9.0
+D07,Dublin 7,6,2013,8.0
+D07,Dublin 7,9,2013,6.0
+D07,Dublin 7,12,2013,17.0
+D07,Dublin 7,3,2014,3.0
+D07,Dublin 7,6,2014,32.0
+D07,Dublin 7,9,2014,4.0
+D07,Dublin 7,12,2014,9.0
+D07,Dublin 7,3,2015,8.0
+D07,Dublin 7,6,2015,5.0
+D07,Dublin 7,9,2015,19.0
+D07,Dublin 7,12,2015,6.0
+D07,Dublin 7,3,2016,7.0
+D07,Dublin 7,6,2016,35.0
+D07,Dublin 7,9,2016,10.0
+D07,Dublin 7,12,2016,23.0
+D07,Dublin 7,3,2017,6.0
+D07,Dublin 7,6,2017,10.0
+D07,Dublin 7,9,2017,59.0
+D07,Dublin 7,12,2017,15.0
+D07,Dublin 7,3,2018,29.0
+D07,Dublin 7,6,2018,15.0
+D07,Dublin 7,9,2018,1.0
+D07,Dublin 7,12,2018,27.0
+D07,Dublin 7,3,2019,6.0
+D07,Dublin 7,6,2019,6.0
+D07,Dublin 7,9,2019,21.0
+D07,Dublin 7,12,2019,10.0
+D07,Dublin 7,3,2020,5.0
+D07,Dublin 7,6,2020,4.0
+D07,Dublin 7,9,2020,37.0
+D07,Dublin 7,12,2020,57.0
+D07,Dublin 7,3,2021,35.0
+D07,Dublin 7,6,2021,12.0
+D07,Dublin 7,9,2021,41.0
+D07,Dublin 7,12,2021,80.0
+D07,Dublin 7,3,2022,152.0
+D07,Dublin 7,6,2022,219.0
+D07,Dublin 7,9,2022,143.0
+D07,Dublin 7,12,2022,22.0
+D07,Dublin 7,3,2023,24.0
+D07,Dublin 7,6,2023,9.0
+D07,Dublin 7,9,2023,13.0
+D07,Dublin 7,12,2023,8.0
+D07,Dublin 7,3,2024,33.0
+D07,Dublin 7,6,2024,20.0
+D08,Dublin 8,3,2012,3.0
+D08,Dublin 8,6,2012,2.0
+D08,Dublin 8,9,2012,2.0
+D08,Dublin 8,12,2012,4.0
+D08,Dublin 8,3,2013,1.0
+D08,Dublin 8,6,2013,65.0
+D08,Dublin 8,9,2013,17.0
+D08,Dublin 8,12,2013,4.0
+D08,Dublin 8,3,2014,11.0
+D08,Dublin 8,6,2014,8.0
+D08,Dublin 8,9,2014,4.0
+D08,Dublin 8,12,2014,7.0
+D08,Dublin 8,3,2015,12.0
+D08,Dublin 8,6,2015,2.0
+D08,Dublin 8,9,2015,5.0
+D08,Dublin 8,12,2015,15.0
+D08,Dublin 8,3,2016,3.0
+D08,Dublin 8,6,2016,32.0
+D08,Dublin 8,9,2016,45.0
+D08,Dublin 8,12,2016,4.0
+D08,Dublin 8,3,2017,27.0
+D08,Dublin 8,6,2017,68.0
+D08,Dublin 8,9,2017,13.0
+D08,Dublin 8,12,2017,1.0
+D08,Dublin 8,3,2018,22.0
+D08,Dublin 8,6,2018,17.0
+D08,Dublin 8,9,2018,105.0
+D08,Dublin 8,12,2018,24.0
+D08,Dublin 8,3,2019,24.0
+D08,Dublin 8,6,2019,41.0
+D08,Dublin 8,9,2019,50.0
+D08,Dublin 8,12,2019,145.0
+D08,Dublin 8,3,2020,129.0
+D08,Dublin 8,6,2020,15.0
+D08,Dublin 8,9,2020,8.0
+D08,Dublin 8,12,2020,96.0
+D08,Dublin 8,3,2021,12.0
+D08,Dublin 8,6,2021,1.0
+D08,Dublin 8,9,2021,29.0
+D08,Dublin 8,12,2021,62.0
+D08,Dublin 8,3,2022,7.0
+D08,Dublin 8,6,2022,12.0
+D08,Dublin 8,9,2022,88.0
+D08,Dublin 8,12,2022,20.0
+D08,Dublin 8,3,2023,4.0
+D08,Dublin 8,6,2023,60.0
+D08,Dublin 8,9,2023,213.0
+D08,Dublin 8,12,2023,780.0
+D08,Dublin 8,3,2024,141.0
+D08,Dublin 8,6,2024,7.0
+D09,Dublin 9,3,2012,0.0
+D09,Dublin 9,6,2012,1.0
+D09,Dublin 9,9,2012,21.0
+D09,Dublin 9,12,2012,51.0
+D09,Dublin 9,3,2013,9.0
+D09,Dublin 9,6,2013,3.0
+D09,Dublin 9,9,2013,1.0
+D09,Dublin 9,12,2013,26.0
+D09,Dublin 9,3,2014,0.0
+D09,Dublin 9,6,2014,1.0
+D09,Dublin 9,9,2014,12.0
+D09,Dublin 9,12,2014,7.0
+D09,Dublin 9,3,2015,11.0
+D09,Dublin 9,6,2015,2.0
+D09,Dublin 9,9,2015,10.0
+D09,Dublin 9,12,2015,19.0
+D09,Dublin 9,3,2016,18.0
+D09,Dublin 9,6,2016,59.0
+D09,Dublin 9,9,2016,33.0
+D09,Dublin 9,12,2016,19.0
+D09,Dublin 9,3,2017,10.0
+D09,Dublin 9,6,2017,1.0
+D09,Dublin 9,9,2017,19.0
+D09,Dublin 9,12,2017,20.0
+D09,Dublin 9,3,2018,21.0
+D09,Dublin 9,6,2018,82.0
+D09,Dublin 9,9,2018,29.0
+D09,Dublin 9,12,2018,101.0
+D09,Dublin 9,3,2019,27.0
+D09,Dublin 9,6,2019,86.0
+D09,Dublin 9,9,2019,136.0
+D09,Dublin 9,12,2019,156.0
+D09,Dublin 9,3,2020,3.0
+D09,Dublin 9,6,2020,67.0
+D09,Dublin 9,9,2020,10.0
+D09,Dublin 9,12,2020,118.0
+D09,Dublin 9,3,2021,134.0
+D09,Dublin 9,6,2021,78.0
+D09,Dublin 9,9,2021,5.0
+D09,Dublin 9,12,2021,163.0
+D09,Dublin 9,3,2022,165.0
+D09,Dublin 9,6,2022,332.0
+D09,Dublin 9,9,2022,144.0
+D09,Dublin 9,12,2022,188.0
+D09,Dublin 9,3,2023,31.0
+D09,Dublin 9,6,2023,4.0
+D09,Dublin 9,9,2023,7.0
+D09,Dublin 9,12,2023,4.0
+D09,Dublin 9,3,2024,3.0
+D09,Dublin 9,6,2024,3.0
+D10,Dublin 10,3,2012,0.0
+D10,Dublin 10,6,2012,0.0
+D10,Dublin 10,9,2012,1.0
+D10,Dublin 10,12,2012,0.0
+D10,Dublin 10,3,2013,0.0
+D10,Dublin 10,6,2013,0.0
+D10,Dublin 10,9,2013,0.0
+D10,Dublin 10,12,2013,0.0
+D10,Dublin 10,3,2014,2.0
+D10,Dublin 10,6,2014,0.0
+D10,Dublin 10,9,2014,0.0
+D10,Dublin 10,12,2014,0.0
+D10,Dublin 10,3,2015,1.0
+D10,Dublin 10,6,2015,0.0
+D10,Dublin 10,9,2015,0.0
+D10,Dublin 10,12,2015,0.0
+D10,Dublin 10,3,2016,0.0
+D10,Dublin 10,6,2016,0.0
+D10,Dublin 10,9,2016,0.0
+D10,Dublin 10,12,2016,3.0
+D10,Dublin 10,3,2017,0.0
+D10,Dublin 10,6,2017,0.0
+D10,Dublin 10,9,2017,0.0
+D10,Dublin 10,12,2017,24.0
+D10,Dublin 10,3,2018,0.0
+D10,Dublin 10,6,2018,14.0
+D10,Dublin 10,9,2018,59.0
+D10,Dublin 10,12,2018,49.0
+D10,Dublin 10,3,2019,0.0
+D10,Dublin 10,6,2019,0.0
+D10,Dublin 10,9,2019,19.0
+D10,Dublin 10,12,2019,0.0
+D10,Dublin 10,3,2020,1.0
+D10,Dublin 10,6,2020,0.0
+D10,Dublin 10,9,2020,0.0
+D10,Dublin 10,12,2020,5.0
+D10,Dublin 10,3,2021,0.0
+D10,Dublin 10,6,2021,0.0
+D10,Dublin 10,9,2021,0.0
+D10,Dublin 10,12,2021,2.0
+D10,Dublin 10,3,2022,0.0
+D10,Dublin 10,6,2022,1.0
+D10,Dublin 10,9,2022,0.0
+D10,Dublin 10,12,2022,61.0
+D10,Dublin 10,3,2023,0.0
+D10,Dublin 10,6,2023,0.0
+D10,Dublin 10,9,2023,0.0
+D10,Dublin 10,12,2023,3.0
+D10,Dublin 10,3,2024,0.0
+D10,Dublin 10,6,2024,0.0
+D11,Dublin 11,3,2012,2.0
+D11,Dublin 11,6,2012,1.0
+D11,Dublin 11,9,2012,1.0
+D11,Dublin 11,12,2012,2.0
+D11,Dublin 11,3,2013,1.0
+D11,Dublin 11,6,2013,6.0
+D11,Dublin 11,9,2013,5.0
+D11,Dublin 11,12,2013,0.0
+D11,Dublin 11,3,2014,2.0
+D11,Dublin 11,6,2014,4.0
+D11,Dublin 11,9,2014,2.0
+D11,Dublin 11,12,2014,0.0
+D11,Dublin 11,3,2015,31.0
+D11,Dublin 11,6,2015,12.0
+D11,Dublin 11,9,2015,11.0
+D11,Dublin 11,12,2015,13.0
+D11,Dublin 11,3,2016,17.0
+D11,Dublin 11,6,2016,45.0
+D11,Dublin 11,9,2016,13.0
+D11,Dublin 11,12,2016,33.0
+D11,Dublin 11,3,2017,13.0
+D11,Dublin 11,6,2017,23.0
+D11,Dublin 11,9,2017,101.0
+D11,Dublin 11,12,2017,28.0
+D11,Dublin 11,3,2018,93.0
+D11,Dublin 11,6,2018,18.0
+D11,Dublin 11,9,2018,52.0
+D11,Dublin 11,12,2018,71.0
+D11,Dublin 11,3,2019,17.0
+D11,Dublin 11,6,2019,35.0
+D11,Dublin 11,9,2019,11.0
+D11,Dublin 11,12,2019,30.0
+D11,Dublin 11,3,2020,19.0
+D11,Dublin 11,6,2020,33.0
+D11,Dublin 11,9,2020,9.0
+D11,Dublin 11,12,2020,99.0
+D11,Dublin 11,3,2021,52.0
+D11,Dublin 11,6,2021,70.0
+D11,Dublin 11,9,2021,66.0
+D11,Dublin 11,12,2021,221.0
+D11,Dublin 11,3,2022,19.0
+D11,Dublin 11,6,2022,5.0
+D11,Dublin 11,9,2022,137.0
+D11,Dublin 11,12,2022,2.0
+D11,Dublin 11,3,2023,162.0
+D11,Dublin 11,6,2023,134.0
+D11,Dublin 11,9,2023,218.0
+D11,Dublin 11,12,2023,4.0
+D11,Dublin 11,3,2024,3.0
+D11,Dublin 11,6,2024,8.0
+D12,Dublin 12,3,2012,1.0
+D12,Dublin 12,6,2012,0.0
+D12,Dublin 12,9,2012,1.0
+D12,Dublin 12,12,2012,5.0
+D12,Dublin 12,3,2013,0.0
+D12,Dublin 12,6,2013,1.0
+D12,Dublin 12,9,2013,0.0
+D12,Dublin 12,12,2013,5.0
+D12,Dublin 12,3,2014,3.0
+D12,Dublin 12,6,2014,0.0
+D12,Dublin 12,9,2014,12.0
+D12,Dublin 12,12,2014,24.0
+D12,Dublin 12,3,2015,2.0
+D12,Dublin 12,6,2015,0.0
+D12,Dublin 12,9,2015,1.0
+D12,Dublin 12,12,2015,5.0
+D12,Dublin 12,3,2016,1.0
+D12,Dublin 12,6,2016,3.0
+D12,Dublin 12,9,2016,6.0
+D12,Dublin 12,12,2016,34.0
+D12,Dublin 12,3,2017,15.0
+D12,Dublin 12,6,2017,26.0
+D12,Dublin 12,9,2017,29.0
+D12,Dublin 12,12,2017,45.0
+D12,Dublin 12,3,2018,19.0
+D12,Dublin 12,6,2018,14.0
+D12,Dublin 12,9,2018,22.0
+D12,Dublin 12,12,2018,42.0
+D12,Dublin 12,3,2019,13.0
+D12,Dublin 12,6,2019,9.0
+D12,Dublin 12,9,2019,30.0
+D12,Dublin 12,12,2019,122.0
+D12,Dublin 12,3,2020,38.0
+D12,Dublin 12,6,2020,1.0
+D12,Dublin 12,9,2020,24.0
+D12,Dublin 12,12,2020,48.0
+D12,Dublin 12,3,2021,2.0
+D12,Dublin 12,6,2021,4.0
+D12,Dublin 12,9,2021,7.0
+D12,Dublin 12,12,2021,59.0
+D12,Dublin 12,3,2022,65.0
+D12,Dublin 12,6,2022,382.0
+D12,Dublin 12,9,2022,185.0
+D12,Dublin 12,12,2022,7.0
+D12,Dublin 12,3,2023,4.0
+D12,Dublin 12,6,2023,2.0
+D12,Dublin 12,9,2023,205.0
+D12,Dublin 12,12,2023,117.0
+D12,Dublin 12,3,2024,92.0
+D12,Dublin 12,6,2024,74.0
+D13,Dublin 13,3,2012,3.0
+D13,Dublin 13,6,2012,2.0
+D13,Dublin 13,9,2012,3.0
+D13,Dublin 13,12,2012,2.0
+D13,Dublin 13,3,2013,1.0
+D13,Dublin 13,6,2013,4.0
+D13,Dublin 13,9,2013,4.0
+D13,Dublin 13,12,2013,8.0
+D13,Dublin 13,3,2014,15.0
+D13,Dublin 13,6,2014,5.0
+D13,Dublin 13,9,2014,15.0
+D13,Dublin 13,12,2014,22.0
+D13,Dublin 13,3,2015,36.0
+D13,Dublin 13,6,2015,48.0
+D13,Dublin 13,9,2015,2.0
+D13,Dublin 13,12,2015,94.0
+D13,Dublin 13,3,2016,107.0
+D13,Dublin 13,6,2016,61.0
+D13,Dublin 13,9,2016,43.0
+D13,Dublin 13,12,2016,74.0
+D13,Dublin 13,3,2017,90.0
+D13,Dublin 13,6,2017,86.0
+D13,Dublin 13,9,2017,260.0
+D13,Dublin 13,12,2017,363.0
+D13,Dublin 13,3,2018,136.0
+D13,Dublin 13,6,2018,98.0
+D13,Dublin 13,9,2018,81.0
+D13,Dublin 13,12,2018,82.0
+D13,Dublin 13,3,2019,132.0
+D13,Dublin 13,6,2019,77.0
+D13,Dublin 13,9,2019,140.0
+D13,Dublin 13,12,2019,52.0
+D13,Dublin 13,3,2020,296.0
+D13,Dublin 13,6,2020,154.0
+D13,Dublin 13,9,2020,28.0
+D13,Dublin 13,12,2020,65.0
+D13,Dublin 13,3,2021,68.0
+D13,Dublin 13,6,2021,200.0
+D13,Dublin 13,9,2021,137.0
+D13,Dublin 13,12,2021,164.0
+D13,Dublin 13,3,2022,193.0
+D13,Dublin 13,6,2022,94.0
+D13,Dublin 13,9,2022,64.0
+D13,Dublin 13,12,2022,56.0
+D13,Dublin 13,3,2023,54.0
+D13,Dublin 13,6,2023,143.0
+D13,Dublin 13,9,2023,185.0
+D13,Dublin 13,12,2023,98.0
+D13,Dublin 13,3,2024,45.0
+D13,Dublin 13,6,2024,224.0
+D14,Dublin 14,3,2012,0.0
+D14,Dublin 14,6,2012,0.0
+D14,Dublin 14,9,2012,3.0
+D14,Dublin 14,12,2012,2.0
+D14,Dublin 14,3,2013,1.0
+D14,Dublin 14,6,2013,2.0
+D14,Dublin 14,9,2013,3.0
+D14,Dublin 14,12,2013,4.0
+D14,Dublin 14,3,2014,0.0
+D14,Dublin 14,6,2014,5.0
+D14,Dublin 14,9,2014,1.0
+D14,Dublin 14,12,2014,22.0
+D14,Dublin 14,3,2015,19.0
+D14,Dublin 14,6,2015,8.0
+D14,Dublin 14,9,2015,27.0
+D14,Dublin 14,12,2015,13.0
+D14,Dublin 14,3,2016,12.0
+D14,Dublin 14,6,2016,30.0
+D14,Dublin 14,9,2016,64.0
+D14,Dublin 14,12,2016,46.0
+D14,Dublin 14,3,2017,51.0
+D14,Dublin 14,6,2017,62.0
+D14,Dublin 14,9,2017,19.0
+D14,Dublin 14,12,2017,74.0
+D14,Dublin 14,3,2018,51.0
+D14,Dublin 14,6,2018,24.0
+D14,Dublin 14,9,2018,121.0
+D14,Dublin 14,12,2018,76.0
+D14,Dublin 14,3,2019,15.0
+D14,Dublin 14,6,2019,98.0
+D14,Dublin 14,9,2019,119.0
+D14,Dublin 14,12,2019,23.0
+D14,Dublin 14,3,2020,55.0
+D14,Dublin 14,6,2020,9.0
+D14,Dublin 14,9,2020,53.0
+D14,Dublin 14,12,2020,16.0
+D14,Dublin 14,3,2021,14.0
+D14,Dublin 14,6,2021,31.0
+D14,Dublin 14,9,2021,15.0
+D14,Dublin 14,12,2021,32.0
+D14,Dublin 14,3,2022,26.0
+D14,Dublin 14,6,2022,6.0
+D14,Dublin 14,9,2022,36.0
+D14,Dublin 14,12,2022,2.0
+D14,Dublin 14,3,2023,158.0
+D14,Dublin 14,6,2023,124.0
+D14,Dublin 14,9,2023,124.0
+D14,Dublin 14,12,2023,9.0
+D14,Dublin 14,3,2024,20.0
+D14,Dublin 14,6,2024,51.0
+D15,Dublin 15,3,2012,1.0
+D15,Dublin 15,6,2012,7.0
+D15,Dublin 15,9,2012,4.0
+D15,Dublin 15,12,2012,3.0
+D15,Dublin 15,3,2013,8.0
+D15,Dublin 15,6,2013,1.0
+D15,Dublin 15,9,2013,8.0
+D15,Dublin 15,12,2013,12.0
+D15,Dublin 15,3,2014,18.0
+D15,Dublin 15,6,2014,20.0
+D15,Dublin 15,9,2014,50.0
+D15,Dublin 15,12,2014,30.0
+D15,Dublin 15,3,2015,54.0
+D15,Dublin 15,6,2015,75.0
+D15,Dublin 15,9,2015,56.0
+D15,Dublin 15,12,2015,109.0
+D15,Dublin 15,3,2016,91.0
+D15,Dublin 15,6,2016,177.0
+D15,Dublin 15,9,2016,123.0
+D15,Dublin 15,12,2016,186.0
+D15,Dublin 15,3,2017,144.0
+D15,Dublin 15,6,2017,167.0
+D15,Dublin 15,9,2017,204.0
+D15,Dublin 15,12,2017,172.0
+D15,Dublin 15,3,2018,133.0
+D15,Dublin 15,6,2018,308.0
+D15,Dublin 15,9,2018,206.0
+D15,Dublin 15,12,2018,148.0
+D15,Dublin 15,3,2019,216.0
+D15,Dublin 15,6,2019,133.0
+D15,Dublin 15,9,2019,168.0
+D15,Dublin 15,12,2019,228.0
+D15,Dublin 15,3,2020,82.0
+D15,Dublin 15,6,2020,120.0
+D15,Dublin 15,9,2020,136.0
+D15,Dublin 15,12,2020,275.0
+D15,Dublin 15,3,2021,158.0
+D15,Dublin 15,6,2021,173.0
+D15,Dublin 15,9,2021,165.0
+D15,Dublin 15,12,2021,202.0
+D15,Dublin 15,3,2022,112.0
+D15,Dublin 15,6,2022,30.0
+D15,Dublin 15,9,2022,93.0
+D15,Dublin 15,12,2022,175.0
+D15,Dublin 15,3,2023,162.0
+D15,Dublin 15,6,2023,151.0
+D15,Dublin 15,9,2023,296.0
+D15,Dublin 15,12,2023,448.0
+D15,Dublin 15,3,2024,188.0
+D15,Dublin 15,6,2024,183.0
+D16,Dublin 16,3,2012,3.0
+D16,Dublin 16,6,2012,9.0
+D16,Dublin 16,9,2012,6.0
+D16,Dublin 16,12,2012,8.0
+D16,Dublin 16,3,2013,1.0
+D16,Dublin 16,6,2013,2.0
+D16,Dublin 16,9,2013,4.0
+D16,Dublin 16,12,2013,2.0
+D16,Dublin 16,3,2014,3.0
+D16,Dublin 16,6,2014,10.0
+D16,Dublin 16,9,2014,7.0
+D16,Dublin 16,12,2014,20.0
+D16,Dublin 16,3,2015,6.0
+D16,Dublin 16,6,2015,7.0
+D16,Dublin 16,9,2015,34.0
+D16,Dublin 16,12,2015,15.0
+D16,Dublin 16,3,2016,17.0
+D16,Dublin 16,6,2016,25.0
+D16,Dublin 16,9,2016,27.0
+D16,Dublin 16,12,2016,54.0
+D16,Dublin 16,3,2017,30.0
+D16,Dublin 16,6,2017,75.0
+D16,Dublin 16,9,2017,39.0
+D16,Dublin 16,12,2017,38.0
+D16,Dublin 16,3,2018,15.0
+D16,Dublin 16,6,2018,61.0
+D16,Dublin 16,9,2018,64.0
+D16,Dublin 16,12,2018,79.0
+D16,Dublin 16,3,2019,77.0
+D16,Dublin 16,6,2019,61.0
+D16,Dublin 16,9,2019,156.0
+D16,Dublin 16,12,2019,56.0
+D16,Dublin 16,3,2020,78.0
+D16,Dublin 16,6,2020,2.0
+D16,Dublin 16,9,2020,8.0
+D16,Dublin 16,12,2020,14.0
+D16,Dublin 16,3,2021,2.0
+D16,Dublin 16,6,2021,2.0
+D16,Dublin 16,9,2021,3.0
+D16,Dublin 16,12,2021,81.0
+D16,Dublin 16,3,2022,12.0
+D16,Dublin 16,6,2022,111.0
+D16,Dublin 16,9,2022,42.0
+D16,Dublin 16,12,2022,198.0
+D16,Dublin 16,3,2023,378.0
+D16,Dublin 16,6,2023,21.0
+D16,Dublin 16,9,2023,0.0
+D16,Dublin 16,12,2023,5.0
+D16,Dublin 16,3,2024,10.0
+D16,Dublin 16,6,2024,21.0
+D17,Dublin 17,3,2012,0.0
+D17,Dublin 17,6,2012,0.0
+D17,Dublin 17,9,2012,0.0
+D17,Dublin 17,12,2012,2.0
+D17,Dublin 17,3,2013,0.0
+D17,Dublin 17,6,2013,1.0
+D17,Dublin 17,9,2013,0.0
+D17,Dublin 17,12,2013,8.0
+D17,Dublin 17,3,2014,4.0
+D17,Dublin 17,6,2014,20.0
+D17,Dublin 17,9,2014,0.0
+D17,Dublin 17,12,2014,0.0
+D17,Dublin 17,3,2015,0.0
+D17,Dublin 17,6,2015,0.0
+D17,Dublin 17,9,2015,1.0
+D17,Dublin 17,12,2015,0.0
+D17,Dublin 17,3,2016,2.0
+D17,Dublin 17,6,2016,0.0
+D17,Dublin 17,9,2016,2.0
+D17,Dublin 17,12,2016,7.0
+D17,Dublin 17,3,2017,3.0
+D17,Dublin 17,6,2017,10.0
+D17,Dublin 17,9,2017,26.0
+D17,Dublin 17,12,2017,27.0
+D17,Dublin 17,3,2018,1.0
+D17,Dublin 17,6,2018,7.0
+D17,Dublin 17,9,2018,0.0
+D17,Dublin 17,12,2018,44.0
+D17,Dublin 17,3,2019,3.0
+D17,Dublin 17,6,2019,0.0
+D17,Dublin 17,9,2019,24.0
+D17,Dublin 17,12,2019,0.0
+D17,Dublin 17,3,2020,0.0
+D17,Dublin 17,6,2020,1.0
+D17,Dublin 17,9,2020,3.0
+D17,Dublin 17,12,2020,1.0
+D17,Dublin 17,3,2021,1.0
+D17,Dublin 17,6,2021,57.0
+D17,Dublin 17,9,2021,5.0
+D17,Dublin 17,12,2021,58.0
+D17,Dublin 17,3,2022,85.0
+D17,Dublin 17,6,2022,48.0
+D17,Dublin 17,9,2022,24.0
+D17,Dublin 17,12,2022,33.0
+D17,Dublin 17,3,2023,10.0
+D17,Dublin 17,6,2023,186.0
+D17,Dublin 17,9,2023,99.0
+D17,Dublin 17,12,2023,156.0
+D17,Dublin 17,3,2024,1.0
+D17,Dublin 17,6,2024,71.0
+D18,Dublin 18,3,2012,7.0
+D18,Dublin 18,6,2012,1.0
+D18,Dublin 18,9,2012,3.0
+D18,Dublin 18,12,2012,4.0
+D18,Dublin 18,3,2013,5.0
+D18,Dublin 18,6,2013,8.0
+D18,Dublin 18,9,2013,7.0
+D18,Dublin 18,12,2013,120.0
+D18,Dublin 18,3,2014,31.0
+D18,Dublin 18,6,2014,16.0
+D18,Dublin 18,9,2014,35.0
+D18,Dublin 18,12,2014,28.0
+D18,Dublin 18,3,2015,17.0
+D18,Dublin 18,6,2015,10.0
+D18,Dublin 18,9,2015,29.0
+D18,Dublin 18,12,2015,38.0
+D18,Dublin 18,3,2016,209.0
+D18,Dublin 18,6,2016,62.0
+D18,Dublin 18,9,2016,67.0
+D18,Dublin 18,12,2016,69.0
+D18,Dublin 18,3,2017,100.0
+D18,Dublin 18,6,2017,113.0
+D18,Dublin 18,9,2017,65.0
+D18,Dublin 18,12,2017,106.0
+D18,Dublin 18,3,2018,69.0
+D18,Dublin 18,6,2018,132.0
+D18,Dublin 18,9,2018,73.0
+D18,Dublin 18,12,2018,95.0
+D18,Dublin 18,3,2019,126.0
+D18,Dublin 18,6,2019,32.0
+D18,Dublin 18,9,2019,77.0
+D18,Dublin 18,12,2019,108.0
+D18,Dublin 18,3,2020,107.0
+D18,Dublin 18,6,2020,52.0
+D18,Dublin 18,9,2020,78.0
+D18,Dublin 18,12,2020,89.0
+D18,Dublin 18,3,2021,84.0
+D18,Dublin 18,6,2021,163.0
+D18,Dublin 18,9,2021,232.0
+D18,Dublin 18,12,2021,338.0
+D18,Dublin 18,3,2022,458.0
+D18,Dublin 18,6,2022,530.0
+D18,Dublin 18,9,2022,249.0
+D18,Dublin 18,12,2022,803.0
+D18,Dublin 18,3,2023,354.0
+D18,Dublin 18,6,2023,616.0
+D18,Dublin 18,9,2023,320.0
+D18,Dublin 18,12,2023,614.0
+D18,Dublin 18,3,2024,262.0
+D18,Dublin 18,6,2024,228.0
+D20,Dublin 20,3,2012,0.0
+D20,Dublin 20,6,2012,0.0
+D20,Dublin 20,9,2012,0.0
+D20,Dublin 20,12,2012,0.0
+D20,Dublin 20,3,2013,0.0
+D20,Dublin 20,6,2013,1.0
+D20,Dublin 20,9,2013,0.0
+D20,Dublin 20,12,2013,1.0
+D20,Dublin 20,3,2014,0.0
+D20,Dublin 20,6,2014,0.0
+D20,Dublin 20,9,2014,1.0
+D20,Dublin 20,12,2014,0.0
+D20,Dublin 20,3,2015,2.0
+D20,Dublin 20,6,2015,0.0
+D20,Dublin 20,9,2015,1.0
+D20,Dublin 20,12,2015,2.0
+D20,Dublin 20,3,2016,1.0
+D20,Dublin 20,6,2016,0.0
+D20,Dublin 20,9,2016,0.0
+D20,Dublin 20,12,2016,0.0
+D20,Dublin 20,3,2017,22.0
+D20,Dublin 20,6,2017,49.0
+D20,Dublin 20,9,2017,7.0
+D20,Dublin 20,12,2017,26.0
+D20,Dublin 20,3,2018,18.0
+D20,Dublin 20,6,2018,36.0
+D20,Dublin 20,9,2018,20.0
+D20,Dublin 20,12,2018,1.0
+D20,Dublin 20,3,2019,1.0
+D20,Dublin 20,6,2019,0.0
+D20,Dublin 20,9,2019,1.0
+D20,Dublin 20,12,2019,12.0
+D20,Dublin 20,3,2020,0.0
+D20,Dublin 20,6,2020,1.0
+D20,Dublin 20,9,2020,11.0
+D20,Dublin 20,12,2020,0.0
+D20,Dublin 20,3,2021,1.0
+D20,Dublin 20,6,2021,0.0
+D20,Dublin 20,9,2021,9.0
+D20,Dublin 20,12,2021,1.0
+D20,Dublin 20,3,2022,1.0
+D20,Dublin 20,6,2022,0.0
+D20,Dublin 20,9,2022,0.0
+D20,Dublin 20,12,2022,86.0
+D20,Dublin 20,3,2023,166.0
+D20,Dublin 20,6,2023,21.0
+D20,Dublin 20,9,2023,181.0
+D20,Dublin 20,12,2023,226.0
+D20,Dublin 20,3,2024,140.0
+D20,Dublin 20,6,2024,26.0
+D22,Dublin 22,3,2012,1.0
+D22,Dublin 22,6,2012,0.0
+D22,Dublin 22,9,2012,1.0
+D22,Dublin 22,12,2012,14.0
+D22,Dublin 22,3,2013,0.0
+D22,Dublin 22,6,2013,0.0
+D22,Dublin 22,9,2013,1.0
+D22,Dublin 22,12,2013,4.0
+D22,Dublin 22,3,2014,1.0
+D22,Dublin 22,6,2014,2.0
+D22,Dublin 22,9,2014,0.0
+D22,Dublin 22,12,2014,3.0
+D22,Dublin 22,3,2015,2.0
+D22,Dublin 22,6,2015,1.0
+D22,Dublin 22,9,2015,0.0
+D22,Dublin 22,12,2015,3.0
+D22,Dublin 22,3,2016,7.0
+D22,Dublin 22,6,2016,10.0
+D22,Dublin 22,9,2016,1.0
+D22,Dublin 22,12,2016,24.0
+D22,Dublin 22,3,2017,17.0
+D22,Dublin 22,6,2017,28.0
+D22,Dublin 22,9,2017,27.0
+D22,Dublin 22,12,2017,81.0
+D22,Dublin 22,3,2018,29.0
+D22,Dublin 22,6,2018,24.0
+D22,Dublin 22,9,2018,38.0
+D22,Dublin 22,12,2018,65.0
+D22,Dublin 22,3,2019,46.0
+D22,Dublin 22,6,2019,30.0
+D22,Dublin 22,9,2019,65.0
+D22,Dublin 22,12,2019,13.0
+D22,Dublin 22,3,2020,7.0
+D22,Dublin 22,6,2020,43.0
+D22,Dublin 22,9,2020,16.0
+D22,Dublin 22,12,2020,247.0
+D22,Dublin 22,3,2021,82.0
+D22,Dublin 22,6,2021,52.0
+D22,Dublin 22,9,2021,30.0
+D22,Dublin 22,12,2021,57.0
+D22,Dublin 22,3,2022,58.0
+D22,Dublin 22,6,2022,190.0
+D22,Dublin 22,9,2022,156.0
+D22,Dublin 22,12,2022,84.0
+D22,Dublin 22,3,2023,97.0
+D22,Dublin 22,6,2023,144.0
+D22,Dublin 22,9,2023,115.0
+D22,Dublin 22,12,2023,213.0
+D22,Dublin 22,3,2024,115.0
+D22,Dublin 22,6,2024,175.0
+D24,Dublin 24,3,2012,8.0
+D24,Dublin 24,6,2012,12.0
+D24,Dublin 24,9,2012,14.0
+D24,Dublin 24,12,2012,39.0
+D24,Dublin 24,3,2013,18.0
+D24,Dublin 24,6,2013,13.0
+D24,Dublin 24,9,2013,24.0
+D24,Dublin 24,12,2013,27.0
+D24,Dublin 24,3,2014,20.0
+D24,Dublin 24,6,2014,26.0
+D24,Dublin 24,9,2014,35.0
+D24,Dublin 24,12,2014,44.0
+D24,Dublin 24,3,2015,37.0
+D24,Dublin 24,6,2015,19.0
+D24,Dublin 24,9,2015,39.0
+D24,Dublin 24,12,2015,42.0
+D24,Dublin 24,3,2016,17.0
+D24,Dublin 24,6,2016,47.0
+D24,Dublin 24,9,2016,75.0
+D24,Dublin 24,12,2016,88.0
+D24,Dublin 24,3,2017,79.0
+D24,Dublin 24,6,2017,85.0
+D24,Dublin 24,9,2017,83.0
+D24,Dublin 24,12,2017,118.0
+D24,Dublin 24,3,2018,115.0
+D24,Dublin 24,6,2018,178.0
+D24,Dublin 24,9,2018,131.0
+D24,Dublin 24,12,2018,209.0
+D24,Dublin 24,3,2019,138.0
+D24,Dublin 24,6,2019,160.0
+D24,Dublin 24,9,2019,111.0
+D24,Dublin 24,12,2019,220.0
+D24,Dublin 24,3,2020,115.0
+D24,Dublin 24,6,2020,43.0
+D24,Dublin 24,9,2020,95.0
+D24,Dublin 24,12,2020,436.0
+D24,Dublin 24,3,2021,87.0
+D24,Dublin 24,6,2021,103.0
+D24,Dublin 24,9,2021,78.0
+D24,Dublin 24,12,2021,92.0
+D24,Dublin 24,3,2022,54.0
+D24,Dublin 24,6,2022,68.0
+D24,Dublin 24,9,2022,28.0
+D24,Dublin 24,12,2022,128.0
+D24,Dublin 24,3,2023,42.0
+D24,Dublin 24,6,2023,75.0
+D24,Dublin 24,9,2023,621.0
+D24,Dublin 24,12,2023,352.0
+D24,Dublin 24,3,2024,277.0
+D24,Dublin 24,6,2024,202.0
+D6W,Dublin 6W,3,2012,0.0
+D6W,Dublin 6W,6,2012,3.0
+D6W,Dublin 6W,9,2012,0.0
+D6W,Dublin 6W,12,2012,1.0
+D6W,Dublin 6W,3,2013,0.0
+D6W,Dublin 6W,6,2013,3.0
+D6W,Dublin 6W,9,2013,1.0
+D6W,Dublin 6W,12,2013,1.0
+D6W,Dublin 6W,3,2014,0.0
+D6W,Dublin 6W,6,2014,4.0
+D6W,Dublin 6W,9,2014,3.0
+D6W,Dublin 6W,12,2014,7.0
+D6W,Dublin 6W,3,2015,20.0
+D6W,Dublin 6W,6,2015,11.0
+D6W,Dublin 6W,9,2015,1.0
+D6W,Dublin 6W,12,2015,3.0
+D6W,Dublin 6W,3,2016,15.0
+D6W,Dublin 6W,6,2016,6.0
+D6W,Dublin 6W,9,2016,12.0
+D6W,Dublin 6W,12,2016,5.0
+D6W,Dublin 6W,3,2017,2.0
+D6W,Dublin 6W,6,2017,15.0
+D6W,Dublin 6W,9,2017,8.0
+D6W,Dublin 6W,12,2017,18.0
+D6W,Dublin 6W,3,2018,17.0
+D6W,Dublin 6W,6,2018,17.0
+D6W,Dublin 6W,9,2018,28.0
+D6W,Dublin 6W,12,2018,17.0
+D6W,Dublin 6W,3,2019,13.0
+D6W,Dublin 6W,6,2019,113.0
+D6W,Dublin 6W,9,2019,88.0
+D6W,Dublin 6W,12,2019,5.0
+D6W,Dublin 6W,3,2020,11.0
+D6W,Dublin 6W,6,2020,37.0
+D6W,Dublin 6W,9,2020,20.0
+D6W,Dublin 6W,12,2020,119.0
+D6W,Dublin 6W,3,2021,64.0
+D6W,Dublin 6W,6,2021,48.0
+D6W,Dublin 6W,9,2021,3.0
+D6W,Dublin 6W,12,2021,1.0
+D6W,Dublin 6W,3,2022,16.0
+D6W,Dublin 6W,6,2022,2.0
+D6W,Dublin 6W,9,2022,100.0
+D6W,Dublin 6W,12,2022,63.0
+D6W,Dublin 6W,3,2023,2.0
+D6W,Dublin 6W,6,2023,9.0
+D6W,Dublin 6W,9,2023,5.0
+D6W,Dublin 6W,12,2023,12.0
+D6W,Dublin 6W,3,2024,14.0
+D6W,Dublin 6W,6,2024,3.0
+E21,Cahir,3,2012,1.0
+E21,Cahir,6,2012,4.0
+E21,Cahir,9,2012,3.0
+E21,Cahir,12,2012,0.0
+E21,Cahir,3,2013,1.0
+E21,Cahir,6,2013,1.0
+E21,Cahir,9,2013,2.0
+E21,Cahir,12,2013,6.0
+E21,Cahir,3,2014,2.0
+E21,Cahir,6,2014,6.0
+E21,Cahir,9,2014,2.0
+E21,Cahir,12,2014,8.0
+E21,Cahir,3,2015,3.0
+E21,Cahir,6,2015,3.0
+E21,Cahir,9,2015,2.0
+E21,Cahir,12,2015,2.0
+E21,Cahir,3,2016,8.0
+E21,Cahir,6,2016,3.0
+E21,Cahir,9,2016,5.0
+E21,Cahir,12,2016,2.0
+E21,Cahir,3,2017,3.0
+E21,Cahir,6,2017,4.0
+E21,Cahir,9,2017,4.0
+E21,Cahir,12,2017,2.0
+E21,Cahir,3,2018,3.0
+E21,Cahir,6,2018,3.0
+E21,Cahir,9,2018,8.0
+E21,Cahir,12,2018,10.0
+E21,Cahir,3,2019,7.0
+E21,Cahir,6,2019,6.0
+E21,Cahir,9,2019,2.0
+E21,Cahir,12,2019,6.0
+E21,Cahir,3,2020,3.0
+E21,Cahir,6,2020,1.0
+E21,Cahir,9,2020,7.0
+E21,Cahir,12,2020,6.0
+E21,Cahir,3,2021,5.0
+E21,Cahir,6,2021,2.0
+E21,Cahir,9,2021,3.0
+E21,Cahir,12,2021,8.0
+E21,Cahir,3,2022,6.0
+E21,Cahir,6,2022,5.0
+E21,Cahir,9,2022,8.0
+E21,Cahir,12,2022,11.0
+E21,Cahir,3,2023,4.0
+E21,Cahir,6,2023,3.0
+E21,Cahir,9,2023,10.0
+E21,Cahir,12,2023,6.0
+E21,Cahir,3,2024,2.0
+E21,Cahir,6,2024,5.0
+E25,Cashel,3,2012,1.0
+E25,Cashel,6,2012,2.0
+E25,Cashel,9,2012,5.0
+E25,Cashel,12,2012,4.0
+E25,Cashel,3,2013,1.0
+E25,Cashel,6,2013,1.0
+E25,Cashel,9,2013,2.0
+E25,Cashel,12,2013,3.0
+E25,Cashel,3,2014,1.0
+E25,Cashel,6,2014,0.0
+E25,Cashel,9,2014,2.0
+E25,Cashel,12,2014,3.0
+E25,Cashel,3,2015,5.0
+E25,Cashel,6,2015,2.0
+E25,Cashel,9,2015,6.0
+E25,Cashel,12,2015,4.0
+E25,Cashel,3,2016,2.0
+E25,Cashel,6,2016,1.0
+E25,Cashel,9,2016,7.0
+E25,Cashel,12,2016,1.0
+E25,Cashel,3,2017,3.0
+E25,Cashel,6,2017,3.0
+E25,Cashel,9,2017,3.0
+E25,Cashel,12,2017,2.0
+E25,Cashel,3,2018,2.0
+E25,Cashel,6,2018,2.0
+E25,Cashel,9,2018,2.0
+E25,Cashel,12,2018,4.0
+E25,Cashel,3,2019,6.0
+E25,Cashel,6,2019,7.0
+E25,Cashel,9,2019,4.0
+E25,Cashel,12,2019,7.0
+E25,Cashel,3,2020,6.0
+E25,Cashel,6,2020,2.0
+E25,Cashel,9,2020,4.0
+E25,Cashel,12,2020,5.0
+E25,Cashel,3,2021,1.0
+E25,Cashel,6,2021,7.0
+E25,Cashel,9,2021,2.0
+E25,Cashel,12,2021,8.0
+E25,Cashel,3,2022,8.0
+E25,Cashel,6,2022,8.0
+E25,Cashel,9,2022,3.0
+E25,Cashel,12,2022,5.0
+E25,Cashel,3,2023,17.0
+E25,Cashel,6,2023,14.0
+E25,Cashel,9,2023,4.0
+E25,Cashel,12,2023,16.0
+E25,Cashel,3,2024,23.0
+E25,Cashel,6,2024,25.0
+E32,Carrick-on-Suir,3,2012,5.0
+E32,Carrick-on-Suir,6,2012,3.0
+E32,Carrick-on-Suir,9,2012,4.0
+E32,Carrick-on-Suir,12,2012,2.0
+E32,Carrick-on-Suir,3,2013,3.0
+E32,Carrick-on-Suir,6,2013,2.0
+E32,Carrick-on-Suir,9,2013,3.0
+E32,Carrick-on-Suir,12,2013,5.0
+E32,Carrick-on-Suir,3,2014,1.0
+E32,Carrick-on-Suir,6,2014,6.0
+E32,Carrick-on-Suir,9,2014,3.0
+E32,Carrick-on-Suir,12,2014,4.0
+E32,Carrick-on-Suir,3,2015,0.0
+E32,Carrick-on-Suir,6,2015,2.0
+E32,Carrick-on-Suir,9,2015,4.0
+E32,Carrick-on-Suir,12,2015,3.0
+E32,Carrick-on-Suir,3,2016,2.0
+E32,Carrick-on-Suir,6,2016,2.0
+E32,Carrick-on-Suir,9,2016,3.0
+E32,Carrick-on-Suir,12,2016,3.0
+E32,Carrick-on-Suir,3,2017,1.0
+E32,Carrick-on-Suir,6,2017,4.0
+E32,Carrick-on-Suir,9,2017,3.0
+E32,Carrick-on-Suir,12,2017,3.0
+E32,Carrick-on-Suir,3,2018,3.0
+E32,Carrick-on-Suir,6,2018,3.0
+E32,Carrick-on-Suir,9,2018,6.0
+E32,Carrick-on-Suir,12,2018,13.0
+E32,Carrick-on-Suir,3,2019,6.0
+E32,Carrick-on-Suir,6,2019,3.0
+E32,Carrick-on-Suir,9,2019,3.0
+E32,Carrick-on-Suir,12,2019,3.0
+E32,Carrick-on-Suir,3,2020,11.0
+E32,Carrick-on-Suir,6,2020,4.0
+E32,Carrick-on-Suir,9,2020,29.0
+E32,Carrick-on-Suir,12,2020,19.0
+E32,Carrick-on-Suir,3,2021,7.0
+E32,Carrick-on-Suir,6,2021,4.0
+E32,Carrick-on-Suir,9,2021,13.0
+E32,Carrick-on-Suir,12,2021,6.0
+E32,Carrick-on-Suir,3,2022,5.0
+E32,Carrick-on-Suir,6,2022,20.0
+E32,Carrick-on-Suir,9,2022,2.0
+E32,Carrick-on-Suir,12,2022,6.0
+E32,Carrick-on-Suir,3,2023,6.0
+E32,Carrick-on-Suir,6,2023,8.0
+E32,Carrick-on-Suir,9,2023,4.0
+E32,Carrick-on-Suir,12,2023,15.0
+E32,Carrick-on-Suir,3,2024,5.0
+E32,Carrick-on-Suir,6,2024,14.0
+E34,Tipperary,3,2012,3.0
+E34,Tipperary,6,2012,4.0
+E34,Tipperary,9,2012,7.0
+E34,Tipperary,12,2012,4.0
+E34,Tipperary,3,2013,3.0
+E34,Tipperary,6,2013,5.0
+E34,Tipperary,9,2013,4.0
+E34,Tipperary,12,2013,5.0
+E34,Tipperary,3,2014,1.0
+E34,Tipperary,6,2014,5.0
+E34,Tipperary,9,2014,5.0
+E34,Tipperary,12,2014,1.0
+E34,Tipperary,3,2015,4.0
+E34,Tipperary,6,2015,4.0
+E34,Tipperary,9,2015,7.0
+E34,Tipperary,12,2015,7.0
+E34,Tipperary,3,2016,5.0
+E34,Tipperary,6,2016,7.0
+E34,Tipperary,9,2016,5.0
+E34,Tipperary,12,2016,5.0
+E34,Tipperary,3,2017,1.0
+E34,Tipperary,6,2017,5.0
+E34,Tipperary,9,2017,4.0
+E34,Tipperary,12,2017,3.0
+E34,Tipperary,3,2018,3.0
+E34,Tipperary,6,2018,6.0
+E34,Tipperary,9,2018,3.0
+E34,Tipperary,12,2018,8.0
+E34,Tipperary,3,2019,12.0
+E34,Tipperary,6,2019,4.0
+E34,Tipperary,9,2019,30.0
+E34,Tipperary,12,2019,11.0
+E34,Tipperary,3,2020,11.0
+E34,Tipperary,6,2020,7.0
+E34,Tipperary,9,2020,9.0
+E34,Tipperary,12,2020,15.0
+E34,Tipperary,3,2021,22.0
+E34,Tipperary,6,2021,24.0
+E34,Tipperary,9,2021,9.0
+E34,Tipperary,12,2021,9.0
+E34,Tipperary,3,2022,9.0
+E34,Tipperary,6,2022,13.0
+E34,Tipperary,9,2022,11.0
+E34,Tipperary,12,2022,20.0
+E34,Tipperary,3,2023,19.0
+E34,Tipperary,6,2023,14.0
+E34,Tipperary,9,2023,8.0
+E34,Tipperary,12,2023,18.0
+E34,Tipperary,3,2024,10.0
+E34,Tipperary,6,2024,16.0
+E41,Thurles,3,2012,9.0
+E41,Thurles,6,2012,10.0
+E41,Thurles,9,2012,14.0
+E41,Thurles,12,2012,9.0
+E41,Thurles,3,2013,5.0
+E41,Thurles,6,2013,5.0
+E41,Thurles,9,2013,5.0
+E41,Thurles,12,2013,11.0
+E41,Thurles,3,2014,3.0
+E41,Thurles,6,2014,6.0
+E41,Thurles,9,2014,7.0
+E41,Thurles,12,2014,11.0
+E41,Thurles,3,2015,11.0
+E41,Thurles,6,2015,10.0
+E41,Thurles,9,2015,9.0
+E41,Thurles,12,2015,9.0
+E41,Thurles,3,2016,6.0
+E41,Thurles,6,2016,11.0
+E41,Thurles,9,2016,7.0
+E41,Thurles,12,2016,6.0
+E41,Thurles,3,2017,9.0
+E41,Thurles,6,2017,12.0
+E41,Thurles,9,2017,15.0
+E41,Thurles,12,2017,14.0
+E41,Thurles,3,2018,10.0
+E41,Thurles,6,2018,15.0
+E41,Thurles,9,2018,9.0
+E41,Thurles,12,2018,28.0
+E41,Thurles,3,2019,18.0
+E41,Thurles,6,2019,23.0
+E41,Thurles,9,2019,16.0
+E41,Thurles,12,2019,16.0
+E41,Thurles,3,2020,16.0
+E41,Thurles,6,2020,16.0
+E41,Thurles,9,2020,17.0
+E41,Thurles,12,2020,25.0
+E41,Thurles,3,2021,13.0
+E41,Thurles,6,2021,17.0
+E41,Thurles,9,2021,11.0
+E41,Thurles,12,2021,32.0
+E41,Thurles,3,2022,27.0
+E41,Thurles,6,2022,19.0
+E41,Thurles,9,2022,13.0
+E41,Thurles,12,2022,67.0
+E41,Thurles,3,2023,20.0
+E41,Thurles,6,2023,28.0
+E41,Thurles,9,2023,81.0
+E41,Thurles,12,2023,17.0
+E41,Thurles,3,2024,14.0
+E41,Thurles,6,2024,21.0
+E45,Nenagh,3,2012,8.0
+E45,Nenagh,6,2012,3.0
+E45,Nenagh,9,2012,14.0
+E45,Nenagh,12,2012,6.0
+E45,Nenagh,3,2013,7.0
+E45,Nenagh,6,2013,10.0
+E45,Nenagh,9,2013,7.0
+E45,Nenagh,12,2013,10.0
+E45,Nenagh,3,2014,9.0
+E45,Nenagh,6,2014,3.0
+E45,Nenagh,9,2014,12.0
+E45,Nenagh,12,2014,8.0
+E45,Nenagh,3,2015,6.0
+E45,Nenagh,6,2015,6.0
+E45,Nenagh,9,2015,9.0
+E45,Nenagh,12,2015,9.0
+E45,Nenagh,3,2016,6.0
+E45,Nenagh,6,2016,7.0
+E45,Nenagh,9,2016,9.0
+E45,Nenagh,12,2016,9.0
+E45,Nenagh,3,2017,6.0
+E45,Nenagh,6,2017,7.0
+E45,Nenagh,9,2017,10.0
+E45,Nenagh,12,2017,15.0
+E45,Nenagh,3,2018,4.0
+E45,Nenagh,6,2018,5.0
+E45,Nenagh,9,2018,9.0
+E45,Nenagh,12,2018,7.0
+E45,Nenagh,3,2019,10.0
+E45,Nenagh,6,2019,13.0
+E45,Nenagh,9,2019,13.0
+E45,Nenagh,12,2019,8.0
+E45,Nenagh,3,2020,9.0
+E45,Nenagh,6,2020,5.0
+E45,Nenagh,9,2020,11.0
+E45,Nenagh,12,2020,13.0
+E45,Nenagh,3,2021,9.0
+E45,Nenagh,6,2021,13.0
+E45,Nenagh,9,2021,11.0
+E45,Nenagh,12,2021,37.0
+E45,Nenagh,3,2022,12.0
+E45,Nenagh,6,2022,25.0
+E45,Nenagh,9,2022,13.0
+E45,Nenagh,12,2022,20.0
+E45,Nenagh,3,2023,25.0
+E45,Nenagh,6,2023,22.0
+E45,Nenagh,9,2023,8.0
+E45,Nenagh,12,2023,25.0
+E45,Nenagh,3,2024,16.0
+E45,Nenagh,6,2024,17.0
+E53,Roscrea,3,2012,14.0
+E53,Roscrea,6,2012,1.0
+E53,Roscrea,9,2012,5.0
+E53,Roscrea,12,2012,7.0
+E53,Roscrea,3,2013,1.0
+E53,Roscrea,6,2013,2.0
+E53,Roscrea,9,2013,1.0
+E53,Roscrea,12,2013,3.0
+E53,Roscrea,3,2014,2.0
+E53,Roscrea,6,2014,2.0
+E53,Roscrea,9,2014,1.0
+E53,Roscrea,12,2014,1.0
+E53,Roscrea,3,2015,5.0
+E53,Roscrea,6,2015,0.0
+E53,Roscrea,9,2015,5.0
+E53,Roscrea,12,2015,5.0
+E53,Roscrea,3,2016,1.0
+E53,Roscrea,6,2016,4.0
+E53,Roscrea,9,2016,2.0
+E53,Roscrea,12,2016,4.0
+E53,Roscrea,3,2017,2.0
+E53,Roscrea,6,2017,3.0
+E53,Roscrea,9,2017,9.0
+E53,Roscrea,12,2017,3.0
+E53,Roscrea,3,2018,9.0
+E53,Roscrea,6,2018,2.0
+E53,Roscrea,9,2018,3.0
+E53,Roscrea,12,2018,5.0
+E53,Roscrea,3,2019,3.0
+E53,Roscrea,6,2019,6.0
+E53,Roscrea,9,2019,2.0
+E53,Roscrea,12,2019,7.0
+E53,Roscrea,3,2020,1.0
+E53,Roscrea,6,2020,5.0
+E53,Roscrea,9,2020,8.0
+E53,Roscrea,12,2020,6.0
+E53,Roscrea,3,2021,3.0
+E53,Roscrea,6,2021,2.0
+E53,Roscrea,9,2021,11.0
+E53,Roscrea,12,2021,0.0
+E53,Roscrea,3,2022,4.0
+E53,Roscrea,6,2022,2.0
+E53,Roscrea,9,2022,6.0
+E53,Roscrea,12,2022,16.0
+E53,Roscrea,3,2023,4.0
+E53,Roscrea,6,2023,7.0
+E53,Roscrea,9,2023,6.0
+E53,Roscrea,12,2023,6.0
+E53,Roscrea,3,2024,6.0
+E53,Roscrea,6,2024,5.0
+E91,Clonmel,3,2012,6.0
+E91,Clonmel,6,2012,3.0
+E91,Clonmel,9,2012,8.0
+E91,Clonmel,12,2012,11.0
+E91,Clonmel,3,2013,6.0
+E91,Clonmel,6,2013,12.0
+E91,Clonmel,9,2013,7.0
+E91,Clonmel,12,2013,6.0
+E91,Clonmel,3,2014,5.0
+E91,Clonmel,6,2014,9.0
+E91,Clonmel,9,2014,6.0
+E91,Clonmel,12,2014,3.0
+E91,Clonmel,3,2015,3.0
+E91,Clonmel,6,2015,9.0
+E91,Clonmel,9,2015,7.0
+E91,Clonmel,12,2015,16.0
+E91,Clonmel,3,2016,3.0
+E91,Clonmel,6,2016,6.0
+E91,Clonmel,9,2016,10.0
+E91,Clonmel,12,2016,13.0
+E91,Clonmel,3,2017,7.0
+E91,Clonmel,6,2017,7.0
+E91,Clonmel,9,2017,2.0
+E91,Clonmel,12,2017,13.0
+E91,Clonmel,3,2018,9.0
+E91,Clonmel,6,2018,6.0
+E91,Clonmel,9,2018,6.0
+E91,Clonmel,12,2018,15.0
+E91,Clonmel,3,2019,15.0
+E91,Clonmel,6,2019,22.0
+E91,Clonmel,9,2019,10.0
+E91,Clonmel,12,2019,16.0
+E91,Clonmel,3,2020,21.0
+E91,Clonmel,6,2020,25.0
+E91,Clonmel,9,2020,17.0
+E91,Clonmel,12,2020,9.0
+E91,Clonmel,3,2021,7.0
+E91,Clonmel,6,2021,5.0
+E91,Clonmel,9,2021,10.0
+E91,Clonmel,12,2021,15.0
+E91,Clonmel,3,2022,6.0
+E91,Clonmel,6,2022,21.0
+E91,Clonmel,9,2022,15.0
+E91,Clonmel,12,2022,35.0
+E91,Clonmel,3,2023,33.0
+E91,Clonmel,6,2023,23.0
+E91,Clonmel,9,2023,16.0
+E91,Clonmel,12,2023,38.0
+E91,Clonmel,3,2024,17.0
+E91,Clonmel,6,2024,69.0
+F12,Claremorris,3,2012,9.0
+F12,Claremorris,6,2012,12.0
+F12,Claremorris,9,2012,9.0
+F12,Claremorris,12,2012,9.0
+F12,Claremorris,3,2013,10.0
+F12,Claremorris,6,2013,16.0
+F12,Claremorris,9,2013,6.0
+F12,Claremorris,12,2013,44.0
+F12,Claremorris,3,2014,11.0
+F12,Claremorris,6,2014,11.0
+F12,Claremorris,9,2014,13.0
+F12,Claremorris,12,2014,13.0
+F12,Claremorris,3,2015,11.0
+F12,Claremorris,6,2015,15.0
+F12,Claremorris,9,2015,15.0
+F12,Claremorris,12,2015,11.0
+F12,Claremorris,3,2016,8.0
+F12,Claremorris,6,2016,5.0
+F12,Claremorris,9,2016,12.0
+F12,Claremorris,12,2016,17.0
+F12,Claremorris,3,2017,7.0
+F12,Claremorris,6,2017,13.0
+F12,Claremorris,9,2017,6.0
+F12,Claremorris,12,2017,10.0
+F12,Claremorris,3,2018,12.0
+F12,Claremorris,6,2018,19.0
+F12,Claremorris,9,2018,18.0
+F12,Claremorris,12,2018,16.0
+F12,Claremorris,3,2019,8.0
+F12,Claremorris,6,2019,13.0
+F12,Claremorris,9,2019,14.0
+F12,Claremorris,12,2019,17.0
+F12,Claremorris,3,2020,18.0
+F12,Claremorris,6,2020,14.0
+F12,Claremorris,9,2020,37.0
+F12,Claremorris,12,2020,15.0
+F12,Claremorris,3,2021,17.0
+F12,Claremorris,6,2021,13.0
+F12,Claremorris,9,2021,11.0
+F12,Claremorris,12,2021,21.0
+F12,Claremorris,3,2022,16.0
+F12,Claremorris,6,2022,29.0
+F12,Claremorris,9,2022,29.0
+F12,Claremorris,12,2022,16.0
+F12,Claremorris,3,2023,40.0
+F12,Claremorris,6,2023,31.0
+F12,Claremorris,9,2023,45.0
+F12,Claremorris,12,2023,36.0
+F12,Claremorris,3,2024,19.0
+F12,Claremorris,6,2024,30.0
+F23,Castlebar,3,2012,3.0
+F23,Castlebar,6,2012,5.0
+F23,Castlebar,9,2012,4.0
+F23,Castlebar,12,2012,3.0
+F23,Castlebar,3,2013,6.0
+F23,Castlebar,6,2013,3.0
+F23,Castlebar,9,2013,11.0
+F23,Castlebar,12,2013,7.0
+F23,Castlebar,3,2014,2.0
+F23,Castlebar,6,2014,4.0
+F23,Castlebar,9,2014,6.0
+F23,Castlebar,12,2014,8.0
+F23,Castlebar,3,2015,3.0
+F23,Castlebar,6,2015,5.0
+F23,Castlebar,9,2015,6.0
+F23,Castlebar,12,2015,8.0
+F23,Castlebar,3,2016,7.0
+F23,Castlebar,6,2016,11.0
+F23,Castlebar,9,2016,9.0
+F23,Castlebar,12,2016,12.0
+F23,Castlebar,3,2017,4.0
+F23,Castlebar,6,2017,8.0
+F23,Castlebar,9,2017,14.0
+F23,Castlebar,12,2017,7.0
+F23,Castlebar,3,2018,10.0
+F23,Castlebar,6,2018,7.0
+F23,Castlebar,9,2018,14.0
+F23,Castlebar,12,2018,14.0
+F23,Castlebar,3,2019,20.0
+F23,Castlebar,6,2019,19.0
+F23,Castlebar,9,2019,23.0
+F23,Castlebar,12,2019,30.0
+F23,Castlebar,3,2020,26.0
+F23,Castlebar,6,2020,9.0
+F23,Castlebar,9,2020,25.0
+F23,Castlebar,12,2020,19.0
+F23,Castlebar,3,2021,11.0
+F23,Castlebar,6,2021,19.0
+F23,Castlebar,9,2021,23.0
+F23,Castlebar,12,2021,31.0
+F23,Castlebar,3,2022,28.0
+F23,Castlebar,6,2022,25.0
+F23,Castlebar,9,2022,35.0
+F23,Castlebar,12,2022,32.0
+F23,Castlebar,3,2023,13.0
+F23,Castlebar,6,2023,20.0
+F23,Castlebar,9,2023,23.0
+F23,Castlebar,12,2023,45.0
+F23,Castlebar,3,2024,24.0
+F23,Castlebar,6,2024,21.0
+F26,Ballina,3,2012,21.0
+F26,Ballina,6,2012,19.0
+F26,Ballina,9,2012,23.0
+F26,Ballina,12,2012,24.0
+F26,Ballina,3,2013,14.0
+F26,Ballina,6,2013,17.0
+F26,Ballina,9,2013,9.0
+F26,Ballina,12,2013,20.0
+F26,Ballina,3,2014,15.0
+F26,Ballina,6,2014,17.0
+F26,Ballina,9,2014,12.0
+F26,Ballina,12,2014,21.0
+F26,Ballina,3,2015,13.0
+F26,Ballina,6,2015,11.0
+F26,Ballina,9,2015,18.0
+F26,Ballina,12,2015,22.0
+F26,Ballina,3,2016,15.0
+F26,Ballina,6,2016,17.0
+F26,Ballina,9,2016,24.0
+F26,Ballina,12,2016,15.0
+F26,Ballina,3,2017,15.0
+F26,Ballina,6,2017,30.0
+F26,Ballina,9,2017,16.0
+F26,Ballina,12,2017,16.0
+F26,Ballina,3,2018,23.0
+F26,Ballina,6,2018,19.0
+F26,Ballina,9,2018,16.0
+F26,Ballina,12,2018,27.0
+F26,Ballina,3,2019,22.0
+F26,Ballina,6,2019,27.0
+F26,Ballina,9,2019,28.0
+F26,Ballina,12,2019,45.0
+F26,Ballina,3,2020,26.0
+F26,Ballina,6,2020,14.0
+F26,Ballina,9,2020,36.0
+F26,Ballina,12,2020,44.0
+F26,Ballina,3,2021,20.0
+F26,Ballina,6,2021,41.0
+F26,Ballina,9,2021,28.0
+F26,Ballina,12,2021,41.0
+F26,Ballina,3,2022,31.0
+F26,Ballina,6,2022,28.0
+F26,Ballina,9,2022,34.0
+F26,Ballina,12,2022,49.0
+F26,Ballina,3,2023,29.0
+F26,Ballina,6,2023,51.0
+F26,Ballina,9,2023,29.0
+F26,Ballina,12,2023,32.0
+F26,Ballina,3,2024,22.0
+F26,Ballina,6,2024,45.0
+F28,Westport,3,2012,10.0
+F28,Westport,6,2012,17.0
+F28,Westport,9,2012,17.0
+F28,Westport,12,2012,14.0
+F28,Westport,3,2013,7.0
+F28,Westport,6,2013,9.0
+F28,Westport,9,2013,8.0
+F28,Westport,12,2013,11.0
+F28,Westport,3,2014,8.0
+F28,Westport,6,2014,14.0
+F28,Westport,9,2014,11.0
+F28,Westport,12,2014,10.0
+F28,Westport,3,2015,7.0
+F28,Westport,6,2015,11.0
+F28,Westport,9,2015,24.0
+F28,Westport,12,2015,10.0
+F28,Westport,3,2016,14.0
+F28,Westport,6,2016,15.0
+F28,Westport,9,2016,25.0
+F28,Westport,12,2016,43.0
+F28,Westport,3,2017,10.0
+F28,Westport,6,2017,19.0
+F28,Westport,9,2017,14.0
+F28,Westport,12,2017,32.0
+F28,Westport,3,2018,23.0
+F28,Westport,6,2018,17.0
+F28,Westport,9,2018,28.0
+F28,Westport,12,2018,29.0
+F28,Westport,3,2019,40.0
+F28,Westport,6,2019,25.0
+F28,Westport,9,2019,22.0
+F28,Westport,12,2019,45.0
+F28,Westport,3,2020,37.0
+F28,Westport,6,2020,15.0
+F28,Westport,9,2020,18.0
+F28,Westport,12,2020,20.0
+F28,Westport,3,2021,11.0
+F28,Westport,6,2021,17.0
+F28,Westport,9,2021,24.0
+F28,Westport,12,2021,24.0
+F28,Westport,3,2022,19.0
+F28,Westport,6,2022,30.0
+F28,Westport,9,2022,19.0
+F28,Westport,12,2022,24.0
+F28,Westport,3,2023,22.0
+F28,Westport,6,2023,30.0
+F28,Westport,9,2023,21.0
+F28,Westport,12,2023,23.0
+F28,Westport,3,2024,14.0
+F28,Westport,6,2024,57.0
+F31,Ballinrobe,3,2012,0.0
+F31,Ballinrobe,6,2012,1.0
+F31,Ballinrobe,9,2012,3.0
+F31,Ballinrobe,12,2012,2.0
+F31,Ballinrobe,3,2013,3.0
+F31,Ballinrobe,6,2013,1.0
+F31,Ballinrobe,9,2013,8.0
+F31,Ballinrobe,12,2013,3.0
+F31,Ballinrobe,3,2014,3.0
+F31,Ballinrobe,6,2014,2.0
+F31,Ballinrobe,9,2014,1.0
+F31,Ballinrobe,12,2014,2.0
+F31,Ballinrobe,3,2015,1.0
+F31,Ballinrobe,6,2015,0.0
+F31,Ballinrobe,9,2015,4.0
+F31,Ballinrobe,12,2015,3.0
+F31,Ballinrobe,3,2016,2.0
+F31,Ballinrobe,6,2016,2.0
+F31,Ballinrobe,9,2016,0.0
+F31,Ballinrobe,12,2016,5.0
+F31,Ballinrobe,3,2017,2.0
+F31,Ballinrobe,6,2017,5.0
+F31,Ballinrobe,9,2017,5.0
+F31,Ballinrobe,12,2017,6.0
+F31,Ballinrobe,3,2018,3.0
+F31,Ballinrobe,6,2018,3.0
+F31,Ballinrobe,9,2018,3.0
+F31,Ballinrobe,12,2018,9.0
+F31,Ballinrobe,3,2019,1.0
+F31,Ballinrobe,6,2019,3.0
+F31,Ballinrobe,9,2019,5.0
+F31,Ballinrobe,12,2019,23.0
+F31,Ballinrobe,3,2020,7.0
+F31,Ballinrobe,6,2020,1.0
+F31,Ballinrobe,9,2020,2.0
+F31,Ballinrobe,12,2020,9.0
+F31,Ballinrobe,3,2021,1.0
+F31,Ballinrobe,6,2021,3.0
+F31,Ballinrobe,9,2021,3.0
+F31,Ballinrobe,12,2021,6.0
+F31,Ballinrobe,3,2022,3.0
+F31,Ballinrobe,6,2022,4.0
+F31,Ballinrobe,9,2022,6.0
+F31,Ballinrobe,12,2022,0.0
+F31,Ballinrobe,3,2023,3.0
+F31,Ballinrobe,6,2023,3.0
+F31,Ballinrobe,9,2023,2.0
+F31,Ballinrobe,12,2023,6.0
+F31,Ballinrobe,3,2024,1.0
+F31,Ballinrobe,6,2024,11.0
+F35,Ballyhaunis,3,2012,2.0
+F35,Ballyhaunis,6,2012,5.0
+F35,Ballyhaunis,9,2012,2.0
+F35,Ballyhaunis,12,2012,1.0
+F35,Ballyhaunis,3,2013,0.0
+F35,Ballyhaunis,6,2013,1.0
+F35,Ballyhaunis,9,2013,4.0
+F35,Ballyhaunis,12,2013,3.0
+F35,Ballyhaunis,3,2014,0.0
+F35,Ballyhaunis,6,2014,3.0
+F35,Ballyhaunis,9,2014,4.0
+F35,Ballyhaunis,12,2014,1.0
+F35,Ballyhaunis,3,2015,2.0
+F35,Ballyhaunis,6,2015,4.0
+F35,Ballyhaunis,9,2015,1.0
+F35,Ballyhaunis,12,2015,3.0
+F35,Ballyhaunis,3,2016,1.0
+F35,Ballyhaunis,6,2016,4.0
+F35,Ballyhaunis,9,2016,2.0
+F35,Ballyhaunis,12,2016,1.0
+F35,Ballyhaunis,3,2017,1.0
+F35,Ballyhaunis,6,2017,0.0
+F35,Ballyhaunis,9,2017,4.0
+F35,Ballyhaunis,12,2017,3.0
+F35,Ballyhaunis,3,2018,0.0
+F35,Ballyhaunis,6,2018,1.0
+F35,Ballyhaunis,9,2018,5.0
+F35,Ballyhaunis,12,2018,2.0
+F35,Ballyhaunis,3,2019,1.0
+F35,Ballyhaunis,6,2019,0.0
+F35,Ballyhaunis,9,2019,4.0
+F35,Ballyhaunis,12,2019,9.0
+F35,Ballyhaunis,3,2020,12.0
+F35,Ballyhaunis,6,2020,5.0
+F35,Ballyhaunis,9,2020,11.0
+F35,Ballyhaunis,12,2020,7.0
+F35,Ballyhaunis,3,2021,3.0
+F35,Ballyhaunis,6,2021,6.0
+F35,Ballyhaunis,9,2021,3.0
+F35,Ballyhaunis,12,2021,1.0
+F35,Ballyhaunis,3,2022,2.0
+F35,Ballyhaunis,6,2022,3.0
+F35,Ballyhaunis,9,2022,5.0
+F35,Ballyhaunis,12,2022,4.0
+F35,Ballyhaunis,3,2023,3.0
+F35,Ballyhaunis,6,2023,7.0
+F35,Ballyhaunis,9,2023,1.0
+F35,Ballyhaunis,12,2023,2.0
+F35,Ballyhaunis,3,2024,1.0
+F35,Ballyhaunis,6,2024,5.0
+F42,Roscommon,3,2012,4.0
+F42,Roscommon,6,2012,11.0
+F42,Roscommon,9,2012,9.0
+F42,Roscommon,12,2012,5.0
+F42,Roscommon,3,2013,9.0
+F42,Roscommon,6,2013,5.0
+F42,Roscommon,9,2013,9.0
+F42,Roscommon,12,2013,6.0
+F42,Roscommon,3,2014,6.0
+F42,Roscommon,6,2014,3.0
+F42,Roscommon,9,2014,6.0
+F42,Roscommon,12,2014,3.0
+F42,Roscommon,3,2015,2.0
+F42,Roscommon,6,2015,9.0
+F42,Roscommon,9,2015,6.0
+F42,Roscommon,12,2015,5.0
+F42,Roscommon,3,2016,5.0
+F42,Roscommon,6,2016,12.0
+F42,Roscommon,9,2016,13.0
+F42,Roscommon,12,2016,9.0
+F42,Roscommon,3,2017,5.0
+F42,Roscommon,6,2017,10.0
+F42,Roscommon,9,2017,13.0
+F42,Roscommon,12,2017,13.0
+F42,Roscommon,3,2018,9.0
+F42,Roscommon,6,2018,14.0
+F42,Roscommon,9,2018,14.0
+F42,Roscommon,12,2018,21.0
+F42,Roscommon,3,2019,11.0
+F42,Roscommon,6,2019,11.0
+F42,Roscommon,9,2019,14.0
+F42,Roscommon,12,2019,20.0
+F42,Roscommon,3,2020,8.0
+F42,Roscommon,6,2020,8.0
+F42,Roscommon,9,2020,16.0
+F42,Roscommon,12,2020,29.0
+F42,Roscommon,3,2021,38.0
+F42,Roscommon,6,2021,39.0
+F42,Roscommon,9,2021,14.0
+F42,Roscommon,12,2021,20.0
+F42,Roscommon,3,2022,9.0
+F42,Roscommon,6,2022,12.0
+F42,Roscommon,9,2022,7.0
+F42,Roscommon,12,2022,17.0
+F42,Roscommon,3,2023,9.0
+F42,Roscommon,6,2023,15.0
+F42,Roscommon,9,2023,14.0
+F42,Roscommon,12,2023,20.0
+F42,Roscommon,3,2024,17.0
+F42,Roscommon,6,2024,15.0
+F45,Castlerea,3,2012,6.0
+F45,Castlerea,6,2012,11.0
+F45,Castlerea,9,2012,8.0
+F45,Castlerea,12,2012,5.0
+F45,Castlerea,3,2013,4.0
+F45,Castlerea,6,2013,8.0
+F45,Castlerea,9,2013,6.0
+F45,Castlerea,12,2013,11.0
+F45,Castlerea,3,2014,6.0
+F45,Castlerea,6,2014,3.0
+F45,Castlerea,9,2014,5.0
+F45,Castlerea,12,2014,9.0
+F45,Castlerea,3,2015,5.0
+F45,Castlerea,6,2015,9.0
+F45,Castlerea,9,2015,15.0
+F45,Castlerea,12,2015,5.0
+F45,Castlerea,3,2016,6.0
+F45,Castlerea,6,2016,6.0
+F45,Castlerea,9,2016,8.0
+F45,Castlerea,12,2016,4.0
+F45,Castlerea,3,2017,6.0
+F45,Castlerea,6,2017,4.0
+F45,Castlerea,9,2017,7.0
+F45,Castlerea,12,2017,18.0
+F45,Castlerea,3,2018,21.0
+F45,Castlerea,6,2018,11.0
+F45,Castlerea,9,2018,9.0
+F45,Castlerea,12,2018,11.0
+F45,Castlerea,3,2019,10.0
+F45,Castlerea,6,2019,16.0
+F45,Castlerea,9,2019,12.0
+F45,Castlerea,12,2019,17.0
+F45,Castlerea,3,2020,5.0
+F45,Castlerea,6,2020,10.0
+F45,Castlerea,9,2020,14.0
+F45,Castlerea,12,2020,17.0
+F45,Castlerea,3,2021,12.0
+F45,Castlerea,6,2021,13.0
+F45,Castlerea,9,2021,12.0
+F45,Castlerea,12,2021,10.0
+F45,Castlerea,3,2022,11.0
+F45,Castlerea,6,2022,13.0
+F45,Castlerea,9,2022,20.0
+F45,Castlerea,12,2022,13.0
+F45,Castlerea,3,2023,12.0
+F45,Castlerea,6,2023,20.0
+F45,Castlerea,9,2023,21.0
+F45,Castlerea,12,2023,24.0
+F45,Castlerea,3,2024,21.0
+F45,Castlerea,6,2024,9.0
+F52,Boyle,3,2012,8.0
+F52,Boyle,6,2012,5.0
+F52,Boyle,9,2012,4.0
+F52,Boyle,12,2012,2.0
+F52,Boyle,3,2013,3.0
+F52,Boyle,6,2013,5.0
+F52,Boyle,9,2013,2.0
+F52,Boyle,12,2013,2.0
+F52,Boyle,3,2014,0.0
+F52,Boyle,6,2014,2.0
+F52,Boyle,9,2014,0.0
+F52,Boyle,12,2014,4.0
+F52,Boyle,3,2015,2.0
+F52,Boyle,6,2015,5.0
+F52,Boyle,9,2015,1.0
+F52,Boyle,12,2015,0.0
+F52,Boyle,3,2016,2.0
+F52,Boyle,6,2016,9.0
+F52,Boyle,9,2016,4.0
+F52,Boyle,12,2016,4.0
+F52,Boyle,3,2017,3.0
+F52,Boyle,6,2017,4.0
+F52,Boyle,9,2017,9.0
+F52,Boyle,12,2017,6.0
+F52,Boyle,3,2018,2.0
+F52,Boyle,6,2018,2.0
+F52,Boyle,9,2018,8.0
+F52,Boyle,12,2018,7.0
+F52,Boyle,3,2019,4.0
+F52,Boyle,6,2019,5.0
+F52,Boyle,9,2019,4.0
+F52,Boyle,12,2019,4.0
+F52,Boyle,3,2020,7.0
+F52,Boyle,6,2020,1.0
+F52,Boyle,9,2020,8.0
+F52,Boyle,12,2020,5.0
+F52,Boyle,3,2021,6.0
+F52,Boyle,6,2021,3.0
+F52,Boyle,9,2021,4.0
+F52,Boyle,12,2021,3.0
+F52,Boyle,3,2022,5.0
+F52,Boyle,6,2022,3.0
+F52,Boyle,9,2022,8.0
+F52,Boyle,12,2022,10.0
+F52,Boyle,3,2023,8.0
+F52,Boyle,6,2023,12.0
+F52,Boyle,9,2023,6.0
+F52,Boyle,12,2023,7.0
+F52,Boyle,3,2024,9.0
+F52,Boyle,6,2024,1.0
+F56,Ballymote,3,2012,6.0
+F56,Ballymote,6,2012,1.0
+F56,Ballymote,9,2012,2.0
+F56,Ballymote,12,2012,3.0
+F56,Ballymote,3,2013,7.0
+F56,Ballymote,6,2013,2.0
+F56,Ballymote,9,2013,2.0
+F56,Ballymote,12,2013,7.0
+F56,Ballymote,3,2014,2.0
+F56,Ballymote,6,2014,2.0
+F56,Ballymote,9,2014,1.0
+F56,Ballymote,12,2014,0.0
+F56,Ballymote,3,2015,5.0
+F56,Ballymote,6,2015,1.0
+F56,Ballymote,9,2015,4.0
+F56,Ballymote,12,2015,1.0
+F56,Ballymote,3,2016,2.0
+F56,Ballymote,6,2016,5.0
+F56,Ballymote,9,2016,1.0
+F56,Ballymote,12,2016,5.0
+F56,Ballymote,3,2017,0.0
+F56,Ballymote,6,2017,5.0
+F56,Ballymote,9,2017,6.0
+F56,Ballymote,12,2017,7.0
+F56,Ballymote,3,2018,2.0
+F56,Ballymote,6,2018,6.0
+F56,Ballymote,9,2018,0.0
+F56,Ballymote,12,2018,9.0
+F56,Ballymote,3,2019,2.0
+F56,Ballymote,6,2019,3.0
+F56,Ballymote,9,2019,5.0
+F56,Ballymote,12,2019,2.0
+F56,Ballymote,3,2020,17.0
+F56,Ballymote,6,2020,1.0
+F56,Ballymote,9,2020,6.0
+F56,Ballymote,12,2020,2.0
+F56,Ballymote,3,2021,5.0
+F56,Ballymote,6,2021,2.0
+F56,Ballymote,9,2021,8.0
+F56,Ballymote,12,2021,7.0
+F56,Ballymote,3,2022,8.0
+F56,Ballymote,6,2022,5.0
+F56,Ballymote,9,2022,12.0
+F56,Ballymote,12,2022,14.0
+F56,Ballymote,3,2023,5.0
+F56,Ballymote,6,2023,7.0
+F56,Ballymote,9,2023,9.0
+F56,Ballymote,12,2023,7.0
+F56,Ballymote,3,2024,3.0
+F56,Ballymote,6,2024,5.0
+F91,Sligo,3,2012,58.0
+F91,Sligo,6,2012,60.0
+F91,Sligo,9,2012,16.0
+F91,Sligo,12,2012,9.0
+F91,Sligo,3,2013,26.0
+F91,Sligo,6,2013,14.0
+F91,Sligo,9,2013,18.0
+F91,Sligo,12,2013,14.0
+F91,Sligo,3,2014,5.0
+F91,Sligo,6,2014,18.0
+F91,Sligo,9,2014,12.0
+F91,Sligo,12,2014,17.0
+F91,Sligo,3,2015,12.0
+F91,Sligo,6,2015,7.0
+F91,Sligo,9,2015,15.0
+F91,Sligo,12,2015,24.0
+F91,Sligo,3,2016,8.0
+F91,Sligo,6,2016,9.0
+F91,Sligo,9,2016,28.0
+F91,Sligo,12,2016,20.0
+F91,Sligo,3,2017,15.0
+F91,Sligo,6,2017,16.0
+F91,Sligo,9,2017,25.0
+F91,Sligo,12,2017,42.0
+F91,Sligo,3,2018,30.0
+F91,Sligo,6,2018,35.0
+F91,Sligo,9,2018,52.0
+F91,Sligo,12,2018,47.0
+F91,Sligo,3,2019,9.0
+F91,Sligo,6,2019,36.0
+F91,Sligo,9,2019,27.0
+F91,Sligo,12,2019,23.0
+F91,Sligo,3,2020,49.0
+F91,Sligo,6,2020,7.0
+F91,Sligo,9,2020,46.0
+F91,Sligo,12,2020,40.0
+F91,Sligo,3,2021,18.0
+F91,Sligo,6,2021,21.0
+F91,Sligo,9,2021,30.0
+F91,Sligo,12,2021,38.0
+F91,Sligo,3,2022,26.0
+F91,Sligo,6,2022,41.0
+F91,Sligo,9,2022,42.0
+F91,Sligo,12,2022,55.0
+F91,Sligo,3,2023,42.0
+F91,Sligo,6,2023,76.0
+F91,Sligo,9,2023,55.0
+F91,Sligo,12,2023,75.0
+F91,Sligo,3,2024,36.0
+F91,Sligo,6,2024,48.0
+F92,Letterkenny,3,2012,17.0
+F92,Letterkenny,6,2012,24.0
+F92,Letterkenny,9,2012,31.0
+F92,Letterkenny,12,2012,32.0
+F92,Letterkenny,3,2013,22.0
+F92,Letterkenny,6,2013,21.0
+F92,Letterkenny,9,2013,28.0
+F92,Letterkenny,12,2013,30.0
+F92,Letterkenny,3,2014,22.0
+F92,Letterkenny,6,2014,22.0
+F92,Letterkenny,9,2014,29.0
+F92,Letterkenny,12,2014,26.0
+F92,Letterkenny,3,2015,24.0
+F92,Letterkenny,6,2015,34.0
+F92,Letterkenny,9,2015,24.0
+F92,Letterkenny,12,2015,26.0
+F92,Letterkenny,3,2016,28.0
+F92,Letterkenny,6,2016,40.0
+F92,Letterkenny,9,2016,34.0
+F92,Letterkenny,12,2016,30.0
+F92,Letterkenny,3,2017,28.0
+F92,Letterkenny,6,2017,40.0
+F92,Letterkenny,9,2017,35.0
+F92,Letterkenny,12,2017,38.0
+F92,Letterkenny,3,2018,37.0
+F92,Letterkenny,6,2018,26.0
+F92,Letterkenny,9,2018,60.0
+F92,Letterkenny,12,2018,69.0
+F92,Letterkenny,3,2019,37.0
+F92,Letterkenny,6,2019,55.0
+F92,Letterkenny,9,2019,72.0
+F92,Letterkenny,12,2019,43.0
+F92,Letterkenny,3,2020,48.0
+F92,Letterkenny,6,2020,50.0
+F92,Letterkenny,9,2020,51.0
+F92,Letterkenny,12,2020,122.0
+F92,Letterkenny,3,2021,43.0
+F92,Letterkenny,6,2021,52.0
+F92,Letterkenny,9,2021,52.0
+F92,Letterkenny,12,2021,52.0
+F92,Letterkenny,3,2022,56.0
+F92,Letterkenny,6,2022,64.0
+F92,Letterkenny,9,2022,73.0
+F92,Letterkenny,12,2022,72.0
+F92,Letterkenny,3,2023,54.0
+F92,Letterkenny,6,2023,62.0
+F92,Letterkenny,9,2023,65.0
+F92,Letterkenny,12,2023,66.0
+F92,Letterkenny,3,2024,71.0
+F92,Letterkenny,6,2024,50.0
+F93,Lifford,3,2012,22.0
+F93,Lifford,6,2012,38.0
+F93,Lifford,9,2012,30.0
+F93,Lifford,12,2012,34.0
+F93,Lifford,3,2013,15.0
+F93,Lifford,6,2013,20.0
+F93,Lifford,9,2013,16.0
+F93,Lifford,12,2013,26.0
+F93,Lifford,3,2014,19.0
+F93,Lifford,6,2014,22.0
+F93,Lifford,9,2014,24.0
+F93,Lifford,12,2014,33.0
+F93,Lifford,3,2015,18.0
+F93,Lifford,6,2015,18.0
+F93,Lifford,9,2015,10.0
+F93,Lifford,12,2015,32.0
+F93,Lifford,3,2016,10.0
+F93,Lifford,6,2016,20.0
+F93,Lifford,9,2016,20.0
+F93,Lifford,12,2016,24.0
+F93,Lifford,3,2017,23.0
+F93,Lifford,6,2017,29.0
+F93,Lifford,9,2017,26.0
+F93,Lifford,12,2017,30.0
+F93,Lifford,3,2018,33.0
+F93,Lifford,6,2018,38.0
+F93,Lifford,9,2018,33.0
+F93,Lifford,12,2018,40.0
+F93,Lifford,3,2019,23.0
+F93,Lifford,6,2019,35.0
+F93,Lifford,9,2019,46.0
+F93,Lifford,12,2019,32.0
+F93,Lifford,3,2020,36.0
+F93,Lifford,6,2020,33.0
+F93,Lifford,9,2020,45.0
+F93,Lifford,12,2020,47.0
+F93,Lifford,3,2021,20.0
+F93,Lifford,6,2021,27.0
+F93,Lifford,9,2021,25.0
+F93,Lifford,12,2021,51.0
+F93,Lifford,3,2022,47.0
+F93,Lifford,6,2022,50.0
+F93,Lifford,9,2022,45.0
+F93,Lifford,12,2022,60.0
+F93,Lifford,3,2023,40.0
+F93,Lifford,6,2023,52.0
+F93,Lifford,9,2023,60.0
+F93,Lifford,12,2023,37.0
+F93,Lifford,3,2024,27.0
+F93,Lifford,6,2024,48.0
+F94,Donegal,3,2012,75.0
+F94,Donegal,6,2012,12.0
+F94,Donegal,9,2012,31.0
+F94,Donegal,12,2012,12.0
+F94,Donegal,3,2013,17.0
+F94,Donegal,6,2013,18.0
+F94,Donegal,9,2013,19.0
+F94,Donegal,12,2013,18.0
+F94,Donegal,3,2014,15.0
+F94,Donegal,6,2014,18.0
+F94,Donegal,9,2014,10.0
+F94,Donegal,12,2014,17.0
+F94,Donegal,3,2015,9.0
+F94,Donegal,6,2015,15.0
+F94,Donegal,9,2015,24.0
+F94,Donegal,12,2015,11.0
+F94,Donegal,3,2016,18.0
+F94,Donegal,6,2016,23.0
+F94,Donegal,9,2016,20.0
+F94,Donegal,12,2016,20.0
+F94,Donegal,3,2017,25.0
+F94,Donegal,6,2017,25.0
+F94,Donegal,9,2017,33.0
+F94,Donegal,12,2017,31.0
+F94,Donegal,3,2018,16.0
+F94,Donegal,6,2018,26.0
+F94,Donegal,9,2018,31.0
+F94,Donegal,12,2018,22.0
+F94,Donegal,3,2019,25.0
+F94,Donegal,6,2019,20.0
+F94,Donegal,9,2019,15.0
+F94,Donegal,12,2019,26.0
+F94,Donegal,3,2020,36.0
+F94,Donegal,6,2020,15.0
+F94,Donegal,9,2020,36.0
+F94,Donegal,12,2020,56.0
+F94,Donegal,3,2021,21.0
+F94,Donegal,6,2021,45.0
+F94,Donegal,9,2021,32.0
+F94,Donegal,12,2021,59.0
+F94,Donegal,3,2022,28.0
+F94,Donegal,6,2022,43.0
+F94,Donegal,9,2022,56.0
+F94,Donegal,12,2022,68.0
+F94,Donegal,3,2023,44.0
+F94,Donegal,6,2023,55.0
+F94,Donegal,9,2023,66.0
+F94,Donegal,12,2023,39.0
+F94,Donegal,3,2024,29.0
+F94,Donegal,6,2024,35.0
+H12,Cavan,3,2012,8.0
+H12,Cavan,6,2012,4.0
+H12,Cavan,9,2012,8.0
+H12,Cavan,12,2012,10.0
+H12,Cavan,3,2013,6.0
+H12,Cavan,6,2013,8.0
+H12,Cavan,9,2013,4.0
+H12,Cavan,12,2013,7.0
+H12,Cavan,3,2014,10.0
+H12,Cavan,6,2014,5.0
+H12,Cavan,9,2014,8.0
+H12,Cavan,12,2014,10.0
+H12,Cavan,3,2015,9.0
+H12,Cavan,6,2015,4.0
+H12,Cavan,9,2015,7.0
+H12,Cavan,12,2015,15.0
+H12,Cavan,3,2016,6.0
+H12,Cavan,6,2016,10.0
+H12,Cavan,9,2016,21.0
+H12,Cavan,12,2016,17.0
+H12,Cavan,3,2017,8.0
+H12,Cavan,6,2017,12.0
+H12,Cavan,9,2017,16.0
+H12,Cavan,12,2017,12.0
+H12,Cavan,3,2018,16.0
+H12,Cavan,6,2018,17.0
+H12,Cavan,9,2018,20.0
+H12,Cavan,12,2018,11.0
+H12,Cavan,3,2019,9.0
+H12,Cavan,6,2019,7.0
+H12,Cavan,9,2019,14.0
+H12,Cavan,12,2019,8.0
+H12,Cavan,3,2020,13.0
+H12,Cavan,6,2020,6.0
+H12,Cavan,9,2020,18.0
+H12,Cavan,12,2020,24.0
+H12,Cavan,3,2021,12.0
+H12,Cavan,6,2021,22.0
+H12,Cavan,9,2021,14.0
+H12,Cavan,12,2021,13.0
+H12,Cavan,3,2022,12.0
+H12,Cavan,6,2022,47.0
+H12,Cavan,9,2022,15.0
+H12,Cavan,12,2022,38.0
+H12,Cavan,3,2023,27.0
+H12,Cavan,6,2023,12.0
+H12,Cavan,9,2023,43.0
+H12,Cavan,12,2023,30.0
+H12,Cavan,3,2024,12.0
+H12,Cavan,6,2024,15.0
+H14,Belturbet,3,2012,3.0
+H14,Belturbet,6,2012,1.0
+H14,Belturbet,9,2012,3.0
+H14,Belturbet,12,2012,4.0
+H14,Belturbet,3,2013,2.0
+H14,Belturbet,6,2013,2.0
+H14,Belturbet,9,2013,2.0
+H14,Belturbet,12,2013,4.0
+H14,Belturbet,3,2014,2.0
+H14,Belturbet,6,2014,1.0
+H14,Belturbet,9,2014,0.0
+H14,Belturbet,12,2014,4.0
+H14,Belturbet,3,2015,2.0
+H14,Belturbet,6,2015,1.0
+H14,Belturbet,9,2015,5.0
+H14,Belturbet,12,2015,4.0
+H14,Belturbet,3,2016,2.0
+H14,Belturbet,6,2016,7.0
+H14,Belturbet,9,2016,3.0
+H14,Belturbet,12,2016,3.0
+H14,Belturbet,3,2017,11.0
+H14,Belturbet,6,2017,7.0
+H14,Belturbet,9,2017,5.0
+H14,Belturbet,12,2017,5.0
+H14,Belturbet,3,2018,3.0
+H14,Belturbet,6,2018,7.0
+H14,Belturbet,9,2018,3.0
+H14,Belturbet,12,2018,9.0
+H14,Belturbet,3,2019,4.0
+H14,Belturbet,6,2019,5.0
+H14,Belturbet,9,2019,2.0
+H14,Belturbet,12,2019,4.0
+H14,Belturbet,3,2020,5.0
+H14,Belturbet,6,2020,4.0
+H14,Belturbet,9,2020,6.0
+H14,Belturbet,12,2020,3.0
+H14,Belturbet,3,2021,7.0
+H14,Belturbet,6,2021,2.0
+H14,Belturbet,9,2021,5.0
+H14,Belturbet,12,2021,7.0
+H14,Belturbet,3,2022,10.0
+H14,Belturbet,6,2022,9.0
+H14,Belturbet,9,2022,18.0
+H14,Belturbet,12,2022,4.0
+H14,Belturbet,3,2023,12.0
+H14,Belturbet,6,2023,4.0
+H14,Belturbet,9,2023,11.0
+H14,Belturbet,12,2023,7.0
+H14,Belturbet,3,2024,5.0
+H14,Belturbet,6,2024,7.0
+H16,Cootehill,3,2012,3.0
+H16,Cootehill,6,2012,4.0
+H16,Cootehill,9,2012,4.0
+H16,Cootehill,12,2012,3.0
+H16,Cootehill,3,2013,3.0
+H16,Cootehill,6,2013,0.0
+H16,Cootehill,9,2013,1.0
+H16,Cootehill,12,2013,1.0
+H16,Cootehill,3,2014,4.0
+H16,Cootehill,6,2014,1.0
+H16,Cootehill,9,2014,3.0
+H16,Cootehill,12,2014,2.0
+H16,Cootehill,3,2015,1.0
+H16,Cootehill,6,2015,0.0
+H16,Cootehill,9,2015,2.0
+H16,Cootehill,12,2015,3.0
+H16,Cootehill,3,2016,0.0
+H16,Cootehill,6,2016,1.0
+H16,Cootehill,9,2016,6.0
+H16,Cootehill,12,2016,4.0
+H16,Cootehill,3,2017,2.0
+H16,Cootehill,6,2017,8.0
+H16,Cootehill,9,2017,3.0
+H16,Cootehill,12,2017,2.0
+H16,Cootehill,3,2018,0.0
+H16,Cootehill,6,2018,3.0
+H16,Cootehill,9,2018,2.0
+H16,Cootehill,12,2018,1.0
+H16,Cootehill,3,2019,5.0
+H16,Cootehill,6,2019,6.0
+H16,Cootehill,9,2019,3.0
+H16,Cootehill,12,2019,2.0
+H16,Cootehill,3,2020,0.0
+H16,Cootehill,6,2020,3.0
+H16,Cootehill,9,2020,0.0
+H16,Cootehill,12,2020,7.0
+H16,Cootehill,3,2021,5.0
+H16,Cootehill,6,2021,4.0
+H16,Cootehill,9,2021,4.0
+H16,Cootehill,12,2021,4.0
+H16,Cootehill,3,2022,2.0
+H16,Cootehill,6,2022,5.0
+H16,Cootehill,9,2022,5.0
+H16,Cootehill,12,2022,9.0
+H16,Cootehill,3,2023,4.0
+H16,Cootehill,6,2023,6.0
+H16,Cootehill,9,2023,5.0
+H16,Cootehill,12,2023,5.0
+H16,Cootehill,3,2024,9.0
+H16,Cootehill,6,2024,4.0
+H18,Monaghan,3,2012,8.0
+H18,Monaghan,6,2012,8.0
+H18,Monaghan,9,2012,9.0
+H18,Monaghan,12,2012,11.0
+H18,Monaghan,3,2013,3.0
+H18,Monaghan,6,2013,6.0
+H18,Monaghan,9,2013,12.0
+H18,Monaghan,12,2013,10.0
+H18,Monaghan,3,2014,3.0
+H18,Monaghan,6,2014,7.0
+H18,Monaghan,9,2014,12.0
+H18,Monaghan,12,2014,6.0
+H18,Monaghan,3,2015,6.0
+H18,Monaghan,6,2015,13.0
+H18,Monaghan,9,2015,11.0
+H18,Monaghan,12,2015,12.0
+H18,Monaghan,3,2016,10.0
+H18,Monaghan,6,2016,9.0
+H18,Monaghan,9,2016,12.0
+H18,Monaghan,12,2016,16.0
+H18,Monaghan,3,2017,9.0
+H18,Monaghan,6,2017,21.0
+H18,Monaghan,9,2017,18.0
+H18,Monaghan,12,2017,27.0
+H18,Monaghan,3,2018,10.0
+H18,Monaghan,6,2018,18.0
+H18,Monaghan,9,2018,11.0
+H18,Monaghan,12,2018,21.0
+H18,Monaghan,3,2019,15.0
+H18,Monaghan,6,2019,25.0
+H18,Monaghan,9,2019,57.0
+H18,Monaghan,12,2019,18.0
+H18,Monaghan,3,2020,18.0
+H18,Monaghan,6,2020,16.0
+H18,Monaghan,9,2020,21.0
+H18,Monaghan,12,2020,23.0
+H18,Monaghan,3,2021,15.0
+H18,Monaghan,6,2021,14.0
+H18,Monaghan,9,2021,17.0
+H18,Monaghan,12,2021,24.0
+H18,Monaghan,3,2022,30.0
+H18,Monaghan,6,2022,26.0
+H18,Monaghan,9,2022,30.0
+H18,Monaghan,12,2022,43.0
+H18,Monaghan,3,2023,47.0
+H18,Monaghan,6,2023,25.0
+H18,Monaghan,9,2023,37.0
+H18,Monaghan,12,2023,21.0
+H18,Monaghan,3,2024,17.0
+H18,Monaghan,6,2024,18.0
+H23,Clones,3,2012,0.0
+H23,Clones,6,2012,2.0
+H23,Clones,9,2012,0.0
+H23,Clones,12,2012,1.0
+H23,Clones,3,2013,0.0
+H23,Clones,6,2013,2.0
+H23,Clones,9,2013,0.0
+H23,Clones,12,2013,1.0
+H23,Clones,3,2014,0.0
+H23,Clones,6,2014,0.0
+H23,Clones,9,2014,0.0
+H23,Clones,12,2014,2.0
+H23,Clones,3,2015,0.0
+H23,Clones,6,2015,0.0
+H23,Clones,9,2015,0.0
+H23,Clones,12,2015,15.0
+H23,Clones,3,2016,0.0
+H23,Clones,6,2016,0.0
+H23,Clones,9,2016,0.0
+H23,Clones,12,2016,0.0
+H23,Clones,3,2017,1.0
+H23,Clones,6,2017,4.0
+H23,Clones,9,2017,0.0
+H23,Clones,12,2017,0.0
+H23,Clones,3,2018,2.0
+H23,Clones,6,2018,5.0
+H23,Clones,9,2018,1.0
+H23,Clones,12,2018,1.0
+H23,Clones,3,2019,2.0
+H23,Clones,6,2019,0.0
+H23,Clones,9,2019,0.0
+H23,Clones,12,2019,0.0
+H23,Clones,3,2020,1.0
+H23,Clones,6,2020,1.0
+H23,Clones,9,2020,0.0
+H23,Clones,12,2020,7.0
+H23,Clones,3,2021,7.0
+H23,Clones,6,2021,14.0
+H23,Clones,9,2021,1.0
+H23,Clones,12,2021,1.0
+H23,Clones,3,2022,0.0
+H23,Clones,6,2022,18.0
+H23,Clones,9,2022,1.0
+H23,Clones,12,2022,1.0
+H23,Clones,3,2023,0.0
+H23,Clones,6,2023,4.0
+H23,Clones,9,2023,0.0
+H23,Clones,12,2023,3.0
+H23,Clones,3,2024,2.0
+H23,Clones,6,2024,1.0
+H53,Ballinasloe,3,2012,12.0
+H53,Ballinasloe,6,2012,11.0
+H53,Ballinasloe,9,2012,9.0
+H53,Ballinasloe,12,2012,13.0
+H53,Ballinasloe,3,2013,14.0
+H53,Ballinasloe,6,2013,16.0
+H53,Ballinasloe,9,2013,11.0
+H53,Ballinasloe,12,2013,9.0
+H53,Ballinasloe,3,2014,10.0
+H53,Ballinasloe,6,2014,15.0
+H53,Ballinasloe,9,2014,15.0
+H53,Ballinasloe,12,2014,12.0
+H53,Ballinasloe,3,2015,15.0
+H53,Ballinasloe,6,2015,8.0
+H53,Ballinasloe,9,2015,11.0
+H53,Ballinasloe,12,2015,20.0
+H53,Ballinasloe,3,2016,8.0
+H53,Ballinasloe,6,2016,15.0
+H53,Ballinasloe,9,2016,10.0
+H53,Ballinasloe,12,2016,9.0
+H53,Ballinasloe,3,2017,22.0
+H53,Ballinasloe,6,2017,11.0
+H53,Ballinasloe,9,2017,18.0
+H53,Ballinasloe,12,2017,13.0
+H53,Ballinasloe,3,2018,11.0
+H53,Ballinasloe,6,2018,21.0
+H53,Ballinasloe,9,2018,14.0
+H53,Ballinasloe,12,2018,18.0
+H53,Ballinasloe,3,2019,29.0
+H53,Ballinasloe,6,2019,27.0
+H53,Ballinasloe,9,2019,28.0
+H53,Ballinasloe,12,2019,27.0
+H53,Ballinasloe,3,2020,33.0
+H53,Ballinasloe,6,2020,15.0
+H53,Ballinasloe,9,2020,18.0
+H53,Ballinasloe,12,2020,26.0
+H53,Ballinasloe,3,2021,18.0
+H53,Ballinasloe,6,2021,15.0
+H53,Ballinasloe,9,2021,25.0
+H53,Ballinasloe,12,2021,21.0
+H53,Ballinasloe,3,2022,23.0
+H53,Ballinasloe,6,2022,23.0
+H53,Ballinasloe,9,2022,29.0
+H53,Ballinasloe,12,2022,49.0
+H53,Ballinasloe,3,2023,35.0
+H53,Ballinasloe,6,2023,63.0
+H53,Ballinasloe,9,2023,59.0
+H53,Ballinasloe,12,2023,51.0
+H53,Ballinasloe,3,2024,14.0
+H53,Ballinasloe,6,2024,81.0
+H54,Tuam,3,2012,10.0
+H54,Tuam,6,2012,8.0
+H54,Tuam,9,2012,13.0
+H54,Tuam,12,2012,8.0
+H54,Tuam,3,2013,8.0
+H54,Tuam,6,2013,8.0
+H54,Tuam,9,2013,7.0
+H54,Tuam,12,2013,8.0
+H54,Tuam,3,2014,12.0
+H54,Tuam,6,2014,7.0
+H54,Tuam,9,2014,8.0
+H54,Tuam,12,2014,6.0
+H54,Tuam,3,2015,4.0
+H54,Tuam,6,2015,10.0
+H54,Tuam,9,2015,14.0
+H54,Tuam,12,2015,14.0
+H54,Tuam,3,2016,10.0
+H54,Tuam,6,2016,8.0
+H54,Tuam,9,2016,9.0
+H54,Tuam,12,2016,12.0
+H54,Tuam,3,2017,15.0
+H54,Tuam,6,2017,11.0
+H54,Tuam,9,2017,13.0
+H54,Tuam,12,2017,12.0
+H54,Tuam,3,2018,11.0
+H54,Tuam,6,2018,22.0
+H54,Tuam,9,2018,17.0
+H54,Tuam,12,2018,20.0
+H54,Tuam,3,2019,15.0
+H54,Tuam,6,2019,43.0
+H54,Tuam,9,2019,38.0
+H54,Tuam,12,2019,21.0
+H54,Tuam,3,2020,15.0
+H54,Tuam,6,2020,13.0
+H54,Tuam,9,2020,9.0
+H54,Tuam,12,2020,18.0
+H54,Tuam,3,2021,16.0
+H54,Tuam,6,2021,23.0
+H54,Tuam,9,2021,22.0
+H54,Tuam,12,2021,27.0
+H54,Tuam,3,2022,28.0
+H54,Tuam,6,2022,39.0
+H54,Tuam,9,2022,30.0
+H54,Tuam,12,2022,29.0
+H54,Tuam,3,2023,23.0
+H54,Tuam,6,2023,35.0
+H54,Tuam,9,2023,31.0
+H54,Tuam,12,2023,29.0
+H54,Tuam,3,2024,47.0
+H54,Tuam,6,2024,49.0
+H62,Loughrea,3,2012,5.0
+H62,Loughrea,6,2012,4.0
+H62,Loughrea,9,2012,7.0
+H62,Loughrea,12,2012,11.0
+H62,Loughrea,3,2013,7.0
+H62,Loughrea,6,2013,2.0
+H62,Loughrea,9,2013,6.0
+H62,Loughrea,12,2013,5.0
+H62,Loughrea,3,2014,3.0
+H62,Loughrea,6,2014,3.0
+H62,Loughrea,9,2014,3.0
+H62,Loughrea,12,2014,3.0
+H62,Loughrea,3,2015,5.0
+H62,Loughrea,6,2015,5.0
+H62,Loughrea,9,2015,10.0
+H62,Loughrea,12,2015,6.0
+H62,Loughrea,3,2016,6.0
+H62,Loughrea,6,2016,9.0
+H62,Loughrea,9,2016,7.0
+H62,Loughrea,12,2016,9.0
+H62,Loughrea,3,2017,15.0
+H62,Loughrea,6,2017,9.0
+H62,Loughrea,9,2017,10.0
+H62,Loughrea,12,2017,10.0
+H62,Loughrea,3,2018,14.0
+H62,Loughrea,6,2018,13.0
+H62,Loughrea,9,2018,7.0
+H62,Loughrea,12,2018,13.0
+H62,Loughrea,3,2019,5.0
+H62,Loughrea,6,2019,10.0
+H62,Loughrea,9,2019,19.0
+H62,Loughrea,12,2019,25.0
+H62,Loughrea,3,2020,18.0
+H62,Loughrea,6,2020,15.0
+H62,Loughrea,9,2020,33.0
+H62,Loughrea,12,2020,60.0
+H62,Loughrea,3,2021,15.0
+H62,Loughrea,6,2021,15.0
+H62,Loughrea,9,2021,9.0
+H62,Loughrea,12,2021,20.0
+H62,Loughrea,3,2022,18.0
+H62,Loughrea,6,2022,21.0
+H62,Loughrea,9,2022,11.0
+H62,Loughrea,12,2022,21.0
+H62,Loughrea,3,2023,10.0
+H62,Loughrea,6,2023,14.0
+H62,Loughrea,9,2023,17.0
+H62,Loughrea,12,2023,17.0
+H62,Loughrea,3,2024,10.0
+H62,Loughrea,6,2024,10.0
+H65,Athenry,3,2012,6.0
+H65,Athenry,6,2012,8.0
+H65,Athenry,9,2012,4.0
+H65,Athenry,12,2012,9.0
+H65,Athenry,3,2013,5.0
+H65,Athenry,6,2013,3.0
+H65,Athenry,9,2013,1.0
+H65,Athenry,12,2013,5.0
+H65,Athenry,3,2014,1.0
+H65,Athenry,6,2014,5.0
+H65,Athenry,9,2014,10.0
+H65,Athenry,12,2014,6.0
+H65,Athenry,3,2015,6.0
+H65,Athenry,6,2015,17.0
+H65,Athenry,9,2015,17.0
+H65,Athenry,12,2015,6.0
+H65,Athenry,3,2016,9.0
+H65,Athenry,6,2016,9.0
+H65,Athenry,9,2016,13.0
+H65,Athenry,12,2016,10.0
+H65,Athenry,3,2017,10.0
+H65,Athenry,6,2017,15.0
+H65,Athenry,9,2017,13.0
+H65,Athenry,12,2017,18.0
+H65,Athenry,3,2018,6.0
+H65,Athenry,6,2018,10.0
+H65,Athenry,9,2018,16.0
+H65,Athenry,12,2018,15.0
+H65,Athenry,3,2019,6.0
+H65,Athenry,6,2019,5.0
+H65,Athenry,9,2019,17.0
+H65,Athenry,12,2019,18.0
+H65,Athenry,3,2020,14.0
+H65,Athenry,6,2020,11.0
+H65,Athenry,9,2020,9.0
+H65,Athenry,12,2020,20.0
+H65,Athenry,3,2021,16.0
+H65,Athenry,6,2021,4.0
+H65,Athenry,9,2021,8.0
+H65,Athenry,12,2021,19.0
+H65,Athenry,3,2022,16.0
+H65,Athenry,6,2022,27.0
+H65,Athenry,9,2022,39.0
+H65,Athenry,12,2022,18.0
+H65,Athenry,3,2023,19.0
+H65,Athenry,6,2023,35.0
+H65,Athenry,9,2023,62.0
+H65,Athenry,12,2023,11.0
+H65,Athenry,3,2024,10.0
+H65,Athenry,6,2024,10.0
+H71,Clifden,3,2012,1.0
+H71,Clifden,6,2012,1.0
+H71,Clifden,9,2012,3.0
+H71,Clifden,12,2012,1.0
+H71,Clifden,3,2013,0.0
+H71,Clifden,6,2013,0.0
+H71,Clifden,9,2013,3.0
+H71,Clifden,12,2013,2.0
+H71,Clifden,3,2014,1.0
+H71,Clifden,6,2014,0.0
+H71,Clifden,9,2014,2.0
+H71,Clifden,12,2014,2.0
+H71,Clifden,3,2015,2.0
+H71,Clifden,6,2015,1.0
+H71,Clifden,9,2015,2.0
+H71,Clifden,12,2015,1.0
+H71,Clifden,3,2016,1.0
+H71,Clifden,6,2016,2.0
+H71,Clifden,9,2016,8.0
+H71,Clifden,12,2016,3.0
+H71,Clifden,3,2017,2.0
+H71,Clifden,6,2017,4.0
+H71,Clifden,9,2017,3.0
+H71,Clifden,12,2017,3.0
+H71,Clifden,3,2018,4.0
+H71,Clifden,6,2018,9.0
+H71,Clifden,9,2018,2.0
+H71,Clifden,12,2018,1.0
+H71,Clifden,3,2019,4.0
+H71,Clifden,6,2019,3.0
+H71,Clifden,9,2019,4.0
+H71,Clifden,12,2019,1.0
+H71,Clifden,3,2020,2.0
+H71,Clifden,6,2020,3.0
+H71,Clifden,9,2020,2.0
+H71,Clifden,12,2020,1.0
+H71,Clifden,3,2021,1.0
+H71,Clifden,6,2021,1.0
+H71,Clifden,9,2021,3.0
+H71,Clifden,12,2021,0.0
+H71,Clifden,3,2022,2.0
+H71,Clifden,6,2022,2.0
+H71,Clifden,9,2022,1.0
+H71,Clifden,12,2022,21.0
+H71,Clifden,3,2023,7.0
+H71,Clifden,6,2023,5.0
+H71,Clifden,9,2023,7.0
+H71,Clifden,12,2023,4.0
+H71,Clifden,3,2024,0.0
+H71,Clifden,6,2024,4.0
+H91,Galway,3,2012,46.0
+H91,Galway,6,2012,46.0
+H91,Galway,9,2012,39.0
+H91,Galway,12,2012,53.0
+H91,Galway,3,2013,49.0
+H91,Galway,6,2013,59.0
+H91,Galway,9,2013,46.0
+H91,Galway,12,2013,47.0
+H91,Galway,3,2014,46.0
+H91,Galway,6,2014,51.0
+H91,Galway,9,2014,50.0
+H91,Galway,12,2014,51.0
+H91,Galway,3,2015,41.0
+H91,Galway,6,2015,46.0
+H91,Galway,9,2015,55.0
+H91,Galway,12,2015,68.0
+H91,Galway,3,2016,64.0
+H91,Galway,6,2016,103.0
+H91,Galway,9,2016,95.0
+H91,Galway,12,2016,90.0
+H91,Galway,3,2017,87.0
+H91,Galway,6,2017,92.0
+H91,Galway,9,2017,104.0
+H91,Galway,12,2017,127.0
+H91,Galway,3,2018,98.0
+H91,Galway,6,2018,101.0
+H91,Galway,9,2018,95.0
+H91,Galway,12,2018,139.0
+H91,Galway,3,2019,121.0
+H91,Galway,6,2019,151.0
+H91,Galway,9,2019,193.0
+H91,Galway,12,2019,255.0
+H91,Galway,3,2020,169.0
+H91,Galway,6,2020,99.0
+H91,Galway,9,2020,174.0
+H91,Galway,12,2020,277.0
+H91,Galway,3,2021,266.0
+H91,Galway,6,2021,185.0
+H91,Galway,9,2021,175.0
+H91,Galway,12,2021,144.0
+H91,Galway,3,2022,110.0
+H91,Galway,6,2022,255.0
+H91,Galway,9,2022,275.0
+H91,Galway,12,2022,223.0
+H91,Galway,3,2023,189.0
+H91,Galway,6,2023,182.0
+H91,Galway,9,2023,225.0
+H91,Galway,12,2023,182.0
+H91,Galway,3,2024,197.0
+H91,Galway,6,2024,180.0
+K32,Balbriggan,3,2012,2.0
+K32,Balbriggan,6,2012,5.0
+K32,Balbriggan,9,2012,5.0
+K32,Balbriggan,12,2012,8.0
+K32,Balbriggan,3,2013,2.0
+K32,Balbriggan,6,2013,3.0
+K32,Balbriggan,9,2013,18.0
+K32,Balbriggan,12,2013,8.0
+K32,Balbriggan,3,2014,8.0
+K32,Balbriggan,6,2014,6.0
+K32,Balbriggan,9,2014,8.0
+K32,Balbriggan,12,2014,18.0
+K32,Balbriggan,3,2015,6.0
+K32,Balbriggan,6,2015,14.0
+K32,Balbriggan,9,2015,5.0
+K32,Balbriggan,12,2015,11.0
+K32,Balbriggan,3,2016,15.0
+K32,Balbriggan,6,2016,17.0
+K32,Balbriggan,9,2016,20.0
+K32,Balbriggan,12,2016,21.0
+K32,Balbriggan,3,2017,24.0
+K32,Balbriggan,6,2017,20.0
+K32,Balbriggan,9,2017,36.0
+K32,Balbriggan,12,2017,32.0
+K32,Balbriggan,3,2018,22.0
+K32,Balbriggan,6,2018,45.0
+K32,Balbriggan,9,2018,94.0
+K32,Balbriggan,12,2018,60.0
+K32,Balbriggan,3,2019,53.0
+K32,Balbriggan,6,2019,64.0
+K32,Balbriggan,9,2019,62.0
+K32,Balbriggan,12,2019,58.0
+K32,Balbriggan,3,2020,25.0
+K32,Balbriggan,6,2020,52.0
+K32,Balbriggan,9,2020,53.0
+K32,Balbriggan,12,2020,53.0
+K32,Balbriggan,3,2021,10.0
+K32,Balbriggan,6,2021,59.0
+K32,Balbriggan,9,2021,19.0
+K32,Balbriggan,12,2021,65.0
+K32,Balbriggan,3,2022,9.0
+K32,Balbriggan,6,2022,57.0
+K32,Balbriggan,9,2022,116.0
+K32,Balbriggan,12,2022,28.0
+K32,Balbriggan,3,2023,7.0
+K32,Balbriggan,6,2023,7.0
+K32,Balbriggan,9,2023,7.0
+K32,Balbriggan,12,2023,6.0
+K32,Balbriggan,3,2024,23.0
+K32,Balbriggan,6,2024,5.0
+K34,Skerries,3,2012,1.0
+K34,Skerries,6,2012,3.0
+K34,Skerries,9,2012,1.0
+K34,Skerries,12,2012,2.0
+K34,Skerries,3,2013,2.0
+K34,Skerries,6,2013,4.0
+K34,Skerries,9,2013,4.0
+K34,Skerries,12,2013,6.0
+K34,Skerries,3,2014,6.0
+K34,Skerries,6,2014,6.0
+K34,Skerries,9,2014,10.0
+K34,Skerries,12,2014,9.0
+K34,Skerries,3,2015,6.0
+K34,Skerries,6,2015,16.0
+K34,Skerries,9,2015,8.0
+K34,Skerries,12,2015,19.0
+K34,Skerries,3,2016,16.0
+K34,Skerries,6,2016,21.0
+K34,Skerries,9,2016,16.0
+K34,Skerries,12,2016,32.0
+K34,Skerries,3,2017,18.0
+K34,Skerries,6,2017,22.0
+K34,Skerries,9,2017,29.0
+K34,Skerries,12,2017,31.0
+K34,Skerries,3,2018,21.0
+K34,Skerries,6,2018,31.0
+K34,Skerries,9,2018,8.0
+K34,Skerries,12,2018,19.0
+K34,Skerries,3,2019,11.0
+K34,Skerries,6,2019,17.0
+K34,Skerries,9,2019,3.0
+K34,Skerries,12,2019,9.0
+K34,Skerries,3,2020,2.0
+K34,Skerries,6,2020,3.0
+K34,Skerries,9,2020,2.0
+K34,Skerries,12,2020,4.0
+K34,Skerries,3,2021,7.0
+K34,Skerries,6,2021,5.0
+K34,Skerries,9,2021,6.0
+K34,Skerries,12,2021,10.0
+K34,Skerries,3,2022,10.0
+K34,Skerries,6,2022,9.0
+K34,Skerries,9,2022,14.0
+K34,Skerries,12,2022,6.0
+K34,Skerries,3,2023,10.0
+K34,Skerries,6,2023,6.0
+K34,Skerries,9,2023,7.0
+K34,Skerries,12,2023,9.0
+K34,Skerries,3,2024,2.0
+K34,Skerries,6,2024,3.0
+K36,Malahide,3,2012,3.0
+K36,Malahide,6,2012,7.0
+K36,Malahide,9,2012,4.0
+K36,Malahide,12,2012,13.0
+K36,Malahide,3,2013,3.0
+K36,Malahide,6,2013,5.0
+K36,Malahide,9,2013,13.0
+K36,Malahide,12,2013,17.0
+K36,Malahide,3,2014,8.0
+K36,Malahide,6,2014,11.0
+K36,Malahide,9,2014,21.0
+K36,Malahide,12,2014,30.0
+K36,Malahide,3,2015,26.0
+K36,Malahide,6,2015,54.0
+K36,Malahide,9,2015,103.0
+K36,Malahide,12,2015,70.0
+K36,Malahide,3,2016,43.0
+K36,Malahide,6,2016,40.0
+K36,Malahide,9,2016,30.0
+K36,Malahide,12,2016,44.0
+K36,Malahide,3,2017,35.0
+K36,Malahide,6,2017,45.0
+K36,Malahide,9,2017,63.0
+K36,Malahide,12,2017,47.0
+K36,Malahide,3,2018,58.0
+K36,Malahide,6,2018,113.0
+K36,Malahide,9,2018,73.0
+K36,Malahide,12,2018,67.0
+K36,Malahide,3,2019,73.0
+K36,Malahide,6,2019,61.0
+K36,Malahide,9,2019,156.0
+K36,Malahide,12,2019,134.0
+K36,Malahide,3,2020,47.0
+K36,Malahide,6,2020,25.0
+K36,Malahide,9,2020,86.0
+K36,Malahide,12,2020,67.0
+K36,Malahide,3,2021,8.0
+K36,Malahide,6,2021,28.0
+K36,Malahide,9,2021,52.0
+K36,Malahide,12,2021,83.0
+K36,Malahide,3,2022,50.0
+K36,Malahide,6,2022,84.0
+K36,Malahide,9,2022,44.0
+K36,Malahide,12,2022,65.0
+K36,Malahide,3,2023,26.0
+K36,Malahide,6,2023,102.0
+K36,Malahide,9,2023,116.0
+K36,Malahide,12,2023,52.0
+K36,Malahide,3,2024,85.0
+K36,Malahide,6,2024,8.0
+K45,Lusk,3,2012,1.0
+K45,Lusk,6,2012,0.0
+K45,Lusk,9,2012,1.0
+K45,Lusk,12,2012,3.0
+K45,Lusk,3,2013,0.0
+K45,Lusk,6,2013,2.0
+K45,Lusk,9,2013,6.0
+K45,Lusk,12,2013,3.0
+K45,Lusk,3,2014,4.0
+K45,Lusk,6,2014,7.0
+K45,Lusk,9,2014,13.0
+K45,Lusk,12,2014,10.0
+K45,Lusk,3,2015,15.0
+K45,Lusk,6,2015,1.0
+K45,Lusk,9,2015,6.0
+K45,Lusk,12,2015,7.0
+K45,Lusk,3,2016,6.0
+K45,Lusk,6,2016,2.0
+K45,Lusk,9,2016,4.0
+K45,Lusk,12,2016,3.0
+K45,Lusk,3,2017,1.0
+K45,Lusk,6,2017,0.0
+K45,Lusk,9,2017,13.0
+K45,Lusk,12,2017,2.0
+K45,Lusk,3,2018,17.0
+K45,Lusk,6,2018,42.0
+K45,Lusk,9,2018,30.0
+K45,Lusk,12,2018,29.0
+K45,Lusk,3,2019,3.0
+K45,Lusk,6,2019,12.0
+K45,Lusk,9,2019,27.0
+K45,Lusk,12,2019,32.0
+K45,Lusk,3,2020,29.0
+K45,Lusk,6,2020,0.0
+K45,Lusk,9,2020,2.0
+K45,Lusk,12,2020,3.0
+K45,Lusk,3,2021,1.0
+K45,Lusk,6,2021,14.0
+K45,Lusk,9,2021,26.0
+K45,Lusk,12,2021,35.0
+K45,Lusk,3,2022,29.0
+K45,Lusk,6,2022,54.0
+K45,Lusk,9,2022,28.0
+K45,Lusk,12,2022,24.0
+K45,Lusk,3,2023,65.0
+K45,Lusk,6,2023,29.0
+K45,Lusk,9,2023,30.0
+K45,Lusk,12,2023,15.0
+K45,Lusk,3,2024,0.0
+K45,Lusk,6,2024,78.0
+K56,Rush,3,2012,0.0
+K56,Rush,6,2012,2.0
+K56,Rush,9,2012,3.0
+K56,Rush,12,2012,2.0
+K56,Rush,3,2013,1.0
+K56,Rush,6,2013,5.0
+K56,Rush,9,2013,2.0
+K56,Rush,12,2013,2.0
+K56,Rush,3,2014,5.0
+K56,Rush,6,2014,9.0
+K56,Rush,9,2014,10.0
+K56,Rush,12,2014,13.0
+K56,Rush,3,2015,7.0
+K56,Rush,6,2015,5.0
+K56,Rush,9,2015,7.0
+K56,Rush,12,2015,7.0
+K56,Rush,3,2016,3.0
+K56,Rush,6,2016,0.0
+K56,Rush,9,2016,13.0
+K56,Rush,12,2016,15.0
+K56,Rush,3,2017,17.0
+K56,Rush,6,2017,1.0
+K56,Rush,9,2017,8.0
+K56,Rush,12,2017,8.0
+K56,Rush,3,2018,4.0
+K56,Rush,6,2018,3.0
+K56,Rush,9,2018,5.0
+K56,Rush,12,2018,21.0
+K56,Rush,3,2019,10.0
+K56,Rush,6,2019,39.0
+K56,Rush,9,2019,25.0
+K56,Rush,12,2019,48.0
+K56,Rush,3,2020,45.0
+K56,Rush,6,2020,9.0
+K56,Rush,9,2020,2.0
+K56,Rush,12,2020,2.0
+K56,Rush,3,2021,5.0
+K56,Rush,6,2021,3.0
+K56,Rush,9,2021,9.0
+K56,Rush,12,2021,6.0
+K56,Rush,3,2022,4.0
+K56,Rush,6,2022,78.0
+K56,Rush,9,2022,22.0
+K56,Rush,12,2022,9.0
+K56,Rush,3,2023,24.0
+K56,Rush,6,2023,3.0
+K56,Rush,9,2023,85.0
+K56,Rush,12,2023,18.0
+K56,Rush,3,2024,9.0
+K56,Rush,6,2024,32.0
+K67,Swords,3,2012,18.0
+K67,Swords,6,2012,2.0
+K67,Swords,9,2012,2.0
+K67,Swords,12,2012,14.0
+K67,Swords,3,2013,3.0
+K67,Swords,6,2013,0.0
+K67,Swords,9,2013,5.0
+K67,Swords,12,2013,17.0
+K67,Swords,3,2014,5.0
+K67,Swords,6,2014,14.0
+K67,Swords,9,2014,22.0
+K67,Swords,12,2014,51.0
+K67,Swords,3,2015,54.0
+K67,Swords,6,2015,43.0
+K67,Swords,9,2015,64.0
+K67,Swords,12,2015,56.0
+K67,Swords,3,2016,47.0
+K67,Swords,6,2016,74.0
+K67,Swords,9,2016,15.0
+K67,Swords,12,2016,43.0
+K67,Swords,3,2017,34.0
+K67,Swords,6,2017,33.0
+K67,Swords,9,2017,59.0
+K67,Swords,12,2017,96.0
+K67,Swords,3,2018,79.0
+K67,Swords,6,2018,77.0
+K67,Swords,9,2018,98.0
+K67,Swords,12,2018,68.0
+K67,Swords,3,2019,42.0
+K67,Swords,6,2019,51.0
+K67,Swords,9,2019,34.0
+K67,Swords,12,2019,83.0
+K67,Swords,3,2020,95.0
+K67,Swords,6,2020,17.0
+K67,Swords,9,2020,69.0
+K67,Swords,12,2020,34.0
+K67,Swords,3,2021,32.0
+K67,Swords,6,2021,25.0
+K67,Swords,9,2021,9.0
+K67,Swords,12,2021,15.0
+K67,Swords,3,2022,27.0
+K67,Swords,6,2022,38.0
+K67,Swords,9,2022,103.0
+K67,Swords,12,2022,137.0
+K67,Swords,3,2023,91.0
+K67,Swords,6,2023,106.0
+K67,Swords,9,2023,49.0
+K67,Swords,12,2023,37.0
+K67,Swords,3,2024,14.0
+K67,Swords,6,2024,14.0
+K78,Lucan,3,2012,1.0
+K78,Lucan,6,2012,2.0
+K78,Lucan,9,2012,2.0
+K78,Lucan,12,2012,21.0
+K78,Lucan,3,2013,10.0
+K78,Lucan,6,2013,7.0
+K78,Lucan,9,2013,2.0
+K78,Lucan,12,2013,18.0
+K78,Lucan,3,2014,25.0
+K78,Lucan,6,2014,19.0
+K78,Lucan,9,2014,12.0
+K78,Lucan,12,2014,2.0
+K78,Lucan,3,2015,1.0
+K78,Lucan,6,2015,11.0
+K78,Lucan,9,2015,20.0
+K78,Lucan,12,2015,24.0
+K78,Lucan,3,2016,18.0
+K78,Lucan,6,2016,1.0
+K78,Lucan,9,2016,23.0
+K78,Lucan,12,2016,23.0
+K78,Lucan,3,2017,26.0
+K78,Lucan,6,2017,50.0
+K78,Lucan,9,2017,75.0
+K78,Lucan,12,2017,73.0
+K78,Lucan,3,2018,57.0
+K78,Lucan,6,2018,161.0
+K78,Lucan,9,2018,153.0
+K78,Lucan,12,2018,131.0
+K78,Lucan,3,2019,123.0
+K78,Lucan,6,2019,134.0
+K78,Lucan,9,2019,113.0
+K78,Lucan,12,2019,225.0
+K78,Lucan,3,2020,124.0
+K78,Lucan,6,2020,78.0
+K78,Lucan,9,2020,91.0
+K78,Lucan,12,2020,192.0
+K78,Lucan,3,2021,30.0
+K78,Lucan,6,2021,132.0
+K78,Lucan,9,2021,29.0
+K78,Lucan,12,2021,69.0
+K78,Lucan,3,2022,114.0
+K78,Lucan,6,2022,160.0
+K78,Lucan,9,2022,269.0
+K78,Lucan,12,2022,124.0
+K78,Lucan,3,2023,61.0
+K78,Lucan,6,2023,210.0
+K78,Lucan,9,2023,341.0
+K78,Lucan,12,2023,84.0
+K78,Lucan,3,2024,278.0
+K78,Lucan,6,2024,268.0
+N37,Athlone,3,2012,9.0
+N37,Athlone,6,2012,9.0
+N37,Athlone,9,2012,8.0
+N37,Athlone,12,2012,18.0
+N37,Athlone,3,2013,7.0
+N37,Athlone,6,2013,7.0
+N37,Athlone,9,2013,8.0
+N37,Athlone,12,2013,15.0
+N37,Athlone,3,2014,10.0
+N37,Athlone,6,2014,8.0
+N37,Athlone,9,2014,7.0
+N37,Athlone,12,2014,15.0
+N37,Athlone,3,2015,8.0
+N37,Athlone,6,2015,18.0
+N37,Athlone,9,2015,15.0
+N37,Athlone,12,2015,20.0
+N37,Athlone,3,2016,8.0
+N37,Athlone,6,2016,5.0
+N37,Athlone,9,2016,10.0
+N37,Athlone,12,2016,12.0
+N37,Athlone,3,2017,8.0
+N37,Athlone,6,2017,6.0
+N37,Athlone,9,2017,14.0
+N37,Athlone,12,2017,20.0
+N37,Athlone,3,2018,14.0
+N37,Athlone,6,2018,14.0
+N37,Athlone,9,2018,17.0
+N37,Athlone,12,2018,38.0
+N37,Athlone,3,2019,22.0
+N37,Athlone,6,2019,20.0
+N37,Athlone,9,2019,25.0
+N37,Athlone,12,2019,47.0
+N37,Athlone,3,2020,57.0
+N37,Athlone,6,2020,22.0
+N37,Athlone,9,2020,25.0
+N37,Athlone,12,2020,24.0
+N37,Athlone,3,2021,46.0
+N37,Athlone,6,2021,28.0
+N37,Athlone,9,2021,17.0
+N37,Athlone,12,2021,22.0
+N37,Athlone,3,2022,28.0
+N37,Athlone,6,2022,29.0
+N37,Athlone,9,2022,48.0
+N37,Athlone,12,2022,58.0
+N37,Athlone,3,2023,41.0
+N37,Athlone,6,2023,52.0
+N37,Athlone,9,2023,66.0
+N37,Athlone,12,2023,123.0
+N37,Athlone,3,2024,63.0
+N37,Athlone,6,2024,60.0
+N39,Longford,3,2012,17.0
+N39,Longford,6,2012,25.0
+N39,Longford,9,2012,29.0
+N39,Longford,12,2012,8.0
+N39,Longford,3,2013,8.0
+N39,Longford,6,2013,7.0
+N39,Longford,9,2013,10.0
+N39,Longford,12,2013,12.0
+N39,Longford,3,2014,17.0
+N39,Longford,6,2014,9.0
+N39,Longford,9,2014,16.0
+N39,Longford,12,2014,16.0
+N39,Longford,3,2015,6.0
+N39,Longford,6,2015,20.0
+N39,Longford,9,2015,15.0
+N39,Longford,12,2015,13.0
+N39,Longford,3,2016,16.0
+N39,Longford,6,2016,16.0
+N39,Longford,9,2016,14.0
+N39,Longford,12,2016,17.0
+N39,Longford,3,2017,9.0
+N39,Longford,6,2017,17.0
+N39,Longford,9,2017,26.0
+N39,Longford,12,2017,29.0
+N39,Longford,3,2018,15.0
+N39,Longford,6,2018,16.0
+N39,Longford,9,2018,12.0
+N39,Longford,12,2018,28.0
+N39,Longford,3,2019,41.0
+N39,Longford,6,2019,18.0
+N39,Longford,9,2019,28.0
+N39,Longford,12,2019,52.0
+N39,Longford,3,2020,20.0
+N39,Longford,6,2020,17.0
+N39,Longford,9,2020,33.0
+N39,Longford,12,2020,35.0
+N39,Longford,3,2021,24.0
+N39,Longford,6,2021,25.0
+N39,Longford,9,2021,35.0
+N39,Longford,12,2021,62.0
+N39,Longford,3,2022,29.0
+N39,Longford,6,2022,23.0
+N39,Longford,9,2022,52.0
+N39,Longford,12,2022,29.0
+N39,Longford,3,2023,17.0
+N39,Longford,6,2023,19.0
+N39,Longford,9,2023,32.0
+N39,Longford,12,2023,56.0
+N39,Longford,3,2024,33.0
+N39,Longford,6,2024,44.0
+N41,Carrick-on-Shannon,3,2012,8.0
+N41,Carrick-on-Shannon,6,2012,7.0
+N41,Carrick-on-Shannon,9,2012,11.0
+N41,Carrick-on-Shannon,12,2012,7.0
+N41,Carrick-on-Shannon,3,2013,4.0
+N41,Carrick-on-Shannon,6,2013,6.0
+N41,Carrick-on-Shannon,9,2013,8.0
+N41,Carrick-on-Shannon,12,2013,9.0
+N41,Carrick-on-Shannon,3,2014,6.0
+N41,Carrick-on-Shannon,6,2014,5.0
+N41,Carrick-on-Shannon,9,2014,6.0
+N41,Carrick-on-Shannon,12,2014,11.0
+N41,Carrick-on-Shannon,3,2015,7.0
+N41,Carrick-on-Shannon,6,2015,9.0
+N41,Carrick-on-Shannon,9,2015,12.0
+N41,Carrick-on-Shannon,12,2015,14.0
+N41,Carrick-on-Shannon,3,2016,5.0
+N41,Carrick-on-Shannon,6,2016,17.0
+N41,Carrick-on-Shannon,9,2016,11.0
+N41,Carrick-on-Shannon,12,2016,10.0
+N41,Carrick-on-Shannon,3,2017,13.0
+N41,Carrick-on-Shannon,6,2017,19.0
+N41,Carrick-on-Shannon,9,2017,15.0
+N41,Carrick-on-Shannon,12,2017,11.0
+N41,Carrick-on-Shannon,3,2018,13.0
+N41,Carrick-on-Shannon,6,2018,10.0
+N41,Carrick-on-Shannon,9,2018,4.0
+N41,Carrick-on-Shannon,12,2018,6.0
+N41,Carrick-on-Shannon,3,2019,13.0
+N41,Carrick-on-Shannon,6,2019,6.0
+N41,Carrick-on-Shannon,9,2019,11.0
+N41,Carrick-on-Shannon,12,2019,7.0
+N41,Carrick-on-Shannon,3,2020,3.0
+N41,Carrick-on-Shannon,6,2020,6.0
+N41,Carrick-on-Shannon,9,2020,7.0
+N41,Carrick-on-Shannon,12,2020,11.0
+N41,Carrick-on-Shannon,3,2021,11.0
+N41,Carrick-on-Shannon,6,2021,24.0
+N41,Carrick-on-Shannon,9,2021,25.0
+N41,Carrick-on-Shannon,12,2021,20.0
+N41,Carrick-on-Shannon,3,2022,8.0
+N41,Carrick-on-Shannon,6,2022,9.0
+N41,Carrick-on-Shannon,9,2022,18.0
+N41,Carrick-on-Shannon,12,2022,20.0
+N41,Carrick-on-Shannon,3,2023,31.0
+N41,Carrick-on-Shannon,6,2023,14.0
+N41,Carrick-on-Shannon,9,2023,10.0
+N41,Carrick-on-Shannon,12,2023,15.0
+N41,Carrick-on-Shannon,3,2024,15.0
+N41,Carrick-on-Shannon,6,2024,19.0
+N91,Mullingar,3,2012,20.0
+N91,Mullingar,6,2012,16.0
+N91,Mullingar,9,2012,16.0
+N91,Mullingar,12,2012,11.0
+N91,Mullingar,3,2013,9.0
+N91,Mullingar,6,2013,15.0
+N91,Mullingar,9,2013,11.0
+N91,Mullingar,12,2013,8.0
+N91,Mullingar,3,2014,17.0
+N91,Mullingar,6,2014,8.0
+N91,Mullingar,9,2014,11.0
+N91,Mullingar,12,2014,24.0
+N91,Mullingar,3,2015,7.0
+N91,Mullingar,6,2015,8.0
+N91,Mullingar,9,2015,17.0
+N91,Mullingar,12,2015,18.0
+N91,Mullingar,3,2016,18.0
+N91,Mullingar,6,2016,17.0
+N91,Mullingar,9,2016,22.0
+N91,Mullingar,12,2016,20.0
+N91,Mullingar,3,2017,18.0
+N91,Mullingar,6,2017,27.0
+N91,Mullingar,9,2017,34.0
+N91,Mullingar,12,2017,31.0
+N91,Mullingar,3,2018,24.0
+N91,Mullingar,6,2018,21.0
+N91,Mullingar,9,2018,21.0
+N91,Mullingar,12,2018,57.0
+N91,Mullingar,3,2019,42.0
+N91,Mullingar,6,2019,46.0
+N91,Mullingar,9,2019,40.0
+N91,Mullingar,12,2019,35.0
+N91,Mullingar,3,2020,41.0
+N91,Mullingar,6,2020,26.0
+N91,Mullingar,9,2020,41.0
+N91,Mullingar,12,2020,63.0
+N91,Mullingar,3,2021,43.0
+N91,Mullingar,6,2021,55.0
+N91,Mullingar,9,2021,35.0
+N91,Mullingar,12,2021,32.0
+N91,Mullingar,3,2022,53.0
+N91,Mullingar,6,2022,71.0
+N91,Mullingar,9,2022,110.0
+N91,Mullingar,12,2022,76.0
+N91,Mullingar,3,2023,26.0
+N91,Mullingar,6,2023,28.0
+N91,Mullingar,9,2023,55.0
+N91,Mullingar,12,2023,188.0
+N91,Mullingar,3,2024,46.0
+N91,Mullingar,6,2024,139.0
+P12,Macroom,3,2012,12.0
+P12,Macroom,6,2012,11.0
+P12,Macroom,9,2012,14.0
+P12,Macroom,12,2012,9.0
+P12,Macroom,3,2013,3.0
+P12,Macroom,6,2013,3.0
+P12,Macroom,9,2013,10.0
+P12,Macroom,12,2013,5.0
+P12,Macroom,3,2014,8.0
+P12,Macroom,6,2014,13.0
+P12,Macroom,9,2014,10.0
+P12,Macroom,12,2014,5.0
+P12,Macroom,3,2015,6.0
+P12,Macroom,6,2015,9.0
+P12,Macroom,9,2015,9.0
+P12,Macroom,12,2015,5.0
+P12,Macroom,3,2016,5.0
+P12,Macroom,6,2016,13.0
+P12,Macroom,9,2016,11.0
+P12,Macroom,12,2016,15.0
+P12,Macroom,3,2017,6.0
+P12,Macroom,6,2017,6.0
+P12,Macroom,9,2017,22.0
+P12,Macroom,12,2017,22.0
+P12,Macroom,3,2018,11.0
+P12,Macroom,6,2018,19.0
+P12,Macroom,9,2018,12.0
+P12,Macroom,12,2018,25.0
+P12,Macroom,3,2019,10.0
+P12,Macroom,6,2019,13.0
+P12,Macroom,9,2019,13.0
+P12,Macroom,12,2019,34.0
+P12,Macroom,3,2020,16.0
+P12,Macroom,6,2020,13.0
+P12,Macroom,9,2020,46.0
+P12,Macroom,12,2020,31.0
+P12,Macroom,3,2021,18.0
+P12,Macroom,6,2021,57.0
+P12,Macroom,9,2021,37.0
+P12,Macroom,12,2021,34.0
+P12,Macroom,3,2022,17.0
+P12,Macroom,6,2022,30.0
+P12,Macroom,9,2022,28.0
+P12,Macroom,12,2022,29.0
+P12,Macroom,3,2023,43.0
+P12,Macroom,6,2023,18.0
+P12,Macroom,9,2023,45.0
+P12,Macroom,12,2023,34.0
+P12,Macroom,3,2024,27.0
+P12,Macroom,6,2024,18.0
+P14,Crookstown,3,2012,4.0
+P14,Crookstown,6,2012,1.0
+P14,Crookstown,9,2012,1.0
+P14,Crookstown,12,2012,0.0
+P14,Crookstown,3,2013,0.0
+P14,Crookstown,6,2013,2.0
+P14,Crookstown,9,2013,0.0
+P14,Crookstown,12,2013,1.0
+P14,Crookstown,3,2014,1.0
+P14,Crookstown,6,2014,0.0
+P14,Crookstown,9,2014,1.0
+P14,Crookstown,12,2014,1.0
+P14,Crookstown,3,2015,3.0
+P14,Crookstown,6,2015,0.0
+P14,Crookstown,9,2015,2.0
+P14,Crookstown,12,2015,0.0
+P14,Crookstown,3,2016,2.0
+P14,Crookstown,6,2016,4.0
+P14,Crookstown,9,2016,4.0
+P14,Crookstown,12,2016,4.0
+P14,Crookstown,3,2017,1.0
+P14,Crookstown,6,2017,2.0
+P14,Crookstown,9,2017,0.0
+P14,Crookstown,12,2017,3.0
+P14,Crookstown,3,2018,2.0
+P14,Crookstown,6,2018,2.0
+P14,Crookstown,9,2018,3.0
+P14,Crookstown,12,2018,1.0
+P14,Crookstown,3,2019,3.0
+P14,Crookstown,6,2019,4.0
+P14,Crookstown,9,2019,3.0
+P14,Crookstown,12,2019,8.0
+P14,Crookstown,3,2020,9.0
+P14,Crookstown,6,2020,6.0
+P14,Crookstown,9,2020,5.0
+P14,Crookstown,12,2020,6.0
+P14,Crookstown,3,2021,5.0
+P14,Crookstown,6,2021,3.0
+P14,Crookstown,9,2021,2.0
+P14,Crookstown,12,2021,9.0
+P14,Crookstown,3,2022,5.0
+P14,Crookstown,6,2022,15.0
+P14,Crookstown,9,2022,8.0
+P14,Crookstown,12,2022,18.0
+P14,Crookstown,3,2023,7.0
+P14,Crookstown,6,2023,20.0
+P14,Crookstown,9,2023,13.0
+P14,Crookstown,12,2023,5.0
+P14,Crookstown,3,2024,13.0
+P14,Crookstown,6,2024,10.0
+P17,Kinsale,3,2012,6.0
+P17,Kinsale,6,2012,9.0
+P17,Kinsale,9,2012,6.0
+P17,Kinsale,12,2012,9.0
+P17,Kinsale,3,2013,6.0
+P17,Kinsale,6,2013,6.0
+P17,Kinsale,9,2013,4.0
+P17,Kinsale,12,2013,8.0
+P17,Kinsale,3,2014,5.0
+P17,Kinsale,6,2014,8.0
+P17,Kinsale,9,2014,4.0
+P17,Kinsale,12,2014,2.0
+P17,Kinsale,3,2015,3.0
+P17,Kinsale,6,2015,4.0
+P17,Kinsale,9,2015,6.0
+P17,Kinsale,12,2015,4.0
+P17,Kinsale,3,2016,3.0
+P17,Kinsale,6,2016,3.0
+P17,Kinsale,9,2016,10.0
+P17,Kinsale,12,2016,6.0
+P17,Kinsale,3,2017,10.0
+P17,Kinsale,6,2017,16.0
+P17,Kinsale,9,2017,16.0
+P17,Kinsale,12,2017,23.0
+P17,Kinsale,3,2018,9.0
+P17,Kinsale,6,2018,26.0
+P17,Kinsale,9,2018,39.0
+P17,Kinsale,12,2018,26.0
+P17,Kinsale,3,2019,21.0
+P17,Kinsale,6,2019,35.0
+P17,Kinsale,9,2019,22.0
+P17,Kinsale,12,2019,39.0
+P17,Kinsale,3,2020,11.0
+P17,Kinsale,6,2020,7.0
+P17,Kinsale,9,2020,30.0
+P17,Kinsale,12,2020,47.0
+P17,Kinsale,3,2021,9.0
+P17,Kinsale,6,2021,23.0
+P17,Kinsale,9,2021,10.0
+P17,Kinsale,12,2021,19.0
+P17,Kinsale,3,2022,7.0
+P17,Kinsale,6,2022,25.0
+P17,Kinsale,9,2022,32.0
+P17,Kinsale,12,2022,22.0
+P17,Kinsale,3,2023,19.0
+P17,Kinsale,6,2023,54.0
+P17,Kinsale,9,2023,24.0
+P17,Kinsale,12,2023,26.0
+P17,Kinsale,3,2024,22.0
+P17,Kinsale,6,2024,17.0
+P24,Cobh,3,2012,1.0
+P24,Cobh,6,2012,0.0
+P24,Cobh,9,2012,0.0
+P24,Cobh,12,2012,0.0
+P24,Cobh,3,2013,0.0
+P24,Cobh,6,2013,0.0
+P24,Cobh,9,2013,1.0
+P24,Cobh,12,2013,2.0
+P24,Cobh,3,2014,0.0
+P24,Cobh,6,2014,0.0
+P24,Cobh,9,2014,1.0
+P24,Cobh,12,2014,1.0
+P24,Cobh,3,2015,3.0
+P24,Cobh,6,2015,2.0
+P24,Cobh,9,2015,3.0
+P24,Cobh,12,2015,2.0
+P24,Cobh,3,2016,12.0
+P24,Cobh,6,2016,2.0
+P24,Cobh,9,2016,5.0
+P24,Cobh,12,2016,3.0
+P24,Cobh,3,2017,8.0
+P24,Cobh,6,2017,16.0
+P24,Cobh,9,2017,1.0
+P24,Cobh,12,2017,22.0
+P24,Cobh,3,2018,5.0
+P24,Cobh,6,2018,8.0
+P24,Cobh,9,2018,11.0
+P24,Cobh,12,2018,3.0
+P24,Cobh,3,2019,9.0
+P24,Cobh,6,2019,17.0
+P24,Cobh,9,2019,12.0
+P24,Cobh,12,2019,26.0
+P24,Cobh,3,2020,22.0
+P24,Cobh,6,2020,14.0
+P24,Cobh,9,2020,11.0
+P24,Cobh,12,2020,32.0
+P24,Cobh,3,2021,11.0
+P24,Cobh,6,2021,13.0
+P24,Cobh,9,2021,18.0
+P24,Cobh,12,2021,20.0
+P24,Cobh,3,2022,10.0
+P24,Cobh,6,2022,11.0
+P24,Cobh,9,2022,28.0
+P24,Cobh,12,2022,23.0
+P24,Cobh,3,2023,15.0
+P24,Cobh,6,2023,0.0
+P24,Cobh,9,2023,5.0
+P24,Cobh,12,2023,17.0
+P24,Cobh,3,2024,41.0
+P24,Cobh,6,2024,42.0
+P25,Midleton,3,2012,5.0
+P25,Midleton,6,2012,8.0
+P25,Midleton,9,2012,4.0
+P25,Midleton,12,2012,10.0
+P25,Midleton,3,2013,4.0
+P25,Midleton,6,2013,5.0
+P25,Midleton,9,2013,7.0
+P25,Midleton,12,2013,8.0
+P25,Midleton,3,2014,7.0
+P25,Midleton,6,2014,7.0
+P25,Midleton,9,2014,7.0
+P25,Midleton,12,2014,22.0
+P25,Midleton,3,2015,12.0
+P25,Midleton,6,2015,7.0
+P25,Midleton,9,2015,14.0
+P25,Midleton,12,2015,14.0
+P25,Midleton,3,2016,9.0
+P25,Midleton,6,2016,14.0
+P25,Midleton,9,2016,11.0
+P25,Midleton,12,2016,11.0
+P25,Midleton,3,2017,13.0
+P25,Midleton,6,2017,14.0
+P25,Midleton,9,2017,21.0
+P25,Midleton,12,2017,17.0
+P25,Midleton,3,2018,20.0
+P25,Midleton,6,2018,24.0
+P25,Midleton,9,2018,30.0
+P25,Midleton,12,2018,27.0
+P25,Midleton,3,2019,18.0
+P25,Midleton,6,2019,49.0
+P25,Midleton,9,2019,25.0
+P25,Midleton,12,2019,53.0
+P25,Midleton,3,2020,32.0
+P25,Midleton,6,2020,15.0
+P25,Midleton,9,2020,41.0
+P25,Midleton,12,2020,58.0
+P25,Midleton,3,2021,7.0
+P25,Midleton,6,2021,47.0
+P25,Midleton,9,2021,44.0
+P25,Midleton,12,2021,23.0
+P25,Midleton,3,2022,34.0
+P25,Midleton,6,2022,35.0
+P25,Midleton,9,2022,55.0
+P25,Midleton,12,2022,58.0
+P25,Midleton,3,2023,32.0
+P25,Midleton,6,2023,35.0
+P25,Midleton,9,2023,31.0
+P25,Midleton,12,2023,46.0
+P25,Midleton,3,2024,45.0
+P25,Midleton,6,2024,102.0
+P31,Ballincollig,3,2012,4.0
+P31,Ballincollig,6,2012,19.0
+P31,Ballincollig,9,2012,6.0
+P31,Ballincollig,12,2012,6.0
+P31,Ballincollig,3,2013,6.0
+P31,Ballincollig,6,2013,5.0
+P31,Ballincollig,9,2013,9.0
+P31,Ballincollig,12,2013,6.0
+P31,Ballincollig,3,2014,3.0
+P31,Ballincollig,6,2014,8.0
+P31,Ballincollig,9,2014,8.0
+P31,Ballincollig,12,2014,9.0
+P31,Ballincollig,3,2015,8.0
+P31,Ballincollig,6,2015,5.0
+P31,Ballincollig,9,2015,3.0
+P31,Ballincollig,12,2015,20.0
+P31,Ballincollig,3,2016,15.0
+P31,Ballincollig,6,2016,17.0
+P31,Ballincollig,9,2016,14.0
+P31,Ballincollig,12,2016,29.0
+P31,Ballincollig,3,2017,20.0
+P31,Ballincollig,6,2017,28.0
+P31,Ballincollig,9,2017,34.0
+P31,Ballincollig,12,2017,29.0
+P31,Ballincollig,3,2018,26.0
+P31,Ballincollig,6,2018,25.0
+P31,Ballincollig,9,2018,28.0
+P31,Ballincollig,12,2018,30.0
+P31,Ballincollig,3,2019,28.0
+P31,Ballincollig,6,2019,48.0
+P31,Ballincollig,9,2019,27.0
+P31,Ballincollig,12,2019,48.0
+P31,Ballincollig,3,2020,29.0
+P31,Ballincollig,6,2020,20.0
+P31,Ballincollig,9,2020,57.0
+P31,Ballincollig,12,2020,44.0
+P31,Ballincollig,3,2021,25.0
+P31,Ballincollig,6,2021,16.0
+P31,Ballincollig,9,2021,28.0
+P31,Ballincollig,12,2021,19.0
+P31,Ballincollig,3,2022,24.0
+P31,Ballincollig,6,2022,33.0
+P31,Ballincollig,9,2022,15.0
+P31,Ballincollig,12,2022,35.0
+P31,Ballincollig,3,2023,31.0
+P31,Ballincollig,6,2023,29.0
+P31,Ballincollig,9,2023,23.0
+P31,Ballincollig,12,2023,27.0
+P31,Ballincollig,3,2024,34.0
+P31,Ballincollig,6,2024,114.0
+P32,Rylane,3,2012,0.0
+P32,Rylane,6,2012,3.0
+P32,Rylane,9,2012,3.0
+P32,Rylane,12,2012,2.0
+P32,Rylane,3,2013,0.0
+P32,Rylane,6,2013,1.0
+P32,Rylane,9,2013,1.0
+P32,Rylane,12,2013,2.0
+P32,Rylane,3,2014,3.0
+P32,Rylane,6,2014,3.0
+P32,Rylane,9,2014,1.0
+P32,Rylane,12,2014,1.0
+P32,Rylane,3,2015,1.0
+P32,Rylane,6,2015,1.0
+P32,Rylane,9,2015,3.0
+P32,Rylane,12,2015,3.0
+P32,Rylane,3,2016,2.0
+P32,Rylane,6,2016,1.0
+P32,Rylane,9,2016,1.0
+P32,Rylane,12,2016,0.0
+P32,Rylane,3,2017,2.0
+P32,Rylane,6,2017,4.0
+P32,Rylane,9,2017,3.0
+P32,Rylane,12,2017,1.0
+P32,Rylane,3,2018,6.0
+P32,Rylane,6,2018,3.0
+P32,Rylane,9,2018,4.0
+P32,Rylane,12,2018,3.0
+P32,Rylane,3,2019,2.0
+P32,Rylane,6,2019,9.0
+P32,Rylane,9,2019,3.0
+P32,Rylane,12,2019,4.0
+P32,Rylane,3,2020,4.0
+P32,Rylane,6,2020,5.0
+P32,Rylane,9,2020,5.0
+P32,Rylane,12,2020,9.0
+P32,Rylane,3,2021,2.0
+P32,Rylane,6,2021,0.0
+P32,Rylane,9,2021,8.0
+P32,Rylane,12,2021,2.0
+P32,Rylane,3,2022,8.0
+P32,Rylane,6,2022,0.0
+P32,Rylane,9,2022,4.0
+P32,Rylane,12,2022,6.0
+P32,Rylane,3,2023,3.0
+P32,Rylane,6,2023,0.0
+P32,Rylane,9,2023,10.0
+P32,Rylane,12,2023,0.0
+P32,Rylane,3,2024,0.0
+P32,Rylane,6,2024,4.0
+P36,Youghal,3,2012,5.0
+P36,Youghal,6,2012,4.0
+P36,Youghal,9,2012,2.0
+P36,Youghal,12,2012,4.0
+P36,Youghal,3,2013,1.0
+P36,Youghal,6,2013,1.0
+P36,Youghal,9,2013,2.0
+P36,Youghal,12,2013,2.0
+P36,Youghal,3,2014,1.0
+P36,Youghal,6,2014,2.0
+P36,Youghal,9,2014,4.0
+P36,Youghal,12,2014,7.0
+P36,Youghal,3,2015,3.0
+P36,Youghal,6,2015,5.0
+P36,Youghal,9,2015,1.0
+P36,Youghal,12,2015,3.0
+P36,Youghal,3,2016,3.0
+P36,Youghal,6,2016,3.0
+P36,Youghal,9,2016,8.0
+P36,Youghal,12,2016,3.0
+P36,Youghal,3,2017,5.0
+P36,Youghal,6,2017,4.0
+P36,Youghal,9,2017,4.0
+P36,Youghal,12,2017,5.0
+P36,Youghal,3,2018,5.0
+P36,Youghal,6,2018,6.0
+P36,Youghal,9,2018,6.0
+P36,Youghal,12,2018,16.0
+P36,Youghal,3,2019,6.0
+P36,Youghal,6,2019,7.0
+P36,Youghal,9,2019,9.0
+P36,Youghal,12,2019,21.0
+P36,Youghal,3,2020,9.0
+P36,Youghal,6,2020,5.0
+P36,Youghal,9,2020,8.0
+P36,Youghal,12,2020,26.0
+P36,Youghal,3,2021,10.0
+P36,Youghal,6,2021,9.0
+P36,Youghal,9,2021,19.0
+P36,Youghal,12,2021,13.0
+P36,Youghal,3,2022,7.0
+P36,Youghal,6,2022,8.0
+P36,Youghal,9,2022,12.0
+P36,Youghal,12,2022,46.0
+P36,Youghal,3,2023,24.0
+P36,Youghal,6,2023,16.0
+P36,Youghal,9,2023,26.0
+P36,Youghal,12,2023,17.0
+P36,Youghal,3,2024,7.0
+P36,Youghal,6,2024,14.0
+P43,Carrigaline,3,2012,5.0
+P43,Carrigaline,6,2012,5.0
+P43,Carrigaline,9,2012,9.0
+P43,Carrigaline,12,2012,9.0
+P43,Carrigaline,3,2013,2.0
+P43,Carrigaline,6,2013,15.0
+P43,Carrigaline,9,2013,5.0
+P43,Carrigaline,12,2013,18.0
+P43,Carrigaline,3,2014,8.0
+P43,Carrigaline,6,2014,12.0
+P43,Carrigaline,9,2014,13.0
+P43,Carrigaline,12,2014,27.0
+P43,Carrigaline,3,2015,20.0
+P43,Carrigaline,6,2015,24.0
+P43,Carrigaline,9,2015,22.0
+P43,Carrigaline,12,2015,14.0
+P43,Carrigaline,3,2016,17.0
+P43,Carrigaline,6,2016,19.0
+P43,Carrigaline,9,2016,22.0
+P43,Carrigaline,12,2016,16.0
+P43,Carrigaline,3,2017,35.0
+P43,Carrigaline,6,2017,48.0
+P43,Carrigaline,9,2017,18.0
+P43,Carrigaline,12,2017,35.0
+P43,Carrigaline,3,2018,34.0
+P43,Carrigaline,6,2018,35.0
+P43,Carrigaline,9,2018,54.0
+P43,Carrigaline,12,2018,43.0
+P43,Carrigaline,3,2019,47.0
+P43,Carrigaline,6,2019,71.0
+P43,Carrigaline,9,2019,26.0
+P43,Carrigaline,12,2019,90.0
+P43,Carrigaline,3,2020,50.0
+P43,Carrigaline,6,2020,29.0
+P43,Carrigaline,9,2020,66.0
+P43,Carrigaline,12,2020,58.0
+P43,Carrigaline,3,2021,22.0
+P43,Carrigaline,6,2021,47.0
+P43,Carrigaline,9,2021,48.0
+P43,Carrigaline,12,2021,75.0
+P43,Carrigaline,3,2022,35.0
+P43,Carrigaline,6,2022,91.0
+P43,Carrigaline,9,2022,61.0
+P43,Carrigaline,12,2022,75.0
+P43,Carrigaline,3,2023,60.0
+P43,Carrigaline,6,2023,61.0
+P43,Carrigaline,9,2023,74.0
+P43,Carrigaline,12,2023,67.0
+P43,Carrigaline,3,2024,70.0
+P43,Carrigaline,6,2024,68.0
+P47,Dunmanway,3,2012,8.0
+P47,Dunmanway,6,2012,7.0
+P47,Dunmanway,9,2012,7.0
+P47,Dunmanway,12,2012,5.0
+P47,Dunmanway,3,2013,3.0
+P47,Dunmanway,6,2013,5.0
+P47,Dunmanway,9,2013,5.0
+P47,Dunmanway,12,2013,7.0
+P47,Dunmanway,3,2014,3.0
+P47,Dunmanway,6,2014,1.0
+P47,Dunmanway,9,2014,9.0
+P47,Dunmanway,12,2014,3.0
+P47,Dunmanway,3,2015,3.0
+P47,Dunmanway,6,2015,7.0
+P47,Dunmanway,9,2015,10.0
+P47,Dunmanway,12,2015,8.0
+P47,Dunmanway,3,2016,6.0
+P47,Dunmanway,6,2016,7.0
+P47,Dunmanway,9,2016,7.0
+P47,Dunmanway,12,2016,9.0
+P47,Dunmanway,3,2017,5.0
+P47,Dunmanway,6,2017,2.0
+P47,Dunmanway,9,2017,4.0
+P47,Dunmanway,12,2017,5.0
+P47,Dunmanway,3,2018,9.0
+P47,Dunmanway,6,2018,8.0
+P47,Dunmanway,9,2018,7.0
+P47,Dunmanway,12,2018,12.0
+P47,Dunmanway,3,2019,7.0
+P47,Dunmanway,6,2019,6.0
+P47,Dunmanway,9,2019,7.0
+P47,Dunmanway,12,2019,6.0
+P47,Dunmanway,3,2020,15.0
+P47,Dunmanway,6,2020,7.0
+P47,Dunmanway,9,2020,19.0
+P47,Dunmanway,12,2020,3.0
+P47,Dunmanway,3,2021,9.0
+P47,Dunmanway,6,2021,8.0
+P47,Dunmanway,9,2021,8.0
+P47,Dunmanway,12,2021,15.0
+P47,Dunmanway,3,2022,19.0
+P47,Dunmanway,6,2022,19.0
+P47,Dunmanway,9,2022,25.0
+P47,Dunmanway,12,2022,15.0
+P47,Dunmanway,3,2023,8.0
+P47,Dunmanway,6,2023,5.0
+P47,Dunmanway,9,2023,10.0
+P47,Dunmanway,12,2023,9.0
+P47,Dunmanway,3,2024,3.0
+P47,Dunmanway,6,2024,6.0
+P51,Mallow,3,2012,24.0
+P51,Mallow,6,2012,21.0
+P51,Mallow,9,2012,23.0
+P51,Mallow,12,2012,25.0
+P51,Mallow,3,2013,20.0
+P51,Mallow,6,2013,24.0
+P51,Mallow,9,2013,15.0
+P51,Mallow,12,2013,17.0
+P51,Mallow,3,2014,17.0
+P51,Mallow,6,2014,12.0
+P51,Mallow,9,2014,21.0
+P51,Mallow,12,2014,23.0
+P51,Mallow,3,2015,11.0
+P51,Mallow,6,2015,21.0
+P51,Mallow,9,2015,21.0
+P51,Mallow,12,2015,18.0
+P51,Mallow,3,2016,17.0
+P51,Mallow,6,2016,23.0
+P51,Mallow,9,2016,30.0
+P51,Mallow,12,2016,24.0
+P51,Mallow,3,2017,26.0
+P51,Mallow,6,2017,25.0
+P51,Mallow,9,2017,43.0
+P51,Mallow,12,2017,69.0
+P51,Mallow,3,2018,33.0
+P51,Mallow,6,2018,48.0
+P51,Mallow,9,2018,32.0
+P51,Mallow,12,2018,41.0
+P51,Mallow,3,2019,31.0
+P51,Mallow,6,2019,35.0
+P51,Mallow,9,2019,60.0
+P51,Mallow,12,2019,53.0
+P51,Mallow,3,2020,36.0
+P51,Mallow,6,2020,29.0
+P51,Mallow,9,2020,68.0
+P51,Mallow,12,2020,87.0
+P51,Mallow,3,2021,66.0
+P51,Mallow,6,2021,43.0
+P51,Mallow,9,2021,36.0
+P51,Mallow,12,2021,34.0
+P51,Mallow,3,2022,46.0
+P51,Mallow,6,2022,67.0
+P51,Mallow,9,2022,61.0
+P51,Mallow,12,2022,107.0
+P51,Mallow,3,2023,63.0
+P51,Mallow,6,2023,89.0
+P51,Mallow,9,2023,83.0
+P51,Mallow,12,2023,76.0
+P51,Mallow,3,2024,65.0
+P51,Mallow,6,2024,59.0
+P56,Charleville,3,2012,2.0
+P56,Charleville,6,2012,5.0
+P56,Charleville,9,2012,4.0
+P56,Charleville,12,2012,7.0
+P56,Charleville,3,2013,1.0
+P56,Charleville,6,2013,3.0
+P56,Charleville,9,2013,1.0
+P56,Charleville,12,2013,4.0
+P56,Charleville,3,2014,3.0
+P56,Charleville,6,2014,2.0
+P56,Charleville,9,2014,2.0
+P56,Charleville,12,2014,2.0
+P56,Charleville,3,2015,3.0
+P56,Charleville,6,2015,1.0
+P56,Charleville,9,2015,3.0
+P56,Charleville,12,2015,1.0
+P56,Charleville,3,2016,4.0
+P56,Charleville,6,2016,2.0
+P56,Charleville,9,2016,2.0
+P56,Charleville,12,2016,3.0
+P56,Charleville,3,2017,4.0
+P56,Charleville,6,2017,8.0
+P56,Charleville,9,2017,4.0
+P56,Charleville,12,2017,0.0
+P56,Charleville,3,2018,4.0
+P56,Charleville,6,2018,16.0
+P56,Charleville,9,2018,3.0
+P56,Charleville,12,2018,7.0
+P56,Charleville,3,2019,0.0
+P56,Charleville,6,2019,7.0
+P56,Charleville,9,2019,8.0
+P56,Charleville,12,2019,11.0
+P56,Charleville,3,2020,4.0
+P56,Charleville,6,2020,3.0
+P56,Charleville,9,2020,4.0
+P56,Charleville,12,2020,4.0
+P56,Charleville,3,2021,3.0
+P56,Charleville,6,2021,3.0
+P56,Charleville,9,2021,4.0
+P56,Charleville,12,2021,16.0
+P56,Charleville,3,2022,14.0
+P56,Charleville,6,2022,3.0
+P56,Charleville,9,2022,15.0
+P56,Charleville,12,2022,5.0
+P56,Charleville,3,2023,5.0
+P56,Charleville,6,2023,9.0
+P56,Charleville,9,2023,14.0
+P56,Charleville,12,2023,21.0
+P56,Charleville,3,2024,8.0
+P56,Charleville,6,2024,5.0
+P61,Fermoy,3,2012,3.0
+P61,Fermoy,6,2012,2.0
+P61,Fermoy,9,2012,3.0
+P61,Fermoy,12,2012,2.0
+P61,Fermoy,3,2013,3.0
+P61,Fermoy,6,2013,4.0
+P61,Fermoy,9,2013,4.0
+P61,Fermoy,12,2013,5.0
+P61,Fermoy,3,2014,3.0
+P61,Fermoy,6,2014,5.0
+P61,Fermoy,9,2014,3.0
+P61,Fermoy,12,2014,7.0
+P61,Fermoy,3,2015,2.0
+P61,Fermoy,6,2015,5.0
+P61,Fermoy,9,2015,6.0
+P61,Fermoy,12,2015,5.0
+P61,Fermoy,3,2016,4.0
+P61,Fermoy,6,2016,3.0
+P61,Fermoy,9,2016,7.0
+P61,Fermoy,12,2016,6.0
+P61,Fermoy,3,2017,18.0
+P61,Fermoy,6,2017,5.0
+P61,Fermoy,9,2017,10.0
+P61,Fermoy,12,2017,11.0
+P61,Fermoy,3,2018,4.0
+P61,Fermoy,6,2018,4.0
+P61,Fermoy,9,2018,5.0
+P61,Fermoy,12,2018,11.0
+P61,Fermoy,3,2019,10.0
+P61,Fermoy,6,2019,11.0
+P61,Fermoy,9,2019,6.0
+P61,Fermoy,12,2019,25.0
+P61,Fermoy,3,2020,59.0
+P61,Fermoy,6,2020,3.0
+P61,Fermoy,9,2020,11.0
+P61,Fermoy,12,2020,5.0
+P61,Fermoy,3,2021,7.0
+P61,Fermoy,6,2021,12.0
+P61,Fermoy,9,2021,2.0
+P61,Fermoy,12,2021,4.0
+P61,Fermoy,3,2022,5.0
+P61,Fermoy,6,2022,11.0
+P61,Fermoy,9,2022,13.0
+P61,Fermoy,12,2022,19.0
+P61,Fermoy,3,2023,22.0
+P61,Fermoy,6,2023,29.0
+P61,Fermoy,9,2023,23.0
+P61,Fermoy,12,2023,51.0
+P61,Fermoy,3,2024,34.0
+P61,Fermoy,6,2024,33.0
+P67,Mitchelstown,3,2012,2.0
+P67,Mitchelstown,6,2012,5.0
+P67,Mitchelstown,9,2012,1.0
+P67,Mitchelstown,12,2012,5.0
+P67,Mitchelstown,3,2013,1.0
+P67,Mitchelstown,6,2013,0.0
+P67,Mitchelstown,9,2013,4.0
+P67,Mitchelstown,12,2013,1.0
+P67,Mitchelstown,3,2014,1.0
+P67,Mitchelstown,6,2014,3.0
+P67,Mitchelstown,9,2014,1.0
+P67,Mitchelstown,12,2014,2.0
+P67,Mitchelstown,3,2015,1.0
+P67,Mitchelstown,6,2015,2.0
+P67,Mitchelstown,9,2015,4.0
+P67,Mitchelstown,12,2015,3.0
+P67,Mitchelstown,3,2016,4.0
+P67,Mitchelstown,6,2016,3.0
+P67,Mitchelstown,9,2016,5.0
+P67,Mitchelstown,12,2016,7.0
+P67,Mitchelstown,3,2017,4.0
+P67,Mitchelstown,6,2017,3.0
+P67,Mitchelstown,9,2017,6.0
+P67,Mitchelstown,12,2017,1.0
+P67,Mitchelstown,3,2018,6.0
+P67,Mitchelstown,6,2018,5.0
+P67,Mitchelstown,9,2018,2.0
+P67,Mitchelstown,12,2018,4.0
+P67,Mitchelstown,3,2019,5.0
+P67,Mitchelstown,6,2019,7.0
+P67,Mitchelstown,9,2019,3.0
+P67,Mitchelstown,12,2019,4.0
+P67,Mitchelstown,3,2020,2.0
+P67,Mitchelstown,6,2020,3.0
+P67,Mitchelstown,9,2020,7.0
+P67,Mitchelstown,12,2020,7.0
+P67,Mitchelstown,3,2021,6.0
+P67,Mitchelstown,6,2021,8.0
+P67,Mitchelstown,9,2021,4.0
+P67,Mitchelstown,12,2021,5.0
+P67,Mitchelstown,3,2022,6.0
+P67,Mitchelstown,6,2022,6.0
+P67,Mitchelstown,9,2022,3.0
+P67,Mitchelstown,12,2022,1.0
+P67,Mitchelstown,3,2023,2.0
+P67,Mitchelstown,6,2023,3.0
+P67,Mitchelstown,9,2023,3.0
+P67,Mitchelstown,12,2023,4.0
+P67,Mitchelstown,3,2024,3.0
+P67,Mitchelstown,6,2024,3.0
+P72,Bandon,3,2012,9.0
+P72,Bandon,6,2012,9.0
+P72,Bandon,9,2012,3.0
+P72,Bandon,12,2012,7.0
+P72,Bandon,3,2013,6.0
+P72,Bandon,6,2013,6.0
+P72,Bandon,9,2013,4.0
+P72,Bandon,12,2013,3.0
+P72,Bandon,3,2014,3.0
+P72,Bandon,6,2014,11.0
+P72,Bandon,9,2014,9.0
+P72,Bandon,12,2014,7.0
+P72,Bandon,3,2015,5.0
+P72,Bandon,6,2015,15.0
+P72,Bandon,9,2015,14.0
+P72,Bandon,12,2015,11.0
+P72,Bandon,3,2016,8.0
+P72,Bandon,6,2016,9.0
+P72,Bandon,9,2016,19.0
+P72,Bandon,12,2016,14.0
+P72,Bandon,3,2017,1.0
+P72,Bandon,6,2017,23.0
+P72,Bandon,9,2017,12.0
+P72,Bandon,12,2017,29.0
+P72,Bandon,3,2018,8.0
+P72,Bandon,6,2018,26.0
+P72,Bandon,9,2018,21.0
+P72,Bandon,12,2018,26.0
+P72,Bandon,3,2019,25.0
+P72,Bandon,6,2019,24.0
+P72,Bandon,9,2019,25.0
+P72,Bandon,12,2019,16.0
+P72,Bandon,3,2020,12.0
+P72,Bandon,6,2020,18.0
+P72,Bandon,9,2020,14.0
+P72,Bandon,12,2020,17.0
+P72,Bandon,3,2021,7.0
+P72,Bandon,6,2021,9.0
+P72,Bandon,9,2021,17.0
+P72,Bandon,12,2021,25.0
+P72,Bandon,3,2022,28.0
+P72,Bandon,6,2022,22.0
+P72,Bandon,9,2022,13.0
+P72,Bandon,12,2022,15.0
+P72,Bandon,3,2023,7.0
+P72,Bandon,6,2023,38.0
+P72,Bandon,9,2023,46.0
+P72,Bandon,12,2023,22.0
+P72,Bandon,3,2024,8.0
+P72,Bandon,6,2024,14.0
+P75,Bantry,3,2012,9.0
+P75,Bantry,6,2012,4.0
+P75,Bantry,9,2012,11.0
+P75,Bantry,12,2012,18.0
+P75,Bantry,3,2013,9.0
+P75,Bantry,6,2013,5.0
+P75,Bantry,9,2013,5.0
+P75,Bantry,12,2013,2.0
+P75,Bantry,3,2014,4.0
+P75,Bantry,6,2014,8.0
+P75,Bantry,9,2014,6.0
+P75,Bantry,12,2014,6.0
+P75,Bantry,3,2015,4.0
+P75,Bantry,6,2015,10.0
+P75,Bantry,9,2015,4.0
+P75,Bantry,12,2015,11.0
+P75,Bantry,3,2016,9.0
+P75,Bantry,6,2016,8.0
+P75,Bantry,9,2016,6.0
+P75,Bantry,12,2016,12.0
+P75,Bantry,3,2017,8.0
+P75,Bantry,6,2017,19.0
+P75,Bantry,9,2017,5.0
+P75,Bantry,12,2017,6.0
+P75,Bantry,3,2018,5.0
+P75,Bantry,6,2018,11.0
+P75,Bantry,9,2018,8.0
+P75,Bantry,12,2018,13.0
+P75,Bantry,3,2019,8.0
+P75,Bantry,6,2019,12.0
+P75,Bantry,9,2019,13.0
+P75,Bantry,12,2019,9.0
+P75,Bantry,3,2020,13.0
+P75,Bantry,6,2020,4.0
+P75,Bantry,9,2020,4.0
+P75,Bantry,12,2020,10.0
+P75,Bantry,3,2021,4.0
+P75,Bantry,6,2021,6.0
+P75,Bantry,9,2021,12.0
+P75,Bantry,12,2021,7.0
+P75,Bantry,3,2022,15.0
+P75,Bantry,6,2022,6.0
+P75,Bantry,9,2022,18.0
+P75,Bantry,12,2022,18.0
+P75,Bantry,3,2023,19.0
+P75,Bantry,6,2023,24.0
+P75,Bantry,9,2023,19.0
+P75,Bantry,12,2023,29.0
+P75,Bantry,3,2024,27.0
+P75,Bantry,6,2024,16.0
+P81,Skibbereen,3,2012,10.0
+P81,Skibbereen,6,2012,11.0
+P81,Skibbereen,9,2012,15.0
+P81,Skibbereen,12,2012,16.0
+P81,Skibbereen,3,2013,4.0
+P81,Skibbereen,6,2013,6.0
+P81,Skibbereen,9,2013,5.0
+P81,Skibbereen,12,2013,9.0
+P81,Skibbereen,3,2014,7.0
+P81,Skibbereen,6,2014,6.0
+P81,Skibbereen,9,2014,4.0
+P81,Skibbereen,12,2014,8.0
+P81,Skibbereen,3,2015,7.0
+P81,Skibbereen,6,2015,10.0
+P81,Skibbereen,9,2015,5.0
+P81,Skibbereen,12,2015,16.0
+P81,Skibbereen,3,2016,3.0
+P81,Skibbereen,6,2016,11.0
+P81,Skibbereen,9,2016,6.0
+P81,Skibbereen,12,2016,10.0
+P81,Skibbereen,3,2017,7.0
+P81,Skibbereen,6,2017,11.0
+P81,Skibbereen,9,2017,14.0
+P81,Skibbereen,12,2017,9.0
+P81,Skibbereen,3,2018,7.0
+P81,Skibbereen,6,2018,11.0
+P81,Skibbereen,9,2018,11.0
+P81,Skibbereen,12,2018,4.0
+P81,Skibbereen,3,2019,6.0
+P81,Skibbereen,6,2019,15.0
+P81,Skibbereen,9,2019,5.0
+P81,Skibbereen,12,2019,9.0
+P81,Skibbereen,3,2020,8.0
+P81,Skibbereen,6,2020,2.0
+P81,Skibbereen,9,2020,16.0
+P81,Skibbereen,12,2020,11.0
+P81,Skibbereen,3,2021,18.0
+P81,Skibbereen,6,2021,40.0
+P81,Skibbereen,9,2021,21.0
+P81,Skibbereen,12,2021,13.0
+P81,Skibbereen,3,2022,18.0
+P81,Skibbereen,6,2022,19.0
+P81,Skibbereen,9,2022,25.0
+P81,Skibbereen,12,2022,12.0
+P81,Skibbereen,3,2023,14.0
+P81,Skibbereen,6,2023,19.0
+P81,Skibbereen,9,2023,10.0
+P81,Skibbereen,12,2023,15.0
+P81,Skibbereen,3,2024,5.0
+P81,Skibbereen,6,2024,16.0
+P85,Clonakilty,3,2012,2.0
+P85,Clonakilty,6,2012,7.0
+P85,Clonakilty,9,2012,4.0
+P85,Clonakilty,12,2012,8.0
+P85,Clonakilty,3,2013,8.0
+P85,Clonakilty,6,2013,7.0
+P85,Clonakilty,9,2013,5.0
+P85,Clonakilty,12,2013,3.0
+P85,Clonakilty,3,2014,8.0
+P85,Clonakilty,6,2014,6.0
+P85,Clonakilty,9,2014,2.0
+P85,Clonakilty,12,2014,10.0
+P85,Clonakilty,3,2015,6.0
+P85,Clonakilty,6,2015,6.0
+P85,Clonakilty,9,2015,13.0
+P85,Clonakilty,12,2015,10.0
+P85,Clonakilty,3,2016,6.0
+P85,Clonakilty,6,2016,4.0
+P85,Clonakilty,9,2016,11.0
+P85,Clonakilty,12,2016,6.0
+P85,Clonakilty,3,2017,7.0
+P85,Clonakilty,6,2017,7.0
+P85,Clonakilty,9,2017,14.0
+P85,Clonakilty,12,2017,11.0
+P85,Clonakilty,3,2018,10.0
+P85,Clonakilty,6,2018,8.0
+P85,Clonakilty,9,2018,7.0
+P85,Clonakilty,12,2018,8.0
+P85,Clonakilty,3,2019,22.0
+P85,Clonakilty,6,2019,13.0
+P85,Clonakilty,9,2019,20.0
+P85,Clonakilty,12,2019,8.0
+P85,Clonakilty,3,2020,7.0
+P85,Clonakilty,6,2020,8.0
+P85,Clonakilty,9,2020,13.0
+P85,Clonakilty,12,2020,22.0
+P85,Clonakilty,3,2021,56.0
+P85,Clonakilty,6,2021,52.0
+P85,Clonakilty,9,2021,58.0
+P85,Clonakilty,12,2021,16.0
+P85,Clonakilty,3,2022,12.0
+P85,Clonakilty,6,2022,24.0
+P85,Clonakilty,9,2022,22.0
+P85,Clonakilty,12,2022,22.0
+P85,Clonakilty,3,2023,20.0
+P85,Clonakilty,6,2023,32.0
+P85,Clonakilty,9,2023,10.0
+P85,Clonakilty,12,2023,16.0
+P85,Clonakilty,3,2024,22.0
+P85,Clonakilty,6,2024,24.0
+R14,Athy,3,2012,20.0
+R14,Athy,6,2012,7.0
+R14,Athy,9,2012,4.0
+R14,Athy,12,2012,4.0
+R14,Athy,3,2013,4.0
+R14,Athy,6,2013,3.0
+R14,Athy,9,2013,4.0
+R14,Athy,12,2013,4.0
+R14,Athy,3,2014,0.0
+R14,Athy,6,2014,4.0
+R14,Athy,9,2014,2.0
+R14,Athy,12,2014,5.0
+R14,Athy,3,2015,5.0
+R14,Athy,6,2015,4.0
+R14,Athy,9,2015,5.0
+R14,Athy,12,2015,4.0
+R14,Athy,3,2016,3.0
+R14,Athy,6,2016,9.0
+R14,Athy,9,2016,5.0
+R14,Athy,12,2016,12.0
+R14,Athy,3,2017,9.0
+R14,Athy,6,2017,14.0
+R14,Athy,9,2017,7.0
+R14,Athy,12,2017,6.0
+R14,Athy,3,2018,8.0
+R14,Athy,6,2018,5.0
+R14,Athy,9,2018,10.0
+R14,Athy,12,2018,14.0
+R14,Athy,3,2019,8.0
+R14,Athy,6,2019,9.0
+R14,Athy,9,2019,15.0
+R14,Athy,12,2019,17.0
+R14,Athy,3,2020,18.0
+R14,Athy,6,2020,20.0
+R14,Athy,9,2020,13.0
+R14,Athy,12,2020,17.0
+R14,Athy,3,2021,15.0
+R14,Athy,6,2021,7.0
+R14,Athy,9,2021,5.0
+R14,Athy,12,2021,16.0
+R14,Athy,3,2022,8.0
+R14,Athy,6,2022,6.0
+R14,Athy,9,2022,26.0
+R14,Athy,12,2022,71.0
+R14,Athy,3,2023,42.0
+R14,Athy,6,2023,13.0
+R14,Athy,9,2023,28.0
+R14,Athy,12,2023,38.0
+R14,Athy,3,2024,5.0
+R14,Athy,6,2024,24.0
+R21,Mhuine Bheag,3,2012,1.0
+R21,Mhuine Bheag,6,2012,4.0
+R21,Mhuine Bheag,9,2012,3.0
+R21,Mhuine Bheag,12,2012,4.0
+R21,Mhuine Bheag,3,2013,2.0
+R21,Mhuine Bheag,6,2013,2.0
+R21,Mhuine Bheag,9,2013,3.0
+R21,Mhuine Bheag,12,2013,2.0
+R21,Mhuine Bheag,3,2014,0.0
+R21,Mhuine Bheag,6,2014,7.0
+R21,Mhuine Bheag,9,2014,5.0
+R21,Mhuine Bheag,12,2014,2.0
+R21,Mhuine Bheag,3,2015,3.0
+R21,Mhuine Bheag,6,2015,2.0
+R21,Mhuine Bheag,9,2015,6.0
+R21,Mhuine Bheag,12,2015,7.0
+R21,Mhuine Bheag,3,2016,1.0
+R21,Mhuine Bheag,6,2016,1.0
+R21,Mhuine Bheag,9,2016,2.0
+R21,Mhuine Bheag,12,2016,4.0
+R21,Mhuine Bheag,3,2017,1.0
+R21,Mhuine Bheag,6,2017,2.0
+R21,Mhuine Bheag,9,2017,8.0
+R21,Mhuine Bheag,12,2017,3.0
+R21,Mhuine Bheag,3,2018,19.0
+R21,Mhuine Bheag,6,2018,3.0
+R21,Mhuine Bheag,9,2018,5.0
+R21,Mhuine Bheag,12,2018,4.0
+R21,Mhuine Bheag,3,2019,1.0
+R21,Mhuine Bheag,6,2019,4.0
+R21,Mhuine Bheag,9,2019,3.0
+R21,Mhuine Bheag,12,2019,2.0
+R21,Mhuine Bheag,3,2020,6.0
+R21,Mhuine Bheag,6,2020,20.0
+R21,Mhuine Bheag,9,2020,3.0
+R21,Mhuine Bheag,12,2020,3.0
+R21,Mhuine Bheag,3,2021,2.0
+R21,Mhuine Bheag,6,2021,5.0
+R21,Mhuine Bheag,9,2021,0.0
+R21,Mhuine Bheag,12,2021,1.0
+R21,Mhuine Bheag,3,2022,2.0
+R21,Mhuine Bheag,6,2022,11.0
+R21,Mhuine Bheag,9,2022,22.0
+R21,Mhuine Bheag,12,2022,15.0
+R21,Mhuine Bheag,3,2023,10.0
+R21,Mhuine Bheag,6,2023,8.0
+R21,Mhuine Bheag,9,2023,7.0
+R21,Mhuine Bheag,12,2023,17.0
+R21,Mhuine Bheag,3,2024,5.0
+R21,Mhuine Bheag,6,2024,6.0
+R32,Portlaoise,3,2012,22.0
+R32,Portlaoise,6,2012,42.0
+R32,Portlaoise,9,2012,28.0
+R32,Portlaoise,12,2012,25.0
+R32,Portlaoise,3,2013,12.0
+R32,Portlaoise,6,2013,21.0
+R32,Portlaoise,9,2013,18.0
+R32,Portlaoise,12,2013,27.0
+R32,Portlaoise,3,2014,23.0
+R32,Portlaoise,6,2014,14.0
+R32,Portlaoise,9,2014,15.0
+R32,Portlaoise,12,2014,23.0
+R32,Portlaoise,3,2015,13.0
+R32,Portlaoise,6,2015,21.0
+R32,Portlaoise,9,2015,25.0
+R32,Portlaoise,12,2015,20.0
+R32,Portlaoise,3,2016,24.0
+R32,Portlaoise,6,2016,26.0
+R32,Portlaoise,9,2016,20.0
+R32,Portlaoise,12,2016,27.0
+R32,Portlaoise,3,2017,28.0
+R32,Portlaoise,6,2017,26.0
+R32,Portlaoise,9,2017,24.0
+R32,Portlaoise,12,2017,37.0
+R32,Portlaoise,3,2018,39.0
+R32,Portlaoise,6,2018,90.0
+R32,Portlaoise,9,2018,48.0
+R32,Portlaoise,12,2018,46.0
+R32,Portlaoise,3,2019,31.0
+R32,Portlaoise,6,2019,39.0
+R32,Portlaoise,9,2019,79.0
+R32,Portlaoise,12,2019,78.0
+R32,Portlaoise,3,2020,62.0
+R32,Portlaoise,6,2020,57.0
+R32,Portlaoise,9,2020,69.0
+R32,Portlaoise,12,2020,123.0
+R32,Portlaoise,3,2021,104.0
+R32,Portlaoise,6,2021,53.0
+R32,Portlaoise,9,2021,83.0
+R32,Portlaoise,12,2021,47.0
+R32,Portlaoise,3,2022,70.0
+R32,Portlaoise,6,2022,142.0
+R32,Portlaoise,9,2022,64.0
+R32,Portlaoise,12,2022,197.0
+R32,Portlaoise,3,2023,108.0
+R32,Portlaoise,6,2023,220.0
+R32,Portlaoise,9,2023,167.0
+R32,Portlaoise,12,2023,271.0
+R32,Portlaoise,3,2024,135.0
+R32,Portlaoise,6,2024,102.0
+R35,Tullamore,3,2012,5.0
+R35,Tullamore,6,2012,6.0
+R35,Tullamore,9,2012,12.0
+R35,Tullamore,12,2012,11.0
+R35,Tullamore,3,2013,7.0
+R35,Tullamore,6,2013,8.0
+R35,Tullamore,9,2013,3.0
+R35,Tullamore,12,2013,13.0
+R35,Tullamore,3,2014,8.0
+R35,Tullamore,6,2014,5.0
+R35,Tullamore,9,2014,11.0
+R35,Tullamore,12,2014,9.0
+R35,Tullamore,3,2015,8.0
+R35,Tullamore,6,2015,4.0
+R35,Tullamore,9,2015,24.0
+R35,Tullamore,12,2015,8.0
+R35,Tullamore,3,2016,7.0
+R35,Tullamore,6,2016,10.0
+R35,Tullamore,9,2016,4.0
+R35,Tullamore,12,2016,16.0
+R35,Tullamore,3,2017,10.0
+R35,Tullamore,6,2017,15.0
+R35,Tullamore,9,2017,14.0
+R35,Tullamore,12,2017,18.0
+R35,Tullamore,3,2018,14.0
+R35,Tullamore,6,2018,9.0
+R35,Tullamore,9,2018,12.0
+R35,Tullamore,12,2018,20.0
+R35,Tullamore,3,2019,30.0
+R35,Tullamore,6,2019,21.0
+R35,Tullamore,9,2019,24.0
+R35,Tullamore,12,2019,47.0
+R35,Tullamore,3,2020,36.0
+R35,Tullamore,6,2020,17.0
+R35,Tullamore,9,2020,21.0
+R35,Tullamore,12,2020,34.0
+R35,Tullamore,3,2021,23.0
+R35,Tullamore,6,2021,28.0
+R35,Tullamore,9,2021,47.0
+R35,Tullamore,12,2021,56.0
+R35,Tullamore,3,2022,100.0
+R35,Tullamore,6,2022,56.0
+R35,Tullamore,9,2022,26.0
+R35,Tullamore,12,2022,74.0
+R35,Tullamore,3,2023,85.0
+R35,Tullamore,6,2023,49.0
+R35,Tullamore,9,2023,59.0
+R35,Tullamore,12,2023,125.0
+R35,Tullamore,3,2024,44.0
+R35,Tullamore,6,2024,37.0
+R42,Birr,3,2012,4.0
+R42,Birr,6,2012,8.0
+R42,Birr,9,2012,7.0
+R42,Birr,12,2012,8.0
+R42,Birr,3,2013,4.0
+R42,Birr,6,2013,5.0
+R42,Birr,9,2013,5.0
+R42,Birr,12,2013,7.0
+R42,Birr,3,2014,6.0
+R42,Birr,6,2014,2.0
+R42,Birr,9,2014,2.0
+R42,Birr,12,2014,7.0
+R42,Birr,3,2015,2.0
+R42,Birr,6,2015,8.0
+R42,Birr,9,2015,23.0
+R42,Birr,12,2015,7.0
+R42,Birr,3,2016,6.0
+R42,Birr,6,2016,5.0
+R42,Birr,9,2016,12.0
+R42,Birr,12,2016,5.0
+R42,Birr,3,2017,10.0
+R42,Birr,6,2017,5.0
+R42,Birr,9,2017,9.0
+R42,Birr,12,2017,8.0
+R42,Birr,3,2018,5.0
+R42,Birr,6,2018,7.0
+R42,Birr,9,2018,6.0
+R42,Birr,12,2018,10.0
+R42,Birr,3,2019,6.0
+R42,Birr,6,2019,9.0
+R42,Birr,9,2019,9.0
+R42,Birr,12,2019,15.0
+R42,Birr,3,2020,8.0
+R42,Birr,6,2020,3.0
+R42,Birr,9,2020,10.0
+R42,Birr,12,2020,19.0
+R42,Birr,3,2021,11.0
+R42,Birr,6,2021,10.0
+R42,Birr,9,2021,8.0
+R42,Birr,12,2021,25.0
+R42,Birr,3,2022,21.0
+R42,Birr,6,2022,18.0
+R42,Birr,9,2022,24.0
+R42,Birr,12,2022,33.0
+R42,Birr,3,2023,10.0
+R42,Birr,6,2023,31.0
+R42,Birr,9,2023,30.0
+R42,Birr,12,2023,25.0
+R42,Birr,3,2024,14.0
+R42,Birr,6,2024,8.0
+R45,Edenderry,3,2012,1.0
+R45,Edenderry,6,2012,0.0
+R45,Edenderry,9,2012,3.0
+R45,Edenderry,12,2012,3.0
+R45,Edenderry,3,2013,1.0
+R45,Edenderry,6,2013,0.0
+R45,Edenderry,9,2013,1.0
+R45,Edenderry,12,2013,2.0
+R45,Edenderry,3,2014,2.0
+R45,Edenderry,6,2014,1.0
+R45,Edenderry,9,2014,8.0
+R45,Edenderry,12,2014,4.0
+R45,Edenderry,3,2015,4.0
+R45,Edenderry,6,2015,3.0
+R45,Edenderry,9,2015,3.0
+R45,Edenderry,12,2015,1.0
+R45,Edenderry,3,2016,5.0
+R45,Edenderry,6,2016,2.0
+R45,Edenderry,9,2016,2.0
+R45,Edenderry,12,2016,5.0
+R45,Edenderry,3,2017,11.0
+R45,Edenderry,6,2017,7.0
+R45,Edenderry,9,2017,7.0
+R45,Edenderry,12,2017,3.0
+R45,Edenderry,3,2018,4.0
+R45,Edenderry,6,2018,3.0
+R45,Edenderry,9,2018,4.0
+R45,Edenderry,12,2018,5.0
+R45,Edenderry,3,2019,1.0
+R45,Edenderry,6,2019,5.0
+R45,Edenderry,9,2019,18.0
+R45,Edenderry,12,2019,23.0
+R45,Edenderry,3,2020,0.0
+R45,Edenderry,6,2020,1.0
+R45,Edenderry,9,2020,3.0
+R45,Edenderry,12,2020,30.0
+R45,Edenderry,3,2021,8.0
+R45,Edenderry,6,2021,1.0
+R45,Edenderry,9,2021,1.0
+R45,Edenderry,12,2021,1.0
+R45,Edenderry,3,2022,7.0
+R45,Edenderry,6,2022,11.0
+R45,Edenderry,9,2022,7.0
+R45,Edenderry,12,2022,3.0
+R45,Edenderry,3,2023,7.0
+R45,Edenderry,6,2023,0.0
+R45,Edenderry,9,2023,15.0
+R45,Edenderry,12,2023,27.0
+R45,Edenderry,3,2024,32.0
+R45,Edenderry,6,2024,11.0
+R51,Kildare,3,2012,2.0
+R51,Kildare,6,2012,3.0
+R51,Kildare,9,2012,2.0
+R51,Kildare,12,2012,2.0
+R51,Kildare,3,2013,2.0
+R51,Kildare,6,2013,3.0
+R51,Kildare,9,2013,5.0
+R51,Kildare,12,2013,5.0
+R51,Kildare,3,2014,1.0
+R51,Kildare,6,2014,2.0
+R51,Kildare,9,2014,2.0
+R51,Kildare,12,2014,5.0
+R51,Kildare,3,2015,3.0
+R51,Kildare,6,2015,7.0
+R51,Kildare,9,2015,2.0
+R51,Kildare,12,2015,4.0
+R51,Kildare,3,2016,0.0
+R51,Kildare,6,2016,12.0
+R51,Kildare,9,2016,1.0
+R51,Kildare,12,2016,22.0
+R51,Kildare,3,2017,27.0
+R51,Kildare,6,2017,25.0
+R51,Kildare,9,2017,22.0
+R51,Kildare,12,2017,24.0
+R51,Kildare,3,2018,27.0
+R51,Kildare,6,2018,21.0
+R51,Kildare,9,2018,37.0
+R51,Kildare,12,2018,27.0
+R51,Kildare,3,2019,48.0
+R51,Kildare,6,2019,35.0
+R51,Kildare,9,2019,73.0
+R51,Kildare,12,2019,54.0
+R51,Kildare,3,2020,34.0
+R51,Kildare,6,2020,19.0
+R51,Kildare,9,2020,56.0
+R51,Kildare,12,2020,51.0
+R51,Kildare,3,2021,58.0
+R51,Kildare,6,2021,83.0
+R51,Kildare,9,2021,46.0
+R51,Kildare,12,2021,44.0
+R51,Kildare,3,2022,24.0
+R51,Kildare,6,2022,23.0
+R51,Kildare,9,2022,93.0
+R51,Kildare,12,2022,130.0
+R51,Kildare,3,2023,80.0
+R51,Kildare,6,2023,99.0
+R51,Kildare,9,2023,33.0
+R51,Kildare,12,2023,237.0
+R51,Kildare,3,2024,27.0
+R51,Kildare,6,2024,50.0
+R56,Curragh,3,2012,4.0
+R56,Curragh,6,2012,0.0
+R56,Curragh,9,2012,2.0
+R56,Curragh,12,2012,2.0
+R56,Curragh,3,2013,1.0
+R56,Curragh,6,2013,2.0
+R56,Curragh,9,2013,3.0
+R56,Curragh,12,2013,4.0
+R56,Curragh,3,2014,1.0
+R56,Curragh,6,2014,1.0
+R56,Curragh,9,2014,0.0
+R56,Curragh,12,2014,3.0
+R56,Curragh,3,2015,4.0
+R56,Curragh,6,2015,3.0
+R56,Curragh,9,2015,4.0
+R56,Curragh,12,2015,4.0
+R56,Curragh,3,2016,8.0
+R56,Curragh,6,2016,5.0
+R56,Curragh,9,2016,7.0
+R56,Curragh,12,2016,2.0
+R56,Curragh,3,2017,7.0
+R56,Curragh,6,2017,9.0
+R56,Curragh,9,2017,8.0
+R56,Curragh,12,2017,9.0
+R56,Curragh,3,2018,8.0
+R56,Curragh,6,2018,7.0
+R56,Curragh,9,2018,8.0
+R56,Curragh,12,2018,3.0
+R56,Curragh,3,2019,7.0
+R56,Curragh,6,2019,13.0
+R56,Curragh,9,2019,3.0
+R56,Curragh,12,2019,11.0
+R56,Curragh,3,2020,2.0
+R56,Curragh,6,2020,4.0
+R56,Curragh,9,2020,5.0
+R56,Curragh,12,2020,50.0
+R56,Curragh,3,2021,5.0
+R56,Curragh,6,2021,7.0
+R56,Curragh,9,2021,5.0
+R56,Curragh,12,2021,6.0
+R56,Curragh,3,2022,14.0
+R56,Curragh,6,2022,30.0
+R56,Curragh,9,2022,9.0
+R56,Curragh,12,2022,49.0
+R56,Curragh,3,2023,9.0
+R56,Curragh,6,2023,45.0
+R56,Curragh,9,2023,21.0
+R56,Curragh,12,2023,13.0
+R56,Curragh,3,2024,3.0
+R56,Curragh,6,2024,10.0
+R93,Carlow,3,2012,12.0
+R93,Carlow,6,2012,8.0
+R93,Carlow,9,2012,14.0
+R93,Carlow,12,2012,8.0
+R93,Carlow,3,2013,4.0
+R93,Carlow,6,2013,8.0
+R93,Carlow,9,2013,9.0
+R93,Carlow,12,2013,6.0
+R93,Carlow,3,2014,23.0
+R93,Carlow,6,2014,13.0
+R93,Carlow,9,2014,16.0
+R93,Carlow,12,2014,11.0
+R93,Carlow,3,2015,15.0
+R93,Carlow,6,2015,13.0
+R93,Carlow,9,2015,27.0
+R93,Carlow,12,2015,21.0
+R93,Carlow,3,2016,13.0
+R93,Carlow,6,2016,17.0
+R93,Carlow,9,2016,26.0
+R93,Carlow,12,2016,22.0
+R93,Carlow,3,2017,12.0
+R93,Carlow,6,2017,32.0
+R93,Carlow,9,2017,18.0
+R93,Carlow,12,2017,25.0
+R93,Carlow,3,2018,30.0
+R93,Carlow,6,2018,38.0
+R93,Carlow,9,2018,35.0
+R93,Carlow,12,2018,96.0
+R93,Carlow,3,2019,40.0
+R93,Carlow,6,2019,39.0
+R93,Carlow,9,2019,38.0
+R93,Carlow,12,2019,76.0
+R93,Carlow,3,2020,20.0
+R93,Carlow,6,2020,30.0
+R93,Carlow,9,2020,71.0
+R93,Carlow,12,2020,58.0
+R93,Carlow,3,2021,53.0
+R93,Carlow,6,2021,101.0
+R93,Carlow,9,2021,65.0
+R93,Carlow,12,2021,110.0
+R93,Carlow,3,2022,61.0
+R93,Carlow,6,2022,49.0
+R93,Carlow,9,2022,37.0
+R93,Carlow,12,2022,56.0
+R93,Carlow,3,2023,25.0
+R93,Carlow,6,2023,50.0
+R93,Carlow,9,2023,50.0
+R93,Carlow,12,2023,84.0
+R93,Carlow,3,2024,64.0
+R93,Carlow,6,2024,78.0
+R95,Kilkenny,3,2012,21.0
+R95,Kilkenny,6,2012,12.0
+R95,Kilkenny,9,2012,16.0
+R95,Kilkenny,12,2012,36.0
+R95,Kilkenny,3,2013,10.0
+R95,Kilkenny,6,2013,27.0
+R95,Kilkenny,9,2013,24.0
+R95,Kilkenny,12,2013,21.0
+R95,Kilkenny,3,2014,20.0
+R95,Kilkenny,6,2014,14.0
+R95,Kilkenny,9,2014,18.0
+R95,Kilkenny,12,2014,21.0
+R95,Kilkenny,3,2015,14.0
+R95,Kilkenny,6,2015,16.0
+R95,Kilkenny,9,2015,26.0
+R95,Kilkenny,12,2015,32.0
+R95,Kilkenny,3,2016,18.0
+R95,Kilkenny,6,2016,29.0
+R95,Kilkenny,9,2016,38.0
+R95,Kilkenny,12,2016,36.0
+R95,Kilkenny,3,2017,38.0
+R95,Kilkenny,6,2017,32.0
+R95,Kilkenny,9,2017,51.0
+R95,Kilkenny,12,2017,44.0
+R95,Kilkenny,3,2018,17.0
+R95,Kilkenny,6,2018,51.0
+R95,Kilkenny,9,2018,44.0
+R95,Kilkenny,12,2018,63.0
+R95,Kilkenny,3,2019,44.0
+R95,Kilkenny,6,2019,29.0
+R95,Kilkenny,9,2019,81.0
+R95,Kilkenny,12,2019,76.0
+R95,Kilkenny,3,2020,87.0
+R95,Kilkenny,6,2020,56.0
+R95,Kilkenny,9,2020,60.0
+R95,Kilkenny,12,2020,96.0
+R95,Kilkenny,3,2021,47.0
+R95,Kilkenny,6,2021,81.0
+R95,Kilkenny,9,2021,65.0
+R95,Kilkenny,12,2021,53.0
+R95,Kilkenny,3,2022,50.0
+R95,Kilkenny,6,2022,138.0
+R95,Kilkenny,9,2022,69.0
+R95,Kilkenny,12,2022,122.0
+R95,Kilkenny,3,2023,64.0
+R95,Kilkenny,6,2023,84.0
+R95,Kilkenny,9,2023,103.0
+R95,Kilkenny,12,2023,240.0
+R95,Kilkenny,3,2024,109.0
+R95,Kilkenny,6,2024,105.0
+T12,Cork Southside,3,2012,11.0
+T12,Cork Southside,6,2012,10.0
+T12,Cork Southside,9,2012,20.0
+T12,Cork Southside,12,2012,15.0
+T12,Cork Southside,3,2013,13.0
+T12,Cork Southside,6,2013,9.0
+T12,Cork Southside,9,2013,8.0
+T12,Cork Southside,12,2013,22.0
+T12,Cork Southside,3,2014,13.0
+T12,Cork Southside,6,2014,12.0
+T12,Cork Southside,9,2014,30.0
+T12,Cork Southside,12,2014,15.0
+T12,Cork Southside,3,2015,23.0
+T12,Cork Southside,6,2015,12.0
+T12,Cork Southside,9,2015,21.0
+T12,Cork Southside,12,2015,63.0
+T12,Cork Southside,3,2016,32.0
+T12,Cork Southside,6,2016,40.0
+T12,Cork Southside,9,2016,43.0
+T12,Cork Southside,12,2016,49.0
+T12,Cork Southside,3,2017,68.0
+T12,Cork Southside,6,2017,36.0
+T12,Cork Southside,9,2017,42.0
+T12,Cork Southside,12,2017,87.0
+T12,Cork Southside,3,2018,61.0
+T12,Cork Southside,6,2018,58.0
+T12,Cork Southside,9,2018,101.0
+T12,Cork Southside,12,2018,106.0
+T12,Cork Southside,3,2019,73.0
+T12,Cork Southside,6,2019,78.0
+T12,Cork Southside,9,2019,103.0
+T12,Cork Southside,12,2019,157.0
+T12,Cork Southside,3,2020,121.0
+T12,Cork Southside,6,2020,63.0
+T12,Cork Southside,9,2020,163.0
+T12,Cork Southside,12,2020,136.0
+T12,Cork Southside,3,2021,42.0
+T12,Cork Southside,6,2021,32.0
+T12,Cork Southside,9,2021,53.0
+T12,Cork Southside,12,2021,102.0
+T12,Cork Southside,3,2022,63.0
+T12,Cork Southside,6,2022,236.0
+T12,Cork Southside,9,2022,168.0
+T12,Cork Southside,12,2022,178.0
+T12,Cork Southside,3,2023,133.0
+T12,Cork Southside,6,2023,149.0
+T12,Cork Southside,9,2023,90.0
+T12,Cork Southside,12,2023,139.0
+T12,Cork Southside,3,2024,114.0
+T12,Cork Southside,6,2024,162.0
+T23,Cork Northside,3,2012,10.0
+T23,Cork Northside,6,2012,5.0
+T23,Cork Northside,9,2012,10.0
+T23,Cork Northside,12,2012,11.0
+T23,Cork Northside,3,2013,8.0
+T23,Cork Northside,6,2013,67.0
+T23,Cork Northside,9,2013,14.0
+T23,Cork Northside,12,2013,47.0
+T23,Cork Northside,3,2014,5.0
+T23,Cork Northside,6,2014,18.0
+T23,Cork Northside,9,2014,6.0
+T23,Cork Northside,12,2014,13.0
+T23,Cork Northside,3,2015,12.0
+T23,Cork Northside,6,2015,26.0
+T23,Cork Northside,9,2015,22.0
+T23,Cork Northside,12,2015,39.0
+T23,Cork Northside,3,2016,25.0
+T23,Cork Northside,6,2016,21.0
+T23,Cork Northside,9,2016,13.0
+T23,Cork Northside,12,2016,30.0
+T23,Cork Northside,3,2017,11.0
+T23,Cork Northside,6,2017,14.0
+T23,Cork Northside,9,2017,33.0
+T23,Cork Northside,12,2017,45.0
+T23,Cork Northside,3,2018,48.0
+T23,Cork Northside,6,2018,41.0
+T23,Cork Northside,9,2018,34.0
+T23,Cork Northside,12,2018,68.0
+T23,Cork Northside,3,2019,64.0
+T23,Cork Northside,6,2019,61.0
+T23,Cork Northside,9,2019,32.0
+T23,Cork Northside,12,2019,81.0
+T23,Cork Northside,3,2020,82.0
+T23,Cork Northside,6,2020,53.0
+T23,Cork Northside,9,2020,107.0
+T23,Cork Northside,12,2020,113.0
+T23,Cork Northside,3,2021,117.0
+T23,Cork Northside,6,2021,89.0
+T23,Cork Northside,9,2021,51.0
+T23,Cork Northside,12,2021,95.0
+T23,Cork Northside,3,2022,40.0
+T23,Cork Northside,6,2022,86.0
+T23,Cork Northside,9,2022,110.0
+T23,Cork Northside,12,2022,116.0
+T23,Cork Northside,3,2023,111.0
+T23,Cork Northside,6,2023,129.0
+T23,Cork Northside,9,2023,53.0
+T23,Cork Northside,12,2023,152.0
+T23,Cork Northside,3,2024,113.0
+T23,Cork Northside,6,2024,40.0
+T34,Carrignavar,3,2012,0.0
+T34,Carrignavar,6,2012,0.0
+T34,Carrignavar,9,2012,5.0
+T34,Carrignavar,12,2012,0.0
+T34,Carrignavar,3,2013,1.0
+T34,Carrignavar,6,2013,0.0
+T34,Carrignavar,9,2013,3.0
+T34,Carrignavar,12,2013,2.0
+T34,Carrignavar,3,2014,1.0
+T34,Carrignavar,6,2014,0.0
+T34,Carrignavar,9,2014,1.0
+T34,Carrignavar,12,2014,2.0
+T34,Carrignavar,3,2015,1.0
+T34,Carrignavar,6,2015,2.0
+T34,Carrignavar,9,2015,1.0
+T34,Carrignavar,12,2015,3.0
+T34,Carrignavar,3,2016,0.0
+T34,Carrignavar,6,2016,5.0
+T34,Carrignavar,9,2016,4.0
+T34,Carrignavar,12,2016,1.0
+T34,Carrignavar,3,2017,6.0
+T34,Carrignavar,6,2017,1.0
+T34,Carrignavar,9,2017,3.0
+T34,Carrignavar,12,2017,1.0
+T34,Carrignavar,3,2018,2.0
+T34,Carrignavar,6,2018,1.0
+T34,Carrignavar,9,2018,2.0
+T34,Carrignavar,12,2018,3.0
+T34,Carrignavar,3,2019,2.0
+T34,Carrignavar,6,2019,4.0
+T34,Carrignavar,9,2019,3.0
+T34,Carrignavar,12,2019,2.0
+T34,Carrignavar,3,2020,3.0
+T34,Carrignavar,6,2020,1.0
+T34,Carrignavar,9,2020,2.0
+T34,Carrignavar,12,2020,3.0
+T34,Carrignavar,3,2021,4.0
+T34,Carrignavar,6,2021,1.0
+T34,Carrignavar,9,2021,4.0
+T34,Carrignavar,12,2021,6.0
+T34,Carrignavar,3,2022,17.0
+T34,Carrignavar,6,2022,15.0
+T34,Carrignavar,9,2022,17.0
+T34,Carrignavar,12,2022,10.0
+T34,Carrignavar,3,2023,21.0
+T34,Carrignavar,6,2023,21.0
+T34,Carrignavar,9,2023,9.0
+T34,Carrignavar,12,2023,15.0
+T34,Carrignavar,3,2024,10.0
+T34,Carrignavar,6,2024,2.0
+T45,Glanmire,3,2012,10.0
+T45,Glanmire,6,2012,5.0
+T45,Glanmire,9,2012,6.0
+T45,Glanmire,12,2012,8.0
+T45,Glanmire,3,2013,8.0
+T45,Glanmire,6,2013,1.0
+T45,Glanmire,9,2013,4.0
+T45,Glanmire,12,2013,3.0
+T45,Glanmire,3,2014,2.0
+T45,Glanmire,6,2014,5.0
+T45,Glanmire,9,2014,1.0
+T45,Glanmire,12,2014,6.0
+T45,Glanmire,3,2015,3.0
+T45,Glanmire,6,2015,4.0
+T45,Glanmire,9,2015,13.0
+T45,Glanmire,12,2015,11.0
+T45,Glanmire,3,2016,18.0
+T45,Glanmire,6,2016,15.0
+T45,Glanmire,9,2016,14.0
+T45,Glanmire,12,2016,13.0
+T45,Glanmire,3,2017,22.0
+T45,Glanmire,6,2017,30.0
+T45,Glanmire,9,2017,22.0
+T45,Glanmire,12,2017,31.0
+T45,Glanmire,3,2018,27.0
+T45,Glanmire,6,2018,32.0
+T45,Glanmire,9,2018,22.0
+T45,Glanmire,12,2018,28.0
+T45,Glanmire,3,2019,19.0
+T45,Glanmire,6,2019,7.0
+T45,Glanmire,9,2019,16.0
+T45,Glanmire,12,2019,37.0
+T45,Glanmire,3,2020,45.0
+T45,Glanmire,6,2020,28.0
+T45,Glanmire,9,2020,40.0
+T45,Glanmire,12,2020,65.0
+T45,Glanmire,3,2021,26.0
+T45,Glanmire,6,2021,44.0
+T45,Glanmire,9,2021,54.0
+T45,Glanmire,12,2021,72.0
+T45,Glanmire,3,2022,60.0
+T45,Glanmire,6,2022,87.0
+T45,Glanmire,9,2022,86.0
+T45,Glanmire,12,2022,92.0
+T45,Glanmire,3,2023,73.0
+T45,Glanmire,6,2023,55.0
+T45,Glanmire,9,2023,75.0
+T45,Glanmire,12,2023,66.0
+T45,Glanmire,3,2024,38.0
+T45,Glanmire,6,2024,69.0
+T56,Watergrasshill,3,2012,2.0
+T56,Watergrasshill,6,2012,2.0
+T56,Watergrasshill,9,2012,6.0
+T56,Watergrasshill,12,2012,6.0
+T56,Watergrasshill,3,2013,4.0
+T56,Watergrasshill,6,2013,2.0
+T56,Watergrasshill,9,2013,4.0
+T56,Watergrasshill,12,2013,4.0
+T56,Watergrasshill,3,2014,2.0
+T56,Watergrasshill,6,2014,2.0
+T56,Watergrasshill,9,2014,4.0
+T56,Watergrasshill,12,2014,7.0
+T56,Watergrasshill,3,2015,1.0
+T56,Watergrasshill,6,2015,3.0
+T56,Watergrasshill,9,2015,0.0
+T56,Watergrasshill,12,2015,12.0
+T56,Watergrasshill,3,2016,2.0
+T56,Watergrasshill,6,2016,12.0
+T56,Watergrasshill,9,2016,7.0
+T56,Watergrasshill,12,2016,8.0
+T56,Watergrasshill,3,2017,7.0
+T56,Watergrasshill,6,2017,11.0
+T56,Watergrasshill,9,2017,8.0
+T56,Watergrasshill,12,2017,9.0
+T56,Watergrasshill,3,2018,15.0
+T56,Watergrasshill,6,2018,34.0
+T56,Watergrasshill,9,2018,19.0
+T56,Watergrasshill,12,2018,15.0
+T56,Watergrasshill,3,2019,19.0
+T56,Watergrasshill,6,2019,12.0
+T56,Watergrasshill,9,2019,6.0
+T56,Watergrasshill,12,2019,26.0
+T56,Watergrasshill,3,2020,16.0
+T56,Watergrasshill,6,2020,3.0
+T56,Watergrasshill,9,2020,8.0
+T56,Watergrasshill,12,2020,9.0
+T56,Watergrasshill,3,2021,8.0
+T56,Watergrasshill,6,2021,18.0
+T56,Watergrasshill,9,2021,26.0
+T56,Watergrasshill,12,2021,42.0
+T56,Watergrasshill,3,2022,25.0
+T56,Watergrasshill,6,2022,12.0
+T56,Watergrasshill,9,2022,10.0
+T56,Watergrasshill,12,2022,7.0
+T56,Watergrasshill,3,2023,13.0
+T56,Watergrasshill,6,2023,12.0
+T56,Watergrasshill,9,2023,14.0
+T56,Watergrasshill,12,2023,14.0
+T56,Watergrasshill,3,2024,10.0
+T56,Watergrasshill,6,2024,12.0
+V14,Shannon,3,2012,10.0
+V14,Shannon,6,2012,1.0
+V14,Shannon,9,2012,2.0
+V14,Shannon,12,2012,3.0
+V14,Shannon,3,2013,0.0
+V14,Shannon,6,2013,0.0
+V14,Shannon,9,2013,0.0
+V14,Shannon,12,2013,1.0
+V14,Shannon,3,2014,0.0
+V14,Shannon,6,2014,0.0
+V14,Shannon,9,2014,2.0
+V14,Shannon,12,2014,0.0
+V14,Shannon,3,2015,0.0
+V14,Shannon,6,2015,1.0
+V14,Shannon,9,2015,0.0
+V14,Shannon,12,2015,1.0
+V14,Shannon,3,2016,0.0
+V14,Shannon,6,2016,0.0
+V14,Shannon,9,2016,0.0
+V14,Shannon,12,2016,0.0
+V14,Shannon,3,2017,1.0
+V14,Shannon,6,2017,1.0
+V14,Shannon,9,2017,1.0
+V14,Shannon,12,2017,0.0
+V14,Shannon,3,2018,2.0
+V14,Shannon,6,2018,3.0
+V14,Shannon,9,2018,2.0
+V14,Shannon,12,2018,1.0
+V14,Shannon,3,2019,3.0
+V14,Shannon,6,2019,31.0
+V14,Shannon,9,2019,0.0
+V14,Shannon,12,2019,18.0
+V14,Shannon,3,2020,4.0
+V14,Shannon,6,2020,3.0
+V14,Shannon,9,2020,2.0
+V14,Shannon,12,2020,2.0
+V14,Shannon,3,2021,1.0
+V14,Shannon,6,2021,52.0
+V14,Shannon,9,2021,1.0
+V14,Shannon,12,2021,3.0
+V14,Shannon,3,2022,1.0
+V14,Shannon,6,2022,2.0
+V14,Shannon,9,2022,1.0
+V14,Shannon,12,2022,1.0
+V14,Shannon,3,2023,1.0
+V14,Shannon,6,2023,0.0
+V14,Shannon,9,2023,2.0
+V14,Shannon,12,2023,22.0
+V14,Shannon,3,2024,0.0
+V14,Shannon,6,2024,12.0
+V15,Kilrush,3,2012,3.0
+V15,Kilrush,6,2012,1.0
+V15,Kilrush,9,2012,3.0
+V15,Kilrush,12,2012,6.0
+V15,Kilrush,3,2013,3.0
+V15,Kilrush,6,2013,4.0
+V15,Kilrush,9,2013,3.0
+V15,Kilrush,12,2013,10.0
+V15,Kilrush,3,2014,2.0
+V15,Kilrush,6,2014,3.0
+V15,Kilrush,9,2014,6.0
+V15,Kilrush,12,2014,5.0
+V15,Kilrush,3,2015,3.0
+V15,Kilrush,6,2015,11.0
+V15,Kilrush,9,2015,6.0
+V15,Kilrush,12,2015,3.0
+V15,Kilrush,3,2016,4.0
+V15,Kilrush,6,2016,3.0
+V15,Kilrush,9,2016,1.0
+V15,Kilrush,12,2016,6.0
+V15,Kilrush,3,2017,4.0
+V15,Kilrush,6,2017,7.0
+V15,Kilrush,9,2017,9.0
+V15,Kilrush,12,2017,14.0
+V15,Kilrush,3,2018,9.0
+V15,Kilrush,6,2018,5.0
+V15,Kilrush,9,2018,6.0
+V15,Kilrush,12,2018,6.0
+V15,Kilrush,3,2019,6.0
+V15,Kilrush,6,2019,7.0
+V15,Kilrush,9,2019,6.0
+V15,Kilrush,12,2019,3.0
+V15,Kilrush,3,2020,4.0
+V15,Kilrush,6,2020,9.0
+V15,Kilrush,9,2020,5.0
+V15,Kilrush,12,2020,3.0
+V15,Kilrush,3,2021,2.0
+V15,Kilrush,6,2021,10.0
+V15,Kilrush,9,2021,8.0
+V15,Kilrush,12,2021,9.0
+V15,Kilrush,3,2022,13.0
+V15,Kilrush,6,2022,10.0
+V15,Kilrush,9,2022,11.0
+V15,Kilrush,12,2022,10.0
+V15,Kilrush,3,2023,6.0
+V15,Kilrush,6,2023,10.0
+V15,Kilrush,9,2023,9.0
+V15,Kilrush,12,2023,9.0
+V15,Kilrush,3,2024,5.0
+V15,Kilrush,6,2024,15.0
+V23,Caherciveen,3,2012,3.0
+V23,Caherciveen,6,2012,3.0
+V23,Caherciveen,9,2012,3.0
+V23,Caherciveen,12,2012,3.0
+V23,Caherciveen,3,2013,3.0
+V23,Caherciveen,6,2013,4.0
+V23,Caherciveen,9,2013,3.0
+V23,Caherciveen,12,2013,3.0
+V23,Caherciveen,3,2014,3.0
+V23,Caherciveen,6,2014,2.0
+V23,Caherciveen,9,2014,1.0
+V23,Caherciveen,12,2014,4.0
+V23,Caherciveen,3,2015,0.0
+V23,Caherciveen,6,2015,2.0
+V23,Caherciveen,9,2015,2.0
+V23,Caherciveen,12,2015,0.0
+V23,Caherciveen,3,2016,5.0
+V23,Caherciveen,6,2016,0.0
+V23,Caherciveen,9,2016,6.0
+V23,Caherciveen,12,2016,4.0
+V23,Caherciveen,3,2017,2.0
+V23,Caherciveen,6,2017,3.0
+V23,Caherciveen,9,2017,2.0
+V23,Caherciveen,12,2017,5.0
+V23,Caherciveen,3,2018,2.0
+V23,Caherciveen,6,2018,4.0
+V23,Caherciveen,9,2018,4.0
+V23,Caherciveen,12,2018,9.0
+V23,Caherciveen,3,2019,5.0
+V23,Caherciveen,6,2019,9.0
+V23,Caherciveen,9,2019,4.0
+V23,Caherciveen,12,2019,3.0
+V23,Caherciveen,3,2020,2.0
+V23,Caherciveen,6,2020,1.0
+V23,Caherciveen,9,2020,13.0
+V23,Caherciveen,12,2020,9.0
+V23,Caherciveen,3,2021,2.0
+V23,Caherciveen,6,2021,6.0
+V23,Caherciveen,9,2021,4.0
+V23,Caherciveen,12,2021,3.0
+V23,Caherciveen,3,2022,3.0
+V23,Caherciveen,6,2022,2.0
+V23,Caherciveen,9,2022,5.0
+V23,Caherciveen,12,2022,3.0
+V23,Caherciveen,3,2023,4.0
+V23,Caherciveen,6,2023,4.0
+V23,Caherciveen,9,2023,5.0
+V23,Caherciveen,12,2023,12.0
+V23,Caherciveen,3,2024,6.0
+V23,Caherciveen,6,2024,6.0
+V31,Listowel,3,2012,6.0
+V31,Listowel,6,2012,3.0
+V31,Listowel,9,2012,9.0
+V31,Listowel,12,2012,7.0
+V31,Listowel,3,2013,5.0
+V31,Listowel,6,2013,3.0
+V31,Listowel,9,2013,2.0
+V31,Listowel,12,2013,6.0
+V31,Listowel,3,2014,2.0
+V31,Listowel,6,2014,7.0
+V31,Listowel,9,2014,4.0
+V31,Listowel,12,2014,5.0
+V31,Listowel,3,2015,4.0
+V31,Listowel,6,2015,5.0
+V31,Listowel,9,2015,2.0
+V31,Listowel,12,2015,4.0
+V31,Listowel,3,2016,2.0
+V31,Listowel,6,2016,5.0
+V31,Listowel,9,2016,6.0
+V31,Listowel,12,2016,4.0
+V31,Listowel,3,2017,4.0
+V31,Listowel,6,2017,7.0
+V31,Listowel,9,2017,3.0
+V31,Listowel,12,2017,4.0
+V31,Listowel,3,2018,3.0
+V31,Listowel,6,2018,8.0
+V31,Listowel,9,2018,8.0
+V31,Listowel,12,2018,6.0
+V31,Listowel,3,2019,6.0
+V31,Listowel,6,2019,10.0
+V31,Listowel,9,2019,5.0
+V31,Listowel,12,2019,15.0
+V31,Listowel,3,2020,7.0
+V31,Listowel,6,2020,4.0
+V31,Listowel,9,2020,7.0
+V31,Listowel,12,2020,29.0
+V31,Listowel,3,2021,9.0
+V31,Listowel,6,2021,15.0
+V31,Listowel,9,2021,26.0
+V31,Listowel,12,2021,24.0
+V31,Listowel,3,2022,1.0
+V31,Listowel,6,2022,18.0
+V31,Listowel,9,2022,17.0
+V31,Listowel,12,2022,28.0
+V31,Listowel,3,2023,31.0
+V31,Listowel,6,2023,20.0
+V31,Listowel,9,2023,20.0
+V31,Listowel,12,2023,16.0
+V31,Listowel,3,2024,4.0
+V31,Listowel,6,2024,8.0
+V35,Kilmallock,3,2012,6.0
+V35,Kilmallock,6,2012,19.0
+V35,Kilmallock,9,2012,9.0
+V35,Kilmallock,12,2012,15.0
+V35,Kilmallock,3,2013,6.0
+V35,Kilmallock,6,2013,4.0
+V35,Kilmallock,9,2013,6.0
+V35,Kilmallock,12,2013,11.0
+V35,Kilmallock,3,2014,3.0
+V35,Kilmallock,6,2014,8.0
+V35,Kilmallock,9,2014,8.0
+V35,Kilmallock,12,2014,1.0
+V35,Kilmallock,3,2015,6.0
+V35,Kilmallock,6,2015,7.0
+V35,Kilmallock,9,2015,7.0
+V35,Kilmallock,12,2015,7.0
+V35,Kilmallock,3,2016,2.0
+V35,Kilmallock,6,2016,12.0
+V35,Kilmallock,9,2016,6.0
+V35,Kilmallock,12,2016,10.0
+V35,Kilmallock,3,2017,13.0
+V35,Kilmallock,6,2017,7.0
+V35,Kilmallock,9,2017,9.0
+V35,Kilmallock,12,2017,6.0
+V35,Kilmallock,3,2018,14.0
+V35,Kilmallock,6,2018,9.0
+V35,Kilmallock,9,2018,16.0
+V35,Kilmallock,12,2018,11.0
+V35,Kilmallock,3,2019,7.0
+V35,Kilmallock,6,2019,11.0
+V35,Kilmallock,9,2019,18.0
+V35,Kilmallock,12,2019,11.0
+V35,Kilmallock,3,2020,9.0
+V35,Kilmallock,6,2020,5.0
+V35,Kilmallock,9,2020,17.0
+V35,Kilmallock,12,2020,23.0
+V35,Kilmallock,3,2021,20.0
+V35,Kilmallock,6,2021,10.0
+V35,Kilmallock,9,2021,16.0
+V35,Kilmallock,12,2021,23.0
+V35,Kilmallock,3,2022,25.0
+V35,Kilmallock,6,2022,34.0
+V35,Kilmallock,9,2022,13.0
+V35,Kilmallock,12,2022,12.0
+V35,Kilmallock,3,2023,24.0
+V35,Kilmallock,6,2023,38.0
+V35,Kilmallock,9,2023,13.0
+V35,Kilmallock,12,2023,18.0
+V35,Kilmallock,3,2024,21.0
+V35,Kilmallock,6,2024,8.0
+V42,Newcastle West,3,2012,2.0
+V42,Newcastle West,6,2012,1.0
+V42,Newcastle West,9,2012,5.0
+V42,Newcastle West,12,2012,3.0
+V42,Newcastle West,3,2013,4.0
+V42,Newcastle West,6,2013,4.0
+V42,Newcastle West,9,2013,3.0
+V42,Newcastle West,12,2013,4.0
+V42,Newcastle West,3,2014,6.0
+V42,Newcastle West,6,2014,10.0
+V42,Newcastle West,9,2014,1.0
+V42,Newcastle West,12,2014,6.0
+V42,Newcastle West,3,2015,3.0
+V42,Newcastle West,6,2015,4.0
+V42,Newcastle West,9,2015,1.0
+V42,Newcastle West,12,2015,11.0
+V42,Newcastle West,3,2016,4.0
+V42,Newcastle West,6,2016,2.0
+V42,Newcastle West,9,2016,3.0
+V42,Newcastle West,12,2016,6.0
+V42,Newcastle West,3,2017,8.0
+V42,Newcastle West,6,2017,4.0
+V42,Newcastle West,9,2017,9.0
+V42,Newcastle West,12,2017,8.0
+V42,Newcastle West,3,2018,7.0
+V42,Newcastle West,6,2018,8.0
+V42,Newcastle West,9,2018,6.0
+V42,Newcastle West,12,2018,3.0
+V42,Newcastle West,3,2019,6.0
+V42,Newcastle West,6,2019,9.0
+V42,Newcastle West,9,2019,11.0
+V42,Newcastle West,12,2019,13.0
+V42,Newcastle West,3,2020,9.0
+V42,Newcastle West,6,2020,4.0
+V42,Newcastle West,9,2020,7.0
+V42,Newcastle West,12,2020,8.0
+V42,Newcastle West,3,2021,4.0
+V42,Newcastle West,6,2021,4.0
+V42,Newcastle West,9,2021,4.0
+V42,Newcastle West,12,2021,3.0
+V42,Newcastle West,3,2022,2.0
+V42,Newcastle West,6,2022,4.0
+V42,Newcastle West,9,2022,40.0
+V42,Newcastle West,12,2022,9.0
+V42,Newcastle West,3,2023,3.0
+V42,Newcastle West,6,2023,6.0
+V42,Newcastle West,9,2023,7.0
+V42,Newcastle West,12,2023,12.0
+V42,Newcastle West,3,2024,18.0
+V42,Newcastle West,6,2024,11.0
+V92,Tralee,3,2012,15.0
+V92,Tralee,6,2012,18.0
+V92,Tralee,9,2012,8.0
+V92,Tralee,12,2012,50.0
+V92,Tralee,3,2013,17.0
+V92,Tralee,6,2013,16.0
+V92,Tralee,9,2013,23.0
+V92,Tralee,12,2013,26.0
+V92,Tralee,3,2014,20.0
+V92,Tralee,6,2014,17.0
+V92,Tralee,9,2014,19.0
+V92,Tralee,12,2014,20.0
+V92,Tralee,3,2015,10.0
+V92,Tralee,6,2015,10.0
+V92,Tralee,9,2015,19.0
+V92,Tralee,12,2015,31.0
+V92,Tralee,3,2016,9.0
+V92,Tralee,6,2016,34.0
+V92,Tralee,9,2016,19.0
+V92,Tralee,12,2016,20.0
+V92,Tralee,3,2017,13.0
+V92,Tralee,6,2017,26.0
+V92,Tralee,9,2017,28.0
+V92,Tralee,12,2017,35.0
+V92,Tralee,3,2018,36.0
+V92,Tralee,6,2018,33.0
+V92,Tralee,9,2018,37.0
+V92,Tralee,12,2018,29.0
+V92,Tralee,3,2019,19.0
+V92,Tralee,6,2019,41.0
+V92,Tralee,9,2019,51.0
+V92,Tralee,12,2019,67.0
+V92,Tralee,3,2020,31.0
+V92,Tralee,6,2020,19.0
+V92,Tralee,9,2020,45.0
+V92,Tralee,12,2020,71.0
+V92,Tralee,3,2021,64.0
+V92,Tralee,6,2021,28.0
+V92,Tralee,9,2021,40.0
+V92,Tralee,12,2021,43.0
+V92,Tralee,3,2022,84.0
+V92,Tralee,6,2022,101.0
+V92,Tralee,9,2022,46.0
+V92,Tralee,12,2022,18.0
+V92,Tralee,3,2023,37.0
+V92,Tralee,6,2023,91.0
+V92,Tralee,9,2023,67.0
+V92,Tralee,12,2023,68.0
+V92,Tralee,3,2024,23.0
+V92,Tralee,6,2024,39.0
+V93,Killarney,3,2012,23.0
+V93,Killarney,6,2012,22.0
+V93,Killarney,9,2012,20.0
+V93,Killarney,12,2012,20.0
+V93,Killarney,3,2013,12.0
+V93,Killarney,6,2013,18.0
+V93,Killarney,9,2013,25.0
+V93,Killarney,12,2013,23.0
+V93,Killarney,3,2014,12.0
+V93,Killarney,6,2014,16.0
+V93,Killarney,9,2014,19.0
+V93,Killarney,12,2014,23.0
+V93,Killarney,3,2015,14.0
+V93,Killarney,6,2015,22.0
+V93,Killarney,9,2015,31.0
+V93,Killarney,12,2015,27.0
+V93,Killarney,3,2016,21.0
+V93,Killarney,6,2016,22.0
+V93,Killarney,9,2016,43.0
+V93,Killarney,12,2016,32.0
+V93,Killarney,3,2017,27.0
+V93,Killarney,6,2017,39.0
+V93,Killarney,9,2017,49.0
+V93,Killarney,12,2017,37.0
+V93,Killarney,3,2018,45.0
+V93,Killarney,6,2018,36.0
+V93,Killarney,9,2018,64.0
+V93,Killarney,12,2018,54.0
+V93,Killarney,3,2019,49.0
+V93,Killarney,6,2019,40.0
+V93,Killarney,9,2019,47.0
+V93,Killarney,12,2019,61.0
+V93,Killarney,3,2020,43.0
+V93,Killarney,6,2020,29.0
+V93,Killarney,9,2020,113.0
+V93,Killarney,12,2020,140.0
+V93,Killarney,3,2021,38.0
+V93,Killarney,6,2021,41.0
+V93,Killarney,9,2021,38.0
+V93,Killarney,12,2021,35.0
+V93,Killarney,3,2022,42.0
+V93,Killarney,6,2022,91.0
+V93,Killarney,9,2022,69.0
+V93,Killarney,12,2022,76.0
+V93,Killarney,3,2023,44.0
+V93,Killarney,6,2023,70.0
+V93,Killarney,9,2023,43.0
+V93,Killarney,12,2023,64.0
+V93,Killarney,3,2024,36.0
+V93,Killarney,6,2024,52.0
+V94,Limerick,3,2012,35.0
+V94,Limerick,6,2012,44.0
+V94,Limerick,9,2012,40.0
+V94,Limerick,12,2012,93.0
+V94,Limerick,3,2013,45.0
+V94,Limerick,6,2013,37.0
+V94,Limerick,9,2013,18.0
+V94,Limerick,12,2013,105.0
+V94,Limerick,3,2014,27.0
+V94,Limerick,6,2014,28.0
+V94,Limerick,9,2014,46.0
+V94,Limerick,12,2014,30.0
+V94,Limerick,3,2015,34.0
+V94,Limerick,6,2015,34.0
+V94,Limerick,9,2015,64.0
+V94,Limerick,12,2015,76.0
+V94,Limerick,3,2016,60.0
+V94,Limerick,6,2016,64.0
+V94,Limerick,9,2016,66.0
+V94,Limerick,12,2016,87.0
+V94,Limerick,3,2017,65.0
+V94,Limerick,6,2017,90.0
+V94,Limerick,9,2017,82.0
+V94,Limerick,12,2017,215.0
+V94,Limerick,3,2018,113.0
+V94,Limerick,6,2018,135.0
+V94,Limerick,9,2018,108.0
+V94,Limerick,12,2018,127.0
+V94,Limerick,3,2019,85.0
+V94,Limerick,6,2019,170.0
+V94,Limerick,9,2019,126.0
+V94,Limerick,12,2019,178.0
+V94,Limerick,3,2020,117.0
+V94,Limerick,6,2020,61.0
+V94,Limerick,9,2020,122.0
+V94,Limerick,12,2020,175.0
+V94,Limerick,3,2021,107.0
+V94,Limerick,6,2021,134.0
+V94,Limerick,9,2021,138.0
+V94,Limerick,12,2021,198.0
+V94,Limerick,3,2022,137.0
+V94,Limerick,6,2022,186.0
+V94,Limerick,9,2022,158.0
+V94,Limerick,12,2022,202.0
+V94,Limerick,3,2023,193.0
+V94,Limerick,6,2023,117.0
+V94,Limerick,9,2023,202.0
+V94,Limerick,12,2023,228.0
+V94,Limerick,3,2024,171.0
+V94,Limerick,6,2024,227.0
+V95,Ennis,3,2012,19.0
+V95,Ennis,6,2012,26.0
+V95,Ennis,9,2012,24.0
+V95,Ennis,12,2012,27.0
+V95,Ennis,3,2013,15.0
+V95,Ennis,6,2013,19.0
+V95,Ennis,9,2013,16.0
+V95,Ennis,12,2013,19.0
+V95,Ennis,3,2014,28.0
+V95,Ennis,6,2014,23.0
+V95,Ennis,9,2014,18.0
+V95,Ennis,12,2014,32.0
+V95,Ennis,3,2015,14.0
+V95,Ennis,6,2015,20.0
+V95,Ennis,9,2015,22.0
+V95,Ennis,12,2015,31.0
+V95,Ennis,3,2016,26.0
+V95,Ennis,6,2016,27.0
+V95,Ennis,9,2016,43.0
+V95,Ennis,12,2016,63.0
+V95,Ennis,3,2017,46.0
+V95,Ennis,6,2017,32.0
+V95,Ennis,9,2017,66.0
+V95,Ennis,12,2017,34.0
+V95,Ennis,3,2018,39.0
+V95,Ennis,6,2018,35.0
+V95,Ennis,9,2018,49.0
+V95,Ennis,12,2018,42.0
+V95,Ennis,3,2019,39.0
+V95,Ennis,6,2019,59.0
+V95,Ennis,9,2019,70.0
+V95,Ennis,12,2019,67.0
+V95,Ennis,3,2020,57.0
+V95,Ennis,6,2020,49.0
+V95,Ennis,9,2020,92.0
+V95,Ennis,12,2020,108.0
+V95,Ennis,3,2021,46.0
+V95,Ennis,6,2021,46.0
+V95,Ennis,9,2021,65.0
+V95,Ennis,12,2021,110.0
+V95,Ennis,3,2022,121.0
+V95,Ennis,6,2022,143.0
+V95,Ennis,9,2022,94.0
+V95,Ennis,12,2022,100.0
+V95,Ennis,3,2023,79.0
+V95,Ennis,6,2023,65.0
+V95,Ennis,9,2023,66.0
+V95,Ennis,12,2023,76.0
+V95,Ennis,3,2024,108.0
+V95,Ennis,6,2024,66.0
+W12,Newbridge,3,2012,2.0
+W12,Newbridge,6,2012,0.0
+W12,Newbridge,9,2012,2.0
+W12,Newbridge,12,2012,2.0
+W12,Newbridge,3,2013,1.0
+W12,Newbridge,6,2013,3.0
+W12,Newbridge,9,2013,2.0
+W12,Newbridge,12,2013,9.0
+W12,Newbridge,3,2014,6.0
+W12,Newbridge,6,2014,8.0
+W12,Newbridge,9,2014,12.0
+W12,Newbridge,12,2014,7.0
+W12,Newbridge,3,2015,9.0
+W12,Newbridge,6,2015,12.0
+W12,Newbridge,9,2015,5.0
+W12,Newbridge,12,2015,10.0
+W12,Newbridge,3,2016,9.0
+W12,Newbridge,6,2016,17.0
+W12,Newbridge,9,2016,9.0
+W12,Newbridge,12,2016,19.0
+W12,Newbridge,3,2017,3.0
+W12,Newbridge,6,2017,11.0
+W12,Newbridge,9,2017,33.0
+W12,Newbridge,12,2017,49.0
+W12,Newbridge,3,2018,8.0
+W12,Newbridge,6,2018,25.0
+W12,Newbridge,9,2018,14.0
+W12,Newbridge,12,2018,50.0
+W12,Newbridge,3,2019,23.0
+W12,Newbridge,6,2019,16.0
+W12,Newbridge,9,2019,30.0
+W12,Newbridge,12,2019,57.0
+W12,Newbridge,3,2020,17.0
+W12,Newbridge,6,2020,6.0
+W12,Newbridge,9,2020,33.0
+W12,Newbridge,12,2020,33.0
+W12,Newbridge,3,2021,27.0
+W12,Newbridge,6,2021,50.0
+W12,Newbridge,9,2021,75.0
+W12,Newbridge,12,2021,27.0
+W12,Newbridge,3,2022,37.0
+W12,Newbridge,6,2022,115.0
+W12,Newbridge,9,2022,182.0
+W12,Newbridge,12,2022,190.0
+W12,Newbridge,3,2023,88.0
+W12,Newbridge,6,2023,77.0
+W12,Newbridge,9,2023,59.0
+W12,Newbridge,12,2023,54.0
+W12,Newbridge,3,2024,59.0
+W12,Newbridge,6,2024,47.0
+W23,Celbridge,3,2012,15.0
+W23,Celbridge,6,2012,13.0
+W23,Celbridge,9,2012,18.0
+W23,Celbridge,12,2012,32.0
+W23,Celbridge,3,2013,20.0
+W23,Celbridge,6,2013,28.0
+W23,Celbridge,9,2013,19.0
+W23,Celbridge,12,2013,19.0
+W23,Celbridge,3,2014,27.0
+W23,Celbridge,6,2014,29.0
+W23,Celbridge,9,2014,34.0
+W23,Celbridge,12,2014,50.0
+W23,Celbridge,3,2015,49.0
+W23,Celbridge,6,2015,63.0
+W23,Celbridge,9,2015,62.0
+W23,Celbridge,12,2015,72.0
+W23,Celbridge,3,2016,35.0
+W23,Celbridge,6,2016,55.0
+W23,Celbridge,9,2016,54.0
+W23,Celbridge,12,2016,86.0
+W23,Celbridge,3,2017,56.0
+W23,Celbridge,6,2017,78.0
+W23,Celbridge,9,2017,80.0
+W23,Celbridge,12,2017,87.0
+W23,Celbridge,3,2018,84.0
+W23,Celbridge,6,2018,97.0
+W23,Celbridge,9,2018,99.0
+W23,Celbridge,12,2018,92.0
+W23,Celbridge,3,2019,138.0
+W23,Celbridge,6,2019,120.0
+W23,Celbridge,9,2019,162.0
+W23,Celbridge,12,2019,273.0
+W23,Celbridge,3,2020,124.0
+W23,Celbridge,6,2020,89.0
+W23,Celbridge,9,2020,146.0
+W23,Celbridge,12,2020,189.0
+W23,Celbridge,3,2021,77.0
+W23,Celbridge,6,2021,206.0
+W23,Celbridge,9,2021,231.0
+W23,Celbridge,12,2021,377.0
+W23,Celbridge,3,2022,77.0
+W23,Celbridge,6,2022,200.0
+W23,Celbridge,9,2022,222.0
+W23,Celbridge,12,2022,311.0
+W23,Celbridge,3,2023,259.0
+W23,Celbridge,6,2023,327.0
+W23,Celbridge,9,2023,168.0
+W23,Celbridge,12,2023,175.0
+W23,Celbridge,3,2024,51.0
+W23,Celbridge,6,2024,76.0
+W34,Monasterevin,3,2012,1.0
+W34,Monasterevin,6,2012,1.0
+W34,Monasterevin,9,2012,0.0
+W34,Monasterevin,12,2012,0.0
+W34,Monasterevin,3,2013,1.0
+W34,Monasterevin,6,2013,0.0
+W34,Monasterevin,9,2013,1.0
+W34,Monasterevin,12,2013,5.0
+W34,Monasterevin,3,2014,2.0
+W34,Monasterevin,6,2014,1.0
+W34,Monasterevin,9,2014,0.0
+W34,Monasterevin,12,2014,3.0
+W34,Monasterevin,3,2015,2.0
+W34,Monasterevin,6,2015,1.0
+W34,Monasterevin,9,2015,4.0
+W34,Monasterevin,12,2015,3.0
+W34,Monasterevin,3,2016,4.0
+W34,Monasterevin,6,2016,5.0
+W34,Monasterevin,9,2016,3.0
+W34,Monasterevin,12,2016,8.0
+W34,Monasterevin,3,2017,13.0
+W34,Monasterevin,6,2017,11.0
+W34,Monasterevin,9,2017,30.0
+W34,Monasterevin,12,2017,33.0
+W34,Monasterevin,3,2018,23.0
+W34,Monasterevin,6,2018,8.0
+W34,Monasterevin,9,2018,19.0
+W34,Monasterevin,12,2018,24.0
+W34,Monasterevin,3,2019,18.0
+W34,Monasterevin,6,2019,14.0
+W34,Monasterevin,9,2019,18.0
+W34,Monasterevin,12,2019,20.0
+W34,Monasterevin,3,2020,11.0
+W34,Monasterevin,6,2020,14.0
+W34,Monasterevin,9,2020,11.0
+W34,Monasterevin,12,2020,8.0
+W34,Monasterevin,3,2021,11.0
+W34,Monasterevin,6,2021,15.0
+W34,Monasterevin,9,2021,8.0
+W34,Monasterevin,12,2021,22.0
+W34,Monasterevin,3,2022,16.0
+W34,Monasterevin,6,2022,20.0
+W34,Monasterevin,9,2022,39.0
+W34,Monasterevin,12,2022,29.0
+W34,Monasterevin,3,2023,15.0
+W34,Monasterevin,6,2023,13.0
+W34,Monasterevin,9,2023,8.0
+W34,Monasterevin,12,2023,17.0
+W34,Monasterevin,3,2024,21.0
+W34,Monasterevin,6,2024,8.0
+W91,Naas,3,2012,14.0
+W91,Naas,6,2012,25.0
+W91,Naas,9,2012,21.0
+W91,Naas,12,2012,42.0
+W91,Naas,3,2013,11.0
+W91,Naas,6,2013,29.0
+W91,Naas,9,2013,25.0
+W91,Naas,12,2013,24.0
+W91,Naas,3,2014,26.0
+W91,Naas,6,2014,32.0
+W91,Naas,9,2014,38.0
+W91,Naas,12,2014,38.0
+W91,Naas,3,2015,38.0
+W91,Naas,6,2015,69.0
+W91,Naas,9,2015,96.0
+W91,Naas,12,2015,80.0
+W91,Naas,3,2016,66.0
+W91,Naas,6,2016,59.0
+W91,Naas,9,2016,71.0
+W91,Naas,12,2016,84.0
+W91,Naas,3,2017,83.0
+W91,Naas,6,2017,85.0
+W91,Naas,9,2017,87.0
+W91,Naas,12,2017,140.0
+W91,Naas,3,2018,115.0
+W91,Naas,6,2018,126.0
+W91,Naas,9,2018,172.0
+W91,Naas,12,2018,192.0
+W91,Naas,3,2019,162.0
+W91,Naas,6,2019,205.0
+W91,Naas,9,2019,215.0
+W91,Naas,12,2019,247.0
+W91,Naas,3,2020,185.0
+W91,Naas,6,2020,141.0
+W91,Naas,9,2020,248.0
+W91,Naas,12,2020,294.0
+W91,Naas,3,2021,176.0
+W91,Naas,6,2021,161.0
+W91,Naas,9,2021,201.0
+W91,Naas,12,2021,232.0
+W91,Naas,3,2022,157.0
+W91,Naas,6,2022,219.0
+W91,Naas,9,2022,221.0
+W91,Naas,12,2022,244.0
+W91,Naas,3,2023,127.0
+W91,Naas,6,2023,254.0
+W91,Naas,9,2023,318.0
+W91,Naas,12,2023,325.0
+W91,Naas,3,2024,137.0
+W91,Naas,6,2024,187.0
+X35,Dungarvan,3,2012,3.0
+X35,Dungarvan,6,2012,2.0
+X35,Dungarvan,9,2012,2.0
+X35,Dungarvan,12,2012,9.0
+X35,Dungarvan,3,2013,3.0
+X35,Dungarvan,6,2013,2.0
+X35,Dungarvan,9,2013,4.0
+X35,Dungarvan,12,2013,5.0
+X35,Dungarvan,3,2014,1.0
+X35,Dungarvan,6,2014,4.0
+X35,Dungarvan,9,2014,4.0
+X35,Dungarvan,12,2014,14.0
+X35,Dungarvan,3,2015,4.0
+X35,Dungarvan,6,2015,12.0
+X35,Dungarvan,9,2015,7.0
+X35,Dungarvan,12,2015,10.0
+X35,Dungarvan,3,2016,10.0
+X35,Dungarvan,6,2016,11.0
+X35,Dungarvan,9,2016,9.0
+X35,Dungarvan,12,2016,29.0
+X35,Dungarvan,3,2017,10.0
+X35,Dungarvan,6,2017,18.0
+X35,Dungarvan,9,2017,8.0
+X35,Dungarvan,12,2017,16.0
+X35,Dungarvan,3,2018,7.0
+X35,Dungarvan,6,2018,17.0
+X35,Dungarvan,9,2018,40.0
+X35,Dungarvan,12,2018,45.0
+X35,Dungarvan,3,2019,22.0
+X35,Dungarvan,6,2019,16.0
+X35,Dungarvan,9,2019,26.0
+X35,Dungarvan,12,2019,33.0
+X35,Dungarvan,3,2020,17.0
+X35,Dungarvan,6,2020,14.0
+X35,Dungarvan,9,2020,31.0
+X35,Dungarvan,12,2020,29.0
+X35,Dungarvan,3,2021,12.0
+X35,Dungarvan,6,2021,15.0
+X35,Dungarvan,9,2021,15.0
+X35,Dungarvan,12,2021,20.0
+X35,Dungarvan,3,2022,10.0
+X35,Dungarvan,6,2022,7.0
+X35,Dungarvan,9,2022,7.0
+X35,Dungarvan,12,2022,31.0
+X35,Dungarvan,3,2023,11.0
+X35,Dungarvan,6,2023,5.0
+X35,Dungarvan,9,2023,17.0
+X35,Dungarvan,12,2023,21.0
+X35,Dungarvan,3,2024,16.0
+X35,Dungarvan,6,2024,12.0
+X42,Kilmacthomas,3,2012,1.0
+X42,Kilmacthomas,6,2012,2.0
+X42,Kilmacthomas,9,2012,3.0
+X42,Kilmacthomas,12,2012,5.0
+X42,Kilmacthomas,3,2013,2.0
+X42,Kilmacthomas,6,2013,3.0
+X42,Kilmacthomas,9,2013,4.0
+X42,Kilmacthomas,12,2013,3.0
+X42,Kilmacthomas,3,2014,2.0
+X42,Kilmacthomas,6,2014,1.0
+X42,Kilmacthomas,9,2014,0.0
+X42,Kilmacthomas,12,2014,2.0
+X42,Kilmacthomas,3,2015,2.0
+X42,Kilmacthomas,6,2015,5.0
+X42,Kilmacthomas,9,2015,2.0
+X42,Kilmacthomas,12,2015,2.0
+X42,Kilmacthomas,3,2016,13.0
+X42,Kilmacthomas,6,2016,1.0
+X42,Kilmacthomas,9,2016,1.0
+X42,Kilmacthomas,12,2016,4.0
+X42,Kilmacthomas,3,2017,8.0
+X42,Kilmacthomas,6,2017,5.0
+X42,Kilmacthomas,9,2017,2.0
+X42,Kilmacthomas,12,2017,5.0
+X42,Kilmacthomas,3,2018,3.0
+X42,Kilmacthomas,6,2018,4.0
+X42,Kilmacthomas,9,2018,5.0
+X42,Kilmacthomas,12,2018,4.0
+X42,Kilmacthomas,3,2019,8.0
+X42,Kilmacthomas,6,2019,5.0
+X42,Kilmacthomas,9,2019,2.0
+X42,Kilmacthomas,12,2019,2.0
+X42,Kilmacthomas,3,2020,7.0
+X42,Kilmacthomas,6,2020,4.0
+X42,Kilmacthomas,9,2020,11.0
+X42,Kilmacthomas,12,2020,6.0
+X42,Kilmacthomas,3,2021,4.0
+X42,Kilmacthomas,6,2021,8.0
+X42,Kilmacthomas,9,2021,4.0
+X42,Kilmacthomas,12,2021,7.0
+X42,Kilmacthomas,3,2022,22.0
+X42,Kilmacthomas,6,2022,9.0
+X42,Kilmacthomas,9,2022,7.0
+X42,Kilmacthomas,12,2022,8.0
+X42,Kilmacthomas,3,2023,3.0
+X42,Kilmacthomas,6,2023,3.0
+X42,Kilmacthomas,9,2023,5.0
+X42,Kilmacthomas,12,2023,4.0
+X42,Kilmacthomas,3,2024,2.0
+X42,Kilmacthomas,6,2024,2.0
+X91,Waterford,3,2012,13.0
+X91,Waterford,6,2012,11.0
+X91,Waterford,9,2012,11.0
+X91,Waterford,12,2012,21.0
+X91,Waterford,3,2013,18.0
+X91,Waterford,6,2013,17.0
+X91,Waterford,9,2013,18.0
+X91,Waterford,12,2013,17.0
+X91,Waterford,3,2014,12.0
+X91,Waterford,6,2014,9.0
+X91,Waterford,9,2014,7.0
+X91,Waterford,12,2014,18.0
+X91,Waterford,3,2015,13.0
+X91,Waterford,6,2015,24.0
+X91,Waterford,9,2015,85.0
+X91,Waterford,12,2015,30.0
+X91,Waterford,3,2016,17.0
+X91,Waterford,6,2016,21.0
+X91,Waterford,9,2016,33.0
+X91,Waterford,12,2016,59.0
+X91,Waterford,3,2017,40.0
+X91,Waterford,6,2017,39.0
+X91,Waterford,9,2017,42.0
+X91,Waterford,12,2017,68.0
+X91,Waterford,3,2018,52.0
+X91,Waterford,6,2018,52.0
+X91,Waterford,9,2018,57.0
+X91,Waterford,12,2018,102.0
+X91,Waterford,3,2019,38.0
+X91,Waterford,6,2019,64.0
+X91,Waterford,9,2019,113.0
+X91,Waterford,12,2019,104.0
+X91,Waterford,3,2020,117.0
+X91,Waterford,6,2020,67.0
+X91,Waterford,9,2020,83.0
+X91,Waterford,12,2020,85.0
+X91,Waterford,3,2021,57.0
+X91,Waterford,6,2021,121.0
+X91,Waterford,9,2021,114.0
+X91,Waterford,12,2021,161.0
+X91,Waterford,3,2022,111.0
+X91,Waterford,6,2022,64.0
+X91,Waterford,9,2022,83.0
+X91,Waterford,12,2022,155.0
+X91,Waterford,3,2023,116.0
+X91,Waterford,6,2023,157.0
+X91,Waterford,9,2023,114.0
+X91,Waterford,12,2023,116.0
+X91,Waterford,3,2024,136.0
+X91,Waterford,6,2024,187.0
+Y14,Arklow,3,2012,2.0
+Y14,Arklow,6,2012,5.0
+Y14,Arklow,9,2012,7.0
+Y14,Arklow,12,2012,5.0
+Y14,Arklow,3,2013,7.0
+Y14,Arklow,6,2013,4.0
+Y14,Arklow,9,2013,7.0
+Y14,Arklow,12,2013,6.0
+Y14,Arklow,3,2014,3.0
+Y14,Arklow,6,2014,5.0
+Y14,Arklow,9,2014,3.0
+Y14,Arklow,12,2014,8.0
+Y14,Arklow,3,2015,5.0
+Y14,Arklow,6,2015,7.0
+Y14,Arklow,9,2015,5.0
+Y14,Arklow,12,2015,1.0
+Y14,Arklow,3,2016,0.0
+Y14,Arklow,6,2016,3.0
+Y14,Arklow,9,2016,6.0
+Y14,Arklow,12,2016,10.0
+Y14,Arklow,3,2017,5.0
+Y14,Arklow,6,2017,14.0
+Y14,Arklow,9,2017,15.0
+Y14,Arklow,12,2017,11.0
+Y14,Arklow,3,2018,9.0
+Y14,Arklow,6,2018,14.0
+Y14,Arklow,9,2018,11.0
+Y14,Arklow,12,2018,25.0
+Y14,Arklow,3,2019,20.0
+Y14,Arklow,6,2019,21.0
+Y14,Arklow,9,2019,25.0
+Y14,Arklow,12,2019,22.0
+Y14,Arklow,3,2020,10.0
+Y14,Arklow,6,2020,13.0
+Y14,Arklow,9,2020,22.0
+Y14,Arklow,12,2020,43.0
+Y14,Arklow,3,2021,11.0
+Y14,Arklow,6,2021,9.0
+Y14,Arklow,9,2021,16.0
+Y14,Arklow,12,2021,27.0
+Y14,Arklow,3,2022,50.0
+Y14,Arklow,6,2022,29.0
+Y14,Arklow,9,2022,35.0
+Y14,Arklow,12,2022,26.0
+Y14,Arklow,3,2023,14.0
+Y14,Arklow,6,2023,33.0
+Y14,Arklow,9,2023,14.0
+Y14,Arklow,12,2023,14.0
+Y14,Arklow,3,2024,23.0
+Y14,Arklow,6,2024,18.0
+Y21,Enniscorthy,3,2012,24.0
+Y21,Enniscorthy,6,2012,15.0
+Y21,Enniscorthy,9,2012,16.0
+Y21,Enniscorthy,12,2012,29.0
+Y21,Enniscorthy,3,2013,8.0
+Y21,Enniscorthy,6,2013,14.0
+Y21,Enniscorthy,9,2013,20.0
+Y21,Enniscorthy,12,2013,19.0
+Y21,Enniscorthy,3,2014,12.0
+Y21,Enniscorthy,6,2014,15.0
+Y21,Enniscorthy,9,2014,18.0
+Y21,Enniscorthy,12,2014,22.0
+Y21,Enniscorthy,3,2015,19.0
+Y21,Enniscorthy,6,2015,21.0
+Y21,Enniscorthy,9,2015,20.0
+Y21,Enniscorthy,12,2015,20.0
+Y21,Enniscorthy,3,2016,17.0
+Y21,Enniscorthy,6,2016,15.0
+Y21,Enniscorthy,9,2016,15.0
+Y21,Enniscorthy,12,2016,23.0
+Y21,Enniscorthy,3,2017,23.0
+Y21,Enniscorthy,6,2017,25.0
+Y21,Enniscorthy,9,2017,23.0
+Y21,Enniscorthy,12,2017,29.0
+Y21,Enniscorthy,3,2018,38.0
+Y21,Enniscorthy,6,2018,32.0
+Y21,Enniscorthy,9,2018,35.0
+Y21,Enniscorthy,12,2018,49.0
+Y21,Enniscorthy,3,2019,38.0
+Y21,Enniscorthy,6,2019,49.0
+Y21,Enniscorthy,9,2019,31.0
+Y21,Enniscorthy,12,2019,43.0
+Y21,Enniscorthy,3,2020,30.0
+Y21,Enniscorthy,6,2020,31.0
+Y21,Enniscorthy,9,2020,55.0
+Y21,Enniscorthy,12,2020,62.0
+Y21,Enniscorthy,3,2021,43.0
+Y21,Enniscorthy,6,2021,63.0
+Y21,Enniscorthy,9,2021,52.0
+Y21,Enniscorthy,12,2021,102.0
+Y21,Enniscorthy,3,2022,55.0
+Y21,Enniscorthy,6,2022,45.0
+Y21,Enniscorthy,9,2022,44.0
+Y21,Enniscorthy,12,2022,53.0
+Y21,Enniscorthy,3,2023,73.0
+Y21,Enniscorthy,6,2023,67.0
+Y21,Enniscorthy,9,2023,36.0
+Y21,Enniscorthy,12,2023,103.0
+Y21,Enniscorthy,3,2024,51.0
+Y21,Enniscorthy,6,2024,65.0
+Y25,Gorey,3,2012,10.0
+Y25,Gorey,6,2012,10.0
+Y25,Gorey,9,2012,7.0
+Y25,Gorey,12,2012,10.0
+Y25,Gorey,3,2013,8.0
+Y25,Gorey,6,2013,6.0
+Y25,Gorey,9,2013,20.0
+Y25,Gorey,12,2013,15.0
+Y25,Gorey,3,2014,10.0
+Y25,Gorey,6,2014,9.0
+Y25,Gorey,9,2014,13.0
+Y25,Gorey,12,2014,20.0
+Y25,Gorey,3,2015,13.0
+Y25,Gorey,6,2015,16.0
+Y25,Gorey,9,2015,17.0
+Y25,Gorey,12,2015,32.0
+Y25,Gorey,3,2016,14.0
+Y25,Gorey,6,2016,33.0
+Y25,Gorey,9,2016,22.0
+Y25,Gorey,12,2016,14.0
+Y25,Gorey,3,2017,40.0
+Y25,Gorey,6,2017,32.0
+Y25,Gorey,9,2017,33.0
+Y25,Gorey,12,2017,18.0
+Y25,Gorey,3,2018,27.0
+Y25,Gorey,6,2018,30.0
+Y25,Gorey,9,2018,55.0
+Y25,Gorey,12,2018,33.0
+Y25,Gorey,3,2019,27.0
+Y25,Gorey,6,2019,56.0
+Y25,Gorey,9,2019,50.0
+Y25,Gorey,12,2019,38.0
+Y25,Gorey,3,2020,36.0
+Y25,Gorey,6,2020,35.0
+Y25,Gorey,9,2020,54.0
+Y25,Gorey,12,2020,50.0
+Y25,Gorey,3,2021,28.0
+Y25,Gorey,6,2021,29.0
+Y25,Gorey,9,2021,32.0
+Y25,Gorey,12,2021,50.0
+Y25,Gorey,3,2022,32.0
+Y25,Gorey,6,2022,47.0
+Y25,Gorey,9,2022,88.0
+Y25,Gorey,12,2022,77.0
+Y25,Gorey,3,2023,55.0
+Y25,Gorey,6,2023,97.0
+Y25,Gorey,9,2023,96.0
+Y25,Gorey,12,2023,68.0
+Y25,Gorey,3,2024,41.0
+Y25,Gorey,6,2024,70.0
+Y34,New Ross,3,2012,4.0
+Y34,New Ross,6,2012,8.0
+Y34,New Ross,9,2012,2.0
+Y34,New Ross,12,2012,3.0
+Y34,New Ross,3,2013,5.0
+Y34,New Ross,6,2013,8.0
+Y34,New Ross,9,2013,4.0
+Y34,New Ross,12,2013,5.0
+Y34,New Ross,3,2014,6.0
+Y34,New Ross,6,2014,4.0
+Y34,New Ross,9,2014,7.0
+Y34,New Ross,12,2014,14.0
+Y34,New Ross,3,2015,6.0
+Y34,New Ross,6,2015,7.0
+Y34,New Ross,9,2015,3.0
+Y34,New Ross,12,2015,11.0
+Y34,New Ross,3,2016,3.0
+Y34,New Ross,6,2016,7.0
+Y34,New Ross,9,2016,8.0
+Y34,New Ross,12,2016,11.0
+Y34,New Ross,3,2017,6.0
+Y34,New Ross,6,2017,8.0
+Y34,New Ross,9,2017,9.0
+Y34,New Ross,12,2017,6.0
+Y34,New Ross,3,2018,9.0
+Y34,New Ross,6,2018,8.0
+Y34,New Ross,9,2018,8.0
+Y34,New Ross,12,2018,7.0
+Y34,New Ross,3,2019,11.0
+Y34,New Ross,6,2019,7.0
+Y34,New Ross,9,2019,16.0
+Y34,New Ross,12,2019,17.0
+Y34,New Ross,3,2020,12.0
+Y34,New Ross,6,2020,18.0
+Y34,New Ross,9,2020,16.0
+Y34,New Ross,12,2020,17.0
+Y34,New Ross,3,2021,14.0
+Y34,New Ross,6,2021,9.0
+Y34,New Ross,9,2021,15.0
+Y34,New Ross,12,2021,15.0
+Y34,New Ross,3,2022,8.0
+Y34,New Ross,6,2022,14.0
+Y34,New Ross,9,2022,35.0
+Y34,New Ross,12,2022,40.0
+Y34,New Ross,3,2023,4.0
+Y34,New Ross,6,2023,13.0
+Y34,New Ross,9,2023,10.0
+Y34,New Ross,12,2023,14.0
+Y34,New Ross,3,2024,24.0
+Y34,New Ross,6,2024,12.0
+Y35,Wexford,3,2012,9.0
+Y35,Wexford,6,2012,17.0
+Y35,Wexford,9,2012,14.0
+Y35,Wexford,12,2012,17.0
+Y35,Wexford,3,2013,10.0
+Y35,Wexford,6,2013,10.0
+Y35,Wexford,9,2013,17.0
+Y35,Wexford,12,2013,22.0
+Y35,Wexford,3,2014,9.0
+Y35,Wexford,6,2014,12.0
+Y35,Wexford,9,2014,15.0
+Y35,Wexford,12,2014,13.0
+Y35,Wexford,3,2015,12.0
+Y35,Wexford,6,2015,11.0
+Y35,Wexford,9,2015,28.0
+Y35,Wexford,12,2015,34.0
+Y35,Wexford,3,2016,24.0
+Y35,Wexford,6,2016,30.0
+Y35,Wexford,9,2016,13.0
+Y35,Wexford,12,2016,22.0
+Y35,Wexford,3,2017,23.0
+Y35,Wexford,6,2017,17.0
+Y35,Wexford,9,2017,23.0
+Y35,Wexford,12,2017,35.0
+Y35,Wexford,3,2018,29.0
+Y35,Wexford,6,2018,47.0
+Y35,Wexford,9,2018,49.0
+Y35,Wexford,12,2018,38.0
+Y35,Wexford,3,2019,61.0
+Y35,Wexford,6,2019,65.0
+Y35,Wexford,9,2019,32.0
+Y35,Wexford,12,2019,57.0
+Y35,Wexford,3,2020,64.0
+Y35,Wexford,6,2020,32.0
+Y35,Wexford,9,2020,43.0
+Y35,Wexford,12,2020,85.0
+Y35,Wexford,3,2021,35.0
+Y35,Wexford,6,2021,90.0
+Y35,Wexford,9,2021,42.0
+Y35,Wexford,12,2021,88.0
+Y35,Wexford,3,2022,124.0
+Y35,Wexford,6,2022,67.0
+Y35,Wexford,9,2022,116.0
+Y35,Wexford,12,2022,114.0
+Y35,Wexford,3,2023,105.0
+Y35,Wexford,6,2023,61.0
+Y35,Wexford,9,2023,67.0
+Y35,Wexford,12,2023,116.0
+Y35,Wexford,3,2024,69.0
+Y35,Wexford,6,2024,126.0
