@@ -1,0 +1,2101 @@
+Routing Key,City,Month,Year,Dwelling Status,Type of Buyer,VALUE
+X35,Dungarvan,1,2010,All Dwelling Statuses,All Buyer Types,225000.0
+X35,Dungarvan,1,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,230000.0
+X35,Dungarvan,1,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,190000.0
+X35,Dungarvan,1,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,250000.0
+X35,Dungarvan,1,2010,New,All Buyer Types,216667.0
+X35,Dungarvan,1,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,230000.0
+X35,Dungarvan,1,2010,New,Household Buyer - Former Owner-Occupier,190000.0
+X35,Dungarvan,1,2010,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,1,2010,Existing,All Buyer Types,250000.0
+X35,Dungarvan,1,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,1,2010,Existing,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,1,2010,Existing,Household Buyer - Non-Occupier,250000.0
+X35,Dungarvan,2,2010,All Dwelling Statuses,All Buyer Types,335751.0
+X35,Dungarvan,2,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,320000.0
+X35,Dungarvan,2,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,406629.0
+X35,Dungarvan,2,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,225500.0
+X35,Dungarvan,2,2010,New,All Buyer Types,346252.0
+X35,Dungarvan,2,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,2,2010,New,Household Buyer - Former Owner-Occupier,406629.0
+X35,Dungarvan,2,2010,New,Household Buyer - Non-Occupier,225500.0
+X35,Dungarvan,2,2010,Existing,All Buyer Types,320000.0
+X35,Dungarvan,2,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,320000.0
+X35,Dungarvan,2,2010,Existing,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,2,2010,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,3,2010,All Dwelling Statuses,All Buyer Types,228181.0
+X35,Dungarvan,3,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,261050.0
+X35,Dungarvan,3,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,201250.0
+X35,Dungarvan,3,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,235178.0
+X35,Dungarvan,3,2010,New,All Buyer Types,241646.0
+X35,Dungarvan,3,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,261050.0
+X35,Dungarvan,3,2010,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,3,2010,New,Household Buyer - Non-Occupier,235178.0
+X35,Dungarvan,3,2010,Existing,All Buyer Types,201250.0
+X35,Dungarvan,3,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,3,2010,Existing,Household Buyer - Former Owner-Occupier,201250.0
+X35,Dungarvan,3,2010,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,4,2010,All Dwelling Statuses,All Buyer Types,223306.0
+X35,Dungarvan,4,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,192000.0
+X35,Dungarvan,4,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,311150.0
+X35,Dungarvan,4,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,85000.0
+X35,Dungarvan,4,2010,New,All Buyer Types,311150.0
+X35,Dungarvan,4,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,4,2010,New,Household Buyer - Former Owner-Occupier,311150.0
+X35,Dungarvan,4,2010,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,4,2010,Existing,All Buyer Types,170600.0
+X35,Dungarvan,4,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,192000.0
+X35,Dungarvan,4,2010,Existing,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,4,2010,Existing,Household Buyer - Non-Occupier,85000.0
+X35,Dungarvan,5,2010,All Dwelling Statuses,All Buyer Types,261050.0
+X35,Dungarvan,5,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,261050.0
+X35,Dungarvan,5,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,5,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,5,2010,New,All Buyer Types,261050.0
+X35,Dungarvan,5,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,261050.0
+X35,Dungarvan,5,2010,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,5,2010,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,5,2010,Existing,All Buyer Types,
+X35,Dungarvan,5,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,5,2010,Existing,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,5,2010,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,6,2010,All Dwelling Statuses,All Buyer Types,279729.0
+X35,Dungarvan,6,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,241500.0
+X35,Dungarvan,6,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,356188.0
+X35,Dungarvan,6,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,6,2010,New,All Buyer Types,314125.0
+X35,Dungarvan,6,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,230000.0
+X35,Dungarvan,6,2010,New,Household Buyer - Former Owner-Occupier,356188.0
+X35,Dungarvan,6,2010,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,6,2010,Existing,All Buyer Types,245333.0
+X35,Dungarvan,6,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,245333.0
+X35,Dungarvan,6,2010,Existing,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,6,2010,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2010,All Dwelling Statuses,All Buyer Types,244566.0
+X35,Dungarvan,7,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,257421.0
+X35,Dungarvan,7,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,7,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,206000.0
+X35,Dungarvan,7,2010,New,All Buyer Types,259632.0
+X35,Dungarvan,7,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,259632.0
+X35,Dungarvan,7,2010,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,7,2010,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2010,Existing,All Buyer Types,229500.0
+X35,Dungarvan,7,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,253000.0
+X35,Dungarvan,7,2010,Existing,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,7,2010,Existing,Household Buyer - Non-Occupier,206000.0
+X35,Dungarvan,8,2010,All Dwelling Statuses,All Buyer Types,187667.0
+X35,Dungarvan,8,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,190500.0
+X35,Dungarvan,8,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,182000.0
+X35,Dungarvan,8,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,8,2010,New,All Buyer Types,
+X35,Dungarvan,8,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,8,2010,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,8,2010,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,8,2010,Existing,All Buyer Types,187667.0
+X35,Dungarvan,8,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,190500.0
+X35,Dungarvan,8,2010,Existing,Household Buyer - Former Owner-Occupier,182000.0
+X35,Dungarvan,8,2010,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,9,2010,All Dwelling Statuses,All Buyer Types,222200.0
+X35,Dungarvan,9,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,9,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,300167.0
+X35,Dungarvan,9,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,105250.0
+X35,Dungarvan,9,2010,New,All Buyer Types,397250.0
+X35,Dungarvan,9,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,9,2010,New,Household Buyer - Former Owner-Occupier,397250.0
+X35,Dungarvan,9,2010,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,9,2010,Existing,All Buyer Types,178438.0
+X35,Dungarvan,9,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,9,2010,Existing,Household Buyer - Former Owner-Occupier,251625.0
+X35,Dungarvan,9,2010,Existing,Household Buyer - Non-Occupier,105250.0
+X35,Dungarvan,10,2010,All Dwelling Statuses,All Buyer Types,187937.0
+X35,Dungarvan,10,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,10,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,149000.0
+X35,Dungarvan,10,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,226874.0
+X35,Dungarvan,10,2010,New,All Buyer Types,226874.0
+X35,Dungarvan,10,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,10,2010,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,10,2010,New,Household Buyer - Non-Occupier,226874.0
+X35,Dungarvan,10,2010,Existing,All Buyer Types,149000.0
+X35,Dungarvan,10,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,10,2010,Existing,Household Buyer - Former Owner-Occupier,149000.0
+X35,Dungarvan,10,2010,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,11,2010,All Dwelling Statuses,All Buyer Types,153214.0
+X35,Dungarvan,11,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,145000.0
+X35,Dungarvan,11,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,11,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,202500.0
+X35,Dungarvan,11,2010,New,All Buyer Types,
+X35,Dungarvan,11,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,11,2010,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,11,2010,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,11,2010,Existing,All Buyer Types,153214.0
+X35,Dungarvan,11,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,145000.0
+X35,Dungarvan,11,2010,Existing,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,11,2010,Existing,Household Buyer - Non-Occupier,202500.0
+X35,Dungarvan,12,2010,All Dwelling Statuses,All Buyer Types,160851.0
+X35,Dungarvan,12,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,112000.0
+X35,Dungarvan,12,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,282500.0
+X35,Dungarvan,12,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,112320.0
+X35,Dungarvan,12,2010,New,All Buyer Types,108960.0
+X35,Dungarvan,12,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,12,2010,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,12,2010,New,Household Buyer - Non-Occupier,108960.0
+X35,Dungarvan,12,2010,Existing,All Buyer Types,169500.0
+X35,Dungarvan,12,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,112000.0
+X35,Dungarvan,12,2010,Existing,Household Buyer - Former Owner-Occupier,282500.0
+X35,Dungarvan,12,2010,Existing,Household Buyer - Non-Occupier,114000.0
+X35,Dungarvan,1,2011,All Dwelling Statuses,All Buyer Types,200500.0
+X35,Dungarvan,1,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+X35,Dungarvan,1,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,260500.0
+X35,Dungarvan,1,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,136000.0
+X35,Dungarvan,1,2011,New,All Buyer Types,
+X35,Dungarvan,1,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,1,2011,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,1,2011,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,1,2011,Existing,All Buyer Types,200500.0
+X35,Dungarvan,1,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+X35,Dungarvan,1,2011,Existing,Household Buyer - Former Owner-Occupier,260500.0
+X35,Dungarvan,1,2011,Existing,Household Buyer - Non-Occupier,136000.0
+X35,Dungarvan,2,2011,All Dwelling Statuses,All Buyer Types,201333.0
+X35,Dungarvan,2,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,128000.0
+X35,Dungarvan,2,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,238000.0
+X35,Dungarvan,2,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,2,2011,New,All Buyer Types,
+X35,Dungarvan,2,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,2,2011,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,2,2011,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,2,2011,Existing,All Buyer Types,201333.0
+X35,Dungarvan,2,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,128000.0
+X35,Dungarvan,2,2011,Existing,Household Buyer - Former Owner-Occupier,238000.0
+X35,Dungarvan,2,2011,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,3,2011,All Dwelling Statuses,All Buyer Types,207846.0
+X35,Dungarvan,3,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,3,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,234743.0
+X35,Dungarvan,3,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,167500.0
+X35,Dungarvan,3,2011,New,All Buyer Types,241564.0
+X35,Dungarvan,3,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,3,2011,New,Household Buyer - Former Owner-Occupier,241564.0
+X35,Dungarvan,3,2011,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,3,2011,Existing,All Buyer Types,185367.0
+X35,Dungarvan,3,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,3,2011,Existing,Household Buyer - Former Owner-Occupier,221100.0
+X35,Dungarvan,3,2011,Existing,Household Buyer - Non-Occupier,167500.0
+X35,Dungarvan,4,2011,All Dwelling Statuses,All Buyer Types,
+X35,Dungarvan,4,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,4,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,4,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,4,2011,New,All Buyer Types,
+X35,Dungarvan,4,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,4,2011,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,4,2011,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,4,2011,Existing,All Buyer Types,
+X35,Dungarvan,4,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,4,2011,Existing,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,4,2011,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,5,2011,All Dwelling Statuses,All Buyer Types,207500.0
+X35,Dungarvan,5,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+X35,Dungarvan,5,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,120000.0
+X35,Dungarvan,5,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,5,2011,New,All Buyer Types,
+X35,Dungarvan,5,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,5,2011,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,5,2011,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,5,2011,Existing,All Buyer Types,207500.0
+X35,Dungarvan,5,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+X35,Dungarvan,5,2011,Existing,Household Buyer - Former Owner-Occupier,120000.0
+X35,Dungarvan,5,2011,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,6,2011,All Dwelling Statuses,All Buyer Types,155910.0
+X35,Dungarvan,6,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,6,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,174343.0
+X35,Dungarvan,6,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,131333.0
+X35,Dungarvan,6,2011,New,All Buyer Types,222436.0
+X35,Dungarvan,6,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,6,2011,New,Household Buyer - Former Owner-Occupier,222436.0
+X35,Dungarvan,6,2011,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,6,2011,Existing,All Buyer Types,129300.0
+X35,Dungarvan,6,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,6,2011,Existing,Household Buyer - Former Owner-Occupier,126250.0
+X35,Dungarvan,6,2011,Existing,Household Buyer - Non-Occupier,131333.0
+X35,Dungarvan,7,2011,All Dwelling Statuses,All Buyer Types,189500.0
+X35,Dungarvan,7,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,7,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197250.0
+X35,Dungarvan,7,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,174000.0
+X35,Dungarvan,7,2011,New,All Buyer Types,
+X35,Dungarvan,7,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,7,2011,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,7,2011,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2011,Existing,All Buyer Types,189500.0
+X35,Dungarvan,7,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,7,2011,Existing,Household Buyer - Former Owner-Occupier,197250.0
+X35,Dungarvan,7,2011,Existing,Household Buyer - Non-Occupier,174000.0
+X35,Dungarvan,8,2011,All Dwelling Statuses,All Buyer Types,124500.0
+X35,Dungarvan,8,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+X35,Dungarvan,8,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,8,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,84000.0
+X35,Dungarvan,8,2011,New,All Buyer Types,
+X35,Dungarvan,8,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,8,2011,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,8,2011,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,8,2011,Existing,All Buyer Types,124500.0
+X35,Dungarvan,8,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+X35,Dungarvan,8,2011,Existing,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,8,2011,Existing,Household Buyer - Non-Occupier,84000.0
+X35,Dungarvan,9,2011,All Dwelling Statuses,All Buyer Types,213583.0
+X35,Dungarvan,9,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,98500.0
+X35,Dungarvan,9,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,258000.0
+X35,Dungarvan,9,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,470000.0
+X35,Dungarvan,9,2011,New,All Buyer Types,
+X35,Dungarvan,9,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,9,2011,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,9,2011,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,9,2011,Existing,All Buyer Types,213583.0
+X35,Dungarvan,9,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,98500.0
+X35,Dungarvan,9,2011,Existing,Household Buyer - Former Owner-Occupier,258000.0
+X35,Dungarvan,9,2011,Existing,Household Buyer - Non-Occupier,470000.0
+X35,Dungarvan,10,2011,All Dwelling Statuses,All Buyer Types,140143.0
+X35,Dungarvan,10,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,158333.0
+X35,Dungarvan,10,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,120000.0
+X35,Dungarvan,10,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,133000.0
+X35,Dungarvan,10,2011,New,All Buyer Types,
+X35,Dungarvan,10,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,10,2011,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,10,2011,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,10,2011,Existing,All Buyer Types,140143.0
+X35,Dungarvan,10,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,158333.0
+X35,Dungarvan,10,2011,Existing,Household Buyer - Former Owner-Occupier,120000.0
+X35,Dungarvan,10,2011,Existing,Household Buyer - Non-Occupier,133000.0
+X35,Dungarvan,11,2011,All Dwelling Statuses,All Buyer Types,112000.0
+X35,Dungarvan,11,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+X35,Dungarvan,11,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,141000.0
+X35,Dungarvan,11,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+X35,Dungarvan,11,2011,New,All Buyer Types,
+X35,Dungarvan,11,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,11,2011,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,11,2011,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,11,2011,Existing,All Buyer Types,112000.0
+X35,Dungarvan,11,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+X35,Dungarvan,11,2011,Existing,Household Buyer - Former Owner-Occupier,141000.0
+X35,Dungarvan,11,2011,Existing,Household Buyer - Non-Occupier,80000.0
+X35,Dungarvan,12,2011,All Dwelling Statuses,All Buyer Types,175000.0
+X35,Dungarvan,12,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+X35,Dungarvan,12,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,180000.0
+X35,Dungarvan,12,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,135000.0
+X35,Dungarvan,12,2011,New,All Buyer Types,
+X35,Dungarvan,12,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,12,2011,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,12,2011,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,12,2011,Existing,All Buyer Types,175000.0
+X35,Dungarvan,12,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+X35,Dungarvan,12,2011,Existing,Household Buyer - Former Owner-Occupier,180000.0
+X35,Dungarvan,12,2011,Existing,Household Buyer - Non-Occupier,135000.0
+X35,Dungarvan,1,2012,All Dwelling Statuses,All Buyer Types,179167.0
+X35,Dungarvan,1,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,167500.0
+X35,Dungarvan,1,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,290000.0
+X35,Dungarvan,1,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+X35,Dungarvan,1,2012,New,All Buyer Types,
+X35,Dungarvan,1,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,1,2012,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,1,2012,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,1,2012,Existing,All Buyer Types,179167.0
+X35,Dungarvan,1,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,167500.0
+X35,Dungarvan,1,2012,Existing,Household Buyer - Former Owner-Occupier,290000.0
+X35,Dungarvan,1,2012,Existing,Household Buyer - Non-Occupier,80000.0
+X35,Dungarvan,2,2012,All Dwelling Statuses,All Buyer Types,93625.0
+X35,Dungarvan,2,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,152500.0
+X35,Dungarvan,2,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,100000.0
+X35,Dungarvan,2,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,61000.0
+X35,Dungarvan,2,2012,New,All Buyer Types,
+X35,Dungarvan,2,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,2,2012,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,2,2012,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,2,2012,Existing,All Buyer Types,93625.0
+X35,Dungarvan,2,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,152500.0
+X35,Dungarvan,2,2012,Existing,Household Buyer - Former Owner-Occupier,100000.0
+X35,Dungarvan,2,2012,Existing,Household Buyer - Non-Occupier,61000.0
+X35,Dungarvan,3,2012,All Dwelling Statuses,All Buyer Types,186000.0
+X35,Dungarvan,3,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,3,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,172333.0
+X35,Dungarvan,3,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,227000.0
+X35,Dungarvan,3,2012,New,All Buyer Types,219667.0
+X35,Dungarvan,3,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,3,2012,New,Household Buyer - Former Owner-Occupier,216000.0
+X35,Dungarvan,3,2012,New,Household Buyer - Non-Occupier,227000.0
+X35,Dungarvan,3,2012,Existing,All Buyer Types,85000.0
+X35,Dungarvan,3,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,3,2012,Existing,Household Buyer - Former Owner-Occupier,85000.0
+X35,Dungarvan,3,2012,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,4,2012,All Dwelling Statuses,All Buyer Types,68250.0
+X35,Dungarvan,4,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,81500.0
+X35,Dungarvan,4,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,55000.0
+X35,Dungarvan,4,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,4,2012,New,All Buyer Types,
+X35,Dungarvan,4,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,4,2012,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,4,2012,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,4,2012,Existing,All Buyer Types,68250.0
+X35,Dungarvan,4,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,81500.0
+X35,Dungarvan,4,2012,Existing,Household Buyer - Former Owner-Occupier,55000.0
+X35,Dungarvan,4,2012,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,5,2012,All Dwelling Statuses,All Buyer Types,230979.0
+X35,Dungarvan,5,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,179719.0
+X35,Dungarvan,5,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,333500.0
+X35,Dungarvan,5,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,5,2012,New,All Buyer Types,206875.0
+X35,Dungarvan,5,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,206875.0
+X35,Dungarvan,5,2012,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,5,2012,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,5,2012,Existing,All Buyer Types,235800.0
+X35,Dungarvan,5,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,170667.0
+X35,Dungarvan,5,2012,Existing,Household Buyer - Former Owner-Occupier,333500.0
+X35,Dungarvan,5,2012,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,6,2012,All Dwelling Statuses,All Buyer Types,144169.0
+X35,Dungarvan,6,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,76000.0
+X35,Dungarvan,6,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,155000.0
+X35,Dungarvan,6,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,169015.0
+X35,Dungarvan,6,2012,New,All Buyer Types,169015.0
+X35,Dungarvan,6,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,6,2012,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,6,2012,New,Household Buyer - Non-Occupier,169015.0
+X35,Dungarvan,6,2012,Existing,All Buyer Types,139200.0
+X35,Dungarvan,6,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,76000.0
+X35,Dungarvan,6,2012,Existing,Household Buyer - Former Owner-Occupier,155000.0
+X35,Dungarvan,6,2012,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2012,All Dwelling Statuses,All Buyer Types,168500.0
+X35,Dungarvan,7,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,7,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,168500.0
+X35,Dungarvan,7,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2012,New,All Buyer Types,
+X35,Dungarvan,7,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,7,2012,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,7,2012,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2012,Existing,All Buyer Types,168500.0
+X35,Dungarvan,7,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,7,2012,Existing,Household Buyer - Former Owner-Occupier,168500.0
+X35,Dungarvan,7,2012,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,8,2012,All Dwelling Statuses,All Buyer Types,140056.0
+X35,Dungarvan,8,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,154167.0
+X35,Dungarvan,8,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,126667.0
+X35,Dungarvan,8,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,139333.0
+X35,Dungarvan,8,2012,New,All Buyer Types,
+X35,Dungarvan,8,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,8,2012,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,8,2012,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,8,2012,Existing,All Buyer Types,140056.0
+X35,Dungarvan,8,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,154167.0
+X35,Dungarvan,8,2012,Existing,Household Buyer - Former Owner-Occupier,126667.0
+X35,Dungarvan,8,2012,Existing,Household Buyer - Non-Occupier,139333.0
+X35,Dungarvan,9,2012,All Dwelling Statuses,All Buyer Types,112000.0
+X35,Dungarvan,9,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,123500.0
+X35,Dungarvan,9,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,93500.0
+X35,Dungarvan,9,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,126000.0
+X35,Dungarvan,9,2012,New,All Buyer Types,
+X35,Dungarvan,9,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,9,2012,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,9,2012,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,9,2012,Existing,All Buyer Types,112000.0
+X35,Dungarvan,9,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,123500.0
+X35,Dungarvan,9,2012,Existing,Household Buyer - Former Owner-Occupier,93500.0
+X35,Dungarvan,9,2012,Existing,Household Buyer - Non-Occupier,126000.0
+X35,Dungarvan,10,2012,All Dwelling Statuses,All Buyer Types,178000.0
+X35,Dungarvan,10,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,155000.0
+X35,Dungarvan,10,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,193333.0
+X35,Dungarvan,10,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,10,2012,New,All Buyer Types,
+X35,Dungarvan,10,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,10,2012,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,10,2012,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,10,2012,Existing,All Buyer Types,178000.0
+X35,Dungarvan,10,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,155000.0
+X35,Dungarvan,10,2012,Existing,Household Buyer - Former Owner-Occupier,193333.0
+X35,Dungarvan,10,2012,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,11,2012,All Dwelling Statuses,All Buyer Types,164625.0
+X35,Dungarvan,11,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,171400.0
+X35,Dungarvan,11,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,153333.0
+X35,Dungarvan,11,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,11,2012,New,All Buyer Types,200000.0
+X35,Dungarvan,11,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,11,2012,New,Household Buyer - Former Owner-Occupier,200000.0
+X35,Dungarvan,11,2012,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,11,2012,Existing,All Buyer Types,159571.0
+X35,Dungarvan,11,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,171400.0
+X35,Dungarvan,11,2012,Existing,Household Buyer - Former Owner-Occupier,130000.0
+X35,Dungarvan,11,2012,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,12,2012,All Dwelling Statuses,All Buyer Types,142833.0
+X35,Dungarvan,12,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,136250.0
+X35,Dungarvan,12,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,227000.0
+X35,Dungarvan,12,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,85000.0
+X35,Dungarvan,12,2012,New,All Buyer Types,227000.0
+X35,Dungarvan,12,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,12,2012,New,Household Buyer - Former Owner-Occupier,227000.0
+X35,Dungarvan,12,2012,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,12,2012,Existing,All Buyer Types,126000.0
+X35,Dungarvan,12,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,136250.0
+X35,Dungarvan,12,2012,Existing,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,12,2012,Existing,Household Buyer - Non-Occupier,85000.0
+X35,Dungarvan,1,2013,All Dwelling Statuses,All Buyer Types,103000.0
+X35,Dungarvan,1,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,101000.0
+X35,Dungarvan,1,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,70000.0
+X35,Dungarvan,1,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,112750.0
+X35,Dungarvan,1,2013,New,All Buyer Types,
+X35,Dungarvan,1,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,1,2013,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,1,2013,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,1,2013,Existing,All Buyer Types,103000.0
+X35,Dungarvan,1,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,101000.0
+X35,Dungarvan,1,2013,Existing,Household Buyer - Former Owner-Occupier,70000.0
+X35,Dungarvan,1,2013,Existing,Household Buyer - Non-Occupier,112750.0
+X35,Dungarvan,2,2013,All Dwelling Statuses,All Buyer Types,127000.0
+X35,Dungarvan,2,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,127000.0
+X35,Dungarvan,2,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,2,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,2,2013,New,All Buyer Types,
+X35,Dungarvan,2,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,2,2013,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,2,2013,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,2,2013,Existing,All Buyer Types,127000.0
+X35,Dungarvan,2,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,127000.0
+X35,Dungarvan,2,2013,Existing,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,2,2013,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,3,2013,All Dwelling Statuses,All Buyer Types,161293.0
+X35,Dungarvan,3,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,3,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,154117.0
+X35,Dungarvan,3,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,190000.0
+X35,Dungarvan,3,2013,New,All Buyer Types,179733.0
+X35,Dungarvan,3,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,3,2013,New,Household Buyer - Former Owner-Occupier,179733.0
+X35,Dungarvan,3,2013,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,3,2013,Existing,All Buyer Types,149000.0
+X35,Dungarvan,3,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,3,2013,Existing,Household Buyer - Former Owner-Occupier,128500.0
+X35,Dungarvan,3,2013,Existing,Household Buyer - Non-Occupier,190000.0
+X35,Dungarvan,4,2013,All Dwelling Statuses,All Buyer Types,164500.0
+X35,Dungarvan,4,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,222000.0
+X35,Dungarvan,4,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,176083.0
+X35,Dungarvan,4,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,101000.0
+X35,Dungarvan,4,2013,New,All Buyer Types,
+X35,Dungarvan,4,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,4,2013,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,4,2013,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,4,2013,Existing,All Buyer Types,164500.0
+X35,Dungarvan,4,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,222000.0
+X35,Dungarvan,4,2013,Existing,Household Buyer - Former Owner-Occupier,176083.0
+X35,Dungarvan,4,2013,Existing,Household Buyer - Non-Occupier,101000.0
+X35,Dungarvan,5,2013,All Dwelling Statuses,All Buyer Types,170167.0
+X35,Dungarvan,5,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,151500.0
+X35,Dungarvan,5,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,180875.0
+X35,Dungarvan,5,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,183333.0
+X35,Dungarvan,5,2013,New,All Buyer Types,159000.0
+X35,Dungarvan,5,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,159000.0
+X35,Dungarvan,5,2013,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,5,2013,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,5,2013,Existing,All Buyer Types,171762.0
+X35,Dungarvan,5,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,147750.0
+X35,Dungarvan,5,2013,Existing,Household Buyer - Former Owner-Occupier,180875.0
+X35,Dungarvan,5,2013,Existing,Household Buyer - Non-Occupier,183333.0
+X35,Dungarvan,6,2013,All Dwelling Statuses,All Buyer Types,121358.0
+X35,Dungarvan,6,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,138333.0
+X35,Dungarvan,6,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,133791.0
+X35,Dungarvan,6,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,58000.0
+X35,Dungarvan,6,2013,New,All Buyer Types,
+X35,Dungarvan,6,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,6,2013,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,6,2013,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,6,2013,Existing,All Buyer Types,121358.0
+X35,Dungarvan,6,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,138333.0
+X35,Dungarvan,6,2013,Existing,Household Buyer - Former Owner-Occupier,133791.0
+X35,Dungarvan,6,2013,Existing,Household Buyer - Non-Occupier,58000.0
+X35,Dungarvan,7,2013,All Dwelling Statuses,All Buyer Types,148250.0
+X35,Dungarvan,7,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,80625.0
+X35,Dungarvan,7,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,193333.0
+X35,Dungarvan,7,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2013,New,All Buyer Types,
+X35,Dungarvan,7,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,7,2013,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,7,2013,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2013,Existing,All Buyer Types,148250.0
+X35,Dungarvan,7,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,80625.0
+X35,Dungarvan,7,2013,Existing,Household Buyer - Former Owner-Occupier,193333.0
+X35,Dungarvan,7,2013,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,8,2013,All Dwelling Statuses,All Buyer Types,158111.0
+X35,Dungarvan,8,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,95000.0
+X35,Dungarvan,8,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,238250.0
+X35,Dungarvan,8,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,93750.0
+X35,Dungarvan,8,2013,New,All Buyer Types,
+X35,Dungarvan,8,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,8,2013,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,8,2013,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,8,2013,Existing,All Buyer Types,158111.0
+X35,Dungarvan,8,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,95000.0
+X35,Dungarvan,8,2013,Existing,Household Buyer - Former Owner-Occupier,238250.0
+X35,Dungarvan,8,2013,Existing,Household Buyer - Non-Occupier,93750.0
+X35,Dungarvan,9,2013,All Dwelling Statuses,All Buyer Types,117056.0
+X35,Dungarvan,9,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,147500.0
+X35,Dungarvan,9,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,133200.0
+X35,Dungarvan,9,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,46250.0
+X35,Dungarvan,9,2013,New,All Buyer Types,
+X35,Dungarvan,9,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,9,2013,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,9,2013,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,9,2013,Existing,All Buyer Types,117056.0
+X35,Dungarvan,9,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,147500.0
+X35,Dungarvan,9,2013,Existing,Household Buyer - Former Owner-Occupier,133200.0
+X35,Dungarvan,9,2013,Existing,Household Buyer - Non-Occupier,46250.0
+X35,Dungarvan,10,2013,All Dwelling Statuses,All Buyer Types,140955.0
+X35,Dungarvan,10,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+X35,Dungarvan,10,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,186857.0
+X35,Dungarvan,10,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,40833.0
+X35,Dungarvan,10,2013,New,All Buyer Types,
+X35,Dungarvan,10,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,10,2013,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,10,2013,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,10,2013,Existing,All Buyer Types,140955.0
+X35,Dungarvan,10,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+X35,Dungarvan,10,2013,Existing,Household Buyer - Former Owner-Occupier,186857.0
+X35,Dungarvan,10,2013,Existing,Household Buyer - Non-Occupier,40833.0
+X35,Dungarvan,11,2013,All Dwelling Statuses,All Buyer Types,145481.0
+X35,Dungarvan,11,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,102388.0
+X35,Dungarvan,11,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,167938.0
+X35,Dungarvan,11,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,98750.0
+X35,Dungarvan,11,2013,New,All Buyer Types,167775.0
+X35,Dungarvan,11,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,167775.0
+X35,Dungarvan,11,2013,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,11,2013,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,11,2013,Existing,All Buyer Types,143455.0
+X35,Dungarvan,11,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,37000.0
+X35,Dungarvan,11,2013,Existing,Household Buyer - Former Owner-Occupier,167938.0
+X35,Dungarvan,11,2013,Existing,Household Buyer - Non-Occupier,98750.0
+X35,Dungarvan,12,2013,All Dwelling Statuses,All Buyer Types,114333.0
+X35,Dungarvan,12,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+X35,Dungarvan,12,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,86750.0
+X35,Dungarvan,12,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,159000.0
+X35,Dungarvan,12,2013,New,All Buyer Types,159000.0
+X35,Dungarvan,12,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,12,2013,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,12,2013,New,Household Buyer - Non-Occupier,159000.0
+X35,Dungarvan,12,2013,Existing,All Buyer Types,105400.0
+X35,Dungarvan,12,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+X35,Dungarvan,12,2013,Existing,Household Buyer - Former Owner-Occupier,86750.0
+X35,Dungarvan,12,2013,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,1,2014,All Dwelling Statuses,All Buyer Types,161056.0
+X35,Dungarvan,1,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,128000.0
+X35,Dungarvan,1,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,185100.0
+X35,Dungarvan,1,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,134000.0
+X35,Dungarvan,1,2014,New,All Buyer Types,
+X35,Dungarvan,1,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,1,2014,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,1,2014,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,1,2014,Existing,All Buyer Types,161056.0
+X35,Dungarvan,1,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,128000.0
+X35,Dungarvan,1,2014,Existing,Household Buyer - Former Owner-Occupier,185100.0
+X35,Dungarvan,1,2014,Existing,Household Buyer - Non-Occupier,134000.0
+X35,Dungarvan,2,2014,All Dwelling Statuses,All Buyer Types,135333.0
+X35,Dungarvan,2,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,58000.0
+X35,Dungarvan,2,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,157250.0
+X35,Dungarvan,2,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,125000.0
+X35,Dungarvan,2,2014,New,All Buyer Types,
+X35,Dungarvan,2,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,2,2014,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,2,2014,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,2,2014,Existing,All Buyer Types,135333.0
+X35,Dungarvan,2,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,58000.0
+X35,Dungarvan,2,2014,Existing,Household Buyer - Former Owner-Occupier,157250.0
+X35,Dungarvan,2,2014,Existing,Household Buyer - Non-Occupier,125000.0
+X35,Dungarvan,3,2014,All Dwelling Statuses,All Buyer Types,112091.0
+X35,Dungarvan,3,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+X35,Dungarvan,3,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,104833.0
+X35,Dungarvan,3,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,103500.0
+X35,Dungarvan,3,2014,New,All Buyer Types,
+X35,Dungarvan,3,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,3,2014,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,3,2014,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,3,2014,Existing,All Buyer Types,112091.0
+X35,Dungarvan,3,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+X35,Dungarvan,3,2014,Existing,Household Buyer - Former Owner-Occupier,104833.0
+X35,Dungarvan,3,2014,Existing,Household Buyer - Non-Occupier,103500.0
+X35,Dungarvan,4,2014,All Dwelling Statuses,All Buyer Types,139750.0
+X35,Dungarvan,4,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,216500.0
+X35,Dungarvan,4,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,60000.0
+X35,Dungarvan,4,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,115167.0
+X35,Dungarvan,4,2014,New,All Buyer Types,
+X35,Dungarvan,4,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,4,2014,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,4,2014,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,4,2014,Existing,All Buyer Types,139750.0
+X35,Dungarvan,4,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,216500.0
+X35,Dungarvan,4,2014,Existing,Household Buyer - Former Owner-Occupier,60000.0
+X35,Dungarvan,4,2014,Existing,Household Buyer - Non-Occupier,115167.0
+X35,Dungarvan,5,2014,All Dwelling Statuses,All Buyer Types,117583.0
+X35,Dungarvan,5,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,114500.0
+X35,Dungarvan,5,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,147500.0
+X35,Dungarvan,5,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,100000.0
+X35,Dungarvan,5,2014,New,All Buyer Types,49999.0
+X35,Dungarvan,5,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,49999.0
+X35,Dungarvan,5,2014,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,5,2014,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,5,2014,Existing,All Buyer Types,131100.0
+X35,Dungarvan,5,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,136000.0
+X35,Dungarvan,5,2014,Existing,Household Buyer - Former Owner-Occupier,147500.0
+X35,Dungarvan,5,2014,Existing,Household Buyer - Non-Occupier,100000.0
+X35,Dungarvan,6,2014,All Dwelling Statuses,All Buyer Types,131857.0
+X35,Dungarvan,6,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,116000.0
+X35,Dungarvan,6,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,138200.0
+X35,Dungarvan,6,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,6,2014,New,All Buyer Types,
+X35,Dungarvan,6,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,6,2014,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,6,2014,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,6,2014,Existing,All Buyer Types,131857.0
+X35,Dungarvan,6,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,116000.0
+X35,Dungarvan,6,2014,Existing,Household Buyer - Former Owner-Occupier,138200.0
+X35,Dungarvan,6,2014,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2014,All Dwelling Statuses,All Buyer Types,147000.0
+X35,Dungarvan,7,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+X35,Dungarvan,7,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,181000.0
+X35,Dungarvan,7,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,115000.0
+X35,Dungarvan,7,2014,New,All Buyer Types,227000.0
+X35,Dungarvan,7,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,7,2014,New,Household Buyer - Former Owner-Occupier,227000.0
+X35,Dungarvan,7,2014,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2014,Existing,All Buyer Types,141667.0
+X35,Dungarvan,7,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+X35,Dungarvan,7,2014,Existing,Household Buyer - Former Owner-Occupier,173333.0
+X35,Dungarvan,7,2014,Existing,Household Buyer - Non-Occupier,115000.0
+X35,Dungarvan,8,2014,All Dwelling Statuses,All Buyer Types,158039.0
+X35,Dungarvan,8,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,185981.0
+X35,Dungarvan,8,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,162800.0
+X35,Dungarvan,8,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,90250.0
+X35,Dungarvan,8,2014,New,All Buyer Types,175925.0
+X35,Dungarvan,8,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,175925.0
+X35,Dungarvan,8,2014,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,8,2014,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,8,2014,Existing,All Buyer Types,156250.0
+X35,Dungarvan,8,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,189333.0
+X35,Dungarvan,8,2014,Existing,Household Buyer - Former Owner-Occupier,162800.0
+X35,Dungarvan,8,2014,Existing,Household Buyer - Non-Occupier,90250.0
+X35,Dungarvan,9,2014,All Dwelling Statuses,All Buyer Types,119625.0
+X35,Dungarvan,9,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+X35,Dungarvan,9,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,152000.0
+X35,Dungarvan,9,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,38500.0
+X35,Dungarvan,9,2014,New,All Buyer Types,
+X35,Dungarvan,9,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,9,2014,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,9,2014,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,9,2014,Existing,All Buyer Types,119625.0
+X35,Dungarvan,9,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+X35,Dungarvan,9,2014,Existing,Household Buyer - Former Owner-Occupier,152000.0
+X35,Dungarvan,9,2014,Existing,Household Buyer - Non-Occupier,38500.0
+X35,Dungarvan,10,2014,All Dwelling Statuses,All Buyer Types,136934.0
+X35,Dungarvan,10,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,148720.0
+X35,Dungarvan,10,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,136250.0
+X35,Dungarvan,10,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,114273.0
+X35,Dungarvan,10,2014,New,All Buyer Types,159160.0
+X35,Dungarvan,10,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,159107.0
+X35,Dungarvan,10,2014,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,10,2014,New,Household Buyer - Non-Occupier,159319.0
+X35,Dungarvan,10,2014,Existing,All Buyer Types,127056.0
+X35,Dungarvan,10,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,138333.0
+X35,Dungarvan,10,2014,Existing,Household Buyer - Former Owner-Occupier,136250.0
+X35,Dungarvan,10,2014,Existing,Household Buyer - Non-Occupier,91750.0
+X35,Dungarvan,11,2014,All Dwelling Statuses,All Buyer Types,144500.0
+X35,Dungarvan,11,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,146750.0
+X35,Dungarvan,11,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,156167.0
+X35,Dungarvan,11,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,87500.0
+X35,Dungarvan,11,2014,New,All Buyer Types,153500.0
+X35,Dungarvan,11,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,11,2014,New,Household Buyer - Former Owner-Occupier,153500.0
+X35,Dungarvan,11,2014,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,11,2014,Existing,All Buyer Types,143857.0
+X35,Dungarvan,11,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,146750.0
+X35,Dungarvan,11,2014,Existing,Household Buyer - Former Owner-Occupier,156500.0
+X35,Dungarvan,11,2014,Existing,Household Buyer - Non-Occupier,87500.0
+X35,Dungarvan,12,2014,All Dwelling Statuses,All Buyer Types,107321.0
+X35,Dungarvan,12,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,139995.0
+X35,Dungarvan,12,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,97023.0
+X35,Dungarvan,12,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,95465.0
+X35,Dungarvan,12,2014,New,All Buyer Types,152229.0
+X35,Dungarvan,12,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,141233.0
+X35,Dungarvan,12,2014,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,12,2014,New,Household Buyer - Non-Occupier,174223.0
+X35,Dungarvan,12,2014,Existing,All Buyer Types,101932.0
+X35,Dungarvan,12,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,139500.0
+X35,Dungarvan,12,2014,Existing,Household Buyer - Former Owner-Occupier,97023.0
+X35,Dungarvan,12,2014,Existing,Household Buyer - Non-Occupier,84214.0
+X35,Dungarvan,1,2015,All Dwelling Statuses,All Buyer Types,157871.0
+X35,Dungarvan,1,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,202640.0
+X35,Dungarvan,1,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,123800.0
+X35,Dungarvan,1,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,144500.0
+X35,Dungarvan,1,2015,New,All Buyer Types,
+X35,Dungarvan,1,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,1,2015,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,1,2015,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,1,2015,Existing,All Buyer Types,157871.0
+X35,Dungarvan,1,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,202640.0
+X35,Dungarvan,1,2015,Existing,Household Buyer - Former Owner-Occupier,123800.0
+X35,Dungarvan,1,2015,Existing,Household Buyer - Non-Occupier,144500.0
+X35,Dungarvan,2,2015,All Dwelling Statuses,All Buyer Types,117450.0
+X35,Dungarvan,2,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,81667.0
+X35,Dungarvan,2,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,190000.0
+X35,Dungarvan,2,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,89875.0
+X35,Dungarvan,2,2015,New,All Buyer Types,
+X35,Dungarvan,2,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,2,2015,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,2,2015,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,2,2015,Existing,All Buyer Types,117450.0
+X35,Dungarvan,2,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,81667.0
+X35,Dungarvan,2,2015,Existing,Household Buyer - Former Owner-Occupier,190000.0
+X35,Dungarvan,2,2015,Existing,Household Buyer - Non-Occupier,89875.0
+X35,Dungarvan,3,2015,All Dwelling Statuses,All Buyer Types,116364.0
+X35,Dungarvan,3,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,152500.0
+X35,Dungarvan,3,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,125714.0
+X35,Dungarvan,3,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,47500.0
+X35,Dungarvan,3,2015,New,All Buyer Types,
+X35,Dungarvan,3,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,3,2015,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,3,2015,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,3,2015,Existing,All Buyer Types,116364.0
+X35,Dungarvan,3,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,152500.0
+X35,Dungarvan,3,2015,Existing,Household Buyer - Former Owner-Occupier,125714.0
+X35,Dungarvan,3,2015,Existing,Household Buyer - Non-Occupier,47500.0
+X35,Dungarvan,4,2015,All Dwelling Statuses,All Buyer Types,116188.0
+X35,Dungarvan,4,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,122500.0
+X35,Dungarvan,4,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,137375.0
+X35,Dungarvan,4,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,67500.0
+X35,Dungarvan,4,2015,New,All Buyer Types,
+X35,Dungarvan,4,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,4,2015,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,4,2015,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,4,2015,Existing,All Buyer Types,116188.0
+X35,Dungarvan,4,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,122500.0
+X35,Dungarvan,4,2015,Existing,Household Buyer - Former Owner-Occupier,137375.0
+X35,Dungarvan,4,2015,Existing,Household Buyer - Non-Occupier,67500.0
+X35,Dungarvan,5,2015,All Dwelling Statuses,All Buyer Types,145408.0
+X35,Dungarvan,5,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+X35,Dungarvan,5,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,166571.0
+X35,Dungarvan,5,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,127428.0
+X35,Dungarvan,5,2015,New,All Buyer Types,165211.0
+X35,Dungarvan,5,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,5,2015,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,5,2015,New,Household Buyer - Non-Occupier,165211.0
+X35,Dungarvan,5,2015,Existing,All Buyer Types,143885.0
+X35,Dungarvan,5,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+X35,Dungarvan,5,2015,Existing,Household Buyer - Former Owner-Occupier,166571.0
+X35,Dungarvan,5,2015,Existing,Household Buyer - Non-Occupier,114833.0
+X35,Dungarvan,6,2015,All Dwelling Statuses,All Buyer Types,154213.0
+X35,Dungarvan,6,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,166138.0
+X35,Dungarvan,6,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,174333.0
+X35,Dungarvan,6,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,70000.0
+X35,Dungarvan,6,2015,New,All Buyer Types,187275.0
+X35,Dungarvan,6,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,187275.0
+X35,Dungarvan,6,2015,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,6,2015,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,6,2015,Existing,All Buyer Types,147600.0
+X35,Dungarvan,6,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,145000.0
+X35,Dungarvan,6,2015,Existing,Household Buyer - Former Owner-Occupier,174333.0
+X35,Dungarvan,6,2015,Existing,Household Buyer - Non-Occupier,70000.0
+X35,Dungarvan,7,2015,All Dwelling Statuses,All Buyer Types,140042.0
+X35,Dungarvan,7,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,128625.0
+X35,Dungarvan,7,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,165167.0
+X35,Dungarvan,7,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,87500.0
+X35,Dungarvan,7,2015,New,All Buyer Types,169000.0
+X35,Dungarvan,7,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,169000.0
+X35,Dungarvan,7,2015,New,Household Buyer - Former Owner-Occupier,168999.0
+X35,Dungarvan,7,2015,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2015,Existing,All Buyer Types,134250.0
+X35,Dungarvan,7,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115167.0
+X35,Dungarvan,7,2015,Existing,Household Buyer - Former Owner-Occupier,164400.0
+X35,Dungarvan,7,2015,Existing,Household Buyer - Non-Occupier,87500.0
+X35,Dungarvan,8,2015,All Dwelling Statuses,All Buyer Types,149960.0
+X35,Dungarvan,8,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,153418.0
+X35,Dungarvan,8,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,167206.0
+X35,Dungarvan,8,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,101667.0
+X35,Dungarvan,8,2015,New,All Buyer Types,188495.0
+X35,Dungarvan,8,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,171835.0
+X35,Dungarvan,8,2015,New,Household Buyer - Former Owner-Occupier,196825.0
+X35,Dungarvan,8,2015,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,8,2015,Existing,All Buyer Types,138400.0
+X35,Dungarvan,8,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,135000.0
+X35,Dungarvan,8,2015,Existing,Household Buyer - Former Owner-Occupier,157333.0
+X35,Dungarvan,8,2015,Existing,Household Buyer - Non-Occupier,101667.0
+X35,Dungarvan,9,2015,All Dwelling Statuses,All Buyer Types,199729.0
+X35,Dungarvan,9,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,199381.0
+X35,Dungarvan,9,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,210401.0
+X35,Dungarvan,9,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,40000.0
+X35,Dungarvan,9,2015,New,All Buyer Types,217779.0
+X35,Dungarvan,9,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,199381.0
+X35,Dungarvan,9,2015,New,Household Buyer - Former Owner-Occupier,222379.0
+X35,Dungarvan,9,2015,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,9,2015,Existing,All Buyer Types,192208.0
+X35,Dungarvan,9,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,9,2015,Existing,Household Buyer - Former Owner-Occupier,206045.0
+X35,Dungarvan,9,2015,Existing,Household Buyer - Non-Occupier,40000.0
+X35,Dungarvan,10,2015,All Dwelling Statuses,All Buyer Types,157235.0
+X35,Dungarvan,10,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,168000.0
+X35,Dungarvan,10,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,221429.0
+X35,Dungarvan,10,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,75167.0
+X35,Dungarvan,10,2015,New,All Buyer Types,
+X35,Dungarvan,10,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,10,2015,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,10,2015,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,10,2015,Existing,All Buyer Types,157235.0
+X35,Dungarvan,10,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,168000.0
+X35,Dungarvan,10,2015,Existing,Household Buyer - Former Owner-Occupier,221429.0
+X35,Dungarvan,10,2015,Existing,Household Buyer - Non-Occupier,75167.0
+X35,Dungarvan,11,2015,All Dwelling Statuses,All Buyer Types,144231.0
+X35,Dungarvan,11,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,154750.0
+X35,Dungarvan,11,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,125167.0
+X35,Dungarvan,11,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,168333.0
+X35,Dungarvan,11,2015,New,All Buyer Types,150000.0
+X35,Dungarvan,11,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+X35,Dungarvan,11,2015,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,11,2015,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,11,2015,Existing,All Buyer Types,143750.0
+X35,Dungarvan,11,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,156333.0
+X35,Dungarvan,11,2015,Existing,Household Buyer - Former Owner-Occupier,125167.0
+X35,Dungarvan,11,2015,Existing,Household Buyer - Non-Occupier,168333.0
+X35,Dungarvan,12,2015,All Dwelling Statuses,All Buyer Types,168615.0
+X35,Dungarvan,12,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,130768.0
+X35,Dungarvan,12,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197600.0
+X35,Dungarvan,12,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,176000.0
+X35,Dungarvan,12,2015,New,All Buyer Types,225842.0
+X35,Dungarvan,12,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,225842.0
+X35,Dungarvan,12,2015,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,12,2015,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,12,2015,Existing,All Buyer Types,164800.0
+X35,Dungarvan,12,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,107000.0
+X35,Dungarvan,12,2015,Existing,Household Buyer - Former Owner-Occupier,197600.0
+X35,Dungarvan,12,2015,Existing,Household Buyer - Non-Occupier,176000.0
+X35,Dungarvan,1,2016,All Dwelling Statuses,All Buyer Types,193267.0
+X35,Dungarvan,1,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,71500.0
+X35,Dungarvan,1,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,423000.0
+X35,Dungarvan,1,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,125727.0
+X35,Dungarvan,1,2016,New,All Buyer Types,212835.0
+X35,Dungarvan,1,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,1,2016,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,1,2016,New,Household Buyer - Non-Occupier,212835.0
+X35,Dungarvan,1,2016,Existing,All Buyer Types,190471.0
+X35,Dungarvan,1,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,71500.0
+X35,Dungarvan,1,2016,Existing,Household Buyer - Former Owner-Occupier,423000.0
+X35,Dungarvan,1,2016,Existing,Household Buyer - Non-Occupier,103950.0
+X35,Dungarvan,2,2016,All Dwelling Statuses,All Buyer Types,370600.0
+X35,Dungarvan,2,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,2,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,438250.0
+X35,Dungarvan,2,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,100000.0
+X35,Dungarvan,2,2016,New,All Buyer Types,201500.0
+X35,Dungarvan,2,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,2,2016,New,Household Buyer - Former Owner-Occupier,201500.0
+X35,Dungarvan,2,2016,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,2,2016,Existing,All Buyer Types,483333.0
+X35,Dungarvan,2,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,2,2016,Existing,Household Buyer - Former Owner-Occupier,675000.0
+X35,Dungarvan,2,2016,Existing,Household Buyer - Non-Occupier,100000.0
+X35,Dungarvan,3,2016,All Dwelling Statuses,All Buyer Types,171019.0
+X35,Dungarvan,3,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,154000.0
+X35,Dungarvan,3,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178430.0
+X35,Dungarvan,3,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,163333.0
+X35,Dungarvan,3,2016,New,All Buyer Types,215650.0
+X35,Dungarvan,3,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,3,2016,New,Household Buyer - Former Owner-Occupier,215650.0
+X35,Dungarvan,3,2016,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,3,2016,Existing,All Buyer Types,164643.0
+X35,Dungarvan,3,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,154000.0
+X35,Dungarvan,3,2016,Existing,Household Buyer - Former Owner-Occupier,169125.0
+X35,Dungarvan,3,2016,Existing,Household Buyer - Non-Occupier,163333.0
+X35,Dungarvan,4,2016,All Dwelling Statuses,All Buyer Types,179708.0
+X35,Dungarvan,4,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,146833.0
+X35,Dungarvan,4,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,220857.0
+X35,Dungarvan,4,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,85000.0
+X35,Dungarvan,4,2016,New,All Buyer Types,169000.0
+X35,Dungarvan,4,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,4,2016,New,Household Buyer - Former Owner-Occupier,169000.0
+X35,Dungarvan,4,2016,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,4,2016,Existing,All Buyer Types,180682.0
+X35,Dungarvan,4,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,146833.0
+X35,Dungarvan,4,2016,Existing,Household Buyer - Former Owner-Occupier,229500.0
+X35,Dungarvan,4,2016,Existing,Household Buyer - Non-Occupier,85000.0
+X35,Dungarvan,5,2016,All Dwelling Statuses,All Buyer Types,163706.0
+X35,Dungarvan,5,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150437.0
+X35,Dungarvan,5,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,174925.0
+X35,Dungarvan,5,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,140000.0
+X35,Dungarvan,5,2016,New,All Buyer Types,198853.0
+X35,Dungarvan,5,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,171812.0
+X35,Dungarvan,5,2016,New,Household Buyer - Former Owner-Occupier,204300.0
+X35,Dungarvan,5,2016,New,Household Buyer - Non-Occupier,215000.0
+X35,Dungarvan,5,2016,Existing,All Buyer Types,154333.0
+X35,Dungarvan,5,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,139750.0
+X35,Dungarvan,5,2016,Existing,Household Buyer - Former Owner-Occupier,169050.0
+X35,Dungarvan,5,2016,Existing,Household Buyer - Non-Occupier,115000.0
+X35,Dungarvan,6,2016,All Dwelling Statuses,All Buyer Types,130114.0
+X35,Dungarvan,6,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,133000.0
+X35,Dungarvan,6,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,126821.0
+X35,Dungarvan,6,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,141500.0
+X35,Dungarvan,6,2016,New,All Buyer Types,169056.0
+X35,Dungarvan,6,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,169000.0
+X35,Dungarvan,6,2016,New,Household Buyer - Former Owner-Occupier,169085.0
+X35,Dungarvan,6,2016,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,6,2016,Existing,All Buyer Types,122813.0
+X35,Dungarvan,6,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+X35,Dungarvan,6,2016,Existing,Household Buyer - Former Owner-Occupier,119136.0
+X35,Dungarvan,6,2016,Existing,Household Buyer - Non-Occupier,141500.0
+X35,Dungarvan,7,2016,All Dwelling Statuses,All Buyer Types,174026.0
+X35,Dungarvan,7,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,162278.0
+X35,Dungarvan,7,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,185389.0
+X35,Dungarvan,7,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,107000.0
+X35,Dungarvan,7,2016,New,All Buyer Types,171945.0
+X35,Dungarvan,7,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,173417.0
+X35,Dungarvan,7,2016,New,Household Buyer - Former Owner-Occupier,169002.0
+X35,Dungarvan,7,2016,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2016,Existing,All Buyer Types,174650.0
+X35,Dungarvan,7,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+X35,Dungarvan,7,2016,Existing,Household Buyer - Former Owner-Occupier,187438.0
+X35,Dungarvan,7,2016,Existing,Household Buyer - Non-Occupier,107000.0
+X35,Dungarvan,8,2016,All Dwelling Statuses,All Buyer Types,214167.0
+X35,Dungarvan,8,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+X35,Dungarvan,8,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,321875.0
+X35,Dungarvan,8,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,106667.0
+X35,Dungarvan,8,2016,New,All Buyer Types,174000.0
+X35,Dungarvan,8,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,171999.0
+X35,Dungarvan,8,2016,New,Household Buyer - Former Owner-Occupier,175000.0
+X35,Dungarvan,8,2016,New,Household Buyer - Non-Occupier,175000.0
+X35,Dungarvan,8,2016,Existing,All Buyer Types,234250.0
+X35,Dungarvan,8,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,148000.0
+X35,Dungarvan,8,2016,Existing,Household Buyer - Former Owner-Occupier,370833.0
+X35,Dungarvan,8,2016,Existing,Household Buyer - Non-Occupier,72500.0
+X35,Dungarvan,9,2016,All Dwelling Statuses,All Buyer Types,185775.0
+X35,Dungarvan,9,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,175666.0
+X35,Dungarvan,9,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,201462.0
+X35,Dungarvan,9,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,142375.0
+X35,Dungarvan,9,2016,New,All Buyer Types,174999.0
+X35,Dungarvan,9,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,174999.0
+X35,Dungarvan,9,2016,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,9,2016,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,9,2016,Existing,All Buyer Types,186342.0
+X35,Dungarvan,9,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,176000.0
+X35,Dungarvan,9,2016,Existing,Household Buyer - Former Owner-Occupier,201462.0
+X35,Dungarvan,9,2016,Existing,Household Buyer - Non-Occupier,142375.0
+X35,Dungarvan,10,2016,All Dwelling Statuses,All Buyer Types,202544.0
+X35,Dungarvan,10,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,181698.0
+X35,Dungarvan,10,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,229855.0
+X35,Dungarvan,10,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,203512.0
+X35,Dungarvan,10,2016,New,All Buyer Types,223739.0
+X35,Dungarvan,10,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,232178.0
+X35,Dungarvan,10,2016,New,Household Buyer - Former Owner-Occupier,181628.0
+X35,Dungarvan,10,2016,New,Household Buyer - Non-Occupier,240535.0
+X35,Dungarvan,10,2016,Existing,All Buyer Types,193713.0
+X35,Dungarvan,10,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,151410.0
+X35,Dungarvan,10,2016,Existing,Household Buyer - Former Owner-Occupier,239500.0
+X35,Dungarvan,10,2016,Existing,Household Buyer - Non-Occupier,185000.0
+X35,Dungarvan,11,2016,All Dwelling Statuses,All Buyer Types,184071.0
+X35,Dungarvan,11,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,149750.0
+X35,Dungarvan,11,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178808.0
+X35,Dungarvan,11,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,268500.0
+X35,Dungarvan,11,2016,New,All Buyer Types,175000.0
+X35,Dungarvan,11,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+X35,Dungarvan,11,2016,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,11,2016,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,11,2016,Existing,All Buyer Types,184895.0
+X35,Dungarvan,11,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,141333.0
+X35,Dungarvan,11,2016,Existing,Household Buyer - Former Owner-Occupier,178808.0
+X35,Dungarvan,11,2016,Existing,Household Buyer - Non-Occupier,268500.0
+X35,Dungarvan,12,2016,All Dwelling Statuses,All Buyer Types,136021.0
+X35,Dungarvan,12,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,154801.0
+X35,Dungarvan,12,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,136700.0
+X35,Dungarvan,12,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,112400.0
+X35,Dungarvan,12,2016,New,All Buyer Types,191667.0
+X35,Dungarvan,12,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+X35,Dungarvan,12,2016,New,Household Buyer - Former Owner-Occupier,225000.0
+X35,Dungarvan,12,2016,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,12,2016,Existing,All Buyer Types,125588.0
+X35,Dungarvan,12,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,144702.0
+X35,Dungarvan,12,2016,Existing,Household Buyer - Former Owner-Occupier,124086.0
+X35,Dungarvan,12,2016,Existing,Household Buyer - Non-Occupier,112400.0
+X35,Dungarvan,1,2017,All Dwelling Statuses,All Buyer Types,205671.0
+X35,Dungarvan,1,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,1,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,269341.0
+X35,Dungarvan,1,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,142000.0
+X35,Dungarvan,1,2017,New,All Buyer Types,219207.0
+X35,Dungarvan,1,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,1,2017,New,Household Buyer - Former Owner-Occupier,219207.0
+X35,Dungarvan,1,2017,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,1,2017,Existing,All Buyer Types,204167.0
+X35,Dungarvan,1,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,1,2017,Existing,Household Buyer - Former Owner-Occupier,281875.0
+X35,Dungarvan,1,2017,Existing,Household Buyer - Non-Occupier,142000.0
+X35,Dungarvan,2,2017,All Dwelling Statuses,All Buyer Types,178000.0
+X35,Dungarvan,2,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,2,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178000.0
+X35,Dungarvan,2,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,2,2017,New,All Buyer Types,
+X35,Dungarvan,2,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,2,2017,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,2,2017,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,2,2017,Existing,All Buyer Types,178000.0
+X35,Dungarvan,2,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,2,2017,Existing,Household Buyer - Former Owner-Occupier,178000.0
+X35,Dungarvan,2,2017,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,3,2017,All Dwelling Statuses,All Buyer Types,191987.0
+X35,Dungarvan,3,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+X35,Dungarvan,3,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178700.0
+X35,Dungarvan,3,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,197194.0
+X35,Dungarvan,3,2017,New,All Buyer Types,179387.0
+X35,Dungarvan,3,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,3,2017,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,3,2017,New,Household Buyer - Non-Occupier,179387.0
+X35,Dungarvan,3,2017,Existing,All Buyer Types,193563.0
+X35,Dungarvan,3,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+X35,Dungarvan,3,2017,Existing,Household Buyer - Former Owner-Occupier,178700.0
+X35,Dungarvan,3,2017,Existing,Household Buyer - Non-Occupier,215000.0
+X35,Dungarvan,4,2017,All Dwelling Statuses,All Buyer Types,169154.0
+X35,Dungarvan,4,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,144200.0
+X35,Dungarvan,4,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,250833.0
+X35,Dungarvan,4,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,145100.0
+X35,Dungarvan,4,2017,New,All Buyer Types,184200.0
+X35,Dungarvan,4,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,181000.0
+X35,Dungarvan,4,2017,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,4,2017,New,Household Buyer - Non-Occupier,189000.0
+X35,Dungarvan,4,2017,Existing,All Buyer Types,159750.0
+X35,Dungarvan,4,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,89000.0
+X35,Dungarvan,4,2017,Existing,Household Buyer - Former Owner-Occupier,250833.0
+X35,Dungarvan,4,2017,Existing,Household Buyer - Non-Occupier,115833.0
+X35,Dungarvan,5,2017,All Dwelling Statuses,All Buyer Types,171433.0
+X35,Dungarvan,5,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,152000.0
+X35,Dungarvan,5,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,193938.0
+X35,Dungarvan,5,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,143200.0
+X35,Dungarvan,5,2017,New,All Buyer Types,209500.0
+X35,Dungarvan,5,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,189000.0
+X35,Dungarvan,5,2017,New,Household Buyer - Former Owner-Occupier,230000.0
+X35,Dungarvan,5,2017,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,5,2017,Existing,All Buyer Types,165577.0
+X35,Dungarvan,5,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+X35,Dungarvan,5,2017,Existing,Household Buyer - Former Owner-Occupier,188786.0
+X35,Dungarvan,5,2017,Existing,Household Buyer - Non-Occupier,143200.0
+X35,Dungarvan,6,2017,All Dwelling Statuses,All Buyer Types,165736.0
+X35,Dungarvan,6,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,230000.0
+X35,Dungarvan,6,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,165426.0
+X35,Dungarvan,6,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,135000.0
+X35,Dungarvan,6,2017,New,All Buyer Types,220458.0
+X35,Dungarvan,6,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,230000.0
+X35,Dungarvan,6,2017,New,Household Buyer - Former Owner-Occupier,217278.0
+X35,Dungarvan,6,2017,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,6,2017,Existing,All Buyer Types,138375.0
+X35,Dungarvan,6,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,6,2017,Existing,Household Buyer - Former Owner-Occupier,139500.0
+X35,Dungarvan,6,2017,Existing,Household Buyer - Non-Occupier,135000.0
+X35,Dungarvan,7,2017,All Dwelling Statuses,All Buyer Types,232783.0
+X35,Dungarvan,7,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,146900.0
+X35,Dungarvan,7,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,318667.0
+X35,Dungarvan,7,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2017,New,All Buyer Types,322500.0
+X35,Dungarvan,7,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+X35,Dungarvan,7,2017,New,Household Buyer - Former Owner-Occupier,485000.0
+X35,Dungarvan,7,2017,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2017,Existing,All Buyer Types,214840.0
+X35,Dungarvan,7,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,144280.0
+X35,Dungarvan,7,2017,Existing,Household Buyer - Former Owner-Occupier,285400.0
+X35,Dungarvan,7,2017,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,8,2017,All Dwelling Statuses,All Buyer Types,254266.0
+X35,Dungarvan,8,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,220152.0
+X35,Dungarvan,8,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,305000.0
+X35,Dungarvan,8,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,170000.0
+X35,Dungarvan,8,2017,New,All Buyer Types,242727.0
+X35,Dungarvan,8,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,245455.0
+X35,Dungarvan,8,2017,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,8,2017,New,Household Buyer - Non-Occupier,239999.0
+X35,Dungarvan,8,2017,Existing,All Buyer Types,256364.0
+X35,Dungarvan,8,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,207500.0
+X35,Dungarvan,8,2017,Existing,Household Buyer - Former Owner-Occupier,305000.0
+X35,Dungarvan,8,2017,Existing,Household Buyer - Non-Occupier,135000.0
+X35,Dungarvan,9,2017,All Dwelling Statuses,All Buyer Types,235549.0
+X35,Dungarvan,9,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,190993.0
+X35,Dungarvan,9,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,262500.0
+X35,Dungarvan,9,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,136000.0
+X35,Dungarvan,9,2017,New,All Buyer Types,181987.0
+X35,Dungarvan,9,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,181987.0
+X35,Dungarvan,9,2017,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,9,2017,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,9,2017,Existing,All Buyer Types,241500.0
+X35,Dungarvan,9,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+X35,Dungarvan,9,2017,Existing,Household Buyer - Former Owner-Occupier,262500.0
+X35,Dungarvan,9,2017,Existing,Household Buyer - Non-Occupier,136000.0
+X35,Dungarvan,10,2017,All Dwelling Statuses,All Buyer Types,186615.0
+X35,Dungarvan,10,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,177000.0
+X35,Dungarvan,10,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,175967.0
+X35,Dungarvan,10,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,214667.0
+X35,Dungarvan,10,2017,New,All Buyer Types,200167.0
+X35,Dungarvan,10,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,10,2017,New,Household Buyer - Former Owner-Occupier,200167.0
+X35,Dungarvan,10,2017,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,10,2017,Existing,All Buyer Types,185260.0
+X35,Dungarvan,10,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,177000.0
+X35,Dungarvan,10,2017,Existing,Household Buyer - Former Owner-Occupier,171933.0
+X35,Dungarvan,10,2017,Existing,Household Buyer - Non-Occupier,214667.0
+X35,Dungarvan,11,2017,All Dwelling Statuses,All Buyer Types,220933.0
+X35,Dungarvan,11,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+X35,Dungarvan,11,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,240300.0
+X35,Dungarvan,11,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,163667.0
+X35,Dungarvan,11,2017,New,All Buyer Types,265000.0
+X35,Dungarvan,11,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,11,2017,New,Household Buyer - Former Owner-Occupier,265000.0
+X35,Dungarvan,11,2017,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,11,2017,Existing,All Buyer Types,214154.0
+X35,Dungarvan,11,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+X35,Dungarvan,11,2017,Existing,Household Buyer - Former Owner-Occupier,234125.0
+X35,Dungarvan,11,2017,Existing,Household Buyer - Non-Occupier,163667.0
+X35,Dungarvan,12,2017,All Dwelling Statuses,All Buyer Types,245482.0
+X35,Dungarvan,12,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,241667.0
+X35,Dungarvan,12,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,211509.0
+X35,Dungarvan,12,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,307795.0
+X35,Dungarvan,12,2017,New,All Buyer Types,299949.0
+X35,Dungarvan,12,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,240000.0
+X35,Dungarvan,12,2017,New,Household Buyer - Former Owner-Occupier,255188.0
+X35,Dungarvan,12,2017,New,Household Buyer - Non-Occupier,494179.0
+X35,Dungarvan,12,2017,Existing,All Buyer Types,215222.0
+X35,Dungarvan,12,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,242500.0
+X35,Dungarvan,12,2017,Existing,Household Buyer - Former Owner-Occupier,178750.0
+X35,Dungarvan,12,2017,Existing,Household Buyer - Non-Occupier,245667.0
+X35,Dungarvan,1,2018,All Dwelling Statuses,All Buyer Types,175475.0
+X35,Dungarvan,1,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,166000.0
+X35,Dungarvan,1,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,187739.0
+X35,Dungarvan,1,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,158750.0
+X35,Dungarvan,1,2018,New,All Buyer Types,260170.0
+X35,Dungarvan,1,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,1,2018,New,Household Buyer - Former Owner-Occupier,260170.0
+X35,Dungarvan,1,2018,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,1,2018,Existing,All Buyer Types,168417.0
+X35,Dungarvan,1,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,166000.0
+X35,Dungarvan,1,2018,Existing,Household Buyer - Former Owner-Occupier,175667.0
+X35,Dungarvan,1,2018,Existing,Household Buyer - Non-Occupier,158750.0
+X35,Dungarvan,2,2018,All Dwelling Statuses,All Buyer Types,222056.0
+X35,Dungarvan,2,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,121750.0
+X35,Dungarvan,2,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,253323.0
+X35,Dungarvan,2,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,110000.0
+X35,Dungarvan,2,2018,New,All Buyer Types,417113.0
+X35,Dungarvan,2,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,2,2018,New,Household Buyer - Former Owner-Occupier,417113.0
+X35,Dungarvan,2,2018,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,2,2018,Existing,All Buyer Types,186591.0
+X35,Dungarvan,2,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,121750.0
+X35,Dungarvan,2,2018,Existing,Household Buyer - Former Owner-Occupier,212375.0
+X35,Dungarvan,2,2018,Existing,Household Buyer - Non-Occupier,110000.0
+X35,Dungarvan,3,2018,All Dwelling Statuses,All Buyer Types,241192.0
+X35,Dungarvan,3,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,214395.0
+X35,Dungarvan,3,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,350500.0
+X35,Dungarvan,3,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,163500.0
+X35,Dungarvan,3,2018,New,All Buyer Types,320395.0
+X35,Dungarvan,3,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,225592.0
+X35,Dungarvan,3,2018,New,Household Buyer - Former Owner-Occupier,509999.0
+X35,Dungarvan,3,2018,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,3,2018,Existing,All Buyer Types,219591.0
+X35,Dungarvan,3,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,192000.0
+X35,Dungarvan,3,2018,Existing,Household Buyer - Former Owner-Occupier,310625.0
+X35,Dungarvan,3,2018,Existing,Household Buyer - Non-Occupier,163500.0
+X35,Dungarvan,4,2018,All Dwelling Statuses,All Buyer Types,249562.0
+X35,Dungarvan,4,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,257500.0
+X35,Dungarvan,4,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,295541.0
+X35,Dungarvan,4,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,176625.0
+X35,Dungarvan,4,2018,New,All Buyer Types,224416.0
+X35,Dungarvan,4,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,4,2018,New,Household Buyer - Former Owner-Occupier,224416.0
+X35,Dungarvan,4,2018,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,4,2018,Existing,All Buyer Types,257944.0
+X35,Dungarvan,4,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,257500.0
+X35,Dungarvan,4,2018,Existing,Household Buyer - Former Owner-Occupier,366667.0
+X35,Dungarvan,4,2018,Existing,Household Buyer - Non-Occupier,176625.0
+X35,Dungarvan,5,2018,All Dwelling Statuses,All Buyer Types,188350.0
+X35,Dungarvan,5,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,170661.0
+X35,Dungarvan,5,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,208882.0
+X35,Dungarvan,5,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,159129.0
+X35,Dungarvan,5,2018,New,All Buyer Types,217138.0
+X35,Dungarvan,5,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,196178.0
+X35,Dungarvan,5,2018,New,Household Buyer - Former Owner-Occupier,239410.0
+X35,Dungarvan,5,2018,New,Household Buyer - Non-Occupier,214515.0
+X35,Dungarvan,5,2018,Existing,All Buyer Types,178068.0
+X35,Dungarvan,5,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,153650.0
+X35,Dungarvan,5,2018,Existing,Household Buyer - Former Owner-Occupier,201250.0
+X35,Dungarvan,5,2018,Existing,Household Buyer - Non-Occupier,140667.0
+X35,Dungarvan,6,2018,All Dwelling Statuses,All Buyer Types,218206.0
+X35,Dungarvan,6,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,176000.0
+X35,Dungarvan,6,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,251813.0
+X35,Dungarvan,6,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,203750.0
+X35,Dungarvan,6,2018,New,All Buyer Types,239500.0
+X35,Dungarvan,6,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,188999.0
+X35,Dungarvan,6,2018,New,Household Buyer - Former Owner-Occupier,290000.0
+X35,Dungarvan,6,2018,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,6,2018,Existing,All Buyer Types,215367.0
+X35,Dungarvan,6,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,172750.0
+X35,Dungarvan,6,2018,Existing,Household Buyer - Former Owner-Occupier,246357.0
+X35,Dungarvan,6,2018,Existing,Household Buyer - Non-Occupier,203750.0
+X35,Dungarvan,7,2018,All Dwelling Statuses,All Buyer Types,206140.0
+X35,Dungarvan,7,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,214625.0
+X35,Dungarvan,7,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,248357.0
+X35,Dungarvan,7,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,116857.0
+X35,Dungarvan,7,2018,New,All Buyer Types,361998.0
+X35,Dungarvan,7,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,7,2018,New,Household Buyer - Former Owner-Occupier,361998.0
+X35,Dungarvan,7,2018,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2018,Existing,All Buyer Types,176452.0
+X35,Dungarvan,7,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,214625.0
+X35,Dungarvan,7,2018,Existing,Household Buyer - Former Owner-Occupier,202900.0
+X35,Dungarvan,7,2018,Existing,Household Buyer - Non-Occupier,116857.0
+X35,Dungarvan,8,2018,All Dwelling Statuses,All Buyer Types,221250.0
+X35,Dungarvan,8,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,172000.0
+X35,Dungarvan,8,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,246312.0
+X35,Dungarvan,8,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,70000.0
+X35,Dungarvan,8,2018,New,All Buyer Types,379999.0
+X35,Dungarvan,8,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,8,2018,New,Household Buyer - Former Owner-Occupier,379999.0
+X35,Dungarvan,8,2018,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,8,2018,Existing,All Buyer Types,181563.0
+X35,Dungarvan,8,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,172000.0
+X35,Dungarvan,8,2018,Existing,Household Buyer - Former Owner-Occupier,201750.0
+X35,Dungarvan,8,2018,Existing,Household Buyer - Non-Occupier,70000.0
+X35,Dungarvan,9,2018,All Dwelling Statuses,All Buyer Types,205874.0
+X35,Dungarvan,9,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,213000.0
+X35,Dungarvan,9,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,241467.0
+X35,Dungarvan,9,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,115104.0
+X35,Dungarvan,9,2018,New,All Buyer Types,319925.0
+X35,Dungarvan,9,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,239999.0
+X35,Dungarvan,9,2018,New,Household Buyer - Former Owner-Occupier,346566.0
+X35,Dungarvan,9,2018,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,9,2018,Existing,All Buyer Types,175461.0
+X35,Dungarvan,9,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,207600.0
+X35,Dungarvan,9,2018,Existing,Household Buyer - Former Owner-Occupier,188917.0
+X35,Dungarvan,9,2018,Existing,Household Buyer - Non-Occupier,115104.0
+X35,Dungarvan,10,2018,All Dwelling Statuses,All Buyer Types,166585.0
+X35,Dungarvan,10,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,190167.0
+X35,Dungarvan,10,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,177331.0
+X35,Dungarvan,10,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,108200.0
+X35,Dungarvan,10,2018,New,All Buyer Types,323165.0
+X35,Dungarvan,10,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,239999.0
+X35,Dungarvan,10,2018,New,Household Buyer - Former Owner-Occupier,406330.0
+X35,Dungarvan,10,2018,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,10,2018,Existing,All Buyer Types,152970.0
+X35,Dungarvan,10,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180200.0
+X35,Dungarvan,10,2018,Existing,Household Buyer - Former Owner-Occupier,159715.0
+X35,Dungarvan,10,2018,Existing,Household Buyer - Non-Occupier,108200.0
+X35,Dungarvan,11,2018,All Dwelling Statuses,All Buyer Types,166520.0
+X35,Dungarvan,11,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,218280.0
+X35,Dungarvan,11,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,63000.0
+X35,Dungarvan,11,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,11,2018,New,All Buyer Types,231040.0
+X35,Dungarvan,11,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,231040.0
+X35,Dungarvan,11,2018,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,11,2018,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,11,2018,Existing,All Buyer Types,102000.0
+X35,Dungarvan,11,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+X35,Dungarvan,11,2018,Existing,Household Buyer - Former Owner-Occupier,63000.0
+X35,Dungarvan,11,2018,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,12,2018,All Dwelling Statuses,All Buyer Types,210253.0
+X35,Dungarvan,12,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,211776.0
+X35,Dungarvan,12,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,230679.0
+X35,Dungarvan,12,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,154400.0
+X35,Dungarvan,12,2018,New,All Buyer Types,258964.0
+X35,Dungarvan,12,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,235993.0
+X35,Dungarvan,12,2018,New,Household Buyer - Former Owner-Occupier,274278.0
+X35,Dungarvan,12,2018,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,12,2018,Existing,All Buyer Types,199182.0
+X35,Dungarvan,12,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,204857.0
+X35,Dungarvan,12,2018,Existing,Household Buyer - Former Owner-Occupier,217600.0
+X35,Dungarvan,12,2018,Existing,Household Buyer - Non-Occupier,154400.0
+X35,Dungarvan,1,2019,All Dwelling Statuses,All Buyer Types,188233.0
+X35,Dungarvan,1,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,213375.0
+X35,Dungarvan,1,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197438.0
+X35,Dungarvan,1,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,130167.0
+X35,Dungarvan,1,2019,New,All Buyer Types,286000.0
+X35,Dungarvan,1,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,286000.0
+X35,Dungarvan,1,2019,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,1,2019,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,1,2019,Existing,All Buyer Types,181250.0
+X35,Dungarvan,1,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,189167.0
+X35,Dungarvan,1,2019,Existing,Household Buyer - Former Owner-Occupier,197438.0
+X35,Dungarvan,1,2019,Existing,Household Buyer - Non-Occupier,130167.0
+X35,Dungarvan,2,2019,All Dwelling Statuses,All Buyer Types,191352.0
+X35,Dungarvan,2,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,228986.0
+X35,Dungarvan,2,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,184242.0
+X35,Dungarvan,2,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,183833.0
+X35,Dungarvan,2,2019,New,All Buyer Types,234883.0
+X35,Dungarvan,2,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,261981.0
+X35,Dungarvan,2,2019,New,Household Buyer - Former Owner-Occupier,207785.0
+X35,Dungarvan,2,2019,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,2,2019,Existing,All Buyer Types,177605.0
+X35,Dungarvan,2,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+X35,Dungarvan,2,2019,Existing,Household Buyer - Former Owner-Occupier,179533.0
+X35,Dungarvan,2,2019,Existing,Household Buyer - Non-Occupier,183833.0
+X35,Dungarvan,3,2019,All Dwelling Statuses,All Buyer Types,216310.0
+X35,Dungarvan,3,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,291667.0
+X35,Dungarvan,3,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,238536.0
+X35,Dungarvan,3,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,145292.0
+X35,Dungarvan,3,2019,New,All Buyer Types,219675.0
+X35,Dungarvan,3,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+X35,Dungarvan,3,2019,New,Household Buyer - Former Owner-Occupier,246665.0
+X35,Dungarvan,3,2019,New,Household Buyer - Non-Occupier,174583.0
+X35,Dungarvan,3,2019,Existing,All Buyer Types,212944.0
+X35,Dungarvan,3,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,327500.0
+X35,Dungarvan,3,2019,Existing,Household Buyer - Former Owner-Occupier,228375.0
+X35,Dungarvan,3,2019,Existing,Household Buyer - Non-Occupier,116000.0
+X35,Dungarvan,4,2019,All Dwelling Statuses,All Buyer Types,205619.0
+X35,Dungarvan,4,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,265650.0
+X35,Dungarvan,4,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,225043.0
+X35,Dungarvan,4,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,132639.0
+X35,Dungarvan,4,2019,New,All Buyer Types,248836.0
+X35,Dungarvan,4,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,266199.0
+X35,Dungarvan,4,2019,New,Household Buyer - Former Owner-Occupier,250625.0
+X35,Dungarvan,4,2019,New,Household Buyer - Non-Occupier,228791.0
+X35,Dungarvan,4,2019,Existing,All Buyer Types,172006.0
+X35,Dungarvan,4,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,265375.0
+X35,Dungarvan,4,2019,Existing,Household Buyer - Former Owner-Occupier,148300.0
+X35,Dungarvan,4,2019,Existing,Household Buyer - Non-Occupier,84563.0
+X35,Dungarvan,5,2019,All Dwelling Statuses,All Buyer Types,231730.0
+X35,Dungarvan,5,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,267650.0
+X35,Dungarvan,5,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,226252.0
+X35,Dungarvan,5,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,85000.0
+X35,Dungarvan,5,2019,New,All Buyer Types,250336.0
+X35,Dungarvan,5,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,246500.0
+X35,Dungarvan,5,2019,New,Household Buyer - Former Owner-Occupier,258009.0
+X35,Dungarvan,5,2019,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,5,2019,Existing,All Buyer Types,225528.0
+X35,Dungarvan,5,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,281750.0
+X35,Dungarvan,5,2019,Existing,Household Buyer - Former Owner-Occupier,219900.0
+X35,Dungarvan,5,2019,Existing,Household Buyer - Non-Occupier,85000.0
+X35,Dungarvan,6,2019,All Dwelling Statuses,All Buyer Types,280625.0
+X35,Dungarvan,6,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+X35,Dungarvan,6,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,415500.0
+X35,Dungarvan,6,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,207125.0
+X35,Dungarvan,6,2019,New,All Buyer Types,267499.0
+X35,Dungarvan,6,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,6,2019,New,Household Buyer - Former Owner-Occupier,200000.0
+X35,Dungarvan,6,2019,New,Household Buyer - Non-Occupier,334999.0
+X35,Dungarvan,6,2019,Existing,All Buyer Types,285000.0
+X35,Dungarvan,6,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+X35,Dungarvan,6,2019,Existing,Household Buyer - Former Owner-Occupier,523250.0
+X35,Dungarvan,6,2019,Existing,Household Buyer - Non-Occupier,164500.0
+X35,Dungarvan,7,2019,All Dwelling Statuses,All Buyer Types,228476.0
+X35,Dungarvan,7,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,215761.0
+X35,Dungarvan,7,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,260333.0
+X35,Dungarvan,7,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,158333.0
+X35,Dungarvan,7,2019,New,All Buyer Types,252613.0
+X35,Dungarvan,7,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,253266.0
+X35,Dungarvan,7,2019,New,Household Buyer - Former Owner-Occupier,250000.0
+X35,Dungarvan,7,2019,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2019,Existing,All Buyer Types,219192.0
+X35,Dungarvan,7,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140750.0
+X35,Dungarvan,7,2019,Existing,Household Buyer - Former Owner-Occupier,261625.0
+X35,Dungarvan,7,2019,Existing,Household Buyer - Non-Occupier,158333.0
+X35,Dungarvan,8,2019,All Dwelling Statuses,All Buyer Types,234875.0
+X35,Dungarvan,8,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,263571.0
+X35,Dungarvan,8,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,232536.0
+X35,Dungarvan,8,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,178833.0
+X35,Dungarvan,8,2019,New,All Buyer Types,312250.0
+X35,Dungarvan,8,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,312250.0
+X35,Dungarvan,8,2019,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,8,2019,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,8,2019,Existing,All Buyer Types,219400.0
+X35,Dungarvan,8,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,198667.0
+X35,Dungarvan,8,2019,Existing,Household Buyer - Former Owner-Occupier,232536.0
+X35,Dungarvan,8,2019,Existing,Household Buyer - Non-Occupier,178833.0
+X35,Dungarvan,9,2019,All Dwelling Statuses,All Buyer Types,253341.0
+X35,Dungarvan,9,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,219500.0
+X35,Dungarvan,9,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,261135.0
+X35,Dungarvan,9,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,293333.0
+X35,Dungarvan,9,2019,New,All Buyer Types,468674.0
+X35,Dungarvan,9,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,239999.0
+X35,Dungarvan,9,2019,New,Household Buyer - Former Owner-Occupier,583012.0
+X35,Dungarvan,9,2019,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,9,2019,Existing,All Buyer Types,223977.0
+X35,Dungarvan,9,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,216083.0
+X35,Dungarvan,9,2019,Existing,Household Buyer - Former Owner-Occupier,211615.0
+X35,Dungarvan,9,2019,Existing,Household Buyer - Non-Occupier,293333.0
+X35,Dungarvan,10,2019,All Dwelling Statuses,All Buyer Types,211861.0
+X35,Dungarvan,10,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210130.0
+X35,Dungarvan,10,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,219337.0
+X35,Dungarvan,10,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,174550.0
+X35,Dungarvan,10,2019,New,All Buyer Types,262432.0
+X35,Dungarvan,10,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,248098.0
+X35,Dungarvan,10,2019,New,Household Buyer - Former Owner-Occupier,312599.0
+X35,Dungarvan,10,2019,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,10,2019,Existing,All Buyer Types,176850.0
+X35,Dungarvan,10,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165833.0
+X35,Dungarvan,10,2019,Existing,Household Buyer - Former Owner-Occupier,188250.0
+X35,Dungarvan,10,2019,Existing,Household Buyer - Non-Occupier,174550.0
+X35,Dungarvan,11,2019,All Dwelling Statuses,All Buyer Types,228853.0
+X35,Dungarvan,11,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,214406.0
+X35,Dungarvan,11,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,339115.0
+X35,Dungarvan,11,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,121250.0
+X35,Dungarvan,11,2019,New,All Buyer Types,293432.0
+X35,Dungarvan,11,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,250650.0
+X35,Dungarvan,11,2019,New,Household Buyer - Former Owner-Occupier,507345.0
+X35,Dungarvan,11,2019,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,11,2019,Existing,All Buyer Types,173500.0
+X35,Dungarvan,11,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,154000.0
+X35,Dungarvan,11,2019,Existing,Household Buyer - Former Owner-Occupier,255000.0
+X35,Dungarvan,11,2019,Existing,Household Buyer - Non-Occupier,121250.0
+X35,Dungarvan,12,2019,All Dwelling Statuses,All Buyer Types,208457.0
+X35,Dungarvan,12,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,209983.0
+X35,Dungarvan,12,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,216390.0
+X35,Dungarvan,12,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,166500.0
+X35,Dungarvan,12,2019,New,All Buyer Types,253342.0
+X35,Dungarvan,12,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,239975.0
+X35,Dungarvan,12,2019,New,Household Buyer - Former Owner-Occupier,260025.0
+X35,Dungarvan,12,2019,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,12,2019,Existing,All Buyer Types,178533.0
+X35,Dungarvan,12,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+X35,Dungarvan,12,2019,Existing,Household Buyer - Former Owner-Occupier,187300.0
+X35,Dungarvan,12,2019,Existing,Household Buyer - Non-Occupier,166500.0
+X35,Dungarvan,1,2020,All Dwelling Statuses,All Buyer Types,206770.0
+X35,Dungarvan,1,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,240000.0
+X35,Dungarvan,1,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,216750.0
+X35,Dungarvan,1,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,135850.0
+X35,Dungarvan,1,2020,New,All Buyer Types,273500.0
+X35,Dungarvan,1,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,1,2020,New,Household Buyer - Former Owner-Occupier,273500.0
+X35,Dungarvan,1,2020,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,1,2020,Existing,All Buyer Types,196504.0
+X35,Dungarvan,1,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,240000.0
+X35,Dungarvan,1,2020,Existing,Household Buyer - Former Owner-Occupier,197833.0
+X35,Dungarvan,1,2020,Existing,Household Buyer - Non-Occupier,135850.0
+X35,Dungarvan,2,2020,All Dwelling Statuses,All Buyer Types,232009.0
+X35,Dungarvan,2,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,238444.0
+X35,Dungarvan,2,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,232695.0
+X35,Dungarvan,2,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,213333.0
+X35,Dungarvan,2,2020,New,All Buyer Types,327246.0
+X35,Dungarvan,2,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,319554.0
+X35,Dungarvan,2,2020,New,Household Buyer - Former Owner-Occupier,332375.0
+X35,Dungarvan,2,2020,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,2,2020,Existing,All Buyer Types,209333.0
+X35,Dungarvan,2,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,206000.0
+X35,Dungarvan,2,2020,Existing,Household Buyer - Former Owner-Occupier,209692.0
+X35,Dungarvan,2,2020,Existing,Household Buyer - Non-Occupier,213333.0
+X35,Dungarvan,3,2020,All Dwelling Statuses,All Buyer Types,215577.0
+X35,Dungarvan,3,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,238500.0
+X35,Dungarvan,3,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,220714.0
+X35,Dungarvan,3,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,151750.0
+X35,Dungarvan,3,2020,New,All Buyer Types,
+X35,Dungarvan,3,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,3,2020,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,3,2020,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,3,2020,Existing,All Buyer Types,215577.0
+X35,Dungarvan,3,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,238500.0
+X35,Dungarvan,3,2020,Existing,Household Buyer - Former Owner-Occupier,220714.0
+X35,Dungarvan,3,2020,Existing,Household Buyer - Non-Occupier,151750.0
+X35,Dungarvan,4,2020,All Dwelling Statuses,All Buyer Types,205153.0
+X35,Dungarvan,4,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,222800.0
+X35,Dungarvan,4,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,251458.0
+X35,Dungarvan,4,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,114000.0
+X35,Dungarvan,4,2020,New,All Buyer Types,240000.0
+X35,Dungarvan,4,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,240000.0
+X35,Dungarvan,4,2020,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,4,2020,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,4,2020,Existing,All Buyer Types,198183.0
+X35,Dungarvan,4,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,211333.0
+X35,Dungarvan,4,2020,Existing,Household Buyer - Former Owner-Occupier,251458.0
+X35,Dungarvan,4,2020,Existing,Household Buyer - Non-Occupier,114000.0
+X35,Dungarvan,5,2020,All Dwelling Statuses,All Buyer Types,177143.0
+X35,Dungarvan,5,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,138000.0
+X35,Dungarvan,5,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,142000.0
+X35,Dungarvan,5,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,400000.0
+X35,Dungarvan,5,2020,New,All Buyer Types,
+X35,Dungarvan,5,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,5,2020,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,5,2020,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,5,2020,Existing,All Buyer Types,177143.0
+X35,Dungarvan,5,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,138000.0
+X35,Dungarvan,5,2020,Existing,Household Buyer - Former Owner-Occupier,142000.0
+X35,Dungarvan,5,2020,Existing,Household Buyer - Non-Occupier,400000.0
+X35,Dungarvan,6,2020,All Dwelling Statuses,All Buyer Types,176498.0
+X35,Dungarvan,6,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,166500.0
+X35,Dungarvan,6,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,221479.0
+X35,Dungarvan,6,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,138183.0
+X35,Dungarvan,6,2020,New,All Buyer Types,407437.0
+X35,Dungarvan,6,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,6,2020,New,Household Buyer - Former Owner-Occupier,407437.0
+X35,Dungarvan,6,2020,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,6,2020,Existing,All Buyer Types,143507.0
+X35,Dungarvan,6,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,166500.0
+X35,Dungarvan,6,2020,Existing,Household Buyer - Former Owner-Occupier,128500.0
+X35,Dungarvan,6,2020,Existing,Household Buyer - Non-Occupier,138183.0
+X35,Dungarvan,7,2020,All Dwelling Statuses,All Buyer Types,217415.0
+X35,Dungarvan,7,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,224032.0
+X35,Dungarvan,7,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,223750.0
+X35,Dungarvan,7,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,209700.0
+X35,Dungarvan,7,2020,New,All Buyer Types,224032.0
+X35,Dungarvan,7,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,224032.0
+X35,Dungarvan,7,2020,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,7,2020,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2020,Existing,All Buyer Types,215944.0
+X35,Dungarvan,7,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,7,2020,Existing,Household Buyer - Former Owner-Occupier,223750.0
+X35,Dungarvan,7,2020,Existing,Household Buyer - Non-Occupier,209700.0
+X35,Dungarvan,8,2020,All Dwelling Statuses,All Buyer Types,272420.0
+X35,Dungarvan,8,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,238667.0
+X35,Dungarvan,8,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,283671.0
+X35,Dungarvan,8,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,8,2020,New,All Buyer Types,358408.0
+X35,Dungarvan,8,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,289000.0
+X35,Dungarvan,8,2020,New,Household Buyer - Former Owner-Occupier,375759.0
+X35,Dungarvan,8,2020,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,8,2020,Existing,All Buyer Types,211000.0
+X35,Dungarvan,8,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,213500.0
+X35,Dungarvan,8,2020,Existing,Household Buyer - Former Owner-Occupier,210000.0
+X35,Dungarvan,8,2020,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,9,2020,All Dwelling Statuses,All Buyer Types,213071.0
+X35,Dungarvan,9,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+X35,Dungarvan,9,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,224109.0
+X35,Dungarvan,9,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,175667.0
+X35,Dungarvan,9,2020,New,All Buyer Types,249700.0
+X35,Dungarvan,9,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,9,2020,New,Household Buyer - Former Owner-Occupier,249700.0
+X35,Dungarvan,9,2020,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,9,2020,Existing,All Buyer Types,210781.0
+X35,Dungarvan,9,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+X35,Dungarvan,9,2020,Existing,Household Buyer - Former Owner-Occupier,221550.0
+X35,Dungarvan,9,2020,Existing,Household Buyer - Non-Occupier,175667.0
+X35,Dungarvan,10,2020,All Dwelling Statuses,All Buyer Types,203488.0
+X35,Dungarvan,10,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,232500.0
+X35,Dungarvan,10,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,219007.0
+X35,Dungarvan,10,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,165367.0
+X35,Dungarvan,10,2020,New,All Buyer Types,326424.0
+X35,Dungarvan,10,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,10,2020,New,Household Buyer - Former Owner-Occupier,308036.0
+X35,Dungarvan,10,2020,New,Household Buyer - Non-Occupier,363200.0
+X35,Dungarvan,10,2020,Existing,All Buyer Types,180438.0
+X35,Dungarvan,10,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,232500.0
+X35,Dungarvan,10,2020,Existing,Household Buyer - Former Owner-Occupier,199222.0
+X35,Dungarvan,10,2020,Existing,Household Buyer - Non-Occupier,125800.0
+X35,Dungarvan,11,2020,All Dwelling Statuses,All Buyer Types,259533.0
+X35,Dungarvan,11,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,265939.0
+X35,Dungarvan,11,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,275167.0
+X35,Dungarvan,11,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,230124.0
+X35,Dungarvan,11,2020,New,All Buyer Types,285319.0
+X35,Dungarvan,11,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,294898.0
+X35,Dungarvan,11,2020,New,Household Buyer - Former Owner-Occupier,295468.0
+X35,Dungarvan,11,2020,New,Household Buyer - Non-Occupier,215988.0
+X35,Dungarvan,11,2020,Existing,All Buyer Types,248072.0
+X35,Dungarvan,11,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,222500.0
+X35,Dungarvan,11,2020,Existing,Household Buyer - Former Owner-Occupier,266144.0
+X35,Dungarvan,11,2020,Existing,Household Buyer - Non-Occupier,232143.0
+X35,Dungarvan,12,2020,All Dwelling Statuses,All Buyer Types,294617.0
+X35,Dungarvan,12,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,256702.0
+X35,Dungarvan,12,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,314623.0
+X35,Dungarvan,12,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,301667.0
+X35,Dungarvan,12,2020,New,All Buyer Types,345826.0
+X35,Dungarvan,12,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,299607.0
+X35,Dungarvan,12,2020,New,Household Buyer - Former Owner-Occupier,380491.0
+X35,Dungarvan,12,2020,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,12,2020,Existing,All Buyer Types,277548.0
+X35,Dungarvan,12,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,235250.0
+X35,Dungarvan,12,2020,Existing,Household Buyer - Former Owner-Occupier,292667.0
+X35,Dungarvan,12,2020,Existing,Household Buyer - Non-Occupier,301667.0
+X35,Dungarvan,1,2021,All Dwelling Statuses,All Buyer Types,176541.0
+X35,Dungarvan,1,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,144100.0
+X35,Dungarvan,1,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,230508.0
+X35,Dungarvan,1,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,163125.0
+X35,Dungarvan,1,2021,New,All Buyer Types,348532.0
+X35,Dungarvan,1,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,1,2021,New,Household Buyer - Former Owner-Occupier,348532.0
+X35,Dungarvan,1,2021,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,1,2021,Existing,All Buyer Types,162208.0
+X35,Dungarvan,1,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,144100.0
+X35,Dungarvan,1,2021,Existing,Household Buyer - Former Owner-Occupier,191167.0
+X35,Dungarvan,1,2021,Existing,Household Buyer - Non-Occupier,163125.0
+X35,Dungarvan,2,2021,All Dwelling Statuses,All Buyer Types,202306.0
+X35,Dungarvan,2,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180375.0
+X35,Dungarvan,2,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,260400.0
+X35,Dungarvan,2,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,179300.0
+X35,Dungarvan,2,2021,New,All Buyer Types,220000.0
+X35,Dungarvan,2,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+X35,Dungarvan,2,2021,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,2,2021,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,2,2021,Existing,All Buyer Types,201265.0
+X35,Dungarvan,2,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,174714.0
+X35,Dungarvan,2,2021,Existing,Household Buyer - Former Owner-Occupier,260400.0
+X35,Dungarvan,2,2021,Existing,Household Buyer - Non-Occupier,179300.0
+X35,Dungarvan,3,2021,All Dwelling Statuses,All Buyer Types,218377.0
+X35,Dungarvan,3,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,257500.0
+X35,Dungarvan,3,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,229826.0
+X35,Dungarvan,3,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,175917.0
+X35,Dungarvan,3,2021,New,All Buyer Types,287000.0
+X35,Dungarvan,3,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+X35,Dungarvan,3,2021,New,Household Buyer - Former Owner-Occupier,279000.0
+X35,Dungarvan,3,2021,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,3,2021,Existing,All Buyer Types,211153.0
+X35,Dungarvan,3,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,238750.0
+X35,Dungarvan,3,2021,Existing,Household Buyer - Former Owner-Occupier,225355.0
+X35,Dungarvan,3,2021,Existing,Household Buyer - Non-Occupier,175917.0
+X35,Dungarvan,4,2021,All Dwelling Statuses,All Buyer Types,205056.0
+X35,Dungarvan,4,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,209500.0
+X35,Dungarvan,4,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,213833.0
+X35,Dungarvan,4,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,190408.0
+X35,Dungarvan,4,2021,New,All Buyer Types,192817.0
+X35,Dungarvan,4,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,4,2021,New,Household Buyer - Former Owner-Occupier,272000.0
+X35,Dungarvan,4,2021,New,Household Buyer - Non-Occupier,153225.0
+X35,Dungarvan,4,2021,Existing,All Buyer Types,207679.0
+X35,Dungarvan,4,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,209500.0
+X35,Dungarvan,4,2021,Existing,Household Buyer - Former Owner-Occupier,206563.0
+X35,Dungarvan,4,2021,Existing,Household Buyer - Non-Occupier,209000.0
+X35,Dungarvan,5,2021,All Dwelling Statuses,All Buyer Types,221088.0
+X35,Dungarvan,5,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,280625.0
+X35,Dungarvan,5,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,222375.0
+X35,Dungarvan,5,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,171400.0
+X35,Dungarvan,5,2021,New,All Buyer Types,235000.0
+X35,Dungarvan,5,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,235000.0
+X35,Dungarvan,5,2021,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,5,2021,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,5,2021,Existing,All Buyer Types,220219.0
+X35,Dungarvan,5,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,295833.0
+X35,Dungarvan,5,2021,Existing,Household Buyer - Former Owner-Occupier,222375.0
+X35,Dungarvan,5,2021,Existing,Household Buyer - Non-Occupier,171400.0
+X35,Dungarvan,6,2021,All Dwelling Statuses,All Buyer Types,238620.0
+X35,Dungarvan,6,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,218333.0
+X35,Dungarvan,6,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,242458.0
+X35,Dungarvan,6,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,246016.0
+X35,Dungarvan,6,2021,New,All Buyer Types,276766.0
+X35,Dungarvan,6,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,6,2021,New,Household Buyer - Former Owner-Occupier,279000.0
+X35,Dungarvan,6,2021,New,Household Buyer - Non-Occupier,274532.0
+X35,Dungarvan,6,2021,Existing,All Buyer Types,233533.0
+X35,Dungarvan,6,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,218333.0
+X35,Dungarvan,6,2021,Existing,Household Buyer - Former Owner-Occupier,239136.0
+X35,Dungarvan,6,2021,Existing,Household Buyer - Non-Occupier,217500.0
+X35,Dungarvan,7,2021,All Dwelling Statuses,All Buyer Types,290000.0
+X35,Dungarvan,7,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,221000.0
+X35,Dungarvan,7,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,355273.0
+X35,Dungarvan,7,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,214000.0
+X35,Dungarvan,7,2021,New,All Buyer Types,278500.0
+X35,Dungarvan,7,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,272000.0
+X35,Dungarvan,7,2021,New,Household Buyer - Former Owner-Occupier,285001.0
+X35,Dungarvan,7,2021,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2021,Existing,All Buyer Types,291211.0
+X35,Dungarvan,7,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210800.0
+X35,Dungarvan,7,2021,Existing,Household Buyer - Former Owner-Occupier,362300.0
+X35,Dungarvan,7,2021,Existing,Household Buyer - Non-Occupier,214000.0
+X35,Dungarvan,8,2021,All Dwelling Statuses,All Buyer Types,272165.0
+X35,Dungarvan,8,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,263000.0
+X35,Dungarvan,8,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,292967.0
+X35,Dungarvan,8,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+X35,Dungarvan,8,2021,New,All Buyer Types,277806.0
+X35,Dungarvan,8,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,269000.0
+X35,Dungarvan,8,2021,New,Household Buyer - Former Owner-Occupier,284410.0
+X35,Dungarvan,8,2021,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,8,2021,Existing,All Buyer Types,267778.0
+X35,Dungarvan,8,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+X35,Dungarvan,8,2021,Existing,Household Buyer - Former Owner-Occupier,297857.0
+X35,Dungarvan,8,2021,Existing,Household Buyer - Non-Occupier,80000.0
+X35,Dungarvan,9,2021,All Dwelling Statuses,All Buyer Types,266759.0
+X35,Dungarvan,9,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,284172.0
+X35,Dungarvan,9,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,286778.0
+X35,Dungarvan,9,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,216417.0
+X35,Dungarvan,9,2021,New,All Buyer Types,350300.0
+X35,Dungarvan,9,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,350300.0
+X35,Dungarvan,9,2021,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,9,2021,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,9,2021,Existing,All Buyer Types,248194.0
+X35,Dungarvan,9,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,196000.0
+X35,Dungarvan,9,2021,Existing,Household Buyer - Former Owner-Occupier,286778.0
+X35,Dungarvan,9,2021,Existing,Household Buyer - Non-Occupier,216417.0
+X35,Dungarvan,10,2021,All Dwelling Statuses,All Buyer Types,261619.0
+X35,Dungarvan,10,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,321667.0
+X35,Dungarvan,10,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,291650.0
+X35,Dungarvan,10,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,201563.0
+X35,Dungarvan,10,2021,New,All Buyer Types,295000.0
+X35,Dungarvan,10,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+X35,Dungarvan,10,2021,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,10,2021,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,10,2021,Existing,All Buyer Types,259950.0
+X35,Dungarvan,10,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,335000.0
+X35,Dungarvan,10,2021,Existing,Household Buyer - Former Owner-Occupier,291650.0
+X35,Dungarvan,10,2021,Existing,Household Buyer - Non-Occupier,201563.0
+X35,Dungarvan,11,2021,All Dwelling Statuses,All Buyer Types,316983.0
+X35,Dungarvan,11,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,235111.0
+X35,Dungarvan,11,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,391333.0
+X35,Dungarvan,11,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,116500.0
+X35,Dungarvan,11,2021,New,All Buyer Types,
+X35,Dungarvan,11,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,11,2021,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,11,2021,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,11,2021,Existing,All Buyer Types,316983.0
+X35,Dungarvan,11,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,235111.0
+X35,Dungarvan,11,2021,Existing,Household Buyer - Former Owner-Occupier,391333.0
+X35,Dungarvan,11,2021,Existing,Household Buyer - Non-Occupier,116500.0
+X35,Dungarvan,12,2021,All Dwelling Statuses,All Buyer Types,292958.0
+X35,Dungarvan,12,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,217813.0
+X35,Dungarvan,12,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,364222.0
+X35,Dungarvan,12,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,197000.0
+X35,Dungarvan,12,2021,New,All Buyer Types,248586.0
+X35,Dungarvan,12,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,241126.0
+X35,Dungarvan,12,2021,New,Household Buyer - Former Owner-Occupier,259775.0
+X35,Dungarvan,12,2021,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,12,2021,Existing,All Buyer Types,319059.0
+X35,Dungarvan,12,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,194500.0
+X35,Dungarvan,12,2021,Existing,Household Buyer - Former Owner-Occupier,406000.0
+X35,Dungarvan,12,2021,Existing,Household Buyer - Non-Occupier,197000.0
+X35,Dungarvan,1,2022,All Dwelling Statuses,All Buyer Types,297731.0
+X35,Dungarvan,1,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225600.0
+X35,Dungarvan,1,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,342813.0
+X35,Dungarvan,1,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,1,2022,New,All Buyer Types,285001.0
+X35,Dungarvan,1,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,1,2022,New,Household Buyer - Former Owner-Occupier,285001.0
+X35,Dungarvan,1,2022,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,1,2022,Existing,All Buyer Types,298792.0
+X35,Dungarvan,1,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,225600.0
+X35,Dungarvan,1,2022,Existing,Household Buyer - Former Owner-Occupier,351071.0
+X35,Dungarvan,1,2022,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,2,2022,All Dwelling Statuses,All Buyer Types,273400.0
+X35,Dungarvan,2,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,245375.0
+X35,Dungarvan,2,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,305722.0
+X35,Dungarvan,2,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,184000.0
+X35,Dungarvan,2,2022,New,All Buyer Types,245000.0
+X35,Dungarvan,2,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+X35,Dungarvan,2,2022,New,Household Buyer - Former Owner-Occupier,245000.0
+X35,Dungarvan,2,2022,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,2,2022,Existing,All Buyer Types,277769.0
+X35,Dungarvan,2,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,245500.0
+X35,Dungarvan,2,2022,Existing,Household Buyer - Former Owner-Occupier,313313.0
+X35,Dungarvan,2,2022,Existing,Household Buyer - Non-Occupier,184000.0
+X35,Dungarvan,3,2022,All Dwelling Statuses,All Buyer Types,259875.0
+X35,Dungarvan,3,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,250391.0
+X35,Dungarvan,3,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,463333.0
+X35,Dungarvan,3,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,126250.0
+X35,Dungarvan,3,2022,New,All Buyer Types,251129.0
+X35,Dungarvan,3,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,251129.0
+X35,Dungarvan,3,2022,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,3,2022,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,3,2022,Existing,All Buyer Types,260500.0
+X35,Dungarvan,3,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,250286.0
+X35,Dungarvan,3,2022,Existing,Household Buyer - Former Owner-Occupier,463333.0
+X35,Dungarvan,3,2022,Existing,Household Buyer - Non-Occupier,126250.0
+X35,Dungarvan,4,2022,All Dwelling Statuses,All Buyer Types,264000.0
+X35,Dungarvan,4,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,221687.0
+X35,Dungarvan,4,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,293725.0
+X35,Dungarvan,4,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,136000.0
+X35,Dungarvan,4,2022,New,All Buyer Types,219999.0
+X35,Dungarvan,4,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,239999.0
+X35,Dungarvan,4,2022,New,Household Buyer - Former Owner-Occupier,199999.0
+X35,Dungarvan,4,2022,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,4,2022,Existing,All Buyer Types,270769.0
+X35,Dungarvan,4,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,215583.0
+X35,Dungarvan,4,2022,Existing,Household Buyer - Former Owner-Occupier,304139.0
+X35,Dungarvan,4,2022,Existing,Household Buyer - Non-Occupier,136000.0
+X35,Dungarvan,5,2022,All Dwelling Statuses,All Buyer Types,301661.0
+X35,Dungarvan,5,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,270583.0
+X35,Dungarvan,5,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,333689.0
+X35,Dungarvan,5,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,234750.0
+X35,Dungarvan,5,2022,New,All Buyer Types,356223.0
+X35,Dungarvan,5,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,457500.0
+X35,Dungarvan,5,2022,New,Household Buyer - Former Owner-Occupier,254946.0
+X35,Dungarvan,5,2022,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,5,2022,Existing,All Buyer Types,286071.0
+X35,Dungarvan,5,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,177125.0
+X35,Dungarvan,5,2022,Existing,Household Buyer - Former Owner-Occupier,353375.0
+X35,Dungarvan,5,2022,Existing,Household Buyer - Non-Occupier,234750.0
+X35,Dungarvan,6,2022,All Dwelling Statuses,All Buyer Types,329208.0
+X35,Dungarvan,6,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,329000.0
+X35,Dungarvan,6,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,374375.0
+X35,Dungarvan,6,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,150000.0
+X35,Dungarvan,6,2022,New,All Buyer Types,242500.0
+X35,Dungarvan,6,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+X35,Dungarvan,6,2022,New,Household Buyer - Former Owner-Occupier,240000.0
+X35,Dungarvan,6,2022,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,6,2022,Existing,All Buyer Types,346550.0
+X35,Dungarvan,6,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,343000.0
+X35,Dungarvan,6,2022,Existing,Household Buyer - Former Owner-Occupier,419167.0
+X35,Dungarvan,6,2022,Existing,Household Buyer - Non-Occupier,150000.0
+X35,Dungarvan,7,2022,All Dwelling Statuses,All Buyer Types,314844.0
+X35,Dungarvan,7,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,357500.0
+X35,Dungarvan,7,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,308750.0
+X35,Dungarvan,7,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2022,New,All Buyer Types,
+X35,Dungarvan,7,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,7,2022,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,7,2022,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2022,Existing,All Buyer Types,314844.0
+X35,Dungarvan,7,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,357500.0
+X35,Dungarvan,7,2022,Existing,Household Buyer - Former Owner-Occupier,308750.0
+X35,Dungarvan,7,2022,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,8,2022,All Dwelling Statuses,All Buyer Types,329933.0
+X35,Dungarvan,8,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,328600.0
+X35,Dungarvan,8,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,345667.0
+X35,Dungarvan,8,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,195000.0
+X35,Dungarvan,8,2022,New,All Buyer Types,
+X35,Dungarvan,8,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,8,2022,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,8,2022,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,8,2022,Existing,All Buyer Types,329933.0
+X35,Dungarvan,8,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,328600.0
+X35,Dungarvan,8,2022,Existing,Household Buyer - Former Owner-Occupier,345667.0
+X35,Dungarvan,8,2022,Existing,Household Buyer - Non-Occupier,195000.0
+X35,Dungarvan,9,2022,All Dwelling Statuses,All Buyer Types,287516.0
+X35,Dungarvan,9,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,229000.0
+X35,Dungarvan,9,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,319285.0
+X35,Dungarvan,9,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,305900.0
+X35,Dungarvan,9,2022,New,All Buyer Types,
+X35,Dungarvan,9,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,9,2022,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,9,2022,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,9,2022,Existing,All Buyer Types,287516.0
+X35,Dungarvan,9,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,229000.0
+X35,Dungarvan,9,2022,Existing,Household Buyer - Former Owner-Occupier,319285.0
+X35,Dungarvan,9,2022,Existing,Household Buyer - Non-Occupier,305900.0
+X35,Dungarvan,10,2022,All Dwelling Statuses,All Buyer Types,280884.0
+X35,Dungarvan,10,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,256699.0
+X35,Dungarvan,10,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,296000.0
+X35,Dungarvan,10,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,10,2022,New,All Buyer Types,299999.0
+X35,Dungarvan,10,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,299999.0
+X35,Dungarvan,10,2022,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,10,2022,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,10,2022,Existing,All Buyer Types,277409.0
+X35,Dungarvan,10,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,227833.0
+X35,Dungarvan,10,2022,Existing,Household Buyer - Former Owner-Occupier,296000.0
+X35,Dungarvan,10,2022,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,11,2022,All Dwelling Statuses,All Buyer Types,331689.0
+X35,Dungarvan,11,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,251642.0
+X35,Dungarvan,11,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,397182.0
+X35,Dungarvan,11,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,11,2022,New,All Buyer Types,331506.0
+X35,Dungarvan,11,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,326882.0
+X35,Dungarvan,11,2022,New,Household Buyer - Former Owner-Occupier,350000.0
+X35,Dungarvan,11,2022,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,11,2022,Existing,All Buyer Types,331750.0
+X35,Dungarvan,11,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,191450.0
+X35,Dungarvan,11,2022,Existing,Household Buyer - Former Owner-Occupier,401900.0
+X35,Dungarvan,11,2022,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,12,2022,All Dwelling Statuses,All Buyer Types,328730.0
+X35,Dungarvan,12,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,241067.0
+X35,Dungarvan,12,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,345250.0
+X35,Dungarvan,12,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,448766.0
+X35,Dungarvan,12,2022,New,All Buyer Types,290894.0
+X35,Dungarvan,12,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,270945.0
+X35,Dungarvan,12,2022,New,Household Buyer - Former Owner-Occupier,302500.0
+X35,Dungarvan,12,2022,New,Household Buyer - Non-Occupier,327531.0
+X35,Dungarvan,12,2022,Existing,All Buyer Types,346192.0
+X35,Dungarvan,12,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,196250.0
+X35,Dungarvan,12,2022,Existing,Household Buyer - Former Owner-Occupier,353800.0
+X35,Dungarvan,12,2022,Existing,Household Buyer - Non-Occupier,570000.0
+X35,Dungarvan,1,2023,All Dwelling Statuses,All Buyer Types,387298.0
+X35,Dungarvan,1,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,317355.0
+X35,Dungarvan,1,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,433926.0
+X35,Dungarvan,1,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,1,2023,New,All Buyer Types,331982.0
+X35,Dungarvan,1,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,376129.0
+X35,Dungarvan,1,2023,New,Household Buyer - Former Owner-Occupier,287835.0
+X35,Dungarvan,1,2023,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,1,2023,Existing,All Buyer Types,395808.0
+X35,Dungarvan,1,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,305600.0
+X35,Dungarvan,1,2023,Existing,Household Buyer - Former Owner-Occupier,452188.0
+X35,Dungarvan,1,2023,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,2,2023,All Dwelling Statuses,All Buyer Types,297008.0
+X35,Dungarvan,2,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,290377.0
+X35,Dungarvan,2,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,298308.0
+X35,Dungarvan,2,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,300000.0
+X35,Dungarvan,2,2023,New,All Buyer Types,338065.0
+X35,Dungarvan,2,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,256130.0
+X35,Dungarvan,2,2023,New,Household Buyer - Former Owner-Occupier,420000.0
+X35,Dungarvan,2,2023,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,2,2023,Existing,All Buyer Types,291533.0
+X35,Dungarvan,2,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,307500.0
+X35,Dungarvan,2,2023,Existing,Household Buyer - Former Owner-Occupier,288167.0
+X35,Dungarvan,2,2023,Existing,Household Buyer - Non-Occupier,300000.0
+X35,Dungarvan,3,2023,All Dwelling Statuses,All Buyer Types,359083.0
+X35,Dungarvan,3,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,380000.0
+X35,Dungarvan,3,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,370979.0
+X35,Dungarvan,3,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,243000.0
+X35,Dungarvan,3,2023,New,All Buyer Types,327611.0
+X35,Dungarvan,3,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,380000.0
+X35,Dungarvan,3,2023,New,Household Buyer - Former Owner-Occupier,301416.0
+X35,Dungarvan,3,2023,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,3,2023,Existing,All Buyer Types,372571.0
+X35,Dungarvan,3,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,3,2023,Existing,Household Buyer - Former Owner-Occupier,394167.0
+X35,Dungarvan,3,2023,Existing,Household Buyer - Non-Occupier,243000.0
+X35,Dungarvan,4,2023,All Dwelling Statuses,All Buyer Types,328343.0
+X35,Dungarvan,4,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,365967.0
+X35,Dungarvan,4,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,341250.0
+X35,Dungarvan,4,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,255500.0
+X35,Dungarvan,4,2023,New,All Buyer Types,369459.0
+X35,Dungarvan,4,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,378917.0
+X35,Dungarvan,4,2023,New,Household Buyer - Former Owner-Occupier,340000.0
+X35,Dungarvan,4,2023,New,Household Buyer - Non-Occupier,380000.0
+X35,Dungarvan,4,2023,Existing,All Buyer Types,315692.0
+X35,Dungarvan,4,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,357333.0
+X35,Dungarvan,4,2023,Existing,Household Buyer - Former Owner-Occupier,341429.0
+X35,Dungarvan,4,2023,Existing,Household Buyer - Non-Occupier,214000.0
+X35,Dungarvan,5,2023,All Dwelling Statuses,All Buyer Types,263743.0
+X35,Dungarvan,5,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,251617.0
+X35,Dungarvan,5,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,287140.0
+X35,Dungarvan,5,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,249000.0
+X35,Dungarvan,5,2023,New,All Buyer Types,
+X35,Dungarvan,5,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,5,2023,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,5,2023,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,5,2023,Existing,All Buyer Types,263743.0
+X35,Dungarvan,5,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,251617.0
+X35,Dungarvan,5,2023,Existing,Household Buyer - Former Owner-Occupier,287140.0
+X35,Dungarvan,5,2023,Existing,Household Buyer - Non-Occupier,249000.0
+X35,Dungarvan,6,2023,All Dwelling Statuses,All Buyer Types,297494.0
+X35,Dungarvan,6,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,230400.0
+X35,Dungarvan,6,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,343236.0
+X35,Dungarvan,6,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,450000.0
+X35,Dungarvan,6,2023,New,All Buyer Types,394943.0
+X35,Dungarvan,6,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,6,2023,New,Household Buyer - Former Owner-Occupier,394943.0
+X35,Dungarvan,6,2023,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,6,2023,Existing,All Buyer Types,286667.0
+X35,Dungarvan,6,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,230400.0
+X35,Dungarvan,6,2023,Existing,Household Buyer - Former Owner-Occupier,326000.0
+X35,Dungarvan,6,2023,Existing,Household Buyer - Non-Occupier,450000.0
+X35,Dungarvan,7,2023,All Dwelling Statuses,All Buyer Types,321182.0
+X35,Dungarvan,7,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,392000.0
+X35,Dungarvan,7,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,338812.0
+X35,Dungarvan,7,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,236320.0
+X35,Dungarvan,7,2023,New,All Buyer Types,419549.0
+X35,Dungarvan,7,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,7,2023,New,Household Buyer - Former Owner-Occupier,395000.0
+X35,Dungarvan,7,2023,New,Household Buyer - Non-Occupier,444099.0
+X35,Dungarvan,7,2023,Existing,All Buyer Types,308067.0
+X35,Dungarvan,7,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,392000.0
+X35,Dungarvan,7,2023,Existing,Household Buyer - Former Owner-Occupier,330786.0
+X35,Dungarvan,7,2023,Existing,Household Buyer - Non-Occupier,184375.0
+X35,Dungarvan,8,2023,All Dwelling Statuses,All Buyer Types,309167.0
+X35,Dungarvan,8,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,298500.0
+X35,Dungarvan,8,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,319500.0
+X35,Dungarvan,8,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,307667.0
+X35,Dungarvan,8,2023,New,All Buyer Types,450000.0
+X35,Dungarvan,8,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,450000.0
+X35,Dungarvan,8,2023,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,8,2023,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,8,2023,Existing,All Buyer Types,299107.0
+X35,Dungarvan,8,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,248000.0
+X35,Dungarvan,8,2023,Existing,Household Buyer - Former Owner-Occupier,319500.0
+X35,Dungarvan,8,2023,Existing,Household Buyer - Non-Occupier,307667.0
+X35,Dungarvan,9,2023,All Dwelling Statuses,All Buyer Types,323902.0
+X35,Dungarvan,9,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,278339.0
+X35,Dungarvan,9,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,368167.0
+X35,Dungarvan,9,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,195000.0
+X35,Dungarvan,9,2023,New,All Buyer Types,445016.0
+X35,Dungarvan,9,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,445016.0
+X35,Dungarvan,9,2023,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,9,2023,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,9,2023,Existing,All Buyer Types,310444.0
+X35,Dungarvan,9,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+X35,Dungarvan,9,2023,Existing,Household Buyer - Former Owner-Occupier,368167.0
+X35,Dungarvan,9,2023,Existing,Household Buyer - Non-Occupier,195000.0
+X35,Dungarvan,10,2023,All Dwelling Statuses,All Buyer Types,375584.0
+X35,Dungarvan,10,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,308750.0
+X35,Dungarvan,10,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,394680.0
+X35,Dungarvan,10,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,10,2023,New,All Buyer Types,422379.0
+X35,Dungarvan,10,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,450000.0
+X35,Dungarvan,10,2023,New,Household Buyer - Former Owner-Occupier,394758.0
+X35,Dungarvan,10,2023,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,10,2023,Existing,All Buyer Types,362214.0
+X35,Dungarvan,10,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,167500.0
+X35,Dungarvan,10,2023,Existing,Household Buyer - Former Owner-Occupier,394667.0
+X35,Dungarvan,10,2023,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,11,2023,All Dwelling Statuses,All Buyer Types,326896.0
+X35,Dungarvan,11,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,310000.0
+X35,Dungarvan,11,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,407012.0
+X35,Dungarvan,11,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,157400.0
+X35,Dungarvan,11,2023,New,All Buyer Types,401128.0
+X35,Dungarvan,11,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,11,2023,New,Household Buyer - Former Owner-Occupier,401128.0
+X35,Dungarvan,11,2023,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,11,2023,Existing,All Buyer Types,322529.0
+X35,Dungarvan,11,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,310000.0
+X35,Dungarvan,11,2023,Existing,Household Buyer - Former Owner-Occupier,407600.0
+X35,Dungarvan,11,2023,Existing,Household Buyer - Non-Occupier,157400.0
+X35,Dungarvan,12,2023,All Dwelling Statuses,All Buyer Types,300711.0
+X35,Dungarvan,12,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,261788.0
+X35,Dungarvan,12,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,370667.0
+X35,Dungarvan,12,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,181667.0
+X35,Dungarvan,12,2023,New,All Buyer Types,393672.0
+X35,Dungarvan,12,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,391018.0
+X35,Dungarvan,12,2023,New,Household Buyer - Former Owner-Occupier,395000.0
+X35,Dungarvan,12,2023,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,12,2023,Existing,All Buyer Types,283281.0
+X35,Dungarvan,12,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,240250.0
+X35,Dungarvan,12,2023,Existing,Household Buyer - Former Owner-Occupier,363714.0
+X35,Dungarvan,12,2023,Existing,Household Buyer - Non-Occupier,181667.0
+X35,Dungarvan,1,2024,All Dwelling Statuses,All Buyer Types,278323.0
+X35,Dungarvan,1,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,255500.0
+X35,Dungarvan,1,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,272979.0
+X35,Dungarvan,1,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,340000.0
+X35,Dungarvan,1,2024,New,All Buyer Types,351435.0
+X35,Dungarvan,1,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,303998.0
+X35,Dungarvan,1,2024,New,Household Buyer - Former Owner-Occupier,398872.0
+X35,Dungarvan,1,2024,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,1,2024,Existing,All Buyer Types,263700.0
+X35,Dungarvan,1,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,239333.0
+X35,Dungarvan,1,2024,Existing,Household Buyer - Former Owner-Occupier,247800.0
+X35,Dungarvan,1,2024,Existing,Household Buyer - Non-Occupier,340000.0
+X35,Dungarvan,2,2024,All Dwelling Statuses,All Buyer Types,257694.0
+X35,Dungarvan,2,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,302500.0
+X35,Dungarvan,2,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,264500.0
+X35,Dungarvan,2,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,178859.0
+X35,Dungarvan,2,2024,New,All Buyer Types,241429.0
+X35,Dungarvan,2,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,2,2024,New,Household Buyer - Former Owner-Occupier,303998.0
+X35,Dungarvan,2,2024,New,Household Buyer - Non-Occupier,178859.0
+X35,Dungarvan,2,2024,Existing,All Buyer Types,264200.0
+X35,Dungarvan,2,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,302500.0
+X35,Dungarvan,2,2024,Existing,Household Buyer - Former Owner-Occupier,254625.0
+X35,Dungarvan,2,2024,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,3,2024,All Dwelling Statuses,All Buyer Types,302139.0
+X35,Dungarvan,3,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,320500.0
+X35,Dungarvan,3,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,320214.0
+X35,Dungarvan,3,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,156250.0
+X35,Dungarvan,3,2024,New,All Buyer Types,423750.0
+X35,Dungarvan,3,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,423750.0
+X35,Dungarvan,3,2024,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,3,2024,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,3,2024,Existing,All Buyer Types,286938.0
+X35,Dungarvan,3,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,291000.0
+X35,Dungarvan,3,2024,Existing,Household Buyer - Former Owner-Occupier,320214.0
+X35,Dungarvan,3,2024,Existing,Household Buyer - Non-Occupier,156250.0
+X35,Dungarvan,4,2024,All Dwelling Statuses,All Buyer Types,291667.0
+X35,Dungarvan,4,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,270000.0
+X35,Dungarvan,4,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,307143.0
+X35,Dungarvan,4,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,4,2024,New,All Buyer Types,339999.0
+X35,Dungarvan,4,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,339999.0
+X35,Dungarvan,4,2024,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,4,2024,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,4,2024,Existing,All Buyer Types,282000.0
+X35,Dungarvan,4,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,223333.0
+X35,Dungarvan,4,2024,Existing,Household Buyer - Former Owner-Occupier,307143.0
+X35,Dungarvan,4,2024,Existing,Household Buyer - Non-Occupier,
+X35,Dungarvan,5,2024,All Dwelling Statuses,All Buyer Types,247615.0
+X35,Dungarvan,5,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,309000.0
+X35,Dungarvan,5,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,217571.0
+X35,Dungarvan,5,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,230000.0
+X35,Dungarvan,5,2024,New,All Buyer Types,
+X35,Dungarvan,5,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,5,2024,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,5,2024,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,5,2024,Existing,All Buyer Types,247615.0
+X35,Dungarvan,5,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,309000.0
+X35,Dungarvan,5,2024,Existing,Household Buyer - Former Owner-Occupier,217571.0
+X35,Dungarvan,5,2024,Existing,Household Buyer - Non-Occupier,230000.0
+X35,Dungarvan,6,2024,All Dwelling Statuses,All Buyer Types,400530.0
+X35,Dungarvan,6,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,326250.0
+X35,Dungarvan,6,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,524575.0
+X35,Dungarvan,6,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,301000.0
+X35,Dungarvan,6,2024,New,All Buyer Types,658300.0
+X35,Dungarvan,6,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,6,2024,New,Household Buyer - Former Owner-Occupier,658300.0
+X35,Dungarvan,6,2024,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,6,2024,Existing,All Buyer Types,371889.0
+X35,Dungarvan,6,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,326250.0
+X35,Dungarvan,6,2024,Existing,Household Buyer - Former Owner-Occupier,480000.0
+X35,Dungarvan,6,2024,Existing,Household Buyer - Non-Occupier,301000.0
+X35,Dungarvan,7,2024,All Dwelling Statuses,All Buyer Types,360400.0
+X35,Dungarvan,7,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,311000.0
+X35,Dungarvan,7,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,393333.0
+X35,Dungarvan,7,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2024,New,All Buyer Types,
+X35,Dungarvan,7,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+X35,Dungarvan,7,2024,New,Household Buyer - Former Owner-Occupier,
+X35,Dungarvan,7,2024,New,Household Buyer - Non-Occupier,
+X35,Dungarvan,7,2024,Existing,All Buyer Types,360400.0
+X35,Dungarvan,7,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,311000.0
+X35,Dungarvan,7,2024,Existing,Household Buyer - Former Owner-Occupier,393333.0
+X35,Dungarvan,7,2024,Existing,Household Buyer - Non-Occupier,

@@ -1,0 +1,2101 @@
+Routing Key,City,Month,Year,Dwelling Status,Type of Buyer,VALUE
+A84,Ashbourne,1,2010,All Dwelling Statuses,All Buyer Types,235211.0
+A84,Ashbourne,1,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,235211.0
+A84,Ashbourne,1,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,1,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2010,New,All Buyer Types,265158.0
+A84,Ashbourne,1,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,265158.0
+A84,Ashbourne,1,2010,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,1,2010,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2010,Existing,All Buyer Types,212750.0
+A84,Ashbourne,1,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,212750.0
+A84,Ashbourne,1,2010,Existing,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,1,2010,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2010,All Dwelling Statuses,All Buyer Types,275398.0
+A84,Ashbourne,2,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,283797.0
+A84,Ashbourne,2,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,225000.0
+A84,Ashbourne,2,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2010,New,All Buyer Types,292571.0
+A84,Ashbourne,2,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,292571.0
+A84,Ashbourne,2,2010,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,2,2010,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2010,Existing,All Buyer Types,252500.0
+A84,Ashbourne,2,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,266250.0
+A84,Ashbourne,2,2010,Existing,Household Buyer - Former Owner-Occupier,225000.0
+A84,Ashbourne,2,2010,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,3,2010,All Dwelling Statuses,All Buyer Types,292177.0
+A84,Ashbourne,3,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,233610.0
+A84,Ashbourne,3,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,409311.0
+A84,Ashbourne,3,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,3,2010,New,All Buyer Types,321531.0
+A84,Ashbourne,3,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,299441.0
+A84,Ashbourne,3,2010,New,Household Buyer - Former Owner-Occupier,343621.0
+A84,Ashbourne,3,2010,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,3,2010,Existing,All Buyer Types,277500.0
+A84,Ashbourne,3,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,211667.0
+A84,Ashbourne,3,2010,Existing,Household Buyer - Former Owner-Occupier,475000.0
+A84,Ashbourne,3,2010,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2010,All Dwelling Statuses,All Buyer Types,272563.0
+A84,Ashbourne,4,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,271750.0
+A84,Ashbourne,4,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,275000.0
+A84,Ashbourne,4,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2010,New,All Buyer Types,287500.0
+A84,Ashbourne,4,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+A84,Ashbourne,4,2010,New,Household Buyer - Former Owner-Occupier,275000.0
+A84,Ashbourne,4,2010,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2010,Existing,All Buyer Types,257625.0
+A84,Ashbourne,4,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,257625.0
+A84,Ashbourne,4,2010,Existing,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,4,2010,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2010,All Dwelling Statuses,All Buyer Types,253129.0
+A84,Ashbourne,5,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,212143.0
+A84,Ashbourne,5,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,284800.0
+A84,Ashbourne,5,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,350000.0
+A84,Ashbourne,5,2010,New,All Buyer Types,255717.0
+A84,Ashbourne,5,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+A84,Ashbourne,5,2010,New,Household Buyer - Former Owner-Occupier,283575.0
+A84,Ashbourne,5,2010,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2010,Existing,All Buyer Types,251188.0
+A84,Ashbourne,5,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,217000.0
+A84,Ashbourne,5,2010,Existing,Household Buyer - Former Owner-Occupier,287250.0
+A84,Ashbourne,5,2010,Existing,Household Buyer - Non-Occupier,350000.0
+A84,Ashbourne,6,2010,All Dwelling Statuses,All Buyer Types,205590.0
+A84,Ashbourne,6,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,216625.0
+A84,Ashbourne,6,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,189037.0
+A84,Ashbourne,6,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2010,New,All Buyer Types,211150.0
+A84,Ashbourne,6,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,255375.0
+A84,Ashbourne,6,2010,New,Household Buyer - Former Owner-Occupier,189037.0
+A84,Ashbourne,6,2010,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2010,Existing,All Buyer Types,197250.0
+A84,Ashbourne,6,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,197250.0
+A84,Ashbourne,6,2010,Existing,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,6,2010,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2010,All Dwelling Statuses,All Buyer Types,313443.0
+A84,Ashbourne,7,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,258133.0
+A84,Ashbourne,7,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,368753.0
+A84,Ashbourne,7,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2010,New,All Buyer Types,289909.0
+A84,Ashbourne,7,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,247510.0
+A84,Ashbourne,7,2010,New,Household Buyer - Former Owner-Occupier,353507.0
+A84,Ashbourne,7,2010,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2010,Existing,All Buyer Types,352667.0
+A84,Ashbourne,7,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,290000.0
+A84,Ashbourne,7,2010,Existing,Household Buyer - Former Owner-Occupier,384000.0
+A84,Ashbourne,7,2010,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2010,All Dwelling Statuses,All Buyer Types,179175.0
+A84,Ashbourne,8,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,179175.0
+A84,Ashbourne,8,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,8,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2010,New,All Buyer Types,249700.0
+A84,Ashbourne,8,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,249700.0
+A84,Ashbourne,8,2010,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,8,2010,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2010,Existing,All Buyer Types,155667.0
+A84,Ashbourne,8,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,155667.0
+A84,Ashbourne,8,2010,Existing,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,8,2010,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2010,All Dwelling Statuses,All Buyer Types,252233.0
+A84,Ashbourne,9,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,240929.0
+A84,Ashbourne,9,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,282625.0
+A84,Ashbourne,9,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,164575.0
+A84,Ashbourne,9,2010,New,All Buyer Types,245573.0
+A84,Ashbourne,9,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,240929.0
+A84,Ashbourne,9,2010,New,Household Buyer - Former Owner-Occupier,340500.0
+A84,Ashbourne,9,2010,New,Household Buyer - Non-Occupier,164575.0
+A84,Ashbourne,9,2010,Existing,All Buyer Types,263333.0
+A84,Ashbourne,9,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,9,2010,Existing,Household Buyer - Former Owner-Occupier,263333.0
+A84,Ashbourne,9,2010,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2010,All Dwelling Statuses,All Buyer Types,255343.0
+A84,Ashbourne,10,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,267125.0
+A84,Ashbourne,10,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,327505.0
+A84,Ashbourne,10,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,159619.0
+A84,Ashbourne,10,2010,New,All Buyer Types,248649.0
+A84,Ashbourne,10,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,269000.0
+A84,Ashbourne,10,2010,New,Household Buyer - Former Owner-Occupier,327505.0
+A84,Ashbourne,10,2010,New,Household Buyer - Non-Occupier,159619.0
+A84,Ashbourne,10,2010,Existing,All Buyer Types,266500.0
+A84,Ashbourne,10,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,266500.0
+A84,Ashbourne,10,2010,Existing,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,10,2010,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2010,All Dwelling Statuses,All Buyer Types,294139.0
+A84,Ashbourne,11,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,221345.0
+A84,Ashbourne,11,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,512522.0
+A84,Ashbourne,11,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2010,New,All Buyer Types,449506.0
+A84,Ashbourne,11,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,323475.0
+A84,Ashbourne,11,2010,New,Household Buyer - Former Owner-Occupier,512522.0
+A84,Ashbourne,11,2010,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2010,Existing,All Buyer Types,200919.0
+A84,Ashbourne,11,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,200919.0
+A84,Ashbourne,11,2010,Existing,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,11,2010,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,12,2010,All Dwelling Statuses,All Buyer Types,321132.0
+A84,Ashbourne,12,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,269300.0
+A84,Ashbourne,12,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,360006.0
+A84,Ashbourne,12,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,12,2010,New,All Buyer Types,363085.0
+A84,Ashbourne,12,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,306450.0
+A84,Ashbourne,12,2010,New,Household Buyer - Former Owner-Occupier,400842.0
+A84,Ashbourne,12,2010,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,12,2010,Existing,All Buyer Types,216250.0
+A84,Ashbourne,12,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+A84,Ashbourne,12,2010,Existing,Household Buyer - Former Owner-Occupier,237500.0
+A84,Ashbourne,12,2010,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2011,All Dwelling Statuses,All Buyer Types,357159.0
+A84,Ashbourne,1,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,300775.0
+A84,Ashbourne,1,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,375953.0
+A84,Ashbourne,1,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2011,New,All Buyer Types,359545.0
+A84,Ashbourne,1,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,300775.0
+A84,Ashbourne,1,2011,New,Household Buyer - Former Owner-Occupier,388930.0
+A84,Ashbourne,1,2011,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2011,Existing,All Buyer Types,350000.0
+A84,Ashbourne,1,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,1,2011,Existing,Household Buyer - Former Owner-Occupier,350000.0
+A84,Ashbourne,1,2011,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2011,All Dwelling Statuses,All Buyer Types,252142.0
+A84,Ashbourne,2,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,289425.0
+A84,Ashbourne,2,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,233500.0
+A84,Ashbourne,2,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2011,New,All Buyer Types,252142.0
+A84,Ashbourne,2,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,289425.0
+A84,Ashbourne,2,2011,New,Household Buyer - Former Owner-Occupier,233500.0
+A84,Ashbourne,2,2011,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2011,Existing,All Buyer Types,
+A84,Ashbourne,2,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,2,2011,Existing,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,2,2011,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,3,2011,All Dwelling Statuses,All Buyer Types,272334.0
+A84,Ashbourne,3,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,310082.0
+A84,Ashbourne,3,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,242704.0
+A84,Ashbourne,3,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,323475.0
+A84,Ashbourne,3,2011,New,All Buyer Types,272334.0
+A84,Ashbourne,3,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,310082.0
+A84,Ashbourne,3,2011,New,Household Buyer - Former Owner-Occupier,242704.0
+A84,Ashbourne,3,2011,New,Household Buyer - Non-Occupier,323475.0
+A84,Ashbourne,3,2011,Existing,All Buyer Types,
+A84,Ashbourne,3,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,3,2011,Existing,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,3,2011,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2011,All Dwelling Statuses,All Buyer Types,186677.0
+A84,Ashbourne,4,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,4,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,179000.0
+A84,Ashbourne,4,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,202030.0
+A84,Ashbourne,4,2011,New,All Buyer Types,202030.0
+A84,Ashbourne,4,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,4,2011,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,4,2011,New,Household Buyer - Non-Occupier,202030.0
+A84,Ashbourne,4,2011,Existing,All Buyer Types,179000.0
+A84,Ashbourne,4,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,4,2011,Existing,Household Buyer - Former Owner-Occupier,179000.0
+A84,Ashbourne,4,2011,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2011,All Dwelling Statuses,All Buyer Types,211333.0
+A84,Ashbourne,5,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,211333.0
+A84,Ashbourne,5,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,5,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2011,New,All Buyer Types,217000.0
+A84,Ashbourne,5,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,217000.0
+A84,Ashbourne,5,2011,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,5,2011,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2011,Existing,All Buyer Types,200000.0
+A84,Ashbourne,5,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+A84,Ashbourne,5,2011,Existing,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,5,2011,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2011,All Dwelling Statuses,All Buyer Types,233367.0
+A84,Ashbourne,6,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,264329.0
+A84,Ashbourne,6,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,125000.0
+A84,Ashbourne,6,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2011,New,All Buyer Types,259218.0
+A84,Ashbourne,6,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,291061.0
+A84,Ashbourne,6,2011,New,Household Buyer - Former Owner-Occupier,100000.0
+A84,Ashbourne,6,2011,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2011,Existing,All Buyer Types,181667.0
+A84,Ashbourne,6,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,197500.0
+A84,Ashbourne,6,2011,Existing,Household Buyer - Former Owner-Occupier,150000.0
+A84,Ashbourne,6,2011,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2011,All Dwelling Statuses,All Buyer Types,192419.0
+A84,Ashbourne,7,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,129000.0
+A84,Ashbourne,7,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,380000.0
+A84,Ashbourne,7,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,130338.0
+A84,Ashbourne,7,2011,New,All Buyer Types,129838.0
+A84,Ashbourne,7,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,129000.0
+A84,Ashbourne,7,2011,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,7,2011,New,Household Buyer - Non-Occupier,130675.0
+A84,Ashbourne,7,2011,Existing,All Buyer Types,255000.0
+A84,Ashbourne,7,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,7,2011,Existing,Household Buyer - Former Owner-Occupier,380000.0
+A84,Ashbourne,7,2011,Existing,Household Buyer - Non-Occupier,130000.0
+A84,Ashbourne,8,2011,All Dwelling Statuses,All Buyer Types,204313.0
+A84,Ashbourne,8,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,415000.0
+A84,Ashbourne,8,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,186125.0
+A84,Ashbourne,8,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,30000.0
+A84,Ashbourne,8,2011,New,All Buyer Types,283750.0
+A84,Ashbourne,8,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,8,2011,New,Household Buyer - Former Owner-Occupier,283750.0
+A84,Ashbourne,8,2011,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2011,Existing,All Buyer Types,177833.0
+A84,Ashbourne,8,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,415000.0
+A84,Ashbourne,8,2011,Existing,Household Buyer - Former Owner-Occupier,88500.0
+A84,Ashbourne,8,2011,Existing,Household Buyer - Non-Occupier,30000.0
+A84,Ashbourne,9,2011,All Dwelling Statuses,All Buyer Types,172370.0
+A84,Ashbourne,9,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,201615.0
+A84,Ashbourne,9,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,143125.0
+A84,Ashbourne,9,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2011,New,All Buyer Types,219731.0
+A84,Ashbourne,9,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,219731.0
+A84,Ashbourne,9,2011,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,9,2011,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2011,Existing,All Buyer Types,156583.0
+A84,Ashbourne,9,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,183500.0
+A84,Ashbourne,9,2011,Existing,Household Buyer - Former Owner-Occupier,143125.0
+A84,Ashbourne,9,2011,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2011,All Dwelling Statuses,All Buyer Types,219375.0
+A84,Ashbourne,10,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,185833.0
+A84,Ashbourne,10,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,10,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,320000.0
+A84,Ashbourne,10,2011,New,All Buyer Types,185000.0
+A84,Ashbourne,10,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,185000.0
+A84,Ashbourne,10,2011,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,10,2011,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2011,Existing,All Buyer Types,230833.0
+A84,Ashbourne,10,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,186250.0
+A84,Ashbourne,10,2011,Existing,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,10,2011,Existing,Household Buyer - Non-Occupier,320000.0
+A84,Ashbourne,11,2011,All Dwelling Statuses,All Buyer Types,232020.0
+A84,Ashbourne,11,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,265079.0
+A84,Ashbourne,11,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,264000.0
+A84,Ashbourne,11,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,135000.0
+A84,Ashbourne,11,2011,New,All Buyer Types,265079.0
+A84,Ashbourne,11,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,265079.0
+A84,Ashbourne,11,2011,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,11,2011,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2011,Existing,All Buyer Types,221000.0
+A84,Ashbourne,11,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,11,2011,Existing,Household Buyer - Former Owner-Occupier,264000.0
+A84,Ashbourne,11,2011,Existing,Household Buyer - Non-Occupier,135000.0
+A84,Ashbourne,12,2011,All Dwelling Statuses,All Buyer Types,222755.0
+A84,Ashbourne,12,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,207138.0
+A84,Ashbourne,12,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,276750.0
+A84,Ashbourne,12,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,146000.0
+A84,Ashbourne,12,2011,New,All Buyer Types,207138.0
+A84,Ashbourne,12,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,207138.0
+A84,Ashbourne,12,2011,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,12,2011,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,12,2011,Existing,All Buyer Types,233167.0
+A84,Ashbourne,12,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,12,2011,Existing,Household Buyer - Former Owner-Occupier,276750.0
+A84,Ashbourne,12,2011,Existing,Household Buyer - Non-Occupier,146000.0
+A84,Ashbourne,1,2012,All Dwelling Statuses,All Buyer Types,196704.0
+A84,Ashbourne,1,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165942.0
+A84,Ashbourne,1,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,242849.0
+A84,Ashbourne,1,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2012,New,All Buyer Types,196761.0
+A84,Ashbourne,1,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,107825.0
+A84,Ashbourne,1,2012,New,Household Buyer - Former Owner-Occupier,285697.0
+A84,Ashbourne,1,2012,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2012,Existing,All Buyer Types,196667.0
+A84,Ashbourne,1,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+A84,Ashbourne,1,2012,Existing,Household Buyer - Former Owner-Occupier,200000.0
+A84,Ashbourne,1,2012,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2012,All Dwelling Statuses,All Buyer Types,740000.0
+A84,Ashbourne,2,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,2,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,740000.0
+A84,Ashbourne,2,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2012,New,All Buyer Types,
+A84,Ashbourne,2,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,2,2012,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,2,2012,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2012,Existing,All Buyer Types,740000.0
+A84,Ashbourne,2,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,2,2012,Existing,Household Buyer - Former Owner-Occupier,740000.0
+A84,Ashbourne,2,2012,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,3,2012,All Dwelling Statuses,All Buyer Types,194398.0
+A84,Ashbourne,3,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,229270.0
+A84,Ashbourne,3,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,219850.0
+A84,Ashbourne,3,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,108620.0
+A84,Ashbourne,3,2012,New,All Buyer Types,195863.0
+A84,Ashbourne,3,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,229270.0
+A84,Ashbourne,3,2012,New,Household Buyer - Former Owner-Occupier,249700.0
+A84,Ashbourne,3,2012,New,Household Buyer - Non-Occupier,108620.0
+A84,Ashbourne,3,2012,Existing,All Buyer Types,190000.0
+A84,Ashbourne,3,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,3,2012,Existing,Household Buyer - Former Owner-Occupier,190000.0
+A84,Ashbourne,3,2012,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2012,All Dwelling Statuses,All Buyer Types,212244.0
+A84,Ashbourne,4,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,242018.0
+A84,Ashbourne,4,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,167583.0
+A84,Ashbourne,4,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2012,New,All Buyer Types,212244.0
+A84,Ashbourne,4,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,242018.0
+A84,Ashbourne,4,2012,New,Household Buyer - Former Owner-Occupier,167583.0
+A84,Ashbourne,4,2012,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2012,Existing,All Buyer Types,
+A84,Ashbourne,4,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,4,2012,Existing,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,4,2012,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2012,All Dwelling Statuses,All Buyer Types,211923.0
+A84,Ashbourne,5,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,178000.0
+A84,Ashbourne,5,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,265583.0
+A84,Ashbourne,5,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,156875.0
+A84,Ashbourne,5,2012,New,All Buyer Types,
+A84,Ashbourne,5,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,5,2012,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,5,2012,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2012,Existing,All Buyer Types,211923.0
+A84,Ashbourne,5,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,178000.0
+A84,Ashbourne,5,2012,Existing,Household Buyer - Former Owner-Occupier,265583.0
+A84,Ashbourne,5,2012,Existing,Household Buyer - Non-Occupier,156875.0
+A84,Ashbourne,6,2012,All Dwelling Statuses,All Buyer Types,282292.0
+A84,Ashbourne,6,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,6,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,373438.0
+A84,Ashbourne,6,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,100000.0
+A84,Ashbourne,6,2012,New,All Buyer Types,406875.0
+A84,Ashbourne,6,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,6,2012,New,Household Buyer - Former Owner-Occupier,406875.0
+A84,Ashbourne,6,2012,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2012,Existing,All Buyer Types,220000.0
+A84,Ashbourne,6,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,6,2012,Existing,Household Buyer - Former Owner-Occupier,340000.0
+A84,Ashbourne,6,2012,Existing,Household Buyer - Non-Occupier,100000.0
+A84,Ashbourne,7,2012,All Dwelling Statuses,All Buyer Types,218258.0
+A84,Ashbourne,7,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,215650.0
+A84,Ashbourne,7,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,218780.0
+A84,Ashbourne,7,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2012,New,All Buyer Types,250888.0
+A84,Ashbourne,7,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,215650.0
+A84,Ashbourne,7,2012,New,Household Buyer - Former Owner-Occupier,262633.0
+A84,Ashbourne,7,2012,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2012,Existing,All Buyer Types,153000.0
+A84,Ashbourne,7,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,7,2012,Existing,Household Buyer - Former Owner-Occupier,153000.0
+A84,Ashbourne,7,2012,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2012,All Dwelling Statuses,All Buyer Types,194562.0
+A84,Ashbourne,8,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,206875.0
+A84,Ashbourne,8,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,262500.0
+A84,Ashbourne,8,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,102000.0
+A84,Ashbourne,8,2012,New,All Buyer Types,225416.0
+A84,Ashbourne,8,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,206875.0
+A84,Ashbourne,8,2012,New,Household Buyer - Former Owner-Occupier,262500.0
+A84,Ashbourne,8,2012,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2012,Existing,All Buyer Types,102000.0
+A84,Ashbourne,8,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,8,2012,Existing,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,8,2012,Existing,Household Buyer - Non-Occupier,102000.0
+A84,Ashbourne,9,2012,All Dwelling Statuses,All Buyer Types,202316.0
+A84,Ashbourne,9,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,119806.0
+A84,Ashbourne,9,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,229819.0
+A84,Ashbourne,9,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2012,New,All Buyer Types,206421.0
+A84,Ashbourne,9,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,119806.0
+A84,Ashbourne,9,2012,New,Household Buyer - Former Owner-Occupier,249729.0
+A84,Ashbourne,9,2012,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2012,Existing,All Buyer Types,190000.0
+A84,Ashbourne,9,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,9,2012,Existing,Household Buyer - Former Owner-Occupier,190000.0
+A84,Ashbourne,9,2012,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2012,All Dwelling Statuses,All Buyer Types,203850.0
+A84,Ashbourne,10,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,123500.0
+A84,Ashbourne,10,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,244025.0
+A84,Ashbourne,10,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2012,New,All Buyer Types,244025.0
+A84,Ashbourne,10,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,10,2012,New,Household Buyer - Former Owner-Occupier,244025.0
+A84,Ashbourne,10,2012,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2012,Existing,All Buyer Types,123500.0
+A84,Ashbourne,10,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,123500.0
+A84,Ashbourne,10,2012,Existing,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,10,2012,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2012,All Dwelling Statuses,All Buyer Types,191500.0
+A84,Ashbourne,11,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210500.0
+A84,Ashbourne,11,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,11,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,153500.0
+A84,Ashbourne,11,2012,New,All Buyer Types,212000.0
+A84,Ashbourne,11,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,212000.0
+A84,Ashbourne,11,2012,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,11,2012,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2012,Existing,All Buyer Types,187400.0
+A84,Ashbourne,11,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+A84,Ashbourne,11,2012,Existing,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,11,2012,Existing,Household Buyer - Non-Occupier,153500.0
+A84,Ashbourne,12,2012,All Dwelling Statuses,All Buyer Types,213620.0
+A84,Ashbourne,12,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,214528.0
+A84,Ashbourne,12,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,12,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,200000.0
+A84,Ashbourne,12,2012,New,All Buyer Types,257490.0
+A84,Ashbourne,12,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,257490.0
+A84,Ashbourne,12,2012,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,12,2012,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,12,2012,Existing,All Buyer Types,169750.0
+A84,Ashbourne,12,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165429.0
+A84,Ashbourne,12,2012,Existing,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,12,2012,Existing,Household Buyer - Non-Occupier,200000.0
+A84,Ashbourne,1,2013,All Dwelling Statuses,All Buyer Types,179817.0
+A84,Ashbourne,1,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,202225.0
+A84,Ashbourne,1,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,135000.0
+A84,Ashbourne,1,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2013,New,All Buyer Types,239450.0
+A84,Ashbourne,1,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,239450.0
+A84,Ashbourne,1,2013,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,1,2013,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2013,Existing,All Buyer Types,150000.0
+A84,Ashbourne,1,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+A84,Ashbourne,1,2013,Existing,Household Buyer - Former Owner-Occupier,135000.0
+A84,Ashbourne,1,2013,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2013,All Dwelling Statuses,All Buyer Types,141680.0
+A84,Ashbourne,2,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,220899.0
+A84,Ashbourne,2,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,136250.0
+A84,Ashbourne,2,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,107500.0
+A84,Ashbourne,2,2013,New,All Buyer Types,220899.0
+A84,Ashbourne,2,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,220899.0
+A84,Ashbourne,2,2013,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,2,2013,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2013,Existing,All Buyer Types,121875.0
+A84,Ashbourne,2,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,2,2013,Existing,Household Buyer - Former Owner-Occupier,136250.0
+A84,Ashbourne,2,2013,Existing,Household Buyer - Non-Occupier,107500.0
+A84,Ashbourne,3,2013,All Dwelling Statuses,All Buyer Types,147988.0
+A84,Ashbourne,3,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,3,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,163485.0
+A84,Ashbourne,3,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,86000.0
+A84,Ashbourne,3,2013,New,All Buyer Types,210938.0
+A84,Ashbourne,3,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,3,2013,New,Household Buyer - Former Owner-Occupier,210938.0
+A84,Ashbourne,3,2013,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,3,2013,Existing,All Buyer Types,132250.0
+A84,Ashbourne,3,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,3,2013,Existing,Household Buyer - Former Owner-Occupier,147667.0
+A84,Ashbourne,3,2013,Existing,Household Buyer - Non-Occupier,86000.0
+A84,Ashbourne,4,2013,All Dwelling Statuses,All Buyer Types,136485.0
+A84,Ashbourne,4,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,152166.0
+A84,Ashbourne,4,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,144200.0
+A84,Ashbourne,4,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,93675.0
+A84,Ashbourne,4,2013,New,All Buyer Types,212749.0
+A84,Ashbourne,4,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,200499.0
+A84,Ashbourne,4,2013,New,Household Buyer - Former Owner-Occupier,224999.0
+A84,Ashbourne,4,2013,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2013,Existing,All Buyer Types,117419.0
+A84,Ashbourne,4,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,128000.0
+A84,Ashbourne,4,2013,Existing,Household Buyer - Former Owner-Occupier,124000.0
+A84,Ashbourne,4,2013,Existing,Household Buyer - Non-Occupier,93675.0
+A84,Ashbourne,5,2013,All Dwelling Statuses,All Buyer Types,147286.0
+A84,Ashbourne,5,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+A84,Ashbourne,5,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,195000.0
+A84,Ashbourne,5,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,107750.0
+A84,Ashbourne,5,2013,New,All Buyer Types,210000.0
+A84,Ashbourne,5,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+A84,Ashbourne,5,2013,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,5,2013,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2013,Existing,All Buyer Types,136833.0
+A84,Ashbourne,5,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,5,2013,Existing,Household Buyer - Former Owner-Occupier,195000.0
+A84,Ashbourne,5,2013,Existing,Household Buyer - Non-Occupier,107750.0
+A84,Ashbourne,6,2013,All Dwelling Statuses,All Buyer Types,203606.0
+A84,Ashbourne,6,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,227431.0
+A84,Ashbourne,6,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,179781.0
+A84,Ashbourne,6,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2013,New,All Buyer Types,257713.0
+A84,Ashbourne,6,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,239575.0
+A84,Ashbourne,6,2013,New,Household Buyer - Former Owner-Occupier,312125.0
+A84,Ashbourne,6,2013,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2013,Existing,All Buyer Types,149500.0
+A84,Ashbourne,6,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,191000.0
+A84,Ashbourne,6,2013,Existing,Household Buyer - Former Owner-Occupier,135667.0
+A84,Ashbourne,6,2013,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2013,All Dwelling Statuses,All Buyer Types,208411.0
+A84,Ashbourne,7,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,178375.0
+A84,Ashbourne,7,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,241807.0
+A84,Ashbourne,7,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,181667.0
+A84,Ashbourne,7,2013,New,All Buyer Types,285168.0
+A84,Ashbourne,7,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,263500.0
+A84,Ashbourne,7,2013,New,Household Buyer - Former Owner-Occupier,313447.0
+A84,Ashbourne,7,2013,New,Household Buyer - Non-Occupier,222000.0
+A84,Ashbourne,7,2013,Existing,All Buyer Types,160438.0
+A84,Ashbourne,7,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+A84,Ashbourne,7,2013,Existing,Household Buyer - Former Owner-Occupier,170167.0
+A84,Ashbourne,7,2013,Existing,Household Buyer - Non-Occupier,161500.0
+A84,Ashbourne,8,2013,All Dwelling Statuses,All Buyer Types,276225.0
+A84,Ashbourne,8,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,329313.0
+A84,Ashbourne,8,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,306250.0
+A84,Ashbourne,8,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,110000.0
+A84,Ashbourne,8,2013,New,All Buyer Types,329313.0
+A84,Ashbourne,8,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,329313.0
+A84,Ashbourne,8,2013,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,8,2013,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2013,Existing,All Buyer Types,240833.0
+A84,Ashbourne,8,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,8,2013,Existing,Household Buyer - Former Owner-Occupier,306250.0
+A84,Ashbourne,8,2013,Existing,Household Buyer - Non-Occupier,110000.0
+A84,Ashbourne,9,2013,All Dwelling Statuses,All Buyer Types,224342.0
+A84,Ashbourne,9,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,255350.0
+A84,Ashbourne,9,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,193333.0
+A84,Ashbourne,9,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2013,New,All Buyer Types,249012.0
+A84,Ashbourne,9,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,255350.0
+A84,Ashbourne,9,2013,New,Household Buyer - Former Owner-Occupier,230000.0
+A84,Ashbourne,9,2013,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2013,Existing,All Buyer Types,175000.0
+A84,Ashbourne,9,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,9,2013,Existing,Household Buyer - Former Owner-Occupier,175000.0
+A84,Ashbourne,9,2013,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2013,All Dwelling Statuses,All Buyer Types,331124.0
+A84,Ashbourne,10,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,215000.0
+A84,Ashbourne,10,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,408540.0
+A84,Ashbourne,10,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2013,New,All Buyer Types,467620.0
+A84,Ashbourne,10,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,10,2013,New,Household Buyer - Former Owner-Occupier,467620.0
+A84,Ashbourne,10,2013,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2013,Existing,All Buyer Types,297000.0
+A84,Ashbourne,10,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,215000.0
+A84,Ashbourne,10,2013,Existing,Household Buyer - Former Owner-Occupier,379000.0
+A84,Ashbourne,10,2013,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2013,All Dwelling Statuses,All Buyer Types,205223.0
+A84,Ashbourne,11,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,214135.0
+A84,Ashbourne,11,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,188800.0
+A84,Ashbourne,11,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,224000.0
+A84,Ashbourne,11,2013,New,All Buyer Types,310669.0
+A84,Ashbourne,11,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,223838.0
+A84,Ashbourne,11,2013,New,Household Buyer - Former Owner-Occupier,390000.0
+A84,Ashbourne,11,2013,New,Household Buyer - Non-Occupier,405000.0
+A84,Ashbourne,11,2013,Existing,All Buyer Types,152500.0
+A84,Ashbourne,11,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,207667.0
+A84,Ashbourne,11,2013,Existing,Household Buyer - Former Owner-Occupier,138500.0
+A84,Ashbourne,11,2013,Existing,Household Buyer - Non-Occupier,43000.0
+A84,Ashbourne,12,2013,All Dwelling Statuses,All Buyer Types,183369.0
+A84,Ashbourne,12,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,157900.0
+A84,Ashbourne,12,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,278260.0
+A84,Ashbourne,12,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,67667.0
+A84,Ashbourne,12,2013,New,All Buyer Types,254933.0
+A84,Ashbourne,12,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,12,2013,New,Household Buyer - Former Owner-Occupier,254933.0
+A84,Ashbourne,12,2013,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,12,2013,Existing,All Buyer Types,161900.0
+A84,Ashbourne,12,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,157900.0
+A84,Ashbourne,12,2013,Existing,Household Buyer - Former Owner-Occupier,313250.0
+A84,Ashbourne,12,2013,Existing,Household Buyer - Non-Occupier,67667.0
+A84,Ashbourne,1,2014,All Dwelling Statuses,All Buyer Types,191125.0
+A84,Ashbourne,1,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,188167.0
+A84,Ashbourne,1,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,200000.0
+A84,Ashbourne,1,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2014,New,All Buyer Types,
+A84,Ashbourne,1,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,1,2014,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,1,2014,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2014,Existing,All Buyer Types,191125.0
+A84,Ashbourne,1,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,188167.0
+A84,Ashbourne,1,2014,Existing,Household Buyer - Former Owner-Occupier,200000.0
+A84,Ashbourne,1,2014,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2014,All Dwelling Statuses,All Buyer Types,185495.0
+A84,Ashbourne,2,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,258213.0
+A84,Ashbourne,2,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,176025.0
+A84,Ashbourne,2,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,59000.0
+A84,Ashbourne,2,2014,New,All Buyer Types,259158.0
+A84,Ashbourne,2,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,258213.0
+A84,Ashbourne,2,2014,New,Household Buyer - Former Owner-Occupier,261050.0
+A84,Ashbourne,2,2014,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2014,Existing,All Buyer Types,75000.0
+A84,Ashbourne,2,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,2,2014,Existing,Household Buyer - Former Owner-Occupier,91000.0
+A84,Ashbourne,2,2014,Existing,Household Buyer - Non-Occupier,59000.0
+A84,Ashbourne,3,2014,All Dwelling Statuses,All Buyer Types,239774.0
+A84,Ashbourne,3,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,221548.0
+A84,Ashbourne,3,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,262500.0
+A84,Ashbourne,3,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,249000.0
+A84,Ashbourne,3,2014,New,All Buyer Types,242323.0
+A84,Ashbourne,3,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,242323.0
+A84,Ashbourne,3,2014,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,3,2014,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,3,2014,Existing,All Buyer Types,238500.0
+A84,Ashbourne,3,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+A84,Ashbourne,3,2014,Existing,Household Buyer - Former Owner-Occupier,262500.0
+A84,Ashbourne,3,2014,Existing,Household Buyer - Non-Occupier,249000.0
+A84,Ashbourne,4,2014,All Dwelling Statuses,All Buyer Types,242639.0
+A84,Ashbourne,4,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,236964.0
+A84,Ashbourne,4,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,262500.0
+A84,Ashbourne,4,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2014,New,All Buyer Types,241917.0
+A84,Ashbourne,4,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,241917.0
+A84,Ashbourne,4,2014,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,4,2014,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2014,Existing,All Buyer Types,243000.0
+A84,Ashbourne,4,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,233250.0
+A84,Ashbourne,4,2014,Existing,Household Buyer - Former Owner-Occupier,262500.0
+A84,Ashbourne,4,2014,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2014,All Dwelling Statuses,All Buyer Types,204875.0
+A84,Ashbourne,5,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,237333.0
+A84,Ashbourne,5,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,125000.0
+A84,Ashbourne,5,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,90000.0
+A84,Ashbourne,5,2014,New,All Buyer Types,227200.0
+A84,Ashbourne,5,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,227200.0
+A84,Ashbourne,5,2014,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,5,2014,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2014,Existing,All Buyer Types,167667.0
+A84,Ashbourne,5,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,288000.0
+A84,Ashbourne,5,2014,Existing,Household Buyer - Former Owner-Occupier,125000.0
+A84,Ashbourne,5,2014,Existing,Household Buyer - Non-Occupier,90000.0
+A84,Ashbourne,6,2014,All Dwelling Statuses,All Buyer Types,
+A84,Ashbourne,6,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,6,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,6,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2014,New,All Buyer Types,
+A84,Ashbourne,6,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,6,2014,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,6,2014,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2014,Existing,All Buyer Types,
+A84,Ashbourne,6,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,6,2014,Existing,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,6,2014,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2014,All Dwelling Statuses,All Buyer Types,246945.0
+A84,Ashbourne,7,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,206733.0
+A84,Ashbourne,7,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,295200.0
+A84,Ashbourne,7,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2014,New,All Buyer Types,280133.0
+A84,Ashbourne,7,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,265200.0
+A84,Ashbourne,7,2014,New,Household Buyer - Former Owner-Occupier,310000.0
+A84,Ashbourne,7,2014,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2014,Existing,All Buyer Types,234500.0
+A84,Ashbourne,7,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,177500.0
+A84,Ashbourne,7,2014,Existing,Household Buyer - Former Owner-Occupier,291500.0
+A84,Ashbourne,7,2014,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2014,All Dwelling Statuses,All Buyer Types,169050.0
+A84,Ashbourne,8,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,167500.0
+A84,Ashbourne,8,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,192250.0
+A84,Ashbourne,8,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,101000.0
+A84,Ashbourne,8,2014,New,All Buyer Types,295000.0
+A84,Ashbourne,8,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,8,2014,New,Household Buyer - Former Owner-Occupier,295000.0
+A84,Ashbourne,8,2014,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2014,Existing,All Buyer Types,155056.0
+A84,Ashbourne,8,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,167500.0
+A84,Ashbourne,8,2014,Existing,Household Buyer - Former Owner-Occupier,171700.0
+A84,Ashbourne,8,2014,Existing,Household Buyer - Non-Occupier,101000.0
+A84,Ashbourne,9,2014,All Dwelling Statuses,All Buyer Types,229759.0
+A84,Ashbourne,9,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,359795.0
+A84,Ashbourne,9,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197250.0
+A84,Ashbourne,9,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2014,New,All Buyer Types,359795.0
+A84,Ashbourne,9,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,359795.0
+A84,Ashbourne,9,2014,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,9,2014,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2014,Existing,All Buyer Types,197250.0
+A84,Ashbourne,9,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,9,2014,Existing,Household Buyer - Former Owner-Occupier,197250.0
+A84,Ashbourne,9,2014,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2014,All Dwelling Statuses,All Buyer Types,228244.0
+A84,Ashbourne,10,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,247885.0
+A84,Ashbourne,10,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,275500.0
+A84,Ashbourne,10,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,132500.0
+A84,Ashbourne,10,2014,New,All Buyer Types,216475.0
+A84,Ashbourne,10,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,272213.0
+A84,Ashbourne,10,2014,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,10,2014,New,Household Buyer - Non-Occupier,105000.0
+A84,Ashbourne,10,2014,Existing,All Buyer Types,232167.0
+A84,Ashbourne,10,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,231667.0
+A84,Ashbourne,10,2014,Existing,Household Buyer - Former Owner-Occupier,275500.0
+A84,Ashbourne,10,2014,Existing,Household Buyer - Non-Occupier,146250.0
+A84,Ashbourne,11,2014,All Dwelling Statuses,All Buyer Types,286215.0
+A84,Ashbourne,11,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,235693.0
+A84,Ashbourne,11,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,325313.0
+A84,Ashbourne,11,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,125000.0
+A84,Ashbourne,11,2014,New,All Buyer Types,262020.0
+A84,Ashbourne,11,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,238080.0
+A84,Ashbourne,11,2014,New,Household Buyer - Former Owner-Occupier,270000.0
+A84,Ashbourne,11,2014,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2014,Existing,All Buyer Types,298313.0
+A84,Ashbourne,11,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,234500.0
+A84,Ashbourne,11,2014,Existing,Household Buyer - Former Owner-Occupier,358500.0
+A84,Ashbourne,11,2014,Existing,Household Buyer - Non-Occupier,125000.0
+A84,Ashbourne,12,2014,All Dwelling Statuses,All Buyer Types,262009.0
+A84,Ashbourne,12,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,278278.0
+A84,Ashbourne,12,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,257188.0
+A84,Ashbourne,12,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,259913.0
+A84,Ashbourne,12,2014,New,All Buyer Types,292027.0
+A84,Ashbourne,12,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,278278.0
+A84,Ashbourne,12,2014,New,Household Buyer - Former Owner-Occupier,305000.0
+A84,Ashbourne,12,2014,New,Household Buyer - Non-Occupier,334825.0
+A84,Ashbourne,12,2014,Existing,All Buyer Types,246000.0
+A84,Ashbourne,12,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,12,2014,Existing,Household Buyer - Former Owner-Occupier,250357.0
+A84,Ashbourne,12,2014,Existing,Household Buyer - Non-Occupier,185000.0
+A84,Ashbourne,1,2015,All Dwelling Statuses,All Buyer Types,169937.0
+A84,Ashbourne,1,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,218666.0
+A84,Ashbourne,1,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,146625.0
+A84,Ashbourne,1,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,117000.0
+A84,Ashbourne,1,2015,New,All Buyer Types,260500.0
+A84,Ashbourne,1,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,260500.0
+A84,Ashbourne,1,2015,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,1,2015,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2015,Existing,All Buyer Types,139750.0
+A84,Ashbourne,1,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,135000.0
+A84,Ashbourne,1,2015,Existing,Household Buyer - Former Owner-Occupier,146625.0
+A84,Ashbourne,1,2015,Existing,Household Buyer - Non-Occupier,117000.0
+A84,Ashbourne,2,2015,All Dwelling Statuses,All Buyer Types,244087.0
+A84,Ashbourne,2,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,249875.0
+A84,Ashbourne,2,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,224538.0
+A84,Ashbourne,2,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,338230.0
+A84,Ashbourne,2,2015,New,All Buyer Types,309985.0
+A84,Ashbourne,2,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,325000.0
+A84,Ashbourne,2,2015,New,Household Buyer - Former Owner-Occupier,266725.0
+A84,Ashbourne,2,2015,New,Household Buyer - Non-Occupier,338230.0
+A84,Ashbourne,2,2015,Existing,All Buyer Types,219375.0
+A84,Ashbourne,2,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,224833.0
+A84,Ashbourne,2,2015,Existing,Household Buyer - Former Owner-Occupier,216100.0
+A84,Ashbourne,2,2015,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,3,2015,All Dwelling Statuses,All Buyer Types,247817.0
+A84,Ashbourne,3,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,262776.0
+A84,Ashbourne,3,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,212913.0
+A84,Ashbourne,3,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,3,2015,New,All Buyer Types,265882.0
+A84,Ashbourne,3,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,285086.0
+A84,Ashbourne,3,2015,New,Household Buyer - Former Owner-Occupier,217870.0
+A84,Ashbourne,3,2015,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,3,2015,Existing,All Buyer Types,205667.0
+A84,Ashbourne,3,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,207000.0
+A84,Ashbourne,3,2015,Existing,Household Buyer - Former Owner-Occupier,203000.0
+A84,Ashbourne,3,2015,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2015,All Dwelling Statuses,All Buyer Types,233222.0
+A84,Ashbourne,4,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,220300.0
+A84,Ashbourne,4,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,294167.0
+A84,Ashbourne,4,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,115000.0
+A84,Ashbourne,4,2015,New,All Buyer Types,295000.0
+A84,Ashbourne,4,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,294999.0
+A84,Ashbourne,4,2015,New,Household Buyer - Former Owner-Occupier,295000.0
+A84,Ashbourne,4,2015,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2015,Existing,All Buyer Types,215571.0
+A84,Ashbourne,4,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,201625.0
+A84,Ashbourne,4,2015,Existing,Household Buyer - Former Owner-Occupier,293750.0
+A84,Ashbourne,4,2015,Existing,Household Buyer - Non-Occupier,115000.0
+A84,Ashbourne,5,2015,All Dwelling Statuses,All Buyer Types,233638.0
+A84,Ashbourne,5,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,286579.0
+A84,Ashbourne,5,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,222222.0
+A84,Ashbourne,5,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,162000.0
+A84,Ashbourne,5,2015,New,All Buyer Types,294211.0
+A84,Ashbourne,5,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,300895.0
+A84,Ashbourne,5,2015,New,Household Buyer - Former Owner-Occupier,277500.0
+A84,Ashbourne,5,2015,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2015,Existing,All Buyer Types,195091.0
+A84,Ashbourne,5,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,215000.0
+A84,Ashbourne,5,2015,Existing,Household Buyer - Former Owner-Occupier,206429.0
+A84,Ashbourne,5,2015,Existing,Household Buyer - Non-Occupier,162000.0
+A84,Ashbourne,6,2015,All Dwelling Statuses,All Buyer Types,209195.0
+A84,Ashbourne,6,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,284038.0
+A84,Ashbourne,6,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,159300.0
+A84,Ashbourne,6,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2015,New,All Buyer Types,285490.0
+A84,Ashbourne,6,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,284038.0
+A84,Ashbourne,6,2015,New,Household Buyer - Former Owner-Occupier,291298.0
+A84,Ashbourne,6,2015,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2015,Existing,All Buyer Types,132900.0
+A84,Ashbourne,6,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,6,2015,Existing,Household Buyer - Former Owner-Occupier,132900.0
+A84,Ashbourne,6,2015,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2015,All Dwelling Statuses,All Buyer Types,299150.0
+A84,Ashbourne,7,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,243431.0
+A84,Ashbourne,7,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,405539.0
+A84,Ashbourne,7,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,175000.0
+A84,Ashbourne,7,2015,New,All Buyer Types,304656.0
+A84,Ashbourne,7,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,291004.0
+A84,Ashbourne,7,2015,New,Household Buyer - Former Owner-Occupier,318309.0
+A84,Ashbourne,7,2015,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2015,Existing,All Buyer Types,292857.0
+A84,Ashbourne,7,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+A84,Ashbourne,7,2015,Existing,Household Buyer - Former Owner-Occupier,580000.0
+A84,Ashbourne,7,2015,Existing,Household Buyer - Non-Occupier,175000.0
+A84,Ashbourne,8,2015,All Dwelling Statuses,All Buyer Types,231459.0
+A84,Ashbourne,8,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,203574.0
+A84,Ashbourne,8,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,259345.0
+A84,Ashbourne,8,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2015,New,All Buyer Types,323503.0
+A84,Ashbourne,8,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,340443.0
+A84,Ashbourne,8,2015,New,Household Buyer - Former Owner-Occupier,315034.0
+A84,Ashbourne,8,2015,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2015,Existing,All Buyer Types,200778.0
+A84,Ashbourne,8,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,176200.0
+A84,Ashbourne,8,2015,Existing,Household Buyer - Former Owner-Occupier,231500.0
+A84,Ashbourne,8,2015,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2015,All Dwelling Statuses,All Buyer Types,212000.0
+A84,Ashbourne,9,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,239750.0
+A84,Ashbourne,9,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,217167.0
+A84,Ashbourne,9,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,125500.0
+A84,Ashbourne,9,2015,New,All Buyer Types,388500.0
+A84,Ashbourne,9,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,327000.0
+A84,Ashbourne,9,2015,New,Household Buyer - Former Owner-Occupier,449999.0
+A84,Ashbourne,9,2015,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2015,Existing,All Buyer Types,161571.0
+A84,Ashbourne,9,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,152500.0
+A84,Ashbourne,9,2015,Existing,Household Buyer - Former Owner-Occupier,170600.0
+A84,Ashbourne,9,2015,Existing,Household Buyer - Non-Occupier,125500.0
+A84,Ashbourne,10,2015,All Dwelling Statuses,All Buyer Types,291408.0
+A84,Ashbourne,10,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,272999.0
+A84,Ashbourne,10,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,310890.0
+A84,Ashbourne,10,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,115000.0
+A84,Ashbourne,10,2015,New,All Buyer Types,381300.0
+A84,Ashbourne,10,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,272999.0
+A84,Ashbourne,10,2015,New,Household Buyer - Former Owner-Occupier,435450.0
+A84,Ashbourne,10,2015,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2015,Existing,All Buyer Types,261444.0
+A84,Ashbourne,10,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,10,2015,Existing,Household Buyer - Former Owner-Occupier,279750.0
+A84,Ashbourne,10,2015,Existing,Household Buyer - Non-Occupier,115000.0
+A84,Ashbourne,11,2015,All Dwelling Statuses,All Buyer Types,255656.0
+A84,Ashbourne,11,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,222600.0
+A84,Ashbourne,11,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,272185.0
+A84,Ashbourne,11,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2015,New,All Buyer Types,324356.0
+A84,Ashbourne,11,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,270000.0
+A84,Ashbourne,11,2015,New,Household Buyer - Former Owner-Occupier,342475.0
+A84,Ashbourne,11,2015,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2015,Existing,All Buyer Types,177143.0
+A84,Ashbourne,11,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,191000.0
+A84,Ashbourne,11,2015,Existing,Household Buyer - Former Owner-Occupier,166750.0
+A84,Ashbourne,11,2015,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,12,2015,All Dwelling Statuses,All Buyer Types,256197.0
+A84,Ashbourne,12,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,253530.0
+A84,Ashbourne,12,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,313563.0
+A84,Ashbourne,12,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,146800.0
+A84,Ashbourne,12,2015,New,All Buyer Types,334048.0
+A84,Ashbourne,12,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,297960.0
+A84,Ashbourne,12,2015,New,Household Buyer - Former Owner-Occupier,379157.0
+A84,Ashbourne,12,2015,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,12,2015,Existing,All Buyer Types,212406.0
+A84,Ashbourne,12,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,209100.0
+A84,Ashbourne,12,2015,Existing,Household Buyer - Former Owner-Occupier,269833.0
+A84,Ashbourne,12,2015,Existing,Household Buyer - Non-Occupier,146800.0
+A84,Ashbourne,1,2016,All Dwelling Statuses,All Buyer Types,230779.0
+A84,Ashbourne,1,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,256363.0
+A84,Ashbourne,1,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,223750.0
+A84,Ashbourne,1,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,142500.0
+A84,Ashbourne,1,2016,New,All Buyer Types,299950.0
+A84,Ashbourne,1,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,299950.0
+A84,Ashbourne,1,2016,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,1,2016,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2016,Existing,All Buyer Types,219250.0
+A84,Ashbourne,1,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,241833.0
+A84,Ashbourne,1,2016,Existing,Household Buyer - Former Owner-Occupier,223750.0
+A84,Ashbourne,1,2016,Existing,Household Buyer - Non-Occupier,142500.0
+A84,Ashbourne,2,2016,All Dwelling Statuses,All Buyer Types,304501.0
+A84,Ashbourne,2,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,367428.0
+A84,Ashbourne,2,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,262550.0
+A84,Ashbourne,2,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2016,New,All Buyer Types,324668.0
+A84,Ashbourne,2,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,309855.0
+A84,Ashbourne,2,2016,New,Household Buyer - Former Owner-Occupier,332075.0
+A84,Ashbourne,2,2016,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2016,Existing,All Buyer Types,274250.0
+A84,Ashbourne,2,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,425000.0
+A84,Ashbourne,2,2016,Existing,Household Buyer - Former Owner-Occupier,123500.0
+A84,Ashbourne,2,2016,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,3,2016,All Dwelling Statuses,All Buyer Types,280861.0
+A84,Ashbourne,3,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,298423.0
+A84,Ashbourne,3,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,293790.0
+A84,Ashbourne,3,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,213415.0
+A84,Ashbourne,3,2016,New,All Buyer Types,313434.0
+A84,Ashbourne,3,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,325564.0
+A84,Ashbourne,3,2016,New,Household Buyer - Former Owner-Occupier,313487.0
+A84,Ashbourne,3,2016,New,Household Buyer - Non-Occupier,276829.0
+A84,Ashbourne,3,2016,Existing,All Buyer Types,194000.0
+A84,Ashbourne,3,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,217000.0
+A84,Ashbourne,3,2016,Existing,Household Buyer - Former Owner-Occupier,215000.0
+A84,Ashbourne,3,2016,Existing,Household Buyer - Non-Occupier,150000.0
+A84,Ashbourne,4,2016,All Dwelling Statuses,All Buyer Types,262618.0
+A84,Ashbourne,4,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,294967.0
+A84,Ashbourne,4,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,302817.0
+A84,Ashbourne,4,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,93500.0
+A84,Ashbourne,4,2016,New,All Buyer Types,296960.0
+A84,Ashbourne,4,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,294967.0
+A84,Ashbourne,4,2016,New,Household Buyer - Former Owner-Occupier,299950.0
+A84,Ashbourne,4,2016,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2016,Existing,All Buyer Types,234000.0
+A84,Ashbourne,4,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,4,2016,Existing,Household Buyer - Former Owner-Occupier,304250.0
+A84,Ashbourne,4,2016,Existing,Household Buyer - Non-Occupier,93500.0
+A84,Ashbourne,5,2016,All Dwelling Statuses,All Buyer Types,209258.0
+A84,Ashbourne,5,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,285064.0
+A84,Ashbourne,5,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197007.0
+A84,Ashbourne,5,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,127833.0
+A84,Ashbourne,5,2016,New,All Buyer Types,353424.0
+A84,Ashbourne,5,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,386910.0
+A84,Ashbourne,5,2016,New,Household Buyer - Former Owner-Occupier,319939.0
+A84,Ashbourne,5,2016,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2016,Existing,All Buyer Types,170813.0
+A84,Ashbourne,5,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,217167.0
+A84,Ashbourne,5,2016,Existing,Household Buyer - Former Owner-Occupier,169689.0
+A84,Ashbourne,5,2016,Existing,Household Buyer - Non-Occupier,127833.0
+A84,Ashbourne,6,2016,All Dwelling Statuses,All Buyer Types,272445.0
+A84,Ashbourne,6,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,251491.0
+A84,Ashbourne,6,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,366738.0
+A84,Ashbourne,6,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2016,New,All Buyer Types,297433.0
+A84,Ashbourne,6,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,277632.0
+A84,Ashbourne,6,2016,New,Household Buyer - Former Owner-Occupier,366738.0
+A84,Ashbourne,6,2016,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2016,Existing,All Buyer Types,160000.0
+A84,Ashbourne,6,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+A84,Ashbourne,6,2016,Existing,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,6,2016,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2016,All Dwelling Statuses,All Buyer Types,258375.0
+A84,Ashbourne,7,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,307000.0
+A84,Ashbourne,7,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,209750.0
+A84,Ashbourne,7,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2016,New,All Buyer Types,334000.0
+A84,Ashbourne,7,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,344250.0
+A84,Ashbourne,7,2016,New,Household Buyer - Former Owner-Occupier,293000.0
+A84,Ashbourne,7,2016,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2016,Existing,All Buyer Types,204357.0
+A84,Ashbourne,7,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,232500.0
+A84,Ashbourne,7,2016,Existing,Household Buyer - Former Owner-Occupier,193100.0
+A84,Ashbourne,7,2016,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2016,All Dwelling Statuses,All Buyer Types,343587.0
+A84,Ashbourne,8,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,335666.0
+A84,Ashbourne,8,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,348340.0
+A84,Ashbourne,8,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2016,New,All Buyer Types,341400.0
+A84,Ashbourne,8,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,335666.0
+A84,Ashbourne,8,2016,New,Household Buyer - Former Owner-Occupier,350000.0
+A84,Ashbourne,8,2016,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2016,Existing,All Buyer Types,347233.0
+A84,Ashbourne,8,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,8,2016,Existing,Household Buyer - Former Owner-Occupier,347233.0
+A84,Ashbourne,8,2016,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2016,All Dwelling Statuses,All Buyer Types,272636.0
+A84,Ashbourne,9,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,263849.0
+A84,Ashbourne,9,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,292929.0
+A84,Ashbourne,9,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,140000.0
+A84,Ashbourne,9,2016,New,All Buyer Types,305209.0
+A84,Ashbourne,9,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,283256.0
+A84,Ashbourne,9,2016,New,Household Buyer - Former Owner-Occupier,356431.0
+A84,Ashbourne,9,2016,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2016,Existing,All Buyer Types,236444.0
+A84,Ashbourne,9,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,128000.0
+A84,Ashbourne,9,2016,Existing,Household Buyer - Former Owner-Occupier,265714.0
+A84,Ashbourne,9,2016,Existing,Household Buyer - Non-Occupier,140000.0
+A84,Ashbourne,10,2016,All Dwelling Statuses,All Buyer Types,283144.0
+A84,Ashbourne,10,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,267589.0
+A84,Ashbourne,10,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,290783.0
+A84,Ashbourne,10,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,294167.0
+A84,Ashbourne,10,2016,New,All Buyer Types,309750.0
+A84,Ashbourne,10,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,285717.0
+A84,Ashbourne,10,2016,New,Household Buyer - Former Owner-Occupier,338591.0
+A84,Ashbourne,10,2016,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2016,Existing,All Buyer Types,263633.0
+A84,Ashbourne,10,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,231333.0
+A84,Ashbourne,10,2016,Existing,Household Buyer - Former Owner-Occupier,264222.0
+A84,Ashbourne,10,2016,Existing,Household Buyer - Non-Occupier,294167.0
+A84,Ashbourne,11,2016,All Dwelling Statuses,All Buyer Types,269485.0
+A84,Ashbourne,11,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,292315.0
+A84,Ashbourne,11,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,271104.0
+A84,Ashbourne,11,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,144000.0
+A84,Ashbourne,11,2016,New,All Buyer Types,302100.0
+A84,Ashbourne,11,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,309692.0
+A84,Ashbourne,11,2016,New,Household Buyer - Former Owner-Occupier,297545.0
+A84,Ashbourne,11,2016,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2016,Existing,All Buyer Types,217300.0
+A84,Ashbourne,11,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,266250.0
+A84,Ashbourne,11,2016,Existing,Household Buyer - Former Owner-Occupier,205000.0
+A84,Ashbourne,11,2016,Existing,Household Buyer - Non-Occupier,144000.0
+A84,Ashbourne,12,2016,All Dwelling Statuses,All Buyer Types,300316.0
+A84,Ashbourne,12,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,241000.0
+A84,Ashbourne,12,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,315145.0
+A84,Ashbourne,12,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,12,2016,New,All Buyer Types,305118.0
+A84,Ashbourne,12,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,288000.0
+A84,Ashbourne,12,2016,New,Household Buyer - Former Owner-Occupier,311965.0
+A84,Ashbourne,12,2016,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,12,2016,Existing,All Buyer Types,297731.0
+A84,Ashbourne,12,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,194000.0
+A84,Ashbourne,12,2016,Existing,Household Buyer - Former Owner-Occupier,316591.0
+A84,Ashbourne,12,2016,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2017,All Dwelling Statuses,All Buyer Types,294135.0
+A84,Ashbourne,1,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,273493.0
+A84,Ashbourne,1,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,322143.0
+A84,Ashbourne,1,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,160000.0
+A84,Ashbourne,1,2017,New,All Buyer Types,389120.0
+A84,Ashbourne,1,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,288240.0
+A84,Ashbourne,1,2017,New,Household Buyer - Former Owner-Occupier,490000.0
+A84,Ashbourne,1,2017,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2017,Existing,All Buyer Types,239857.0
+A84,Ashbourne,1,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,244000.0
+A84,Ashbourne,1,2017,Existing,Household Buyer - Former Owner-Occupier,255000.0
+A84,Ashbourne,1,2017,Existing,Household Buyer - Non-Occupier,160000.0
+A84,Ashbourne,2,2017,All Dwelling Statuses,All Buyer Types,297478.0
+A84,Ashbourne,2,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,287499.0
+A84,Ashbourne,2,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,309518.0
+A84,Ashbourne,2,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,185000.0
+A84,Ashbourne,2,2017,New,All Buyer Types,285671.0
+A84,Ashbourne,2,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,287499.0
+A84,Ashbourne,2,2017,New,Household Buyer - Former Owner-Occupier,284940.0
+A84,Ashbourne,2,2017,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2017,Existing,All Buyer Types,309286.0
+A84,Ashbourne,2,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,2,2017,Existing,Household Buyer - Former Owner-Occupier,330000.0
+A84,Ashbourne,2,2017,Existing,Household Buyer - Non-Occupier,185000.0
+A84,Ashbourne,3,2017,All Dwelling Statuses,All Buyer Types,311251.0
+A84,Ashbourne,3,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,295358.0
+A84,Ashbourne,3,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,338483.0
+A84,Ashbourne,3,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,275000.0
+A84,Ashbourne,3,2017,New,All Buyer Types,329828.0
+A84,Ashbourne,3,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,305981.0
+A84,Ashbourne,3,2017,New,Household Buyer - Former Owner-Occupier,374180.0
+A84,Ashbourne,3,2017,New,Household Buyer - Non-Occupier,275000.0
+A84,Ashbourne,3,2017,Existing,All Buyer Types,190500.0
+A84,Ashbourne,3,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,221000.0
+A84,Ashbourne,3,2017,Existing,Household Buyer - Former Owner-Occupier,160000.0
+A84,Ashbourne,3,2017,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2017,All Dwelling Statuses,All Buyer Types,294641.0
+A84,Ashbourne,4,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,301352.0
+A84,Ashbourne,4,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,304440.0
+A84,Ashbourne,4,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+A84,Ashbourne,4,2017,New,All Buyer Types,321878.0
+A84,Ashbourne,4,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,324007.0
+A84,Ashbourne,4,2017,New,Household Buyer - Former Owner-Occupier,318532.0
+A84,Ashbourne,4,2017,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2017,Existing,All Buyer Types,240167.0
+A84,Ashbourne,4,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,176750.0
+A84,Ashbourne,4,2017,Existing,Household Buyer - Former Owner-Occupier,288000.0
+A84,Ashbourne,4,2017,Existing,Household Buyer - Non-Occupier,80000.0
+A84,Ashbourne,5,2017,All Dwelling Statuses,All Buyer Types,267645.0
+A84,Ashbourne,5,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,254616.0
+A84,Ashbourne,5,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,301531.0
+A84,Ashbourne,5,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,248500.0
+A84,Ashbourne,5,2017,New,All Buyer Types,296424.0
+A84,Ashbourne,5,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,281208.0
+A84,Ashbourne,5,2017,New,Household Buyer - Former Owner-Occupier,324683.0
+A84,Ashbourne,5,2017,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2017,Existing,All Buyer Types,215318.0
+A84,Ashbourne,5,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,197000.0
+A84,Ashbourne,5,2017,Existing,Household Buyer - Former Owner-Occupier,220500.0
+A84,Ashbourne,5,2017,Existing,Household Buyer - Non-Occupier,248500.0
+A84,Ashbourne,6,2017,All Dwelling Statuses,All Buyer Types,271803.0
+A84,Ashbourne,6,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,289102.0
+A84,Ashbourne,6,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,280995.0
+A84,Ashbourne,6,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,172333.0
+A84,Ashbourne,6,2017,New,All Buyer Types,311664.0
+A84,Ashbourne,6,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,301527.0
+A84,Ashbourne,6,2017,New,Household Buyer - Former Owner-Occupier,335992.0
+A84,Ashbourne,6,2017,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2017,Existing,All Buyer Types,175000.0
+A84,Ashbourne,6,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+A84,Ashbourne,6,2017,Existing,Household Buyer - Former Owner-Occupier,189333.0
+A84,Ashbourne,6,2017,Existing,Household Buyer - Non-Occupier,172333.0
+A84,Ashbourne,7,2017,All Dwelling Statuses,All Buyer Types,298576.0
+A84,Ashbourne,7,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,330559.0
+A84,Ashbourne,7,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,289347.0
+A84,Ashbourne,7,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,135000.0
+A84,Ashbourne,7,2017,New,All Buyer Types,300711.0
+A84,Ashbourne,7,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,289412.0
+A84,Ashbourne,7,2017,New,Household Buyer - Former Owner-Occupier,309184.0
+A84,Ashbourne,7,2017,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2017,Existing,All Buyer Types,292600.0
+A84,Ashbourne,7,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,454000.0
+A84,Ashbourne,7,2017,Existing,Household Buyer - Former Owner-Occupier,210000.0
+A84,Ashbourne,7,2017,Existing,Household Buyer - Non-Occupier,135000.0
+A84,Ashbourne,8,2017,All Dwelling Statuses,All Buyer Types,286636.0
+A84,Ashbourne,8,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,267659.0
+A84,Ashbourne,8,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,329979.0
+A84,Ashbourne,8,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,167500.0
+A84,Ashbourne,8,2017,New,All Buyer Types,378898.0
+A84,Ashbourne,8,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,337091.0
+A84,Ashbourne,8,2017,New,Household Buyer - Former Owner-Occupier,399801.0
+A84,Ashbourne,8,2017,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2017,Existing,All Buyer Types,203600.0
+A84,Ashbourne,8,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,226000.0
+A84,Ashbourne,8,2017,Existing,Household Buyer - Former Owner-Occupier,190333.0
+A84,Ashbourne,8,2017,Existing,Household Buyer - Non-Occupier,167500.0
+A84,Ashbourne,9,2017,All Dwelling Statuses,All Buyer Types,310253.0
+A84,Ashbourne,9,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,320225.0
+A84,Ashbourne,9,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,295755.0
+A84,Ashbourne,9,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,294800.0
+A84,Ashbourne,9,2017,New,All Buyer Types,339181.0
+A84,Ashbourne,9,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,328682.0
+A84,Ashbourne,9,2017,New,Household Buyer - Former Owner-Occupier,372403.0
+A84,Ashbourne,9,2017,New,Household Buyer - Non-Occupier,306100.0
+A84,Ashbourne,9,2017,Existing,All Buyer Types,232150.0
+A84,Ashbourne,9,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,266667.0
+A84,Ashbourne,9,2017,Existing,Household Buyer - Former Owner-Occupier,206333.0
+A84,Ashbourne,9,2017,Existing,Household Buyer - Non-Occupier,283500.0
+A84,Ashbourne,10,2017,All Dwelling Statuses,All Buyer Types,316637.0
+A84,Ashbourne,10,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,306920.0
+A84,Ashbourne,10,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,325783.0
+A84,Ashbourne,10,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2017,New,All Buyer Types,334570.0
+A84,Ashbourne,10,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,305977.0
+A84,Ashbourne,10,2017,New,Household Buyer - Former Owner-Occupier,368882.0
+A84,Ashbourne,10,2017,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2017,Existing,All Buyer Types,280773.0
+A84,Ashbourne,10,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,309750.0
+A84,Ashbourne,10,2017,Existing,Household Buyer - Former Owner-Occupier,264214.0
+A84,Ashbourne,10,2017,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2017,All Dwelling Statuses,All Buyer Types,298379.0
+A84,Ashbourne,11,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,296950.0
+A84,Ashbourne,11,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,306873.0
+A84,Ashbourne,11,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,220000.0
+A84,Ashbourne,11,2017,New,All Buyer Types,319326.0
+A84,Ashbourne,11,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,312283.0
+A84,Ashbourne,11,2017,New,Household Buyer - Former Owner-Occupier,328129.0
+A84,Ashbourne,11,2017,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2017,Existing,All Buyer Types,251250.0
+A84,Ashbourne,11,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,253143.0
+A84,Ashbourne,11,2017,Existing,Household Buyer - Former Owner-Occupier,258286.0
+A84,Ashbourne,11,2017,Existing,Household Buyer - Non-Occupier,220000.0
+A84,Ashbourne,12,2017,All Dwelling Statuses,All Buyer Types,342524.0
+A84,Ashbourne,12,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,313363.0
+A84,Ashbourne,12,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,364210.0
+A84,Ashbourne,12,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,261000.0
+A84,Ashbourne,12,2017,New,All Buyer Types,362284.0
+A84,Ashbourne,12,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,361590.0
+A84,Ashbourne,12,2017,New,Household Buyer - Former Owner-Occupier,369187.0
+A84,Ashbourne,12,2017,New,Household Buyer - Non-Occupier,284999.0
+A84,Ashbourne,12,2017,Existing,All Buyer Types,320684.0
+A84,Ashbourne,12,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,236200.0
+A84,Ashbourne,12,2017,Existing,Household Buyer - Former Owner-Occupier,359615.0
+A84,Ashbourne,12,2017,Existing,Household Buyer - Non-Occupier,237000.0
+A84,Ashbourne,1,2018,All Dwelling Statuses,All Buyer Types,319850.0
+A84,Ashbourne,1,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,335250.0
+A84,Ashbourne,1,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,326227.0
+A84,Ashbourne,1,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,245500.0
+A84,Ashbourne,1,2018,New,All Buyer Types,344545.0
+A84,Ashbourne,1,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,344000.0
+A84,Ashbourne,1,2018,New,Household Buyer - Former Owner-Occupier,345636.0
+A84,Ashbourne,1,2018,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2018,Existing,All Buyer Types,275400.0
+A84,Ashbourne,1,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,309000.0
+A84,Ashbourne,1,2018,Existing,Household Buyer - Former Owner-Occupier,268000.0
+A84,Ashbourne,1,2018,Existing,Household Buyer - Non-Occupier,245500.0
+A84,Ashbourne,2,2018,All Dwelling Statuses,All Buyer Types,310128.0
+A84,Ashbourne,2,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,311817.0
+A84,Ashbourne,2,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,327370.0
+A84,Ashbourne,2,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,157000.0
+A84,Ashbourne,2,2018,New,All Buyer Types,331563.0
+A84,Ashbourne,2,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,326919.0
+A84,Ashbourne,2,2018,New,Household Buyer - Former Owner-Occupier,338993.0
+A84,Ashbourne,2,2018,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2018,Existing,All Buyer Types,254400.0
+A84,Ashbourne,2,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,191000.0
+A84,Ashbourne,2,2018,Existing,Household Buyer - Former Owner-Occupier,308000.0
+A84,Ashbourne,2,2018,Existing,Household Buyer - Non-Occupier,157000.0
+A84,Ashbourne,3,2018,All Dwelling Statuses,All Buyer Types,311274.0
+A84,Ashbourne,3,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,305313.0
+A84,Ashbourne,3,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,331384.0
+A84,Ashbourne,3,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,175000.0
+A84,Ashbourne,3,2018,New,All Buyer Types,326056.0
+A84,Ashbourne,3,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,324474.0
+A84,Ashbourne,3,2018,New,Household Buyer - Former Owner-Occupier,328166.0
+A84,Ashbourne,3,2018,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,3,2018,Existing,All Buyer Types,252143.0
+A84,Ashbourne,3,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,244000.0
+A84,Ashbourne,3,2018,Existing,Household Buyer - Former Owner-Occupier,370000.0
+A84,Ashbourne,3,2018,Existing,Household Buyer - Non-Occupier,175000.0
+A84,Ashbourne,4,2018,All Dwelling Statuses,All Buyer Types,288644.0
+A84,Ashbourne,4,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,303060.0
+A84,Ashbourne,4,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,310826.0
+A84,Ashbourne,4,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,142250.0
+A84,Ashbourne,4,2018,New,All Buyer Types,320049.0
+A84,Ashbourne,4,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,333296.0
+A84,Ashbourne,4,2018,New,Household Buyer - Former Owner-Occupier,310587.0
+A84,Ashbourne,4,2018,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2018,Existing,All Buyer Types,225833.0
+A84,Ashbourne,4,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,252667.0
+A84,Ashbourne,4,2018,Existing,Household Buyer - Former Owner-Occupier,312500.0
+A84,Ashbourne,4,2018,Existing,Household Buyer - Non-Occupier,142250.0
+A84,Ashbourne,5,2018,All Dwelling Statuses,All Buyer Types,342579.0
+A84,Ashbourne,5,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,325123.0
+A84,Ashbourne,5,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,365743.0
+A84,Ashbourne,5,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,262000.0
+A84,Ashbourne,5,2018,New,All Buyer Types,381743.0
+A84,Ashbourne,5,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,339680.0
+A84,Ashbourne,5,2018,New,Household Buyer - Former Owner-Occupier,444924.0
+A84,Ashbourne,5,2018,New,Household Buyer - Non-Occupier,339000.0
+A84,Ashbourne,5,2018,Existing,All Buyer Types,264250.0
+A84,Ashbourne,5,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+A84,Ashbourne,5,2018,Existing,Household Buyer - Former Owner-Occupier,286563.0
+A84,Ashbourne,5,2018,Existing,Household Buyer - Non-Occupier,185000.0
+A84,Ashbourne,6,2018,All Dwelling Statuses,All Buyer Types,305033.0
+A84,Ashbourne,6,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,297001.0
+A84,Ashbourne,6,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,341816.0
+A84,Ashbourne,6,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,234000.0
+A84,Ashbourne,6,2018,New,All Buyer Types,350999.0
+A84,Ashbourne,6,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,336851.0
+A84,Ashbourne,6,2018,New,Household Buyer - Former Owner-Occupier,374579.0
+A84,Ashbourne,6,2018,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2018,Existing,All Buyer Types,252500.0
+A84,Ashbourne,6,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,217300.0
+A84,Ashbourne,6,2018,Existing,Household Buyer - Former Owner-Occupier,302500.0
+A84,Ashbourne,6,2018,Existing,Household Buyer - Non-Occupier,234000.0
+A84,Ashbourne,7,2018,All Dwelling Statuses,All Buyer Types,328016.0
+A84,Ashbourne,7,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,317592.0
+A84,Ashbourne,7,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,351500.0
+A84,Ashbourne,7,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,187000.0
+A84,Ashbourne,7,2018,New,All Buyer Types,379433.0
+A84,Ashbourne,7,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,359582.0
+A84,Ashbourne,7,2018,New,Household Buyer - Former Owner-Occupier,392666.0
+A84,Ashbourne,7,2018,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2018,Existing,All Buyer Types,276600.0
+A84,Ashbourne,7,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,284000.0
+A84,Ashbourne,7,2018,Existing,Household Buyer - Former Owner-Occupier,289750.0
+A84,Ashbourne,7,2018,Existing,Household Buyer - Non-Occupier,187000.0
+A84,Ashbourne,8,2018,All Dwelling Statuses,All Buyer Types,316360.0
+A84,Ashbourne,8,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,332261.0
+A84,Ashbourne,8,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,311653.0
+A84,Ashbourne,8,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,219750.0
+A84,Ashbourne,8,2018,New,All Buyer Types,338699.0
+A84,Ashbourne,8,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,339298.0
+A84,Ashbourne,8,2018,New,Household Buyer - Former Owner-Occupier,337499.0
+A84,Ashbourne,8,2018,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2018,Existing,All Buyer Types,269450.0
+A84,Ashbourne,8,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,283000.0
+A84,Ashbourne,8,2018,Existing,Household Buyer - Former Owner-Occupier,281500.0
+A84,Ashbourne,8,2018,Existing,Household Buyer - Non-Occupier,219750.0
+A84,Ashbourne,9,2018,All Dwelling Statuses,All Buyer Types,304191.0
+A84,Ashbourne,9,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,338552.0
+A84,Ashbourne,9,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,290602.0
+A84,Ashbourne,9,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,158000.0
+A84,Ashbourne,9,2018,New,All Buyer Types,368433.0
+A84,Ashbourne,9,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,350661.0
+A84,Ashbourne,9,2018,New,Household Buyer - Former Owner-Occupier,386205.0
+A84,Ashbourne,9,2018,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2018,Existing,All Buyer Types,227100.0
+A84,Ashbourne,9,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,314333.0
+A84,Ashbourne,9,2018,Existing,Household Buyer - Former Owner-Occupier,195000.0
+A84,Ashbourne,9,2018,Existing,Household Buyer - Non-Occupier,158000.0
+A84,Ashbourne,10,2018,All Dwelling Statuses,All Buyer Types,308405.0
+A84,Ashbourne,10,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,311352.0
+A84,Ashbourne,10,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,311619.0
+A84,Ashbourne,10,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,257250.0
+A84,Ashbourne,10,2018,New,All Buyer Types,343223.0
+A84,Ashbourne,10,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,341437.0
+A84,Ashbourne,10,2018,New,Household Buyer - Former Owner-Occupier,344563.0
+A84,Ashbourne,10,2018,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2018,Existing,All Buyer Types,256179.0
+A84,Ashbourne,10,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,257200.0
+A84,Ashbourne,10,2018,Existing,Household Buyer - Former Owner-Occupier,255143.0
+A84,Ashbourne,10,2018,Existing,Household Buyer - Non-Occupier,257250.0
+A84,Ashbourne,11,2018,All Dwelling Statuses,All Buyer Types,306574.0
+A84,Ashbourne,11,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,287808.0
+A84,Ashbourne,11,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,322000.0
+A84,Ashbourne,11,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,350000.0
+A84,Ashbourne,11,2018,New,All Buyer Types,362500.0
+A84,Ashbourne,11,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,363750.0
+A84,Ashbourne,11,2018,New,Household Buyer - Former Owner-Occupier,360000.0
+A84,Ashbourne,11,2018,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2018,Existing,All Buyer Types,290595.0
+A84,Ashbourne,11,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,254056.0
+A84,Ashbourne,11,2018,Existing,Household Buyer - Former Owner-Occupier,315091.0
+A84,Ashbourne,11,2018,Existing,Household Buyer - Non-Occupier,350000.0
+A84,Ashbourne,12,2018,All Dwelling Statuses,All Buyer Types,307948.0
+A84,Ashbourne,12,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,327048.0
+A84,Ashbourne,12,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,317185.0
+A84,Ashbourne,12,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,175500.0
+A84,Ashbourne,12,2018,New,All Buyer Types,353994.0
+A84,Ashbourne,12,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,346796.0
+A84,Ashbourne,12,2018,New,Household Buyer - Former Owner-Occupier,371989.0
+A84,Ashbourne,12,2018,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,12,2018,Existing,All Buyer Types,283154.0
+A84,Ashbourne,12,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,307300.0
+A84,Ashbourne,12,2018,Existing,Household Buyer - Former Owner-Occupier,298917.0
+A84,Ashbourne,12,2018,Existing,Household Buyer - Non-Occupier,175500.0
+A84,Ashbourne,1,2019,All Dwelling Statuses,All Buyer Types,288135.0
+A84,Ashbourne,1,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,357500.0
+A84,Ashbourne,1,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,253452.0
+A84,Ashbourne,1,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2019,New,All Buyer Types,358690.0
+A84,Ashbourne,1,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,357500.0
+A84,Ashbourne,1,2019,New,Household Buyer - Former Owner-Occupier,360474.0
+A84,Ashbourne,1,2019,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2019,Existing,All Buyer Types,199941.0
+A84,Ashbourne,1,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,1,2019,Existing,Household Buyer - Former Owner-Occupier,199941.0
+A84,Ashbourne,1,2019,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2019,All Dwelling Statuses,All Buyer Types,303972.0
+A84,Ashbourne,2,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,323889.0
+A84,Ashbourne,2,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,324343.0
+A84,Ashbourne,2,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,193750.0
+A84,Ashbourne,2,2019,New,All Buyer Types,361428.0
+A84,Ashbourne,2,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,375704.0
+A84,Ashbourne,2,2019,New,Household Buyer - Former Owner-Occupier,340014.0
+A84,Ashbourne,2,2019,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2019,Existing,All Buyer Types,268063.0
+A84,Ashbourne,2,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,292800.0
+A84,Ashbourne,2,2019,Existing,Household Buyer - Former Owner-Occupier,293000.0
+A84,Ashbourne,2,2019,Existing,Household Buyer - Non-Occupier,193750.0
+A84,Ashbourne,3,2019,All Dwelling Statuses,All Buyer Types,346759.0
+A84,Ashbourne,3,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,361071.0
+A84,Ashbourne,3,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,363073.0
+A84,Ashbourne,3,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,165000.0
+A84,Ashbourne,3,2019,New,All Buyer Types,406546.0
+A84,Ashbourne,3,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,422000.0
+A84,Ashbourne,3,2019,New,Household Buyer - Former Owner-Occupier,380788.0
+A84,Ashbourne,3,2019,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,3,2019,Existing,All Buyer Types,251100.0
+A84,Ashbourne,3,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,208750.0
+A84,Ashbourne,3,2019,Existing,Household Buyer - Former Owner-Occupier,336500.0
+A84,Ashbourne,3,2019,Existing,Household Buyer - Non-Occupier,165000.0
+A84,Ashbourne,4,2019,All Dwelling Statuses,All Buyer Types,353113.0
+A84,Ashbourne,4,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,314412.0
+A84,Ashbourne,4,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,377992.0
+A84,Ashbourne,4,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2019,New,All Buyer Types,363736.0
+A84,Ashbourne,4,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,309952.0
+A84,Ashbourne,4,2019,New,Household Buyer - Former Owner-Occupier,428277.0
+A84,Ashbourne,4,2019,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2019,Existing,All Buyer Types,343375.0
+A84,Ashbourne,4,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,323333.0
+A84,Ashbourne,4,2019,Existing,Household Buyer - Former Owner-Occupier,350056.0
+A84,Ashbourne,4,2019,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2019,All Dwelling Statuses,All Buyer Types,311366.0
+A84,Ashbourne,5,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,299857.0
+A84,Ashbourne,5,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,320875.0
+A84,Ashbourne,5,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,320120.0
+A84,Ashbourne,5,2019,New,All Buyer Types,365954.0
+A84,Ashbourne,5,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,344970.0
+A84,Ashbourne,5,2019,New,Household Buyer - Former Owner-Occupier,377417.0
+A84,Ashbourne,5,2019,New,Household Buyer - Non-Occupier,436480.0
+A84,Ashbourne,5,2019,Existing,All Buyer Types,256778.0
+A84,Ashbourne,5,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,224667.0
+A84,Ashbourne,5,2019,Existing,Household Buyer - Former Owner-Occupier,264333.0
+A84,Ashbourne,5,2019,Existing,Household Buyer - Non-Occupier,281333.0
+A84,Ashbourne,6,2019,All Dwelling Statuses,All Buyer Types,335951.0
+A84,Ashbourne,6,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,314316.0
+A84,Ashbourne,6,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,379722.0
+A84,Ashbourne,6,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,180000.0
+A84,Ashbourne,6,2019,New,All Buyer Types,403148.0
+A84,Ashbourne,6,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,378296.0
+A84,Ashbourne,6,2019,New,Household Buyer - Former Owner-Occupier,428000.0
+A84,Ashbourne,6,2019,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2019,Existing,All Buyer Types,274864.0
+A84,Ashbourne,6,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,261000.0
+A84,Ashbourne,6,2019,Existing,Household Buyer - Former Owner-Occupier,319375.0
+A84,Ashbourne,6,2019,Existing,Household Buyer - Non-Occupier,180000.0
+A84,Ashbourne,7,2019,All Dwelling Statuses,All Buyer Types,312520.0
+A84,Ashbourne,7,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,319774.0
+A84,Ashbourne,7,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,305267.0
+A84,Ashbourne,7,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2019,New,All Buyer Types,340174.0
+A84,Ashbourne,7,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,343419.0
+A84,Ashbourne,7,2019,New,Household Buyer - Former Owner-Occupier,331250.0
+A84,Ashbourne,7,2019,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2019,Existing,All Buyer Types,284867.0
+A84,Ashbourne,7,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,254750.0
+A84,Ashbourne,7,2019,Existing,Household Buyer - Former Owner-Occupier,295818.0
+A84,Ashbourne,7,2019,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2019,All Dwelling Statuses,All Buyer Types,320513.0
+A84,Ashbourne,8,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,319285.0
+A84,Ashbourne,8,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,321740.0
+A84,Ashbourne,8,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2019,New,All Buyer Types,361460.0
+A84,Ashbourne,8,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,355000.0
+A84,Ashbourne,8,2019,New,Household Buyer - Former Owner-Occupier,372227.0
+A84,Ashbourne,8,2019,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2019,Existing,All Buyer Types,265917.0
+A84,Ashbourne,8,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,230000.0
+A84,Ashbourne,8,2019,Existing,Household Buyer - Former Owner-Occupier,283875.0
+A84,Ashbourne,8,2019,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2019,All Dwelling Statuses,All Buyer Types,303826.0
+A84,Ashbourne,9,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,301768.0
+A84,Ashbourne,9,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,306296.0
+A84,Ashbourne,9,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2019,New,All Buyer Types,291156.0
+A84,Ashbourne,9,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,306322.0
+A84,Ashbourne,9,2019,New,Household Buyer - Former Owner-Occupier,253240.0
+A84,Ashbourne,9,2019,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2019,Existing,All Buyer Types,326000.0
+A84,Ashbourne,9,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,279000.0
+A84,Ashbourne,9,2019,Existing,Household Buyer - Former Owner-Occupier,341667.0
+A84,Ashbourne,9,2019,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2019,All Dwelling Statuses,All Buyer Types,286391.0
+A84,Ashbourne,10,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,271600.0
+A84,Ashbourne,10,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,318333.0
+A84,Ashbourne,10,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,250353.0
+A84,Ashbourne,10,2019,New,All Buyer Types,313735.0
+A84,Ashbourne,10,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,309743.0
+A84,Ashbourne,10,2019,New,Household Buyer - Former Owner-Occupier,332000.0
+A84,Ashbourne,10,2019,New,Household Buyer - Non-Occupier,250353.0
+A84,Ashbourne,10,2019,Existing,All Buyer Types,261000.0
+A84,Ashbourne,10,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,244900.0
+A84,Ashbourne,10,2019,Existing,Household Buyer - Former Owner-Occupier,301250.0
+A84,Ashbourne,10,2019,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2019,All Dwelling Statuses,All Buyer Types,286255.0
+A84,Ashbourne,11,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,251101.0
+A84,Ashbourne,11,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,336249.0
+A84,Ashbourne,11,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,173000.0
+A84,Ashbourne,11,2019,New,All Buyer Types,308918.0
+A84,Ashbourne,11,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,277518.0
+A84,Ashbourne,11,2019,New,Household Buyer - Former Owner-Occupier,346599.0
+A84,Ashbourne,11,2019,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2019,Existing,All Buyer Types,263591.0
+A84,Ashbourne,11,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,219400.0
+A84,Ashbourne,11,2019,Existing,Household Buyer - Former Owner-Occupier,325900.0
+A84,Ashbourne,11,2019,Existing,Household Buyer - Non-Occupier,173000.0
+A84,Ashbourne,12,2019,All Dwelling Statuses,All Buyer Types,330756.0
+A84,Ashbourne,12,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,318458.0
+A84,Ashbourne,12,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,358365.0
+A84,Ashbourne,12,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,246000.0
+A84,Ashbourne,12,2019,New,All Buyer Types,381281.0
+A84,Ashbourne,12,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,360922.0
+A84,Ashbourne,12,2019,New,Household Buyer - Former Owner-Occupier,413580.0
+A84,Ashbourne,12,2019,New,Household Buyer - Non-Occupier,330000.0
+A84,Ashbourne,12,2019,Existing,All Buyer Types,289147.0
+A84,Ashbourne,12,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,268917.0
+A84,Ashbourne,12,2019,Existing,Household Buyer - Former Owner-Occupier,321556.0
+A84,Ashbourne,12,2019,Existing,Household Buyer - Non-Occupier,204000.0
+A84,Ashbourne,1,2020,All Dwelling Statuses,All Buyer Types,311191.0
+A84,Ashbourne,1,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,276420.0
+A84,Ashbourne,1,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,340167.0
+A84,Ashbourne,1,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2020,New,All Buyer Types,362500.0
+A84,Ashbourne,1,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,330000.0
+A84,Ashbourne,1,2020,New,Household Buyer - Former Owner-Occupier,395000.0
+A84,Ashbourne,1,2020,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2020,Existing,All Buyer Types,299789.0
+A84,Ashbourne,1,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,263025.0
+A84,Ashbourne,1,2020,Existing,Household Buyer - Former Owner-Occupier,329200.0
+A84,Ashbourne,1,2020,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2020,All Dwelling Statuses,All Buyer Types,295998.0
+A84,Ashbourne,2,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,333596.0
+A84,Ashbourne,2,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,242500.0
+A84,Ashbourne,2,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,215000.0
+A84,Ashbourne,2,2020,New,All Buyer Types,358596.0
+A84,Ashbourne,2,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,356995.0
+A84,Ashbourne,2,2020,New,Household Buyer - Former Owner-Occupier,365000.0
+A84,Ashbourne,2,2020,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2020,Existing,All Buyer Types,191667.0
+A84,Ashbourne,2,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,240000.0
+A84,Ashbourne,2,2020,Existing,Household Buyer - Former Owner-Occupier,120000.0
+A84,Ashbourne,2,2020,Existing,Household Buyer - Non-Occupier,215000.0
+A84,Ashbourne,3,2020,All Dwelling Statuses,All Buyer Types,338951.0
+A84,Ashbourne,3,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,328720.0
+A84,Ashbourne,3,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,346035.0
+A84,Ashbourne,3,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,3,2020,New,All Buyer Types,410103.0
+A84,Ashbourne,3,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,377247.0
+A84,Ashbourne,3,2020,New,Household Buyer - Former Owner-Occupier,475817.0
+A84,Ashbourne,3,2020,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,3,2020,Existing,All Buyer Types,289692.0
+A84,Ashbourne,3,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,231667.0
+A84,Ashbourne,3,2020,Existing,Household Buyer - Former Owner-Occupier,307100.0
+A84,Ashbourne,3,2020,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2020,All Dwelling Statuses,All Buyer Types,389877.0
+A84,Ashbourne,4,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,329237.0
+A84,Ashbourne,4,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,438389.0
+A84,Ashbourne,4,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2020,New,All Buyer Types,412282.0
+A84,Ashbourne,4,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,374980.0
+A84,Ashbourne,4,2020,New,Household Buyer - Former Owner-Occupier,458911.0
+A84,Ashbourne,4,2020,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2020,Existing,All Buyer Types,367472.0
+A84,Ashbourne,4,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,253000.0
+A84,Ashbourne,4,2020,Existing,Household Buyer - Former Owner-Occupier,424708.0
+A84,Ashbourne,4,2020,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2020,All Dwelling Statuses,All Buyer Types,317287.0
+A84,Ashbourne,5,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,345998.0
+A84,Ashbourne,5,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,312908.0
+A84,Ashbourne,5,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,200000.0
+A84,Ashbourne,5,2020,New,All Buyer Types,366236.0
+A84,Ashbourne,5,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,384996.0
+A84,Ashbourne,5,2020,New,Household Buyer - Former Owner-Occupier,347475.0
+A84,Ashbourne,5,2020,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2020,Existing,All Buyer Types,292813.0
+A84,Ashbourne,5,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,320000.0
+A84,Ashbourne,5,2020,Existing,Household Buyer - Former Owner-Occupier,295625.0
+A84,Ashbourne,5,2020,Existing,Household Buyer - Non-Occupier,200000.0
+A84,Ashbourne,6,2020,All Dwelling Statuses,All Buyer Types,344950.0
+A84,Ashbourne,6,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,288387.0
+A84,Ashbourne,6,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,382658.0
+A84,Ashbourne,6,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2020,New,All Buyer Types,376875.0
+A84,Ashbourne,6,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,352275.0
+A84,Ashbourne,6,2020,New,Household Buyer - Former Owner-Occupier,401475.0
+A84,Ashbourne,6,2020,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2020,Existing,All Buyer Types,323667.0
+A84,Ashbourne,6,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,224500.0
+A84,Ashbourne,6,2020,Existing,Household Buyer - Former Owner-Occupier,373250.0
+A84,Ashbourne,6,2020,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2020,All Dwelling Statuses,All Buyer Types,381462.0
+A84,Ashbourne,7,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,238350.0
+A84,Ashbourne,7,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,429166.0
+A84,Ashbourne,7,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2020,New,All Buyer Types,311674.0
+A84,Ashbourne,7,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,238350.0
+A84,Ashbourne,7,2020,New,Household Buyer - Former Owner-Occupier,384999.0
+A84,Ashbourne,7,2020,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2020,Existing,All Buyer Types,451250.0
+A84,Ashbourne,7,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,7,2020,Existing,Household Buyer - Former Owner-Occupier,451250.0
+A84,Ashbourne,7,2020,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2020,All Dwelling Statuses,All Buyer Types,275200.0
+A84,Ashbourne,8,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,262000.0
+A84,Ashbourne,8,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,295000.0
+A84,Ashbourne,8,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2020,New,All Buyer Types,400000.0
+A84,Ashbourne,8,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,8,2020,New,Household Buyer - Former Owner-Occupier,400000.0
+A84,Ashbourne,8,2020,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2020,Existing,All Buyer Types,261333.0
+A84,Ashbourne,8,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,262000.0
+A84,Ashbourne,8,2020,Existing,Household Buyer - Former Owner-Occupier,260000.0
+A84,Ashbourne,8,2020,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2020,All Dwelling Statuses,All Buyer Types,340555.0
+A84,Ashbourne,9,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,317333.0
+A84,Ashbourne,9,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,477500.0
+A84,Ashbourne,9,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,206000.0
+A84,Ashbourne,9,2020,New,All Buyer Types,387499.0
+A84,Ashbourne,9,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,387499.0
+A84,Ashbourne,9,2020,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,9,2020,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2020,Existing,All Buyer Types,327143.0
+A84,Ashbourne,9,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,282250.0
+A84,Ashbourne,9,2020,Existing,Household Buyer - Former Owner-Occupier,477500.0
+A84,Ashbourne,9,2020,Existing,Household Buyer - Non-Occupier,206000.0
+A84,Ashbourne,10,2020,All Dwelling Statuses,All Buyer Types,334667.0
+A84,Ashbourne,10,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225000.0
+A84,Ashbourne,10,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,344636.0
+A84,Ashbourne,10,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2020,New,All Buyer Types,
+A84,Ashbourne,10,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,10,2020,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,10,2020,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2020,Existing,All Buyer Types,334667.0
+A84,Ashbourne,10,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,225000.0
+A84,Ashbourne,10,2020,Existing,Household Buyer - Former Owner-Occupier,344636.0
+A84,Ashbourne,10,2020,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2020,All Dwelling Statuses,All Buyer Types,322683.0
+A84,Ashbourne,11,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,327504.0
+A84,Ashbourne,11,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,333314.0
+A84,Ashbourne,11,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,172000.0
+A84,Ashbourne,11,2020,New,All Buyer Types,419119.0
+A84,Ashbourne,11,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,413262.0
+A84,Ashbourne,11,2020,New,Household Buyer - Former Owner-Occupier,424975.0
+A84,Ashbourne,11,2020,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2020,Existing,All Buyer Types,296967.0
+A84,Ashbourne,11,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,293200.0
+A84,Ashbourne,11,2020,Existing,Household Buyer - Former Owner-Occupier,312944.0
+A84,Ashbourne,11,2020,Existing,Household Buyer - Non-Occupier,172000.0
+A84,Ashbourne,12,2020,All Dwelling Statuses,All Buyer Types,344221.0
+A84,Ashbourne,12,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,284775.0
+A84,Ashbourne,12,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,368000.0
+A84,Ashbourne,12,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,12,2020,New,All Buyer Types,405999.0
+A84,Ashbourne,12,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,12,2020,New,Household Buyer - Former Owner-Occupier,405999.0
+A84,Ashbourne,12,2020,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,12,2020,Existing,All Buyer Types,333925.0
+A84,Ashbourne,12,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,284775.0
+A84,Ashbourne,12,2020,Existing,Household Buyer - Former Owner-Occupier,358500.0
+A84,Ashbourne,12,2020,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2021,All Dwelling Statuses,All Buyer Types,335667.0
+A84,Ashbourne,1,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,310000.0
+A84,Ashbourne,1,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,358833.0
+A84,Ashbourne,1,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,248000.0
+A84,Ashbourne,1,2021,New,All Buyer Types,
+A84,Ashbourne,1,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,1,2021,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,1,2021,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2021,Existing,All Buyer Types,335667.0
+A84,Ashbourne,1,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,310000.0
+A84,Ashbourne,1,2021,Existing,Household Buyer - Former Owner-Occupier,358833.0
+A84,Ashbourne,1,2021,Existing,Household Buyer - Non-Occupier,248000.0
+A84,Ashbourne,2,2021,All Dwelling Statuses,All Buyer Types,309250.0
+A84,Ashbourne,2,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,237917.0
+A84,Ashbourne,2,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,380583.0
+A84,Ashbourne,2,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2021,New,All Buyer Types,478500.0
+A84,Ashbourne,2,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,2,2021,New,Household Buyer - Former Owner-Occupier,478500.0
+A84,Ashbourne,2,2021,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2021,Existing,All Buyer Types,293864.0
+A84,Ashbourne,2,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,237917.0
+A84,Ashbourne,2,2021,Existing,Household Buyer - Former Owner-Occupier,361000.0
+A84,Ashbourne,2,2021,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,3,2021,All Dwelling Statuses,All Buyer Types,314312.0
+A84,Ashbourne,3,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,313750.0
+A84,Ashbourne,3,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,340100.0
+A84,Ashbourne,3,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,186500.0
+A84,Ashbourne,3,2021,New,All Buyer Types,475000.0
+A84,Ashbourne,3,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,3,2021,New,Household Buyer - Former Owner-Occupier,475000.0
+A84,Ashbourne,3,2021,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,3,2021,Existing,All Buyer Types,291357.0
+A84,Ashbourne,3,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,313750.0
+A84,Ashbourne,3,2021,Existing,Household Buyer - Former Owner-Occupier,306375.0
+A84,Ashbourne,3,2021,Existing,Household Buyer - Non-Occupier,186500.0
+A84,Ashbourne,4,2021,All Dwelling Statuses,All Buyer Types,401666.0
+A84,Ashbourne,4,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,479999.0
+A84,Ashbourne,4,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,362500.0
+A84,Ashbourne,4,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2021,New,All Buyer Types,479999.0
+A84,Ashbourne,4,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,479999.0
+A84,Ashbourne,4,2021,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,4,2021,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2021,Existing,All Buyer Types,362500.0
+A84,Ashbourne,4,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,4,2021,Existing,Household Buyer - Former Owner-Occupier,362500.0
+A84,Ashbourne,4,2021,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2021,All Dwelling Statuses,All Buyer Types,355083.0
+A84,Ashbourne,5,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,334000.0
+A84,Ashbourne,5,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,370143.0
+A84,Ashbourne,5,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2021,New,All Buyer Types,475000.0
+A84,Ashbourne,5,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,475000.0
+A84,Ashbourne,5,2021,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,5,2021,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2021,Existing,All Buyer Types,344182.0
+A84,Ashbourne,5,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,298750.0
+A84,Ashbourne,5,2021,Existing,Household Buyer - Former Owner-Occupier,370143.0
+A84,Ashbourne,5,2021,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2021,All Dwelling Statuses,All Buyer Types,347447.0
+A84,Ashbourne,6,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,333131.0
+A84,Ashbourne,6,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,402000.0
+A84,Ashbourne,6,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,186500.0
+A84,Ashbourne,6,2021,New,All Buyer Types,584525.0
+A84,Ashbourne,6,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,584525.0
+A84,Ashbourne,6,2021,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,6,2021,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2021,Existing,All Buyer Types,317813.0
+A84,Ashbourne,6,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,249333.0
+A84,Ashbourne,6,2021,Existing,Household Buyer - Former Owner-Occupier,402000.0
+A84,Ashbourne,6,2021,Existing,Household Buyer - Non-Occupier,186500.0
+A84,Ashbourne,7,2021,All Dwelling Statuses,All Buyer Types,290692.0
+A84,Ashbourne,7,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,275714.0
+A84,Ashbourne,7,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,329000.0
+A84,Ashbourne,7,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,204000.0
+A84,Ashbourne,7,2021,New,All Buyer Types,
+A84,Ashbourne,7,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,7,2021,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,7,2021,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2021,Existing,All Buyer Types,290692.0
+A84,Ashbourne,7,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,275714.0
+A84,Ashbourne,7,2021,Existing,Household Buyer - Former Owner-Occupier,329000.0
+A84,Ashbourne,7,2021,Existing,Household Buyer - Non-Occupier,204000.0
+A84,Ashbourne,8,2021,All Dwelling Statuses,All Buyer Types,326500.0
+A84,Ashbourne,8,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,268000.0
+A84,Ashbourne,8,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,355750.0
+A84,Ashbourne,8,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2021,New,All Buyer Types,
+A84,Ashbourne,8,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,8,2021,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,8,2021,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2021,Existing,All Buyer Types,326500.0
+A84,Ashbourne,8,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,268000.0
+A84,Ashbourne,8,2021,Existing,Household Buyer - Former Owner-Occupier,355750.0
+A84,Ashbourne,8,2021,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2021,All Dwelling Statuses,All Buyer Types,329385.0
+A84,Ashbourne,9,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,309667.0
+A84,Ashbourne,9,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,346286.0
+A84,Ashbourne,9,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2021,New,All Buyer Types,
+A84,Ashbourne,9,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,9,2021,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,9,2021,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2021,Existing,All Buyer Types,329385.0
+A84,Ashbourne,9,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,309667.0
+A84,Ashbourne,9,2021,Existing,Household Buyer - Former Owner-Occupier,346286.0
+A84,Ashbourne,9,2021,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2021,All Dwelling Statuses,All Buyer Types,316778.0
+A84,Ashbourne,10,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,307333.0
+A84,Ashbourne,10,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,319926.0
+A84,Ashbourne,10,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2021,New,All Buyer Types,736331.0
+A84,Ashbourne,10,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,10,2021,New,Household Buyer - Former Owner-Occupier,736331.0
+A84,Ashbourne,10,2021,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2021,Existing,All Buyer Types,278636.0
+A84,Ashbourne,10,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,307333.0
+A84,Ashbourne,10,2021,Existing,Household Buyer - Former Owner-Occupier,267875.0
+A84,Ashbourne,10,2021,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2021,All Dwelling Statuses,All Buyer Types,309179.0
+A84,Ashbourne,11,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+A84,Ashbourne,11,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,330955.0
+A84,Ashbourne,11,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,198000.0
+A84,Ashbourne,11,2021,New,All Buyer Types,
+A84,Ashbourne,11,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,11,2021,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,11,2021,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2021,Existing,All Buyer Types,309179.0
+A84,Ashbourne,11,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+A84,Ashbourne,11,2021,Existing,Household Buyer - Former Owner-Occupier,330955.0
+A84,Ashbourne,11,2021,Existing,Household Buyer - Non-Occupier,198000.0
+A84,Ashbourne,12,2021,All Dwelling Statuses,All Buyer Types,347727.0
+A84,Ashbourne,12,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,329750.0
+A84,Ashbourne,12,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,385167.0
+A84,Ashbourne,12,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,195000.0
+A84,Ashbourne,12,2021,New,All Buyer Types,750000.0
+A84,Ashbourne,12,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,12,2021,New,Household Buyer - Former Owner-Occupier,750000.0
+A84,Ashbourne,12,2021,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,12,2021,Existing,All Buyer Types,307500.0
+A84,Ashbourne,12,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,329750.0
+A84,Ashbourne,12,2021,Existing,Household Buyer - Former Owner-Occupier,312200.0
+A84,Ashbourne,12,2021,Existing,Household Buyer - Non-Occupier,195000.0
+A84,Ashbourne,1,2022,All Dwelling Statuses,All Buyer Types,263833.0
+A84,Ashbourne,1,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,264600.0
+A84,Ashbourne,1,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,260000.0
+A84,Ashbourne,1,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2022,New,All Buyer Types,
+A84,Ashbourne,1,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,1,2022,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,1,2022,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2022,Existing,All Buyer Types,263833.0
+A84,Ashbourne,1,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,264600.0
+A84,Ashbourne,1,2022,Existing,Household Buyer - Former Owner-Occupier,260000.0
+A84,Ashbourne,1,2022,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2022,All Dwelling Statuses,All Buyer Types,373000.0
+A84,Ashbourne,2,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,277667.0
+A84,Ashbourne,2,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,439286.0
+A84,Ashbourne,2,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,195000.0
+A84,Ashbourne,2,2022,New,All Buyer Types,227000.0
+A84,Ashbourne,2,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,227000.0
+A84,Ashbourne,2,2022,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,2,2022,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2022,Existing,All Buyer Types,387600.0
+A84,Ashbourne,2,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,303000.0
+A84,Ashbourne,2,2022,Existing,Household Buyer - Former Owner-Occupier,439286.0
+A84,Ashbourne,2,2022,Existing,Household Buyer - Non-Occupier,195000.0
+A84,Ashbourne,3,2022,All Dwelling Statuses,All Buyer Types,267250.0
+A84,Ashbourne,3,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225000.0
+A84,Ashbourne,3,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,298250.0
+A84,Ashbourne,3,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,240000.0
+A84,Ashbourne,3,2022,New,All Buyer Types,
+A84,Ashbourne,3,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,3,2022,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,3,2022,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,3,2022,Existing,All Buyer Types,267250.0
+A84,Ashbourne,3,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,225000.0
+A84,Ashbourne,3,2022,Existing,Household Buyer - Former Owner-Occupier,298250.0
+A84,Ashbourne,3,2022,Existing,Household Buyer - Non-Occupier,240000.0
+A84,Ashbourne,4,2022,All Dwelling Statuses,All Buyer Types,343400.0
+A84,Ashbourne,4,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,407500.0
+A84,Ashbourne,4,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,372500.0
+A84,Ashbourne,4,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,157000.0
+A84,Ashbourne,4,2022,New,All Buyer Types,
+A84,Ashbourne,4,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,4,2022,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,4,2022,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2022,Existing,All Buyer Types,343400.0
+A84,Ashbourne,4,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,407500.0
+A84,Ashbourne,4,2022,Existing,Household Buyer - Former Owner-Occupier,372500.0
+A84,Ashbourne,4,2022,Existing,Household Buyer - Non-Occupier,157000.0
+A84,Ashbourne,5,2022,All Dwelling Statuses,All Buyer Types,333269.0
+A84,Ashbourne,5,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,398800.0
+A84,Ashbourne,5,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,291929.0
+A84,Ashbourne,5,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,295000.0
+A84,Ashbourne,5,2022,New,All Buyer Types,
+A84,Ashbourne,5,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,5,2022,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,5,2022,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2022,Existing,All Buyer Types,333269.0
+A84,Ashbourne,5,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,398800.0
+A84,Ashbourne,5,2022,Existing,Household Buyer - Former Owner-Occupier,291929.0
+A84,Ashbourne,5,2022,Existing,Household Buyer - Non-Occupier,295000.0
+A84,Ashbourne,6,2022,All Dwelling Statuses,All Buyer Types,262197.0
+A84,Ashbourne,6,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,263500.0
+A84,Ashbourne,6,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,290144.0
+A84,Ashbourne,6,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,205000.0
+A84,Ashbourne,6,2022,New,All Buyer Types,
+A84,Ashbourne,6,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,6,2022,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,6,2022,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2022,Existing,All Buyer Types,262197.0
+A84,Ashbourne,6,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,263500.0
+A84,Ashbourne,6,2022,Existing,Household Buyer - Former Owner-Occupier,290144.0
+A84,Ashbourne,6,2022,Existing,Household Buyer - Non-Occupier,205000.0
+A84,Ashbourne,7,2022,All Dwelling Statuses,All Buyer Types,350284.0
+A84,Ashbourne,7,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,343563.0
+A84,Ashbourne,7,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,371875.0
+A84,Ashbourne,7,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,191000.0
+A84,Ashbourne,7,2022,New,All Buyer Types,312125.0
+A84,Ashbourne,7,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,312125.0
+A84,Ashbourne,7,2022,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,7,2022,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2022,Existing,All Buyer Types,354100.0
+A84,Ashbourne,7,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,375000.0
+A84,Ashbourne,7,2022,Existing,Household Buyer - Former Owner-Occupier,371875.0
+A84,Ashbourne,7,2022,Existing,Household Buyer - Non-Occupier,191000.0
+A84,Ashbourne,8,2022,All Dwelling Statuses,All Buyer Types,332867.0
+A84,Ashbourne,8,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,376250.0
+A84,Ashbourne,8,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,331100.0
+A84,Ashbourne,8,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,177000.0
+A84,Ashbourne,8,2022,New,All Buyer Types,
+A84,Ashbourne,8,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,8,2022,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,8,2022,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2022,Existing,All Buyer Types,332867.0
+A84,Ashbourne,8,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,376250.0
+A84,Ashbourne,8,2022,Existing,Household Buyer - Former Owner-Occupier,331100.0
+A84,Ashbourne,8,2022,Existing,Household Buyer - Non-Occupier,177000.0
+A84,Ashbourne,9,2022,All Dwelling Statuses,All Buyer Types,389273.0
+A84,Ashbourne,9,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,390667.0
+A84,Ashbourne,9,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,388750.0
+A84,Ashbourne,9,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2022,New,All Buyer Types,
+A84,Ashbourne,9,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,9,2022,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,9,2022,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2022,Existing,All Buyer Types,389273.0
+A84,Ashbourne,9,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,390667.0
+A84,Ashbourne,9,2022,Existing,Household Buyer - Former Owner-Occupier,388750.0
+A84,Ashbourne,9,2022,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2022,All Dwelling Statuses,All Buyer Types,305141.0
+A84,Ashbourne,10,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,253750.0
+A84,Ashbourne,10,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,315259.0
+A84,Ashbourne,10,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,450000.0
+A84,Ashbourne,10,2022,New,All Buyer Types,
+A84,Ashbourne,10,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,10,2022,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,10,2022,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2022,Existing,All Buyer Types,305141.0
+A84,Ashbourne,10,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,253750.0
+A84,Ashbourne,10,2022,Existing,Household Buyer - Former Owner-Occupier,315259.0
+A84,Ashbourne,10,2022,Existing,Household Buyer - Non-Occupier,450000.0
+A84,Ashbourne,11,2022,All Dwelling Statuses,All Buyer Types,347476.0
+A84,Ashbourne,11,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,347500.0
+A84,Ashbourne,11,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,347464.0
+A84,Ashbourne,11,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2022,New,All Buyer Types,
+A84,Ashbourne,11,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,11,2022,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,11,2022,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2022,Existing,All Buyer Types,347476.0
+A84,Ashbourne,11,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,347500.0
+A84,Ashbourne,11,2022,Existing,Household Buyer - Former Owner-Occupier,347464.0
+A84,Ashbourne,11,2022,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,12,2022,All Dwelling Statuses,All Buyer Types,350231.0
+A84,Ashbourne,12,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,286750.0
+A84,Ashbourne,12,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,423714.0
+A84,Ashbourne,12,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,220000.0
+A84,Ashbourne,12,2022,New,All Buyer Types,
+A84,Ashbourne,12,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,12,2022,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,12,2022,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,12,2022,Existing,All Buyer Types,350231.0
+A84,Ashbourne,12,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,286750.0
+A84,Ashbourne,12,2022,Existing,Household Buyer - Former Owner-Occupier,423714.0
+A84,Ashbourne,12,2022,Existing,Household Buyer - Non-Occupier,220000.0
+A84,Ashbourne,1,2023,All Dwelling Statuses,All Buyer Types,440972.0
+A84,Ashbourne,1,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,440000.0
+A84,Ashbourne,1,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,441250.0
+A84,Ashbourne,1,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2023,New,All Buyer Types,485000.0
+A84,Ashbourne,1,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,485000.0
+A84,Ashbourne,1,2023,New,Household Buyer - Former Owner-Occupier,485000.0
+A84,Ashbourne,1,2023,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2023,Existing,All Buyer Types,405750.0
+A84,Ashbourne,1,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,395000.0
+A84,Ashbourne,1,2023,Existing,Household Buyer - Former Owner-Occupier,408438.0
+A84,Ashbourne,1,2023,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2023,All Dwelling Statuses,All Buyer Types,363025.0
+A84,Ashbourne,2,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,400000.0
+A84,Ashbourne,2,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,350700.0
+A84,Ashbourne,2,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2023,New,All Buyer Types,423780.0
+A84,Ashbourne,2,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,490000.0
+A84,Ashbourne,2,2023,New,Household Buyer - Former Owner-Occupier,379633.0
+A84,Ashbourne,2,2023,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2023,Existing,All Buyer Types,335409.0
+A84,Ashbourne,2,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,310000.0
+A84,Ashbourne,2,2023,Existing,Household Buyer - Former Owner-Occupier,341056.0
+A84,Ashbourne,2,2023,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,3,2023,All Dwelling Statuses,All Buyer Types,357367.0
+A84,Ashbourne,3,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,300900.0
+A84,Ashbourne,3,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,395111.0
+A84,Ashbourne,3,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,300000.0
+A84,Ashbourne,3,2023,New,All Buyer Types,
+A84,Ashbourne,3,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,3,2023,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,3,2023,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,3,2023,Existing,All Buyer Types,357367.0
+A84,Ashbourne,3,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,300900.0
+A84,Ashbourne,3,2023,Existing,Household Buyer - Former Owner-Occupier,395111.0
+A84,Ashbourne,3,2023,Existing,Household Buyer - Non-Occupier,300000.0
+A84,Ashbourne,4,2023,All Dwelling Statuses,All Buyer Types,367857.0
+A84,Ashbourne,4,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,385000.0
+A84,Ashbourne,4,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,325000.0
+A84,Ashbourne,4,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2023,New,All Buyer Types,485000.0
+A84,Ashbourne,4,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,485000.0
+A84,Ashbourne,4,2023,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,4,2023,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2023,Existing,All Buyer Types,321000.0
+A84,Ashbourne,4,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,318333.0
+A84,Ashbourne,4,2023,Existing,Household Buyer - Former Owner-Occupier,325000.0
+A84,Ashbourne,4,2023,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2023,All Dwelling Statuses,All Buyer Types,320786.0
+A84,Ashbourne,5,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,299400.0
+A84,Ashbourne,5,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,365571.0
+A84,Ashbourne,5,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,217500.0
+A84,Ashbourne,5,2023,New,All Buyer Types,
+A84,Ashbourne,5,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,5,2023,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,5,2023,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2023,Existing,All Buyer Types,320786.0
+A84,Ashbourne,5,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,299400.0
+A84,Ashbourne,5,2023,Existing,Household Buyer - Former Owner-Occupier,365571.0
+A84,Ashbourne,5,2023,Existing,Household Buyer - Non-Occupier,217500.0
+A84,Ashbourne,6,2023,All Dwelling Statuses,All Buyer Types,326373.0
+A84,Ashbourne,6,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,348000.0
+A84,Ashbourne,6,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,346962.0
+A84,Ashbourne,6,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,268517.0
+A84,Ashbourne,6,2023,New,All Buyer Types,255646.0
+A84,Ashbourne,6,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,6,2023,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,6,2023,New,Household Buyer - Non-Occupier,255646.0
+A84,Ashbourne,6,2023,Existing,All Buyer Types,345233.0
+A84,Ashbourne,6,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,348000.0
+A84,Ashbourne,6,2023,Existing,Household Buyer - Former Owner-Occupier,346962.0
+A84,Ashbourne,6,2023,Existing,Household Buyer - Non-Occupier,320000.0
+A84,Ashbourne,7,2023,All Dwelling Statuses,All Buyer Types,370193.0
+A84,Ashbourne,7,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,347900.0
+A84,Ashbourne,7,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,390466.0
+A84,Ashbourne,7,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,263750.0
+A84,Ashbourne,7,2023,New,All Buyer Types,478316.0
+A84,Ashbourne,7,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,467500.0
+A84,Ashbourne,7,2023,New,Household Buyer - Former Owner-Occupier,483725.0
+A84,Ashbourne,7,2023,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2023,Existing,All Buyer Types,353975.0
+A84,Ashbourne,7,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,318000.0
+A84,Ashbourne,7,2023,Existing,Household Buyer - Former Owner-Occupier,377143.0
+A84,Ashbourne,7,2023,Existing,Household Buyer - Non-Occupier,263750.0
+A84,Ashbourne,8,2023,All Dwelling Statuses,All Buyer Types,339884.0
+A84,Ashbourne,8,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,333400.0
+A84,Ashbourne,8,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,342046.0
+A84,Ashbourne,8,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2023,New,All Buyer Types,426308.0
+A84,Ashbourne,8,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,426667.0
+A84,Ashbourne,8,2023,New,Household Buyer - Former Owner-Occupier,425950.0
+A84,Ashbourne,8,2023,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,8,2023,Existing,All Buyer Types,302845.0
+A84,Ashbourne,8,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,193500.0
+A84,Ashbourne,8,2023,Existing,Household Buyer - Former Owner-Occupier,321069.0
+A84,Ashbourne,8,2023,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2023,All Dwelling Statuses,All Buyer Types,333306.0
+A84,Ashbourne,9,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,321667.0
+A84,Ashbourne,9,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,355312.0
+A84,Ashbourne,9,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,262000.0
+A84,Ashbourne,9,2023,New,All Buyer Types,545000.0
+A84,Ashbourne,9,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,9,2023,New,Household Buyer - Former Owner-Occupier,545000.0
+A84,Ashbourne,9,2023,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,9,2023,Existing,All Buyer Types,320853.0
+A84,Ashbourne,9,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,321667.0
+A84,Ashbourne,9,2023,Existing,Household Buyer - Former Owner-Occupier,328214.0
+A84,Ashbourne,9,2023,Existing,Household Buyer - Non-Occupier,262000.0
+A84,Ashbourne,10,2023,All Dwelling Statuses,All Buyer Types,362235.0
+A84,Ashbourne,10,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,314375.0
+A84,Ashbourne,10,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,376962.0
+A84,Ashbourne,10,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2023,New,All Buyer Types,467500.0
+A84,Ashbourne,10,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,10,2023,New,Household Buyer - Former Owner-Occupier,467500.0
+A84,Ashbourne,10,2023,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,10,2023,Existing,All Buyer Types,355656.0
+A84,Ashbourne,10,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,314375.0
+A84,Ashbourne,10,2023,Existing,Household Buyer - Former Owner-Occupier,369417.0
+A84,Ashbourne,10,2023,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2023,All Dwelling Statuses,All Buyer Types,325357.0
+A84,Ashbourne,11,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,350143.0
+A84,Ashbourne,11,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,309500.0
+A84,Ashbourne,11,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,247000.0
+A84,Ashbourne,11,2023,New,All Buyer Types,
+A84,Ashbourne,11,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,11,2023,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,11,2023,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,11,2023,Existing,All Buyer Types,325357.0
+A84,Ashbourne,11,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,350143.0
+A84,Ashbourne,11,2023,Existing,Household Buyer - Former Owner-Occupier,309500.0
+A84,Ashbourne,11,2023,Existing,Household Buyer - Non-Occupier,247000.0
+A84,Ashbourne,12,2023,All Dwelling Statuses,All Buyer Types,427279.0
+A84,Ashbourne,12,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,380825.0
+A84,Ashbourne,12,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,462119.0
+A84,Ashbourne,12,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,12,2023,New,All Buyer Types,499950.0
+A84,Ashbourne,12,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,499949.0
+A84,Ashbourne,12,2023,New,Household Buyer - Former Owner-Occupier,499950.0
+A84,Ashbourne,12,2023,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,12,2023,Existing,All Buyer Types,415167.0
+A84,Ashbourne,12,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,357000.0
+A84,Ashbourne,12,2023,Existing,Household Buyer - Former Owner-Occupier,456714.0
+A84,Ashbourne,12,2023,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2024,All Dwelling Statuses,All Buyer Types,367550.0
+A84,Ashbourne,1,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,413983.0
+A84,Ashbourne,1,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,344333.0
+A84,Ashbourne,1,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2024,New,All Buyer Types,497475.0
+A84,Ashbourne,1,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,497475.0
+A84,Ashbourne,1,2024,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,1,2024,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,1,2024,Existing,All Buyer Types,330429.0
+A84,Ashbourne,1,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,247000.0
+A84,Ashbourne,1,2024,Existing,Household Buyer - Former Owner-Occupier,344333.0
+A84,Ashbourne,1,2024,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2024,All Dwelling Statuses,All Buyer Types,384768.0
+A84,Ashbourne,2,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,413750.0
+A84,Ashbourne,2,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,377186.0
+A84,Ashbourne,2,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,375000.0
+A84,Ashbourne,2,2024,New,All Buyer Types,499949.0
+A84,Ashbourne,2,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,2,2024,New,Household Buyer - Former Owner-Occupier,499949.0
+A84,Ashbourne,2,2024,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,2,2024,Existing,All Buyer Types,378369.0
+A84,Ashbourne,2,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,413750.0
+A84,Ashbourne,2,2024,Existing,Household Buyer - Former Owner-Occupier,367742.0
+A84,Ashbourne,2,2024,Existing,Household Buyer - Non-Occupier,375000.0
+A84,Ashbourne,3,2024,All Dwelling Statuses,All Buyer Types,395600.0
+A84,Ashbourne,3,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,419264.0
+A84,Ashbourne,3,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,372590.0
+A84,Ashbourne,3,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,345000.0
+A84,Ashbourne,3,2024,New,All Buyer Types,498960.0
+A84,Ashbourne,3,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,498712.0
+A84,Ashbourne,3,2024,New,Household Buyer - Former Owner-Occupier,499949.0
+A84,Ashbourne,3,2024,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,3,2024,Existing,All Buyer Types,331000.0
+A84,Ashbourne,3,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,313333.0
+A84,Ashbourne,3,2024,Existing,Household Buyer - Former Owner-Occupier,340750.0
+A84,Ashbourne,3,2024,Existing,Household Buyer - Non-Occupier,345000.0
+A84,Ashbourne,4,2024,All Dwelling Statuses,All Buyer Types,357145.0
+A84,Ashbourne,4,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,395908.0
+A84,Ashbourne,4,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,320000.0
+A84,Ashbourne,4,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,278000.0
+A84,Ashbourne,4,2024,New,All Buyer Types,457475.0
+A84,Ashbourne,4,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,457475.0
+A84,Ashbourne,4,2024,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,4,2024,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,4,2024,Existing,All Buyer Types,332063.0
+A84,Ashbourne,4,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,365125.0
+A84,Ashbourne,4,2024,Existing,Household Buyer - Former Owner-Occupier,320000.0
+A84,Ashbourne,4,2024,Existing,Household Buyer - Non-Occupier,278000.0
+A84,Ashbourne,5,2024,All Dwelling Statuses,All Buyer Types,334182.0
+A84,Ashbourne,5,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,283000.0
+A84,Ashbourne,5,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,354655.0
+A84,Ashbourne,5,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2024,New,All Buyer Types,
+A84,Ashbourne,5,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,5,2024,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,5,2024,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,5,2024,Existing,All Buyer Types,334182.0
+A84,Ashbourne,5,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,283000.0
+A84,Ashbourne,5,2024,Existing,Household Buyer - Former Owner-Occupier,354655.0
+A84,Ashbourne,5,2024,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2024,All Dwelling Statuses,All Buyer Types,428667.0
+A84,Ashbourne,6,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,6,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,428667.0
+A84,Ashbourne,6,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2024,New,All Buyer Types,
+A84,Ashbourne,6,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,6,2024,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,6,2024,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,6,2024,Existing,All Buyer Types,428667.0
+A84,Ashbourne,6,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,6,2024,Existing,Household Buyer - Former Owner-Occupier,428667.0
+A84,Ashbourne,6,2024,Existing,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2024,All Dwelling Statuses,All Buyer Types,311364.0
+A84,Ashbourne,7,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,273000.0
+A84,Ashbourne,7,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,357400.0
+A84,Ashbourne,7,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2024,New,All Buyer Types,
+A84,Ashbourne,7,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A84,Ashbourne,7,2024,New,Household Buyer - Former Owner-Occupier,
+A84,Ashbourne,7,2024,New,Household Buyer - Non-Occupier,
+A84,Ashbourne,7,2024,Existing,All Buyer Types,311364.0
+A84,Ashbourne,7,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,273000.0
+A84,Ashbourne,7,2024,Existing,Household Buyer - Former Owner-Occupier,357400.0
+A84,Ashbourne,7,2024,Existing,Household Buyer - Non-Occupier,

@@ -1,0 +1,2101 @@
+Routing Key,City,Month,Year,Dwelling Status,Type of Buyer,VALUE
+A42,Garristown,1,2010,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,1,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,1,2010,New,All Buyer Types,
+A42,Garristown,1,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2010,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2010,New,Household Buyer - Non-Occupier,
+A42,Garristown,1,2010,Existing,All Buyer Types,
+A42,Garristown,1,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2010,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2010,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,2,2010,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,2,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,2,2010,New,All Buyer Types,
+A42,Garristown,2,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2010,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2010,New,Household Buyer - Non-Occupier,
+A42,Garristown,2,2010,Existing,All Buyer Types,
+A42,Garristown,2,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2010,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2010,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,3,2010,All Dwelling Statuses,All Buyer Types,425000.0
+A42,Garristown,3,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,425000.0
+A42,Garristown,3,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,3,2010,New,All Buyer Types,
+A42,Garristown,3,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2010,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2010,New,Household Buyer - Non-Occupier,
+A42,Garristown,3,2010,Existing,All Buyer Types,425000.0
+A42,Garristown,3,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,425000.0
+A42,Garristown,3,2010,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2010,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,4,2010,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,4,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,4,2010,New,All Buyer Types,
+A42,Garristown,4,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2010,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2010,New,Household Buyer - Non-Occupier,
+A42,Garristown,4,2010,Existing,All Buyer Types,
+A42,Garristown,4,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2010,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2010,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,5,2010,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,5,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,5,2010,New,All Buyer Types,
+A42,Garristown,5,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2010,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2010,New,Household Buyer - Non-Occupier,
+A42,Garristown,5,2010,Existing,All Buyer Types,
+A42,Garristown,5,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2010,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2010,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,6,2010,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,6,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,6,2010,New,All Buyer Types,
+A42,Garristown,6,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2010,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2010,New,Household Buyer - Non-Occupier,
+A42,Garristown,6,2010,Existing,All Buyer Types,
+A42,Garristown,6,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2010,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2010,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,7,2010,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,7,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,7,2010,New,All Buyer Types,
+A42,Garristown,7,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2010,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2010,New,Household Buyer - Non-Occupier,
+A42,Garristown,7,2010,Existing,All Buyer Types,
+A42,Garristown,7,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2010,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2010,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,8,2010,All Dwelling Statuses,All Buyer Types,327150.0
+A42,Garristown,8,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,204300.0
+A42,Garristown,8,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,450000.0
+A42,Garristown,8,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,8,2010,New,All Buyer Types,204300.0
+A42,Garristown,8,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,204300.0
+A42,Garristown,8,2010,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2010,New,Household Buyer - Non-Occupier,
+A42,Garristown,8,2010,Existing,All Buyer Types,450000.0
+A42,Garristown,8,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2010,Existing,Household Buyer - Former Owner-Occupier,450000.0
+A42,Garristown,8,2010,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,9,2010,All Dwelling Statuses,All Buyer Types,447500.0
+A42,Garristown,9,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,447500.0
+A42,Garristown,9,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,9,2010,New,All Buyer Types,
+A42,Garristown,9,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2010,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,9,2010,New,Household Buyer - Non-Occupier,
+A42,Garristown,9,2010,Existing,All Buyer Types,447500.0
+A42,Garristown,9,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2010,Existing,Household Buyer - Former Owner-Occupier,447500.0
+A42,Garristown,9,2010,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,10,2010,All Dwelling Statuses,All Buyer Types,170000.0
+A42,Garristown,10,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,170000.0
+A42,Garristown,10,2010,New,All Buyer Types,170000.0
+A42,Garristown,10,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2010,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2010,New,Household Buyer - Non-Occupier,170000.0
+A42,Garristown,10,2010,Existing,All Buyer Types,
+A42,Garristown,10,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2010,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2010,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,11,2010,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,11,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,11,2010,New,All Buyer Types,
+A42,Garristown,11,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2010,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2010,New,Household Buyer - Non-Occupier,
+A42,Garristown,11,2010,Existing,All Buyer Types,
+A42,Garristown,11,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2010,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2010,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,12,2010,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,12,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,12,2010,New,All Buyer Types,
+A42,Garristown,12,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2010,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2010,New,Household Buyer - Non-Occupier,
+A42,Garristown,12,2010,Existing,All Buyer Types,
+A42,Garristown,12,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2010,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2010,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,1,2011,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,1,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,1,2011,New,All Buyer Types,
+A42,Garristown,1,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2011,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2011,New,Household Buyer - Non-Occupier,
+A42,Garristown,1,2011,Existing,All Buyer Types,
+A42,Garristown,1,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2011,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2011,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,2,2011,All Dwelling Statuses,All Buyer Types,100000.0
+A42,Garristown,2,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+A42,Garristown,2,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,2,2011,New,All Buyer Types,
+A42,Garristown,2,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2011,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2011,New,Household Buyer - Non-Occupier,
+A42,Garristown,2,2011,Existing,All Buyer Types,100000.0
+A42,Garristown,2,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+A42,Garristown,2,2011,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2011,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,3,2011,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,3,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,3,2011,New,All Buyer Types,
+A42,Garristown,3,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2011,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2011,New,Household Buyer - Non-Occupier,
+A42,Garristown,3,2011,Existing,All Buyer Types,
+A42,Garristown,3,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2011,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2011,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,4,2011,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,4,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,4,2011,New,All Buyer Types,
+A42,Garristown,4,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2011,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2011,New,Household Buyer - Non-Occupier,
+A42,Garristown,4,2011,Existing,All Buyer Types,
+A42,Garristown,4,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2011,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2011,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,5,2011,All Dwelling Statuses,All Buyer Types,130000.0
+A42,Garristown,5,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,130000.0
+A42,Garristown,5,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,5,2011,New,All Buyer Types,
+A42,Garristown,5,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2011,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2011,New,Household Buyer - Non-Occupier,
+A42,Garristown,5,2011,Existing,All Buyer Types,130000.0
+A42,Garristown,5,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2011,Existing,Household Buyer - Former Owner-Occupier,130000.0
+A42,Garristown,5,2011,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,6,2011,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,6,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,6,2011,New,All Buyer Types,
+A42,Garristown,6,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2011,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2011,New,Household Buyer - Non-Occupier,
+A42,Garristown,6,2011,Existing,All Buyer Types,
+A42,Garristown,6,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2011,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2011,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,7,2011,All Dwelling Statuses,All Buyer Types,180833.0
+A42,Garristown,7,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,90000.0
+A42,Garristown,7,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,226250.0
+A42,Garristown,7,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,7,2011,New,All Buyer Types,
+A42,Garristown,7,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2011,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2011,New,Household Buyer - Non-Occupier,
+A42,Garristown,7,2011,Existing,All Buyer Types,180833.0
+A42,Garristown,7,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,90000.0
+A42,Garristown,7,2011,Existing,Household Buyer - Former Owner-Occupier,226250.0
+A42,Garristown,7,2011,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,8,2011,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,8,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,8,2011,New,All Buyer Types,
+A42,Garristown,8,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2011,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2011,New,Household Buyer - Non-Occupier,
+A42,Garristown,8,2011,Existing,All Buyer Types,
+A42,Garristown,8,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2011,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2011,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,9,2011,All Dwelling Statuses,All Buyer Types,205000.0
+A42,Garristown,9,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+A42,Garristown,9,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,9,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,9,2011,New,All Buyer Types,
+A42,Garristown,9,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2011,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,9,2011,New,Household Buyer - Non-Occupier,
+A42,Garristown,9,2011,Existing,All Buyer Types,205000.0
+A42,Garristown,9,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+A42,Garristown,9,2011,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,9,2011,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,10,2011,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,10,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,10,2011,New,All Buyer Types,
+A42,Garristown,10,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2011,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2011,New,Household Buyer - Non-Occupier,
+A42,Garristown,10,2011,Existing,All Buyer Types,
+A42,Garristown,10,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2011,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2011,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,11,2011,All Dwelling Statuses,All Buyer Types,260000.0
+A42,Garristown,11,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+A42,Garristown,11,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,275000.0
+A42,Garristown,11,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,11,2011,New,All Buyer Types,
+A42,Garristown,11,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2011,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2011,New,Household Buyer - Non-Occupier,
+A42,Garristown,11,2011,Existing,All Buyer Types,260000.0
+A42,Garristown,11,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+A42,Garristown,11,2011,Existing,Household Buyer - Former Owner-Occupier,275000.0
+A42,Garristown,11,2011,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,12,2011,All Dwelling Statuses,All Buyer Types,300000.0
+A42,Garristown,12,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,300000.0
+A42,Garristown,12,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,12,2011,New,All Buyer Types,
+A42,Garristown,12,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2011,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2011,New,Household Buyer - Non-Occupier,
+A42,Garristown,12,2011,Existing,All Buyer Types,300000.0
+A42,Garristown,12,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2011,Existing,Household Buyer - Former Owner-Occupier,300000.0
+A42,Garristown,12,2011,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,1,2012,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,1,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,1,2012,New,All Buyer Types,
+A42,Garristown,1,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2012,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2012,New,Household Buyer - Non-Occupier,
+A42,Garristown,1,2012,Existing,All Buyer Types,
+A42,Garristown,1,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2012,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2012,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,2,2012,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,2,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,2,2012,New,All Buyer Types,
+A42,Garristown,2,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2012,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2012,New,Household Buyer - Non-Occupier,
+A42,Garristown,2,2012,Existing,All Buyer Types,
+A42,Garristown,2,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2012,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2012,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,3,2012,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,3,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,3,2012,New,All Buyer Types,
+A42,Garristown,3,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2012,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2012,New,Household Buyer - Non-Occupier,
+A42,Garristown,3,2012,Existing,All Buyer Types,
+A42,Garristown,3,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2012,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2012,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,4,2012,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,4,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,4,2012,New,All Buyer Types,
+A42,Garristown,4,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2012,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2012,New,Household Buyer - Non-Occupier,
+A42,Garristown,4,2012,Existing,All Buyer Types,
+A42,Garristown,4,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2012,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2012,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,5,2012,All Dwelling Statuses,All Buyer Types,217500.0
+A42,Garristown,5,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,217500.0
+A42,Garristown,5,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,5,2012,New,All Buyer Types,
+A42,Garristown,5,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2012,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2012,New,Household Buyer - Non-Occupier,
+A42,Garristown,5,2012,Existing,All Buyer Types,217500.0
+A42,Garristown,5,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2012,Existing,Household Buyer - Former Owner-Occupier,217500.0
+A42,Garristown,5,2012,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,6,2012,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,6,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,6,2012,New,All Buyer Types,
+A42,Garristown,6,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2012,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2012,New,Household Buyer - Non-Occupier,
+A42,Garristown,6,2012,Existing,All Buyer Types,
+A42,Garristown,6,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2012,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2012,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,7,2012,All Dwelling Statuses,All Buyer Types,150000.0
+A42,Garristown,7,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+A42,Garristown,7,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,7,2012,New,All Buyer Types,
+A42,Garristown,7,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2012,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2012,New,Household Buyer - Non-Occupier,
+A42,Garristown,7,2012,Existing,All Buyer Types,150000.0
+A42,Garristown,7,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+A42,Garristown,7,2012,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2012,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,8,2012,All Dwelling Statuses,All Buyer Types,230000.0
+A42,Garristown,8,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,230000.0
+A42,Garristown,8,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,8,2012,New,All Buyer Types,230000.0
+A42,Garristown,8,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,230000.0
+A42,Garristown,8,2012,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2012,New,Household Buyer - Non-Occupier,
+A42,Garristown,8,2012,Existing,All Buyer Types,
+A42,Garristown,8,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2012,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2012,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,9,2012,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,9,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,9,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,9,2012,New,All Buyer Types,
+A42,Garristown,9,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2012,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,9,2012,New,Household Buyer - Non-Occupier,
+A42,Garristown,9,2012,Existing,All Buyer Types,
+A42,Garristown,9,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2012,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,9,2012,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,10,2012,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,10,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,10,2012,New,All Buyer Types,
+A42,Garristown,10,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2012,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2012,New,Household Buyer - Non-Occupier,
+A42,Garristown,10,2012,Existing,All Buyer Types,
+A42,Garristown,10,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2012,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2012,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,11,2012,All Dwelling Statuses,All Buyer Types,250000.0
+A42,Garristown,11,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,250000.0
+A42,Garristown,11,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,11,2012,New,All Buyer Types,
+A42,Garristown,11,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2012,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2012,New,Household Buyer - Non-Occupier,
+A42,Garristown,11,2012,Existing,All Buyer Types,250000.0
+A42,Garristown,11,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2012,Existing,Household Buyer - Former Owner-Occupier,250000.0
+A42,Garristown,11,2012,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,12,2012,All Dwelling Statuses,All Buyer Types,105000.0
+A42,Garristown,12,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+A42,Garristown,12,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,100000.0
+A42,Garristown,12,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,12,2012,New,All Buyer Types,
+A42,Garristown,12,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2012,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2012,New,Household Buyer - Non-Occupier,
+A42,Garristown,12,2012,Existing,All Buyer Types,105000.0
+A42,Garristown,12,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+A42,Garristown,12,2012,Existing,Household Buyer - Former Owner-Occupier,100000.0
+A42,Garristown,12,2012,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,1,2013,All Dwelling Statuses,All Buyer Types,137500.0
+A42,Garristown,1,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,137500.0
+A42,Garristown,1,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,1,2013,New,All Buyer Types,
+A42,Garristown,1,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2013,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2013,New,Household Buyer - Non-Occupier,
+A42,Garristown,1,2013,Existing,All Buyer Types,137500.0
+A42,Garristown,1,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,137500.0
+A42,Garristown,1,2013,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2013,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,2,2013,All Dwelling Statuses,All Buyer Types,336500.0
+A42,Garristown,2,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,336500.0
+A42,Garristown,2,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,2,2013,New,All Buyer Types,
+A42,Garristown,2,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2013,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2013,New,Household Buyer - Non-Occupier,
+A42,Garristown,2,2013,Existing,All Buyer Types,336500.0
+A42,Garristown,2,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2013,Existing,Household Buyer - Former Owner-Occupier,336500.0
+A42,Garristown,2,2013,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,3,2013,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,3,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,3,2013,New,All Buyer Types,
+A42,Garristown,3,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2013,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2013,New,Household Buyer - Non-Occupier,
+A42,Garristown,3,2013,Existing,All Buyer Types,
+A42,Garristown,3,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2013,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2013,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,4,2013,All Dwelling Statuses,All Buyer Types,36000.0
+A42,Garristown,4,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,36000.0
+A42,Garristown,4,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,4,2013,New,All Buyer Types,
+A42,Garristown,4,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2013,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2013,New,Household Buyer - Non-Occupier,
+A42,Garristown,4,2013,Existing,All Buyer Types,36000.0
+A42,Garristown,4,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2013,Existing,Household Buyer - Former Owner-Occupier,36000.0
+A42,Garristown,4,2013,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,5,2013,All Dwelling Statuses,All Buyer Types,187500.0
+A42,Garristown,5,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,187500.0
+A42,Garristown,5,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,5,2013,New,All Buyer Types,
+A42,Garristown,5,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2013,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2013,New,Household Buyer - Non-Occupier,
+A42,Garristown,5,2013,Existing,All Buyer Types,187500.0
+A42,Garristown,5,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,187500.0
+A42,Garristown,5,2013,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2013,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,6,2013,All Dwelling Statuses,All Buyer Types,145000.0
+A42,Garristown,6,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,145000.0
+A42,Garristown,6,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,6,2013,New,All Buyer Types,
+A42,Garristown,6,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2013,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2013,New,Household Buyer - Non-Occupier,
+A42,Garristown,6,2013,Existing,All Buyer Types,145000.0
+A42,Garristown,6,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2013,Existing,Household Buyer - Former Owner-Occupier,145000.0
+A42,Garristown,6,2013,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,7,2013,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,7,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,7,2013,New,All Buyer Types,
+A42,Garristown,7,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2013,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2013,New,Household Buyer - Non-Occupier,
+A42,Garristown,7,2013,Existing,All Buyer Types,
+A42,Garristown,7,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2013,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2013,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,8,2013,All Dwelling Statuses,All Buyer Types,232500.0
+A42,Garristown,8,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225000.0
+A42,Garristown,8,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,240000.0
+A42,Garristown,8,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,8,2013,New,All Buyer Types,
+A42,Garristown,8,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2013,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2013,New,Household Buyer - Non-Occupier,
+A42,Garristown,8,2013,Existing,All Buyer Types,232500.0
+A42,Garristown,8,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,225000.0
+A42,Garristown,8,2013,Existing,Household Buyer - Former Owner-Occupier,240000.0
+A42,Garristown,8,2013,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,9,2013,All Dwelling Statuses,All Buyer Types,235000.0
+A42,Garristown,9,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,235000.0
+A42,Garristown,9,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,9,2013,New,All Buyer Types,
+A42,Garristown,9,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2013,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,9,2013,New,Household Buyer - Non-Occupier,
+A42,Garristown,9,2013,Existing,All Buyer Types,235000.0
+A42,Garristown,9,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2013,Existing,Household Buyer - Former Owner-Occupier,235000.0
+A42,Garristown,9,2013,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,10,2013,All Dwelling Statuses,All Buyer Types,79000.0
+A42,Garristown,10,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,79000.0
+A42,Garristown,10,2013,New,All Buyer Types,
+A42,Garristown,10,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2013,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2013,New,Household Buyer - Non-Occupier,
+A42,Garristown,10,2013,Existing,All Buyer Types,79000.0
+A42,Garristown,10,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2013,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2013,Existing,Household Buyer - Non-Occupier,79000.0
+A42,Garristown,11,2013,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,11,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,11,2013,New,All Buyer Types,
+A42,Garristown,11,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2013,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2013,New,Household Buyer - Non-Occupier,
+A42,Garristown,11,2013,Existing,All Buyer Types,
+A42,Garristown,11,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2013,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2013,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,12,2013,All Dwelling Statuses,All Buyer Types,157500.0
+A42,Garristown,12,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,157500.0
+A42,Garristown,12,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,12,2013,New,All Buyer Types,
+A42,Garristown,12,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2013,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2013,New,Household Buyer - Non-Occupier,
+A42,Garristown,12,2013,Existing,All Buyer Types,157500.0
+A42,Garristown,12,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2013,Existing,Household Buyer - Former Owner-Occupier,157500.0
+A42,Garristown,12,2013,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,1,2014,All Dwelling Statuses,All Buyer Types,180250.0
+A42,Garristown,1,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,180250.0
+A42,Garristown,1,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,1,2014,New,All Buyer Types,
+A42,Garristown,1,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2014,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2014,New,Household Buyer - Non-Occupier,
+A42,Garristown,1,2014,Existing,All Buyer Types,180250.0
+A42,Garristown,1,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2014,Existing,Household Buyer - Former Owner-Occupier,180250.0
+A42,Garristown,1,2014,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,2,2014,All Dwelling Statuses,All Buyer Types,177500.0
+A42,Garristown,2,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+A42,Garristown,2,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,215000.0
+A42,Garristown,2,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,2,2014,New,All Buyer Types,
+A42,Garristown,2,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2014,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2014,New,Household Buyer - Non-Occupier,
+A42,Garristown,2,2014,Existing,All Buyer Types,177500.0
+A42,Garristown,2,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+A42,Garristown,2,2014,Existing,Household Buyer - Former Owner-Occupier,215000.0
+A42,Garristown,2,2014,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,3,2014,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,3,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,3,2014,New,All Buyer Types,
+A42,Garristown,3,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2014,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2014,New,Household Buyer - Non-Occupier,
+A42,Garristown,3,2014,Existing,All Buyer Types,
+A42,Garristown,3,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2014,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2014,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,4,2014,All Dwelling Statuses,All Buyer Types,340000.0
+A42,Garristown,4,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,340000.0
+A42,Garristown,4,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,4,2014,New,All Buyer Types,
+A42,Garristown,4,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2014,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2014,New,Household Buyer - Non-Occupier,
+A42,Garristown,4,2014,Existing,All Buyer Types,340000.0
+A42,Garristown,4,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2014,Existing,Household Buyer - Former Owner-Occupier,340000.0
+A42,Garristown,4,2014,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,5,2014,All Dwelling Statuses,All Buyer Types,135000.0
+A42,Garristown,5,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,135000.0
+A42,Garristown,5,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,5,2014,New,All Buyer Types,
+A42,Garristown,5,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2014,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2014,New,Household Buyer - Non-Occupier,
+A42,Garristown,5,2014,Existing,All Buyer Types,135000.0
+A42,Garristown,5,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,135000.0
+A42,Garristown,5,2014,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2014,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,6,2014,All Dwelling Statuses,All Buyer Types,357500.0
+A42,Garristown,6,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,370000.0
+A42,Garristown,6,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,345000.0
+A42,Garristown,6,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,6,2014,New,All Buyer Types,
+A42,Garristown,6,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2014,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2014,New,Household Buyer - Non-Occupier,
+A42,Garristown,6,2014,Existing,All Buyer Types,357500.0
+A42,Garristown,6,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,370000.0
+A42,Garristown,6,2014,Existing,Household Buyer - Former Owner-Occupier,345000.0
+A42,Garristown,6,2014,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,7,2014,All Dwelling Statuses,All Buyer Types,350000.0
+A42,Garristown,7,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,350000.0
+A42,Garristown,7,2014,New,All Buyer Types,
+A42,Garristown,7,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2014,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2014,New,Household Buyer - Non-Occupier,
+A42,Garristown,7,2014,Existing,All Buyer Types,350000.0
+A42,Garristown,7,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2014,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2014,Existing,Household Buyer - Non-Occupier,350000.0
+A42,Garristown,8,2014,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,8,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,8,2014,New,All Buyer Types,
+A42,Garristown,8,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2014,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2014,New,Household Buyer - Non-Occupier,
+A42,Garristown,8,2014,Existing,All Buyer Types,
+A42,Garristown,8,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2014,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2014,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,9,2014,All Dwelling Statuses,All Buyer Types,170000.0
+A42,Garristown,9,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,170000.0
+A42,Garristown,9,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,9,2014,New,All Buyer Types,
+A42,Garristown,9,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2014,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,9,2014,New,Household Buyer - Non-Occupier,
+A42,Garristown,9,2014,Existing,All Buyer Types,170000.0
+A42,Garristown,9,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2014,Existing,Household Buyer - Former Owner-Occupier,170000.0
+A42,Garristown,9,2014,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,10,2014,All Dwelling Statuses,All Buyer Types,255500.0
+A42,Garristown,10,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,365000.0
+A42,Garristown,10,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,146000.0
+A42,Garristown,10,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,10,2014,New,All Buyer Types,
+A42,Garristown,10,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2014,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2014,New,Household Buyer - Non-Occupier,
+A42,Garristown,10,2014,Existing,All Buyer Types,255500.0
+A42,Garristown,10,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,365000.0
+A42,Garristown,10,2014,Existing,Household Buyer - Former Owner-Occupier,146000.0
+A42,Garristown,10,2014,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,11,2014,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,11,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,11,2014,New,All Buyer Types,
+A42,Garristown,11,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2014,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2014,New,Household Buyer - Non-Occupier,
+A42,Garristown,11,2014,Existing,All Buyer Types,
+A42,Garristown,11,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2014,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2014,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,12,2014,All Dwelling Statuses,All Buyer Types,353000.0
+A42,Garristown,12,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,353000.0
+A42,Garristown,12,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,12,2014,New,All Buyer Types,
+A42,Garristown,12,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2014,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2014,New,Household Buyer - Non-Occupier,
+A42,Garristown,12,2014,Existing,All Buyer Types,353000.0
+A42,Garristown,12,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2014,Existing,Household Buyer - Former Owner-Occupier,353000.0
+A42,Garristown,12,2014,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,1,2015,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,1,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,1,2015,New,All Buyer Types,
+A42,Garristown,1,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2015,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2015,New,Household Buyer - Non-Occupier,
+A42,Garristown,1,2015,Existing,All Buyer Types,
+A42,Garristown,1,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2015,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2015,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,2,2015,All Dwelling Statuses,All Buyer Types,185000.0
+A42,Garristown,2,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+A42,Garristown,2,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,205000.0
+A42,Garristown,2,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,2,2015,New,All Buyer Types,
+A42,Garristown,2,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2015,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2015,New,Household Buyer - Non-Occupier,
+A42,Garristown,2,2015,Existing,All Buyer Types,185000.0
+A42,Garristown,2,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+A42,Garristown,2,2015,Existing,Household Buyer - Former Owner-Occupier,205000.0
+A42,Garristown,2,2015,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,3,2015,All Dwelling Statuses,All Buyer Types,260000.0
+A42,Garristown,3,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,260000.0
+A42,Garristown,3,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,3,2015,New,All Buyer Types,
+A42,Garristown,3,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2015,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2015,New,Household Buyer - Non-Occupier,
+A42,Garristown,3,2015,Existing,All Buyer Types,260000.0
+A42,Garristown,3,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2015,Existing,Household Buyer - Former Owner-Occupier,260000.0
+A42,Garristown,3,2015,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,4,2015,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,4,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,4,2015,New,All Buyer Types,
+A42,Garristown,4,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2015,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2015,New,Household Buyer - Non-Occupier,
+A42,Garristown,4,2015,Existing,All Buyer Types,
+A42,Garristown,4,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2015,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2015,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,5,2015,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,5,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,5,2015,New,All Buyer Types,
+A42,Garristown,5,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2015,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2015,New,Household Buyer - Non-Occupier,
+A42,Garristown,5,2015,Existing,All Buyer Types,
+A42,Garristown,5,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2015,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2015,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,6,2015,All Dwelling Statuses,All Buyer Types,90000.0
+A42,Garristown,6,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,90000.0
+A42,Garristown,6,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,6,2015,New,All Buyer Types,
+A42,Garristown,6,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2015,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2015,New,Household Buyer - Non-Occupier,
+A42,Garristown,6,2015,Existing,All Buyer Types,90000.0
+A42,Garristown,6,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,90000.0
+A42,Garristown,6,2015,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2015,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,7,2015,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,7,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,7,2015,New,All Buyer Types,
+A42,Garristown,7,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2015,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2015,New,Household Buyer - Non-Occupier,
+A42,Garristown,7,2015,Existing,All Buyer Types,
+A42,Garristown,7,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2015,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2015,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,8,2015,All Dwelling Statuses,All Buyer Types,314250.0
+A42,Garristown,8,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,314250.0
+A42,Garristown,8,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,8,2015,New,All Buyer Types,
+A42,Garristown,8,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2015,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2015,New,Household Buyer - Non-Occupier,
+A42,Garristown,8,2015,Existing,All Buyer Types,314250.0
+A42,Garristown,8,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2015,Existing,Household Buyer - Former Owner-Occupier,314250.0
+A42,Garristown,8,2015,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,9,2015,All Dwelling Statuses,All Buyer Types,185000.0
+A42,Garristown,9,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,185000.0
+A42,Garristown,9,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,9,2015,New,All Buyer Types,
+A42,Garristown,9,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2015,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,9,2015,New,Household Buyer - Non-Occupier,
+A42,Garristown,9,2015,Existing,All Buyer Types,185000.0
+A42,Garristown,9,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2015,Existing,Household Buyer - Former Owner-Occupier,185000.0
+A42,Garristown,9,2015,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,10,2015,All Dwelling Statuses,All Buyer Types,267250.0
+A42,Garristown,10,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,267250.0
+A42,Garristown,10,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,10,2015,New,All Buyer Types,
+A42,Garristown,10,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2015,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2015,New,Household Buyer - Non-Occupier,
+A42,Garristown,10,2015,Existing,All Buyer Types,267250.0
+A42,Garristown,10,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2015,Existing,Household Buyer - Former Owner-Occupier,267250.0
+A42,Garristown,10,2015,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,11,2015,All Dwelling Statuses,All Buyer Types,249250.0
+A42,Garristown,11,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,249250.0
+A42,Garristown,11,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,11,2015,New,All Buyer Types,
+A42,Garristown,11,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2015,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2015,New,Household Buyer - Non-Occupier,
+A42,Garristown,11,2015,Existing,All Buyer Types,249250.0
+A42,Garristown,11,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2015,Existing,Household Buyer - Former Owner-Occupier,249250.0
+A42,Garristown,11,2015,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,12,2015,All Dwelling Statuses,All Buyer Types,381667.0
+A42,Garristown,12,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,297500.0
+A42,Garristown,12,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,550000.0
+A42,Garristown,12,2015,New,All Buyer Types,
+A42,Garristown,12,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2015,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2015,New,Household Buyer - Non-Occupier,
+A42,Garristown,12,2015,Existing,All Buyer Types,381667.0
+A42,Garristown,12,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2015,Existing,Household Buyer - Former Owner-Occupier,297500.0
+A42,Garristown,12,2015,Existing,Household Buyer - Non-Occupier,550000.0
+A42,Garristown,1,2016,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,1,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,1,2016,New,All Buyer Types,
+A42,Garristown,1,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2016,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2016,New,Household Buyer - Non-Occupier,
+A42,Garristown,1,2016,Existing,All Buyer Types,
+A42,Garristown,1,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2016,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2016,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,2,2016,All Dwelling Statuses,All Buyer Types,353400.0
+A42,Garristown,2,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,353400.0
+A42,Garristown,2,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,2,2016,New,All Buyer Types,
+A42,Garristown,2,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2016,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2016,New,Household Buyer - Non-Occupier,
+A42,Garristown,2,2016,Existing,All Buyer Types,353400.0
+A42,Garristown,2,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2016,Existing,Household Buyer - Former Owner-Occupier,353400.0
+A42,Garristown,2,2016,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,3,2016,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,3,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,3,2016,New,All Buyer Types,
+A42,Garristown,3,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2016,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2016,New,Household Buyer - Non-Occupier,
+A42,Garristown,3,2016,Existing,All Buyer Types,
+A42,Garristown,3,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2016,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2016,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,4,2016,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,4,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,4,2016,New,All Buyer Types,
+A42,Garristown,4,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2016,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2016,New,Household Buyer - Non-Occupier,
+A42,Garristown,4,2016,Existing,All Buyer Types,
+A42,Garristown,4,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2016,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2016,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,5,2016,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,5,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,5,2016,New,All Buyer Types,
+A42,Garristown,5,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2016,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2016,New,Household Buyer - Non-Occupier,
+A42,Garristown,5,2016,Existing,All Buyer Types,
+A42,Garristown,5,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2016,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2016,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,6,2016,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,6,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,6,2016,New,All Buyer Types,
+A42,Garristown,6,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2016,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2016,New,Household Buyer - Non-Occupier,
+A42,Garristown,6,2016,Existing,All Buyer Types,
+A42,Garristown,6,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2016,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2016,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,7,2016,All Dwelling Statuses,All Buyer Types,242500.0
+A42,Garristown,7,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,242500.0
+A42,Garristown,7,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,7,2016,New,All Buyer Types,
+A42,Garristown,7,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2016,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2016,New,Household Buyer - Non-Occupier,
+A42,Garristown,7,2016,Existing,All Buyer Types,242500.0
+A42,Garristown,7,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2016,Existing,Household Buyer - Former Owner-Occupier,242500.0
+A42,Garristown,7,2016,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,8,2016,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,8,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,8,2016,New,All Buyer Types,
+A42,Garristown,8,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2016,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2016,New,Household Buyer - Non-Occupier,
+A42,Garristown,8,2016,Existing,All Buyer Types,
+A42,Garristown,8,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2016,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2016,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,9,2016,All Dwelling Statuses,All Buyer Types,550000.0
+A42,Garristown,9,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,550000.0
+A42,Garristown,9,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,9,2016,New,All Buyer Types,
+A42,Garristown,9,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2016,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,9,2016,New,Household Buyer - Non-Occupier,
+A42,Garristown,9,2016,Existing,All Buyer Types,550000.0
+A42,Garristown,9,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2016,Existing,Household Buyer - Former Owner-Occupier,550000.0
+A42,Garristown,9,2016,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,10,2016,All Dwelling Statuses,All Buyer Types,305000.0
+A42,Garristown,10,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,305000.0
+A42,Garristown,10,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,10,2016,New,All Buyer Types,
+A42,Garristown,10,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2016,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2016,New,Household Buyer - Non-Occupier,
+A42,Garristown,10,2016,Existing,All Buyer Types,305000.0
+A42,Garristown,10,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2016,Existing,Household Buyer - Former Owner-Occupier,305000.0
+A42,Garristown,10,2016,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,11,2016,All Dwelling Statuses,All Buyer Types,345000.0
+A42,Garristown,11,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,345000.0
+A42,Garristown,11,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,11,2016,New,All Buyer Types,
+A42,Garristown,11,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2016,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2016,New,Household Buyer - Non-Occupier,
+A42,Garristown,11,2016,Existing,All Buyer Types,345000.0
+A42,Garristown,11,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2016,Existing,Household Buyer - Former Owner-Occupier,345000.0
+A42,Garristown,11,2016,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,12,2016,All Dwelling Statuses,All Buyer Types,305417.0
+A42,Garristown,12,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,371667.0
+A42,Garristown,12,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,106667.0
+A42,Garristown,12,2016,New,All Buyer Types,
+A42,Garristown,12,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2016,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2016,New,Household Buyer - Non-Occupier,
+A42,Garristown,12,2016,Existing,All Buyer Types,305417.0
+A42,Garristown,12,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2016,Existing,Household Buyer - Former Owner-Occupier,371667.0
+A42,Garristown,12,2016,Existing,Household Buyer - Non-Occupier,106667.0
+A42,Garristown,1,2017,All Dwelling Statuses,All Buyer Types,445000.0
+A42,Garristown,1,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,445000.0
+A42,Garristown,1,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,1,2017,New,All Buyer Types,
+A42,Garristown,1,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2017,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2017,New,Household Buyer - Non-Occupier,
+A42,Garristown,1,2017,Existing,All Buyer Types,445000.0
+A42,Garristown,1,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2017,Existing,Household Buyer - Former Owner-Occupier,445000.0
+A42,Garristown,1,2017,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,2,2017,All Dwelling Statuses,All Buyer Types,320000.0
+A42,Garristown,2,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,320000.0
+A42,Garristown,2,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,2,2017,New,All Buyer Types,
+A42,Garristown,2,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2017,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2017,New,Household Buyer - Non-Occupier,
+A42,Garristown,2,2017,Existing,All Buyer Types,320000.0
+A42,Garristown,2,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2017,Existing,Household Buyer - Former Owner-Occupier,320000.0
+A42,Garristown,2,2017,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,3,2017,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,3,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,3,2017,New,All Buyer Types,
+A42,Garristown,3,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2017,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2017,New,Household Buyer - Non-Occupier,
+A42,Garristown,3,2017,Existing,All Buyer Types,
+A42,Garristown,3,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2017,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2017,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,4,2017,All Dwelling Statuses,All Buyer Types,251875.0
+A42,Garristown,4,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,251875.0
+A42,Garristown,4,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,4,2017,New,All Buyer Types,283750.0
+A42,Garristown,4,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2017,New,Household Buyer - Former Owner-Occupier,283750.0
+A42,Garristown,4,2017,New,Household Buyer - Non-Occupier,
+A42,Garristown,4,2017,Existing,All Buyer Types,220000.0
+A42,Garristown,4,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2017,Existing,Household Buyer - Former Owner-Occupier,220000.0
+A42,Garristown,4,2017,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,5,2017,All Dwelling Statuses,All Buyer Types,255000.0
+A42,Garristown,5,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,255000.0
+A42,Garristown,5,2017,New,All Buyer Types,
+A42,Garristown,5,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2017,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2017,New,Household Buyer - Non-Occupier,
+A42,Garristown,5,2017,Existing,All Buyer Types,255000.0
+A42,Garristown,5,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2017,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2017,Existing,Household Buyer - Non-Occupier,255000.0
+A42,Garristown,6,2017,All Dwelling Statuses,All Buyer Types,256000.0
+A42,Garristown,6,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,256000.0
+A42,Garristown,6,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,6,2017,New,All Buyer Types,
+A42,Garristown,6,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2017,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2017,New,Household Buyer - Non-Occupier,
+A42,Garristown,6,2017,Existing,All Buyer Types,256000.0
+A42,Garristown,6,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,256000.0
+A42,Garristown,6,2017,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2017,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,7,2017,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,7,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,7,2017,New,All Buyer Types,
+A42,Garristown,7,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2017,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2017,New,Household Buyer - Non-Occupier,
+A42,Garristown,7,2017,Existing,All Buyer Types,
+A42,Garristown,7,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2017,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2017,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,8,2017,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,8,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,8,2017,New,All Buyer Types,
+A42,Garristown,8,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2017,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2017,New,Household Buyer - Non-Occupier,
+A42,Garristown,8,2017,Existing,All Buyer Types,
+A42,Garristown,8,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2017,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2017,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,9,2017,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,9,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,9,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,9,2017,New,All Buyer Types,
+A42,Garristown,9,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2017,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,9,2017,New,Household Buyer - Non-Occupier,
+A42,Garristown,9,2017,Existing,All Buyer Types,
+A42,Garristown,9,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2017,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,9,2017,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,10,2017,All Dwelling Statuses,All Buyer Types,396098.0
+A42,Garristown,10,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,405195.0
+A42,Garristown,10,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,387000.0
+A42,Garristown,10,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,10,2017,New,All Buyer Types,405195.0
+A42,Garristown,10,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,405195.0
+A42,Garristown,10,2017,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2017,New,Household Buyer - Non-Occupier,
+A42,Garristown,10,2017,Existing,All Buyer Types,387000.0
+A42,Garristown,10,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2017,Existing,Household Buyer - Former Owner-Occupier,387000.0
+A42,Garristown,10,2017,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,11,2017,All Dwelling Statuses,All Buyer Types,377500.0
+A42,Garristown,11,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,377500.0
+A42,Garristown,11,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,11,2017,New,All Buyer Types,
+A42,Garristown,11,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2017,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2017,New,Household Buyer - Non-Occupier,
+A42,Garristown,11,2017,Existing,All Buyer Types,377500.0
+A42,Garristown,11,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,377500.0
+A42,Garristown,11,2017,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2017,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,12,2017,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,12,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,12,2017,New,All Buyer Types,
+A42,Garristown,12,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2017,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2017,New,Household Buyer - Non-Occupier,
+A42,Garristown,12,2017,Existing,All Buyer Types,
+A42,Garristown,12,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2017,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2017,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,1,2018,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,1,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,1,2018,New,All Buyer Types,
+A42,Garristown,1,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2018,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2018,New,Household Buyer - Non-Occupier,
+A42,Garristown,1,2018,Existing,All Buyer Types,
+A42,Garristown,1,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2018,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2018,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,2,2018,All Dwelling Statuses,All Buyer Types,260000.0
+A42,Garristown,2,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,260000.0
+A42,Garristown,2,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,2,2018,New,All Buyer Types,
+A42,Garristown,2,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2018,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2018,New,Household Buyer - Non-Occupier,
+A42,Garristown,2,2018,Existing,All Buyer Types,260000.0
+A42,Garristown,2,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,260000.0
+A42,Garristown,2,2018,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2018,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,3,2018,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,3,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,3,2018,New,All Buyer Types,
+A42,Garristown,3,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2018,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2018,New,Household Buyer - Non-Occupier,
+A42,Garristown,3,2018,Existing,All Buyer Types,
+A42,Garristown,3,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2018,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2018,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,4,2018,All Dwelling Statuses,All Buyer Types,520000.0
+A42,Garristown,4,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,520000.0
+A42,Garristown,4,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,4,2018,New,All Buyer Types,
+A42,Garristown,4,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2018,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2018,New,Household Buyer - Non-Occupier,
+A42,Garristown,4,2018,Existing,All Buyer Types,520000.0
+A42,Garristown,4,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2018,Existing,Household Buyer - Former Owner-Occupier,520000.0
+A42,Garristown,4,2018,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,5,2018,All Dwelling Statuses,All Buyer Types,245000.0
+A42,Garristown,5,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,245000.0
+A42,Garristown,5,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,5,2018,New,All Buyer Types,
+A42,Garristown,5,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2018,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2018,New,Household Buyer - Non-Occupier,
+A42,Garristown,5,2018,Existing,All Buyer Types,245000.0
+A42,Garristown,5,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2018,Existing,Household Buyer - Former Owner-Occupier,245000.0
+A42,Garristown,5,2018,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,6,2018,All Dwelling Statuses,All Buyer Types,385000.0
+A42,Garristown,6,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,385000.0
+A42,Garristown,6,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,6,2018,New,All Buyer Types,
+A42,Garristown,6,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2018,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2018,New,Household Buyer - Non-Occupier,
+A42,Garristown,6,2018,Existing,All Buyer Types,385000.0
+A42,Garristown,6,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2018,Existing,Household Buyer - Former Owner-Occupier,385000.0
+A42,Garristown,6,2018,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,7,2018,All Dwelling Statuses,All Buyer Types,408500.0
+A42,Garristown,7,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,408500.0
+A42,Garristown,7,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,7,2018,New,All Buyer Types,
+A42,Garristown,7,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2018,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2018,New,Household Buyer - Non-Occupier,
+A42,Garristown,7,2018,Existing,All Buyer Types,408500.0
+A42,Garristown,7,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2018,Existing,Household Buyer - Former Owner-Occupier,408500.0
+A42,Garristown,7,2018,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,8,2018,All Dwelling Statuses,All Buyer Types,456000.0
+A42,Garristown,8,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,456000.0
+A42,Garristown,8,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,8,2018,New,All Buyer Types,
+A42,Garristown,8,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2018,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2018,New,Household Buyer - Non-Occupier,
+A42,Garristown,8,2018,Existing,All Buyer Types,456000.0
+A42,Garristown,8,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2018,Existing,Household Buyer - Former Owner-Occupier,456000.0
+A42,Garristown,8,2018,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,9,2018,All Dwelling Statuses,All Buyer Types,445000.0
+A42,Garristown,9,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,445000.0
+A42,Garristown,9,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,9,2018,New,All Buyer Types,
+A42,Garristown,9,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2018,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,9,2018,New,Household Buyer - Non-Occupier,
+A42,Garristown,9,2018,Existing,All Buyer Types,445000.0
+A42,Garristown,9,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2018,Existing,Household Buyer - Former Owner-Occupier,445000.0
+A42,Garristown,9,2018,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,10,2018,All Dwelling Statuses,All Buyer Types,354650.0
+A42,Garristown,10,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,440000.0
+A42,Garristown,10,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,277500.0
+A42,Garristown,10,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,500750.0
+A42,Garristown,10,2018,New,All Buyer Types,470375.0
+A42,Garristown,10,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,440000.0
+A42,Garristown,10,2018,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2018,New,Household Buyer - Non-Occupier,500750.0
+A42,Garristown,10,2018,Existing,All Buyer Types,277500.0
+A42,Garristown,10,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2018,Existing,Household Buyer - Former Owner-Occupier,277500.0
+A42,Garristown,10,2018,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,11,2018,All Dwelling Statuses,All Buyer Types,342935.0
+A42,Garristown,11,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,334825.0
+A42,Garristown,11,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,346990.0
+A42,Garristown,11,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,11,2018,New,All Buyer Types,342935.0
+A42,Garristown,11,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,334825.0
+A42,Garristown,11,2018,New,Household Buyer - Former Owner-Occupier,346990.0
+A42,Garristown,11,2018,New,Household Buyer - Non-Occupier,
+A42,Garristown,11,2018,Existing,All Buyer Types,
+A42,Garristown,11,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2018,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2018,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,12,2018,All Dwelling Statuses,All Buyer Types,420000.0
+A42,Garristown,12,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,425000.0
+A42,Garristown,12,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,415000.0
+A42,Garristown,12,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,12,2018,New,All Buyer Types,420000.0
+A42,Garristown,12,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,425000.0
+A42,Garristown,12,2018,New,Household Buyer - Former Owner-Occupier,415000.0
+A42,Garristown,12,2018,New,Household Buyer - Non-Occupier,
+A42,Garristown,12,2018,Existing,All Buyer Types,
+A42,Garristown,12,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2018,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2018,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,1,2019,All Dwelling Statuses,All Buyer Types,315000.0
+A42,Garristown,1,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,315000.0
+A42,Garristown,1,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,1,2019,New,All Buyer Types,
+A42,Garristown,1,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2019,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2019,New,Household Buyer - Non-Occupier,
+A42,Garristown,1,2019,Existing,All Buyer Types,315000.0
+A42,Garristown,1,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2019,Existing,Household Buyer - Former Owner-Occupier,315000.0
+A42,Garristown,1,2019,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,2,2019,All Dwelling Statuses,All Buyer Types,256500.0
+A42,Garristown,2,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,256500.0
+A42,Garristown,2,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,2,2019,New,All Buyer Types,295000.0
+A42,Garristown,2,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+A42,Garristown,2,2019,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2019,New,Household Buyer - Non-Occupier,
+A42,Garristown,2,2019,Existing,All Buyer Types,218000.0
+A42,Garristown,2,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,218000.0
+A42,Garristown,2,2019,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2019,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,3,2019,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,3,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,3,2019,New,All Buyer Types,
+A42,Garristown,3,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2019,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2019,New,Household Buyer - Non-Occupier,
+A42,Garristown,3,2019,Existing,All Buyer Types,
+A42,Garristown,3,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2019,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2019,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,4,2019,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,4,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,4,2019,New,All Buyer Types,
+A42,Garristown,4,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2019,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2019,New,Household Buyer - Non-Occupier,
+A42,Garristown,4,2019,Existing,All Buyer Types,
+A42,Garristown,4,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2019,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2019,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,5,2019,All Dwelling Statuses,All Buyer Types,349975.0
+A42,Garristown,5,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,349975.0
+A42,Garristown,5,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,5,2019,New,All Buyer Types,399950.0
+A42,Garristown,5,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2019,New,Household Buyer - Former Owner-Occupier,399950.0
+A42,Garristown,5,2019,New,Household Buyer - Non-Occupier,
+A42,Garristown,5,2019,Existing,All Buyer Types,300000.0
+A42,Garristown,5,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2019,Existing,Household Buyer - Former Owner-Occupier,300000.0
+A42,Garristown,5,2019,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,6,2019,All Dwelling Statuses,All Buyer Types,434925.0
+A42,Garristown,6,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,434925.0
+A42,Garristown,6,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,6,2019,New,All Buyer Types,564850.0
+A42,Garristown,6,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,564850.0
+A42,Garristown,6,2019,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2019,New,Household Buyer - Non-Occupier,
+A42,Garristown,6,2019,Existing,All Buyer Types,305000.0
+A42,Garristown,6,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,305000.0
+A42,Garristown,6,2019,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2019,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,7,2019,All Dwelling Statuses,All Buyer Types,383000.0
+A42,Garristown,7,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,383000.0
+A42,Garristown,7,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,7,2019,New,All Buyer Types,
+A42,Garristown,7,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2019,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2019,New,Household Buyer - Non-Occupier,
+A42,Garristown,7,2019,Existing,All Buyer Types,383000.0
+A42,Garristown,7,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2019,Existing,Household Buyer - Former Owner-Occupier,383000.0
+A42,Garristown,7,2019,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,8,2019,All Dwelling Statuses,All Buyer Types,200000.0
+A42,Garristown,8,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+A42,Garristown,8,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,8,2019,New,All Buyer Types,
+A42,Garristown,8,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2019,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2019,New,Household Buyer - Non-Occupier,
+A42,Garristown,8,2019,Existing,All Buyer Types,200000.0
+A42,Garristown,8,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+A42,Garristown,8,2019,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2019,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,9,2019,All Dwelling Statuses,All Buyer Types,565000.0
+A42,Garristown,9,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,565000.0
+A42,Garristown,9,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,9,2019,New,All Buyer Types,565000.0
+A42,Garristown,9,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2019,New,Household Buyer - Former Owner-Occupier,565000.0
+A42,Garristown,9,2019,New,Household Buyer - Non-Occupier,
+A42,Garristown,9,2019,Existing,All Buyer Types,
+A42,Garristown,9,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2019,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,9,2019,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,10,2019,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,10,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,10,2019,New,All Buyer Types,
+A42,Garristown,10,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2019,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2019,New,Household Buyer - Non-Occupier,
+A42,Garristown,10,2019,Existing,All Buyer Types,
+A42,Garristown,10,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2019,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2019,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,11,2019,All Dwelling Statuses,All Buyer Types,770000.0
+A42,Garristown,11,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,770000.0
+A42,Garristown,11,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,11,2019,New,All Buyer Types,
+A42,Garristown,11,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2019,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2019,New,Household Buyer - Non-Occupier,
+A42,Garristown,11,2019,Existing,All Buyer Types,770000.0
+A42,Garristown,11,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2019,Existing,Household Buyer - Former Owner-Occupier,770000.0
+A42,Garristown,11,2019,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,12,2019,All Dwelling Statuses,All Buyer Types,289983.0
+A42,Garristown,12,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,339975.0
+A42,Garristown,12,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,190000.0
+A42,Garristown,12,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,12,2019,New,All Buyer Types,339975.0
+A42,Garristown,12,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,339975.0
+A42,Garristown,12,2019,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2019,New,Household Buyer - Non-Occupier,
+A42,Garristown,12,2019,Existing,All Buyer Types,190000.0
+A42,Garristown,12,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2019,Existing,Household Buyer - Former Owner-Occupier,190000.0
+A42,Garristown,12,2019,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,1,2020,All Dwelling Statuses,All Buyer Types,304158.0
+A42,Garristown,1,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,260000.0
+A42,Garristown,1,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,326237.0
+A42,Garristown,1,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,1,2020,New,All Buyer Types,326237.0
+A42,Garristown,1,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2020,New,Household Buyer - Former Owner-Occupier,326237.0
+A42,Garristown,1,2020,New,Household Buyer - Non-Occupier,
+A42,Garristown,1,2020,Existing,All Buyer Types,260000.0
+A42,Garristown,1,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,260000.0
+A42,Garristown,1,2020,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2020,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,2,2020,All Dwelling Statuses,All Buyer Types,274000.0
+A42,Garristown,2,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,252500.0
+A42,Garristown,2,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,295500.0
+A42,Garristown,2,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,2,2020,New,All Buyer Types,289999.0
+A42,Garristown,2,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,289999.0
+A42,Garristown,2,2020,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2020,New,Household Buyer - Non-Occupier,
+A42,Garristown,2,2020,Existing,All Buyer Types,268667.0
+A42,Garristown,2,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,215000.0
+A42,Garristown,2,2020,Existing,Household Buyer - Former Owner-Occupier,295500.0
+A42,Garristown,2,2020,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,3,2020,All Dwelling Statuses,All Buyer Types,413950.0
+A42,Garristown,3,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,297450.0
+A42,Garristown,3,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,646950.0
+A42,Garristown,3,2020,New,All Buyer Types,413950.0
+A42,Garristown,3,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,297450.0
+A42,Garristown,3,2020,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2020,New,Household Buyer - Non-Occupier,646950.0
+A42,Garristown,3,2020,Existing,All Buyer Types,
+A42,Garristown,3,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2020,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2020,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,4,2020,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,4,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,4,2020,New,All Buyer Types,
+A42,Garristown,4,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2020,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2020,New,Household Buyer - Non-Occupier,
+A42,Garristown,4,2020,Existing,All Buyer Types,
+A42,Garristown,4,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2020,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2020,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,5,2020,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,5,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,5,2020,New,All Buyer Types,
+A42,Garristown,5,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2020,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2020,New,Household Buyer - Non-Occupier,
+A42,Garristown,5,2020,Existing,All Buyer Types,
+A42,Garristown,5,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2020,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2020,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,6,2020,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,6,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,6,2020,New,All Buyer Types,
+A42,Garristown,6,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2020,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2020,New,Household Buyer - Non-Occupier,
+A42,Garristown,6,2020,Existing,All Buyer Types,
+A42,Garristown,6,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2020,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2020,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,7,2020,All Dwelling Statuses,All Buyer Types,335000.0
+A42,Garristown,7,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,335000.0
+A42,Garristown,7,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,7,2020,New,All Buyer Types,
+A42,Garristown,7,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2020,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2020,New,Household Buyer - Non-Occupier,
+A42,Garristown,7,2020,Existing,All Buyer Types,335000.0
+A42,Garristown,7,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2020,Existing,Household Buyer - Former Owner-Occupier,335000.0
+A42,Garristown,7,2020,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,8,2020,All Dwelling Statuses,All Buyer Types,294333.0
+A42,Garristown,8,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,294333.0
+A42,Garristown,8,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,8,2020,New,All Buyer Types,
+A42,Garristown,8,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2020,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2020,New,Household Buyer - Non-Occupier,
+A42,Garristown,8,2020,Existing,All Buyer Types,294333.0
+A42,Garristown,8,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2020,Existing,Household Buyer - Former Owner-Occupier,294333.0
+A42,Garristown,8,2020,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,9,2020,All Dwelling Statuses,All Buyer Types,453317.0
+A42,Garristown,9,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,453317.0
+A42,Garristown,9,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,9,2020,New,All Buyer Types,399950.0
+A42,Garristown,9,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2020,New,Household Buyer - Former Owner-Occupier,399950.0
+A42,Garristown,9,2020,New,Household Buyer - Non-Occupier,
+A42,Garristown,9,2020,Existing,All Buyer Types,480000.0
+A42,Garristown,9,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2020,Existing,Household Buyer - Former Owner-Occupier,480000.0
+A42,Garristown,9,2020,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,10,2020,All Dwelling Statuses,All Buyer Types,375000.0
+A42,Garristown,10,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,375000.0
+A42,Garristown,10,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,10,2020,New,All Buyer Types,375000.0
+A42,Garristown,10,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,375000.0
+A42,Garristown,10,2020,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2020,New,Household Buyer - Non-Occupier,
+A42,Garristown,10,2020,Existing,All Buyer Types,
+A42,Garristown,10,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2020,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2020,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,11,2020,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,11,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,11,2020,New,All Buyer Types,
+A42,Garristown,11,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2020,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2020,New,Household Buyer - Non-Occupier,
+A42,Garristown,11,2020,Existing,All Buyer Types,
+A42,Garristown,11,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2020,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2020,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,12,2020,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,12,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,12,2020,New,All Buyer Types,
+A42,Garristown,12,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2020,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2020,New,Household Buyer - Non-Occupier,
+A42,Garristown,12,2020,Existing,All Buyer Types,
+A42,Garristown,12,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2020,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2020,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,1,2021,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,1,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,1,2021,New,All Buyer Types,
+A42,Garristown,1,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2021,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2021,New,Household Buyer - Non-Occupier,
+A42,Garristown,1,2021,Existing,All Buyer Types,
+A42,Garristown,1,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2021,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2021,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,2,2021,All Dwelling Statuses,All Buyer Types,500000.0
+A42,Garristown,2,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,500000.0
+A42,Garristown,2,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,2,2021,New,All Buyer Types,
+A42,Garristown,2,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2021,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2021,New,Household Buyer - Non-Occupier,
+A42,Garristown,2,2021,Existing,All Buyer Types,500000.0
+A42,Garristown,2,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2021,Existing,Household Buyer - Former Owner-Occupier,500000.0
+A42,Garristown,2,2021,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,3,2021,All Dwelling Statuses,All Buyer Types,205600.0
+A42,Garristown,3,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,205600.0
+A42,Garristown,3,2021,New,All Buyer Types,
+A42,Garristown,3,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2021,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2021,New,Household Buyer - Non-Occupier,
+A42,Garristown,3,2021,Existing,All Buyer Types,205600.0
+A42,Garristown,3,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2021,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2021,Existing,Household Buyer - Non-Occupier,205600.0
+A42,Garristown,4,2021,All Dwelling Statuses,All Buyer Types,435000.0
+A42,Garristown,4,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,435000.0
+A42,Garristown,4,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,4,2021,New,All Buyer Types,
+A42,Garristown,4,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2021,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2021,New,Household Buyer - Non-Occupier,
+A42,Garristown,4,2021,Existing,All Buyer Types,435000.0
+A42,Garristown,4,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2021,Existing,Household Buyer - Former Owner-Occupier,435000.0
+A42,Garristown,4,2021,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,5,2021,All Dwelling Statuses,All Buyer Types,355000.0
+A42,Garristown,5,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,355000.0
+A42,Garristown,5,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,5,2021,New,All Buyer Types,
+A42,Garristown,5,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2021,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2021,New,Household Buyer - Non-Occupier,
+A42,Garristown,5,2021,Existing,All Buyer Types,355000.0
+A42,Garristown,5,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,355000.0
+A42,Garristown,5,2021,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2021,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,6,2021,All Dwelling Statuses,All Buyer Types,415000.0
+A42,Garristown,6,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+A42,Garristown,6,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,530000.0
+A42,Garristown,6,2021,New,All Buyer Types,
+A42,Garristown,6,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2021,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2021,New,Household Buyer - Non-Occupier,
+A42,Garristown,6,2021,Existing,All Buyer Types,415000.0
+A42,Garristown,6,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+A42,Garristown,6,2021,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2021,Existing,Household Buyer - Non-Occupier,530000.0
+A42,Garristown,7,2021,All Dwelling Statuses,All Buyer Types,310000.0
+A42,Garristown,7,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+A42,Garristown,7,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,400000.0
+A42,Garristown,7,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,7,2021,New,All Buyer Types,
+A42,Garristown,7,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2021,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2021,New,Household Buyer - Non-Occupier,
+A42,Garristown,7,2021,Existing,All Buyer Types,310000.0
+A42,Garristown,7,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+A42,Garristown,7,2021,Existing,Household Buyer - Former Owner-Occupier,400000.0
+A42,Garristown,7,2021,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,8,2021,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,8,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,8,2021,New,All Buyer Types,
+A42,Garristown,8,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2021,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2021,New,Household Buyer - Non-Occupier,
+A42,Garristown,8,2021,Existing,All Buyer Types,
+A42,Garristown,8,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2021,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2021,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,9,2021,All Dwelling Statuses,All Buyer Types,420000.0
+A42,Garristown,9,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,420000.0
+A42,Garristown,9,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,9,2021,New,All Buyer Types,
+A42,Garristown,9,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2021,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,9,2021,New,Household Buyer - Non-Occupier,
+A42,Garristown,9,2021,Existing,All Buyer Types,420000.0
+A42,Garristown,9,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2021,Existing,Household Buyer - Former Owner-Occupier,420000.0
+A42,Garristown,9,2021,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,10,2021,All Dwelling Statuses,All Buyer Types,327500.0
+A42,Garristown,10,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,327500.0
+A42,Garristown,10,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,10,2021,New,All Buyer Types,
+A42,Garristown,10,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2021,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2021,New,Household Buyer - Non-Occupier,
+A42,Garristown,10,2021,Existing,All Buyer Types,327500.0
+A42,Garristown,10,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2021,Existing,Household Buyer - Former Owner-Occupier,327500.0
+A42,Garristown,10,2021,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,11,2021,All Dwelling Statuses,All Buyer Types,490000.0
+A42,Garristown,11,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,490000.0
+A42,Garristown,11,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,11,2021,New,All Buyer Types,
+A42,Garristown,11,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2021,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2021,New,Household Buyer - Non-Occupier,
+A42,Garristown,11,2021,Existing,All Buyer Types,490000.0
+A42,Garristown,11,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2021,Existing,Household Buyer - Former Owner-Occupier,490000.0
+A42,Garristown,11,2021,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,12,2021,All Dwelling Statuses,All Buyer Types,446000.0
+A42,Garristown,12,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,446000.0
+A42,Garristown,12,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,12,2021,New,All Buyer Types,
+A42,Garristown,12,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2021,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2021,New,Household Buyer - Non-Occupier,
+A42,Garristown,12,2021,Existing,All Buyer Types,446000.0
+A42,Garristown,12,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2021,Existing,Household Buyer - Former Owner-Occupier,446000.0
+A42,Garristown,12,2021,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,1,2022,All Dwelling Statuses,All Buyer Types,410000.0
+A42,Garristown,1,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,410000.0
+A42,Garristown,1,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,1,2022,New,All Buyer Types,
+A42,Garristown,1,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2022,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2022,New,Household Buyer - Non-Occupier,
+A42,Garristown,1,2022,Existing,All Buyer Types,410000.0
+A42,Garristown,1,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2022,Existing,Household Buyer - Former Owner-Occupier,410000.0
+A42,Garristown,1,2022,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,2,2022,All Dwelling Statuses,All Buyer Types,440000.0
+A42,Garristown,2,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,440000.0
+A42,Garristown,2,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,2,2022,New,All Buyer Types,
+A42,Garristown,2,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2022,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2022,New,Household Buyer - Non-Occupier,
+A42,Garristown,2,2022,Existing,All Buyer Types,440000.0
+A42,Garristown,2,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2022,Existing,Household Buyer - Former Owner-Occupier,440000.0
+A42,Garristown,2,2022,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,3,2022,All Dwelling Statuses,All Buyer Types,630000.0
+A42,Garristown,3,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,630000.0
+A42,Garristown,3,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,3,2022,New,All Buyer Types,
+A42,Garristown,3,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2022,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2022,New,Household Buyer - Non-Occupier,
+A42,Garristown,3,2022,Existing,All Buyer Types,630000.0
+A42,Garristown,3,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2022,Existing,Household Buyer - Former Owner-Occupier,630000.0
+A42,Garristown,3,2022,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,4,2022,All Dwelling Statuses,All Buyer Types,785000.0
+A42,Garristown,4,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,785000.0
+A42,Garristown,4,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,4,2022,New,All Buyer Types,
+A42,Garristown,4,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2022,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2022,New,Household Buyer - Non-Occupier,
+A42,Garristown,4,2022,Existing,All Buyer Types,785000.0
+A42,Garristown,4,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2022,Existing,Household Buyer - Former Owner-Occupier,785000.0
+A42,Garristown,4,2022,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,5,2022,All Dwelling Statuses,All Buyer Types,359500.0
+A42,Garristown,5,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,345000.0
+A42,Garristown,5,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,374000.0
+A42,Garristown,5,2022,New,All Buyer Types,
+A42,Garristown,5,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2022,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2022,New,Household Buyer - Non-Occupier,
+A42,Garristown,5,2022,Existing,All Buyer Types,359500.0
+A42,Garristown,5,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2022,Existing,Household Buyer - Former Owner-Occupier,345000.0
+A42,Garristown,5,2022,Existing,Household Buyer - Non-Occupier,374000.0
+A42,Garristown,6,2022,All Dwelling Statuses,All Buyer Types,280000.0
+A42,Garristown,6,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,280000.0
+A42,Garristown,6,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,6,2022,New,All Buyer Types,
+A42,Garristown,6,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2022,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2022,New,Household Buyer - Non-Occupier,
+A42,Garristown,6,2022,Existing,All Buyer Types,280000.0
+A42,Garristown,6,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2022,Existing,Household Buyer - Former Owner-Occupier,280000.0
+A42,Garristown,6,2022,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,7,2022,All Dwelling Statuses,All Buyer Types,284000.0
+A42,Garristown,7,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,284000.0
+A42,Garristown,7,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,7,2022,New,All Buyer Types,
+A42,Garristown,7,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2022,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2022,New,Household Buyer - Non-Occupier,
+A42,Garristown,7,2022,Existing,All Buyer Types,284000.0
+A42,Garristown,7,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2022,Existing,Household Buyer - Former Owner-Occupier,284000.0
+A42,Garristown,7,2022,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,8,2022,All Dwelling Statuses,All Buyer Types,475000.0
+A42,Garristown,8,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,475000.0
+A42,Garristown,8,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,8,2022,New,All Buyer Types,475000.0
+A42,Garristown,8,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2022,New,Household Buyer - Former Owner-Occupier,475000.0
+A42,Garristown,8,2022,New,Household Buyer - Non-Occupier,
+A42,Garristown,8,2022,Existing,All Buyer Types,
+A42,Garristown,8,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2022,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2022,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,9,2022,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,9,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,9,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,9,2022,New,All Buyer Types,
+A42,Garristown,9,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2022,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,9,2022,New,Household Buyer - Non-Occupier,
+A42,Garristown,9,2022,Existing,All Buyer Types,
+A42,Garristown,9,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2022,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,9,2022,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,10,2022,All Dwelling Statuses,All Buyer Types,393535.0
+A42,Garristown,10,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,377500.0
+A42,Garristown,10,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,414916.0
+A42,Garristown,10,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,10,2022,New,All Buyer Types,393535.0
+A42,Garristown,10,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,377500.0
+A42,Garristown,10,2022,New,Household Buyer - Former Owner-Occupier,414916.0
+A42,Garristown,10,2022,New,Household Buyer - Non-Occupier,
+A42,Garristown,10,2022,Existing,All Buyer Types,
+A42,Garristown,10,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2022,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2022,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,11,2022,All Dwelling Statuses,All Buyer Types,401667.0
+A42,Garristown,11,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,401667.0
+A42,Garristown,11,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,11,2022,New,All Buyer Types,412500.0
+A42,Garristown,11,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,412500.0
+A42,Garristown,11,2022,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2022,New,Household Buyer - Non-Occupier,
+A42,Garristown,11,2022,Existing,All Buyer Types,380000.0
+A42,Garristown,11,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,380000.0
+A42,Garristown,11,2022,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2022,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,12,2022,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,12,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,12,2022,New,All Buyer Types,
+A42,Garristown,12,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2022,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2022,New,Household Buyer - Non-Occupier,
+A42,Garristown,12,2022,Existing,All Buyer Types,
+A42,Garristown,12,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2022,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2022,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,1,2023,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,1,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,1,2023,New,All Buyer Types,
+A42,Garristown,1,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2023,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2023,New,Household Buyer - Non-Occupier,
+A42,Garristown,1,2023,Existing,All Buyer Types,
+A42,Garristown,1,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2023,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2023,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,2,2023,All Dwelling Statuses,All Buyer Types,365000.0
+A42,Garristown,2,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,365000.0
+A42,Garristown,2,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,2,2023,New,All Buyer Types,
+A42,Garristown,2,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2023,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2023,New,Household Buyer - Non-Occupier,
+A42,Garristown,2,2023,Existing,All Buyer Types,365000.0
+A42,Garristown,2,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2023,Existing,Household Buyer - Former Owner-Occupier,365000.0
+A42,Garristown,2,2023,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,3,2023,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,3,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,3,2023,New,All Buyer Types,
+A42,Garristown,3,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2023,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2023,New,Household Buyer - Non-Occupier,
+A42,Garristown,3,2023,Existing,All Buyer Types,
+A42,Garristown,3,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,3,2023,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,3,2023,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,4,2023,All Dwelling Statuses,All Buyer Types,465000.0
+A42,Garristown,4,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,468333.0
+A42,Garristown,4,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,455000.0
+A42,Garristown,4,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,4,2023,New,All Buyer Types,468333.0
+A42,Garristown,4,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,468333.0
+A42,Garristown,4,2023,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2023,New,Household Buyer - Non-Occupier,
+A42,Garristown,4,2023,Existing,All Buyer Types,455000.0
+A42,Garristown,4,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2023,Existing,Household Buyer - Former Owner-Occupier,455000.0
+A42,Garristown,4,2023,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,5,2023,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,5,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,5,2023,New,All Buyer Types,
+A42,Garristown,5,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2023,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2023,New,Household Buyer - Non-Occupier,
+A42,Garristown,5,2023,Existing,All Buyer Types,
+A42,Garristown,5,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2023,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2023,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,6,2023,All Dwelling Statuses,All Buyer Types,510000.0
+A42,Garristown,6,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,510000.0
+A42,Garristown,6,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,6,2023,New,All Buyer Types,
+A42,Garristown,6,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2023,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2023,New,Household Buyer - Non-Occupier,
+A42,Garristown,6,2023,Existing,All Buyer Types,510000.0
+A42,Garristown,6,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,6,2023,Existing,Household Buyer - Former Owner-Occupier,510000.0
+A42,Garristown,6,2023,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,7,2023,All Dwelling Statuses,All Buyer Types,550000.0
+A42,Garristown,7,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,550000.0
+A42,Garristown,7,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,7,2023,New,All Buyer Types,
+A42,Garristown,7,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2023,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2023,New,Household Buyer - Non-Occupier,
+A42,Garristown,7,2023,Existing,All Buyer Types,550000.0
+A42,Garristown,7,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,550000.0
+A42,Garristown,7,2023,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2023,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,8,2023,All Dwelling Statuses,All Buyer Types,419313.0
+A42,Garristown,8,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,419313.0
+A42,Garristown,8,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,8,2023,New,All Buyer Types,419313.0
+A42,Garristown,8,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,419313.0
+A42,Garristown,8,2023,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2023,New,Household Buyer - Non-Occupier,
+A42,Garristown,8,2023,Existing,All Buyer Types,
+A42,Garristown,8,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,8,2023,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,8,2023,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,9,2023,All Dwelling Statuses,All Buyer Types,443340.0
+A42,Garristown,9,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,425000.0
+A42,Garristown,9,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,452510.0
+A42,Garristown,9,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,9,2023,New,All Buyer Types,420008.0
+A42,Garristown,9,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,425000.0
+A42,Garristown,9,2023,New,Household Buyer - Former Owner-Occupier,416679.0
+A42,Garristown,9,2023,New,Household Buyer - Non-Occupier,
+A42,Garristown,9,2023,Existing,All Buyer Types,560000.0
+A42,Garristown,9,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,9,2023,Existing,Household Buyer - Former Owner-Occupier,560000.0
+A42,Garristown,9,2023,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,10,2023,All Dwelling Statuses,All Buyer Types,305500.0
+A42,Garristown,10,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,310000.0
+A42,Garristown,10,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,510000.0
+A42,Garristown,10,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,201000.0
+A42,Garristown,10,2023,New,All Buyer Types,
+A42,Garristown,10,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,10,2023,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,10,2023,New,Household Buyer - Non-Occupier,
+A42,Garristown,10,2023,Existing,All Buyer Types,305500.0
+A42,Garristown,10,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,310000.0
+A42,Garristown,10,2023,Existing,Household Buyer - Former Owner-Occupier,510000.0
+A42,Garristown,10,2023,Existing,Household Buyer - Non-Occupier,201000.0
+A42,Garristown,11,2023,All Dwelling Statuses,All Buyer Types,457500.0
+A42,Garristown,11,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,425000.0
+A42,Garristown,11,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,490000.0
+A42,Garristown,11,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,11,2023,New,All Buyer Types,425000.0
+A42,Garristown,11,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,425000.0
+A42,Garristown,11,2023,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,11,2023,New,Household Buyer - Non-Occupier,
+A42,Garristown,11,2023,Existing,All Buyer Types,490000.0
+A42,Garristown,11,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,11,2023,Existing,Household Buyer - Former Owner-Occupier,490000.0
+A42,Garristown,11,2023,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,12,2023,All Dwelling Statuses,All Buyer Types,390000.0
+A42,Garristown,12,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,390000.0
+A42,Garristown,12,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,12,2023,New,All Buyer Types,
+A42,Garristown,12,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2023,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,12,2023,New,Household Buyer - Non-Occupier,
+A42,Garristown,12,2023,Existing,All Buyer Types,390000.0
+A42,Garristown,12,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,12,2023,Existing,Household Buyer - Former Owner-Occupier,390000.0
+A42,Garristown,12,2023,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,1,2024,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,1,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,1,2024,New,All Buyer Types,
+A42,Garristown,1,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2024,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2024,New,Household Buyer - Non-Occupier,
+A42,Garristown,1,2024,Existing,All Buyer Types,
+A42,Garristown,1,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,1,2024,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,1,2024,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,2,2024,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,2,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,2,2024,New,All Buyer Types,
+A42,Garristown,2,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2024,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2024,New,Household Buyer - Non-Occupier,
+A42,Garristown,2,2024,Existing,All Buyer Types,
+A42,Garristown,2,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,2,2024,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,2,2024,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,3,2024,All Dwelling Statuses,All Buyer Types,433661.0
+A42,Garristown,3,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,441242.0
+A42,Garristown,3,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,418500.0
+A42,Garristown,3,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,3,2024,New,All Buyer Types,417494.0
+A42,Garristown,3,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,420705.0
+A42,Garristown,3,2024,New,Household Buyer - Former Owner-Occupier,409999.0
+A42,Garristown,3,2024,New,Household Buyer - Non-Occupier,
+A42,Garristown,3,2024,Existing,All Buyer Types,514500.0
+A42,Garristown,3,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,585000.0
+A42,Garristown,3,2024,Existing,Household Buyer - Former Owner-Occupier,444000.0
+A42,Garristown,3,2024,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,4,2024,All Dwelling Statuses,All Buyer Types,450000.0
+A42,Garristown,4,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,450000.0
+A42,Garristown,4,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,4,2024,New,All Buyer Types,450000.0
+A42,Garristown,4,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,450000.0
+A42,Garristown,4,2024,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2024,New,Household Buyer - Non-Occupier,
+A42,Garristown,4,2024,Existing,All Buyer Types,
+A42,Garristown,4,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,4,2024,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,4,2024,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,5,2024,All Dwelling Statuses,All Buyer Types,
+A42,Garristown,5,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,5,2024,New,All Buyer Types,
+A42,Garristown,5,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2024,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2024,New,Household Buyer - Non-Occupier,
+A42,Garristown,5,2024,Existing,All Buyer Types,
+A42,Garristown,5,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,5,2024,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,5,2024,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,6,2024,All Dwelling Statuses,All Buyer Types,412143.0
+A42,Garristown,6,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,396000.0
+A42,Garristown,6,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,452500.0
+A42,Garristown,6,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,6,2024,New,All Buyer Types,455833.0
+A42,Garristown,6,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,457500.0
+A42,Garristown,6,2024,New,Household Buyer - Former Owner-Occupier,452500.0
+A42,Garristown,6,2024,New,Household Buyer - Non-Occupier,
+A42,Garristown,6,2024,Existing,All Buyer Types,150000.0
+A42,Garristown,6,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+A42,Garristown,6,2024,Existing,Household Buyer - Former Owner-Occupier,
+A42,Garristown,6,2024,Existing,Household Buyer - Non-Occupier,
+A42,Garristown,7,2024,All Dwelling Statuses,All Buyer Types,466666.0
+A42,Garristown,7,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,452500.0
+A42,Garristown,7,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,495000.0
+A42,Garristown,7,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A42,Garristown,7,2024,New,All Buyer Types,452500.0
+A42,Garristown,7,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,452500.0
+A42,Garristown,7,2024,New,Household Buyer - Former Owner-Occupier,
+A42,Garristown,7,2024,New,Household Buyer - Non-Occupier,
+A42,Garristown,7,2024,Existing,All Buyer Types,495000.0
+A42,Garristown,7,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A42,Garristown,7,2024,Existing,Household Buyer - Former Owner-Occupier,495000.0
+A42,Garristown,7,2024,Existing,Household Buyer - Non-Occupier,

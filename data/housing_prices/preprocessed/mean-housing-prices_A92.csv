@@ -1,0 +1,2101 @@
+Routing Key,City,Month,Year,Dwelling Status,Type of Buyer,VALUE
+A92,Drogheda,1,2010,All Dwelling Statuses,All Buyer Types,235805.0
+A92,Drogheda,1,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,224517.0
+A92,Drogheda,1,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,278700.0
+A92,Drogheda,1,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A92,Drogheda,1,2010,New,All Buyer Types,228722.0
+A92,Drogheda,1,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,201208.0
+A92,Drogheda,1,2010,New,Household Buyer - Former Owner-Occupier,283750.0
+A92,Drogheda,1,2010,New,Household Buyer - Non-Occupier,
+A92,Drogheda,1,2010,Existing,All Buyer Types,238167.0
+A92,Drogheda,1,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,230733.0
+A92,Drogheda,1,2010,Existing,Household Buyer - Former Owner-Occupier,275333.0
+A92,Drogheda,1,2010,Existing,Household Buyer - Non-Occupier,
+A92,Drogheda,2,2010,All Dwelling Statuses,All Buyer Types,177814.0
+A92,Drogheda,2,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,193045.0
+A92,Drogheda,2,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,174585.0
+A92,Drogheda,2,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,94500.0
+A92,Drogheda,2,2010,New,All Buyer Types,189718.0
+A92,Drogheda,2,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,198756.0
+A92,Drogheda,2,2010,New,Household Buyer - Former Owner-Occupier,171642.0
+A92,Drogheda,2,2010,New,Household Buyer - Non-Occupier,
+A92,Drogheda,2,2010,Existing,All Buyer Types,167100.0
+A92,Drogheda,2,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,187333.0
+A92,Drogheda,2,2010,Existing,Household Buyer - Former Owner-Occupier,179000.0
+A92,Drogheda,2,2010,Existing,Household Buyer - Non-Occupier,94500.0
+A92,Drogheda,3,2010,All Dwelling Statuses,All Buyer Types,201698.0
+A92,Drogheda,3,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,199370.0
+A92,Drogheda,3,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,225863.0
+A92,Drogheda,3,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,157219.0
+A92,Drogheda,3,2010,New,All Buyer Types,197066.0
+A92,Drogheda,3,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,195929.0
+A92,Drogheda,3,2010,New,Household Buyer - Former Owner-Occupier,246383.0
+A92,Drogheda,3,2010,New,Household Buyer - Non-Occupier,153438.0
+A92,Drogheda,3,2010,Existing,All Buyer Types,205750.0
+A92,Drogheda,3,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,204286.0
+A92,Drogheda,3,2010,Existing,Household Buyer - Former Owner-Occupier,220000.0
+A92,Drogheda,3,2010,Existing,Household Buyer - Non-Occupier,161000.0
+A92,Drogheda,4,2010,All Dwelling Statuses,All Buyer Types,210910.0
+A92,Drogheda,4,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,231489.0
+A92,Drogheda,4,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,174685.0
+A92,Drogheda,4,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,211750.0
+A92,Drogheda,4,2010,New,All Buyer Types,256769.0
+A92,Drogheda,4,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,265963.0
+A92,Drogheda,4,2010,New,Household Buyer - Former Owner-Occupier,244511.0
+A92,Drogheda,4,2010,New,Household Buyer - Non-Occupier,
+A92,Drogheda,4,2010,Existing,All Buyer Types,192026.0
+A92,Drogheda,4,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,217700.0
+A92,Drogheda,4,2010,Existing,Household Buyer - Former Owner-Occupier,132790.0
+A92,Drogheda,4,2010,Existing,Household Buyer - Non-Occupier,211750.0
+A92,Drogheda,5,2010,All Dwelling Statuses,All Buyer Types,183846.0
+A92,Drogheda,5,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,176788.0
+A92,Drogheda,5,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,271193.0
+A92,Drogheda,5,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,74000.0
+A92,Drogheda,5,2010,New,All Buyer Types,215088.0
+A92,Drogheda,5,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,152892.0
+A92,Drogheda,5,2010,New,Household Buyer - Former Owner-Occupier,370578.0
+A92,Drogheda,5,2010,New,Household Buyer - Non-Occupier,
+A92,Drogheda,5,2010,Existing,All Buyer Types,169267.0
+A92,Drogheda,5,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,193857.0
+A92,Drogheda,5,2010,Existing,Household Buyer - Former Owner-Occupier,221500.0
+A92,Drogheda,5,2010,Existing,Household Buyer - Non-Occupier,74000.0
+A92,Drogheda,6,2010,All Dwelling Statuses,All Buyer Types,209005.0
+A92,Drogheda,6,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210357.0
+A92,Drogheda,6,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,227000.0
+A92,Drogheda,6,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,132500.0
+A92,Drogheda,6,2010,New,All Buyer Types,218515.0
+A92,Drogheda,6,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,218515.0
+A92,Drogheda,6,2010,New,Household Buyer - Former Owner-Occupier,
+A92,Drogheda,6,2010,New,Household Buyer - Non-Occupier,
+A92,Drogheda,6,2010,Existing,All Buyer Types,204000.0
+A92,Drogheda,6,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,202200.0
+A92,Drogheda,6,2010,Existing,Household Buyer - Former Owner-Occupier,227000.0
+A92,Drogheda,6,2010,Existing,Household Buyer - Non-Occupier,132500.0
+A92,Drogheda,7,2010,All Dwelling Statuses,All Buyer Types,224472.0
+A92,Drogheda,7,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,209825.0
+A92,Drogheda,7,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,243187.0
+A92,Drogheda,7,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A92,Drogheda,7,2010,New,All Buyer Types,274462.0
+A92,Drogheda,7,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,225829.0
+A92,Drogheda,7,2010,New,Household Buyer - Former Owner-Occupier,352275.0
+A92,Drogheda,7,2010,New,Household Buyer - Non-Occupier,
+A92,Drogheda,7,2010,Existing,All Buyer Types,201263.0
+A92,Drogheda,7,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,201290.0
+A92,Drogheda,7,2010,Existing,Household Buyer - Former Owner-Occupier,201231.0
+A92,Drogheda,7,2010,Existing,Household Buyer - Non-Occupier,
+A92,Drogheda,8,2010,All Dwelling Statuses,All Buyer Types,199325.0
+A92,Drogheda,8,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,194375.0
+A92,Drogheda,8,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,256636.0
+A92,Drogheda,8,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,136111.0
+A92,Drogheda,8,2010,New,All Buyer Types,246787.0
+A92,Drogheda,8,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,162199.0
+A92,Drogheda,8,2010,New,Household Buyer - Former Owner-Occupier,352522.0
+A92,Drogheda,8,2010,New,Household Buyer - Non-Occupier,
+A92,Drogheda,8,2010,Existing,All Buyer Types,178984.0
+A92,Drogheda,8,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,209000.0
+A92,Drogheda,8,2010,Existing,Household Buyer - Former Owner-Occupier,160750.0
+A92,Drogheda,8,2010,Existing,Household Buyer - Non-Occupier,136111.0
+A92,Drogheda,9,2010,All Dwelling Statuses,All Buyer Types,200417.0
+A92,Drogheda,9,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,197450.0
+A92,Drogheda,9,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,210666.0
+A92,Drogheda,9,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,182400.0
+A92,Drogheda,9,2010,New,All Buyer Types,242857.0
+A92,Drogheda,9,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,244585.0
+A92,Drogheda,9,2010,New,Household Buyer - Former Owner-Occupier,239832.0
+A92,Drogheda,9,2010,New,Household Buyer - Non-Occupier,
+A92,Drogheda,9,2010,Existing,All Buyer Types,182462.0
+A92,Drogheda,9,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,167455.0
+A92,Drogheda,9,2010,Existing,Household Buyer - Former Owner-Occupier,199000.0
+A92,Drogheda,9,2010,Existing,Household Buyer - Non-Occupier,182400.0
+A92,Drogheda,10,2010,All Dwelling Statuses,All Buyer Types,168009.0
+A92,Drogheda,10,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,166821.0
+A92,Drogheda,10,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,175545.0
+A92,Drogheda,10,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,134875.0
+A92,Drogheda,10,2010,New,All Buyer Types,194667.0
+A92,Drogheda,10,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,194000.0
+A92,Drogheda,10,2010,New,Household Buyer - Former Owner-Occupier,215000.0
+A92,Drogheda,10,2010,New,Household Buyer - Non-Occupier,156000.0
+A92,Drogheda,10,2010,Existing,All Buyer Types,160393.0
+A92,Drogheda,10,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,159409.0
+A92,Drogheda,10,2010,Existing,Household Buyer - Former Owner-Occupier,166778.0
+A92,Drogheda,10,2010,Existing,Household Buyer - Non-Occupier,113750.0
+A92,Drogheda,11,2010,All Dwelling Statuses,All Buyer Types,199453.0
+A92,Drogheda,11,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,197519.0
+A92,Drogheda,11,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,217778.0
+A92,Drogheda,11,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,131500.0
+A92,Drogheda,11,2010,New,All Buyer Types,216446.0
+A92,Drogheda,11,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,216446.0
+A92,Drogheda,11,2010,New,Household Buyer - Former Owner-Occupier,
+A92,Drogheda,11,2010,New,Household Buyer - Non-Occupier,
+A92,Drogheda,11,2010,Existing,All Buyer Types,196364.0
+A92,Drogheda,11,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,190636.0
+A92,Drogheda,11,2010,Existing,Household Buyer - Former Owner-Occupier,217778.0
+A92,Drogheda,11,2010,Existing,Household Buyer - Non-Occupier,131500.0
+A92,Drogheda,12,2010,All Dwelling Statuses,All Buyer Types,202186.0
+A92,Drogheda,12,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,201157.0
+A92,Drogheda,12,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,220953.0
+A92,Drogheda,12,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,91000.0
+A92,Drogheda,12,2010,New,All Buyer Types,252179.0
+A92,Drogheda,12,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,234992.0
+A92,Drogheda,12,2010,New,Household Buyer - Former Owner-Occupier,279679.0
+A92,Drogheda,12,2010,New,Household Buyer - Non-Occupier,
+A92,Drogheda,12,2010,Existing,All Buyer Types,173928.0
+A92,Drogheda,12,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180335.0
+A92,Drogheda,12,2010,Existing,Household Buyer - Former Owner-Occupier,184250.0
+A92,Drogheda,12,2010,Existing,Household Buyer - Non-Occupier,91000.0
+A92,Drogheda,1,2011,All Dwelling Statuses,All Buyer Types,213081.0
+A92,Drogheda,1,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,219359.0
+A92,Drogheda,1,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,202875.0
+A92,Drogheda,1,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,215600.0
+A92,Drogheda,1,2011,New,All Buyer Types,266600.0
+A92,Drogheda,1,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,266600.0
+A92,Drogheda,1,2011,New,Household Buyer - Former Owner-Occupier,
+A92,Drogheda,1,2011,New,Household Buyer - Non-Occupier,
+A92,Drogheda,1,2011,Existing,All Buyer Types,208216.0
+A92,Drogheda,1,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,208861.0
+A92,Drogheda,1,2011,Existing,Household Buyer - Former Owner-Occupier,202875.0
+A92,Drogheda,1,2011,Existing,Household Buyer - Non-Occupier,215600.0
+A92,Drogheda,2,2011,All Dwelling Statuses,All Buyer Types,206804.0
+A92,Drogheda,2,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,234469.0
+A92,Drogheda,2,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197091.0
+A92,Drogheda,2,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,120000.0
+A92,Drogheda,2,2011,New,All Buyer Types,267957.0
+A92,Drogheda,2,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,286928.0
+A92,Drogheda,2,2011,New,Household Buyer - Former Owner-Occupier,239500.0
+A92,Drogheda,2,2011,New,Household Buyer - Non-Occupier,
+A92,Drogheda,2,2011,Existing,All Buyer Types,184964.0
+A92,Drogheda,2,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,195125.0
+A92,Drogheda,2,2011,Existing,Household Buyer - Former Owner-Occupier,187667.0
+A92,Drogheda,2,2011,Existing,Household Buyer - Non-Occupier,120000.0
+A92,Drogheda,3,2011,All Dwelling Statuses,All Buyer Types,195340.0
+A92,Drogheda,3,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,237643.0
+A92,Drogheda,3,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,193907.0
+A92,Drogheda,3,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,103738.0
+A92,Drogheda,3,2011,New,All Buyer Types,242857.0
+A92,Drogheda,3,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,257698.0
+A92,Drogheda,3,2011,New,Household Buyer - Former Owner-Occupier,228017.0
+A92,Drogheda,3,2011,New,Household Buyer - Non-Occupier,
+A92,Drogheda,3,2011,Existing,All Buyer Types,169997.0
+A92,Drogheda,3,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,221600.0
+A92,Drogheda,3,2011,Existing,Household Buyer - Former Owner-Occupier,171167.0
+A92,Drogheda,3,2011,Existing,Household Buyer - Non-Occupier,103738.0
+A92,Drogheda,4,2011,All Dwelling Statuses,All Buyer Types,199514.0
+A92,Drogheda,4,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,201744.0
+A92,Drogheda,4,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,196942.0
+A92,Drogheda,4,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,202744.0
+A92,Drogheda,4,2011,New,All Buyer Types,215076.0
+A92,Drogheda,4,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,209975.0
+A92,Drogheda,4,2011,New,Household Buyer - Former Owner-Occupier,222863.0
+A92,Drogheda,4,2011,New,Household Buyer - Non-Occupier,213732.0
+A92,Drogheda,4,2011,Existing,All Buyer Types,195853.0
+A92,Drogheda,4,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,199000.0
+A92,Drogheda,4,2011,Existing,Household Buyer - Former Owner-Occupier,194350.0
+A92,Drogheda,4,2011,Existing,Household Buyer - Non-Occupier,197250.0
+A92,Drogheda,5,2011,All Dwelling Statuses,All Buyer Types,195150.0
+A92,Drogheda,5,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,181667.0
+A92,Drogheda,5,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,221500.0
+A92,Drogheda,5,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,77500.0
+A92,Drogheda,5,2011,New,All Buyer Types,
+A92,Drogheda,5,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A92,Drogheda,5,2011,New,Household Buyer - Former Owner-Occupier,
+A92,Drogheda,5,2011,New,Household Buyer - Non-Occupier,
+A92,Drogheda,5,2011,Existing,All Buyer Types,195150.0
+A92,Drogheda,5,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,181667.0
+A92,Drogheda,5,2011,Existing,Household Buyer - Former Owner-Occupier,221500.0
+A92,Drogheda,5,2011,Existing,Household Buyer - Non-Occupier,77500.0
+A92,Drogheda,6,2011,All Dwelling Statuses,All Buyer Types,194236.0
+A92,Drogheda,6,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210667.0
+A92,Drogheda,6,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,214654.0
+A92,Drogheda,6,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,67500.0
+A92,Drogheda,6,2011,New,All Buyer Types,251014.0
+A92,Drogheda,6,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,204001.0
+A92,Drogheda,6,2011,New,Household Buyer - Former Owner-Occupier,345040.0
+A92,Drogheda,6,2011,New,Household Buyer - Non-Occupier,
+A92,Drogheda,6,2011,Existing,All Buyer Types,180042.0
+A92,Drogheda,6,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,224000.0
+A92,Drogheda,6,2011,Existing,Household Buyer - Former Owner-Occupier,200167.0
+A92,Drogheda,6,2011,Existing,Household Buyer - Non-Occupier,67500.0
+A92,Drogheda,7,2011,All Dwelling Statuses,All Buyer Types,173195.0
+A92,Drogheda,7,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,157049.0
+A92,Drogheda,7,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,184364.0
+A92,Drogheda,7,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,192500.0
+A92,Drogheda,7,2011,New,All Buyer Types,198163.0
+A92,Drogheda,7,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,229745.0
+A92,Drogheda,7,2011,New,Household Buyer - Former Owner-Occupier,135000.0
+A92,Drogheda,7,2011,New,Household Buyer - Non-Occupier,
+A92,Drogheda,7,2011,Existing,All Buyer Types,169450.0
+A92,Drogheda,7,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,138875.0
+A92,Drogheda,7,2011,Existing,Household Buyer - Former Owner-Occupier,189300.0
+A92,Drogheda,7,2011,Existing,Household Buyer - Non-Occupier,192500.0
+A92,Drogheda,8,2011,All Dwelling Statuses,All Buyer Types,207724.0
+A92,Drogheda,8,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,207050.0
+A92,Drogheda,8,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,251486.0
+A92,Drogheda,8,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,130300.0
+A92,Drogheda,8,2011,New,All Buyer Types,189957.0
+A92,Drogheda,8,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,193001.0
+A92,Drogheda,8,2011,New,Household Buyer - Former Owner-Occupier,183870.0
+A92,Drogheda,8,2011,New,Household Buyer - Non-Occupier,
+A92,Drogheda,8,2011,Existing,All Buyer Types,210262.0
+A92,Drogheda,8,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210563.0
+A92,Drogheda,8,2011,Existing,Household Buyer - Former Owner-Occupier,259938.0
+A92,Drogheda,8,2011,Existing,Household Buyer - Non-Occupier,130300.0
+A92,Drogheda,9,2011,All Dwelling Statuses,All Buyer Types,169261.0
+A92,Drogheda,9,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,184750.0
+A92,Drogheda,9,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,167143.0
+A92,Drogheda,9,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,75000.0
+A92,Drogheda,9,2011,New,All Buyer Types,
+A92,Drogheda,9,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A92,Drogheda,9,2011,New,Household Buyer - Former Owner-Occupier,
+A92,Drogheda,9,2011,New,Household Buyer - Non-Occupier,
+A92,Drogheda,9,2011,Existing,All Buyer Types,169261.0
+A92,Drogheda,9,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,184750.0
+A92,Drogheda,9,2011,Existing,Household Buyer - Former Owner-Occupier,167143.0
+A92,Drogheda,9,2011,Existing,Household Buyer - Non-Occupier,75000.0
+A92,Drogheda,10,2011,All Dwelling Statuses,All Buyer Types,153282.0
+A92,Drogheda,10,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,163546.0
+A92,Drogheda,10,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,158261.0
+A92,Drogheda,10,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,121625.0
+A92,Drogheda,10,2011,New,All Buyer Types,104375.0
+A92,Drogheda,10,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A92,Drogheda,10,2011,New,Household Buyer - Former Owner-Occupier,104375.0
+A92,Drogheda,10,2011,New,Household Buyer - Non-Occupier,
+A92,Drogheda,10,2011,Existing,All Buyer Types,155611.0
+A92,Drogheda,10,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,163546.0
+A92,Drogheda,10,2011,Existing,Household Buyer - Former Owner-Occupier,163650.0
+A92,Drogheda,10,2011,Existing,Household Buyer - Non-Occupier,121625.0
+A92,Drogheda,11,2011,All Dwelling Statuses,All Buyer Types,144298.0
+A92,Drogheda,11,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,176005.0
+A92,Drogheda,11,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,146567.0
+A92,Drogheda,11,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,98670.0
+A92,Drogheda,11,2011,New,All Buyer Types,188258.0
+A92,Drogheda,11,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,197262.0
+A92,Drogheda,11,2011,New,Household Buyer - Former Owner-Occupier,170250.0
+A92,Drogheda,11,2011,New,Household Buyer - Non-Occupier,
+A92,Drogheda,11,2011,Existing,All Buyer Types,133748.0
+A92,Drogheda,11,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,159000.0
+A92,Drogheda,11,2011,Existing,Household Buyer - Former Owner-Occupier,142923.0
+A92,Drogheda,11,2011,Existing,Household Buyer - Non-Occupier,98670.0
+A92,Drogheda,12,2011,All Dwelling Statuses,All Buyer Types,166180.0
+A92,Drogheda,12,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,186956.0
+A92,Drogheda,12,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,180085.0
+A92,Drogheda,12,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,80100.0
+A92,Drogheda,12,2011,New,All Buyer Types,196194.0
+A92,Drogheda,12,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,220217.0
+A92,Drogheda,12,2011,New,Household Buyer - Former Owner-Occupier,160161.0
+A92,Drogheda,12,2011,New,Household Buyer - Non-Occupier,
+A92,Drogheda,12,2011,Existing,All Buyer Types,160622.0
+A92,Drogheda,12,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,167000.0
+A92,Drogheda,12,2011,Existing,Household Buyer - Former Owner-Occupier,182429.0
+A92,Drogheda,12,2011,Existing,Household Buyer - Non-Occupier,80100.0
+A92,Drogheda,1,2012,All Dwelling Statuses,All Buyer Types,158180.0
+A92,Drogheda,1,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,172568.0
+A92,Drogheda,1,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,159273.0
+A92,Drogheda,1,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,103000.0
+A92,Drogheda,1,2012,New,All Buyer Types,178353.0
+A92,Drogheda,1,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,178353.0
+A92,Drogheda,1,2012,New,Household Buyer - Former Owner-Occupier,
+A92,Drogheda,1,2012,New,Household Buyer - Non-Occupier,
+A92,Drogheda,1,2012,Existing,All Buyer Types,155077.0
+A92,Drogheda,1,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,161000.0
+A92,Drogheda,1,2012,Existing,Household Buyer - Former Owner-Occupier,159273.0
+A92,Drogheda,1,2012,Existing,Household Buyer - Non-Occupier,103000.0
+A92,Drogheda,2,2012,All Dwelling Statuses,All Buyer Types,133417.0
+A92,Drogheda,2,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,114500.0
+A92,Drogheda,2,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,136286.0
+A92,Drogheda,2,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,139333.0
+A92,Drogheda,2,2012,New,All Buyer Types,
+A92,Drogheda,2,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A92,Drogheda,2,2012,New,Household Buyer - Former Owner-Occupier,
+A92,Drogheda,2,2012,New,Household Buyer - Non-Occupier,
+A92,Drogheda,2,2012,Existing,All Buyer Types,133417.0
+A92,Drogheda,2,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,114500.0
+A92,Drogheda,2,2012,Existing,Household Buyer - Former Owner-Occupier,136286.0
+A92,Drogheda,2,2012,Existing,Household Buyer - Non-Occupier,139333.0
+A92,Drogheda,3,2012,All Dwelling Statuses,All Buyer Types,178859.0
+A92,Drogheda,3,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,145833.0
+A92,Drogheda,3,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,223577.0
+A92,Drogheda,3,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,80500.0
+A92,Drogheda,3,2012,New,All Buyer Types,148837.0
+A92,Drogheda,3,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,142316.0
+A92,Drogheda,3,2012,New,Household Buyer - Former Owner-Occupier,155358.0
+A92,Drogheda,3,2012,New,Household Buyer - Non-Occupier,
+A92,Drogheda,3,2012,Existing,All Buyer Types,186691.0
+A92,Drogheda,3,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,146889.0
+A92,Drogheda,3,2012,Existing,Household Buyer - Former Owner-Occupier,242182.0
+A92,Drogheda,3,2012,Existing,Household Buyer - Non-Occupier,80500.0
+A92,Drogheda,4,2012,All Dwelling Statuses,All Buyer Types,129495.0
+A92,Drogheda,4,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,167114.0
+A92,Drogheda,4,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,114357.0
+A92,Drogheda,4,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,80750.0
+A92,Drogheda,4,2012,New,All Buyer Types,179982.0
+A92,Drogheda,4,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,194227.0
+A92,Drogheda,4,2012,New,Household Buyer - Former Owner-Occupier,
+A92,Drogheda,4,2012,New,Household Buyer - Non-Occupier,123000.0
+A92,Drogheda,4,2012,Existing,All Buyer Types,111464.0
+A92,Drogheda,4,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+A92,Drogheda,4,2012,Existing,Household Buyer - Former Owner-Occupier,114357.0
+A92,Drogheda,4,2012,Existing,Household Buyer - Non-Occupier,66667.0
+A92,Drogheda,5,2012,All Dwelling Statuses,All Buyer Types,141600.0
+A92,Drogheda,5,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,121900.0
+A92,Drogheda,5,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,172182.0
+A92,Drogheda,5,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,106750.0
+A92,Drogheda,5,2012,New,All Buyer Types,129833.0
+A92,Drogheda,5,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+A92,Drogheda,5,2012,New,Household Buyer - Former Owner-Occupier,169500.0
+A92,Drogheda,5,2012,New,Household Buyer - Non-Occupier,110000.0
+A92,Drogheda,5,2012,Existing,All Buyer Types,143205.0
+A92,Drogheda,5,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,123222.0
+A92,Drogheda,5,2012,Existing,Household Buyer - Former Owner-Occupier,172450.0
+A92,Drogheda,5,2012,Existing,Household Buyer - Non-Occupier,105667.0
+A92,Drogheda,6,2012,All Dwelling Statuses,All Buyer Types,141554.0
+A92,Drogheda,6,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,133442.0
+A92,Drogheda,6,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,170733.0
+A92,Drogheda,6,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,76718.0
+A92,Drogheda,6,2012,New,All Buyer Types,116495.0
+A92,Drogheda,6,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,128551.0
+A92,Drogheda,6,2012,New,Household Buyer - Former Owner-Occupier,176750.0
+A92,Drogheda,6,2012,New,Household Buyer - Non-Occupier,64268.0
+A92,Drogheda,6,2012,Existing,All Buyer Types,152105.0
+A92,Drogheda,6,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,138333.0
+A92,Drogheda,6,2012,Existing,Household Buyer - Former Owner-Occupier,169808.0
+A92,Drogheda,6,2012,Existing,Household Buyer - Non-Occupier,89167.0
+A92,Drogheda,7,2012,All Dwelling Statuses,All Buyer Types,170586.0
+A92,Drogheda,7,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,162245.0
+A92,Drogheda,7,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,173765.0
+A92,Drogheda,7,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,183136.0
+A92,Drogheda,7,2012,New,All Buyer Types,189825.0
+A92,Drogheda,7,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,205808.0
+A92,Drogheda,7,2012,New,Household Buyer - Former Owner-Occupier,
+A92,Drogheda,7,2012,New,Household Buyer - Non-Occupier,141875.0
+A92,Drogheda,7,2012,Existing,All Buyer Types,168181.0
+A92,Drogheda,7,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150364.0
+A92,Drogheda,7,2012,Existing,Household Buyer - Former Owner-Occupier,173765.0
+A92,Drogheda,7,2012,Existing,Household Buyer - Non-Occupier,193451.0
+A92,Drogheda,8,2012,All Dwelling Statuses,All Buyer Types,141889.0
+A92,Drogheda,8,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,168063.0
+A92,Drogheda,8,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,129868.0
+A92,Drogheda,8,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,107375.0
+A92,Drogheda,8,2012,New,All Buyer Types,179480.0
+A92,Drogheda,8,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,193376.0
+A92,Drogheda,8,2012,New,Household Buyer - Former Owner-Occupier,110000.0
+A92,Drogheda,8,2012,New,Household Buyer - Non-Occupier,
+A92,Drogheda,8,2012,Existing,All Buyer Types,134613.0
+A92,Drogheda,8,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,154000.0
+A92,Drogheda,8,2012,Existing,Household Buyer - Former Owner-Occupier,130972.0
+A92,Drogheda,8,2012,Existing,Household Buyer - Non-Occupier,107375.0
+A92,Drogheda,9,2012,All Dwelling Statuses,All Buyer Types,147948.0
+A92,Drogheda,9,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,175168.0
+A92,Drogheda,9,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,145870.0
+A92,Drogheda,9,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,112000.0
+A92,Drogheda,9,2012,New,All Buyer Types,137065.0
+A92,Drogheda,9,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,238350.0
+A92,Drogheda,9,2012,New,Household Buyer - Former Owner-Occupier,134681.0
+A92,Drogheda,9,2012,New,Household Buyer - Non-Occupier,90000.0
+A92,Drogheda,9,2012,Existing,All Buyer Types,149813.0
+A92,Drogheda,9,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,168850.0
+A92,Drogheda,9,2012,Existing,Household Buyer - Former Owner-Occupier,147548.0
+A92,Drogheda,9,2012,Existing,Household Buyer - Non-Occupier,120800.0
+A92,Drogheda,10,2012,All Dwelling Statuses,All Buyer Types,171200.0
+A92,Drogheda,10,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,183899.0
+A92,Drogheda,10,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,166843.0
+A92,Drogheda,10,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,148000.0
+A92,Drogheda,10,2012,New,All Buyer Types,166886.0
+A92,Drogheda,10,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,186448.0
+A92,Drogheda,10,2012,New,Household Buyer - Former Owner-Occupier,127763.0
+A92,Drogheda,10,2012,New,Household Buyer - Non-Occupier,
+A92,Drogheda,10,2012,Existing,All Buyer Types,172125.0
+A92,Drogheda,10,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,182625.0
+A92,Drogheda,10,2012,Existing,Household Buyer - Former Owner-Occupier,171441.0
+A92,Drogheda,10,2012,Existing,Household Buyer - Non-Occupier,148000.0
+A92,Drogheda,11,2012,All Dwelling Statuses,All Buyer Types,146369.0
+A92,Drogheda,11,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,162479.0
+A92,Drogheda,11,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,152579.0
+A92,Drogheda,11,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,81714.0
+A92,Drogheda,11,2012,New,All Buyer Types,161816.0
+A92,Drogheda,11,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,166020.0
+A92,Drogheda,11,2012,New,Household Buyer - Former Owner-Occupier,145000.0
+A92,Drogheda,11,2012,New,Household Buyer - Non-Occupier,
+A92,Drogheda,11,2012,Existing,All Buyer Types,144573.0
+A92,Drogheda,11,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,161594.0
+A92,Drogheda,11,2012,Existing,Household Buyer - Former Owner-Occupier,152958.0
+A92,Drogheda,11,2012,Existing,Household Buyer - Non-Occupier,81714.0
+A92,Drogheda,12,2012,All Dwelling Statuses,All Buyer Types,154246.0
+A92,Drogheda,12,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,162673.0
+A92,Drogheda,12,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,163657.0
+A92,Drogheda,12,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,70400.0
+A92,Drogheda,12,2012,New,All Buyer Types,191040.0
+A92,Drogheda,12,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,177872.0
+A92,Drogheda,12,2012,New,Household Buyer - Former Owner-Occupier,223963.0
+A92,Drogheda,12,2012,New,Household Buyer - Non-Occupier,
+A92,Drogheda,12,2012,Existing,All Buyer Types,141038.0
+A92,Drogheda,12,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,156065.0
+A92,Drogheda,12,2012,Existing,Household Buyer - Former Owner-Occupier,141727.0
+A92,Drogheda,12,2012,Existing,Household Buyer - Non-Occupier,70400.0
+A92,Drogheda,1,2013,All Dwelling Statuses,All Buyer Types,141502.0
+A92,Drogheda,1,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,104925.0
+A92,Drogheda,1,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,176801.0
+A92,Drogheda,1,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,72500.0
+A92,Drogheda,1,2013,New,All Buyer Types,85125.0
+A92,Drogheda,1,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,85125.0
+A92,Drogheda,1,2013,New,Household Buyer - Former Owner-Occupier,
+A92,Drogheda,1,2013,New,Household Buyer - Non-Occupier,
+A92,Drogheda,1,2013,Existing,All Buyer Types,144186.0
+A92,Drogheda,1,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,109875.0
+A92,Drogheda,1,2013,Existing,Household Buyer - Former Owner-Occupier,176801.0
+A92,Drogheda,1,2013,Existing,Household Buyer - Non-Occupier,72500.0
+A92,Drogheda,2,2013,All Dwelling Statuses,All Buyer Types,144055.0
+A92,Drogheda,2,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,141117.0
+A92,Drogheda,2,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,164199.0
+A92,Drogheda,2,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,89500.0
+A92,Drogheda,2,2013,New,All Buyer Types,131661.0
+A92,Drogheda,2,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,70938.0
+A92,Drogheda,2,2013,New,Household Buyer - Former Owner-Occupier,192383.0
+A92,Drogheda,2,2013,New,Household Buyer - Non-Occupier,
+A92,Drogheda,2,2013,Existing,All Buyer Types,145182.0
+A92,Drogheda,2,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,151143.0
+A92,Drogheda,2,2013,Existing,Household Buyer - Former Owner-Occupier,161636.0
+A92,Drogheda,2,2013,Existing,Household Buyer - Non-Occupier,89500.0
+A92,Drogheda,3,2013,All Dwelling Statuses,All Buyer Types,124913.0
+A92,Drogheda,3,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,131429.0
+A92,Drogheda,3,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,135339.0
+A92,Drogheda,3,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,86600.0
+A92,Drogheda,3,2013,New,All Buyer Types,220000.0
+A92,Drogheda,3,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+A92,Drogheda,3,2013,New,Household Buyer - Former Owner-Occupier,
+A92,Drogheda,3,2013,New,Household Buyer - Non-Occupier,
+A92,Drogheda,3,2013,Existing,All Buyer Types,121110.0
+A92,Drogheda,3,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,116667.0
+A92,Drogheda,3,2013,Existing,Household Buyer - Former Owner-Occupier,135339.0
+A92,Drogheda,3,2013,Existing,Household Buyer - Non-Occupier,86600.0
+A92,Drogheda,4,2013,All Dwelling Statuses,All Buyer Types,125499.0
+A92,Drogheda,4,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,138083.0
+A92,Drogheda,4,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,129531.0
+A92,Drogheda,4,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,81517.0
+A92,Drogheda,4,2013,New,All Buyer Types,152150.0
+A92,Drogheda,4,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+A92,Drogheda,4,2013,New,Household Buyer - Former Owner-Occupier,149400.0
+A92,Drogheda,4,2013,New,Household Buyer - Non-Occupier,147550.0
+A92,Drogheda,4,2013,Existing,All Buyer Types,118096.0
+A92,Drogheda,4,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,132700.0
+A92,Drogheda,4,2013,Existing,Household Buyer - Former Owner-Occupier,124112.0
+A92,Drogheda,4,2013,Existing,Household Buyer - Non-Occupier,48500.0
+A92,Drogheda,5,2013,All Dwelling Statuses,All Buyer Types,152783.0
+A92,Drogheda,5,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150688.0
+A92,Drogheda,5,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,149387.0
+A92,Drogheda,5,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,179875.0
+A92,Drogheda,5,2013,New,All Buyer Types,221996.0
+A92,Drogheda,5,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A92,Drogheda,5,2013,New,Household Buyer - Former Owner-Occupier,154120.0
+A92,Drogheda,5,2013,New,Household Buyer - Non-Occupier,425625.0
+A92,Drogheda,5,2013,Existing,All Buyer Types,142135.0
+A92,Drogheda,5,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150688.0
+A92,Drogheda,5,2013,Existing,Household Buyer - Former Owner-Occupier,148500.0
+A92,Drogheda,5,2013,Existing,Household Buyer - Non-Occupier,57000.0
+A92,Drogheda,6,2013,All Dwelling Statuses,All Buyer Types,127679.0
+A92,Drogheda,6,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,108086.0
+A92,Drogheda,6,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,147277.0
+A92,Drogheda,6,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,95000.0
+A92,Drogheda,6,2013,New,All Buyer Types,150329.0
+A92,Drogheda,6,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A92,Drogheda,6,2013,New,Household Buyer - Former Owner-Occupier,150329.0
+A92,Drogheda,6,2013,New,Household Buyer - Non-Occupier,
+A92,Drogheda,6,2013,Existing,All Buyer Types,125620.0
+A92,Drogheda,6,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,108086.0
+A92,Drogheda,6,2013,Existing,Household Buyer - Former Owner-Occupier,146723.0
+A92,Drogheda,6,2013,Existing,Household Buyer - Non-Occupier,95000.0
+A92,Drogheda,7,2013,All Dwelling Statuses,All Buyer Types,117933.0
+A92,Drogheda,7,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,99074.0
+A92,Drogheda,7,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,155114.0
+A92,Drogheda,7,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,71915.0
+A92,Drogheda,7,2013,New,All Buyer Types,175964.0
+A92,Drogheda,7,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,105000.0
+A92,Drogheda,7,2013,New,Household Buyer - Former Owner-Occupier,211446.0
+A92,Drogheda,7,2013,New,Household Buyer - Non-Occupier,
+A92,Drogheda,7,2013,Existing,All Buyer Types,114064.0
+A92,Drogheda,7,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,98703.0
+A92,Drogheda,7,2013,Existing,Household Buyer - Former Owner-Occupier,149184.0
+A92,Drogheda,7,2013,Existing,Household Buyer - Non-Occupier,71915.0
+A92,Drogheda,8,2013,All Dwelling Statuses,All Buyer Types,147438.0
+A92,Drogheda,8,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,121458.0
+A92,Drogheda,8,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,168093.0
+A92,Drogheda,8,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,80583.0
+A92,Drogheda,8,2013,New,All Buyer Types,141305.0
+A92,Drogheda,8,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,142394.0
+A92,Drogheda,8,2013,New,Household Buyer - Former Owner-Occupier,139853.0
+A92,Drogheda,8,2013,New,Household Buyer - Non-Occupier,
+A92,Drogheda,8,2013,Existing,All Buyer Types,148486.0
+A92,Drogheda,8,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,107500.0
+A92,Drogheda,8,2013,Existing,Household Buyer - Former Owner-Occupier,171014.0
+A92,Drogheda,8,2013,Existing,Household Buyer - Non-Occupier,80583.0
+A92,Drogheda,9,2013,All Dwelling Statuses,All Buyer Types,132383.0
+A92,Drogheda,9,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,148144.0
+A92,Drogheda,9,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,149590.0
+A92,Drogheda,9,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,67625.0
+A92,Drogheda,9,2013,New,All Buyer Types,166448.0
+A92,Drogheda,9,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,150359.0
+A92,Drogheda,9,2013,New,Household Buyer - Former Owner-Occupier,198625.0
+A92,Drogheda,9,2013,New,Household Buyer - Non-Occupier,
+A92,Drogheda,9,2013,Existing,All Buyer Types,128452.0
+A92,Drogheda,9,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,146667.0
+A92,Drogheda,9,2013,Existing,Household Buyer - Former Owner-Occupier,146706.0
+A92,Drogheda,9,2013,Existing,Household Buyer - Non-Occupier,67625.0
+A92,Drogheda,10,2013,All Dwelling Statuses,All Buyer Types,148756.0
+A92,Drogheda,10,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,129419.0
+A92,Drogheda,10,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,166440.0
+A92,Drogheda,10,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,127750.0
+A92,Drogheda,10,2013,New,All Buyer Types,166006.0
+A92,Drogheda,10,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,113508.0
+A92,Drogheda,10,2013,New,Household Buyer - Former Owner-Occupier,323500.0
+A92,Drogheda,10,2013,New,Household Buyer - Non-Occupier,
+A92,Drogheda,10,2013,Existing,All Buyer Types,147151.0
+A92,Drogheda,10,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,134722.0
+A92,Drogheda,10,2013,Existing,Household Buyer - Former Owner-Occupier,159896.0
+A92,Drogheda,10,2013,Existing,Household Buyer - Non-Occupier,127750.0
+A92,Drogheda,11,2013,All Dwelling Statuses,All Buyer Types,150259.0
+A92,Drogheda,11,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,152288.0
+A92,Drogheda,11,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,159117.0
+A92,Drogheda,11,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,106211.0
+A92,Drogheda,11,2013,New,All Buyer Types,154490.0
+A92,Drogheda,11,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+A92,Drogheda,11,2013,New,Household Buyer - Former Owner-Occupier,156995.0
+A92,Drogheda,11,2013,New,Household Buyer - Non-Occupier,96475.0
+A92,Drogheda,11,2013,Existing,All Buyer Types,150028.0
+A92,Drogheda,11,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,149403.0
+A92,Drogheda,11,2013,Existing,Household Buyer - Former Owner-Occupier,159190.0
+A92,Drogheda,11,2013,Existing,Household Buyer - Non-Occupier,107833.0
+A92,Drogheda,12,2013,All Dwelling Statuses,All Buyer Types,144500.0
+A92,Drogheda,12,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,120165.0
+A92,Drogheda,12,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,167459.0
+A92,Drogheda,12,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,69714.0
+A92,Drogheda,12,2013,New,All Buyer Types,205559.0
+A92,Drogheda,12,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,145925.0
+A92,Drogheda,12,2013,New,Household Buyer - Former Owner-Occupier,245315.0
+A92,Drogheda,12,2013,New,Household Buyer - Non-Occupier,
+A92,Drogheda,12,2013,Existing,All Buyer Types,134490.0
+A92,Drogheda,12,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,113725.0
+A92,Drogheda,12,2013,Existing,Household Buyer - Former Owner-Occupier,155166.0
+A92,Drogheda,12,2013,Existing,Household Buyer - Non-Occupier,69714.0
+A92,Drogheda,1,2014,All Dwelling Statuses,All Buyer Types,124935.0
+A92,Drogheda,1,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,148469.0
+A92,Drogheda,1,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,144363.0
+A92,Drogheda,1,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,94150.0
+A92,Drogheda,1,2014,New,All Buyer Types,121173.0
+A92,Drogheda,1,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,141875.0
+A92,Drogheda,1,2014,New,Household Buyer - Former Owner-Occupier,181994.0
+A92,Drogheda,1,2014,New,Household Buyer - Non-Occupier,50000.0
+A92,Drogheda,1,2014,Existing,All Buyer Types,125875.0
+A92,Drogheda,1,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150667.0
+A92,Drogheda,1,2014,Existing,Household Buyer - Former Owner-Occupier,136000.0
+A92,Drogheda,1,2014,Existing,Household Buyer - Non-Occupier,105188.0
+A92,Drogheda,2,2014,All Dwelling Statuses,All Buyer Types,135794.0
+A92,Drogheda,2,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,133282.0
+A92,Drogheda,2,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,151724.0
+A92,Drogheda,2,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,80457.0
+A92,Drogheda,2,2014,New,All Buyer Types,149527.0
+A92,Drogheda,2,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,142366.0
+A92,Drogheda,2,2014,New,Household Buyer - Former Owner-Occupier,165750.0
+A92,Drogheda,2,2014,New,Household Buyer - Non-Occupier,106117.0
+A92,Drogheda,2,2014,Existing,All Buyer Types,133353.0
+A92,Drogheda,2,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,129875.0
+A92,Drogheda,2,2014,Existing,Household Buyer - Former Owner-Occupier,149789.0
+A92,Drogheda,2,2014,Existing,Household Buyer - Non-Occupier,77250.0
+A92,Drogheda,3,2014,All Dwelling Statuses,All Buyer Types,125575.0
+A92,Drogheda,3,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,132453.0
+A92,Drogheda,3,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,131759.0
+A92,Drogheda,3,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,111200.0
+A92,Drogheda,3,2014,New,All Buyer Types,131157.0
+A92,Drogheda,3,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,140873.0
+A92,Drogheda,3,2014,New,Household Buyer - Former Owner-Occupier,217920.0
+A92,Drogheda,3,2014,New,Household Buyer - Non-Occupier,73201.0
+A92,Drogheda,3,2014,Existing,All Buyer Types,124561.0
+A92,Drogheda,3,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,127400.0
+A92,Drogheda,3,2014,Existing,Household Buyer - Former Owner-Occupier,126972.0
+A92,Drogheda,3,2014,Existing,Household Buyer - Non-Occupier,118800.0
+A92,Drogheda,4,2014,All Dwelling Statuses,All Buyer Types,149202.0
+A92,Drogheda,4,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,135625.0
+A92,Drogheda,4,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,179765.0
+A92,Drogheda,4,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,103467.0
+A92,Drogheda,4,2014,New,All Buyer Types,107872.0
+A92,Drogheda,4,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A92,Drogheda,4,2014,New,Household Buyer - Former Owner-Occupier,107872.0
+A92,Drogheda,4,2014,New,Household Buyer - Non-Occupier,
+A92,Drogheda,4,2014,Existing,All Buyer Types,152876.0
+A92,Drogheda,4,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,135625.0
+A92,Drogheda,4,2014,Existing,Household Buyer - Former Owner-Occupier,192836.0
+A92,Drogheda,4,2014,Existing,Household Buyer - Non-Occupier,103467.0
+A92,Drogheda,5,2014,All Dwelling Statuses,All Buyer Types,142214.0
+A92,Drogheda,5,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,121178.0
+A92,Drogheda,5,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,176120.0
+A92,Drogheda,5,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,85427.0
+A92,Drogheda,5,2014,New,All Buyer Types,155411.0
+A92,Drogheda,5,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,118837.0
+A92,Drogheda,5,2014,New,Household Buyer - Former Owner-Occupier,170625.0
+A92,Drogheda,5,2014,New,Household Buyer - Non-Occupier,240847.0
+A92,Drogheda,5,2014,Existing,All Buyer Types,139317.0
+A92,Drogheda,5,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,121958.0
+A92,Drogheda,5,2014,Existing,Household Buyer - Former Owner-Occupier,177167.0
+A92,Drogheda,5,2014,Existing,Household Buyer - Non-Occupier,66000.0
+A92,Drogheda,6,2014,All Dwelling Statuses,All Buyer Types,148722.0
+A92,Drogheda,6,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,131042.0
+A92,Drogheda,6,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,183736.0
+A92,Drogheda,6,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,106429.0
+A92,Drogheda,6,2014,New,All Buyer Types,145234.0
+A92,Drogheda,6,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,145625.0
+A92,Drogheda,6,2014,New,Household Buyer - Former Owner-Occupier,159725.0
+A92,Drogheda,6,2014,New,Household Buyer - Non-Occupier,72000.0
+A92,Drogheda,6,2014,Existing,All Buyer Types,149280.0
+A92,Drogheda,6,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,129219.0
+A92,Drogheda,6,2014,Existing,Household Buyer - Former Owner-Occupier,189452.0
+A92,Drogheda,6,2014,Existing,Household Buyer - Non-Occupier,109077.0
+A92,Drogheda,7,2014,All Dwelling Statuses,All Buyer Types,181261.0
+A92,Drogheda,7,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,164077.0
+A92,Drogheda,7,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,201365.0
+A92,Drogheda,7,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,120500.0
+A92,Drogheda,7,2014,New,All Buyer Types,158662.0
+A92,Drogheda,7,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,154332.0
+A92,Drogheda,7,2014,New,Household Buyer - Former Owner-Occupier,172715.0
+A92,Drogheda,7,2014,New,Household Buyer - Non-Occupier,96000.0
+A92,Drogheda,7,2014,Existing,All Buyer Types,186910.0
+A92,Drogheda,7,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,168950.0
+A92,Drogheda,7,2014,Existing,Household Buyer - Former Owner-Occupier,206910.0
+A92,Drogheda,7,2014,Existing,Household Buyer - Non-Occupier,124000.0
+A92,Drogheda,8,2014,All Dwelling Statuses,All Buyer Types,147575.0
+A92,Drogheda,8,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,156150.0
+A92,Drogheda,8,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,157774.0
+A92,Drogheda,8,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,112742.0
+A92,Drogheda,8,2014,New,All Buyer Types,120575.0
+A92,Drogheda,8,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,148301.0
+A92,Drogheda,8,2014,New,Household Buyer - Former Owner-Occupier,
+A92,Drogheda,8,2014,New,Household Buyer - Non-Occupier,100770.0
+A92,Drogheda,8,2014,Existing,All Buyer Types,153689.0
+A92,Drogheda,8,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,158767.0
+A92,Drogheda,8,2014,Existing,Household Buyer - Former Owner-Occupier,157774.0
+A92,Drogheda,8,2014,Existing,Household Buyer - Non-Occupier,124714.0
+A92,Drogheda,9,2014,All Dwelling Statuses,All Buyer Types,153086.0
+A92,Drogheda,9,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,159707.0
+A92,Drogheda,9,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,170240.0
+A92,Drogheda,9,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,97890.0
+A92,Drogheda,9,2014,New,All Buyer Types,149477.0
+A92,Drogheda,9,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,173993.0
+A92,Drogheda,9,2014,New,Household Buyer - Former Owner-Occupier,204219.0
+A92,Drogheda,9,2014,New,Household Buyer - Non-Occupier,64089.0
+A92,Drogheda,9,2014,Existing,All Buyer Types,153808.0
+A92,Drogheda,9,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,155947.0
+A92,Drogheda,9,2014,Existing,Household Buyer - Former Owner-Occupier,166357.0
+A92,Drogheda,9,2014,Existing,Household Buyer - Non-Occupier,110182.0
+A92,Drogheda,10,2014,All Dwelling Statuses,All Buyer Types,167220.0
+A92,Drogheda,10,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,145088.0
+A92,Drogheda,10,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,198920.0
+A92,Drogheda,10,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,98773.0
+A92,Drogheda,10,2014,New,All Buyer Types,186000.0
+A92,Drogheda,10,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,148134.0
+A92,Drogheda,10,2014,New,Household Buyer - Former Owner-Occupier,228494.0
+A92,Drogheda,10,2014,New,Household Buyer - Non-Occupier,125000.0
+A92,Drogheda,10,2014,Existing,All Buyer Types,164683.0
+A92,Drogheda,10,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,144601.0
+A92,Drogheda,10,2014,Existing,Household Buyer - Former Owner-Occupier,195128.0
+A92,Drogheda,10,2014,Existing,Household Buyer - Non-Occupier,96150.0
+A92,Drogheda,11,2014,All Dwelling Statuses,All Buyer Types,148760.0
+A92,Drogheda,11,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,164880.0
+A92,Drogheda,11,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,165852.0
+A92,Drogheda,11,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,107648.0
+A92,Drogheda,11,2014,New,All Buyer Types,185736.0
+A92,Drogheda,11,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,174880.0
+A92,Drogheda,11,2014,New,Household Buyer - Former Owner-Occupier,249203.0
+A92,Drogheda,11,2014,New,Household Buyer - Non-Occupier,115587.0
+A92,Drogheda,11,2014,Existing,All Buyer Types,142503.0
+A92,Drogheda,11,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,162213.0
+A92,Drogheda,11,2014,Existing,Household Buyer - Former Owner-Occupier,155097.0
+A92,Drogheda,11,2014,Existing,Household Buyer - Non-Occupier,106395.0
+A92,Drogheda,12,2014,All Dwelling Statuses,All Buyer Types,186441.0
+A92,Drogheda,12,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160953.0
+A92,Drogheda,12,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,219710.0
+A92,Drogheda,12,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,127148.0
+A92,Drogheda,12,2014,New,All Buyer Types,213988.0
+A92,Drogheda,12,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,205943.0
+A92,Drogheda,12,2014,New,Household Buyer - Former Owner-Occupier,201588.0
+A92,Drogheda,12,2014,New,Household Buyer - Non-Occupier,245383.0
+A92,Drogheda,12,2014,Existing,All Buyer Types,182506.0
+A92,Drogheda,12,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,152773.0
+A92,Drogheda,12,2014,Existing,Household Buyer - Former Owner-Occupier,221638.0
+A92,Drogheda,12,2014,Existing,Household Buyer - Non-Occupier,103501.0
+A92,Drogheda,1,2015,All Dwelling Statuses,All Buyer Types,146600.0
+A92,Drogheda,1,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,167304.0
+A92,Drogheda,1,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,166869.0
+A92,Drogheda,1,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,107921.0
+A92,Drogheda,1,2015,New,All Buyer Types,149217.0
+A92,Drogheda,1,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,181217.0
+A92,Drogheda,1,2015,New,Household Buyer - Former Owner-Occupier,125217.0
+A92,Drogheda,1,2015,New,Household Buyer - Non-Occupier,
+A92,Drogheda,1,2015,Existing,All Buyer Types,146219.0
+A92,Drogheda,1,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,162667.0
+A92,Drogheda,1,2015,Existing,Household Buyer - Former Owner-Occupier,175200.0
+A92,Drogheda,1,2015,Existing,Household Buyer - Non-Occupier,107921.0
+A92,Drogheda,2,2015,All Dwelling Statuses,All Buyer Types,153610.0
+A92,Drogheda,2,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,137170.0
+A92,Drogheda,2,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178955.0
+A92,Drogheda,2,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,98373.0
+A92,Drogheda,2,2015,New,All Buyer Types,149216.0
+A92,Drogheda,2,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,87395.0
+A92,Drogheda,2,2015,New,Household Buyer - Former Owner-Occupier,164672.0
+A92,Drogheda,2,2015,New,Household Buyer - Non-Occupier,
+A92,Drogheda,2,2015,Existing,All Buyer Types,153989.0
+A92,Drogheda,2,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140281.0
+A92,Drogheda,2,2015,Existing,Household Buyer - Former Owner-Occupier,180798.0
+A92,Drogheda,2,2015,Existing,Household Buyer - Non-Occupier,98373.0
+A92,Drogheda,3,2015,All Dwelling Statuses,All Buyer Types,159215.0
+A92,Drogheda,3,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,156824.0
+A92,Drogheda,3,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,177145.0
+A92,Drogheda,3,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,105823.0
+A92,Drogheda,3,2015,New,All Buyer Types,163146.0
+A92,Drogheda,3,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A92,Drogheda,3,2015,New,Household Buyer - Former Owner-Occupier,190667.0
+A92,Drogheda,3,2015,New,Household Buyer - Non-Occupier,135625.0
+A92,Drogheda,3,2015,Existing,All Buyer Types,158828.0
+A92,Drogheda,3,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,156824.0
+A92,Drogheda,3,2015,Existing,Household Buyer - Former Owner-Occupier,175986.0
+A92,Drogheda,3,2015,Existing,Household Buyer - Non-Occupier,95889.0
+A92,Drogheda,4,2015,All Dwelling Statuses,All Buyer Types,141602.0
+A92,Drogheda,4,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,151733.0
+A92,Drogheda,4,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,163698.0
+A92,Drogheda,4,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,94971.0
+A92,Drogheda,4,2015,New,All Buyer Types,174750.0
+A92,Drogheda,4,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,185300.0
+A92,Drogheda,4,2015,New,Household Buyer - Former Owner-Occupier,148375.0
+A92,Drogheda,4,2015,New,Household Buyer - Non-Occupier,
+A92,Drogheda,4,2015,Existing,All Buyer Types,137306.0
+A92,Drogheda,4,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,134950.0
+A92,Drogheda,4,2015,Existing,Household Buyer - Former Owner-Occupier,164833.0
+A92,Drogheda,4,2015,Existing,Household Buyer - Non-Occupier,94971.0
+A92,Drogheda,5,2015,All Dwelling Statuses,All Buyer Types,176311.0
+A92,Drogheda,5,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,166355.0
+A92,Drogheda,5,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,201148.0
+A92,Drogheda,5,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,117375.0
+A92,Drogheda,5,2015,New,All Buyer Types,206943.0
+A92,Drogheda,5,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,152150.0
+A92,Drogheda,5,2015,New,Household Buyer - Former Owner-Occupier,280000.0
+A92,Drogheda,5,2015,New,Household Buyer - Non-Occupier,
+A92,Drogheda,5,2015,Existing,All Buyer Types,171844.0
+A92,Drogheda,5,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,169906.0
+A92,Drogheda,5,2015,Existing,Household Buyer - Former Owner-Occupier,191292.0
+A92,Drogheda,5,2015,Existing,Household Buyer - Non-Occupier,117375.0
+A92,Drogheda,6,2015,All Dwelling Statuses,All Buyer Types,156853.0
+A92,Drogheda,6,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,147200.0
+A92,Drogheda,6,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,162576.0
+A92,Drogheda,6,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,137250.0
+A92,Drogheda,6,2015,New,All Buyer Types,255149.0
+A92,Drogheda,6,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,143000.0
+A92,Drogheda,6,2015,New,Household Buyer - Former Owner-Occupier,311224.0
+A92,Drogheda,6,2015,New,Household Buyer - Non-Occupier,
+A92,Drogheda,6,2015,Existing,All Buyer Types,151491.0
+A92,Drogheda,6,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,147500.0
+A92,Drogheda,6,2015,Existing,Household Buyer - Former Owner-Occupier,154541.0
+A92,Drogheda,6,2015,Existing,Household Buyer - Non-Occupier,137250.0
+A92,Drogheda,7,2015,All Dwelling Statuses,All Buyer Types,164997.0
+A92,Drogheda,7,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,174765.0
+A92,Drogheda,7,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178846.0
+A92,Drogheda,7,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,118900.0
+A92,Drogheda,7,2015,New,All Buyer Types,233904.0
+A92,Drogheda,7,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,225865.0
+A92,Drogheda,7,2015,New,Household Buyer - Former Owner-Occupier,236583.0
+A92,Drogheda,7,2015,New,Household Buyer - Non-Occupier,
+A92,Drogheda,7,2015,Existing,All Buyer Types,160944.0
+A92,Drogheda,7,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,172543.0
+A92,Drogheda,7,2015,Existing,Household Buyer - Former Owner-Occupier,173072.0
+A92,Drogheda,7,2015,Existing,Household Buyer - Non-Occupier,118900.0
+A92,Drogheda,8,2015,All Dwelling Statuses,All Buyer Types,183551.0
+A92,Drogheda,8,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,181798.0
+A92,Drogheda,8,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,207677.0
+A92,Drogheda,8,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,98449.0
+A92,Drogheda,8,2015,New,All Buyer Types,202114.0
+A92,Drogheda,8,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,236272.0
+A92,Drogheda,8,2015,New,Household Buyer - Former Owner-Occupier,243638.0
+A92,Drogheda,8,2015,New,Household Buyer - Non-Occupier,75194.0
+A92,Drogheda,8,2015,Existing,All Buyer Types,181164.0
+A92,Drogheda,8,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,166667.0
+A92,Drogheda,8,2015,Existing,Household Buyer - Former Owner-Occupier,205964.0
+A92,Drogheda,8,2015,Existing,Household Buyer - Non-Occupier,103100.0
+A92,Drogheda,9,2015,All Dwelling Statuses,All Buyer Types,186811.0
+A92,Drogheda,9,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,188619.0
+A92,Drogheda,9,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,200216.0
+A92,Drogheda,9,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,119833.0
+A92,Drogheda,9,2015,New,All Buyer Types,276378.0
+A92,Drogheda,9,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,182610.0
+A92,Drogheda,9,2015,New,Household Buyer - Former Owner-Occupier,323262.0
+A92,Drogheda,9,2015,New,Household Buyer - Non-Occupier,
+A92,Drogheda,9,2015,Existing,All Buyer Types,182972.0
+A92,Drogheda,9,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,188905.0
+A92,Drogheda,9,2015,Existing,Household Buyer - Former Owner-Occupier,194064.0
+A92,Drogheda,9,2015,Existing,Household Buyer - Non-Occupier,119833.0
+A92,Drogheda,10,2015,All Dwelling Statuses,All Buyer Types,216886.0
+A92,Drogheda,10,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,212616.0
+A92,Drogheda,10,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,228572.0
+A92,Drogheda,10,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,155785.0
+A92,Drogheda,10,2015,New,All Buyer Types,266147.0
+A92,Drogheda,10,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,306450.0
+A92,Drogheda,10,2015,New,Household Buyer - Former Owner-Occupier,264341.0
+A92,Drogheda,10,2015,New,Household Buyer - Non-Occupier,233064.0
+A92,Drogheda,10,2015,Existing,All Buyer Types,212997.0
+A92,Drogheda,10,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,207403.0
+A92,Drogheda,10,2015,Existing,Household Buyer - Former Owner-Occupier,225710.0
+A92,Drogheda,10,2015,Existing,Household Buyer - Non-Occupier,146125.0
+A92,Drogheda,11,2015,All Dwelling Statuses,All Buyer Types,179329.0
+A92,Drogheda,11,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,155731.0
+A92,Drogheda,11,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,201767.0
+A92,Drogheda,11,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,127100.0
+A92,Drogheda,11,2015,New,All Buyer Types,260201.0
+A92,Drogheda,11,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,161617.0
+A92,Drogheda,11,2015,New,Household Buyer - Former Owner-Occupier,293062.0
+A92,Drogheda,11,2015,New,Household Buyer - Non-Occupier,
+A92,Drogheda,11,2015,Existing,All Buyer Types,167348.0
+A92,Drogheda,11,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,154750.0
+A92,Drogheda,11,2015,Existing,Household Buyer - Former Owner-Occupier,184649.0
+A92,Drogheda,11,2015,Existing,Household Buyer - Non-Occupier,127100.0
+A92,Drogheda,12,2015,All Dwelling Statuses,All Buyer Types,196953.0
+A92,Drogheda,12,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,188942.0
+A92,Drogheda,12,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,215253.0
+A92,Drogheda,12,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,149793.0
+A92,Drogheda,12,2015,New,All Buyer Types,232060.0
+A92,Drogheda,12,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,222854.0
+A92,Drogheda,12,2015,New,Household Buyer - Former Owner-Occupier,238252.0
+A92,Drogheda,12,2015,New,Household Buyer - Non-Occupier,209975.0
+A92,Drogheda,12,2015,Existing,All Buyer Types,188887.0
+A92,Drogheda,12,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,178344.0
+A92,Drogheda,12,2015,Existing,Household Buyer - Former Owner-Occupier,209230.0
+A92,Drogheda,12,2015,Existing,Household Buyer - Non-Occupier,146031.0
+A92,Drogheda,1,2016,All Dwelling Statuses,All Buyer Types,159153.0
+A92,Drogheda,1,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,146960.0
+A92,Drogheda,1,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178753.0
+A92,Drogheda,1,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,116714.0
+A92,Drogheda,1,2016,New,All Buyer Types,296876.0
+A92,Drogheda,1,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,219055.0
+A92,Drogheda,1,2016,New,Household Buyer - Former Owner-Occupier,335786.0
+A92,Drogheda,1,2016,New,Household Buyer - Non-Occupier,
+A92,Drogheda,1,2016,Existing,All Buyer Types,147986.0
+A92,Drogheda,1,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,139750.0
+A92,Drogheda,1,2016,Existing,Household Buyer - Former Owner-Occupier,163050.0
+A92,Drogheda,1,2016,Existing,Household Buyer - Non-Occupier,116714.0
+A92,Drogheda,2,2016,All Dwelling Statuses,All Buyer Types,179625.0
+A92,Drogheda,2,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,158134.0
+A92,Drogheda,2,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,216038.0
+A92,Drogheda,2,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,125255.0
+A92,Drogheda,2,2016,New,All Buyer Types,238876.0
+A92,Drogheda,2,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,225250.0
+A92,Drogheda,2,2016,New,Household Buyer - Former Owner-Occupier,276940.0
+A92,Drogheda,2,2016,New,Household Buyer - Non-Occupier,228063.0
+A92,Drogheda,2,2016,Existing,All Buyer Types,174358.0
+A92,Drogheda,2,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,144711.0
+A92,Drogheda,2,2016,Existing,Household Buyer - Former Owner-Occupier,213500.0
+A92,Drogheda,2,2016,Existing,Household Buyer - Non-Occupier,115909.0
+A92,Drogheda,3,2016,All Dwelling Statuses,All Buyer Types,193566.0
+A92,Drogheda,3,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,202410.0
+A92,Drogheda,3,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197409.0
+A92,Drogheda,3,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,176858.0
+A92,Drogheda,3,2016,New,All Buyer Types,257401.0
+A92,Drogheda,3,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,218076.0
+A92,Drogheda,3,2016,New,Household Buyer - Former Owner-Occupier,283625.0
+A92,Drogheda,3,2016,New,Household Buyer - Non-Occupier,231153.0
+A92,Drogheda,3,2016,Existing,All Buyer Types,183174.0
+A92,Drogheda,3,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+A92,Drogheda,3,2016,Existing,Household Buyer - Former Owner-Occupier,178250.0
+A92,Drogheda,3,2016,Existing,Household Buyer - Non-Occupier,172333.0
+A92,Drogheda,4,2016,All Dwelling Statuses,All Buyer Types,196027.0
+A92,Drogheda,4,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,205617.0
+A92,Drogheda,4,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,203977.0
+A92,Drogheda,4,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,150306.0
+A92,Drogheda,4,2016,New,All Buyer Types,306570.0
+A92,Drogheda,4,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,378162.0
+A92,Drogheda,4,2016,New,Household Buyer - Former Owner-Occupier,279358.0
+A92,Drogheda,4,2016,New,Household Buyer - Non-Occupier,255064.0
+A92,Drogheda,4,2016,Existing,All Buyer Types,175556.0
+A92,Drogheda,4,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,168643.0
+A92,Drogheda,4,2016,Existing,Household Buyer - Former Owner-Occupier,189387.0
+A92,Drogheda,4,2016,Existing,Household Buyer - Non-Occupier,138667.0
+A92,Drogheda,5,2016,All Dwelling Statuses,All Buyer Types,173351.0
+A92,Drogheda,5,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165776.0
+A92,Drogheda,5,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,227691.0
+A92,Drogheda,5,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,102455.0
+A92,Drogheda,5,2016,New,All Buyer Types,265122.0
+A92,Drogheda,5,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,258912.0
+A92,Drogheda,5,2016,New,Household Buyer - Former Owner-Occupier,283750.0
+A92,Drogheda,5,2016,New,Household Buyer - Non-Occupier,
+A92,Drogheda,5,2016,Existing,All Buyer Types,164814.0
+A92,Drogheda,5,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,148313.0
+A92,Drogheda,5,2016,Existing,Household Buyer - Former Owner-Occupier,224188.0
+A92,Drogheda,5,2016,Existing,Household Buyer - Non-Occupier,102455.0
+A92,Drogheda,6,2016,All Dwelling Statuses,All Buyer Types,177309.0
+A92,Drogheda,6,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,176679.0
+A92,Drogheda,6,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,207625.0
+A92,Drogheda,6,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,117576.0
+A92,Drogheda,6,2016,New,All Buyer Types,213691.0
+A92,Drogheda,6,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,213691.0
+A92,Drogheda,6,2016,New,Household Buyer - Former Owner-Occupier,
+A92,Drogheda,6,2016,New,Household Buyer - Non-Occupier,
+A92,Drogheda,6,2016,Existing,All Buyer Types,175459.0
+A92,Drogheda,6,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,170147.0
+A92,Drogheda,6,2016,Existing,Household Buyer - Former Owner-Occupier,207625.0
+A92,Drogheda,6,2016,Existing,Household Buyer - Non-Occupier,117576.0
+A92,Drogheda,7,2016,All Dwelling Statuses,All Buyer Types,202272.0
+A92,Drogheda,7,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,206115.0
+A92,Drogheda,7,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,216888.0
+A92,Drogheda,7,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,147714.0
+A92,Drogheda,7,2016,New,All Buyer Types,241985.0
+A92,Drogheda,7,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,241267.0
+A92,Drogheda,7,2016,New,Household Buyer - Former Owner-Occupier,242703.0
+A92,Drogheda,7,2016,New,Household Buyer - Non-Occupier,
+A92,Drogheda,7,2016,Existing,All Buyer Types,195365.0
+A92,Drogheda,7,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,191050.0
+A92,Drogheda,7,2016,Existing,Household Buyer - Former Owner-Occupier,213110.0
+A92,Drogheda,7,2016,Existing,Household Buyer - Non-Occupier,147714.0
+A92,Drogheda,8,2016,All Dwelling Statuses,All Buyer Types,203648.0
+A92,Drogheda,8,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,181918.0
+A92,Drogheda,8,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,233144.0
+A92,Drogheda,8,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,164607.0
+A92,Drogheda,8,2016,New,All Buyer Types,265448.0
+A92,Drogheda,8,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,283284.0
+A92,Drogheda,8,2016,New,Household Buyer - Former Owner-Occupier,261881.0
+A92,Drogheda,8,2016,New,Household Buyer - Non-Occupier,
+A92,Drogheda,8,2016,Existing,All Buyer Types,197762.0
+A92,Drogheda,8,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,176850.0
+A92,Drogheda,8,2016,Existing,Household Buyer - Former Owner-Occupier,228190.0
+A92,Drogheda,8,2016,Existing,Household Buyer - Non-Occupier,164607.0
+A92,Drogheda,9,2016,All Dwelling Statuses,All Buyer Types,176701.0
+A92,Drogheda,9,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,166322.0
+A92,Drogheda,9,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,196662.0
+A92,Drogheda,9,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,121770.0
+A92,Drogheda,9,2016,New,All Buyer Types,242790.0
+A92,Drogheda,9,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,216745.0
+A92,Drogheda,9,2016,New,Household Buyer - Former Owner-Occupier,273620.0
+A92,Drogheda,9,2016,New,Household Buyer - Non-Occupier,249700.0
+A92,Drogheda,9,2016,Existing,All Buyer Types,166375.0
+A92,Drogheda,9,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,153053.0
+A92,Drogheda,9,2016,Existing,Household Buyer - Former Owner-Occupier,188111.0
+A92,Drogheda,9,2016,Existing,Household Buyer - Non-Occupier,107556.0
+A92,Drogheda,10,2016,All Dwelling Statuses,All Buyer Types,222076.0
+A92,Drogheda,10,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,196725.0
+A92,Drogheda,10,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,245477.0
+A92,Drogheda,10,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,185673.0
+A92,Drogheda,10,2016,New,All Buyer Types,272152.0
+A92,Drogheda,10,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,225833.0
+A92,Drogheda,10,2016,New,Household Buyer - Former Owner-Occupier,294658.0
+A92,Drogheda,10,2016,New,Household Buyer - Non-Occupier,276075.0
+A92,Drogheda,10,2016,Existing,All Buyer Types,214922.0
+A92,Drogheda,10,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,191588.0
+A92,Drogheda,10,2016,Existing,Household Buyer - Former Owner-Occupier,237910.0
+A92,Drogheda,10,2016,Existing,Household Buyer - Non-Occupier,179216.0
+A92,Drogheda,11,2016,All Dwelling Statuses,All Buyer Types,200895.0
+A92,Drogheda,11,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,215889.0
+A92,Drogheda,11,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,210372.0
+A92,Drogheda,11,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,127028.0
+A92,Drogheda,11,2016,New,All Buyer Types,248048.0
+A92,Drogheda,11,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,257523.0
+A92,Drogheda,11,2016,New,Household Buyer - Former Owner-Occupier,259160.0
+A92,Drogheda,11,2016,New,Household Buyer - Non-Occupier,156221.0
+A92,Drogheda,11,2016,Existing,All Buyer Types,189252.0
+A92,Drogheda,11,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,201020.0
+A92,Drogheda,11,2016,Existing,Household Buyer - Former Owner-Occupier,200852.0
+A92,Drogheda,11,2016,Existing,Household Buyer - Non-Occupier,122163.0
+A92,Drogheda,12,2016,All Dwelling Statuses,All Buyer Types,199250.0
+A92,Drogheda,12,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,195290.0
+A92,Drogheda,12,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,210205.0
+A92,Drogheda,12,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,158755.0
+A92,Drogheda,12,2016,New,All Buyer Types,236940.0
+A92,Drogheda,12,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,245528.0
+A92,Drogheda,12,2016,New,Household Buyer - Former Owner-Occupier,253744.0
+A92,Drogheda,12,2016,New,Household Buyer - Non-Occupier,131075.0
+A92,Drogheda,12,2016,Existing,All Buyer Types,187700.0
+A92,Drogheda,12,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,167031.0
+A92,Drogheda,12,2016,Existing,Household Buyer - Former Owner-Occupier,201039.0
+A92,Drogheda,12,2016,Existing,Household Buyer - Non-Occupier,165675.0
+A92,Drogheda,1,2017,All Dwelling Statuses,All Buyer Types,213308.0
+A92,Drogheda,1,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,208583.0
+A92,Drogheda,1,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,236159.0
+A92,Drogheda,1,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,166125.0
+A92,Drogheda,1,2017,New,All Buyer Types,260075.0
+A92,Drogheda,1,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,267500.0
+A92,Drogheda,1,2017,New,Household Buyer - Former Owner-Occupier,254506.0
+A92,Drogheda,1,2017,New,Household Buyer - Non-Occupier,
+A92,Drogheda,1,2017,Existing,All Buyer Types,203078.0
+A92,Drogheda,1,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,188944.0
+A92,Drogheda,1,2017,Existing,Household Buyer - Former Owner-Occupier,231267.0
+A92,Drogheda,1,2017,Existing,Household Buyer - Non-Occupier,166125.0
+A92,Drogheda,2,2017,All Dwelling Statuses,All Buyer Types,195229.0
+A92,Drogheda,2,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,198007.0
+A92,Drogheda,2,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,220466.0
+A92,Drogheda,2,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,133767.0
+A92,Drogheda,2,2017,New,All Buyer Types,260138.0
+A92,Drogheda,2,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,241804.0
+A92,Drogheda,2,2017,New,Household Buyer - Former Owner-Occupier,278473.0
+A92,Drogheda,2,2017,New,Household Buyer - Non-Occupier,
+A92,Drogheda,2,2017,Existing,All Buyer Types,182247.0
+A92,Drogheda,2,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,182549.0
+A92,Drogheda,2,2017,Existing,Household Buyer - Former Owner-Occupier,208036.0
+A92,Drogheda,2,2017,Existing,Household Buyer - Non-Occupier,133767.0
+A92,Drogheda,3,2017,All Dwelling Statuses,All Buyer Types,201686.0
+A92,Drogheda,3,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210097.0
+A92,Drogheda,3,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,210404.0
+A92,Drogheda,3,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,139900.0
+A92,Drogheda,3,2017,New,All Buyer Types,275644.0
+A92,Drogheda,3,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,308327.0
+A92,Drogheda,3,2017,New,Household Buyer - Former Owner-Occupier,250326.0
+A92,Drogheda,3,2017,New,Household Buyer - Non-Occupier,318000.0
+A92,Drogheda,3,2017,Existing,All Buyer Types,176225.0
+A92,Drogheda,3,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,177354.0
+A92,Drogheda,3,2017,Existing,Household Buyer - Former Owner-Occupier,193295.0
+A92,Drogheda,3,2017,Existing,Household Buyer - Non-Occupier,120111.0
+A92,Drogheda,4,2017,All Dwelling Statuses,All Buyer Types,217890.0
+A92,Drogheda,4,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,222266.0
+A92,Drogheda,4,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,242529.0
+A92,Drogheda,4,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,166346.0
+A92,Drogheda,4,2017,New,All Buyer Types,257177.0
+A92,Drogheda,4,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,254279.0
+A92,Drogheda,4,2017,New,Household Buyer - Former Owner-Occupier,264422.0
+A92,Drogheda,4,2017,New,Household Buyer - Non-Occupier,
+A92,Drogheda,4,2017,Existing,All Buyer Types,204476.0
+A92,Drogheda,4,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,182250.0
+A92,Drogheda,4,2017,Existing,Household Buyer - Former Owner-Occupier,238150.0
+A92,Drogheda,4,2017,Existing,Household Buyer - Non-Occupier,166346.0
+A92,Drogheda,5,2017,All Dwelling Statuses,All Buyer Types,223395.0
+A92,Drogheda,5,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,213966.0
+A92,Drogheda,5,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,225149.0
+A92,Drogheda,5,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,232889.0
+A92,Drogheda,5,2017,New,All Buyer Types,240653.0
+A92,Drogheda,5,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,259449.0
+A92,Drogheda,5,2017,New,Household Buyer - Former Owner-Occupier,212167.0
+A92,Drogheda,5,2017,New,Household Buyer - Non-Occupier,280000.0
+A92,Drogheda,5,2017,Existing,All Buyer Types,219735.0
+A92,Drogheda,5,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,196278.0
+A92,Drogheda,5,2017,Existing,Household Buyer - Former Owner-Occupier,227661.0
+A92,Drogheda,5,2017,Existing,Household Buyer - Non-Occupier,230118.0
+A92,Drogheda,6,2017,All Dwelling Statuses,All Buyer Types,229696.0
+A92,Drogheda,6,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,222630.0
+A92,Drogheda,6,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,247466.0
+A92,Drogheda,6,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,167420.0
+A92,Drogheda,6,2017,New,All Buyer Types,282428.0
+A92,Drogheda,6,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,256311.0
+A92,Drogheda,6,2017,New,Household Buyer - Former Owner-Occupier,311448.0
+A92,Drogheda,6,2017,New,Household Buyer - Non-Occupier,
+A92,Drogheda,6,2017,Existing,All Buyer Types,211143.0
+A92,Drogheda,6,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,188950.0
+A92,Drogheda,6,2017,Existing,Household Buyer - Former Owner-Occupier,230529.0
+A92,Drogheda,6,2017,Existing,Household Buyer - Non-Occupier,167420.0
+A92,Drogheda,7,2017,All Dwelling Statuses,All Buyer Types,239154.0
+A92,Drogheda,7,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,221411.0
+A92,Drogheda,7,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,266642.0
+A92,Drogheda,7,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,172182.0
+A92,Drogheda,7,2017,New,All Buyer Types,299375.0
+A92,Drogheda,7,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,274783.0
+A92,Drogheda,7,2017,New,Household Buyer - Former Owner-Occupier,321509.0
+A92,Drogheda,7,2017,New,Household Buyer - Non-Occupier,
+A92,Drogheda,7,2017,Existing,All Buyer Types,218350.0
+A92,Drogheda,7,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,184462.0
+A92,Drogheda,7,2017,Existing,Household Buyer - Former Owner-Occupier,248944.0
+A92,Drogheda,7,2017,Existing,Household Buyer - Non-Occupier,172182.0
+A92,Drogheda,8,2017,All Dwelling Statuses,All Buyer Types,225318.0
+A92,Drogheda,8,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,218487.0
+A92,Drogheda,8,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,246011.0
+A92,Drogheda,8,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,150543.0
+A92,Drogheda,8,2017,New,All Buyer Types,335174.0
+A92,Drogheda,8,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,272214.0
+A92,Drogheda,8,2017,New,Household Buyer - Former Owner-Occupier,389591.0
+A92,Drogheda,8,2017,New,Household Buyer - Non-Occupier,323475.0
+A92,Drogheda,8,2017,Existing,All Buyer Types,207008.0
+A92,Drogheda,8,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,205055.0
+A92,Drogheda,8,2017,Existing,Household Buyer - Former Owner-Occupier,225500.0
+A92,Drogheda,8,2017,Existing,Household Buyer - Non-Occupier,133250.0
+A92,Drogheda,9,2017,All Dwelling Statuses,All Buyer Types,247230.0
+A92,Drogheda,9,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,234985.0
+A92,Drogheda,9,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,270551.0
+A92,Drogheda,9,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,196450.0
+A92,Drogheda,9,2017,New,All Buyer Types,278879.0
+A92,Drogheda,9,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,265358.0
+A92,Drogheda,9,2017,New,Household Buyer - Former Owner-Occupier,301415.0
+A92,Drogheda,9,2017,New,Household Buyer - Non-Occupier,
+A92,Drogheda,9,2017,Existing,All Buyer Types,238790.0
+A92,Drogheda,9,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,219000.0
+A92,Drogheda,9,2017,Existing,Household Buyer - Former Owner-Occupier,264577.0
+A92,Drogheda,9,2017,Existing,Household Buyer - Non-Occupier,196450.0
+A92,Drogheda,10,2017,All Dwelling Statuses,All Buyer Types,254951.0
+A92,Drogheda,10,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,239189.0
+A92,Drogheda,10,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,264146.0
+A92,Drogheda,10,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,240500.0
+A92,Drogheda,10,2017,New,All Buyer Types,267815.0
+A92,Drogheda,10,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,253179.0
+A92,Drogheda,10,2017,New,Household Buyer - Former Owner-Occupier,280011.0
+A92,Drogheda,10,2017,New,Household Buyer - Non-Occupier,
+A92,Drogheda,10,2017,Existing,All Buyer Types,252631.0
+A92,Drogheda,10,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,233808.0
+A92,Drogheda,10,2017,Existing,Household Buyer - Former Owner-Occupier,261705.0
+A92,Drogheda,10,2017,Existing,Household Buyer - Non-Occupier,240500.0
+A92,Drogheda,11,2017,All Dwelling Statuses,All Buyer Types,218378.0
+A92,Drogheda,11,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,234968.0
+A92,Drogheda,11,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,216468.0
+A92,Drogheda,11,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,176518.0
+A92,Drogheda,11,2017,New,All Buyer Types,261369.0
+A92,Drogheda,11,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,260864.0
+A92,Drogheda,11,2017,New,Household Buyer - Former Owner-Occupier,259209.0
+A92,Drogheda,11,2017,New,Household Buyer - Non-Occupier,284715.0
+A92,Drogheda,11,2017,Existing,All Buyer Types,204903.0
+A92,Drogheda,11,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,221457.0
+A92,Drogheda,11,2017,Existing,Household Buyer - Former Owner-Occupier,206107.0
+A92,Drogheda,11,2017,Existing,Household Buyer - Non-Occupier,166682.0
+A92,Drogheda,12,2017,All Dwelling Statuses,All Buyer Types,223102.0
+A92,Drogheda,12,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,228225.0
+A92,Drogheda,12,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,240790.0
+A92,Drogheda,12,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,121300.0
+A92,Drogheda,12,2017,New,All Buyer Types,264944.0
+A92,Drogheda,12,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,255994.0
+A92,Drogheda,12,2017,New,Household Buyer - Former Owner-Occupier,275172.0
+A92,Drogheda,12,2017,New,Household Buyer - Non-Occupier,
+A92,Drogheda,12,2017,Existing,All Buyer Types,202525.0
+A92,Drogheda,12,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,202088.0
+A92,Drogheda,12,2017,Existing,Household Buyer - Former Owner-Occupier,226632.0
+A92,Drogheda,12,2017,Existing,Household Buyer - Non-Occupier,121300.0
+A92,Drogheda,1,2018,All Dwelling Statuses,All Buyer Types,240051.0
+A92,Drogheda,1,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,246950.0
+A92,Drogheda,1,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,249493.0
+A92,Drogheda,1,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,189333.0
+A92,Drogheda,1,2018,New,All Buyer Types,265611.0
+A92,Drogheda,1,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,278358.0
+A92,Drogheda,1,2018,New,Household Buyer - Former Owner-Occupier,250030.0
+A92,Drogheda,1,2018,New,Household Buyer - Non-Occupier,
+A92,Drogheda,1,2018,Existing,All Buyer Types,228163.0
+A92,Drogheda,1,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,212400.0
+A92,Drogheda,1,2018,Existing,Household Buyer - Former Owner-Occupier,249292.0
+A92,Drogheda,1,2018,Existing,Household Buyer - Non-Occupier,189333.0
+A92,Drogheda,2,2018,All Dwelling Statuses,All Buyer Types,254308.0
+A92,Drogheda,2,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,226713.0
+A92,Drogheda,2,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,279348.0
+A92,Drogheda,2,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,205313.0
+A92,Drogheda,2,2018,New,All Buyer Types,296294.0
+A92,Drogheda,2,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,282378.0
+A92,Drogheda,2,2018,New,Household Buyer - Former Owner-Occupier,306732.0
+A92,Drogheda,2,2018,New,Household Buyer - Non-Occupier,
+A92,Drogheda,2,2018,Existing,All Buyer Types,237020.0
+A92,Drogheda,2,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,190929.0
+A92,Drogheda,2,2018,Existing,Household Buyer - Former Owner-Occupier,268017.0
+A92,Drogheda,2,2018,Existing,Household Buyer - Non-Occupier,205313.0
+A92,Drogheda,3,2018,All Dwelling Statuses,All Buyer Types,246151.0
+A92,Drogheda,3,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225190.0
+A92,Drogheda,3,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,272686.0
+A92,Drogheda,3,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,166244.0
+A92,Drogheda,3,2018,New,All Buyer Types,309110.0
+A92,Drogheda,3,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,294336.0
+A92,Drogheda,3,2018,New,Household Buyer - Former Owner-Occupier,328106.0
+A92,Drogheda,3,2018,New,Household Buyer - Non-Occupier,
+A92,Drogheda,3,2018,Existing,All Buyer Types,231338.0
+A92,Drogheda,3,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,194075.0
+A92,Drogheda,3,2018,Existing,Household Buyer - Former Owner-Occupier,262988.0
+A92,Drogheda,3,2018,Existing,Household Buyer - Non-Occupier,166244.0
+A92,Drogheda,4,2018,All Dwelling Statuses,All Buyer Types,238764.0
+A92,Drogheda,4,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,236355.0
+A92,Drogheda,4,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,248850.0
+A92,Drogheda,4,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,168200.0
+A92,Drogheda,4,2018,New,All Buyer Types,277553.0
+A92,Drogheda,4,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,257851.0
+A92,Drogheda,4,2018,New,Household Buyer - Former Owner-Occupier,290090.0
+A92,Drogheda,4,2018,New,Household Buyer - Non-Occupier,
+A92,Drogheda,4,2018,Existing,All Buyer Types,224219.0
+A92,Drogheda,4,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,225607.0
+A92,Drogheda,4,2018,Existing,Household Buyer - Former Owner-Occupier,233207.0
+A92,Drogheda,4,2018,Existing,Household Buyer - Non-Occupier,168200.0
+A92,Drogheda,5,2018,All Dwelling Statuses,All Buyer Types,250322.0
+A92,Drogheda,5,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,248369.0
+A92,Drogheda,5,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,270745.0
+A92,Drogheda,5,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,145900.0
+A92,Drogheda,5,2018,New,All Buyer Types,301129.0
+A92,Drogheda,5,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,270563.0
+A92,Drogheda,5,2018,New,Household Buyer - Former Owner-Occupier,327110.0
+A92,Drogheda,5,2018,New,Household Buyer - Non-Occupier,
+A92,Drogheda,5,2018,Existing,All Buyer Types,217342.0
+A92,Drogheda,5,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,219346.0
+A92,Drogheda,5,2018,Existing,Household Buyer - Former Owner-Occupier,237588.0
+A92,Drogheda,5,2018,Existing,Household Buyer - Non-Occupier,145900.0
+A92,Drogheda,6,2018,All Dwelling Statuses,All Buyer Types,235785.0
+A92,Drogheda,6,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,244490.0
+A92,Drogheda,6,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,238756.0
+A92,Drogheda,6,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,186729.0
+A92,Drogheda,6,2018,New,All Buyer Types,282758.0
+A92,Drogheda,6,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,272166.0
+A92,Drogheda,6,2018,New,Household Buyer - Former Owner-Occupier,292415.0
+A92,Drogheda,6,2018,New,Household Buyer - Non-Occupier,288064.0
+A92,Drogheda,6,2018,Existing,All Buyer Types,208250.0
+A92,Drogheda,6,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,219889.0
+A92,Drogheda,6,2018,Existing,Household Buyer - Former Owner-Occupier,210250.0
+A92,Drogheda,6,2018,Existing,Household Buyer - Non-Occupier,174063.0
+A92,Drogheda,7,2018,All Dwelling Statuses,All Buyer Types,236937.0
+A92,Drogheda,7,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,250853.0
+A92,Drogheda,7,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,244783.0
+A92,Drogheda,7,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,158750.0
+A92,Drogheda,7,2018,New,All Buyer Types,279648.0
+A92,Drogheda,7,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,280232.0
+A92,Drogheda,7,2018,New,Household Buyer - Former Owner-Occupier,276824.0
+A92,Drogheda,7,2018,New,Household Buyer - Non-Occupier,
+A92,Drogheda,7,2018,Existing,All Buyer Types,212431.0
+A92,Drogheda,7,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,200735.0
+A92,Drogheda,7,2018,Existing,Household Buyer - Former Owner-Occupier,238775.0
+A92,Drogheda,7,2018,Existing,Household Buyer - Non-Occupier,158750.0
+A92,Drogheda,8,2018,All Dwelling Statuses,All Buyer Types,247749.0
+A92,Drogheda,8,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,233645.0
+A92,Drogheda,8,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,267506.0
+A92,Drogheda,8,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,175278.0
+A92,Drogheda,8,2018,New,All Buyer Types,273203.0
+A92,Drogheda,8,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,264091.0
+A92,Drogheda,8,2018,New,Household Buyer - Former Owner-Occupier,286194.0
+A92,Drogheda,8,2018,New,Household Buyer - Non-Occupier,253999.0
+A92,Drogheda,8,2018,Existing,All Buyer Types,236253.0
+A92,Drogheda,8,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,198515.0
+A92,Drogheda,8,2018,Existing,Household Buyer - Former Owner-Occupier,262037.0
+A92,Drogheda,8,2018,Existing,Household Buyer - Non-Occupier,165438.0
+A92,Drogheda,9,2018,All Dwelling Statuses,All Buyer Types,237912.0
+A92,Drogheda,9,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,233391.0
+A92,Drogheda,9,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,254221.0
+A92,Drogheda,9,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,168500.0
+A92,Drogheda,9,2018,New,All Buyer Types,262256.0
+A92,Drogheda,9,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,252970.0
+A92,Drogheda,9,2018,New,Household Buyer - Former Owner-Occupier,275023.0
+A92,Drogheda,9,2018,New,Household Buyer - Non-Occupier,
+A92,Drogheda,9,2018,Existing,All Buyer Types,228843.0
+A92,Drogheda,9,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,219033.0
+A92,Drogheda,9,2018,Existing,Household Buyer - Former Owner-Occupier,248483.0
+A92,Drogheda,9,2018,Existing,Household Buyer - Non-Occupier,168500.0
+A92,Drogheda,10,2018,All Dwelling Statuses,All Buyer Types,253647.0
+A92,Drogheda,10,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,254862.0
+A92,Drogheda,10,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,264018.0
+A92,Drogheda,10,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,182350.0
+A92,Drogheda,10,2018,New,All Buyer Types,317390.0
+A92,Drogheda,10,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,294705.0
+A92,Drogheda,10,2018,New,Household Buyer - Former Owner-Occupier,343565.0
+A92,Drogheda,10,2018,New,Household Buyer - Non-Occupier,
+A92,Drogheda,10,2018,Existing,All Buyer Types,231055.0
+A92,Drogheda,10,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,219706.0
+A92,Drogheda,10,2018,Existing,Household Buyer - Former Owner-Occupier,244131.0
+A92,Drogheda,10,2018,Existing,Household Buyer - Non-Occupier,182350.0
+A92,Drogheda,11,2018,All Dwelling Statuses,All Buyer Types,256685.0
+A92,Drogheda,11,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,252308.0
+A92,Drogheda,11,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,270827.0
+A92,Drogheda,11,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,125700.0
+A92,Drogheda,11,2018,New,All Buyer Types,275305.0
+A92,Drogheda,11,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,277526.0
+A92,Drogheda,11,2018,New,Household Buyer - Former Owner-Occupier,272344.0
+A92,Drogheda,11,2018,New,Household Buyer - Non-Occupier,
+A92,Drogheda,11,2018,Existing,All Buyer Types,244271.0
+A92,Drogheda,11,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,216706.0
+A92,Drogheda,11,2018,Existing,Household Buyer - Former Owner-Occupier,270161.0
+A92,Drogheda,11,2018,Existing,Household Buyer - Non-Occupier,125700.0
+A92,Drogheda,12,2018,All Dwelling Statuses,All Buyer Types,245861.0
+A92,Drogheda,12,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,238643.0
+A92,Drogheda,12,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,266055.0
+A92,Drogheda,12,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,184526.0
+A92,Drogheda,12,2018,New,All Buyer Types,281626.0
+A92,Drogheda,12,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,267542.0
+A92,Drogheda,12,2018,New,Household Buyer - Former Owner-Occupier,307628.0
+A92,Drogheda,12,2018,New,Household Buyer - Non-Occupier,
+A92,Drogheda,12,2018,Existing,All Buyer Types,229724.0
+A92,Drogheda,12,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210900.0
+A92,Drogheda,12,2018,Existing,Household Buyer - Former Owner-Occupier,253773.0
+A92,Drogheda,12,2018,Existing,Household Buyer - Non-Occupier,184526.0
+A92,Drogheda,1,2019,All Dwelling Statuses,All Buyer Types,253285.0
+A92,Drogheda,1,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,239889.0
+A92,Drogheda,1,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,273820.0
+A92,Drogheda,1,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,174214.0
+A92,Drogheda,1,2019,New,All Buyer Types,310152.0
+A92,Drogheda,1,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,275296.0
+A92,Drogheda,1,2019,New,Household Buyer - Former Owner-Occupier,323581.0
+A92,Drogheda,1,2019,New,Household Buyer - Non-Occupier,385000.0
+A92,Drogheda,1,2019,Existing,All Buyer Types,233950.0
+A92,Drogheda,1,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,224714.0
+A92,Drogheda,1,2019,Existing,Household Buyer - Former Owner-Occupier,257233.0
+A92,Drogheda,1,2019,Existing,Household Buyer - Non-Occupier,139083.0
+A92,Drogheda,2,2019,All Dwelling Statuses,All Buyer Types,255740.0
+A92,Drogheda,2,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,254637.0
+A92,Drogheda,2,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,261935.0
+A92,Drogheda,2,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,194000.0
+A92,Drogheda,2,2019,New,All Buyer Types,296202.0
+A92,Drogheda,2,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,290388.0
+A92,Drogheda,2,2019,New,Household Buyer - Former Owner-Occupier,307693.0
+A92,Drogheda,2,2019,New,Household Buyer - Non-Occupier,320000.0
+A92,Drogheda,2,2019,Existing,All Buyer Types,239744.0
+A92,Drogheda,2,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,215636.0
+A92,Drogheda,2,2019,Existing,Household Buyer - Former Owner-Occupier,255833.0
+A92,Drogheda,2,2019,Existing,Household Buyer - Non-Occupier,131000.0
+A92,Drogheda,3,2019,All Dwelling Statuses,All Buyer Types,248587.0
+A92,Drogheda,3,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,262703.0
+A92,Drogheda,3,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,250308.0
+A92,Drogheda,3,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,172500.0
+A92,Drogheda,3,2019,New,All Buyer Types,305803.0
+A92,Drogheda,3,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,310333.0
+A92,Drogheda,3,2019,New,Household Buyer - Former Owner-Occupier,305530.0
+A92,Drogheda,3,2019,New,Household Buyer - Non-Occupier,255000.0
+A92,Drogheda,3,2019,Existing,All Buyer Types,223793.0
+A92,Drogheda,3,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,234125.0
+A92,Drogheda,3,2019,Existing,Household Buyer - Former Owner-Occupier,229194.0
+A92,Drogheda,3,2019,Existing,Household Buyer - Non-Occupier,158750.0
+A92,Drogheda,4,2019,All Dwelling Statuses,All Buyer Types,232407.0
+A92,Drogheda,4,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,240500.0
+A92,Drogheda,4,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,244547.0
+A92,Drogheda,4,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,143833.0
+A92,Drogheda,4,2019,New,All Buyer Types,287467.0
+A92,Drogheda,4,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,286682.0
+A92,Drogheda,4,2019,New,Household Buyer - Former Owner-Occupier,288330.0
+A92,Drogheda,4,2019,New,Household Buyer - Non-Occupier,
+A92,Drogheda,4,2019,Existing,All Buyer Types,213758.0
+A92,Drogheda,4,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,204214.0
+A92,Drogheda,4,2019,Existing,Household Buyer - Former Owner-Occupier,233321.0
+A92,Drogheda,4,2019,Existing,Household Buyer - Non-Occupier,143833.0
+A92,Drogheda,5,2019,All Dwelling Statuses,All Buyer Types,253849.0
+A92,Drogheda,5,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,229421.0
+A92,Drogheda,5,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,276696.0
+A92,Drogheda,5,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,175083.0
+A92,Drogheda,5,2019,New,All Buyer Types,285128.0
+A92,Drogheda,5,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,265417.0
+A92,Drogheda,5,2019,New,Household Buyer - Former Owner-Occupier,314694.0
+A92,Drogheda,5,2019,New,Household Buyer - Non-Occupier,
+A92,Drogheda,5,2019,Existing,All Buyer Types,248263.0
+A92,Drogheda,5,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,212808.0
+A92,Drogheda,5,2019,Existing,Household Buyer - Former Owner-Occupier,272588.0
+A92,Drogheda,5,2019,Existing,Household Buyer - Non-Occupier,175083.0
+A92,Drogheda,6,2019,All Dwelling Statuses,All Buyer Types,259191.0
+A92,Drogheda,6,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,256950.0
+A92,Drogheda,6,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,276960.0
+A92,Drogheda,6,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,135667.0
+A92,Drogheda,6,2019,New,All Buyer Types,319601.0
+A92,Drogheda,6,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,305629.0
+A92,Drogheda,6,2019,New,Household Buyer - Former Owner-Occupier,335127.0
+A92,Drogheda,6,2019,New,Household Buyer - Non-Occupier,
+A92,Drogheda,6,2019,Existing,All Buyer Types,242060.0
+A92,Drogheda,6,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,236667.0
+A92,Drogheda,6,2019,Existing,Household Buyer - Former Owner-Occupier,262811.0
+A92,Drogheda,6,2019,Existing,Household Buyer - Non-Occupier,135667.0
+A92,Drogheda,7,2019,All Dwelling Statuses,All Buyer Types,256168.0
+A92,Drogheda,7,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,232788.0
+A92,Drogheda,7,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,279226.0
+A92,Drogheda,7,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,167889.0
+A92,Drogheda,7,2019,New,All Buyer Types,285551.0
+A92,Drogheda,7,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,279196.0
+A92,Drogheda,7,2019,New,Household Buyer - Former Owner-Occupier,291906.0
+A92,Drogheda,7,2019,New,Household Buyer - Non-Occupier,
+A92,Drogheda,7,2019,Existing,All Buyer Types,242876.0
+A92,Drogheda,7,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,188700.0
+A92,Drogheda,7,2019,Existing,Household Buyer - Former Owner-Occupier,274846.0
+A92,Drogheda,7,2019,Existing,Household Buyer - Non-Occupier,167889.0
+A92,Drogheda,8,2019,All Dwelling Statuses,All Buyer Types,235258.0
+A92,Drogheda,8,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,246489.0
+A92,Drogheda,8,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,241176.0
+A92,Drogheda,8,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,198900.0
+A92,Drogheda,8,2019,New,All Buyer Types,285881.0
+A92,Drogheda,8,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,279027.0
+A92,Drogheda,8,2019,New,Household Buyer - Former Owner-Occupier,286578.0
+A92,Drogheda,8,2019,New,Household Buyer - Non-Occupier,355000.0
+A92,Drogheda,8,2019,Existing,All Buyer Types,220071.0
+A92,Drogheda,8,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,195357.0
+A92,Drogheda,8,2019,Existing,Household Buyer - Former Owner-Occupier,232837.0
+A92,Drogheda,8,2019,Existing,Household Buyer - Non-Occupier,187750.0
+A92,Drogheda,9,2019,All Dwelling Statuses,All Buyer Types,245828.0
+A92,Drogheda,9,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,254544.0
+A92,Drogheda,9,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,254458.0
+A92,Drogheda,9,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,196750.0
+A92,Drogheda,9,2019,New,All Buyer Types,300566.0
+A92,Drogheda,9,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,294881.0
+A92,Drogheda,9,2019,New,Household Buyer - Former Owner-Occupier,308835.0
+A92,Drogheda,9,2019,New,Household Buyer - Non-Occupier,
+A92,Drogheda,9,2019,Existing,All Buyer Types,217943.0
+A92,Drogheda,9,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,182833.0
+A92,Drogheda,9,2019,Existing,Household Buyer - Former Owner-Occupier,235766.0
+A92,Drogheda,9,2019,Existing,Household Buyer - Non-Occupier,196750.0
+A92,Drogheda,10,2019,All Dwelling Statuses,All Buyer Types,266116.0
+A92,Drogheda,10,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,259327.0
+A92,Drogheda,10,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,291556.0
+A92,Drogheda,10,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,180029.0
+A92,Drogheda,10,2019,New,All Buyer Types,323251.0
+A92,Drogheda,10,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,291092.0
+A92,Drogheda,10,2019,New,Household Buyer - Former Owner-Occupier,350817.0
+A92,Drogheda,10,2019,New,Household Buyer - Non-Occupier,
+A92,Drogheda,10,2019,Existing,All Buyer Types,234732.0
+A92,Drogheda,10,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,202150.0
+A92,Drogheda,10,2019,Existing,Household Buyer - Former Owner-Occupier,263273.0
+A92,Drogheda,10,2019,Existing,Household Buyer - Non-Occupier,180029.0
+A92,Drogheda,11,2019,All Dwelling Statuses,All Buyer Types,263326.0
+A92,Drogheda,11,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,275638.0
+A92,Drogheda,11,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,259981.0
+A92,Drogheda,11,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,227625.0
+A92,Drogheda,11,2019,New,All Buyer Types,323873.0
+A92,Drogheda,11,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,314435.0
+A92,Drogheda,11,2019,New,Household Buyer - Former Owner-Occupier,329763.0
+A92,Drogheda,11,2019,New,Household Buyer - Non-Occupier,333999.0
+A92,Drogheda,11,2019,Existing,All Buyer Types,219177.0
+A92,Drogheda,11,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,230375.0
+A92,Drogheda,11,2019,Existing,Household Buyer - Former Owner-Occupier,220985.0
+A92,Drogheda,11,2019,Existing,Household Buyer - Non-Occupier,121250.0
+A92,Drogheda,12,2019,All Dwelling Statuses,All Buyer Types,247799.0
+A92,Drogheda,12,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,269077.0
+A92,Drogheda,12,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,258853.0
+A92,Drogheda,12,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,145417.0
+A92,Drogheda,12,2019,New,All Buyer Types,310963.0
+A92,Drogheda,12,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,301753.0
+A92,Drogheda,12,2019,New,Household Buyer - Former Owner-Occupier,330220.0
+A92,Drogheda,12,2019,New,Household Buyer - Non-Occupier,
+A92,Drogheda,12,2019,Existing,All Buyer Types,208029.0
+A92,Drogheda,12,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,218972.0
+A92,Drogheda,12,2019,Existing,Household Buyer - Former Owner-Occupier,229778.0
+A92,Drogheda,12,2019,Existing,Household Buyer - Non-Occupier,145417.0
+A92,Drogheda,1,2020,All Dwelling Statuses,All Buyer Types,239325.0
+A92,Drogheda,1,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,222656.0
+A92,Drogheda,1,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,244884.0
+A92,Drogheda,1,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,241167.0
+A92,Drogheda,1,2020,New,All Buyer Types,276218.0
+A92,Drogheda,1,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,285030.0
+A92,Drogheda,1,2020,New,Household Buyer - Former Owner-Occupier,263000.0
+A92,Drogheda,1,2020,New,Household Buyer - Non-Occupier,
+A92,Drogheda,1,2020,Existing,All Buyer Types,231947.0
+A92,Drogheda,1,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,175875.0
+A92,Drogheda,1,2020,Existing,Household Buyer - Former Owner-Occupier,242871.0
+A92,Drogheda,1,2020,Existing,Household Buyer - Non-Occupier,241167.0
+A92,Drogheda,2,2020,All Dwelling Statuses,All Buyer Types,239303.0
+A92,Drogheda,2,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,235604.0
+A92,Drogheda,2,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,258127.0
+A92,Drogheda,2,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,166867.0
+A92,Drogheda,2,2020,New,All Buyer Types,310441.0
+A92,Drogheda,2,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,291100.0
+A92,Drogheda,2,2020,New,Household Buyer - Former Owner-Occupier,397475.0
+A92,Drogheda,2,2020,New,Household Buyer - Non-Occupier,
+A92,Drogheda,2,2020,Existing,All Buyer Types,227264.0
+A92,Drogheda,2,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,199929.0
+A92,Drogheda,2,2020,Existing,Household Buyer - Former Owner-Occupier,251329.0
+A92,Drogheda,2,2020,Existing,Household Buyer - Non-Occupier,166867.0
+A92,Drogheda,3,2020,All Dwelling Statuses,All Buyer Types,231430.0
+A92,Drogheda,3,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,239458.0
+A92,Drogheda,3,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,236804.0
+A92,Drogheda,3,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,174600.0
+A92,Drogheda,3,2020,New,All Buyer Types,291365.0
+A92,Drogheda,3,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,285806.0
+A92,Drogheda,3,2020,New,Household Buyer - Former Owner-Occupier,307822.0
+A92,Drogheda,3,2020,New,Household Buyer - Non-Occupier,282001.0
+A92,Drogheda,3,2020,Existing,All Buyer Types,202398.0
+A92,Drogheda,3,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,188475.0
+A92,Drogheda,3,2020,Existing,Household Buyer - Former Owner-Occupier,220571.0
+A92,Drogheda,3,2020,Existing,Household Buyer - Non-Occupier,162667.0
+A92,Drogheda,4,2020,All Dwelling Statuses,All Buyer Types,251016.0
+A92,Drogheda,4,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,268796.0
+A92,Drogheda,4,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,249680.0
+A92,Drogheda,4,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,129125.0
+A92,Drogheda,4,2020,New,All Buyer Types,281980.0
+A92,Drogheda,4,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,279128.0
+A92,Drogheda,4,2020,New,Household Buyer - Former Owner-Occupier,290535.0
+A92,Drogheda,4,2020,New,Household Buyer - Non-Occupier,
+A92,Drogheda,4,2020,Existing,All Buyer Types,205977.0
+A92,Drogheda,4,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,219200.0
+A92,Drogheda,4,2020,Existing,Household Buyer - Former Owner-Occupier,224538.0
+A92,Drogheda,4,2020,Existing,Household Buyer - Non-Occupier,129125.0
+A92,Drogheda,5,2020,All Dwelling Statuses,All Buyer Types,237149.0
+A92,Drogheda,5,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,255590.0
+A92,Drogheda,5,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,241932.0
+A92,Drogheda,5,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,142194.0
+A92,Drogheda,5,2020,New,All Buyer Types,260058.0
+A92,Drogheda,5,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,281998.0
+A92,Drogheda,5,2020,New,Household Buyer - Former Owner-Occupier,275000.0
+A92,Drogheda,5,2020,New,Household Buyer - Non-Occupier,156887.0
+A92,Drogheda,5,2020,Existing,All Buyer Types,229513.0
+A92,Drogheda,5,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,223900.0
+A92,Drogheda,5,2020,Existing,Household Buyer - Former Owner-Occupier,236766.0
+A92,Drogheda,5,2020,Existing,Household Buyer - Non-Occupier,127500.0
+A92,Drogheda,6,2020,All Dwelling Statuses,All Buyer Types,258092.0
+A92,Drogheda,6,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,237452.0
+A92,Drogheda,6,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,272261.0
+A92,Drogheda,6,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,247500.0
+A92,Drogheda,6,2020,New,All Buyer Types,277910.0
+A92,Drogheda,6,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,267953.0
+A92,Drogheda,6,2020,New,Household Buyer - Former Owner-Occupier,309745.0
+A92,Drogheda,6,2020,New,Household Buyer - Non-Occupier,280000.0
+A92,Drogheda,6,2020,Existing,All Buyer Types,249599.0
+A92,Drogheda,6,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,197800.0
+A92,Drogheda,6,2020,Existing,Household Buyer - Former Owner-Occupier,267425.0
+A92,Drogheda,6,2020,Existing,Household Buyer - Non-Occupier,215000.0
+A92,Drogheda,7,2020,All Dwelling Statuses,All Buyer Types,251129.0
+A92,Drogheda,7,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,246771.0
+A92,Drogheda,7,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,264600.0
+A92,Drogheda,7,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,189400.0
+A92,Drogheda,7,2020,New,All Buyer Types,287928.0
+A92,Drogheda,7,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,278609.0
+A92,Drogheda,7,2020,New,Household Buyer - Former Owner-Occupier,301377.0
+A92,Drogheda,7,2020,New,Household Buyer - Non-Occupier,257000.0
+A92,Drogheda,7,2020,Existing,All Buyer Types,221907.0
+A92,Drogheda,7,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,206250.0
+A92,Drogheda,7,2020,Existing,Household Buyer - Former Owner-Occupier,241373.0
+A92,Drogheda,7,2020,Existing,Household Buyer - Non-Occupier,172500.0
+A92,Drogheda,8,2020,All Dwelling Statuses,All Buyer Types,254405.0
+A92,Drogheda,8,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,237303.0
+A92,Drogheda,8,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,279462.0
+A92,Drogheda,8,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,156167.0
+A92,Drogheda,8,2020,New,All Buyer Types,299558.0
+A92,Drogheda,8,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,228673.0
+A92,Drogheda,8,2020,New,Household Buyer - Former Owner-Occupier,370443.0
+A92,Drogheda,8,2020,New,Household Buyer - Non-Occupier,
+A92,Drogheda,8,2020,Existing,All Buyer Types,235054.0
+A92,Drogheda,8,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,243056.0
+A92,Drogheda,8,2020,Existing,Household Buyer - Former Owner-Occupier,245344.0
+A92,Drogheda,8,2020,Existing,Household Buyer - Non-Occupier,156167.0
+A92,Drogheda,9,2020,All Dwelling Statuses,All Buyer Types,270104.0
+A92,Drogheda,9,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,264428.0
+A92,Drogheda,9,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,273096.0
+A92,Drogheda,9,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,269990.0
+A92,Drogheda,9,2020,New,All Buyer Types,321766.0
+A92,Drogheda,9,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,309091.0
+A92,Drogheda,9,2020,New,Household Buyer - Former Owner-Occupier,311972.0
+A92,Drogheda,9,2020,New,Household Buyer - Non-Occupier,519959.0
+A92,Drogheda,9,2020,Existing,All Buyer Types,250319.0
+A92,Drogheda,9,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,215300.0
+A92,Drogheda,9,2020,Existing,Household Buyer - Former Owner-Occupier,266235.0
+A92,Drogheda,9,2020,Existing,Household Buyer - Non-Occupier,186667.0
+A92,Drogheda,10,2020,All Dwelling Statuses,All Buyer Types,244088.0
+A92,Drogheda,10,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,247247.0
+A92,Drogheda,10,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,262780.0
+A92,Drogheda,10,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,110667.0
+A92,Drogheda,10,2020,New,All Buyer Types,327872.0
+A92,Drogheda,10,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,319127.0
+A92,Drogheda,10,2020,New,Household Buyer - Former Owner-Occupier,338207.0
+A92,Drogheda,10,2020,New,Household Buyer - Non-Occupier,
+A92,Drogheda,10,2020,Existing,All Buyer Types,217277.0
+A92,Drogheda,10,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,195333.0
+A92,Drogheda,10,2020,Existing,Household Buyer - Former Owner-Occupier,245495.0
+A92,Drogheda,10,2020,Existing,Household Buyer - Non-Occupier,110667.0
+A92,Drogheda,11,2020,All Dwelling Statuses,All Buyer Types,265612.0
+A92,Drogheda,11,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,250133.0
+A92,Drogheda,11,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,287169.0
+A92,Drogheda,11,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,165932.0
+A92,Drogheda,11,2020,New,All Buyer Types,318883.0
+A92,Drogheda,11,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,303135.0
+A92,Drogheda,11,2020,New,Household Buyer - Former Owner-Occupier,359937.0
+A92,Drogheda,11,2020,New,Household Buyer - Non-Occupier,65830.0
+A92,Drogheda,11,2020,Existing,All Buyer Types,228323.0
+A92,Drogheda,11,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,204043.0
+A92,Drogheda,11,2020,Existing,Household Buyer - Former Owner-Occupier,244363.0
+A92,Drogheda,11,2020,Existing,Household Buyer - Non-Occupier,232667.0
+A92,Drogheda,12,2020,All Dwelling Statuses,All Buyer Types,269260.0
+A92,Drogheda,12,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,269989.0
+A92,Drogheda,12,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,283861.0
+A92,Drogheda,12,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,188167.0
+A92,Drogheda,12,2020,New,All Buyer Types,318000.0
+A92,Drogheda,12,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,302812.0
+A92,Drogheda,12,2020,New,Household Buyer - Former Owner-Occupier,342164.0
+A92,Drogheda,12,2020,New,Household Buyer - Non-Occupier,
+A92,Drogheda,12,2020,Existing,All Buyer Types,230674.0
+A92,Drogheda,12,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,206167.0
+A92,Drogheda,12,2020,Existing,Household Buyer - Former Owner-Occupier,253321.0
+A92,Drogheda,12,2020,Existing,Household Buyer - Non-Occupier,188167.0
+A92,Drogheda,1,2021,All Dwelling Statuses,All Buyer Types,294282.0
+A92,Drogheda,1,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,269280.0
+A92,Drogheda,1,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,291018.0
+A92,Drogheda,1,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,457000.0
+A92,Drogheda,1,2021,New,All Buyer Types,334728.0
+A92,Drogheda,1,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,295609.0
+A92,Drogheda,1,2021,New,Household Buyer - Former Owner-Occupier,422745.0
+A92,Drogheda,1,2021,New,Household Buyer - Non-Occupier,
+A92,Drogheda,1,2021,Existing,All Buyer Types,278348.0
+A92,Drogheda,1,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,235429.0
+A92,Drogheda,1,2021,Existing,Household Buyer - Former Owner-Occupier,268109.0
+A92,Drogheda,1,2021,Existing,Household Buyer - Non-Occupier,457000.0
+A92,Drogheda,2,2021,All Dwelling Statuses,All Buyer Types,265070.0
+A92,Drogheda,2,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,256994.0
+A92,Drogheda,2,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,279955.0
+A92,Drogheda,2,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,116167.0
+A92,Drogheda,2,2021,New,All Buyer Types,297958.0
+A92,Drogheda,2,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,297210.0
+A92,Drogheda,2,2021,New,Household Buyer - Former Owner-Occupier,298854.0
+A92,Drogheda,2,2021,New,Household Buyer - Non-Occupier,
+A92,Drogheda,2,2021,Existing,All Buyer Types,244972.0
+A92,Drogheda,2,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,214412.0
+A92,Drogheda,2,2021,Existing,Household Buyer - Former Owner-Occupier,271618.0
+A92,Drogheda,2,2021,Existing,Household Buyer - Non-Occupier,116167.0
+A92,Drogheda,3,2021,All Dwelling Statuses,All Buyer Types,269426.0
+A92,Drogheda,3,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,271746.0
+A92,Drogheda,3,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,282017.0
+A92,Drogheda,3,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,133143.0
+A92,Drogheda,3,2021,New,All Buyer Types,305349.0
+A92,Drogheda,3,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,307130.0
+A92,Drogheda,3,2021,New,Household Buyer - Former Owner-Occupier,302517.0
+A92,Drogheda,3,2021,New,Household Buyer - Non-Occupier,
+A92,Drogheda,3,2021,Existing,All Buyer Types,239750.0
+A92,Drogheda,3,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,202944.0
+A92,Drogheda,3,2021,Existing,Household Buyer - Former Owner-Occupier,271767.0
+A92,Drogheda,3,2021,Existing,Household Buyer - Non-Occupier,133143.0
+A92,Drogheda,4,2021,All Dwelling Statuses,All Buyer Types,266914.0
+A92,Drogheda,4,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,272077.0
+A92,Drogheda,4,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,273476.0
+A92,Drogheda,4,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,190000.0
+A92,Drogheda,4,2021,New,All Buyer Types,296807.0
+A92,Drogheda,4,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,288666.0
+A92,Drogheda,4,2021,New,Household Buyer - Former Owner-Occupier,312410.0
+A92,Drogheda,4,2021,New,Household Buyer - Non-Occupier,
+A92,Drogheda,4,2021,Existing,All Buyer Types,237021.0
+A92,Drogheda,4,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,217571.0
+A92,Drogheda,4,2021,Existing,Household Buyer - Former Owner-Occupier,253163.0
+A92,Drogheda,4,2021,Existing,Household Buyer - Non-Occupier,190000.0
+A92,Drogheda,5,2021,All Dwelling Statuses,All Buyer Types,264855.0
+A92,Drogheda,5,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,268497.0
+A92,Drogheda,5,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,275295.0
+A92,Drogheda,5,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,212292.0
+A92,Drogheda,5,2021,New,All Buyer Types,287971.0
+A92,Drogheda,5,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,279429.0
+A92,Drogheda,5,2021,New,Household Buyer - Former Owner-Occupier,302670.0
+A92,Drogheda,5,2021,New,Household Buyer - Non-Occupier,299499.0
+A92,Drogheda,5,2021,Existing,All Buyer Types,250145.0
+A92,Drogheda,5,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220400.0
+A92,Drogheda,5,2021,Existing,Household Buyer - Former Owner-Occupier,266872.0
+A92,Drogheda,5,2021,Existing,Household Buyer - Non-Occupier,204364.0
+A92,Drogheda,6,2021,All Dwelling Statuses,All Buyer Types,262205.0
+A92,Drogheda,6,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,256628.0
+A92,Drogheda,6,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,285234.0
+A92,Drogheda,6,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,189056.0
+A92,Drogheda,6,2021,New,All Buyer Types,290739.0
+A92,Drogheda,6,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,293913.0
+A92,Drogheda,6,2021,New,Household Buyer - Former Owner-Occupier,282643.0
+A92,Drogheda,6,2021,New,Household Buyer - Non-Occupier,282500.0
+A92,Drogheda,6,2021,Existing,All Buyer Types,246729.0
+A92,Drogheda,6,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,213750.0
+A92,Drogheda,6,2021,Existing,Household Buyer - Former Owner-Occupier,285903.0
+A92,Drogheda,6,2021,Existing,Household Buyer - Non-Occupier,177375.0
+A92,Drogheda,7,2021,All Dwelling Statuses,All Buyer Types,289376.0
+A92,Drogheda,7,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,288195.0
+A92,Drogheda,7,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,309274.0
+A92,Drogheda,7,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,200625.0
+A92,Drogheda,7,2021,New,All Buyer Types,319885.0
+A92,Drogheda,7,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,302437.0
+A92,Drogheda,7,2021,New,Household Buyer - Former Owner-Occupier,342464.0
+A92,Drogheda,7,2021,New,Household Buyer - Non-Occupier,
+A92,Drogheda,7,2021,Existing,All Buyer Types,263511.0
+A92,Drogheda,7,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,269765.0
+A92,Drogheda,7,2021,Existing,Household Buyer - Former Owner-Occupier,282405.0
+A92,Drogheda,7,2021,Existing,Household Buyer - Non-Occupier,200625.0
+A92,Drogheda,8,2021,All Dwelling Statuses,All Buyer Types,278313.0
+A92,Drogheda,8,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,289124.0
+A92,Drogheda,8,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,289525.0
+A92,Drogheda,8,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,159833.0
+A92,Drogheda,8,2021,New,All Buyer Types,334060.0
+A92,Drogheda,8,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,337623.0
+A92,Drogheda,8,2021,New,Household Buyer - Former Owner-Occupier,324666.0
+A92,Drogheda,8,2021,New,Household Buyer - Non-Occupier,
+A92,Drogheda,8,2021,Existing,All Buyer Types,244527.0
+A92,Drogheda,8,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,230521.0
+A92,Drogheda,8,2021,Existing,Household Buyer - Former Owner-Occupier,277812.0
+A92,Drogheda,8,2021,Existing,Household Buyer - Non-Occupier,159833.0
+A92,Drogheda,9,2021,All Dwelling Statuses,All Buyer Types,283461.0
+A92,Drogheda,9,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,273603.0
+A92,Drogheda,9,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,303725.0
+A92,Drogheda,9,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,185100.0
+A92,Drogheda,9,2021,New,All Buyer Types,329346.0
+A92,Drogheda,9,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,309431.0
+A92,Drogheda,9,2021,New,Household Buyer - Former Owner-Occupier,359845.0
+A92,Drogheda,9,2021,New,Household Buyer - Non-Occupier,315000.0
+A92,Drogheda,9,2021,Existing,All Buyer Types,263317.0
+A92,Drogheda,9,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,237775.0
+A92,Drogheda,9,2021,Existing,Household Buyer - Former Owner-Occupier,289176.0
+A92,Drogheda,9,2021,Existing,Household Buyer - Non-Occupier,152625.0
+A92,Drogheda,10,2021,All Dwelling Statuses,All Buyer Types,278351.0
+A92,Drogheda,10,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,276362.0
+A92,Drogheda,10,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,295838.0
+A92,Drogheda,10,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,166333.0
+A92,Drogheda,10,2021,New,All Buyer Types,309050.0
+A92,Drogheda,10,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,308962.0
+A92,Drogheda,10,2021,New,Household Buyer - Former Owner-Occupier,309154.0
+A92,Drogheda,10,2021,New,Household Buyer - Non-Occupier,
+A92,Drogheda,10,2021,Existing,All Buyer Types,257597.0
+A92,Drogheda,10,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,236000.0
+A92,Drogheda,10,2021,Existing,Household Buyer - Former Owner-Occupier,288693.0
+A92,Drogheda,10,2021,Existing,Household Buyer - Non-Occupier,166333.0
+A92,Drogheda,11,2021,All Dwelling Statuses,All Buyer Types,290125.0
+A92,Drogheda,11,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,307135.0
+A92,Drogheda,11,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,306886.0
+A92,Drogheda,11,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,161640.0
+A92,Drogheda,11,2021,New,All Buyer Types,340490.0
+A92,Drogheda,11,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,327292.0
+A92,Drogheda,11,2021,New,Household Buyer - Former Owner-Occupier,366908.0
+A92,Drogheda,11,2021,New,Household Buyer - Non-Occupier,221325.0
+A92,Drogheda,11,2021,Existing,All Buyer Types,250952.0
+A92,Drogheda,11,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,268167.0
+A92,Drogheda,11,2021,Existing,Household Buyer - Former Owner-Occupier,275208.0
+A92,Drogheda,11,2021,Existing,Household Buyer - Non-Occupier,156667.0
+A92,Drogheda,12,2021,All Dwelling Statuses,All Buyer Types,290443.0
+A92,Drogheda,12,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,305242.0
+A92,Drogheda,12,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,293326.0
+A92,Drogheda,12,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,223250.0
+A92,Drogheda,12,2021,New,All Buyer Types,309518.0
+A92,Drogheda,12,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,314936.0
+A92,Drogheda,12,2021,New,Household Buyer - Former Owner-Occupier,301953.0
+A92,Drogheda,12,2021,New,Household Buyer - Non-Occupier,335000.0
+A92,Drogheda,12,2021,Existing,All Buyer Types,276753.0
+A92,Drogheda,12,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,282393.0
+A92,Drogheda,12,2021,Existing,Household Buyer - Former Owner-Occupier,289310.0
+A92,Drogheda,12,2021,Existing,Household Buyer - Non-Occupier,214654.0
+A92,Drogheda,1,2022,All Dwelling Statuses,All Buyer Types,286675.0
+A92,Drogheda,1,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,273680.0
+A92,Drogheda,1,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,295419.0
+A92,Drogheda,1,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,288125.0
+A92,Drogheda,1,2022,New,All Buyer Types,315083.0
+A92,Drogheda,1,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,300046.0
+A92,Drogheda,1,2022,New,Household Buyer - Former Owner-Occupier,336135.0
+A92,Drogheda,1,2022,New,Household Buyer - Non-Occupier,
+A92,Drogheda,1,2022,Existing,All Buyer Types,279990.0
+A92,Drogheda,1,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,262824.0
+A92,Drogheda,1,2022,Existing,Household Buyer - Former Owner-Occupier,288633.0
+A92,Drogheda,1,2022,Existing,Household Buyer - Non-Occupier,288125.0
+A92,Drogheda,2,2022,All Dwelling Statuses,All Buyer Types,285876.0
+A92,Drogheda,2,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,292463.0
+A92,Drogheda,2,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,294959.0
+A92,Drogheda,2,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,180857.0
+A92,Drogheda,2,2022,New,All Buyer Types,309641.0
+A92,Drogheda,2,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,301870.0
+A92,Drogheda,2,2022,New,Household Buyer - Former Owner-Occupier,317413.0
+A92,Drogheda,2,2022,New,Household Buyer - Non-Occupier,
+A92,Drogheda,2,2022,Existing,All Buyer Types,267727.0
+A92,Drogheda,2,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,276000.0
+A92,Drogheda,2,2022,Existing,Household Buyer - Former Owner-Occupier,281861.0
+A92,Drogheda,2,2022,Existing,Household Buyer - Non-Occupier,180857.0
+A92,Drogheda,3,2022,All Dwelling Statuses,All Buyer Types,282953.0
+A92,Drogheda,3,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,295376.0
+A92,Drogheda,3,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,307405.0
+A92,Drogheda,3,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,184018.0
+A92,Drogheda,3,2022,New,All Buyer Types,311991.0
+A92,Drogheda,3,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,315679.0
+A92,Drogheda,3,2022,New,Household Buyer - Former Owner-Occupier,305372.0
+A92,Drogheda,3,2022,New,Household Buyer - Non-Occupier,310000.0
+A92,Drogheda,3,2022,Existing,All Buyer Types,263155.0
+A92,Drogheda,3,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,251646.0
+A92,Drogheda,3,2022,Existing,Household Buyer - Former Owner-Occupier,308230.0
+A92,Drogheda,3,2022,Existing,Household Buyer - Non-Occupier,168271.0
+A92,Drogheda,4,2022,All Dwelling Statuses,All Buyer Types,285753.0
+A92,Drogheda,4,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,277037.0
+A92,Drogheda,4,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,298392.0
+A92,Drogheda,4,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,211000.0
+A92,Drogheda,4,2022,New,All Buyer Types,309870.0
+A92,Drogheda,4,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,302494.0
+A92,Drogheda,4,2022,New,Household Buyer - Former Owner-Occupier,318650.0
+A92,Drogheda,4,2022,New,Household Buyer - Non-Occupier,
+A92,Drogheda,4,2022,Existing,All Buyer Types,266625.0
+A92,Drogheda,4,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,224000.0
+A92,Drogheda,4,2022,Existing,Household Buyer - Former Owner-Occupier,287756.0
+A92,Drogheda,4,2022,Existing,Household Buyer - Non-Occupier,211000.0
+A92,Drogheda,5,2022,All Dwelling Statuses,All Buyer Types,279025.0
+A92,Drogheda,5,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,265278.0
+A92,Drogheda,5,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,292735.0
+A92,Drogheda,5,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,244917.0
+A92,Drogheda,5,2022,New,All Buyer Types,291650.0
+A92,Drogheda,5,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,287950.0
+A92,Drogheda,5,2022,New,Household Buyer - Former Owner-Occupier,295762.0
+A92,Drogheda,5,2022,New,Household Buyer - Non-Occupier,
+A92,Drogheda,5,2022,Existing,All Buyer Types,274741.0
+A92,Drogheda,5,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,251941.0
+A92,Drogheda,5,2022,Existing,Household Buyer - Former Owner-Occupier,291909.0
+A92,Drogheda,5,2022,Existing,Household Buyer - Non-Occupier,244917.0
+A92,Drogheda,6,2022,All Dwelling Statuses,All Buyer Types,306579.0
+A92,Drogheda,6,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,306705.0
+A92,Drogheda,6,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,316484.0
+A92,Drogheda,6,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,174700.0
+A92,Drogheda,6,2022,New,All Buyer Types,330951.0
+A92,Drogheda,6,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,340841.0
+A92,Drogheda,6,2022,New,Household Buyer - Former Owner-Occupier,317466.0
+A92,Drogheda,6,2022,New,Household Buyer - Non-Occupier,250000.0
+A92,Drogheda,6,2022,Existing,All Buyer Types,289978.0
+A92,Drogheda,6,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,238433.0
+A92,Drogheda,6,2022,Existing,Household Buyer - Former Owner-Occupier,316170.0
+A92,Drogheda,6,2022,Existing,Household Buyer - Non-Occupier,155875.0
+A92,Drogheda,7,2022,All Dwelling Statuses,All Buyer Types,295319.0
+A92,Drogheda,7,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,300103.0
+A92,Drogheda,7,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,304437.0
+A92,Drogheda,7,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,230282.0
+A92,Drogheda,7,2022,New,All Buyer Types,314148.0
+A92,Drogheda,7,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,318301.0
+A92,Drogheda,7,2022,New,Household Buyer - Former Owner-Occupier,309995.0
+A92,Drogheda,7,2022,New,Household Buyer - Non-Occupier,
+A92,Drogheda,7,2022,Existing,All Buyer Types,279088.0
+A92,Drogheda,7,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,267607.0
+A92,Drogheda,7,2022,Existing,Household Buyer - Former Owner-Occupier,300227.0
+A92,Drogheda,7,2022,Existing,Household Buyer - Non-Occupier,230282.0
+A92,Drogheda,8,2022,All Dwelling Statuses,All Buyer Types,287905.0
+A92,Drogheda,8,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,301866.0
+A92,Drogheda,8,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,288714.0
+A92,Drogheda,8,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,214086.0
+A92,Drogheda,8,2022,New,All Buyer Types,338813.0
+A92,Drogheda,8,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,343072.0
+A92,Drogheda,8,2022,New,Household Buyer - Former Owner-Occupier,333135.0
+A92,Drogheda,8,2022,New,Household Buyer - Non-Occupier,
+A92,Drogheda,8,2022,Existing,All Buyer Types,257184.0
+A92,Drogheda,8,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,243000.0
+A92,Drogheda,8,2022,Existing,Household Buyer - Former Owner-Occupier,270705.0
+A92,Drogheda,8,2022,Existing,Household Buyer - Non-Occupier,214086.0
+A92,Drogheda,9,2022,All Dwelling Statuses,All Buyer Types,300923.0
+A92,Drogheda,9,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,276259.0
+A92,Drogheda,9,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,317702.0
+A92,Drogheda,9,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,272375.0
+A92,Drogheda,9,2022,New,All Buyer Types,311432.0
+A92,Drogheda,9,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,308504.0
+A92,Drogheda,9,2022,New,Household Buyer - Former Owner-Occupier,306161.0
+A92,Drogheda,9,2022,New,Household Buyer - Non-Occupier,434999.0
+A92,Drogheda,9,2022,Existing,All Buyer Types,296772.0
+A92,Drogheda,9,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,248850.0
+A92,Drogheda,9,2022,Existing,Household Buyer - Former Owner-Occupier,320694.0
+A92,Drogheda,9,2022,Existing,Household Buyer - Non-Occupier,249143.0
+A92,Drogheda,10,2022,All Dwelling Statuses,All Buyer Types,309468.0
+A92,Drogheda,10,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,307958.0
+A92,Drogheda,10,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,344132.0
+A92,Drogheda,10,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,183231.0
+A92,Drogheda,10,2022,New,All Buyer Types,374417.0
+A92,Drogheda,10,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,349993.0
+A92,Drogheda,10,2022,New,Household Buyer - Former Owner-Occupier,433327.0
+A92,Drogheda,10,2022,New,Household Buyer - Non-Occupier,234999.0
+A92,Drogheda,10,2022,Existing,All Buyer Types,286649.0
+A92,Drogheda,10,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,277386.0
+A92,Drogheda,10,2022,Existing,Household Buyer - Former Owner-Occupier,324063.0
+A92,Drogheda,10,2022,Existing,Household Buyer - Non-Occupier,178917.0
+A92,Drogheda,11,2022,All Dwelling Statuses,All Buyer Types,296911.0
+A92,Drogheda,11,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,290409.0
+A92,Drogheda,11,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,327532.0
+A92,Drogheda,11,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,172592.0
+A92,Drogheda,11,2022,New,All Buyer Types,340765.0
+A92,Drogheda,11,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,311650.0
+A92,Drogheda,11,2022,New,Household Buyer - Former Owner-Occupier,379350.0
+A92,Drogheda,11,2022,New,Household Buyer - Non-Occupier,317800.0
+A92,Drogheda,11,2022,Existing,All Buyer Types,283006.0
+A92,Drogheda,11,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,279788.0
+A92,Drogheda,11,2022,Existing,Household Buyer - Former Owner-Occupier,315141.0
+A92,Drogheda,11,2022,Existing,Household Buyer - Non-Occupier,143550.0
+A92,Drogheda,12,2022,All Dwelling Statuses,All Buyer Types,290100.0
+A92,Drogheda,12,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,311501.0
+A92,Drogheda,12,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,278100.0
+A92,Drogheda,12,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,194875.0
+A92,Drogheda,12,2022,New,All Buyer Types,342192.0
+A92,Drogheda,12,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,345240.0
+A92,Drogheda,12,2022,New,Household Buyer - Former Owner-Occupier,334192.0
+A92,Drogheda,12,2022,New,Household Buyer - Non-Occupier,
+A92,Drogheda,12,2022,Existing,All Buyer Types,248712.0
+A92,Drogheda,12,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,254820.0
+A92,Drogheda,12,2022,Existing,Household Buyer - Former Owner-Occupier,255663.0
+A92,Drogheda,12,2022,Existing,Household Buyer - Non-Occupier,194875.0
+A92,Drogheda,1,2023,All Dwelling Statuses,All Buyer Types,326317.0
+A92,Drogheda,1,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,330273.0
+A92,Drogheda,1,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,345838.0
+A92,Drogheda,1,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,240688.0
+A92,Drogheda,1,2023,New,All Buyer Types,350642.0
+A92,Drogheda,1,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,353776.0
+A92,Drogheda,1,2023,New,Household Buyer - Former Owner-Occupier,359904.0
+A92,Drogheda,1,2023,New,Household Buyer - Non-Occupier,283750.0
+A92,Drogheda,1,2023,Existing,All Buyer Types,307466.0
+A92,Drogheda,1,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,290500.0
+A92,Drogheda,1,2023,Existing,Household Buyer - Former Owner-Occupier,341149.0
+A92,Drogheda,1,2023,Existing,Household Buyer - Non-Occupier,226333.0
+A92,Drogheda,2,2023,All Dwelling Statuses,All Buyer Types,339792.0
+A92,Drogheda,2,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,323956.0
+A92,Drogheda,2,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,364860.0
+A92,Drogheda,2,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,215800.0
+A92,Drogheda,2,2023,New,All Buyer Types,374935.0
+A92,Drogheda,2,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,368562.0
+A92,Drogheda,2,2023,New,Household Buyer - Former Owner-Occupier,383433.0
+A92,Drogheda,2,2023,New,Household Buyer - Non-Occupier,
+A92,Drogheda,2,2023,Existing,All Buyer Types,319292.0
+A92,Drogheda,2,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,279350.0
+A92,Drogheda,2,2023,Existing,Household Buyer - Former Owner-Occupier,356900.0
+A92,Drogheda,2,2023,Existing,Household Buyer - Non-Occupier,215800.0
+A92,Drogheda,3,2023,All Dwelling Statuses,All Buyer Types,286506.0
+A92,Drogheda,3,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,318925.0
+A92,Drogheda,3,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,289245.0
+A92,Drogheda,3,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,167045.0
+A92,Drogheda,3,2023,New,All Buyer Types,355929.0
+A92,Drogheda,3,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,368832.0
+A92,Drogheda,3,2023,New,Household Buyer - Former Owner-Occupier,367474.0
+A92,Drogheda,3,2023,New,Household Buyer - Non-Occupier,113500.0
+A92,Drogheda,3,2023,Existing,All Buyer Types,262973.0
+A92,Drogheda,3,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,278524.0
+A92,Drogheda,3,2023,Existing,Household Buyer - Former Owner-Occupier,283657.0
+A92,Drogheda,3,2023,Existing,Household Buyer - Non-Occupier,172400.0
+A92,Drogheda,4,2023,All Dwelling Statuses,All Buyer Types,326647.0
+A92,Drogheda,4,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,309567.0
+A92,Drogheda,4,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,378208.0
+A92,Drogheda,4,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,227857.0
+A92,Drogheda,4,2023,New,All Buyer Types,346641.0
+A92,Drogheda,4,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,346229.0
+A92,Drogheda,4,2023,New,Household Buyer - Former Owner-Occupier,348150.0
+A92,Drogheda,4,2023,New,Household Buyer - Non-Occupier,
+A92,Drogheda,4,2023,Existing,All Buyer Types,313628.0
+A92,Drogheda,4,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,259156.0
+A92,Drogheda,4,2023,Existing,Household Buyer - Former Owner-Occupier,387225.0
+A92,Drogheda,4,2023,Existing,Household Buyer - Non-Occupier,227857.0
+A92,Drogheda,5,2023,All Dwelling Statuses,All Buyer Types,305578.0
+A92,Drogheda,5,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,309317.0
+A92,Drogheda,5,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,315071.0
+A92,Drogheda,5,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,219571.0
+A92,Drogheda,5,2023,New,All Buyer Types,383594.0
+A92,Drogheda,5,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,373284.0
+A92,Drogheda,5,2023,New,Household Buyer - Former Owner-Occupier,415697.0
+A92,Drogheda,5,2023,New,Household Buyer - Non-Occupier,325000.0
+A92,Drogheda,5,2023,Existing,All Buyer Types,282632.0
+A92,Drogheda,5,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,257344.0
+A92,Drogheda,5,2023,Existing,Household Buyer - Former Owner-Occupier,301946.0
+A92,Drogheda,5,2023,Existing,Household Buyer - Non-Occupier,202000.0
+A92,Drogheda,6,2023,All Dwelling Statuses,All Buyer Types,325909.0
+A92,Drogheda,6,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,353827.0
+A92,Drogheda,6,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,314637.0
+A92,Drogheda,6,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,175714.0
+A92,Drogheda,6,2023,New,All Buyer Types,379980.0
+A92,Drogheda,6,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,370982.0
+A92,Drogheda,6,2023,New,Household Buyer - Former Owner-Occupier,411066.0
+A92,Drogheda,6,2023,New,Household Buyer - Non-Occupier,
+A92,Drogheda,6,2023,Existing,All Buyer Types,271837.0
+A92,Drogheda,6,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,310367.0
+A92,Drogheda,6,2023,Existing,Household Buyer - Former Owner-Occupier,275352.0
+A92,Drogheda,6,2023,Existing,Household Buyer - Non-Occupier,175714.0
+A92,Drogheda,7,2023,All Dwelling Statuses,All Buyer Types,324066.0
+A92,Drogheda,7,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,329989.0
+A92,Drogheda,7,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,326879.0
+A92,Drogheda,7,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,184833.0
+A92,Drogheda,7,2023,New,All Buyer Types,371466.0
+A92,Drogheda,7,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,371138.0
+A92,Drogheda,7,2023,New,Household Buyer - Former Owner-Occupier,372967.0
+A92,Drogheda,7,2023,New,Household Buyer - Non-Occupier,
+A92,Drogheda,7,2023,Existing,All Buyer Types,290455.0
+A92,Drogheda,7,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,264150.0
+A92,Drogheda,7,2023,Existing,Household Buyer - Former Owner-Occupier,316797.0
+A92,Drogheda,7,2023,Existing,Household Buyer - Non-Occupier,184833.0
+A92,Drogheda,8,2023,All Dwelling Statuses,All Buyer Types,306187.0
+A92,Drogheda,8,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,313971.0
+A92,Drogheda,8,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,305282.0
+A92,Drogheda,8,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,261500.0
+A92,Drogheda,8,2023,New,All Buyer Types,386277.0
+A92,Drogheda,8,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,377369.0
+A92,Drogheda,8,2023,New,Household Buyer - Former Owner-Occupier,411886.0
+A92,Drogheda,8,2023,New,Household Buyer - Non-Occupier,
+A92,Drogheda,8,2023,Existing,All Buyer Types,271704.0
+A92,Drogheda,8,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,250574.0
+A92,Drogheda,8,2023,Existing,Household Buyer - Former Owner-Occupier,284976.0
+A92,Drogheda,8,2023,Existing,Household Buyer - Non-Occupier,261500.0
+A92,Drogheda,9,2023,All Dwelling Statuses,All Buyer Types,317646.0
+A92,Drogheda,9,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,331343.0
+A92,Drogheda,9,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,311463.0
+A92,Drogheda,9,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,235000.0
+A92,Drogheda,9,2023,New,All Buyer Types,366901.0
+A92,Drogheda,9,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,363805.0
+A92,Drogheda,9,2023,New,Household Buyer - Former Owner-Occupier,380059.0
+A92,Drogheda,9,2023,New,Household Buyer - Non-Occupier,
+A92,Drogheda,9,2023,Existing,All Buyer Types,289308.0
+A92,Drogheda,9,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,278786.0
+A92,Drogheda,9,2023,Existing,Household Buyer - Former Owner-Occupier,299787.0
+A92,Drogheda,9,2023,Existing,Household Buyer - Non-Occupier,235000.0
+A92,Drogheda,10,2023,All Dwelling Statuses,All Buyer Types,340166.0
+A92,Drogheda,10,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,327315.0
+A92,Drogheda,10,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,344481.0
+A92,Drogheda,10,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,441000.0
+A92,Drogheda,10,2023,New,All Buyer Types,373781.0
+A92,Drogheda,10,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,359932.0
+A92,Drogheda,10,2023,New,Household Buyer - Former Owner-Occupier,419285.0
+A92,Drogheda,10,2023,New,Household Buyer - Non-Occupier,
+A92,Drogheda,10,2023,Existing,All Buyer Types,324886.0
+A92,Drogheda,10,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,285639.0
+A92,Drogheda,10,2023,Existing,Household Buyer - Former Owner-Occupier,332844.0
+A92,Drogheda,10,2023,Existing,Household Buyer - Non-Occupier,441000.0
+A92,Drogheda,11,2023,All Dwelling Statuses,All Buyer Types,352358.0
+A92,Drogheda,11,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,348110.0
+A92,Drogheda,11,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,365189.0
+A92,Drogheda,11,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,291022.0
+A92,Drogheda,11,2023,New,All Buyer Types,392122.0
+A92,Drogheda,11,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,372772.0
+A92,Drogheda,11,2023,New,Household Buyer - Former Owner-Occupier,463454.0
+A92,Drogheda,11,2023,New,Household Buyer - Non-Occupier,319077.0
+A92,Drogheda,11,2023,Existing,All Buyer Types,327301.0
+A92,Drogheda,11,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,316808.0
+A92,Drogheda,11,2023,Existing,Household Buyer - Former Owner-Occupier,339452.0
+A92,Drogheda,11,2023,Existing,Household Buyer - Non-Occupier,279800.0
+A92,Drogheda,12,2023,All Dwelling Statuses,All Buyer Types,343850.0
+A92,Drogheda,12,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,349923.0
+A92,Drogheda,12,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,338956.0
+A92,Drogheda,12,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,313875.0
+A92,Drogheda,12,2023,New,All Buyer Types,370006.0
+A92,Drogheda,12,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,366487.0
+A92,Drogheda,12,2023,New,Household Buyer - Former Owner-Occupier,377474.0
+A92,Drogheda,12,2023,New,Household Buyer - Non-Occupier,425625.0
+A92,Drogheda,12,2023,Existing,All Buyer Types,314017.0
+A92,Drogheda,12,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,286036.0
+A92,Drogheda,12,2023,Existing,Household Buyer - Former Owner-Occupier,324512.0
+A92,Drogheda,12,2023,Existing,Household Buyer - Non-Occupier,258000.0
+A92,Drogheda,1,2024,All Dwelling Statuses,All Buyer Types,335768.0
+A92,Drogheda,1,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,319337.0
+A92,Drogheda,1,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,369250.0
+A92,Drogheda,1,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,240000.0
+A92,Drogheda,1,2024,New,All Buyer Types,359762.0
+A92,Drogheda,1,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,345653.0
+A92,Drogheda,1,2024,New,Household Buyer - Former Owner-Occupier,455000.0
+A92,Drogheda,1,2024,New,Household Buyer - Non-Occupier,
+A92,Drogheda,1,2024,Existing,All Buyer Types,311774.0
+A92,Drogheda,1,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,260125.0
+A92,Drogheda,1,2024,Existing,Household Buyer - Former Owner-Occupier,350194.0
+A92,Drogheda,1,2024,Existing,Household Buyer - Non-Occupier,240000.0
+A92,Drogheda,2,2024,All Dwelling Statuses,All Buyer Types,306840.0
+A92,Drogheda,2,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,329098.0
+A92,Drogheda,2,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,294684.0
+A92,Drogheda,2,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,226400.0
+A92,Drogheda,2,2024,New,All Buyer Types,387961.0
+A92,Drogheda,2,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,385402.0
+A92,Drogheda,2,2024,New,Household Buyer - Former Owner-Occupier,398742.0
+A92,Drogheda,2,2024,New,Household Buyer - Non-Occupier,375000.0
+A92,Drogheda,2,2024,Existing,All Buyer Types,270418.0
+A92,Drogheda,2,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,281684.0
+A92,Drogheda,2,2024,Existing,Household Buyer - Former Owner-Occupier,274673.0
+A92,Drogheda,2,2024,Existing,Household Buyer - Non-Occupier,189250.0
+A92,Drogheda,3,2024,All Dwelling Statuses,All Buyer Types,314788.0
+A92,Drogheda,3,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,358654.0
+A92,Drogheda,3,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,293162.0
+A92,Drogheda,3,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,172429.0
+A92,Drogheda,3,2024,New,All Buyer Types,386062.0
+A92,Drogheda,3,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,383123.0
+A92,Drogheda,3,2024,New,Household Buyer - Former Owner-Occupier,395718.0
+A92,Drogheda,3,2024,New,Household Buyer - Non-Occupier,
+A92,Drogheda,3,2024,Existing,All Buyer Types,268304.0
+A92,Drogheda,3,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,321133.0
+A92,Drogheda,3,2024,Existing,Household Buyer - Former Owner-Occupier,263250.0
+A92,Drogheda,3,2024,Existing,Household Buyer - Non-Occupier,172429.0
+A92,Drogheda,4,2024,All Dwelling Statuses,All Buyer Types,325931.0
+A92,Drogheda,4,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,333853.0
+A92,Drogheda,4,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,341203.0
+A92,Drogheda,4,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,224429.0
+A92,Drogheda,4,2024,New,All Buyer Types,399480.0
+A92,Drogheda,4,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,387135.0
+A92,Drogheda,4,2024,New,Household Buyer - Former Owner-Occupier,451837.0
+A92,Drogheda,4,2024,New,Household Buyer - Non-Occupier,355000.0
+A92,Drogheda,4,2024,Existing,All Buyer Types,292354.0
+A92,Drogheda,4,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,280571.0
+A92,Drogheda,4,2024,Existing,Household Buyer - Former Owner-Occupier,320715.0
+A92,Drogheda,4,2024,Existing,Household Buyer - Non-Occupier,172200.0
+A92,Drogheda,5,2024,All Dwelling Statuses,All Buyer Types,336896.0
+A92,Drogheda,5,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,337624.0
+A92,Drogheda,5,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,361406.0
+A92,Drogheda,5,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,201111.0
+A92,Drogheda,5,2024,New,All Buyer Types,373165.0
+A92,Drogheda,5,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,372691.0
+A92,Drogheda,5,2024,New,Household Buyer - Former Owner-Occupier,374471.0
+A92,Drogheda,5,2024,New,Household Buyer - Non-Occupier,
+A92,Drogheda,5,2024,Existing,All Buyer Types,329340.0
+A92,Drogheda,5,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,316194.0
+A92,Drogheda,5,2024,Existing,Household Buyer - Former Owner-Occupier,360244.0
+A92,Drogheda,5,2024,Existing,Household Buyer - Non-Occupier,201111.0
+A92,Drogheda,6,2024,All Dwelling Statuses,All Buyer Types,330512.0
+A92,Drogheda,6,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,351762.0
+A92,Drogheda,6,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,339324.0
+A92,Drogheda,6,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,248150.0
+A92,Drogheda,6,2024,New,All Buyer Types,390635.0
+A92,Drogheda,6,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,371502.0
+A92,Drogheda,6,2024,New,Household Buyer - Former Owner-Occupier,419333.0
+A92,Drogheda,6,2024,New,Household Buyer - Non-Occupier,
+A92,Drogheda,6,2024,Existing,All Buyer Types,314407.0
+A92,Drogheda,6,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,339071.0
+A92,Drogheda,6,2024,Existing,Household Buyer - Former Owner-Occupier,324322.0
+A92,Drogheda,6,2024,Existing,Household Buyer - Non-Occupier,248150.0
+A92,Drogheda,7,2024,All Dwelling Statuses,All Buyer Types,324605.0
+A92,Drogheda,7,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,323114.0
+A92,Drogheda,7,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,333719.0
+A92,Drogheda,7,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,249625.0
+A92,Drogheda,7,2024,New,All Buyer Types,374115.0
+A92,Drogheda,7,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,358847.0
+A92,Drogheda,7,2024,New,Household Buyer - Former Owner-Occupier,395490.0
+A92,Drogheda,7,2024,New,Household Buyer - Non-Occupier,
+A92,Drogheda,7,2024,Existing,All Buyer Types,296314.0
+A92,Drogheda,7,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,277636.0
+A92,Drogheda,7,2024,Existing,Household Buyer - Former Owner-Occupier,310841.0
+A92,Drogheda,7,2024,Existing,Household Buyer - Non-Occupier,249625.0

@@ -1,0 +1,2101 @@
+Routing Key,City,Month,Year,Dwelling Status,Type of Buyer,VALUE
+P61,Fermoy,1,2010,All Dwelling Statuses,All Buyer Types,178848.0
+P61,Fermoy,1,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,178195.0
+P61,Fermoy,1,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,1,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,179500.0
+P61,Fermoy,1,2010,New,All Buyer Types,178848.0
+P61,Fermoy,1,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,178195.0
+P61,Fermoy,1,2010,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,1,2010,New,Household Buyer - Non-Occupier,179500.0
+P61,Fermoy,1,2010,Existing,All Buyer Types,
+P61,Fermoy,1,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,1,2010,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,1,2010,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2010,All Dwelling Statuses,All Buyer Types,194663.0
+P61,Fermoy,2,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,240000.0
+P61,Fermoy,2,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,164438.0
+P61,Fermoy,2,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2010,New,All Buyer Types,247771.0
+P61,Fermoy,2,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,400000.0
+P61,Fermoy,2,2010,New,Household Buyer - Former Owner-Occupier,171657.0
+P61,Fermoy,2,2010,New,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2010,Existing,All Buyer Types,115000.0
+P61,Fermoy,2,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,80000.0
+P61,Fermoy,2,2010,Existing,Household Buyer - Former Owner-Occupier,150000.0
+P61,Fermoy,2,2010,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2010,All Dwelling Statuses,All Buyer Types,167403.0
+P61,Fermoy,3,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,198604.0
+P61,Fermoy,3,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,105000.0
+P61,Fermoy,3,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2010,New,All Buyer Types,349415.0
+P61,Fermoy,3,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,349415.0
+P61,Fermoy,3,2010,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,3,2010,New,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2010,Existing,All Buyer Types,131000.0
+P61,Fermoy,3,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,148333.0
+P61,Fermoy,3,2010,Existing,Household Buyer - Former Owner-Occupier,105000.0
+P61,Fermoy,3,2010,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2010,All Dwelling Statuses,All Buyer Types,290001.0
+P61,Fermoy,4,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,250001.0
+P61,Fermoy,4,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,330000.0
+P61,Fermoy,4,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2010,New,All Buyer Types,290001.0
+P61,Fermoy,4,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,250001.0
+P61,Fermoy,4,2010,New,Household Buyer - Former Owner-Occupier,330000.0
+P61,Fermoy,4,2010,New,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2010,Existing,All Buyer Types,
+P61,Fermoy,4,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,4,2010,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,4,2010,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,5,2010,All Dwelling Statuses,All Buyer Types,189250.0
+P61,Fermoy,5,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,237000.0
+P61,Fermoy,5,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,5,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,46000.0
+P61,Fermoy,5,2010,New,All Buyer Types,258000.0
+P61,Fermoy,5,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,258000.0
+P61,Fermoy,5,2010,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,5,2010,New,Household Buyer - Non-Occupier,
+P61,Fermoy,5,2010,Existing,All Buyer Types,120500.0
+P61,Fermoy,5,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+P61,Fermoy,5,2010,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,5,2010,Existing,Household Buyer - Non-Occupier,46000.0
+P61,Fermoy,6,2010,All Dwelling Statuses,All Buyer Types,170000.0
+P61,Fermoy,6,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,6,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,210000.0
+P61,Fermoy,6,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,130000.0
+P61,Fermoy,6,2010,New,All Buyer Types,210000.0
+P61,Fermoy,6,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,6,2010,New,Household Buyer - Former Owner-Occupier,210000.0
+P61,Fermoy,6,2010,New,Household Buyer - Non-Occupier,
+P61,Fermoy,6,2010,Existing,All Buyer Types,130000.0
+P61,Fermoy,6,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,6,2010,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,6,2010,Existing,Household Buyer - Non-Occupier,130000.0
+P61,Fermoy,7,2010,All Dwelling Statuses,All Buyer Types,258740.0
+P61,Fermoy,7,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,289567.0
+P61,Fermoy,7,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,340000.0
+P61,Fermoy,7,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,85000.0
+P61,Fermoy,7,2010,New,All Buyer Types,351850.0
+P61,Fermoy,7,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,351850.0
+P61,Fermoy,7,2010,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,7,2010,New,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2010,Existing,All Buyer Types,196667.0
+P61,Fermoy,7,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+P61,Fermoy,7,2010,Existing,Household Buyer - Former Owner-Occupier,340000.0
+P61,Fermoy,7,2010,Existing,Household Buyer - Non-Occupier,85000.0
+P61,Fermoy,8,2010,All Dwelling Statuses,All Buyer Types,186500.0
+P61,Fermoy,8,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,186500.0
+P61,Fermoy,8,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,8,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2010,New,All Buyer Types,
+P61,Fermoy,8,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,8,2010,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,8,2010,New,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2010,Existing,All Buyer Types,186500.0
+P61,Fermoy,8,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,186500.0
+P61,Fermoy,8,2010,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,8,2010,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,9,2010,All Dwelling Statuses,All Buyer Types,129492.0
+P61,Fermoy,9,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,117625.0
+P61,Fermoy,9,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,153225.0
+P61,Fermoy,9,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,9,2010,New,All Buyer Types,161738.0
+P61,Fermoy,9,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,170250.0
+P61,Fermoy,9,2010,New,Household Buyer - Former Owner-Occupier,153225.0
+P61,Fermoy,9,2010,New,Household Buyer - Non-Occupier,
+P61,Fermoy,9,2010,Existing,All Buyer Types,65000.0
+P61,Fermoy,9,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,65000.0
+P61,Fermoy,9,2010,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,9,2010,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2010,All Dwelling Statuses,All Buyer Types,148242.0
+P61,Fermoy,10,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,148242.0
+P61,Fermoy,10,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,10,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2010,New,All Buyer Types,153225.0
+P61,Fermoy,10,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,153225.0
+P61,Fermoy,10,2010,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,10,2010,New,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2010,Existing,All Buyer Types,145750.0
+P61,Fermoy,10,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,145750.0
+P61,Fermoy,10,2010,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,10,2010,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2010,All Dwelling Statuses,All Buyer Types,297370.0
+P61,Fermoy,11,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,11,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,297370.0
+P61,Fermoy,11,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2010,New,All Buyer Types,297370.0
+P61,Fermoy,11,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,11,2010,New,Household Buyer - Former Owner-Occupier,297370.0
+P61,Fermoy,11,2010,New,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2010,Existing,All Buyer Types,
+P61,Fermoy,11,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,11,2010,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,11,2010,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,12,2010,All Dwelling Statuses,All Buyer Types,222742.0
+P61,Fermoy,12,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,145113.0
+P61,Fermoy,12,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,378000.0
+P61,Fermoy,12,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,12,2010,New,All Buyer Types,145113.0
+P61,Fermoy,12,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,145113.0
+P61,Fermoy,12,2010,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,12,2010,New,Household Buyer - Non-Occupier,
+P61,Fermoy,12,2010,Existing,All Buyer Types,378000.0
+P61,Fermoy,12,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,12,2010,Existing,Household Buyer - Former Owner-Occupier,378000.0
+P61,Fermoy,12,2010,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,1,2011,All Dwelling Statuses,All Buyer Types,160000.0
+P61,Fermoy,1,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+P61,Fermoy,1,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,1,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,1,2011,New,All Buyer Types,
+P61,Fermoy,1,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,1,2011,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,1,2011,New,Household Buyer - Non-Occupier,
+P61,Fermoy,1,2011,Existing,All Buyer Types,160000.0
+P61,Fermoy,1,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+P61,Fermoy,1,2011,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,1,2011,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2011,All Dwelling Statuses,All Buyer Types,129513.0
+P61,Fermoy,2,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,171275.0
+P61,Fermoy,2,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,87750.0
+P61,Fermoy,2,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2011,New,All Buyer Types,
+P61,Fermoy,2,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,2,2011,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,2,2011,New,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2011,Existing,All Buyer Types,129513.0
+P61,Fermoy,2,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,171275.0
+P61,Fermoy,2,2011,Existing,Household Buyer - Former Owner-Occupier,87750.0
+P61,Fermoy,2,2011,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2011,All Dwelling Statuses,All Buyer Types,117250.0
+P61,Fermoy,3,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,149500.0
+P61,Fermoy,3,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,50000.0
+P61,Fermoy,3,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,102500.0
+P61,Fermoy,3,2011,New,All Buyer Types,
+P61,Fermoy,3,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,3,2011,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,3,2011,New,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2011,Existing,All Buyer Types,117250.0
+P61,Fermoy,3,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,149500.0
+P61,Fermoy,3,2011,Existing,Household Buyer - Former Owner-Occupier,50000.0
+P61,Fermoy,3,2011,Existing,Household Buyer - Non-Occupier,102500.0
+P61,Fermoy,4,2011,All Dwelling Statuses,All Buyer Types,30000.0
+P61,Fermoy,4,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,4,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,4,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,30000.0
+P61,Fermoy,4,2011,New,All Buyer Types,
+P61,Fermoy,4,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,4,2011,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,4,2011,New,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2011,Existing,All Buyer Types,30000.0
+P61,Fermoy,4,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,4,2011,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,4,2011,Existing,Household Buyer - Non-Occupier,30000.0
+P61,Fermoy,5,2011,All Dwelling Statuses,All Buyer Types,174833.0
+P61,Fermoy,5,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,173000.0
+P61,Fermoy,5,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,165000.0
+P61,Fermoy,5,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,200000.0
+P61,Fermoy,5,2011,New,All Buyer Types,214500.0
+P61,Fermoy,5,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,214500.0
+P61,Fermoy,5,2011,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,5,2011,New,Household Buyer - Non-Occupier,
+P61,Fermoy,5,2011,Existing,All Buyer Types,155000.0
+P61,Fermoy,5,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,90000.0
+P61,Fermoy,5,2011,Existing,Household Buyer - Former Owner-Occupier,165000.0
+P61,Fermoy,5,2011,Existing,Household Buyer - Non-Occupier,200000.0
+P61,Fermoy,6,2011,All Dwelling Statuses,All Buyer Types,81500.0
+P61,Fermoy,6,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,6,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,81500.0
+P61,Fermoy,6,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,6,2011,New,All Buyer Types,
+P61,Fermoy,6,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,6,2011,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,6,2011,New,Household Buyer - Non-Occupier,
+P61,Fermoy,6,2011,Existing,All Buyer Types,81500.0
+P61,Fermoy,6,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,6,2011,Existing,Household Buyer - Former Owner-Occupier,81500.0
+P61,Fermoy,6,2011,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2011,All Dwelling Statuses,All Buyer Types,130667.0
+P61,Fermoy,7,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+P61,Fermoy,7,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,7,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,72000.0
+P61,Fermoy,7,2011,New,All Buyer Types,
+P61,Fermoy,7,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,7,2011,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,7,2011,New,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2011,Existing,All Buyer Types,130667.0
+P61,Fermoy,7,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+P61,Fermoy,7,2011,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,7,2011,Existing,Household Buyer - Non-Occupier,72000.0
+P61,Fermoy,8,2011,All Dwelling Statuses,All Buyer Types,219250.0
+P61,Fermoy,8,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+P61,Fermoy,8,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,268500.0
+P61,Fermoy,8,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2011,New,All Buyer Types,
+P61,Fermoy,8,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,8,2011,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,8,2011,New,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2011,Existing,All Buyer Types,219250.0
+P61,Fermoy,8,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+P61,Fermoy,8,2011,Existing,Household Buyer - Former Owner-Occupier,268500.0
+P61,Fermoy,8,2011,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,9,2011,All Dwelling Statuses,All Buyer Types,168568.0
+P61,Fermoy,9,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,186140.0
+P61,Fermoy,9,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197000.0
+P61,Fermoy,9,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,122564.0
+P61,Fermoy,9,2011,New,All Buyer Types,154352.0
+P61,Fermoy,9,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,186140.0
+P61,Fermoy,9,2011,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,9,2011,New,Household Buyer - Non-Occupier,122564.0
+P61,Fermoy,9,2011,Existing,All Buyer Types,197000.0
+P61,Fermoy,9,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,9,2011,Existing,Household Buyer - Former Owner-Occupier,197000.0
+P61,Fermoy,9,2011,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2011,All Dwelling Statuses,All Buyer Types,142500.0
+P61,Fermoy,10,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,128333.0
+P61,Fermoy,10,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,185000.0
+P61,Fermoy,10,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2011,New,All Buyer Types,179999.0
+P61,Fermoy,10,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,179999.0
+P61,Fermoy,10,2011,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,10,2011,New,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2011,Existing,All Buyer Types,130000.0
+P61,Fermoy,10,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,102500.0
+P61,Fermoy,10,2011,Existing,Household Buyer - Former Owner-Occupier,185000.0
+P61,Fermoy,10,2011,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2011,All Dwelling Statuses,All Buyer Types,
+P61,Fermoy,11,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,11,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,11,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2011,New,All Buyer Types,
+P61,Fermoy,11,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,11,2011,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,11,2011,New,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2011,Existing,All Buyer Types,
+P61,Fermoy,11,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,11,2011,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,11,2011,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,12,2011,All Dwelling Statuses,All Buyer Types,142058.0
+P61,Fermoy,12,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,191500.0
+P61,Fermoy,12,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,130692.0
+P61,Fermoy,12,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,100000.0
+P61,Fermoy,12,2011,New,All Buyer Types,207387.0
+P61,Fermoy,12,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,227000.0
+P61,Fermoy,12,2011,New,Household Buyer - Former Owner-Occupier,197581.0
+P61,Fermoy,12,2011,New,Household Buyer - Non-Occupier,
+P61,Fermoy,12,2011,Existing,All Buyer Types,102860.0
+P61,Fermoy,12,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,156000.0
+P61,Fermoy,12,2011,Existing,Household Buyer - Former Owner-Occupier,86100.0
+P61,Fermoy,12,2011,Existing,Household Buyer - Non-Occupier,100000.0
+P61,Fermoy,1,2012,All Dwelling Statuses,All Buyer Types,223333.0
+P61,Fermoy,1,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,1,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,185000.0
+P61,Fermoy,1,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,300000.0
+P61,Fermoy,1,2012,New,All Buyer Types,
+P61,Fermoy,1,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,1,2012,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,1,2012,New,Household Buyer - Non-Occupier,
+P61,Fermoy,1,2012,Existing,All Buyer Types,223333.0
+P61,Fermoy,1,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,1,2012,Existing,Household Buyer - Former Owner-Occupier,185000.0
+P61,Fermoy,1,2012,Existing,Household Buyer - Non-Occupier,300000.0
+P61,Fermoy,2,2012,All Dwelling Statuses,All Buyer Types,85000.0
+P61,Fermoy,2,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,85000.0
+P61,Fermoy,2,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,2,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2012,New,All Buyer Types,
+P61,Fermoy,2,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,2,2012,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,2,2012,New,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2012,Existing,All Buyer Types,85000.0
+P61,Fermoy,2,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,85000.0
+P61,Fermoy,2,2012,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,2,2012,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2012,All Dwelling Statuses,All Buyer Types,92907.0
+P61,Fermoy,3,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,3,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,92907.0
+P61,Fermoy,3,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2012,New,All Buyer Types,117813.0
+P61,Fermoy,3,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,3,2012,New,Household Buyer - Former Owner-Occupier,117813.0
+P61,Fermoy,3,2012,New,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2012,Existing,All Buyer Types,68000.0
+P61,Fermoy,3,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,3,2012,Existing,Household Buyer - Former Owner-Occupier,68000.0
+P61,Fermoy,3,2012,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2012,All Dwelling Statuses,All Buyer Types,
+P61,Fermoy,4,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,4,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,4,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2012,New,All Buyer Types,
+P61,Fermoy,4,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,4,2012,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,4,2012,New,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2012,Existing,All Buyer Types,
+P61,Fermoy,4,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,4,2012,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,4,2012,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,5,2012,All Dwelling Statuses,All Buyer Types,193821.0
+P61,Fermoy,5,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,142500.0
+P61,Fermoy,5,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,219481.0
+P61,Fermoy,5,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,5,2012,New,All Buyer Types,170462.0
+P61,Fermoy,5,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,164999.0
+P61,Fermoy,5,2012,New,Household Buyer - Former Owner-Occupier,175925.0
+P61,Fermoy,5,2012,New,Household Buyer - Non-Occupier,
+P61,Fermoy,5,2012,Existing,All Buyer Types,205500.0
+P61,Fermoy,5,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+P61,Fermoy,5,2012,Existing,Household Buyer - Former Owner-Occupier,234000.0
+P61,Fermoy,5,2012,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,6,2012,All Dwelling Statuses,All Buyer Types,111800.0
+P61,Fermoy,6,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,111800.0
+P61,Fermoy,6,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,6,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,6,2012,New,All Buyer Types,
+P61,Fermoy,6,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,6,2012,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,6,2012,New,Household Buyer - Non-Occupier,
+P61,Fermoy,6,2012,Existing,All Buyer Types,111800.0
+P61,Fermoy,6,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,111800.0
+P61,Fermoy,6,2012,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,6,2012,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2012,All Dwelling Statuses,All Buyer Types,160000.0
+P61,Fermoy,7,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,7,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,160000.0
+P61,Fermoy,7,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2012,New,All Buyer Types,
+P61,Fermoy,7,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,7,2012,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,7,2012,New,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2012,Existing,All Buyer Types,160000.0
+P61,Fermoy,7,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,7,2012,Existing,Household Buyer - Former Owner-Occupier,160000.0
+P61,Fermoy,7,2012,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2012,All Dwelling Statuses,All Buyer Types,109771.0
+P61,Fermoy,8,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,114803.0
+P61,Fermoy,8,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,106417.0
+P61,Fermoy,8,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2012,New,All Buyer Types,154928.0
+P61,Fermoy,8,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,139605.0
+P61,Fermoy,8,2012,New,Household Buyer - Former Owner-Occupier,170250.0
+P61,Fermoy,8,2012,New,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2012,Existing,All Buyer Types,79667.0
+P61,Fermoy,8,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,90000.0
+P61,Fermoy,8,2012,Existing,Household Buyer - Former Owner-Occupier,74500.0
+P61,Fermoy,8,2012,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,9,2012,All Dwelling Statuses,All Buyer Types,122426.0
+P61,Fermoy,9,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165001.0
+P61,Fermoy,9,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,108667.0
+P61,Fermoy,9,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,121128.0
+P61,Fermoy,9,2012,New,All Buyer Types,143065.0
+P61,Fermoy,9,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,165001.0
+P61,Fermoy,9,2012,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,9,2012,New,Household Buyer - Non-Occupier,121128.0
+P61,Fermoy,9,2012,Existing,All Buyer Types,108667.0
+P61,Fermoy,9,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,9,2012,Existing,Household Buyer - Former Owner-Occupier,108667.0
+P61,Fermoy,9,2012,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2012,All Dwelling Statuses,All Buyer Types,117111.0
+P61,Fermoy,10,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,106200.0
+P61,Fermoy,10,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,130750.0
+P61,Fermoy,10,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2012,New,All Buyer Types,190000.0
+P61,Fermoy,10,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+P61,Fermoy,10,2012,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,10,2012,New,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2012,Existing,All Buyer Types,108000.0
+P61,Fermoy,10,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,85250.0
+P61,Fermoy,10,2012,Existing,Household Buyer - Former Owner-Occupier,130750.0
+P61,Fermoy,10,2012,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2012,All Dwelling Statuses,All Buyer Types,130114.0
+P61,Fermoy,11,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,130200.0
+P61,Fermoy,11,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,130000.0
+P61,Fermoy,11,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2012,New,All Buyer Types,90800.0
+P61,Fermoy,11,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,90800.0
+P61,Fermoy,11,2012,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,11,2012,New,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2012,Existing,All Buyer Types,136667.0
+P61,Fermoy,11,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,143333.0
+P61,Fermoy,11,2012,Existing,Household Buyer - Former Owner-Occupier,130000.0
+P61,Fermoy,11,2012,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,12,2012,All Dwelling Statuses,All Buyer Types,123750.0
+P61,Fermoy,12,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,148333.0
+P61,Fermoy,12,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,12,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,50000.0
+P61,Fermoy,12,2012,New,All Buyer Types,
+P61,Fermoy,12,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,12,2012,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,12,2012,New,Household Buyer - Non-Occupier,
+P61,Fermoy,12,2012,Existing,All Buyer Types,123750.0
+P61,Fermoy,12,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,148333.0
+P61,Fermoy,12,2012,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,12,2012,Existing,Household Buyer - Non-Occupier,50000.0
+P61,Fermoy,1,2013,All Dwelling Statuses,All Buyer Types,97000.0
+P61,Fermoy,1,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,1,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,97000.0
+P61,Fermoy,1,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,1,2013,New,All Buyer Types,
+P61,Fermoy,1,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,1,2013,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,1,2013,New,Household Buyer - Non-Occupier,
+P61,Fermoy,1,2013,Existing,All Buyer Types,97000.0
+P61,Fermoy,1,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,1,2013,Existing,Household Buyer - Former Owner-Occupier,97000.0
+P61,Fermoy,1,2013,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2013,All Dwelling Statuses,All Buyer Types,
+P61,Fermoy,2,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,2,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,2,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2013,New,All Buyer Types,
+P61,Fermoy,2,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,2,2013,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,2,2013,New,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2013,Existing,All Buyer Types,
+P61,Fermoy,2,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,2,2013,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,2,2013,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2013,All Dwelling Statuses,All Buyer Types,81333.0
+P61,Fermoy,3,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,69750.0
+P61,Fermoy,3,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,140000.0
+P61,Fermoy,3,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,69000.0
+P61,Fermoy,3,2013,New,All Buyer Types,119999.0
+P61,Fermoy,3,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,119999.0
+P61,Fermoy,3,2013,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,3,2013,New,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2013,Existing,All Buyer Types,73600.0
+P61,Fermoy,3,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,53000.0
+P61,Fermoy,3,2013,Existing,Household Buyer - Former Owner-Occupier,140000.0
+P61,Fermoy,3,2013,Existing,Household Buyer - Non-Occupier,69000.0
+P61,Fermoy,4,2013,All Dwelling Statuses,All Buyer Types,153500.0
+P61,Fermoy,4,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,172100.0
+P61,Fermoy,4,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,160000.0
+P61,Fermoy,4,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,47500.0
+P61,Fermoy,4,2013,New,All Buyer Types,190000.0
+P61,Fermoy,4,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+P61,Fermoy,4,2013,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,4,2013,New,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2013,Existing,All Buyer Types,148286.0
+P61,Fermoy,4,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,167625.0
+P61,Fermoy,4,2013,Existing,Household Buyer - Former Owner-Occupier,160000.0
+P61,Fermoy,4,2013,Existing,Household Buyer - Non-Occupier,47500.0
+P61,Fermoy,5,2013,All Dwelling Statuses,All Buyer Types,81000.0
+P61,Fermoy,5,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,5,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,5,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,81000.0
+P61,Fermoy,5,2013,New,All Buyer Types,
+P61,Fermoy,5,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,5,2013,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,5,2013,New,Household Buyer - Non-Occupier,
+P61,Fermoy,5,2013,Existing,All Buyer Types,81000.0
+P61,Fermoy,5,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,5,2013,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,5,2013,Existing,Household Buyer - Non-Occupier,81000.0
+P61,Fermoy,6,2013,All Dwelling Statuses,All Buyer Types,108750.0
+P61,Fermoy,6,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,128333.0
+P61,Fermoy,6,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,50000.0
+P61,Fermoy,6,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,6,2013,New,All Buyer Types,220000.0
+P61,Fermoy,6,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+P61,Fermoy,6,2013,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,6,2013,New,Household Buyer - Non-Occupier,
+P61,Fermoy,6,2013,Existing,All Buyer Types,71667.0
+P61,Fermoy,6,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,82500.0
+P61,Fermoy,6,2013,Existing,Household Buyer - Former Owner-Occupier,50000.0
+P61,Fermoy,6,2013,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2013,All Dwelling Statuses,All Buyer Types,150100.0
+P61,Fermoy,7,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,167667.0
+P61,Fermoy,7,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,123750.0
+P61,Fermoy,7,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2013,New,All Buyer Types,
+P61,Fermoy,7,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,7,2013,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,7,2013,New,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2013,Existing,All Buyer Types,150100.0
+P61,Fermoy,7,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,167667.0
+P61,Fermoy,7,2013,Existing,Household Buyer - Former Owner-Occupier,123750.0
+P61,Fermoy,7,2013,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2013,All Dwelling Statuses,All Buyer Types,135000.0
+P61,Fermoy,8,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,133500.0
+P61,Fermoy,8,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,136000.0
+P61,Fermoy,8,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2013,New,All Buyer Types,195000.0
+P61,Fermoy,8,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,8,2013,New,Household Buyer - Former Owner-Occupier,195000.0
+P61,Fermoy,8,2013,New,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2013,Existing,All Buyer Types,120000.0
+P61,Fermoy,8,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,133500.0
+P61,Fermoy,8,2013,Existing,Household Buyer - Former Owner-Occupier,106500.0
+P61,Fermoy,8,2013,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,9,2013,All Dwelling Statuses,All Buyer Types,152193.0
+P61,Fermoy,9,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,118750.0
+P61,Fermoy,9,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,140919.0
+P61,Fermoy,9,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,252900.0
+P61,Fermoy,9,2013,New,All Buyer Types,127500.0
+P61,Fermoy,9,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,127500.0
+P61,Fermoy,9,2013,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,9,2013,New,Household Buyer - Non-Occupier,
+P61,Fermoy,9,2013,Existing,All Buyer Types,157131.0
+P61,Fermoy,9,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+P61,Fermoy,9,2013,Existing,Household Buyer - Former Owner-Occupier,140919.0
+P61,Fermoy,9,2013,Existing,Household Buyer - Non-Occupier,252900.0
+P61,Fermoy,10,2013,All Dwelling Statuses,All Buyer Types,119196.0
+P61,Fermoy,10,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,98500.0
+P61,Fermoy,10,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,132431.0
+P61,Fermoy,10,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,127500.0
+P61,Fermoy,10,2013,New,All Buyer Types,150000.0
+P61,Fermoy,10,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+P61,Fermoy,10,2013,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,10,2013,New,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2013,Existing,All Buyer Types,116115.0
+P61,Fermoy,10,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,81333.0
+P61,Fermoy,10,2013,Existing,Household Buyer - Former Owner-Occupier,132431.0
+P61,Fermoy,10,2013,Existing,Household Buyer - Non-Occupier,127500.0
+P61,Fermoy,11,2013,All Dwelling Statuses,All Buyer Types,73000.0
+P61,Fermoy,11,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,11,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,83600.0
+P61,Fermoy,11,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,59750.0
+P61,Fermoy,11,2013,New,All Buyer Types,32499.0
+P61,Fermoy,11,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,11,2013,New,Household Buyer - Former Owner-Occupier,32499.0
+P61,Fermoy,11,2013,New,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2013,Existing,All Buyer Types,84571.0
+P61,Fermoy,11,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,11,2013,Existing,Household Buyer - Former Owner-Occupier,117667.0
+P61,Fermoy,11,2013,Existing,Household Buyer - Non-Occupier,59750.0
+P61,Fermoy,12,2013,All Dwelling Statuses,All Buyer Types,77833.0
+P61,Fermoy,12,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,94039.0
+P61,Fermoy,12,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,66667.0
+P61,Fermoy,12,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,45968.0
+P61,Fermoy,12,2013,New,All Buyer Types,45542.0
+P61,Fermoy,12,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,45117.0
+P61,Fermoy,12,2013,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,12,2013,New,Household Buyer - Non-Occupier,45968.0
+P61,Fermoy,12,2013,Existing,All Buyer Types,96286.0
+P61,Fermoy,12,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,118500.0
+P61,Fermoy,12,2013,Existing,Household Buyer - Former Owner-Occupier,66667.0
+P61,Fermoy,12,2013,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,1,2014,All Dwelling Statuses,All Buyer Types,119779.0
+P61,Fermoy,1,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,55200.0
+P61,Fermoy,1,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,193000.0
+P61,Fermoy,1,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,74525.0
+P61,Fermoy,1,2014,New,All Buyer Types,48150.0
+P61,Fermoy,1,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,55200.0
+P61,Fermoy,1,2014,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,1,2014,New,Household Buyer - Non-Occupier,34050.0
+P61,Fermoy,1,2014,Existing,All Buyer Types,173500.0
+P61,Fermoy,1,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,1,2014,Existing,Household Buyer - Former Owner-Occupier,193000.0
+P61,Fermoy,1,2014,Existing,Household Buyer - Non-Occupier,115000.0
+P61,Fermoy,2,2014,All Dwelling Statuses,All Buyer Types,56667.0
+P61,Fermoy,2,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,35000.0
+P61,Fermoy,2,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,75000.0
+P61,Fermoy,2,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,60000.0
+P61,Fermoy,2,2014,New,All Buyer Types,
+P61,Fermoy,2,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,2,2014,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,2,2014,New,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2014,Existing,All Buyer Types,56667.0
+P61,Fermoy,2,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,35000.0
+P61,Fermoy,2,2014,Existing,Household Buyer - Former Owner-Occupier,75000.0
+P61,Fermoy,2,2014,Existing,Household Buyer - Non-Occupier,60000.0
+P61,Fermoy,3,2014,All Dwelling Statuses,All Buyer Types,135667.0
+P61,Fermoy,3,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,154500.0
+P61,Fermoy,3,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,143100.0
+P61,Fermoy,3,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,42000.0
+P61,Fermoy,3,2014,New,All Buyer Types,
+P61,Fermoy,3,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,3,2014,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,3,2014,New,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2014,Existing,All Buyer Types,135667.0
+P61,Fermoy,3,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,154500.0
+P61,Fermoy,3,2014,Existing,Household Buyer - Former Owner-Occupier,143100.0
+P61,Fermoy,3,2014,Existing,Household Buyer - Non-Occupier,42000.0
+P61,Fermoy,4,2014,All Dwelling Statuses,All Buyer Types,128517.0
+P61,Fermoy,4,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,198367.0
+P61,Fermoy,4,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,58667.0
+P61,Fermoy,4,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2014,New,All Buyer Types,295100.0
+P61,Fermoy,4,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,295100.0
+P61,Fermoy,4,2014,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,4,2014,New,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2014,Existing,All Buyer Types,95200.0
+P61,Fermoy,4,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+P61,Fermoy,4,2014,Existing,Household Buyer - Former Owner-Occupier,58667.0
+P61,Fermoy,4,2014,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,5,2014,All Dwelling Statuses,All Buyer Types,110201.0
+P61,Fermoy,5,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,61000.0
+P61,Fermoy,5,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,132530.0
+P61,Fermoy,5,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,81250.0
+P61,Fermoy,5,2014,New,All Buyer Types,62425.0
+P61,Fermoy,5,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,5,2014,New,Household Buyer - Former Owner-Occupier,62425.0
+P61,Fermoy,5,2014,New,Household Buyer - Non-Occupier,
+P61,Fermoy,5,2014,Existing,All Buyer Types,114978.0
+P61,Fermoy,5,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,61000.0
+P61,Fermoy,5,2014,Existing,Household Buyer - Former Owner-Occupier,144214.0
+P61,Fermoy,5,2014,Existing,Household Buyer - Non-Occupier,81250.0
+P61,Fermoy,6,2014,All Dwelling Statuses,All Buyer Types,107921.0
+P61,Fermoy,6,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,155000.0
+P61,Fermoy,6,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,75000.0
+P61,Fermoy,6,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,97714.0
+P61,Fermoy,6,2014,New,All Buyer Types,45400.0
+P61,Fermoy,6,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,6,2014,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,6,2014,New,Household Buyer - Non-Occupier,45400.0
+P61,Fermoy,6,2014,Existing,All Buyer Types,115736.0
+P61,Fermoy,6,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,155000.0
+P61,Fermoy,6,2014,Existing,Household Buyer - Former Owner-Occupier,75000.0
+P61,Fermoy,6,2014,Existing,Household Buyer - Non-Occupier,108177.0
+P61,Fermoy,7,2014,All Dwelling Statuses,All Buyer Types,142283.0
+P61,Fermoy,7,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,122333.0
+P61,Fermoy,7,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,249700.0
+P61,Fermoy,7,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,118500.0
+P61,Fermoy,7,2014,New,All Buyer Types,249700.0
+P61,Fermoy,7,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,7,2014,New,Household Buyer - Former Owner-Occupier,249700.0
+P61,Fermoy,7,2014,New,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2014,Existing,All Buyer Types,120800.0
+P61,Fermoy,7,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,122333.0
+P61,Fermoy,7,2014,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,7,2014,Existing,Household Buyer - Non-Occupier,118500.0
+P61,Fermoy,8,2014,All Dwelling Statuses,All Buyer Types,131110.0
+P61,Fermoy,8,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,108822.0
+P61,Fermoy,8,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,150500.0
+P61,Fermoy,8,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,104925.0
+P61,Fermoy,8,2014,New,All Buyer Types,
+P61,Fermoy,8,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,8,2014,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,8,2014,New,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2014,Existing,All Buyer Types,131110.0
+P61,Fermoy,8,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,108822.0
+P61,Fermoy,8,2014,Existing,Household Buyer - Former Owner-Occupier,150500.0
+P61,Fermoy,8,2014,Existing,Household Buyer - Non-Occupier,104925.0
+P61,Fermoy,9,2014,All Dwelling Statuses,All Buyer Types,112750.0
+P61,Fermoy,9,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,104333.0
+P61,Fermoy,9,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,117800.0
+P61,Fermoy,9,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,9,2014,New,All Buyer Types,81500.0
+P61,Fermoy,9,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,81500.0
+P61,Fermoy,9,2014,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,9,2014,New,Household Buyer - Non-Occupier,
+P61,Fermoy,9,2014,Existing,All Buyer Types,117214.0
+P61,Fermoy,9,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115750.0
+P61,Fermoy,9,2014,Existing,Household Buyer - Former Owner-Occupier,117800.0
+P61,Fermoy,9,2014,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2014,All Dwelling Statuses,All Buyer Types,115846.0
+P61,Fermoy,10,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,102000.0
+P61,Fermoy,10,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,147400.0
+P61,Fermoy,10,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,90250.0
+P61,Fermoy,10,2014,New,All Buyer Types,
+P61,Fermoy,10,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,10,2014,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,10,2014,New,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2014,Existing,All Buyer Types,115846.0
+P61,Fermoy,10,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,102000.0
+P61,Fermoy,10,2014,Existing,Household Buyer - Former Owner-Occupier,147400.0
+P61,Fermoy,10,2014,Existing,Household Buyer - Non-Occupier,90250.0
+P61,Fermoy,11,2014,All Dwelling Statuses,All Buyer Types,164125.0
+P61,Fermoy,11,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+P61,Fermoy,11,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,159000.0
+P61,Fermoy,11,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2014,New,All Buyer Types,
+P61,Fermoy,11,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,11,2014,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,11,2014,New,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2014,Existing,All Buyer Types,164125.0
+P61,Fermoy,11,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+P61,Fermoy,11,2014,Existing,Household Buyer - Former Owner-Occupier,159000.0
+P61,Fermoy,11,2014,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,12,2014,All Dwelling Statuses,All Buyer Types,116978.0
+P61,Fermoy,12,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,147500.0
+P61,Fermoy,12,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,137648.0
+P61,Fermoy,12,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,94667.0
+P61,Fermoy,12,2014,New,All Buyer Types,137619.0
+P61,Fermoy,12,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,12,2014,New,Household Buyer - Former Owner-Occupier,137619.0
+P61,Fermoy,12,2014,New,Household Buyer - Non-Occupier,
+P61,Fermoy,12,2014,Existing,All Buyer Types,112850.0
+P61,Fermoy,12,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,147500.0
+P61,Fermoy,12,2014,Existing,Household Buyer - Former Owner-Occupier,137667.0
+P61,Fermoy,12,2014,Existing,Household Buyer - Non-Occupier,94667.0
+P61,Fermoy,1,2015,All Dwelling Statuses,All Buyer Types,81286.0
+P61,Fermoy,1,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,83333.0
+P61,Fermoy,1,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,105000.0
+P61,Fermoy,1,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,71333.0
+P61,Fermoy,1,2015,New,All Buyer Types,127000.0
+P61,Fermoy,1,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,127000.0
+P61,Fermoy,1,2015,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,1,2015,New,Household Buyer - Non-Occupier,
+P61,Fermoy,1,2015,Existing,All Buyer Types,73667.0
+P61,Fermoy,1,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,61500.0
+P61,Fermoy,1,2015,Existing,Household Buyer - Former Owner-Occupier,105000.0
+P61,Fermoy,1,2015,Existing,Household Buyer - Non-Occupier,71333.0
+P61,Fermoy,2,2015,All Dwelling Statuses,All Buyer Types,98875.0
+P61,Fermoy,2,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,143800.0
+P61,Fermoy,2,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,77500.0
+P61,Fermoy,2,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,58750.0
+P61,Fermoy,2,2015,New,All Buyer Types,183500.0
+P61,Fermoy,2,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,183500.0
+P61,Fermoy,2,2015,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,2,2015,New,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2015,Existing,All Buyer Types,81950.0
+P61,Fermoy,2,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,117333.0
+P61,Fermoy,2,2015,Existing,Household Buyer - Former Owner-Occupier,77500.0
+P61,Fermoy,2,2015,Existing,Household Buyer - Non-Occupier,58750.0
+P61,Fermoy,3,2015,All Dwelling Statuses,All Buyer Types,96008.0
+P61,Fermoy,3,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,68000.0
+P61,Fermoy,3,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,134024.0
+P61,Fermoy,3,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+P61,Fermoy,3,2015,New,All Buyer Types,178047.0
+P61,Fermoy,3,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,3,2015,New,Household Buyer - Former Owner-Occupier,178047.0
+P61,Fermoy,3,2015,New,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2015,Existing,All Buyer Types,79600.0
+P61,Fermoy,3,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,68000.0
+P61,Fermoy,3,2015,Existing,Household Buyer - Former Owner-Occupier,90000.0
+P61,Fermoy,3,2015,Existing,Household Buyer - Non-Occupier,80000.0
+P61,Fermoy,4,2015,All Dwelling Statuses,All Buyer Types,117559.0
+P61,Fermoy,4,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+P61,Fermoy,4,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,114306.0
+P61,Fermoy,4,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,121500.0
+P61,Fermoy,4,2015,New,All Buyer Types,144145.0
+P61,Fermoy,4,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,4,2015,New,Household Buyer - Former Owner-Occupier,144145.0
+P61,Fermoy,4,2015,New,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2015,Existing,All Buyer Types,114900.0
+P61,Fermoy,4,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+P61,Fermoy,4,2015,Existing,Household Buyer - Former Owner-Occupier,109333.0
+P61,Fermoy,4,2015,Existing,Household Buyer - Non-Occupier,121500.0
+P61,Fermoy,5,2015,All Dwelling Statuses,All Buyer Types,145807.0
+P61,Fermoy,5,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,137517.0
+P61,Fermoy,5,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,157875.0
+P61,Fermoy,5,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,99000.0
+P61,Fermoy,5,2015,New,All Buyer Types,155800.0
+P61,Fermoy,5,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,155800.0
+P61,Fermoy,5,2015,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,5,2015,New,Household Buyer - Non-Occupier,
+P61,Fermoy,5,2015,Existing,All Buyer Types,144269.0
+P61,Fermoy,5,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,128375.0
+P61,Fermoy,5,2015,Existing,Household Buyer - Former Owner-Occupier,157875.0
+P61,Fermoy,5,2015,Existing,Household Buyer - Non-Occupier,99000.0
+P61,Fermoy,6,2015,All Dwelling Statuses,All Buyer Types,120857.0
+P61,Fermoy,6,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,139000.0
+P61,Fermoy,6,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,125000.0
+P61,Fermoy,6,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,82500.0
+P61,Fermoy,6,2015,New,All Buyer Types,
+P61,Fermoy,6,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,6,2015,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,6,2015,New,Household Buyer - Non-Occupier,
+P61,Fermoy,6,2015,Existing,All Buyer Types,120857.0
+P61,Fermoy,6,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,139000.0
+P61,Fermoy,6,2015,Existing,Household Buyer - Former Owner-Occupier,125000.0
+P61,Fermoy,6,2015,Existing,Household Buyer - Non-Occupier,82500.0
+P61,Fermoy,7,2015,All Dwelling Statuses,All Buyer Types,141143.0
+P61,Fermoy,7,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,125700.0
+P61,Fermoy,7,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,149722.0
+P61,Fermoy,7,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2015,New,All Buyer Types,122500.0
+P61,Fermoy,7,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+P61,Fermoy,7,2015,New,Household Buyer - Former Owner-Occupier,85000.0
+P61,Fermoy,7,2015,New,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2015,Existing,All Buyer Types,144250.0
+P61,Fermoy,7,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,117125.0
+P61,Fermoy,7,2015,Existing,Household Buyer - Former Owner-Occupier,157813.0
+P61,Fermoy,7,2015,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2015,All Dwelling Statuses,All Buyer Types,156900.0
+P61,Fermoy,8,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,8,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,118167.0
+P61,Fermoy,8,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,215000.0
+P61,Fermoy,8,2015,New,All Buyer Types,
+P61,Fermoy,8,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,8,2015,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,8,2015,New,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2015,Existing,All Buyer Types,156900.0
+P61,Fermoy,8,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,8,2015,Existing,Household Buyer - Former Owner-Occupier,118167.0
+P61,Fermoy,8,2015,Existing,Household Buyer - Non-Occupier,215000.0
+P61,Fermoy,9,2015,All Dwelling Statuses,All Buyer Types,140929.0
+P61,Fermoy,9,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+P61,Fermoy,9,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,204767.0
+P61,Fermoy,9,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,45833.0
+P61,Fermoy,9,2015,New,All Buyer Types,182500.0
+P61,Fermoy,9,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+P61,Fermoy,9,2015,New,Household Buyer - Former Owner-Occupier,184999.0
+P61,Fermoy,9,2015,New,Household Buyer - Non-Occupier,
+P61,Fermoy,9,2015,Existing,All Buyer Types,134000.0
+P61,Fermoy,9,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+P61,Fermoy,9,2015,Existing,Household Buyer - Former Owner-Occupier,209709.0
+P61,Fermoy,9,2015,Existing,Household Buyer - Non-Occupier,45833.0
+P61,Fermoy,10,2015,All Dwelling Statuses,All Buyer Types,138393.0
+P61,Fermoy,10,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,167167.0
+P61,Fermoy,10,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,131000.0
+P61,Fermoy,10,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,126000.0
+P61,Fermoy,10,2015,New,All Buyer Types,
+P61,Fermoy,10,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,10,2015,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,10,2015,New,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2015,Existing,All Buyer Types,138393.0
+P61,Fermoy,10,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,167167.0
+P61,Fermoy,10,2015,Existing,Household Buyer - Former Owner-Occupier,131000.0
+P61,Fermoy,10,2015,Existing,Household Buyer - Non-Occupier,126000.0
+P61,Fermoy,11,2015,All Dwelling Statuses,All Buyer Types,176735.0
+P61,Fermoy,11,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+P61,Fermoy,11,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,194225.0
+P61,Fermoy,11,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,106000.0
+P61,Fermoy,11,2015,New,All Buyer Types,204175.0
+P61,Fermoy,11,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,169999.0
+P61,Fermoy,11,2015,New,Household Buyer - Former Owner-Occupier,238350.0
+P61,Fermoy,11,2015,New,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2015,Existing,All Buyer Types,169875.0
+P61,Fermoy,11,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+P61,Fermoy,11,2015,Existing,Household Buyer - Former Owner-Occupier,185400.0
+P61,Fermoy,11,2015,Existing,Household Buyer - Non-Occupier,106000.0
+P61,Fermoy,12,2015,All Dwelling Statuses,All Buyer Types,153100.0
+P61,Fermoy,12,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,146475.0
+P61,Fermoy,12,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,193867.0
+P61,Fermoy,12,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,135775.0
+P61,Fermoy,12,2015,New,All Buyer Types,198625.0
+P61,Fermoy,12,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,215650.0
+P61,Fermoy,12,2015,New,Household Buyer - Former Owner-Occupier,181600.0
+P61,Fermoy,12,2015,New,Household Buyer - Non-Occupier,181600.0
+P61,Fermoy,12,2015,Existing,All Buyer Types,136545.0
+P61,Fermoy,12,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,123417.0
+P61,Fermoy,12,2015,Existing,Household Buyer - Former Owner-Occupier,200000.0
+P61,Fermoy,12,2015,Existing,Household Buyer - Non-Occupier,120500.0
+P61,Fermoy,1,2016,All Dwelling Statuses,All Buyer Types,130925.0
+P61,Fermoy,1,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,198625.0
+P61,Fermoy,1,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,127500.0
+P61,Fermoy,1,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,100500.0
+P61,Fermoy,1,2016,New,All Buyer Types,198625.0
+P61,Fermoy,1,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,198625.0
+P61,Fermoy,1,2016,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,1,2016,New,Household Buyer - Non-Occupier,
+P61,Fermoy,1,2016,Existing,All Buyer Types,114000.0
+P61,Fermoy,1,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,1,2016,Existing,Household Buyer - Former Owner-Occupier,127500.0
+P61,Fermoy,1,2016,Existing,Household Buyer - Non-Occupier,100500.0
+P61,Fermoy,2,2016,All Dwelling Statuses,All Buyer Types,128406.0
+P61,Fermoy,2,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,198625.0
+P61,Fermoy,2,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,105000.0
+P61,Fermoy,2,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2016,New,All Buyer Types,198625.0
+P61,Fermoy,2,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,198625.0
+P61,Fermoy,2,2016,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,2,2016,New,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2016,Existing,All Buyer Types,105000.0
+P61,Fermoy,2,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,2,2016,Existing,Household Buyer - Former Owner-Occupier,105000.0
+P61,Fermoy,2,2016,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2016,All Dwelling Statuses,All Buyer Types,145125.0
+P61,Fermoy,3,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+P61,Fermoy,3,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,144750.0
+P61,Fermoy,3,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,132000.0
+P61,Fermoy,3,2016,New,All Buyer Types,
+P61,Fermoy,3,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,3,2016,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,3,2016,New,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2016,Existing,All Buyer Types,145125.0
+P61,Fermoy,3,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+P61,Fermoy,3,2016,Existing,Household Buyer - Former Owner-Occupier,144750.0
+P61,Fermoy,3,2016,Existing,Household Buyer - Non-Occupier,132000.0
+P61,Fermoy,4,2016,All Dwelling Statuses,All Buyer Types,108875.0
+P61,Fermoy,4,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,102250.0
+P61,Fermoy,4,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,95000.0
+P61,Fermoy,4,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,136000.0
+P61,Fermoy,4,2016,New,All Buyer Types,
+P61,Fermoy,4,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,4,2016,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,4,2016,New,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2016,Existing,All Buyer Types,108875.0
+P61,Fermoy,4,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,102250.0
+P61,Fermoy,4,2016,Existing,Household Buyer - Former Owner-Occupier,95000.0
+P61,Fermoy,4,2016,Existing,Household Buyer - Non-Occupier,136000.0
+P61,Fermoy,5,2016,All Dwelling Statuses,All Buyer Types,157276.0
+P61,Fermoy,5,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,142113.0
+P61,Fermoy,5,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,211997.0
+P61,Fermoy,5,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,112663.0
+P61,Fermoy,5,2016,New,All Buyer Types,153225.0
+P61,Fermoy,5,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,153225.0
+P61,Fermoy,5,2016,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,5,2016,New,Household Buyer - Non-Occupier,
+P61,Fermoy,5,2016,Existing,All Buyer Types,157854.0
+P61,Fermoy,5,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,131000.0
+P61,Fermoy,5,2016,Existing,Household Buyer - Former Owner-Occupier,211997.0
+P61,Fermoy,5,2016,Existing,Household Buyer - Non-Occupier,112663.0
+P61,Fermoy,6,2016,All Dwelling Statuses,All Buyer Types,138996.0
+P61,Fermoy,6,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,176583.0
+P61,Fermoy,6,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,72322.0
+P61,Fermoy,6,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,113500.0
+P61,Fermoy,6,2016,New,All Buyer Types,129000.0
+P61,Fermoy,6,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,144499.0
+P61,Fermoy,6,2016,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,6,2016,New,Household Buyer - Non-Occupier,113500.0
+P61,Fermoy,6,2016,Existing,All Buyer Types,141496.0
+P61,Fermoy,6,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,183000.0
+P61,Fermoy,6,2016,Existing,Household Buyer - Former Owner-Occupier,72322.0
+P61,Fermoy,6,2016,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2016,All Dwelling Statuses,All Buyer Types,187000.0
+P61,Fermoy,7,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,217500.0
+P61,Fermoy,7,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,166667.0
+P61,Fermoy,7,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2016,New,All Buyer Types,
+P61,Fermoy,7,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,7,2016,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,7,2016,New,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2016,Existing,All Buyer Types,187000.0
+P61,Fermoy,7,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,217500.0
+P61,Fermoy,7,2016,Existing,Household Buyer - Former Owner-Occupier,166667.0
+P61,Fermoy,7,2016,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2016,All Dwelling Statuses,All Buyer Types,171511.0
+P61,Fermoy,8,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,164575.0
+P61,Fermoy,8,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,190000.0
+P61,Fermoy,8,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,86000.0
+P61,Fermoy,8,2016,New,All Buyer Types,179788.0
+P61,Fermoy,8,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,164575.0
+P61,Fermoy,8,2016,New,Household Buyer - Former Owner-Occupier,195000.0
+P61,Fermoy,8,2016,New,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2016,Existing,All Buyer Types,168200.0
+P61,Fermoy,8,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,8,2016,Existing,Household Buyer - Former Owner-Occupier,188750.0
+P61,Fermoy,8,2016,Existing,Household Buyer - Non-Occupier,86000.0
+P61,Fermoy,9,2016,All Dwelling Statuses,All Buyer Types,198879.0
+P61,Fermoy,9,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,189080.0
+P61,Fermoy,9,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,192604.0
+P61,Fermoy,9,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,237300.0
+P61,Fermoy,9,2016,New,All Buyer Types,222012.0
+P61,Fermoy,9,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,197161.0
+P61,Fermoy,9,2016,New,Household Buyer - Former Owner-Occupier,198625.0
+P61,Fermoy,9,2016,New,Household Buyer - Non-Occupier,295100.0
+P61,Fermoy,9,2016,Existing,All Buyer Types,187313.0
+P61,Fermoy,9,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,181000.0
+P61,Fermoy,9,2016,Existing,Household Buyer - Former Owner-Occupier,191400.0
+P61,Fermoy,9,2016,Existing,Household Buyer - Non-Occupier,179500.0
+P61,Fermoy,10,2016,All Dwelling Statuses,All Buyer Types,185833.0
+P61,Fermoy,10,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,202833.0
+P61,Fermoy,10,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,209500.0
+P61,Fermoy,10,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,113000.0
+P61,Fermoy,10,2016,New,All Buyer Types,
+P61,Fermoy,10,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,10,2016,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,10,2016,New,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2016,Existing,All Buyer Types,185833.0
+P61,Fermoy,10,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,202833.0
+P61,Fermoy,10,2016,Existing,Household Buyer - Former Owner-Occupier,209500.0
+P61,Fermoy,10,2016,Existing,Household Buyer - Non-Occupier,113000.0
+P61,Fermoy,11,2016,All Dwelling Statuses,All Buyer Types,212292.0
+P61,Fermoy,11,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,169000.0
+P61,Fermoy,11,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,243214.0
+P61,Fermoy,11,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2016,New,All Buyer Types,195250.0
+P61,Fermoy,11,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,215000.0
+P61,Fermoy,11,2016,New,Household Buyer - Former Owner-Occupier,175499.0
+P61,Fermoy,11,2016,New,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2016,Existing,All Buyer Types,215700.0
+P61,Fermoy,11,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,157500.0
+P61,Fermoy,11,2016,Existing,Household Buyer - Former Owner-Occupier,254500.0
+P61,Fermoy,11,2016,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,12,2016,All Dwelling Statuses,All Buyer Types,183000.0
+P61,Fermoy,12,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150600.0
+P61,Fermoy,12,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,223500.0
+P61,Fermoy,12,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,12,2016,New,All Buyer Types,188999.0
+P61,Fermoy,12,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,188999.0
+P61,Fermoy,12,2016,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,12,2016,New,Household Buyer - Non-Occupier,
+P61,Fermoy,12,2016,Existing,All Buyer Types,182250.0
+P61,Fermoy,12,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,141000.0
+P61,Fermoy,12,2016,Existing,Household Buyer - Former Owner-Occupier,223500.0
+P61,Fermoy,12,2016,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,1,2017,All Dwelling Statuses,All Buyer Types,121000.0
+P61,Fermoy,1,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,151500.0
+P61,Fermoy,1,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,1,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,60000.0
+P61,Fermoy,1,2017,New,All Buyer Types,
+P61,Fermoy,1,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,1,2017,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,1,2017,New,Household Buyer - Non-Occupier,
+P61,Fermoy,1,2017,Existing,All Buyer Types,121000.0
+P61,Fermoy,1,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,151500.0
+P61,Fermoy,1,2017,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,1,2017,Existing,Household Buyer - Non-Occupier,60000.0
+P61,Fermoy,2,2017,All Dwelling Statuses,All Buyer Types,201945.0
+P61,Fermoy,2,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,320000.0
+P61,Fermoy,2,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,219333.0
+P61,Fermoy,2,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,116834.0
+P61,Fermoy,2,2017,New,All Buyer Types,
+P61,Fermoy,2,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,2,2017,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,2,2017,New,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2017,Existing,All Buyer Types,201945.0
+P61,Fermoy,2,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,320000.0
+P61,Fermoy,2,2017,Existing,Household Buyer - Former Owner-Occupier,219333.0
+P61,Fermoy,2,2017,Existing,Household Buyer - Non-Occupier,116834.0
+P61,Fermoy,3,2017,All Dwelling Statuses,All Buyer Types,183929.0
+P61,Fermoy,3,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,168833.0
+P61,Fermoy,3,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,165333.0
+P61,Fermoy,3,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,285000.0
+P61,Fermoy,3,2017,New,All Buyer Types,285000.0
+P61,Fermoy,3,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,3,2017,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,3,2017,New,Household Buyer - Non-Occupier,285000.0
+P61,Fermoy,3,2017,Existing,All Buyer Types,167083.0
+P61,Fermoy,3,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,168833.0
+P61,Fermoy,3,2017,Existing,Household Buyer - Former Owner-Occupier,165333.0
+P61,Fermoy,3,2017,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2017,All Dwelling Statuses,All Buyer Types,178250.0
+P61,Fermoy,4,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,238500.0
+P61,Fermoy,4,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,196250.0
+P61,Fermoy,4,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,82000.0
+P61,Fermoy,4,2017,New,All Buyer Types,
+P61,Fermoy,4,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,4,2017,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,4,2017,New,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2017,Existing,All Buyer Types,178250.0
+P61,Fermoy,4,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,238500.0
+P61,Fermoy,4,2017,Existing,Household Buyer - Former Owner-Occupier,196250.0
+P61,Fermoy,4,2017,Existing,Household Buyer - Non-Occupier,82000.0
+P61,Fermoy,5,2017,All Dwelling Statuses,All Buyer Types,148800.0
+P61,Fermoy,5,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+P61,Fermoy,5,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,158000.0
+P61,Fermoy,5,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,105000.0
+P61,Fermoy,5,2017,New,All Buyer Types,
+P61,Fermoy,5,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,5,2017,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,5,2017,New,Household Buyer - Non-Occupier,
+P61,Fermoy,5,2017,Existing,All Buyer Types,148800.0
+P61,Fermoy,5,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+P61,Fermoy,5,2017,Existing,Household Buyer - Former Owner-Occupier,158000.0
+P61,Fermoy,5,2017,Existing,Household Buyer - Non-Occupier,105000.0
+P61,Fermoy,6,2017,All Dwelling Statuses,All Buyer Types,129188.0
+P61,Fermoy,6,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,122833.0
+P61,Fermoy,6,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,133000.0
+P61,Fermoy,6,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,6,2017,New,All Buyer Types,70000.0
+P61,Fermoy,6,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,6,2017,New,Household Buyer - Former Owner-Occupier,70000.0
+P61,Fermoy,6,2017,New,Household Buyer - Non-Occupier,
+P61,Fermoy,6,2017,Existing,All Buyer Types,137643.0
+P61,Fermoy,6,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,122833.0
+P61,Fermoy,6,2017,Existing,Household Buyer - Former Owner-Occupier,148750.0
+P61,Fermoy,6,2017,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2017,All Dwelling Statuses,All Buyer Types,190538.0
+P61,Fermoy,7,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,173000.0
+P61,Fermoy,7,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,243200.0
+P61,Fermoy,7,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,142250.0
+P61,Fermoy,7,2017,New,All Buyer Types,195000.0
+P61,Fermoy,7,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+P61,Fermoy,7,2017,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,7,2017,New,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2017,Existing,All Buyer Types,190167.0
+P61,Fermoy,7,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165667.0
+P61,Fermoy,7,2017,Existing,Household Buyer - Former Owner-Occupier,243200.0
+P61,Fermoy,7,2017,Existing,Household Buyer - Non-Occupier,142250.0
+P61,Fermoy,8,2017,All Dwelling Statuses,All Buyer Types,151375.0
+P61,Fermoy,8,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,184500.0
+P61,Fermoy,8,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,159250.0
+P61,Fermoy,8,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,102500.0
+P61,Fermoy,8,2017,New,All Buyer Types,194999.0
+P61,Fermoy,8,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,194999.0
+P61,Fermoy,8,2017,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,8,2017,New,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2017,Existing,All Buyer Types,145143.0
+P61,Fermoy,8,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,174000.0
+P61,Fermoy,8,2017,Existing,Household Buyer - Former Owner-Occupier,159250.0
+P61,Fermoy,8,2017,Existing,Household Buyer - Non-Occupier,102500.0
+P61,Fermoy,9,2017,All Dwelling Statuses,All Buyer Types,138438.0
+P61,Fermoy,9,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,153750.0
+P61,Fermoy,9,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,131333.0
+P61,Fermoy,9,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,98500.0
+P61,Fermoy,9,2017,New,All Buyer Types,
+P61,Fermoy,9,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,9,2017,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,9,2017,New,Household Buyer - Non-Occupier,
+P61,Fermoy,9,2017,Existing,All Buyer Types,138438.0
+P61,Fermoy,9,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,153750.0
+P61,Fermoy,9,2017,Existing,Household Buyer - Former Owner-Occupier,131333.0
+P61,Fermoy,9,2017,Existing,Household Buyer - Non-Occupier,98500.0
+P61,Fermoy,10,2017,All Dwelling Statuses,All Buyer Types,143006.0
+P61,Fermoy,10,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,176144.0
+P61,Fermoy,10,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,122500.0
+P61,Fermoy,10,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,135500.0
+P61,Fermoy,10,2017,New,All Buyer Types,164787.0
+P61,Fermoy,10,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,164787.0
+P61,Fermoy,10,2017,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,10,2017,New,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2017,Existing,All Buyer Types,139045.0
+P61,Fermoy,10,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,187500.0
+P61,Fermoy,10,2017,Existing,Household Buyer - Former Owner-Occupier,122500.0
+P61,Fermoy,10,2017,Existing,Household Buyer - Non-Occupier,135500.0
+P61,Fermoy,11,2017,All Dwelling Statuses,All Buyer Types,198234.0
+P61,Fermoy,11,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,293715.0
+P61,Fermoy,11,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,176578.0
+P61,Fermoy,11,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,150000.0
+P61,Fermoy,11,2017,New,All Buyer Types,170818.0
+P61,Fermoy,11,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,187275.0
+P61,Fermoy,11,2017,New,Household Buyer - Former Owner-Occupier,154360.0
+P61,Fermoy,11,2017,New,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2017,Existing,All Buyer Types,202452.0
+P61,Fermoy,11,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,346935.0
+P61,Fermoy,11,2017,Existing,Household Buyer - Former Owner-Occupier,178800.0
+P61,Fermoy,11,2017,Existing,Household Buyer - Non-Occupier,150000.0
+P61,Fermoy,12,2017,All Dwelling Statuses,All Buyer Types,124618.0
+P61,Fermoy,12,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,209500.0
+P61,Fermoy,12,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,179000.0
+P61,Fermoy,12,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,80450.0
+P61,Fermoy,12,2017,New,All Buyer Types,
+P61,Fermoy,12,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,12,2017,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,12,2017,New,Household Buyer - Non-Occupier,
+P61,Fermoy,12,2017,Existing,All Buyer Types,124618.0
+P61,Fermoy,12,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,209500.0
+P61,Fermoy,12,2017,Existing,Household Buyer - Former Owner-Occupier,179000.0
+P61,Fermoy,12,2017,Existing,Household Buyer - Non-Occupier,80450.0
+P61,Fermoy,1,2018,All Dwelling Statuses,All Buyer Types,156714.0
+P61,Fermoy,1,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,164600.0
+P61,Fermoy,1,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,99000.0
+P61,Fermoy,1,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,175000.0
+P61,Fermoy,1,2018,New,All Buyer Types,
+P61,Fermoy,1,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,1,2018,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,1,2018,New,Household Buyer - Non-Occupier,
+P61,Fermoy,1,2018,Existing,All Buyer Types,156714.0
+P61,Fermoy,1,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,164600.0
+P61,Fermoy,1,2018,Existing,Household Buyer - Former Owner-Occupier,99000.0
+P61,Fermoy,1,2018,Existing,Household Buyer - Non-Occupier,175000.0
+P61,Fermoy,2,2018,All Dwelling Statuses,All Buyer Types,167625.0
+P61,Fermoy,2,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,176750.0
+P61,Fermoy,2,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,176000.0
+P61,Fermoy,2,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,106000.0
+P61,Fermoy,2,2018,New,All Buyer Types,
+P61,Fermoy,2,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,2,2018,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,2,2018,New,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2018,Existing,All Buyer Types,167625.0
+P61,Fermoy,2,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,176750.0
+P61,Fermoy,2,2018,Existing,Household Buyer - Former Owner-Occupier,176000.0
+P61,Fermoy,2,2018,Existing,Household Buyer - Non-Occupier,106000.0
+P61,Fermoy,3,2018,All Dwelling Statuses,All Buyer Types,189909.0
+P61,Fermoy,3,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,143638.0
+P61,Fermoy,3,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,231250.0
+P61,Fermoy,3,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,153500.0
+P61,Fermoy,3,2018,New,All Buyer Types,187275.0
+P61,Fermoy,3,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,187275.0
+P61,Fermoy,3,2018,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,3,2018,New,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2018,Existing,All Buyer Types,190286.0
+P61,Fermoy,3,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+P61,Fermoy,3,2018,Existing,Household Buyer - Former Owner-Occupier,231250.0
+P61,Fermoy,3,2018,Existing,Household Buyer - Non-Occupier,153500.0
+P61,Fermoy,4,2018,All Dwelling Statuses,All Buyer Types,147857.0
+P61,Fermoy,4,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,147500.0
+P61,Fermoy,4,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,180000.0
+P61,Fermoy,4,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,85000.0
+P61,Fermoy,4,2018,New,All Buyer Types,
+P61,Fermoy,4,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,4,2018,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,4,2018,New,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2018,Existing,All Buyer Types,147857.0
+P61,Fermoy,4,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,147500.0
+P61,Fermoy,4,2018,Existing,Household Buyer - Former Owner-Occupier,180000.0
+P61,Fermoy,4,2018,Existing,Household Buyer - Non-Occupier,85000.0
+P61,Fermoy,5,2018,All Dwelling Statuses,All Buyer Types,151854.0
+P61,Fermoy,5,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,188250.0
+P61,Fermoy,5,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,159000.0
+P61,Fermoy,5,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,43333.0
+P61,Fermoy,5,2018,New,All Buyer Types,239999.0
+P61,Fermoy,5,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,239999.0
+P61,Fermoy,5,2018,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,5,2018,New,Household Buyer - Non-Occupier,
+P61,Fermoy,5,2018,Existing,All Buyer Types,139262.0
+P61,Fermoy,5,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,136500.0
+P61,Fermoy,5,2018,Existing,Household Buyer - Former Owner-Occupier,159000.0
+P61,Fermoy,5,2018,Existing,Household Buyer - Non-Occupier,43333.0
+P61,Fermoy,6,2018,All Dwelling Statuses,All Buyer Types,242909.0
+P61,Fermoy,6,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+P61,Fermoy,6,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,270250.0
+P61,Fermoy,6,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,175000.0
+P61,Fermoy,6,2018,New,All Buyer Types,
+P61,Fermoy,6,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,6,2018,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,6,2018,New,Household Buyer - Non-Occupier,
+P61,Fermoy,6,2018,Existing,All Buyer Types,242909.0
+P61,Fermoy,6,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+P61,Fermoy,6,2018,Existing,Household Buyer - Former Owner-Occupier,270250.0
+P61,Fermoy,6,2018,Existing,Household Buyer - Non-Occupier,175000.0
+P61,Fermoy,7,2018,All Dwelling Statuses,All Buyer Types,205268.0
+P61,Fermoy,7,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,212136.0
+P61,Fermoy,7,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,193250.0
+P61,Fermoy,7,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2018,New,All Buyer Types,192950.0
+P61,Fermoy,7,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,192950.0
+P61,Fermoy,7,2018,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,7,2018,New,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2018,Existing,All Buyer Types,206500.0
+P61,Fermoy,7,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,215333.0
+P61,Fermoy,7,2018,Existing,Household Buyer - Former Owner-Occupier,193250.0
+P61,Fermoy,7,2018,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2018,All Dwelling Statuses,All Buyer Types,160458.0
+P61,Fermoy,8,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,181000.0
+P61,Fermoy,8,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,146071.0
+P61,Fermoy,8,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,180000.0
+P61,Fermoy,8,2018,New,All Buyer Types,
+P61,Fermoy,8,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,8,2018,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,8,2018,New,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2018,Existing,All Buyer Types,160458.0
+P61,Fermoy,8,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,181000.0
+P61,Fermoy,8,2018,Existing,Household Buyer - Former Owner-Occupier,146071.0
+P61,Fermoy,8,2018,Existing,Household Buyer - Non-Occupier,180000.0
+P61,Fermoy,9,2018,All Dwelling Statuses,All Buyer Types,177555.0
+P61,Fermoy,9,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,187592.0
+P61,Fermoy,9,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,162500.0
+P61,Fermoy,9,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,9,2018,New,All Buyer Types,180550.0
+P61,Fermoy,9,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,180550.0
+P61,Fermoy,9,2018,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,9,2018,New,Household Buyer - Non-Occupier,
+P61,Fermoy,9,2018,Existing,All Buyer Types,177222.0
+P61,Fermoy,9,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,189000.0
+P61,Fermoy,9,2018,Existing,Household Buyer - Former Owner-Occupier,162500.0
+P61,Fermoy,9,2018,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2018,All Dwelling Statuses,All Buyer Types,152385.0
+P61,Fermoy,10,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,177667.0
+P61,Fermoy,10,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,125656.0
+P61,Fermoy,10,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,130000.0
+P61,Fermoy,10,2018,New,All Buyer Types,132562.0
+P61,Fermoy,10,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,179999.0
+P61,Fermoy,10,2018,New,Household Buyer - Former Owner-Occupier,85125.0
+P61,Fermoy,10,2018,New,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2018,Existing,All Buyer Types,156350.0
+P61,Fermoy,10,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,177200.0
+P61,Fermoy,10,2018,Existing,Household Buyer - Former Owner-Occupier,139167.0
+P61,Fermoy,10,2018,Existing,Household Buyer - Non-Occupier,130000.0
+P61,Fermoy,11,2018,All Dwelling Statuses,All Buyer Types,156674.0
+P61,Fermoy,11,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,175667.0
+P61,Fermoy,11,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,188400.0
+P61,Fermoy,11,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,95071.0
+P61,Fermoy,11,2018,New,All Buyer Types,
+P61,Fermoy,11,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,11,2018,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,11,2018,New,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2018,Existing,All Buyer Types,156674.0
+P61,Fermoy,11,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,175667.0
+P61,Fermoy,11,2018,Existing,Household Buyer - Former Owner-Occupier,188400.0
+P61,Fermoy,11,2018,Existing,Household Buyer - Non-Occupier,95071.0
+P61,Fermoy,12,2018,All Dwelling Statuses,All Buyer Types,133250.0
+P61,Fermoy,12,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,181333.0
+P61,Fermoy,12,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,133500.0
+P61,Fermoy,12,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,85000.0
+P61,Fermoy,12,2018,New,All Buyer Types,
+P61,Fermoy,12,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,12,2018,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,12,2018,New,Household Buyer - Non-Occupier,
+P61,Fermoy,12,2018,Existing,All Buyer Types,133250.0
+P61,Fermoy,12,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,181333.0
+P61,Fermoy,12,2018,Existing,Household Buyer - Former Owner-Occupier,133500.0
+P61,Fermoy,12,2018,Existing,Household Buyer - Non-Occupier,85000.0
+P61,Fermoy,1,2019,All Dwelling Statuses,All Buyer Types,259875.0
+P61,Fermoy,1,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,308500.0
+P61,Fermoy,1,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,263200.0
+P61,Fermoy,1,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,146000.0
+P61,Fermoy,1,2019,New,All Buyer Types,
+P61,Fermoy,1,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,1,2019,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,1,2019,New,Household Buyer - Non-Occupier,
+P61,Fermoy,1,2019,Existing,All Buyer Types,259875.0
+P61,Fermoy,1,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,308500.0
+P61,Fermoy,1,2019,Existing,Household Buyer - Former Owner-Occupier,263200.0
+P61,Fermoy,1,2019,Existing,Household Buyer - Non-Occupier,146000.0
+P61,Fermoy,2,2019,All Dwelling Statuses,All Buyer Types,185300.0
+P61,Fermoy,2,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+P61,Fermoy,2,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,182167.0
+P61,Fermoy,2,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2019,New,All Buyer Types,
+P61,Fermoy,2,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,2,2019,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,2,2019,New,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2019,Existing,All Buyer Types,185300.0
+P61,Fermoy,2,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+P61,Fermoy,2,2019,Existing,Household Buyer - Former Owner-Occupier,182167.0
+P61,Fermoy,2,2019,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2019,All Dwelling Statuses,All Buyer Types,61222.0
+P61,Fermoy,3,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,3,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,115333.0
+P61,Fermoy,3,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,34167.0
+P61,Fermoy,3,2019,New,All Buyer Types,
+P61,Fermoy,3,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,3,2019,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,3,2019,New,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2019,Existing,All Buyer Types,61222.0
+P61,Fermoy,3,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,3,2019,Existing,Household Buyer - Former Owner-Occupier,115333.0
+P61,Fermoy,3,2019,Existing,Household Buyer - Non-Occupier,34167.0
+P61,Fermoy,4,2019,All Dwelling Statuses,All Buyer Types,152846.0
+P61,Fermoy,4,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,171750.0
+P61,Fermoy,4,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,193333.0
+P61,Fermoy,4,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,46667.0
+P61,Fermoy,4,2019,New,All Buyer Types,
+P61,Fermoy,4,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,4,2019,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,4,2019,New,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2019,Existing,All Buyer Types,152846.0
+P61,Fermoy,4,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,171750.0
+P61,Fermoy,4,2019,Existing,Household Buyer - Former Owner-Occupier,193333.0
+P61,Fermoy,4,2019,Existing,Household Buyer - Non-Occupier,46667.0
+P61,Fermoy,5,2019,All Dwelling Statuses,All Buyer Types,156800.0
+P61,Fermoy,5,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,151000.0
+P61,Fermoy,5,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,151000.0
+P61,Fermoy,5,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,180000.0
+P61,Fermoy,5,2019,New,All Buyer Types,
+P61,Fermoy,5,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,5,2019,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,5,2019,New,Household Buyer - Non-Occupier,
+P61,Fermoy,5,2019,Existing,All Buyer Types,156800.0
+P61,Fermoy,5,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,151000.0
+P61,Fermoy,5,2019,Existing,Household Buyer - Former Owner-Occupier,151000.0
+P61,Fermoy,5,2019,Existing,Household Buyer - Non-Occupier,180000.0
+P61,Fermoy,6,2019,All Dwelling Statuses,All Buyer Types,195800.0
+P61,Fermoy,6,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,178625.0
+P61,Fermoy,6,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,210375.0
+P61,Fermoy,6,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,179833.0
+P61,Fermoy,6,2019,New,All Buyer Types,
+P61,Fermoy,6,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,6,2019,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,6,2019,New,Household Buyer - Non-Occupier,
+P61,Fermoy,6,2019,Existing,All Buyer Types,195800.0
+P61,Fermoy,6,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,178625.0
+P61,Fermoy,6,2019,Existing,Household Buyer - Former Owner-Occupier,210375.0
+P61,Fermoy,6,2019,Existing,Household Buyer - Non-Occupier,179833.0
+P61,Fermoy,7,2019,All Dwelling Statuses,All Buyer Types,158254.0
+P61,Fermoy,7,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,144500.0
+P61,Fermoy,7,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,205250.0
+P61,Fermoy,7,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,128909.0
+P61,Fermoy,7,2019,New,All Buyer Types,189545.0
+P61,Fermoy,7,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,7,2019,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,7,2019,New,Household Buyer - Non-Occupier,189545.0
+P61,Fermoy,7,2019,Existing,All Buyer Types,155409.0
+P61,Fermoy,7,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,144500.0
+P61,Fermoy,7,2019,Existing,Household Buyer - Former Owner-Occupier,205250.0
+P61,Fermoy,7,2019,Existing,Household Buyer - Non-Occupier,113750.0
+P61,Fermoy,8,2019,All Dwelling Statuses,All Buyer Types,180333.0
+P61,Fermoy,8,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,174667.0
+P61,Fermoy,8,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,191000.0
+P61,Fermoy,8,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,176000.0
+P61,Fermoy,8,2019,New,All Buyer Types,
+P61,Fermoy,8,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,8,2019,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,8,2019,New,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2019,Existing,All Buyer Types,180333.0
+P61,Fermoy,8,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,174667.0
+P61,Fermoy,8,2019,Existing,Household Buyer - Former Owner-Occupier,191000.0
+P61,Fermoy,8,2019,Existing,Household Buyer - Non-Occupier,176000.0
+P61,Fermoy,9,2019,All Dwelling Statuses,All Buyer Types,165618.0
+P61,Fermoy,9,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,167500.0
+P61,Fermoy,9,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,185167.0
+P61,Fermoy,9,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,86167.0
+P61,Fermoy,9,2019,New,All Buyer Types,
+P61,Fermoy,9,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,9,2019,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,9,2019,New,Household Buyer - Non-Occupier,
+P61,Fermoy,9,2019,Existing,All Buyer Types,165618.0
+P61,Fermoy,9,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,167500.0
+P61,Fermoy,9,2019,Existing,Household Buyer - Former Owner-Occupier,185167.0
+P61,Fermoy,9,2019,Existing,Household Buyer - Non-Occupier,86167.0
+P61,Fermoy,10,2019,All Dwelling Statuses,All Buyer Types,227651.0
+P61,Fermoy,10,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,179000.0
+P61,Fermoy,10,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,265898.0
+P61,Fermoy,10,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,147500.0
+P61,Fermoy,10,2019,New,All Buyer Types,482375.0
+P61,Fermoy,10,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,10,2019,New,Household Buyer - Former Owner-Occupier,482375.0
+P61,Fermoy,10,2019,New,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2019,Existing,All Buyer Types,213500.0
+P61,Fermoy,10,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,179000.0
+P61,Fermoy,10,2019,Existing,Household Buyer - Former Owner-Occupier,244250.0
+P61,Fermoy,10,2019,Existing,Household Buyer - Non-Occupier,147500.0
+P61,Fermoy,11,2019,All Dwelling Statuses,All Buyer Types,215164.0
+P61,Fermoy,11,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,168267.0
+P61,Fermoy,11,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,243667.0
+P61,Fermoy,11,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,200000.0
+P61,Fermoy,11,2019,New,All Buyer Types,
+P61,Fermoy,11,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,11,2019,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,11,2019,New,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2019,Existing,All Buyer Types,215164.0
+P61,Fermoy,11,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,168267.0
+P61,Fermoy,11,2019,Existing,Household Buyer - Former Owner-Occupier,243667.0
+P61,Fermoy,11,2019,Existing,Household Buyer - Non-Occupier,200000.0
+P61,Fermoy,12,2019,All Dwelling Statuses,All Buyer Types,176585.0
+P61,Fermoy,12,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,189319.0
+P61,Fermoy,12,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,179905.0
+P61,Fermoy,12,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,139500.0
+P61,Fermoy,12,2019,New,All Buyer Types,176137.0
+P61,Fermoy,12,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,176137.0
+P61,Fermoy,12,2019,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,12,2019,New,Household Buyer - Non-Occupier,
+P61,Fermoy,12,2019,Existing,All Buyer Types,176667.0
+P61,Fermoy,12,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,202500.0
+P61,Fermoy,12,2019,Existing,Household Buyer - Former Owner-Occupier,179905.0
+P61,Fermoy,12,2019,Existing,Household Buyer - Non-Occupier,139500.0
+P61,Fermoy,1,2020,All Dwelling Statuses,All Buyer Types,159333.0
+P61,Fermoy,1,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+P61,Fermoy,1,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,110000.0
+P61,Fermoy,1,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,193000.0
+P61,Fermoy,1,2020,New,All Buyer Types,
+P61,Fermoy,1,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,1,2020,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,1,2020,New,Household Buyer - Non-Occupier,
+P61,Fermoy,1,2020,Existing,All Buyer Types,159333.0
+P61,Fermoy,1,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+P61,Fermoy,1,2020,Existing,Household Buyer - Former Owner-Occupier,110000.0
+P61,Fermoy,1,2020,Existing,Household Buyer - Non-Occupier,193000.0
+P61,Fermoy,2,2020,All Dwelling Statuses,All Buyer Types,247735.0
+P61,Fermoy,2,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,239528.0
+P61,Fermoy,2,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,292300.0
+P61,Fermoy,2,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,181667.0
+P61,Fermoy,2,2020,New,All Buyer Types,325041.0
+P61,Fermoy,2,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,328583.0
+P61,Fermoy,2,2020,New,Household Buyer - Former Owner-Occupier,321500.0
+P61,Fermoy,2,2020,New,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2020,Existing,All Buyer Types,230556.0
+P61,Fermoy,2,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+P61,Fermoy,2,2020,Existing,Household Buyer - Former Owner-Occupier,285000.0
+P61,Fermoy,2,2020,Existing,Household Buyer - Non-Occupier,181667.0
+P61,Fermoy,3,2020,All Dwelling Statuses,All Buyer Types,147718.0
+P61,Fermoy,3,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+P61,Fermoy,3,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,158817.0
+P61,Fermoy,3,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,94000.0
+P61,Fermoy,3,2020,New,All Buyer Types,182967.0
+P61,Fermoy,3,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+P61,Fermoy,3,2020,New,Household Buyer - Former Owner-Occupier,158900.0
+P61,Fermoy,3,2020,New,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2020,Existing,All Buyer Types,134500.0
+P61,Fermoy,3,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,3,2020,Existing,Household Buyer - Former Owner-Occupier,158800.0
+P61,Fermoy,3,2020,Existing,Household Buyer - Non-Occupier,94000.0
+P61,Fermoy,4,2020,All Dwelling Statuses,All Buyer Types,175389.0
+P61,Fermoy,4,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,171000.0
+P61,Fermoy,4,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178900.0
+P61,Fermoy,4,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2020,New,All Buyer Types,
+P61,Fermoy,4,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,4,2020,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,4,2020,New,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2020,Existing,All Buyer Types,175389.0
+P61,Fermoy,4,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,171000.0
+P61,Fermoy,4,2020,Existing,Household Buyer - Former Owner-Occupier,178900.0
+P61,Fermoy,4,2020,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,5,2020,All Dwelling Statuses,All Buyer Types,193125.0
+P61,Fermoy,5,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,209500.0
+P61,Fermoy,5,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,275000.0
+P61,Fermoy,5,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,78500.0
+P61,Fermoy,5,2020,New,All Buyer Types,
+P61,Fermoy,5,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,5,2020,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,5,2020,New,Household Buyer - Non-Occupier,
+P61,Fermoy,5,2020,Existing,All Buyer Types,193125.0
+P61,Fermoy,5,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,209500.0
+P61,Fermoy,5,2020,Existing,Household Buyer - Former Owner-Occupier,275000.0
+P61,Fermoy,5,2020,Existing,Household Buyer - Non-Occupier,78500.0
+P61,Fermoy,6,2020,All Dwelling Statuses,All Buyer Types,239823.0
+P61,Fermoy,6,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,216900.0
+P61,Fermoy,6,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,262745.0
+P61,Fermoy,6,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,6,2020,New,All Buyer Types,374550.0
+P61,Fermoy,6,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,6,2020,New,Household Buyer - Former Owner-Occupier,374550.0
+P61,Fermoy,6,2020,New,Household Buyer - Non-Occupier,
+P61,Fermoy,6,2020,Existing,All Buyer Types,224853.0
+P61,Fermoy,6,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,216900.0
+P61,Fermoy,6,2020,Existing,Household Buyer - Former Owner-Occupier,234794.0
+P61,Fermoy,6,2020,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2020,All Dwelling Statuses,All Buyer Types,295000.0
+P61,Fermoy,7,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,286250.0
+P61,Fermoy,7,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,330000.0
+P61,Fermoy,7,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2020,New,All Buyer Types,330000.0
+P61,Fermoy,7,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,330000.0
+P61,Fermoy,7,2020,New,Household Buyer - Former Owner-Occupier,330000.0
+P61,Fermoy,7,2020,New,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2020,Existing,All Buyer Types,271667.0
+P61,Fermoy,7,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,271667.0
+P61,Fermoy,7,2020,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,7,2020,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2020,All Dwelling Statuses,All Buyer Types,238722.0
+P61,Fermoy,8,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,213667.0
+P61,Fermoy,8,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,292625.0
+P61,Fermoy,8,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,168500.0
+P61,Fermoy,8,2020,New,All Buyer Types,175000.0
+P61,Fermoy,8,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+P61,Fermoy,8,2020,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,8,2020,New,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2020,Existing,All Buyer Types,246688.0
+P61,Fermoy,8,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,233000.0
+P61,Fermoy,8,2020,Existing,Household Buyer - Former Owner-Occupier,292625.0
+P61,Fermoy,8,2020,Existing,Household Buyer - Non-Occupier,168500.0
+P61,Fermoy,9,2020,All Dwelling Statuses,All Buyer Types,172778.0
+P61,Fermoy,9,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,196250.0
+P61,Fermoy,9,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,191000.0
+P61,Fermoy,9,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,98500.0
+P61,Fermoy,9,2020,New,All Buyer Types,
+P61,Fermoy,9,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,9,2020,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,9,2020,New,Household Buyer - Non-Occupier,
+P61,Fermoy,9,2020,Existing,All Buyer Types,172778.0
+P61,Fermoy,9,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,196250.0
+P61,Fermoy,9,2020,Existing,Household Buyer - Former Owner-Occupier,191000.0
+P61,Fermoy,9,2020,Existing,Household Buyer - Non-Occupier,98500.0
+P61,Fermoy,10,2020,All Dwelling Statuses,All Buyer Types,206750.0
+P61,Fermoy,10,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,200750.0
+P61,Fermoy,10,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,258167.0
+P61,Fermoy,10,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,163333.0
+P61,Fermoy,10,2020,New,All Buyer Types,420500.0
+P61,Fermoy,10,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,10,2020,New,Household Buyer - Former Owner-Occupier,420500.0
+P61,Fermoy,10,2020,New,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2020,Existing,All Buyer Types,183000.0
+P61,Fermoy,10,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,200750.0
+P61,Fermoy,10,2020,Existing,Household Buyer - Former Owner-Occupier,177000.0
+P61,Fermoy,10,2020,Existing,Household Buyer - Non-Occupier,163333.0
+P61,Fermoy,11,2020,All Dwelling Statuses,All Buyer Types,194400.0
+P61,Fermoy,11,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,187125.0
+P61,Fermoy,11,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,220167.0
+P61,Fermoy,11,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,178333.0
+P61,Fermoy,11,2020,New,All Buyer Types,
+P61,Fermoy,11,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,11,2020,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,11,2020,New,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2020,Existing,All Buyer Types,194400.0
+P61,Fermoy,11,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,187125.0
+P61,Fermoy,11,2020,Existing,Household Buyer - Former Owner-Occupier,220167.0
+P61,Fermoy,11,2020,Existing,Household Buyer - Non-Occupier,178333.0
+P61,Fermoy,12,2020,All Dwelling Statuses,All Buyer Types,213364.0
+P61,Fermoy,12,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210200.0
+P61,Fermoy,12,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,250000.0
+P61,Fermoy,12,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,46000.0
+P61,Fermoy,12,2020,New,All Buyer Types,
+P61,Fermoy,12,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,12,2020,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,12,2020,New,Household Buyer - Non-Occupier,
+P61,Fermoy,12,2020,Existing,All Buyer Types,213364.0
+P61,Fermoy,12,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210200.0
+P61,Fermoy,12,2020,Existing,Household Buyer - Former Owner-Occupier,250000.0
+P61,Fermoy,12,2020,Existing,Household Buyer - Non-Occupier,46000.0
+P61,Fermoy,1,2021,All Dwelling Statuses,All Buyer Types,257245.0
+P61,Fermoy,1,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,197333.0
+P61,Fermoy,1,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,279712.0
+P61,Fermoy,1,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,1,2021,New,All Buyer Types,346791.0
+P61,Fermoy,1,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,1,2021,New,Household Buyer - Former Owner-Occupier,346791.0
+P61,Fermoy,1,2021,New,Household Buyer - Non-Occupier,
+P61,Fermoy,1,2021,Existing,All Buyer Types,237346.0
+P61,Fermoy,1,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,197333.0
+P61,Fermoy,1,2021,Existing,Household Buyer - Former Owner-Occupier,257352.0
+P61,Fermoy,1,2021,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2021,All Dwelling Statuses,All Buyer Types,165231.0
+P61,Fermoy,2,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,197000.0
+P61,Fermoy,2,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,143800.0
+P61,Fermoy,2,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,50000.0
+P61,Fermoy,2,2021,New,All Buyer Types,
+P61,Fermoy,2,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,2,2021,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,2,2021,New,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2021,Existing,All Buyer Types,165231.0
+P61,Fermoy,2,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,197000.0
+P61,Fermoy,2,2021,Existing,Household Buyer - Former Owner-Occupier,143800.0
+P61,Fermoy,2,2021,Existing,Household Buyer - Non-Occupier,50000.0
+P61,Fermoy,3,2021,All Dwelling Statuses,All Buyer Types,210844.0
+P61,Fermoy,3,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,211062.0
+P61,Fermoy,3,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,221429.0
+P61,Fermoy,3,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,135000.0
+P61,Fermoy,3,2021,New,All Buyer Types,249166.0
+P61,Fermoy,3,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,208749.0
+P61,Fermoy,3,2021,New,Household Buyer - Former Owner-Occupier,330000.0
+P61,Fermoy,3,2021,New,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2021,Existing,All Buyer Types,202000.0
+P61,Fermoy,3,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,211833.0
+P61,Fermoy,3,2021,Existing,Household Buyer - Former Owner-Occupier,203333.0
+P61,Fermoy,3,2021,Existing,Household Buyer - Non-Occupier,135000.0
+P61,Fermoy,4,2021,All Dwelling Statuses,All Buyer Types,227167.0
+P61,Fermoy,4,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,246000.0
+P61,Fermoy,4,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,375000.0
+P61,Fermoy,4,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,125000.0
+P61,Fermoy,4,2021,New,All Buyer Types,
+P61,Fermoy,4,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,4,2021,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,4,2021,New,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2021,Existing,All Buyer Types,227167.0
+P61,Fermoy,4,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,246000.0
+P61,Fermoy,4,2021,Existing,Household Buyer - Former Owner-Occupier,375000.0
+P61,Fermoy,4,2021,Existing,Household Buyer - Non-Occupier,125000.0
+P61,Fermoy,5,2021,All Dwelling Statuses,All Buyer Types,207679.0
+P61,Fermoy,5,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,237583.0
+P61,Fermoy,5,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,205000.0
+P61,Fermoy,5,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,126000.0
+P61,Fermoy,5,2021,New,All Buyer Types,350000.0
+P61,Fermoy,5,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,350000.0
+P61,Fermoy,5,2021,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,5,2021,New,Household Buyer - Non-Occupier,
+P61,Fermoy,5,2021,Existing,All Buyer Types,196731.0
+P61,Fermoy,5,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,215100.0
+P61,Fermoy,5,2021,Existing,Household Buyer - Former Owner-Occupier,205000.0
+P61,Fermoy,5,2021,Existing,Household Buyer - Non-Occupier,126000.0
+P61,Fermoy,6,2021,All Dwelling Statuses,All Buyer Types,211429.0
+P61,Fermoy,6,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,227500.0
+P61,Fermoy,6,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,193250.0
+P61,Fermoy,6,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,252000.0
+P61,Fermoy,6,2021,New,All Buyer Types,
+P61,Fermoy,6,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,6,2021,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,6,2021,New,Household Buyer - Non-Occupier,
+P61,Fermoy,6,2021,Existing,All Buyer Types,211429.0
+P61,Fermoy,6,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,227500.0
+P61,Fermoy,6,2021,Existing,Household Buyer - Former Owner-Occupier,193250.0
+P61,Fermoy,6,2021,Existing,Household Buyer - Non-Occupier,252000.0
+P61,Fermoy,7,2021,All Dwelling Statuses,All Buyer Types,236409.0
+P61,Fermoy,7,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,185000.0
+P61,Fermoy,7,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,247833.0
+P61,Fermoy,7,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2021,New,All Buyer Types,390000.0
+P61,Fermoy,7,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,7,2021,New,Household Buyer - Former Owner-Occupier,390000.0
+P61,Fermoy,7,2021,New,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2021,Existing,All Buyer Types,202278.0
+P61,Fermoy,7,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,185000.0
+P61,Fermoy,7,2021,Existing,Household Buyer - Former Owner-Occupier,207214.0
+P61,Fermoy,7,2021,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2021,All Dwelling Statuses,All Buyer Types,225955.0
+P61,Fermoy,8,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,257250.0
+P61,Fermoy,8,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,230300.0
+P61,Fermoy,8,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,152500.0
+P61,Fermoy,8,2021,New,All Buyer Types,
+P61,Fermoy,8,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,8,2021,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,8,2021,New,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2021,Existing,All Buyer Types,225955.0
+P61,Fermoy,8,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,257250.0
+P61,Fermoy,8,2021,Existing,Household Buyer - Former Owner-Occupier,230300.0
+P61,Fermoy,8,2021,Existing,Household Buyer - Non-Occupier,152500.0
+P61,Fermoy,9,2021,All Dwelling Statuses,All Buyer Types,202333.0
+P61,Fermoy,9,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,187000.0
+P61,Fermoy,9,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,223250.0
+P61,Fermoy,9,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,200000.0
+P61,Fermoy,9,2021,New,All Buyer Types,
+P61,Fermoy,9,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,9,2021,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,9,2021,New,Household Buyer - Non-Occupier,
+P61,Fermoy,9,2021,Existing,All Buyer Types,202333.0
+P61,Fermoy,9,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,187000.0
+P61,Fermoy,9,2021,Existing,Household Buyer - Former Owner-Occupier,223250.0
+P61,Fermoy,9,2021,Existing,Household Buyer - Non-Occupier,200000.0
+P61,Fermoy,10,2021,All Dwelling Statuses,All Buyer Types,236000.0
+P61,Fermoy,10,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,231667.0
+P61,Fermoy,10,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,245000.0
+P61,Fermoy,10,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,190000.0
+P61,Fermoy,10,2021,New,All Buyer Types,
+P61,Fermoy,10,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,10,2021,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,10,2021,New,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2021,Existing,All Buyer Types,236000.0
+P61,Fermoy,10,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,231667.0
+P61,Fermoy,10,2021,Existing,Household Buyer - Former Owner-Occupier,245000.0
+P61,Fermoy,10,2021,Existing,Household Buyer - Non-Occupier,190000.0
+P61,Fermoy,11,2021,All Dwelling Statuses,All Buyer Types,189885.0
+P61,Fermoy,11,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,198143.0
+P61,Fermoy,11,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,204125.0
+P61,Fermoy,11,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,132500.0
+P61,Fermoy,11,2021,New,All Buyer Types,
+P61,Fermoy,11,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,11,2021,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,11,2021,New,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2021,Existing,All Buyer Types,189885.0
+P61,Fermoy,11,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,198143.0
+P61,Fermoy,11,2021,Existing,Household Buyer - Former Owner-Occupier,204125.0
+P61,Fermoy,11,2021,Existing,Household Buyer - Non-Occupier,132500.0
+P61,Fermoy,12,2021,All Dwelling Statuses,All Buyer Types,281950.0
+P61,Fermoy,12,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,253512.0
+P61,Fermoy,12,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,288214.0
+P61,Fermoy,12,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,308000.0
+P61,Fermoy,12,2021,New,All Buyer Types,334050.0
+P61,Fermoy,12,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,334050.0
+P61,Fermoy,12,2021,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,12,2021,New,Household Buyer - Non-Occupier,
+P61,Fermoy,12,2021,Existing,All Buyer Types,279056.0
+P61,Fermoy,12,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,226667.0
+P61,Fermoy,12,2021,Existing,Household Buyer - Former Owner-Occupier,288214.0
+P61,Fermoy,12,2021,Existing,Household Buyer - Non-Occupier,308000.0
+P61,Fermoy,1,2022,All Dwelling Statuses,All Buyer Types,95667.0
+P61,Fermoy,1,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,95667.0
+P61,Fermoy,1,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,1,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,1,2022,New,All Buyer Types,
+P61,Fermoy,1,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,1,2022,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,1,2022,New,Household Buyer - Non-Occupier,
+P61,Fermoy,1,2022,Existing,All Buyer Types,95667.0
+P61,Fermoy,1,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,95667.0
+P61,Fermoy,1,2022,Existing,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,1,2022,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2022,All Dwelling Statuses,All Buyer Types,243875.0
+P61,Fermoy,2,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+P61,Fermoy,2,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,223667.0
+P61,Fermoy,2,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,100000.0
+P61,Fermoy,2,2022,New,All Buyer Types,465000.0
+P61,Fermoy,2,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,465000.0
+P61,Fermoy,2,2022,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,2,2022,New,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2022,Existing,All Buyer Types,212286.0
+P61,Fermoy,2,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,238333.0
+P61,Fermoy,2,2022,Existing,Household Buyer - Former Owner-Occupier,223667.0
+P61,Fermoy,2,2022,Existing,Household Buyer - Non-Occupier,100000.0
+P61,Fermoy,3,2022,All Dwelling Statuses,All Buyer Types,537417.0
+P61,Fermoy,3,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,270000.0
+P61,Fermoy,3,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,543250.0
+P61,Fermoy,3,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,781500.0
+P61,Fermoy,3,2022,New,All Buyer Types,
+P61,Fermoy,3,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,3,2022,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,3,2022,New,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2022,Existing,All Buyer Types,537417.0
+P61,Fermoy,3,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,270000.0
+P61,Fermoy,3,2022,Existing,Household Buyer - Former Owner-Occupier,543250.0
+P61,Fermoy,3,2022,Existing,Household Buyer - Non-Occupier,781500.0
+P61,Fermoy,4,2022,All Dwelling Statuses,All Buyer Types,311042.0
+P61,Fermoy,4,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,176250.0
+P61,Fermoy,4,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,331111.0
+P61,Fermoy,4,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,400000.0
+P61,Fermoy,4,2022,New,All Buyer Types,495000.0
+P61,Fermoy,4,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,4,2022,New,Household Buyer - Former Owner-Occupier,495000.0
+P61,Fermoy,4,2022,New,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2022,Existing,All Buyer Types,294318.0
+P61,Fermoy,4,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,176250.0
+P61,Fermoy,4,2022,Existing,Household Buyer - Former Owner-Occupier,310625.0
+P61,Fermoy,4,2022,Existing,Household Buyer - Non-Occupier,400000.0
+P61,Fermoy,5,2022,All Dwelling Statuses,All Buyer Types,171327.0
+P61,Fermoy,5,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,171667.0
+P61,Fermoy,5,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,195833.0
+P61,Fermoy,5,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,134313.0
+P61,Fermoy,5,2022,New,All Buyer Types,
+P61,Fermoy,5,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,5,2022,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,5,2022,New,Household Buyer - Non-Occupier,
+P61,Fermoy,5,2022,Existing,All Buyer Types,171327.0
+P61,Fermoy,5,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,171667.0
+P61,Fermoy,5,2022,Existing,Household Buyer - Former Owner-Occupier,195833.0
+P61,Fermoy,5,2022,Existing,Household Buyer - Non-Occupier,134313.0
+P61,Fermoy,6,2022,All Dwelling Statuses,All Buyer Types,264364.0
+P61,Fermoy,6,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,328000.0
+P61,Fermoy,6,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,233600.0
+P61,Fermoy,6,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,100000.0
+P61,Fermoy,6,2022,New,All Buyer Types,
+P61,Fermoy,6,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,6,2022,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,6,2022,New,Household Buyer - Non-Occupier,
+P61,Fermoy,6,2022,Existing,All Buyer Types,264364.0
+P61,Fermoy,6,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,328000.0
+P61,Fermoy,6,2022,Existing,Household Buyer - Former Owner-Occupier,233600.0
+P61,Fermoy,6,2022,Existing,Household Buyer - Non-Occupier,100000.0
+P61,Fermoy,7,2022,All Dwelling Statuses,All Buyer Types,272727.0
+P61,Fermoy,7,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+P61,Fermoy,7,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,262857.0
+P61,Fermoy,7,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,275000.0
+P61,Fermoy,7,2022,New,All Buyer Types,
+P61,Fermoy,7,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,7,2022,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,7,2022,New,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2022,Existing,All Buyer Types,272727.0
+P61,Fermoy,7,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+P61,Fermoy,7,2022,Existing,Household Buyer - Former Owner-Occupier,262857.0
+P61,Fermoy,7,2022,Existing,Household Buyer - Non-Occupier,275000.0
+P61,Fermoy,8,2022,All Dwelling Statuses,All Buyer Types,226944.0
+P61,Fermoy,8,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,136000.0
+P61,Fermoy,8,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,247417.0
+P61,Fermoy,8,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,211000.0
+P61,Fermoy,8,2022,New,All Buyer Types,
+P61,Fermoy,8,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,8,2022,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,8,2022,New,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2022,Existing,All Buyer Types,226944.0
+P61,Fermoy,8,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,136000.0
+P61,Fermoy,8,2022,Existing,Household Buyer - Former Owner-Occupier,247417.0
+P61,Fermoy,8,2022,Existing,Household Buyer - Non-Occupier,211000.0
+P61,Fermoy,9,2022,All Dwelling Statuses,All Buyer Types,259563.0
+P61,Fermoy,9,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,224167.0
+P61,Fermoy,9,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,284222.0
+P61,Fermoy,9,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,250000.0
+P61,Fermoy,9,2022,New,All Buyer Types,
+P61,Fermoy,9,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,9,2022,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,9,2022,New,Household Buyer - Non-Occupier,
+P61,Fermoy,9,2022,Existing,All Buyer Types,259563.0
+P61,Fermoy,9,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,224167.0
+P61,Fermoy,9,2022,Existing,Household Buyer - Former Owner-Occupier,284222.0
+P61,Fermoy,9,2022,Existing,Household Buyer - Non-Occupier,250000.0
+P61,Fermoy,10,2022,All Dwelling Statuses,All Buyer Types,191400.0
+P61,Fermoy,10,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,255833.0
+P61,Fermoy,10,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,165000.0
+P61,Fermoy,10,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,160750.0
+P61,Fermoy,10,2022,New,All Buyer Types,
+P61,Fermoy,10,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,10,2022,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,10,2022,New,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2022,Existing,All Buyer Types,191400.0
+P61,Fermoy,10,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,255833.0
+P61,Fermoy,10,2022,Existing,Household Buyer - Former Owner-Occupier,165000.0
+P61,Fermoy,10,2022,Existing,Household Buyer - Non-Occupier,160750.0
+P61,Fermoy,11,2022,All Dwelling Statuses,All Buyer Types,298905.0
+P61,Fermoy,11,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,276835.0
+P61,Fermoy,11,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,322449.0
+P61,Fermoy,11,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,190000.0
+P61,Fermoy,11,2022,New,All Buyer Types,331569.0
+P61,Fermoy,11,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,351850.0
+P61,Fermoy,11,2022,New,Household Buyer - Former Owner-Occupier,311287.0
+P61,Fermoy,11,2022,New,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2022,Existing,All Buyer Types,296065.0
+P61,Fermoy,11,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,268500.0
+P61,Fermoy,11,2022,Existing,Household Buyer - Former Owner-Occupier,323308.0
+P61,Fermoy,11,2022,Existing,Household Buyer - Non-Occupier,190000.0
+P61,Fermoy,12,2022,All Dwelling Statuses,All Buyer Types,281794.0
+P61,Fermoy,12,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,241000.0
+P61,Fermoy,12,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,279227.0
+P61,Fermoy,12,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,377500.0
+P61,Fermoy,12,2022,New,All Buyer Types,280000.0
+P61,Fermoy,12,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,12,2022,New,Household Buyer - Former Owner-Occupier,280000.0
+P61,Fermoy,12,2022,New,Household Buyer - Non-Occupier,
+P61,Fermoy,12,2022,Existing,All Buyer Types,282033.0
+P61,Fermoy,12,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,241000.0
+P61,Fermoy,12,2022,Existing,Household Buyer - Former Owner-Occupier,279056.0
+P61,Fermoy,12,2022,Existing,Household Buyer - Non-Occupier,377500.0
+P61,Fermoy,1,2023,All Dwelling Statuses,All Buyer Types,242714.0
+P61,Fermoy,1,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,207500.0
+P61,Fermoy,1,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,256800.0
+P61,Fermoy,1,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,1,2023,New,All Buyer Types,
+P61,Fermoy,1,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,1,2023,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,1,2023,New,Household Buyer - Non-Occupier,
+P61,Fermoy,1,2023,Existing,All Buyer Types,242714.0
+P61,Fermoy,1,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,207500.0
+P61,Fermoy,1,2023,Existing,Household Buyer - Former Owner-Occupier,256800.0
+P61,Fermoy,1,2023,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2023,All Dwelling Statuses,All Buyer Types,310167.0
+P61,Fermoy,2,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,332056.0
+P61,Fermoy,2,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,266390.0
+P61,Fermoy,2,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2023,New,All Buyer Types,403501.0
+P61,Fermoy,2,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,420011.0
+P61,Fermoy,2,2023,New,Household Buyer - Former Owner-Occupier,362225.0
+P61,Fermoy,2,2023,New,Household Buyer - Non-Occupier,
+P61,Fermoy,2,2023,Existing,All Buyer Types,228500.0
+P61,Fermoy,2,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,244100.0
+P61,Fermoy,2,2023,Existing,Household Buyer - Former Owner-Occupier,202500.0
+P61,Fermoy,2,2023,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2023,All Dwelling Statuses,All Buyer Types,253399.0
+P61,Fermoy,3,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,285137.0
+P61,Fermoy,3,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,264375.0
+P61,Fermoy,3,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,118333.0
+P61,Fermoy,3,2023,New,All Buyer Types,379767.0
+P61,Fermoy,3,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,382229.0
+P61,Fermoy,3,2023,New,Household Buyer - Former Owner-Occupier,364999.0
+P61,Fermoy,3,2023,New,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2023,Existing,All Buyer Types,190214.0
+P61,Fermoy,3,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,139500.0
+P61,Fermoy,3,2023,Existing,Household Buyer - Former Owner-Occupier,250000.0
+P61,Fermoy,3,2023,Existing,Household Buyer - Non-Occupier,118333.0
+P61,Fermoy,4,2023,All Dwelling Statuses,All Buyer Types,260982.0
+P61,Fermoy,4,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,314625.0
+P61,Fermoy,4,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,228000.0
+P61,Fermoy,4,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,199000.0
+P61,Fermoy,4,2023,New,All Buyer Types,348350.0
+P61,Fermoy,4,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,351687.0
+P61,Fermoy,4,2023,New,Household Buyer - Former Owner-Occupier,335000.0
+P61,Fermoy,4,2023,New,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2023,Existing,All Buyer Types,212444.0
+P61,Fermoy,4,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,240500.0
+P61,Fermoy,4,2023,Existing,Household Buyer - Former Owner-Occupier,206600.0
+P61,Fermoy,4,2023,Existing,Household Buyer - Non-Occupier,199000.0
+P61,Fermoy,5,2023,All Dwelling Statuses,All Buyer Types,237600.0
+P61,Fermoy,5,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,265400.0
+P61,Fermoy,5,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,237250.0
+P61,Fermoy,5,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,100000.0
+P61,Fermoy,5,2023,New,All Buyer Types,334999.0
+P61,Fermoy,5,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,334999.0
+P61,Fermoy,5,2023,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,5,2023,New,Household Buyer - Non-Occupier,
+P61,Fermoy,5,2023,Existing,All Buyer Types,226778.0
+P61,Fermoy,5,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,248000.0
+P61,Fermoy,5,2023,Existing,Household Buyer - Former Owner-Occupier,237250.0
+P61,Fermoy,5,2023,Existing,Household Buyer - Non-Occupier,100000.0
+P61,Fermoy,6,2023,All Dwelling Statuses,All Buyer Types,274790.0
+P61,Fermoy,6,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,254841.0
+P61,Fermoy,6,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,316675.0
+P61,Fermoy,6,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,205000.0
+P61,Fermoy,6,2023,New,All Buyer Types,340103.0
+P61,Fermoy,6,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,325535.0
+P61,Fermoy,6,2023,New,Household Buyer - Former Owner-Occupier,398375.0
+P61,Fermoy,6,2023,New,Household Buyer - Non-Occupier,
+P61,Fermoy,6,2023,Existing,All Buyer Types,233969.0
+P61,Fermoy,6,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160583.0
+P61,Fermoy,6,2023,Existing,Household Buyer - Former Owner-Occupier,296250.0
+P61,Fermoy,6,2023,Existing,Household Buyer - Non-Occupier,205000.0
+P61,Fermoy,7,2023,All Dwelling Statuses,All Buyer Types,274025.0
+P61,Fermoy,7,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,266264.0
+P61,Fermoy,7,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,285667.0
+P61,Fermoy,7,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2023,New,All Buyer Types,324459.0
+P61,Fermoy,7,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,324459.0
+P61,Fermoy,7,2023,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,7,2023,New,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2023,Existing,All Buyer Types,261417.0
+P61,Fermoy,7,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,237167.0
+P61,Fermoy,7,2023,Existing,Household Buyer - Former Owner-Occupier,285667.0
+P61,Fermoy,7,2023,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2023,All Dwelling Statuses,All Buyer Types,354923.0
+P61,Fermoy,8,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,276359.0
+P61,Fermoy,8,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,381111.0
+P61,Fermoy,8,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2023,New,All Buyer Types,319077.0
+P61,Fermoy,8,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,319077.0
+P61,Fermoy,8,2023,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,8,2023,New,Household Buyer - Non-Occupier,
+P61,Fermoy,8,2023,Existing,All Buyer Types,358182.0
+P61,Fermoy,8,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,255000.0
+P61,Fermoy,8,2023,Existing,Household Buyer - Former Owner-Occupier,381111.0
+P61,Fermoy,8,2023,Existing,Household Buyer - Non-Occupier,
+P61,Fermoy,9,2023,All Dwelling Statuses,All Buyer Types,283503.0
+P61,Fermoy,9,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,285500.0
+P61,Fermoy,9,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,297229.0
+P61,Fermoy,9,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,140000.0
+P61,Fermoy,9,2023,New,All Buyer Types,354451.0
+P61,Fermoy,9,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,351666.0
+P61,Fermoy,9,2023,New,Household Buyer - Former Owner-Occupier,360021.0
+P61,Fermoy,9,2023,New,Household Buyer - Non-Occupier,
+P61,Fermoy,9,2023,Existing,All Buyer Types,225455.0
+P61,Fermoy,9,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,186250.0
+P61,Fermoy,9,2023,Existing,Household Buyer - Former Owner-Occupier,265833.0
+P61,Fermoy,9,2023,Existing,Household Buyer - Non-Occupier,140000.0
+P61,Fermoy,10,2023,All Dwelling Statuses,All Buyer Types,297533.0
+P61,Fermoy,10,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,353750.0
+P61,Fermoy,10,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,289800.0
+P61,Fermoy,10,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,150000.0
+P61,Fermoy,10,2023,New,All Buyer Types,360000.0
+P61,Fermoy,10,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,360000.0
+P61,Fermoy,10,2023,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,10,2023,New,Household Buyer - Non-Occupier,
+P61,Fermoy,10,2023,Existing,All Buyer Types,281917.0
+P61,Fermoy,10,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,335000.0
+P61,Fermoy,10,2023,Existing,Household Buyer - Former Owner-Occupier,289800.0
+P61,Fermoy,10,2023,Existing,Household Buyer - Non-Occupier,150000.0
+P61,Fermoy,11,2023,All Dwelling Statuses,All Buyer Types,253719.0
+P61,Fermoy,11,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,284882.0
+P61,Fermoy,11,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,242200.0
+P61,Fermoy,11,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,198000.0
+P61,Fermoy,11,2023,New,All Buyer Types,424095.0
+P61,Fermoy,11,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,424095.0
+P61,Fermoy,11,2023,New,Household Buyer - Former Owner-Occupier,
+P61,Fermoy,11,2023,New,Household Buyer - Non-Occupier,
+P61,Fermoy,11,2023,Existing,All Buyer Types,219643.0
+P61,Fermoy,11,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,215275.0
+P61,Fermoy,11,2023,Existing,Household Buyer - Former Owner-Occupier,242200.0
+P61,Fermoy,11,2023,Existing,Household Buyer - Non-Occupier,198000.0
+P61,Fermoy,12,2023,All Dwelling Statuses,All Buyer Types,352413.0
+P61,Fermoy,12,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,351456.0
+P61,Fermoy,12,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,365822.0
+P61,Fermoy,12,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,225000.0
+P61,Fermoy,12,2023,New,All Buyer Types,375545.0
+P61,Fermoy,12,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,369477.0
+P61,Fermoy,12,2023,New,Household Buyer - Former Owner-Occupier,391149.0
+P61,Fermoy,12,2023,New,Household Buyer - Non-Occupier,
+P61,Fermoy,12,2023,Existing,All Buyer Types,280125.0
+P61,Fermoy,12,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,243333.0
+P61,Fermoy,12,2023,Existing,Household Buyer - Former Owner-Occupier,321500.0
+P61,Fermoy,12,2023,Existing,Household Buyer - Non-Occupier,225000.0
+P61,Fermoy,1,2024,All Dwelling Statuses,All Buyer Types,303942.0
+P61,Fermoy,1,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,294893.0
+P61,Fermoy,1,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,349400.0
+P61,Fermoy,1,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,140000.0
+P61,Fermoy,1,2024,New,All Buyer Types,384208.0
+P61,Fermoy,1,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,368812.0
+P61,Fermoy,1,2024,New,Household Buyer - Former Owner-Occupier,415000.0
+P61,Fermoy,1,2024,New,Household Buyer - Non-Occupier,
+P61,Fermoy,1,2024,Existing,All Buyer Types,235143.0
+P61,Fermoy,1,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,196333.0
+P61,Fermoy,1,2024,Existing,Household Buyer - Former Owner-Occupier,305667.0
+P61,Fermoy,1,2024,Existing,Household Buyer - Non-Occupier,140000.0
+P61,Fermoy,2,2024,All Dwelling Statuses,All Buyer Types,328034.0
+P61,Fermoy,2,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,347094.0
+P61,Fermoy,2,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,372500.0
+P61,Fermoy,2,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,243333.0
+P61,Fermoy,2,2024,New,All Buyer Types,368675.0
+P61,Fermoy,2,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,394187.0
+P61,Fermoy,2,2024,New,Household Buyer - Former Owner-Occupier,344999.0
+P61,Fermoy,2,2024,New,Household Buyer - Non-Occupier,365000.0
+P61,Fermoy,2,2024,Existing,All Buyer Types,294167.0
+P61,Fermoy,2,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+P61,Fermoy,2,2024,Existing,Household Buyer - Former Owner-Occupier,400000.0
+P61,Fermoy,2,2024,Existing,Household Buyer - Non-Occupier,182500.0
+P61,Fermoy,3,2024,All Dwelling Statuses,All Buyer Types,317286.0
+P61,Fermoy,3,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,405858.0
+P61,Fermoy,3,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,284000.0
+P61,Fermoy,3,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,218000.0
+P61,Fermoy,3,2024,New,All Buyer Types,398525.0
+P61,Fermoy,3,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,422788.0
+P61,Fermoy,3,2024,New,Household Buyer - Former Owner-Occupier,350000.0
+P61,Fermoy,3,2024,New,Household Buyer - Non-Occupier,
+P61,Fermoy,3,2024,Existing,All Buyer Types,276667.0
+P61,Fermoy,3,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,372000.0
+P61,Fermoy,3,2024,Existing,Household Buyer - Former Owner-Occupier,267500.0
+P61,Fermoy,3,2024,Existing,Household Buyer - Non-Occupier,218000.0
+P61,Fermoy,4,2024,All Dwelling Statuses,All Buyer Types,328423.0
+P61,Fermoy,4,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,331687.0
+P61,Fermoy,4,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,327922.0
+P61,Fermoy,4,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,290000.0
+P61,Fermoy,4,2024,New,All Buyer Types,365966.0
+P61,Fermoy,4,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,366148.0
+P61,Fermoy,4,2024,New,Household Buyer - Former Owner-Occupier,365675.0
+P61,Fermoy,4,2024,New,Household Buyer - Non-Occupier,
+P61,Fermoy,4,2024,Existing,All Buyer Types,274194.0
+P61,Fermoy,4,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,276550.0
+P61,Fermoy,4,2024,Existing,Household Buyer - Former Owner-Occupier,265000.0
+P61,Fermoy,4,2024,Existing,Household Buyer - Non-Occupier,290000.0
+P61,Fermoy,5,2024,All Dwelling Statuses,All Buyer Types,331806.0
+P61,Fermoy,5,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,379764.0
+P61,Fermoy,5,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,276934.0
+P61,Fermoy,5,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,222500.0
+P61,Fermoy,5,2024,New,All Buyer Types,400010.0
+P61,Fermoy,5,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,400519.0
+P61,Fermoy,5,2024,New,Household Buyer - Former Owner-Occupier,398993.0
+P61,Fermoy,5,2024,New,Household Buyer - Non-Occupier,
+P61,Fermoy,5,2024,Existing,All Buyer Types,209038.0
+P61,Fermoy,5,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,317500.0
+P61,Fermoy,5,2024,Existing,Household Buyer - Former Owner-Occupier,93845.0
+P61,Fermoy,5,2024,Existing,Household Buyer - Non-Occupier,222500.0
+P61,Fermoy,6,2024,All Dwelling Statuses,All Buyer Types,364216.0
+P61,Fermoy,6,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,375000.0
+P61,Fermoy,6,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,382589.0
+P61,Fermoy,6,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,240000.0
+P61,Fermoy,6,2024,New,All Buyer Types,395112.0
+P61,Fermoy,6,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,375000.0
+P61,Fermoy,6,2024,New,Household Buyer - Former Owner-Occupier,455447.0
+P61,Fermoy,6,2024,New,Household Buyer - Non-Occupier,
+P61,Fermoy,6,2024,Existing,All Buyer Types,339500.0
+P61,Fermoy,6,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P61,Fermoy,6,2024,Existing,Household Buyer - Former Owner-Occupier,364375.0
+P61,Fermoy,6,2024,Existing,Household Buyer - Non-Occupier,240000.0
+P61,Fermoy,7,2024,All Dwelling Statuses,All Buyer Types,334590.0
+P61,Fermoy,7,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,321680.0
+P61,Fermoy,7,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,347500.0
+P61,Fermoy,7,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2024,New,All Buyer Types,368344.0
+P61,Fermoy,7,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,373907.0
+P61,Fermoy,7,2024,New,Household Buyer - Former Owner-Occupier,360000.0
+P61,Fermoy,7,2024,New,Household Buyer - Non-Occupier,
+P61,Fermoy,7,2024,Existing,All Buyer Types,278333.0
+P61,Fermoy,7,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+P61,Fermoy,7,2024,Existing,Household Buyer - Former Owner-Occupier,335000.0
+P61,Fermoy,7,2024,Existing,Household Buyer - Non-Occupier,

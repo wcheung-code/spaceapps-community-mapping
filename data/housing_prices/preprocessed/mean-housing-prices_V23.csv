@@ -1,0 +1,2101 @@
+Routing Key,City,Month,Year,Dwelling Status,Type of Buyer,VALUE
+V23,Caherciveen,1,2010,All Dwelling Statuses,All Buyer Types,260800.0
+V23,Caherciveen,1,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,260800.0
+V23,Caherciveen,1,2010,New,All Buyer Types,
+V23,Caherciveen,1,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2010,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2010,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,1,2010,Existing,All Buyer Types,260800.0
+V23,Caherciveen,1,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2010,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2010,Existing,Household Buyer - Non-Occupier,260800.0
+V23,Caherciveen,2,2010,All Dwelling Statuses,All Buyer Types,166333.0
+V23,Caherciveen,2,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+V23,Caherciveen,2,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,2,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,155600.0
+V23,Caherciveen,2,2010,New,All Buyer Types,
+V23,Caherciveen,2,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2010,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,2,2010,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,2,2010,Existing,All Buyer Types,166333.0
+V23,Caherciveen,2,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+V23,Caherciveen,2,2010,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,2,2010,Existing,Household Buyer - Non-Occupier,155600.0
+V23,Caherciveen,3,2010,All Dwelling Statuses,All Buyer Types,91750.0
+V23,Caherciveen,3,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,91750.0
+V23,Caherciveen,3,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,3,2010,New,All Buyer Types,
+V23,Caherciveen,3,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2010,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2010,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,3,2010,Existing,All Buyer Types,91750.0
+V23,Caherciveen,3,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,91750.0
+V23,Caherciveen,3,2010,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2010,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,4,2010,All Dwelling Statuses,All Buyer Types,581500.0
+V23,Caherciveen,4,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,581500.0
+V23,Caherciveen,4,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,4,2010,New,All Buyer Types,
+V23,Caherciveen,4,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2010,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,4,2010,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,4,2010,Existing,All Buyer Types,581500.0
+V23,Caherciveen,4,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2010,Existing,Household Buyer - Former Owner-Occupier,581500.0
+V23,Caherciveen,4,2010,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,5,2010,All Dwelling Statuses,All Buyer Types,53000.0
+V23,Caherciveen,5,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,5,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,53000.0
+V23,Caherciveen,5,2010,New,All Buyer Types,
+V23,Caherciveen,5,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2010,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,5,2010,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,5,2010,Existing,All Buyer Types,53000.0
+V23,Caherciveen,5,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2010,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,5,2010,Existing,Household Buyer - Non-Occupier,53000.0
+V23,Caherciveen,6,2010,All Dwelling Statuses,All Buyer Types,393317.0
+V23,Caherciveen,6,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,380000.0
+V23,Caherciveen,6,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,419950.0
+V23,Caherciveen,6,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,6,2010,New,All Buyer Types,419950.0
+V23,Caherciveen,6,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2010,New,Household Buyer - Former Owner-Occupier,419950.0
+V23,Caherciveen,6,2010,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,6,2010,Existing,All Buyer Types,380000.0
+V23,Caherciveen,6,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,380000.0
+V23,Caherciveen,6,2010,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,6,2010,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,7,2010,All Dwelling Statuses,All Buyer Types,222965.0
+V23,Caherciveen,7,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,328895.0
+V23,Caherciveen,7,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,170000.0
+V23,Caherciveen,7,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,7,2010,New,All Buyer Types,289448.0
+V23,Caherciveen,7,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,328895.0
+V23,Caherciveen,7,2010,New,Household Buyer - Former Owner-Occupier,250000.0
+V23,Caherciveen,7,2010,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,7,2010,Existing,All Buyer Types,90000.0
+V23,Caherciveen,7,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2010,Existing,Household Buyer - Former Owner-Occupier,90000.0
+V23,Caherciveen,7,2010,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,8,2010,All Dwelling Statuses,All Buyer Types,375000.0
+V23,Caherciveen,8,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,8,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,375000.0
+V23,Caherciveen,8,2010,New,All Buyer Types,
+V23,Caherciveen,8,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2010,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,8,2010,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,8,2010,Existing,All Buyer Types,375000.0
+V23,Caherciveen,8,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2010,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,8,2010,Existing,Household Buyer - Non-Occupier,375000.0
+V23,Caherciveen,9,2010,All Dwelling Statuses,All Buyer Types,252936.0
+V23,Caherciveen,9,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,263479.0
+V23,Caherciveen,9,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,200223.0
+V23,Caherciveen,9,2010,New,All Buyer Types,172809.0
+V23,Caherciveen,9,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2010,New,Household Buyer - Former Owner-Occupier,145394.0
+V23,Caherciveen,9,2010,New,Household Buyer - Non-Occupier,200223.0
+V23,Caherciveen,9,2010,Existing,All Buyer Types,293000.0
+V23,Caherciveen,9,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2010,Existing,Household Buyer - Former Owner-Occupier,293000.0
+V23,Caherciveen,9,2010,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,10,2010,All Dwelling Statuses,All Buyer Types,175833.0
+V23,Caherciveen,10,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,200000.0
+V23,Caherciveen,10,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,163750.0
+V23,Caherciveen,10,2010,New,All Buyer Types,
+V23,Caherciveen,10,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2010,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,10,2010,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,10,2010,Existing,All Buyer Types,175833.0
+V23,Caherciveen,10,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2010,Existing,Household Buyer - Former Owner-Occupier,200000.0
+V23,Caherciveen,10,2010,Existing,Household Buyer - Non-Occupier,163750.0
+V23,Caherciveen,11,2010,All Dwelling Statuses,All Buyer Types,190700.0
+V23,Caherciveen,11,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,111100.0
+V23,Caherciveen,11,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,230500.0
+V23,Caherciveen,11,2010,New,All Buyer Types,223000.0
+V23,Caherciveen,11,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2010,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,11,2010,New,Household Buyer - Non-Occupier,223000.0
+V23,Caherciveen,11,2010,Existing,All Buyer Types,174550.0
+V23,Caherciveen,11,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2010,Existing,Household Buyer - Former Owner-Occupier,111100.0
+V23,Caherciveen,11,2010,Existing,Household Buyer - Non-Occupier,238000.0
+V23,Caherciveen,12,2010,All Dwelling Statuses,All Buyer Types,274250.0
+V23,Caherciveen,12,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,340000.0
+V23,Caherciveen,12,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,252333.0
+V23,Caherciveen,12,2010,New,All Buyer Types,
+V23,Caherciveen,12,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2010,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,12,2010,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,12,2010,Existing,All Buyer Types,274250.0
+V23,Caherciveen,12,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2010,Existing,Household Buyer - Former Owner-Occupier,340000.0
+V23,Caherciveen,12,2010,Existing,Household Buyer - Non-Occupier,252333.0
+V23,Caherciveen,1,2011,All Dwelling Statuses,All Buyer Types,287000.0
+V23,Caherciveen,1,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,287000.0
+V23,Caherciveen,1,2011,New,All Buyer Types,
+V23,Caherciveen,1,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2011,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2011,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,1,2011,Existing,All Buyer Types,287000.0
+V23,Caherciveen,1,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2011,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2011,Existing,Household Buyer - Non-Occupier,287000.0
+V23,Caherciveen,2,2011,All Dwelling Statuses,All Buyer Types,215000.0
+V23,Caherciveen,2,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,2,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,215000.0
+V23,Caherciveen,2,2011,New,All Buyer Types,
+V23,Caherciveen,2,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2011,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,2,2011,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,2,2011,Existing,All Buyer Types,215000.0
+V23,Caherciveen,2,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2011,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,2,2011,Existing,Household Buyer - Non-Occupier,215000.0
+V23,Caherciveen,3,2011,All Dwelling Statuses,All Buyer Types,
+V23,Caherciveen,3,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,3,2011,New,All Buyer Types,
+V23,Caherciveen,3,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2011,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2011,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,3,2011,Existing,All Buyer Types,
+V23,Caherciveen,3,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2011,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2011,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,4,2011,All Dwelling Statuses,All Buyer Types,150000.0
+V23,Caherciveen,4,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+V23,Caherciveen,4,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,4,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,4,2011,New,All Buyer Types,
+V23,Caherciveen,4,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2011,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,4,2011,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,4,2011,Existing,All Buyer Types,150000.0
+V23,Caherciveen,4,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+V23,Caherciveen,4,2011,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,4,2011,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,5,2011,All Dwelling Statuses,All Buyer Types,200000.0
+V23,Caherciveen,5,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,5,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,200000.0
+V23,Caherciveen,5,2011,New,All Buyer Types,
+V23,Caherciveen,5,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2011,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,5,2011,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,5,2011,Existing,All Buyer Types,200000.0
+V23,Caherciveen,5,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2011,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,5,2011,Existing,Household Buyer - Non-Occupier,200000.0
+V23,Caherciveen,6,2011,All Dwelling Statuses,All Buyer Types,95000.0
+V23,Caherciveen,6,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,6,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,95000.0
+V23,Caherciveen,6,2011,New,All Buyer Types,
+V23,Caherciveen,6,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2011,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,6,2011,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,6,2011,Existing,All Buyer Types,95000.0
+V23,Caherciveen,6,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2011,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,6,2011,Existing,Household Buyer - Non-Occupier,95000.0
+V23,Caherciveen,7,2011,All Dwelling Statuses,All Buyer Types,
+V23,Caherciveen,7,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,7,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,7,2011,New,All Buyer Types,
+V23,Caherciveen,7,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2011,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,7,2011,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,7,2011,Existing,All Buyer Types,
+V23,Caherciveen,7,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2011,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,7,2011,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,8,2011,All Dwelling Statuses,All Buyer Types,244450.0
+V23,Caherciveen,8,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,385900.0
+V23,Caherciveen,8,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,8,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,103000.0
+V23,Caherciveen,8,2011,New,All Buyer Types,385900.0
+V23,Caherciveen,8,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,385900.0
+V23,Caherciveen,8,2011,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,8,2011,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,8,2011,Existing,All Buyer Types,103000.0
+V23,Caherciveen,8,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2011,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,8,2011,Existing,Household Buyer - Non-Occupier,103000.0
+V23,Caherciveen,9,2011,All Dwelling Statuses,All Buyer Types,128333.0
+V23,Caherciveen,9,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,95000.0
+V23,Caherciveen,9,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,145000.0
+V23,Caherciveen,9,2011,New,All Buyer Types,
+V23,Caherciveen,9,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2011,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,9,2011,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,9,2011,Existing,All Buyer Types,128333.0
+V23,Caherciveen,9,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2011,Existing,Household Buyer - Former Owner-Occupier,95000.0
+V23,Caherciveen,9,2011,Existing,Household Buyer - Non-Occupier,145000.0
+V23,Caherciveen,10,2011,All Dwelling Statuses,All Buyer Types,40000.0
+V23,Caherciveen,10,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,10,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,40000.0
+V23,Caherciveen,10,2011,New,All Buyer Types,
+V23,Caherciveen,10,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2011,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,10,2011,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,10,2011,Existing,All Buyer Types,40000.0
+V23,Caherciveen,10,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2011,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,10,2011,Existing,Household Buyer - Non-Occupier,40000.0
+V23,Caherciveen,11,2011,All Dwelling Statuses,All Buyer Types,134600.0
+V23,Caherciveen,11,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,153250.0
+V23,Caherciveen,11,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,60000.0
+V23,Caherciveen,11,2011,New,All Buyer Types,
+V23,Caherciveen,11,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2011,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,11,2011,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,11,2011,Existing,All Buyer Types,134600.0
+V23,Caherciveen,11,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2011,Existing,Household Buyer - Former Owner-Occupier,153250.0
+V23,Caherciveen,11,2011,Existing,Household Buyer - Non-Occupier,60000.0
+V23,Caherciveen,12,2011,All Dwelling Statuses,All Buyer Types,130000.0
+V23,Caherciveen,12,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,12,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,130000.0
+V23,Caherciveen,12,2011,New,All Buyer Types,
+V23,Caherciveen,12,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2011,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,12,2011,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,12,2011,Existing,All Buyer Types,130000.0
+V23,Caherciveen,12,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2011,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,12,2011,Existing,Household Buyer - Non-Occupier,130000.0
+V23,Caherciveen,1,2012,All Dwelling Statuses,All Buyer Types,100000.0
+V23,Caherciveen,1,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,100000.0
+V23,Caherciveen,1,2012,New,All Buyer Types,
+V23,Caherciveen,1,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2012,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2012,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,1,2012,Existing,All Buyer Types,100000.0
+V23,Caherciveen,1,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2012,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2012,Existing,Household Buyer - Non-Occupier,100000.0
+V23,Caherciveen,2,2012,All Dwelling Statuses,All Buyer Types,201667.0
+V23,Caherciveen,2,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,260000.0
+V23,Caherciveen,2,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,85000.0
+V23,Caherciveen,2,2012,New,All Buyer Types,
+V23,Caherciveen,2,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2012,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,2,2012,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,2,2012,Existing,All Buyer Types,201667.0
+V23,Caherciveen,2,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2012,Existing,Household Buyer - Former Owner-Occupier,260000.0
+V23,Caherciveen,2,2012,Existing,Household Buyer - Non-Occupier,85000.0
+V23,Caherciveen,3,2012,All Dwelling Statuses,All Buyer Types,245000.0
+V23,Caherciveen,3,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,245000.0
+V23,Caherciveen,3,2012,New,All Buyer Types,
+V23,Caherciveen,3,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2012,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2012,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,3,2012,Existing,All Buyer Types,245000.0
+V23,Caherciveen,3,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2012,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2012,Existing,Household Buyer - Non-Occupier,245000.0
+V23,Caherciveen,4,2012,All Dwelling Statuses,All Buyer Types,165433.0
+V23,Caherciveen,4,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,141989.0
+V23,Caherciveen,4,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,171294.0
+V23,Caherciveen,4,2012,New,All Buyer Types,147082.0
+V23,Caherciveen,4,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2012,New,Household Buyer - Former Owner-Occupier,141989.0
+V23,Caherciveen,4,2012,New,Household Buyer - Non-Occupier,152175.0
+V23,Caherciveen,4,2012,Existing,All Buyer Types,177667.0
+V23,Caherciveen,4,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2012,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,4,2012,Existing,Household Buyer - Non-Occupier,177667.0
+V23,Caherciveen,5,2012,All Dwelling Statuses,All Buyer Types,128506.0
+V23,Caherciveen,5,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+V23,Caherciveen,5,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,175925.0
+V23,Caherciveen,5,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,79050.0
+V23,Caherciveen,5,2012,New,All Buyer Types,122013.0
+V23,Caherciveen,5,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2012,New,Household Buyer - Former Owner-Occupier,175925.0
+V23,Caherciveen,5,2012,New,Household Buyer - Non-Occupier,68100.0
+V23,Caherciveen,5,2012,Existing,All Buyer Types,135000.0
+V23,Caherciveen,5,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+V23,Caherciveen,5,2012,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,5,2012,Existing,Household Buyer - Non-Occupier,90000.0
+V23,Caherciveen,6,2012,All Dwelling Statuses,All Buyer Types,113200.0
+V23,Caherciveen,6,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,95000.0
+V23,Caherciveen,6,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,140500.0
+V23,Caherciveen,6,2012,New,All Buyer Types,132000.0
+V23,Caherciveen,6,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2012,New,Household Buyer - Former Owner-Occupier,132000.0
+V23,Caherciveen,6,2012,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,6,2012,Existing,All Buyer Types,108500.0
+V23,Caherciveen,6,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2012,Existing,Household Buyer - Former Owner-Occupier,76500.0
+V23,Caherciveen,6,2012,Existing,Household Buyer - Non-Occupier,140500.0
+V23,Caherciveen,7,2012,All Dwelling Statuses,All Buyer Types,145271.0
+V23,Caherciveen,7,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,7,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,145271.0
+V23,Caherciveen,7,2012,New,All Buyer Types,157084.0
+V23,Caherciveen,7,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2012,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,7,2012,New,Household Buyer - Non-Occupier,157084.0
+V23,Caherciveen,7,2012,Existing,All Buyer Types,141333.0
+V23,Caherciveen,7,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2012,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,7,2012,Existing,Household Buyer - Non-Occupier,141333.0
+V23,Caherciveen,8,2012,All Dwelling Statuses,All Buyer Types,104833.0
+V23,Caherciveen,8,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,76500.0
+V23,Caherciveen,8,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,119000.0
+V23,Caherciveen,8,2012,New,All Buyer Types,
+V23,Caherciveen,8,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2012,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,8,2012,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,8,2012,Existing,All Buyer Types,104833.0
+V23,Caherciveen,8,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2012,Existing,Household Buyer - Former Owner-Occupier,76500.0
+V23,Caherciveen,8,2012,Existing,Household Buyer - Non-Occupier,119000.0
+V23,Caherciveen,9,2012,All Dwelling Statuses,All Buyer Types,163750.0
+V23,Caherciveen,9,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,173333.0
+V23,Caherciveen,9,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,135000.0
+V23,Caherciveen,9,2012,New,All Buyer Types,
+V23,Caherciveen,9,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2012,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,9,2012,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,9,2012,Existing,All Buyer Types,163750.0
+V23,Caherciveen,9,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2012,Existing,Household Buyer - Former Owner-Occupier,173333.0
+V23,Caherciveen,9,2012,Existing,Household Buyer - Non-Occupier,135000.0
+V23,Caherciveen,10,2012,All Dwelling Statuses,All Buyer Types,199714.0
+V23,Caherciveen,10,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,177500.0
+V23,Caherciveen,10,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,207119.0
+V23,Caherciveen,10,2012,New,All Buyer Types,
+V23,Caherciveen,10,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2012,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,10,2012,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,10,2012,Existing,All Buyer Types,199714.0
+V23,Caherciveen,10,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2012,Existing,Household Buyer - Former Owner-Occupier,177500.0
+V23,Caherciveen,10,2012,Existing,Household Buyer - Non-Occupier,207119.0
+V23,Caherciveen,11,2012,All Dwelling Statuses,All Buyer Types,173429.0
+V23,Caherciveen,11,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,217500.0
+V23,Caherciveen,11,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,155000.0
+V23,Caherciveen,11,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,159000.0
+V23,Caherciveen,11,2012,New,All Buyer Types,
+V23,Caherciveen,11,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2012,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,11,2012,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,11,2012,Existing,All Buyer Types,173429.0
+V23,Caherciveen,11,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,217500.0
+V23,Caherciveen,11,2012,Existing,Household Buyer - Former Owner-Occupier,155000.0
+V23,Caherciveen,11,2012,Existing,Household Buyer - Non-Occupier,159000.0
+V23,Caherciveen,12,2012,All Dwelling Statuses,All Buyer Types,156143.0
+V23,Caherciveen,12,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,118430.0
+V23,Caherciveen,12,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,175000.0
+V23,Caherciveen,12,2012,New,All Buyer Types,154360.0
+V23,Caherciveen,12,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2012,New,Household Buyer - Former Owner-Occupier,154360.0
+V23,Caherciveen,12,2012,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,12,2012,Existing,All Buyer Types,156500.0
+V23,Caherciveen,12,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2012,Existing,Household Buyer - Former Owner-Occupier,82500.0
+V23,Caherciveen,12,2012,Existing,Household Buyer - Non-Occupier,175000.0
+V23,Caherciveen,1,2013,All Dwelling Statuses,All Buyer Types,
+V23,Caherciveen,1,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,1,2013,New,All Buyer Types,
+V23,Caherciveen,1,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2013,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2013,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,1,2013,Existing,All Buyer Types,
+V23,Caherciveen,1,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2013,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2013,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,2,2013,All Dwelling Statuses,All Buyer Types,
+V23,Caherciveen,2,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,2,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,2,2013,New,All Buyer Types,
+V23,Caherciveen,2,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2013,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,2,2013,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,2,2013,Existing,All Buyer Types,
+V23,Caherciveen,2,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2013,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,2,2013,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,3,2013,All Dwelling Statuses,All Buyer Types,127000.0
+V23,Caherciveen,3,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,127000.0
+V23,Caherciveen,3,2013,New,All Buyer Types,
+V23,Caherciveen,3,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2013,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2013,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,3,2013,Existing,All Buyer Types,127000.0
+V23,Caherciveen,3,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2013,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2013,Existing,Household Buyer - Non-Occupier,127000.0
+V23,Caherciveen,4,2013,All Dwelling Statuses,All Buyer Types,70000.0
+V23,Caherciveen,4,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,4,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,70000.0
+V23,Caherciveen,4,2013,New,All Buyer Types,
+V23,Caherciveen,4,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2013,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,4,2013,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,4,2013,Existing,All Buyer Types,70000.0
+V23,Caherciveen,4,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2013,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,4,2013,Existing,Household Buyer - Non-Occupier,70000.0
+V23,Caherciveen,5,2013,All Dwelling Statuses,All Buyer Types,129490.0
+V23,Caherciveen,5,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,80000.0
+V23,Caherciveen,5,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,141863.0
+V23,Caherciveen,5,2013,New,All Buyer Types,79450.0
+V23,Caherciveen,5,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2013,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,5,2013,New,Household Buyer - Non-Occupier,79450.0
+V23,Caherciveen,5,2013,Existing,All Buyer Types,142000.0
+V23,Caherciveen,5,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2013,Existing,Household Buyer - Former Owner-Occupier,80000.0
+V23,Caherciveen,5,2013,Existing,Household Buyer - Non-Occupier,162667.0
+V23,Caherciveen,6,2013,All Dwelling Statuses,All Buyer Types,191833.0
+V23,Caherciveen,6,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,198000.0
+V23,Caherciveen,6,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,188750.0
+V23,Caherciveen,6,2013,New,All Buyer Types,
+V23,Caherciveen,6,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2013,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,6,2013,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,6,2013,Existing,All Buyer Types,191833.0
+V23,Caherciveen,6,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2013,Existing,Household Buyer - Former Owner-Occupier,198000.0
+V23,Caherciveen,6,2013,Existing,Household Buyer - Non-Occupier,188750.0
+V23,Caherciveen,7,2013,All Dwelling Statuses,All Buyer Types,108392.0
+V23,Caherciveen,7,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,105100.0
+V23,Caherciveen,7,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,124850.0
+V23,Caherciveen,7,2013,New,All Buyer Types,124850.0
+V23,Caherciveen,7,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2013,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,7,2013,New,Household Buyer - Non-Occupier,124850.0
+V23,Caherciveen,7,2013,Existing,All Buyer Types,105100.0
+V23,Caherciveen,7,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2013,Existing,Household Buyer - Former Owner-Occupier,105100.0
+V23,Caherciveen,7,2013,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,8,2013,All Dwelling Statuses,All Buyer Types,111667.0
+V23,Caherciveen,8,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,137500.0
+V23,Caherciveen,8,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,8,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,60000.0
+V23,Caherciveen,8,2013,New,All Buyer Types,
+V23,Caherciveen,8,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2013,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,8,2013,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,8,2013,Existing,All Buyer Types,111667.0
+V23,Caherciveen,8,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,137500.0
+V23,Caherciveen,8,2013,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,8,2013,Existing,Household Buyer - Non-Occupier,60000.0
+V23,Caherciveen,9,2013,All Dwelling Statuses,All Buyer Types,186333.0
+V23,Caherciveen,9,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+V23,Caherciveen,9,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,174500.0
+V23,Caherciveen,9,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,9,2013,New,All Buyer Types,
+V23,Caherciveen,9,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2013,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,9,2013,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,9,2013,Existing,All Buyer Types,186333.0
+V23,Caherciveen,9,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+V23,Caherciveen,9,2013,Existing,Household Buyer - Former Owner-Occupier,174500.0
+V23,Caherciveen,9,2013,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,10,2013,All Dwelling Statuses,All Buyer Types,189250.0
+V23,Caherciveen,10,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+V23,Caherciveen,10,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,275000.0
+V23,Caherciveen,10,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,146000.0
+V23,Caherciveen,10,2013,New,All Buyer Types,200000.0
+V23,Caherciveen,10,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2013,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,10,2013,New,Household Buyer - Non-Occupier,200000.0
+V23,Caherciveen,10,2013,Existing,All Buyer Types,185667.0
+V23,Caherciveen,10,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+V23,Caherciveen,10,2013,Existing,Household Buyer - Former Owner-Occupier,275000.0
+V23,Caherciveen,10,2013,Existing,Household Buyer - Non-Occupier,92000.0
+V23,Caherciveen,11,2013,All Dwelling Statuses,All Buyer Types,78555.0
+V23,Caherciveen,11,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,103375.0
+V23,Caherciveen,11,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,11,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,66145.0
+V23,Caherciveen,11,2013,New,All Buyer Types,105333.0
+V23,Caherciveen,11,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,103375.0
+V23,Caherciveen,11,2013,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,11,2013,New,Household Buyer - Non-Occupier,107290.0
+V23,Caherciveen,11,2013,Existing,All Buyer Types,25000.0
+V23,Caherciveen,11,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2013,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,11,2013,Existing,Household Buyer - Non-Occupier,25000.0
+V23,Caherciveen,12,2013,All Dwelling Statuses,All Buyer Types,122500.0
+V23,Caherciveen,12,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,130417.0
+V23,Caherciveen,12,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,106667.0
+V23,Caherciveen,12,2013,New,All Buyer Types,110000.0
+V23,Caherciveen,12,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2013,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,12,2013,New,Household Buyer - Non-Occupier,110000.0
+V23,Caherciveen,12,2013,Existing,All Buyer Types,124063.0
+V23,Caherciveen,12,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2013,Existing,Household Buyer - Former Owner-Occupier,130417.0
+V23,Caherciveen,12,2013,Existing,Household Buyer - Non-Occupier,105000.0
+V23,Caherciveen,1,2014,All Dwelling Statuses,All Buyer Types,172000.0
+V23,Caherciveen,1,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,195000.0
+V23,Caherciveen,1,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,137500.0
+V23,Caherciveen,1,2014,New,All Buyer Types,
+V23,Caherciveen,1,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2014,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2014,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,1,2014,Existing,All Buyer Types,172000.0
+V23,Caherciveen,1,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2014,Existing,Household Buyer - Former Owner-Occupier,195000.0
+V23,Caherciveen,1,2014,Existing,Household Buyer - Non-Occupier,137500.0
+V23,Caherciveen,2,2014,All Dwelling Statuses,All Buyer Types,97625.0
+V23,Caherciveen,2,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,105000.0
+V23,Caherciveen,2,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,90250.0
+V23,Caherciveen,2,2014,New,All Buyer Types,
+V23,Caherciveen,2,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2014,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,2,2014,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,2,2014,Existing,All Buyer Types,97625.0
+V23,Caherciveen,2,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2014,Existing,Household Buyer - Former Owner-Occupier,105000.0
+V23,Caherciveen,2,2014,Existing,Household Buyer - Non-Occupier,90250.0
+V23,Caherciveen,3,2014,All Dwelling Statuses,All Buyer Types,147929.0
+V23,Caherciveen,3,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,164375.0
+V23,Caherciveen,3,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,126000.0
+V23,Caherciveen,3,2014,New,All Buyer Types,113500.0
+V23,Caherciveen,3,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2014,New,Household Buyer - Former Owner-Occupier,113500.0
+V23,Caherciveen,3,2014,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,3,2014,Existing,All Buyer Types,153667.0
+V23,Caherciveen,3,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2014,Existing,Household Buyer - Former Owner-Occupier,181333.0
+V23,Caherciveen,3,2014,Existing,Household Buyer - Non-Occupier,126000.0
+V23,Caherciveen,4,2014,All Dwelling Statuses,All Buyer Types,148833.0
+V23,Caherciveen,4,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,155200.0
+V23,Caherciveen,4,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,140875.0
+V23,Caherciveen,4,2014,New,All Buyer Types,109250.0
+V23,Caherciveen,4,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2014,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,4,2014,New,Household Buyer - Non-Occupier,109250.0
+V23,Caherciveen,4,2014,Existing,All Buyer Types,160143.0
+V23,Caherciveen,4,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2014,Existing,Household Buyer - Former Owner-Occupier,155200.0
+V23,Caherciveen,4,2014,Existing,Household Buyer - Non-Occupier,172500.0
+V23,Caherciveen,5,2014,All Dwelling Statuses,All Buyer Types,121113.0
+V23,Caherciveen,5,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,121484.0
+V23,Caherciveen,5,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,120000.0
+V23,Caherciveen,5,2014,New,All Buyer Types,104453.0
+V23,Caherciveen,5,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2014,New,Household Buyer - Former Owner-Occupier,104453.0
+V23,Caherciveen,5,2014,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,5,2014,Existing,All Buyer Types,126667.0
+V23,Caherciveen,5,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2014,Existing,Household Buyer - Former Owner-Occupier,130000.0
+V23,Caherciveen,5,2014,Existing,Household Buyer - Non-Occupier,120000.0
+V23,Caherciveen,6,2014,All Dwelling Statuses,All Buyer Types,87800.0
+V23,Caherciveen,6,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,87800.0
+V23,Caherciveen,6,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,6,2014,New,All Buyer Types,68100.0
+V23,Caherciveen,6,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2014,New,Household Buyer - Former Owner-Occupier,68100.0
+V23,Caherciveen,6,2014,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,6,2014,Existing,All Buyer Types,107500.0
+V23,Caherciveen,6,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2014,Existing,Household Buyer - Former Owner-Occupier,107500.0
+V23,Caherciveen,6,2014,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,7,2014,All Dwelling Statuses,All Buyer Types,112542.0
+V23,Caherciveen,7,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+V23,Caherciveen,7,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,66667.0
+V23,Caherciveen,7,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,147625.0
+V23,Caherciveen,7,2014,New,All Buyer Types,170250.0
+V23,Caherciveen,7,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2014,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,7,2014,New,Household Buyer - Non-Occupier,170250.0
+V23,Caherciveen,7,2014,Existing,All Buyer Types,101000.0
+V23,Caherciveen,7,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+V23,Caherciveen,7,2014,Existing,Household Buyer - Former Owner-Occupier,66667.0
+V23,Caherciveen,7,2014,Existing,Household Buyer - Non-Occupier,125000.0
+V23,Caherciveen,8,2014,All Dwelling Statuses,All Buyer Types,144040.0
+V23,Caherciveen,8,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,132233.0
+V23,Caherciveen,8,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,161750.0
+V23,Caherciveen,8,2014,New,All Buyer Types,
+V23,Caherciveen,8,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2014,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,8,2014,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,8,2014,Existing,All Buyer Types,144040.0
+V23,Caherciveen,8,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2014,Existing,Household Buyer - Former Owner-Occupier,132233.0
+V23,Caherciveen,8,2014,Existing,Household Buyer - Non-Occupier,161750.0
+V23,Caherciveen,9,2014,All Dwelling Statuses,All Buyer Types,149644.0
+V23,Caherciveen,9,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,221075.0
+V23,Caherciveen,9,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,128913.0
+V23,Caherciveen,9,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,129667.0
+V23,Caherciveen,9,2014,New,All Buyer Types,166467.0
+V23,Caherciveen,9,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,283750.0
+V23,Caherciveen,9,2014,New,Household Buyer - Former Owner-Occupier,107825.0
+V23,Caherciveen,9,2014,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,9,2014,Existing,All Buyer Types,141233.0
+V23,Caherciveen,9,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,158400.0
+V23,Caherciveen,9,2014,Existing,Household Buyer - Former Owner-Occupier,150000.0
+V23,Caherciveen,9,2014,Existing,Household Buyer - Non-Occupier,129667.0
+V23,Caherciveen,10,2014,All Dwelling Statuses,All Buyer Types,216667.0
+V23,Caherciveen,10,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+V23,Caherciveen,10,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,267500.0
+V23,Caherciveen,10,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,10,2014,New,All Buyer Types,
+V23,Caherciveen,10,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2014,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,10,2014,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,10,2014,Existing,All Buyer Types,216667.0
+V23,Caherciveen,10,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+V23,Caherciveen,10,2014,Existing,Household Buyer - Former Owner-Occupier,267500.0
+V23,Caherciveen,10,2014,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,11,2014,All Dwelling Statuses,All Buyer Types,105000.0
+V23,Caherciveen,11,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,67500.0
+V23,Caherciveen,11,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,180000.0
+V23,Caherciveen,11,2014,New,All Buyer Types,
+V23,Caherciveen,11,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2014,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,11,2014,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,11,2014,Existing,All Buyer Types,105000.0
+V23,Caherciveen,11,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2014,Existing,Household Buyer - Former Owner-Occupier,67500.0
+V23,Caherciveen,11,2014,Existing,Household Buyer - Non-Occupier,180000.0
+V23,Caherciveen,12,2014,All Dwelling Statuses,All Buyer Types,162094.0
+V23,Caherciveen,12,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,206000.0
+V23,Caherciveen,12,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,153739.0
+V23,Caherciveen,12,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,157206.0
+V23,Caherciveen,12,2014,New,All Buyer Types,171853.0
+V23,Caherciveen,12,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2014,New,Household Buyer - Former Owner-Occupier,119175.0
+V23,Caherciveen,12,2014,New,Household Buyer - Non-Occupier,189412.0
+V23,Caherciveen,12,2014,Existing,All Buyer Types,158545.0
+V23,Caherciveen,12,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,206000.0
+V23,Caherciveen,12,2014,Existing,Household Buyer - Former Owner-Occupier,159500.0
+V23,Caherciveen,12,2014,Existing,Household Buyer - Non-Occupier,125000.0
+V23,Caherciveen,1,2015,All Dwelling Statuses,All Buyer Types,171050.0
+V23,Caherciveen,1,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,171050.0
+V23,Caherciveen,1,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,1,2015,New,All Buyer Types,68100.0
+V23,Caherciveen,1,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2015,New,Household Buyer - Former Owner-Occupier,68100.0
+V23,Caherciveen,1,2015,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,1,2015,Existing,All Buyer Types,274000.0
+V23,Caherciveen,1,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2015,Existing,Household Buyer - Former Owner-Occupier,274000.0
+V23,Caherciveen,1,2015,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,2,2015,All Dwelling Statuses,All Buyer Types,138250.0
+V23,Caherciveen,2,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,140200.0
+V23,Caherciveen,2,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,128500.0
+V23,Caherciveen,2,2015,New,All Buyer Types,140000.0
+V23,Caherciveen,2,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2015,New,Household Buyer - Former Owner-Occupier,140000.0
+V23,Caherciveen,2,2015,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,2,2015,Existing,All Buyer Types,137900.0
+V23,Caherciveen,2,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2015,Existing,Household Buyer - Former Owner-Occupier,140250.0
+V23,Caherciveen,2,2015,Existing,Household Buyer - Non-Occupier,128500.0
+V23,Caherciveen,3,2015,All Dwelling Statuses,All Buyer Types,80000.0
+V23,Caherciveen,3,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+V23,Caherciveen,3,2015,New,All Buyer Types,
+V23,Caherciveen,3,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2015,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2015,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,3,2015,Existing,All Buyer Types,80000.0
+V23,Caherciveen,3,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2015,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2015,Existing,Household Buyer - Non-Occupier,80000.0
+V23,Caherciveen,4,2015,All Dwelling Statuses,All Buyer Types,125570.0
+V23,Caherciveen,4,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,144139.0
+V23,Caherciveen,4,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,107000.0
+V23,Caherciveen,4,2015,New,All Buyer Types,209975.0
+V23,Caherciveen,4,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2015,New,Household Buyer - Former Owner-Occupier,209975.0
+V23,Caherciveen,4,2015,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,4,2015,Existing,All Buyer Types,119077.0
+V23,Caherciveen,4,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2015,Existing,Household Buyer - Former Owner-Occupier,133167.0
+V23,Caherciveen,4,2015,Existing,Household Buyer - Non-Occupier,107000.0
+V23,Caherciveen,5,2015,All Dwelling Statuses,All Buyer Types,92620.0
+V23,Caherciveen,5,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,138000.0
+V23,Caherciveen,5,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,83260.0
+V23,Caherciveen,5,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,99333.0
+V23,Caherciveen,5,2015,New,All Buyer Types,
+V23,Caherciveen,5,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2015,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,5,2015,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,5,2015,Existing,All Buyer Types,92620.0
+V23,Caherciveen,5,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,138000.0
+V23,Caherciveen,5,2015,Existing,Household Buyer - Former Owner-Occupier,83260.0
+V23,Caherciveen,5,2015,Existing,Household Buyer - Non-Occupier,99333.0
+V23,Caherciveen,6,2015,All Dwelling Statuses,All Buyer Types,165486.0
+V23,Caherciveen,6,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,149000.0
+V23,Caherciveen,6,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,173729.0
+V23,Caherciveen,6,2015,New,All Buyer Types,
+V23,Caherciveen,6,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2015,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,6,2015,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,6,2015,Existing,All Buyer Types,165486.0
+V23,Caherciveen,6,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2015,Existing,Household Buyer - Former Owner-Occupier,149000.0
+V23,Caherciveen,6,2015,Existing,Household Buyer - Non-Occupier,173729.0
+V23,Caherciveen,7,2015,All Dwelling Statuses,All Buyer Types,151167.0
+V23,Caherciveen,7,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,151167.0
+V23,Caherciveen,7,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,7,2015,New,All Buyer Types,
+V23,Caherciveen,7,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2015,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,7,2015,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,7,2015,Existing,All Buyer Types,151167.0
+V23,Caherciveen,7,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2015,Existing,Household Buyer - Former Owner-Occupier,151167.0
+V23,Caherciveen,7,2015,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,8,2015,All Dwelling Statuses,All Buyer Types,156813.0
+V23,Caherciveen,8,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+V23,Caherciveen,8,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,186700.0
+V23,Caherciveen,8,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,73000.0
+V23,Caherciveen,8,2015,New,All Buyer Types,
+V23,Caherciveen,8,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2015,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,8,2015,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,8,2015,Existing,All Buyer Types,156813.0
+V23,Caherciveen,8,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+V23,Caherciveen,8,2015,Existing,Household Buyer - Former Owner-Occupier,186700.0
+V23,Caherciveen,8,2015,Existing,Household Buyer - Non-Occupier,73000.0
+V23,Caherciveen,9,2015,All Dwelling Statuses,All Buyer Types,153750.0
+V23,Caherciveen,9,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,168000.0
+V23,Caherciveen,9,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,149000.0
+V23,Caherciveen,9,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,9,2015,New,All Buyer Types,
+V23,Caherciveen,9,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2015,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,9,2015,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,9,2015,Existing,All Buyer Types,153750.0
+V23,Caherciveen,9,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,168000.0
+V23,Caherciveen,9,2015,Existing,Household Buyer - Former Owner-Occupier,149000.0
+V23,Caherciveen,9,2015,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,10,2015,All Dwelling Statuses,All Buyer Types,127510.0
+V23,Caherciveen,10,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,113493.0
+V23,Caherciveen,10,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,160217.0
+V23,Caherciveen,10,2015,New,All Buyer Types,136200.0
+V23,Caherciveen,10,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2015,New,Household Buyer - Former Owner-Occupier,96475.0
+V23,Caherciveen,10,2015,New,Household Buyer - Non-Occupier,215650.0
+V23,Caherciveen,10,2015,Existing,All Buyer Types,123786.0
+V23,Caherciveen,10,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2015,Existing,Household Buyer - Former Owner-Occupier,120300.0
+V23,Caherciveen,10,2015,Existing,Household Buyer - Non-Occupier,132500.0
+V23,Caherciveen,11,2015,All Dwelling Statuses,All Buyer Types,154227.0
+V23,Caherciveen,11,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,157000.0
+V23,Caherciveen,11,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,149375.0
+V23,Caherciveen,11,2015,New,All Buyer Types,
+V23,Caherciveen,11,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2015,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,11,2015,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,11,2015,Existing,All Buyer Types,154227.0
+V23,Caherciveen,11,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2015,Existing,Household Buyer - Former Owner-Occupier,157000.0
+V23,Caherciveen,11,2015,Existing,Household Buyer - Non-Occupier,149375.0
+V23,Caherciveen,12,2015,All Dwelling Statuses,All Buyer Types,152497.0
+V23,Caherciveen,12,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,184119.0
+V23,Caherciveen,12,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,120875.0
+V23,Caherciveen,12,2015,New,All Buyer Types,96475.0
+V23,Caherciveen,12,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2015,New,Household Buyer - Former Owner-Occupier,96475.0
+V23,Caherciveen,12,2015,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,12,2015,Existing,All Buyer Types,160500.0
+V23,Caherciveen,12,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2015,Existing,Household Buyer - Former Owner-Occupier,213333.0
+V23,Caherciveen,12,2015,Existing,Household Buyer - Non-Occupier,120875.0
+V23,Caherciveen,1,2016,All Dwelling Statuses,All Buyer Types,151066.0
+V23,Caherciveen,1,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,119750.0
+V23,Caherciveen,1,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,182383.0
+V23,Caherciveen,1,2016,New,All Buyer Types,157765.0
+V23,Caherciveen,1,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2016,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2016,New,Household Buyer - Non-Occupier,157765.0
+V23,Caherciveen,1,2016,Existing,All Buyer Types,148833.0
+V23,Caherciveen,1,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2016,Existing,Household Buyer - Former Owner-Occupier,119750.0
+V23,Caherciveen,1,2016,Existing,Household Buyer - Non-Occupier,207000.0
+V23,Caherciveen,2,2016,All Dwelling Statuses,All Buyer Types,169006.0
+V23,Caherciveen,2,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,169006.0
+V23,Caherciveen,2,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,2,2016,New,All Buyer Types,137763.0
+V23,Caherciveen,2,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2016,New,Household Buyer - Former Owner-Occupier,137763.0
+V23,Caherciveen,2,2016,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,2,2016,Existing,All Buyer Types,200250.0
+V23,Caherciveen,2,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2016,Existing,Household Buyer - Former Owner-Occupier,200250.0
+V23,Caherciveen,2,2016,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,3,2016,All Dwelling Statuses,All Buyer Types,127750.0
+V23,Caherciveen,3,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,25000.0
+V23,Caherciveen,3,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,162000.0
+V23,Caherciveen,3,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,3,2016,New,All Buyer Types,
+V23,Caherciveen,3,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2016,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2016,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,3,2016,Existing,All Buyer Types,127750.0
+V23,Caherciveen,3,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,25000.0
+V23,Caherciveen,3,2016,Existing,Household Buyer - Former Owner-Occupier,162000.0
+V23,Caherciveen,3,2016,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,4,2016,All Dwelling Statuses,All Buyer Types,169000.0
+V23,Caherciveen,4,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,51000.0
+V23,Caherciveen,4,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,211167.0
+V23,Caherciveen,4,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,160500.0
+V23,Caherciveen,4,2016,New,All Buyer Types,
+V23,Caherciveen,4,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2016,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,4,2016,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,4,2016,Existing,All Buyer Types,169000.0
+V23,Caherciveen,4,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,51000.0
+V23,Caherciveen,4,2016,Existing,Household Buyer - Former Owner-Occupier,211167.0
+V23,Caherciveen,4,2016,Existing,Household Buyer - Non-Occupier,160500.0
+V23,Caherciveen,5,2016,All Dwelling Statuses,All Buyer Types,122917.0
+V23,Caherciveen,5,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,77500.0
+V23,Caherciveen,5,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,213750.0
+V23,Caherciveen,5,2016,New,All Buyer Types,100000.0
+V23,Caherciveen,5,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2016,New,Household Buyer - Former Owner-Occupier,100000.0
+V23,Caherciveen,5,2016,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,5,2016,Existing,All Buyer Types,127500.0
+V23,Caherciveen,5,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2016,Existing,Household Buyer - Former Owner-Occupier,70000.0
+V23,Caherciveen,5,2016,Existing,Household Buyer - Non-Occupier,213750.0
+V23,Caherciveen,6,2016,All Dwelling Statuses,All Buyer Types,127378.0
+V23,Caherciveen,6,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+V23,Caherciveen,6,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,181750.0
+V23,Caherciveen,6,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,87355.0
+V23,Caherciveen,6,2016,New,All Buyer Types,73775.0
+V23,Caherciveen,6,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2016,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,6,2016,New,Household Buyer - Non-Occupier,73775.0
+V23,Caherciveen,6,2016,Existing,All Buyer Types,133333.0
+V23,Caherciveen,6,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+V23,Caherciveen,6,2016,Existing,Household Buyer - Former Owner-Occupier,181750.0
+V23,Caherciveen,6,2016,Existing,Household Buyer - Non-Occupier,90750.0
+V23,Caherciveen,7,2016,All Dwelling Statuses,All Buyer Types,142938.0
+V23,Caherciveen,7,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,142938.0
+V23,Caherciveen,7,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,7,2016,New,All Buyer Types,118146.0
+V23,Caherciveen,7,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2016,New,Household Buyer - Former Owner-Occupier,118146.0
+V23,Caherciveen,7,2016,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,7,2016,Existing,All Buyer Types,155333.0
+V23,Caherciveen,7,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2016,Existing,Household Buyer - Former Owner-Occupier,155333.0
+V23,Caherciveen,7,2016,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,8,2016,All Dwelling Statuses,All Buyer Types,164250.0
+V23,Caherciveen,8,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+V23,Caherciveen,8,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,160667.0
+V23,Caherciveen,8,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,8,2016,New,All Buyer Types,
+V23,Caherciveen,8,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2016,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,8,2016,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,8,2016,Existing,All Buyer Types,164250.0
+V23,Caherciveen,8,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+V23,Caherciveen,8,2016,Existing,Household Buyer - Former Owner-Occupier,160667.0
+V23,Caherciveen,8,2016,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,9,2016,All Dwelling Statuses,All Buyer Types,111714.0
+V23,Caherciveen,9,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,162500.0
+V23,Caherciveen,9,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,94250.0
+V23,Caherciveen,9,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+V23,Caherciveen,9,2016,New,All Buyer Types,
+V23,Caherciveen,9,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2016,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,9,2016,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,9,2016,Existing,All Buyer Types,111714.0
+V23,Caherciveen,9,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,162500.0
+V23,Caherciveen,9,2016,Existing,Household Buyer - Former Owner-Occupier,94250.0
+V23,Caherciveen,9,2016,Existing,Household Buyer - Non-Occupier,80000.0
+V23,Caherciveen,10,2016,All Dwelling Statuses,All Buyer Types,210000.0
+V23,Caherciveen,10,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+V23,Caherciveen,10,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,250000.0
+V23,Caherciveen,10,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,10,2016,New,All Buyer Types,
+V23,Caherciveen,10,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2016,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,10,2016,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,10,2016,Existing,All Buyer Types,210000.0
+V23,Caherciveen,10,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+V23,Caherciveen,10,2016,Existing,Household Buyer - Former Owner-Occupier,250000.0
+V23,Caherciveen,10,2016,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,11,2016,All Dwelling Statuses,All Buyer Types,80821.0
+V23,Caherciveen,11,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,85000.0
+V23,Caherciveen,11,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,78917.0
+V23,Caherciveen,11,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,81333.0
+V23,Caherciveen,11,2016,New,All Buyer Types,
+V23,Caherciveen,11,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2016,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,11,2016,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,11,2016,Existing,All Buyer Types,80821.0
+V23,Caherciveen,11,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,85000.0
+V23,Caherciveen,11,2016,Existing,Household Buyer - Former Owner-Occupier,78917.0
+V23,Caherciveen,11,2016,Existing,Household Buyer - Non-Occupier,81333.0
+V23,Caherciveen,12,2016,All Dwelling Statuses,All Buyer Types,239000.0
+V23,Caherciveen,12,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,275000.0
+V23,Caherciveen,12,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,203000.0
+V23,Caherciveen,12,2016,New,All Buyer Types,
+V23,Caherciveen,12,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2016,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,12,2016,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,12,2016,Existing,All Buyer Types,239000.0
+V23,Caherciveen,12,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2016,Existing,Household Buyer - Former Owner-Occupier,275000.0
+V23,Caherciveen,12,2016,Existing,Household Buyer - Non-Occupier,203000.0
+V23,Caherciveen,1,2017,All Dwelling Statuses,All Buyer Types,131250.0
+V23,Caherciveen,1,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,146875.0
+V23,Caherciveen,1,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,100000.0
+V23,Caherciveen,1,2017,New,All Buyer Types,
+V23,Caherciveen,1,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2017,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2017,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,1,2017,Existing,All Buyer Types,131250.0
+V23,Caherciveen,1,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2017,Existing,Household Buyer - Former Owner-Occupier,146875.0
+V23,Caherciveen,1,2017,Existing,Household Buyer - Non-Occupier,100000.0
+V23,Caherciveen,2,2017,All Dwelling Statuses,All Buyer Types,119267.0
+V23,Caherciveen,2,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+V23,Caherciveen,2,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,115812.0
+V23,Caherciveen,2,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,2,2017,New,All Buyer Types,91935.0
+V23,Caherciveen,2,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2017,New,Household Buyer - Former Owner-Occupier,91935.0
+V23,Caherciveen,2,2017,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,2,2017,Existing,All Buyer Types,130200.0
+V23,Caherciveen,2,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+V23,Caherciveen,2,2017,Existing,Household Buyer - Former Owner-Occupier,127750.0
+V23,Caherciveen,2,2017,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,3,2017,All Dwelling Statuses,All Buyer Types,111667.0
+V23,Caherciveen,3,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+V23,Caherciveen,3,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,95000.0
+V23,Caherciveen,3,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,140000.0
+V23,Caherciveen,3,2017,New,All Buyer Types,
+V23,Caherciveen,3,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2017,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2017,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,3,2017,Existing,All Buyer Types,111667.0
+V23,Caherciveen,3,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+V23,Caherciveen,3,2017,Existing,Household Buyer - Former Owner-Occupier,95000.0
+V23,Caherciveen,3,2017,Existing,Household Buyer - Non-Occupier,140000.0
+V23,Caherciveen,4,2017,All Dwelling Statuses,All Buyer Types,130318.0
+V23,Caherciveen,4,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,124000.0
+V23,Caherciveen,4,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,90250.0
+V23,Caherciveen,4,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,260000.0
+V23,Caherciveen,4,2017,New,All Buyer Types,
+V23,Caherciveen,4,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2017,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,4,2017,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,4,2017,Existing,All Buyer Types,130318.0
+V23,Caherciveen,4,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,124000.0
+V23,Caherciveen,4,2017,Existing,Household Buyer - Former Owner-Occupier,90250.0
+V23,Caherciveen,4,2017,Existing,Household Buyer - Non-Occupier,260000.0
+V23,Caherciveen,5,2017,All Dwelling Statuses,All Buyer Types,91907.0
+V23,Caherciveen,5,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,51000.0
+V23,Caherciveen,5,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,77665.0
+V23,Caherciveen,5,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,116375.0
+V23,Caherciveen,5,2017,New,All Buyer Types,75001.0
+V23,Caherciveen,5,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2017,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,5,2017,New,Household Buyer - Non-Occupier,75001.0
+V23,Caherciveen,5,2017,Existing,All Buyer Types,94020.0
+V23,Caherciveen,5,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,51000.0
+V23,Caherciveen,5,2017,Existing,Household Buyer - Former Owner-Occupier,77665.0
+V23,Caherciveen,5,2017,Existing,Household Buyer - Non-Occupier,130167.0
+V23,Caherciveen,6,2017,All Dwelling Statuses,All Buyer Types,163833.0
+V23,Caherciveen,6,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,247500.0
+V23,Caherciveen,6,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,125000.0
+V23,Caherciveen,6,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,180250.0
+V23,Caherciveen,6,2017,New,All Buyer Types,
+V23,Caherciveen,6,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2017,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,6,2017,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,6,2017,Existing,All Buyer Types,163833.0
+V23,Caherciveen,6,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,247500.0
+V23,Caherciveen,6,2017,Existing,Household Buyer - Former Owner-Occupier,125000.0
+V23,Caherciveen,6,2017,Existing,Household Buyer - Non-Occupier,180250.0
+V23,Caherciveen,7,2017,All Dwelling Statuses,All Buyer Types,189750.0
+V23,Caherciveen,7,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+V23,Caherciveen,7,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,175250.0
+V23,Caherciveen,7,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,337500.0
+V23,Caherciveen,7,2017,New,All Buyer Types,109999.0
+V23,Caherciveen,7,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2017,New,Household Buyer - Former Owner-Occupier,109999.0
+V23,Caherciveen,7,2017,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,7,2017,Existing,All Buyer Types,205700.0
+V23,Caherciveen,7,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+V23,Caherciveen,7,2017,Existing,Household Buyer - Former Owner-Occupier,197000.0
+V23,Caherciveen,7,2017,Existing,Household Buyer - Non-Occupier,337500.0
+V23,Caherciveen,8,2017,All Dwelling Statuses,All Buyer Types,185100.0
+V23,Caherciveen,8,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,169900.0
+V23,Caherciveen,8,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,215500.0
+V23,Caherciveen,8,2017,New,All Buyer Types,221098.0
+V23,Caherciveen,8,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2017,New,Household Buyer - Former Owner-Occupier,221098.0
+V23,Caherciveen,8,2017,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,8,2017,Existing,All Buyer Types,177900.0
+V23,Caherciveen,8,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2017,Existing,Household Buyer - Former Owner-Occupier,152833.0
+V23,Caherciveen,8,2017,Existing,Household Buyer - Non-Occupier,215500.0
+V23,Caherciveen,9,2017,All Dwelling Statuses,All Buyer Types,106667.0
+V23,Caherciveen,9,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,210000.0
+V23,Caherciveen,9,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,55000.0
+V23,Caherciveen,9,2017,New,All Buyer Types,
+V23,Caherciveen,9,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2017,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,9,2017,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,9,2017,Existing,All Buyer Types,106667.0
+V23,Caherciveen,9,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2017,Existing,Household Buyer - Former Owner-Occupier,210000.0
+V23,Caherciveen,9,2017,Existing,Household Buyer - Non-Occupier,55000.0
+V23,Caherciveen,10,2017,All Dwelling Statuses,All Buyer Types,199833.0
+V23,Caherciveen,10,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,249250.0
+V23,Caherciveen,10,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,101000.0
+V23,Caherciveen,10,2017,New,All Buyer Types,
+V23,Caherciveen,10,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2017,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,10,2017,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,10,2017,Existing,All Buyer Types,199833.0
+V23,Caherciveen,10,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2017,Existing,Household Buyer - Former Owner-Occupier,249250.0
+V23,Caherciveen,10,2017,Existing,Household Buyer - Non-Occupier,101000.0
+V23,Caherciveen,11,2017,All Dwelling Statuses,All Buyer Types,150857.0
+V23,Caherciveen,11,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,135800.0
+V23,Caherciveen,11,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,188500.0
+V23,Caherciveen,11,2017,New,All Buyer Types,
+V23,Caherciveen,11,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2017,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,11,2017,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,11,2017,Existing,All Buyer Types,150857.0
+V23,Caherciveen,11,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2017,Existing,Household Buyer - Former Owner-Occupier,135800.0
+V23,Caherciveen,11,2017,Existing,Household Buyer - Non-Occupier,188500.0
+V23,Caherciveen,12,2017,All Dwelling Statuses,All Buyer Types,167669.0
+V23,Caherciveen,12,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,144000.0
+V23,Caherciveen,12,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,181817.0
+V23,Caherciveen,12,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,161643.0
+V23,Caherciveen,12,2017,New,All Buyer Types,219999.0
+V23,Caherciveen,12,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2017,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,12,2017,New,Household Buyer - Non-Occupier,219999.0
+V23,Caherciveen,12,2017,Existing,All Buyer Types,164590.0
+V23,Caherciveen,12,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,144000.0
+V23,Caherciveen,12,2017,Existing,Household Buyer - Former Owner-Occupier,181817.0
+V23,Caherciveen,12,2017,Existing,Household Buyer - Non-Occupier,151917.0
+V23,Caherciveen,1,2018,All Dwelling Statuses,All Buyer Types,170871.0
+V23,Caherciveen,1,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,85000.0
+V23,Caherciveen,1,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,176650.0
+V23,Caherciveen,1,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,202250.0
+V23,Caherciveen,1,2018,New,All Buyer Types,
+V23,Caherciveen,1,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2018,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2018,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,1,2018,Existing,All Buyer Types,170871.0
+V23,Caherciveen,1,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,85000.0
+V23,Caherciveen,1,2018,Existing,Household Buyer - Former Owner-Occupier,176650.0
+V23,Caherciveen,1,2018,Existing,Household Buyer - Non-Occupier,202250.0
+V23,Caherciveen,2,2018,All Dwelling Statuses,All Buyer Types,212357.0
+V23,Caherciveen,2,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,190300.0
+V23,Caherciveen,2,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,267500.0
+V23,Caherciveen,2,2018,New,All Buyer Types,
+V23,Caherciveen,2,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2018,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,2,2018,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,2,2018,Existing,All Buyer Types,212357.0
+V23,Caherciveen,2,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2018,Existing,Household Buyer - Former Owner-Occupier,190300.0
+V23,Caherciveen,2,2018,Existing,Household Buyer - Non-Occupier,267500.0
+V23,Caherciveen,3,2018,All Dwelling Statuses,All Buyer Types,112219.0
+V23,Caherciveen,3,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,96000.0
+V23,Caherciveen,3,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,128438.0
+V23,Caherciveen,3,2018,New,All Buyer Types,141875.0
+V23,Caherciveen,3,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2018,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2018,New,Household Buyer - Non-Occupier,141875.0
+V23,Caherciveen,3,2018,Existing,All Buyer Types,102333.0
+V23,Caherciveen,3,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2018,Existing,Household Buyer - Former Owner-Occupier,96000.0
+V23,Caherciveen,3,2018,Existing,Household Buyer - Non-Occupier,115000.0
+V23,Caherciveen,4,2018,All Dwelling Statuses,All Buyer Types,182375.0
+V23,Caherciveen,4,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,182500.0
+V23,Caherciveen,4,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,229000.0
+V23,Caherciveen,4,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,42250.0
+V23,Caherciveen,4,2018,New,All Buyer Types,
+V23,Caherciveen,4,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2018,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,4,2018,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,4,2018,Existing,All Buyer Types,182375.0
+V23,Caherciveen,4,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,182500.0
+V23,Caherciveen,4,2018,Existing,Household Buyer - Former Owner-Occupier,229000.0
+V23,Caherciveen,4,2018,Existing,Household Buyer - Non-Occupier,42250.0
+V23,Caherciveen,5,2018,All Dwelling Statuses,All Buyer Types,127700.0
+V23,Caherciveen,5,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,90800.0
+V23,Caherciveen,5,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,140000.0
+V23,Caherciveen,5,2018,New,All Buyer Types,90800.0
+V23,Caherciveen,5,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2018,New,Household Buyer - Former Owner-Occupier,90800.0
+V23,Caherciveen,5,2018,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,5,2018,Existing,All Buyer Types,140000.0
+V23,Caherciveen,5,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2018,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,5,2018,Existing,Household Buyer - Non-Occupier,140000.0
+V23,Caherciveen,6,2018,All Dwelling Statuses,All Buyer Types,169991.0
+V23,Caherciveen,6,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,112750.0
+V23,Caherciveen,6,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,227233.0
+V23,Caherciveen,6,2018,New,All Buyer Types,
+V23,Caherciveen,6,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2018,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,6,2018,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,6,2018,Existing,All Buyer Types,169991.0
+V23,Caherciveen,6,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2018,Existing,Household Buyer - Former Owner-Occupier,112750.0
+V23,Caherciveen,6,2018,Existing,Household Buyer - Non-Occupier,227233.0
+V23,Caherciveen,7,2018,All Dwelling Statuses,All Buyer Types,123955.0
+V23,Caherciveen,7,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,109883.0
+V23,Caherciveen,7,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,145063.0
+V23,Caherciveen,7,2018,New,All Buyer Types,221325.0
+V23,Caherciveen,7,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2018,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,7,2018,New,Household Buyer - Non-Occupier,221325.0
+V23,Caherciveen,7,2018,Existing,All Buyer Types,99613.0
+V23,Caherciveen,7,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2018,Existing,Household Buyer - Former Owner-Occupier,109883.0
+V23,Caherciveen,7,2018,Existing,Household Buyer - Non-Occupier,68800.0
+V23,Caherciveen,8,2018,All Dwelling Statuses,All Buyer Types,220643.0
+V23,Caherciveen,8,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,221900.0
+V23,Caherciveen,8,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,217500.0
+V23,Caherciveen,8,2018,New,All Buyer Types,
+V23,Caherciveen,8,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2018,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,8,2018,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,8,2018,Existing,All Buyer Types,220643.0
+V23,Caherciveen,8,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2018,Existing,Household Buyer - Former Owner-Occupier,221900.0
+V23,Caherciveen,8,2018,Existing,Household Buyer - Non-Occupier,217500.0
+V23,Caherciveen,9,2018,All Dwelling Statuses,All Buyer Types,91000.0
+V23,Caherciveen,9,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,61500.0
+V23,Caherciveen,9,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,150000.0
+V23,Caherciveen,9,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,9,2018,New,All Buyer Types,
+V23,Caherciveen,9,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2018,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,9,2018,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,9,2018,Existing,All Buyer Types,91000.0
+V23,Caherciveen,9,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,61500.0
+V23,Caherciveen,9,2018,Existing,Household Buyer - Former Owner-Occupier,150000.0
+V23,Caherciveen,9,2018,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,10,2018,All Dwelling Statuses,All Buyer Types,104430.0
+V23,Caherciveen,10,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,125000.0
+V23,Caherciveen,10,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,99288.0
+V23,Caherciveen,10,2018,New,All Buyer Types,102150.0
+V23,Caherciveen,10,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2018,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,10,2018,New,Household Buyer - Non-Occupier,102150.0
+V23,Caherciveen,10,2018,Existing,All Buyer Types,105000.0
+V23,Caherciveen,10,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2018,Existing,Household Buyer - Former Owner-Occupier,125000.0
+V23,Caherciveen,10,2018,Existing,Household Buyer - Non-Occupier,98333.0
+V23,Caherciveen,11,2018,All Dwelling Statuses,All Buyer Types,149869.0
+V23,Caherciveen,11,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,107825.0
+V23,Caherciveen,11,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,152800.0
+V23,Caherciveen,11,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,159000.0
+V23,Caherciveen,11,2018,New,All Buyer Types,107825.0
+V23,Caherciveen,11,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,107825.0
+V23,Caherciveen,11,2018,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,11,2018,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,11,2018,Existing,All Buyer Types,155125.0
+V23,Caherciveen,11,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2018,Existing,Household Buyer - Former Owner-Occupier,152800.0
+V23,Caherciveen,11,2018,Existing,Household Buyer - Non-Occupier,159000.0
+V23,Caherciveen,12,2018,All Dwelling Statuses,All Buyer Types,114700.0
+V23,Caherciveen,12,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,135750.0
+V23,Caherciveen,12,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,100667.0
+V23,Caherciveen,12,2018,New,All Buyer Types,
+V23,Caherciveen,12,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2018,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,12,2018,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,12,2018,Existing,All Buyer Types,114700.0
+V23,Caherciveen,12,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2018,Existing,Household Buyer - Former Owner-Occupier,135750.0
+V23,Caherciveen,12,2018,Existing,Household Buyer - Non-Occupier,100667.0
+V23,Caherciveen,1,2019,All Dwelling Statuses,All Buyer Types,145000.0
+V23,Caherciveen,1,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,145000.0
+V23,Caherciveen,1,2019,New,All Buyer Types,
+V23,Caherciveen,1,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2019,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2019,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,1,2019,Existing,All Buyer Types,145000.0
+V23,Caherciveen,1,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2019,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2019,Existing,Household Buyer - Non-Occupier,145000.0
+V23,Caherciveen,2,2019,All Dwelling Statuses,All Buyer Types,82158.0
+V23,Caherciveen,2,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,100000.0
+V23,Caherciveen,2,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,73238.0
+V23,Caherciveen,2,2019,New,All Buyer Types,96475.0
+V23,Caherciveen,2,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2019,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,2,2019,New,Household Buyer - Non-Occupier,96475.0
+V23,Caherciveen,2,2019,Existing,All Buyer Types,75000.0
+V23,Caherciveen,2,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2019,Existing,Household Buyer - Former Owner-Occupier,100000.0
+V23,Caherciveen,2,2019,Existing,Household Buyer - Non-Occupier,50000.0
+V23,Caherciveen,3,2019,All Dwelling Statuses,All Buyer Types,336250.0
+V23,Caherciveen,3,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,336250.0
+V23,Caherciveen,3,2019,New,All Buyer Types,
+V23,Caherciveen,3,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2019,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2019,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,3,2019,Existing,All Buyer Types,336250.0
+V23,Caherciveen,3,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2019,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2019,Existing,Household Buyer - Non-Occupier,336250.0
+V23,Caherciveen,4,2019,All Dwelling Statuses,All Buyer Types,126900.0
+V23,Caherciveen,4,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,62500.0
+V23,Caherciveen,4,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,164000.0
+V23,Caherciveen,4,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+V23,Caherciveen,4,2019,New,All Buyer Types,
+V23,Caherciveen,4,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2019,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,4,2019,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,4,2019,Existing,All Buyer Types,126900.0
+V23,Caherciveen,4,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,62500.0
+V23,Caherciveen,4,2019,Existing,Household Buyer - Former Owner-Occupier,164000.0
+V23,Caherciveen,4,2019,Existing,Household Buyer - Non-Occupier,80000.0
+V23,Caherciveen,5,2019,All Dwelling Statuses,All Buyer Types,173000.0
+V23,Caherciveen,5,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,107500.0
+V23,Caherciveen,5,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,216667.0
+V23,Caherciveen,5,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,5,2019,New,All Buyer Types,300000.0
+V23,Caherciveen,5,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2019,New,Household Buyer - Former Owner-Occupier,300000.0
+V23,Caherciveen,5,2019,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,5,2019,Existing,All Buyer Types,141250.0
+V23,Caherciveen,5,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,107500.0
+V23,Caherciveen,5,2019,Existing,Household Buyer - Former Owner-Occupier,175000.0
+V23,Caherciveen,5,2019,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,6,2019,All Dwelling Statuses,All Buyer Types,174250.0
+V23,Caherciveen,6,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,250000.0
+V23,Caherciveen,6,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,163750.0
+V23,Caherciveen,6,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,169429.0
+V23,Caherciveen,6,2019,New,All Buyer Types,
+V23,Caherciveen,6,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2019,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,6,2019,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,6,2019,Existing,All Buyer Types,174250.0
+V23,Caherciveen,6,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,250000.0
+V23,Caherciveen,6,2019,Existing,Household Buyer - Former Owner-Occupier,163750.0
+V23,Caherciveen,6,2019,Existing,Household Buyer - Non-Occupier,169429.0
+V23,Caherciveen,7,2019,All Dwelling Statuses,All Buyer Types,176200.0
+V23,Caherciveen,7,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,195000.0
+V23,Caherciveen,7,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,157400.0
+V23,Caherciveen,7,2019,New,All Buyer Types,280000.0
+V23,Caherciveen,7,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2019,New,Household Buyer - Former Owner-Occupier,280000.0
+V23,Caherciveen,7,2019,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,7,2019,Existing,All Buyer Types,164667.0
+V23,Caherciveen,7,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2019,Existing,Household Buyer - Former Owner-Occupier,173750.0
+V23,Caherciveen,7,2019,Existing,Household Buyer - Non-Occupier,157400.0
+V23,Caherciveen,8,2019,All Dwelling Statuses,All Buyer Types,197350.0
+V23,Caherciveen,8,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,218200.0
+V23,Caherciveen,8,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,176500.0
+V23,Caherciveen,8,2019,New,All Buyer Types,
+V23,Caherciveen,8,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2019,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,8,2019,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,8,2019,Existing,All Buyer Types,197350.0
+V23,Caherciveen,8,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2019,Existing,Household Buyer - Former Owner-Occupier,218200.0
+V23,Caherciveen,8,2019,Existing,Household Buyer - Non-Occupier,176500.0
+V23,Caherciveen,9,2019,All Dwelling Statuses,All Buyer Types,209711.0
+V23,Caherciveen,9,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,201564.0
+V23,Caherciveen,9,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,217857.0
+V23,Caherciveen,9,2019,New,All Buyer Types,199999.0
+V23,Caherciveen,9,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2019,New,Household Buyer - Former Owner-Occupier,199999.0
+V23,Caherciveen,9,2019,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,9,2019,Existing,All Buyer Types,210458.0
+V23,Caherciveen,9,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2019,Existing,Household Buyer - Former Owner-Occupier,201825.0
+V23,Caherciveen,9,2019,Existing,Household Buyer - Non-Occupier,217857.0
+V23,Caherciveen,10,2019,All Dwelling Statuses,All Buyer Types,152558.0
+V23,Caherciveen,10,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,168000.0
+V23,Caherciveen,10,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,183167.0
+V23,Caherciveen,10,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,112740.0
+V23,Caherciveen,10,2019,New,All Buyer Types,
+V23,Caherciveen,10,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2019,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,10,2019,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,10,2019,Existing,All Buyer Types,152558.0
+V23,Caherciveen,10,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,168000.0
+V23,Caherciveen,10,2019,Existing,Household Buyer - Former Owner-Occupier,183167.0
+V23,Caherciveen,10,2019,Existing,Household Buyer - Non-Occupier,112740.0
+V23,Caherciveen,11,2019,All Dwelling Statuses,All Buyer Types,118808.0
+V23,Caherciveen,11,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,131891.0
+V23,Caherciveen,11,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,105725.0
+V23,Caherciveen,11,2019,New,All Buyer Types,95741.0
+V23,Caherciveen,11,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2019,New,Household Buyer - Former Owner-Occupier,123781.0
+V23,Caherciveen,11,2019,New,Household Buyer - Non-Occupier,67700.0
+V23,Caherciveen,11,2019,Existing,All Buyer Types,141875.0
+V23,Caherciveen,11,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2019,Existing,Household Buyer - Former Owner-Occupier,140000.0
+V23,Caherciveen,11,2019,Existing,Household Buyer - Non-Occupier,143750.0
+V23,Caherciveen,12,2019,All Dwelling Statuses,All Buyer Types,189350.0
+V23,Caherciveen,12,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,102150.0
+V23,Caherciveen,12,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,252000.0
+V23,Caherciveen,12,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,114000.0
+V23,Caherciveen,12,2019,New,All Buyer Types,102150.0
+V23,Caherciveen,12,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,102150.0
+V23,Caherciveen,12,2019,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,12,2019,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,12,2019,Existing,All Buyer Types,200250.0
+V23,Caherciveen,12,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2019,Existing,Household Buyer - Former Owner-Occupier,252000.0
+V23,Caherciveen,12,2019,Existing,Household Buyer - Non-Occupier,114000.0
+V23,Caherciveen,1,2020,All Dwelling Statuses,All Buyer Types,174376.0
+V23,Caherciveen,1,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,138000.0
+V23,Caherciveen,1,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,223250.0
+V23,Caherciveen,1,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,143690.0
+V23,Caherciveen,1,2020,New,All Buyer Types,
+V23,Caherciveen,1,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2020,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2020,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,1,2020,Existing,All Buyer Types,174376.0
+V23,Caherciveen,1,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,138000.0
+V23,Caherciveen,1,2020,Existing,Household Buyer - Former Owner-Occupier,223250.0
+V23,Caherciveen,1,2020,Existing,Household Buyer - Non-Occupier,143690.0
+V23,Caherciveen,2,2020,All Dwelling Statuses,All Buyer Types,95950.0
+V23,Caherciveen,2,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,144000.0
+V23,Caherciveen,2,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,91875.0
+V23,Caherciveen,2,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,76000.0
+V23,Caherciveen,2,2020,New,All Buyer Types,
+V23,Caherciveen,2,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2020,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,2,2020,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,2,2020,Existing,All Buyer Types,95950.0
+V23,Caherciveen,2,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,144000.0
+V23,Caherciveen,2,2020,Existing,Household Buyer - Former Owner-Occupier,91875.0
+V23,Caherciveen,2,2020,Existing,Household Buyer - Non-Occupier,76000.0
+V23,Caherciveen,3,2020,All Dwelling Statuses,All Buyer Types,183042.0
+V23,Caherciveen,3,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,185000.0
+V23,Caherciveen,3,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,194889.0
+V23,Caherciveen,3,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,128750.0
+V23,Caherciveen,3,2020,New,All Buyer Types,
+V23,Caherciveen,3,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2020,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2020,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,3,2020,Existing,All Buyer Types,183042.0
+V23,Caherciveen,3,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,185000.0
+V23,Caherciveen,3,2020,Existing,Household Buyer - Former Owner-Occupier,194889.0
+V23,Caherciveen,3,2020,Existing,Household Buyer - Non-Occupier,128750.0
+V23,Caherciveen,4,2020,All Dwelling Statuses,All Buyer Types,125900.0
+V23,Caherciveen,4,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,60000.0
+V23,Caherciveen,4,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,142375.0
+V23,Caherciveen,4,2020,New,All Buyer Types,
+V23,Caherciveen,4,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2020,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,4,2020,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,4,2020,Existing,All Buyer Types,125900.0
+V23,Caherciveen,4,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2020,Existing,Household Buyer - Former Owner-Occupier,60000.0
+V23,Caherciveen,4,2020,Existing,Household Buyer - Non-Occupier,142375.0
+V23,Caherciveen,5,2020,All Dwelling Statuses,All Buyer Types,134187.0
+V23,Caherciveen,5,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,140833.0
+V23,Caherciveen,5,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,130200.0
+V23,Caherciveen,5,2020,New,All Buyer Types,125000.0
+V23,Caherciveen,5,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2020,New,Household Buyer - Former Owner-Occupier,125000.0
+V23,Caherciveen,5,2020,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,5,2020,Existing,All Buyer Types,135500.0
+V23,Caherciveen,5,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2020,Existing,Household Buyer - Former Owner-Occupier,148750.0
+V23,Caherciveen,5,2020,Existing,Household Buyer - Non-Occupier,130200.0
+V23,Caherciveen,6,2020,All Dwelling Statuses,All Buyer Types,220429.0
+V23,Caherciveen,6,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,221667.0
+V23,Caherciveen,6,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,219500.0
+V23,Caherciveen,6,2020,New,All Buyer Types,
+V23,Caherciveen,6,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2020,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,6,2020,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,6,2020,Existing,All Buyer Types,220429.0
+V23,Caherciveen,6,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2020,Existing,Household Buyer - Former Owner-Occupier,221667.0
+V23,Caherciveen,6,2020,Existing,Household Buyer - Non-Occupier,219500.0
+V23,Caherciveen,7,2020,All Dwelling Statuses,All Buyer Types,154000.0
+V23,Caherciveen,7,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,100000.0
+V23,Caherciveen,7,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,194500.0
+V23,Caherciveen,7,2020,New,All Buyer Types,
+V23,Caherciveen,7,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2020,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,7,2020,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,7,2020,Existing,All Buyer Types,154000.0
+V23,Caherciveen,7,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2020,Existing,Household Buyer - Former Owner-Occupier,100000.0
+V23,Caherciveen,7,2020,Existing,Household Buyer - Non-Occupier,194500.0
+V23,Caherciveen,8,2020,All Dwelling Statuses,All Buyer Types,71500.0
+V23,Caherciveen,8,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,8,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,71500.0
+V23,Caherciveen,8,2020,New,All Buyer Types,
+V23,Caherciveen,8,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2020,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,8,2020,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,8,2020,Existing,All Buyer Types,71500.0
+V23,Caherciveen,8,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2020,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,8,2020,Existing,Household Buyer - Non-Occupier,71500.0
+V23,Caherciveen,9,2020,All Dwelling Statuses,All Buyer Types,221277.0
+V23,Caherciveen,9,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,318667.0
+V23,Caherciveen,9,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,184756.0
+V23,Caherciveen,9,2020,New,All Buyer Types,196017.0
+V23,Caherciveen,9,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2020,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,9,2020,New,Household Buyer - Non-Occupier,196017.0
+V23,Caherciveen,9,2020,Existing,All Buyer Types,230750.0
+V23,Caherciveen,9,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2020,Existing,Household Buyer - Former Owner-Occupier,318667.0
+V23,Caherciveen,9,2020,Existing,Household Buyer - Non-Occupier,178000.0
+V23,Caherciveen,10,2020,All Dwelling Statuses,All Buyer Types,214106.0
+V23,Caherciveen,10,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,55000.0
+V23,Caherciveen,10,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,228850.0
+V23,Caherciveen,10,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,270000.0
+V23,Caherciveen,10,2020,New,All Buyer Types,
+V23,Caherciveen,10,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2020,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,10,2020,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,10,2020,Existing,All Buyer Types,214106.0
+V23,Caherciveen,10,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,55000.0
+V23,Caherciveen,10,2020,Existing,Household Buyer - Former Owner-Occupier,228850.0
+V23,Caherciveen,10,2020,Existing,Household Buyer - Non-Occupier,270000.0
+V23,Caherciveen,11,2020,All Dwelling Statuses,All Buyer Types,187843.0
+V23,Caherciveen,11,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,187843.0
+V23,Caherciveen,11,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+V23,Caherciveen,11,2020,New,All Buyer Types,187843.0
+V23,Caherciveen,11,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2020,New,Household Buyer - Former Owner-Occupier,187843.0
+V23,Caherciveen,11,2020,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,11,2020,Existing,All Buyer Types,
+V23,Caherciveen,11,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2020,Existing,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,11,2020,Existing,Household Buyer - Non-Occupier,
+V23,Caherciveen,12,2020,All Dwelling Statuses,All Buyer Types,192467.0
+V23,Caherciveen,12,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,222444.0
+V23,Caherciveen,12,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,147500.0
+V23,Caherciveen,12,2020,New,All Buyer Types,240000.0
+V23,Caherciveen,12,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2020,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,12,2020,New,Household Buyer - Non-Occupier,240000.0
+V23,Caherciveen,12,2020,Existing,All Buyer Types,189071.0
+V23,Caherciveen,12,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2020,Existing,Household Buyer - Former Owner-Occupier,222444.0
+V23,Caherciveen,12,2020,Existing,Household Buyer - Non-Occupier,129000.0
+V23,Caherciveen,1,2021,All Dwelling Statuses,All Buyer Types,177090.0
+V23,Caherciveen,1,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,132000.0
+V23,Caherciveen,1,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,194225.0
+V23,Caherciveen,1,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,182500.0
+V23,Caherciveen,1,2021,New,All Buyer Types,306450.0
+V23,Caherciveen,1,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2021,New,Household Buyer - Former Owner-Occupier,306450.0
+V23,Caherciveen,1,2021,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,1,2021,Existing,All Buyer Types,144750.0
+V23,Caherciveen,1,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,132000.0
+V23,Caherciveen,1,2021,Existing,Household Buyer - Former Owner-Occupier,82000.0
+V23,Caherciveen,1,2021,Existing,Household Buyer - Non-Occupier,182500.0
+V23,Caherciveen,2,2021,All Dwelling Statuses,All Buyer Types,177965.0
+V23,Caherciveen,2,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,182558.0
+V23,Caherciveen,2,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,155000.0
+V23,Caherciveen,2,2021,New,All Buyer Types,195788.0
+V23,Caherciveen,2,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2021,New,Household Buyer - Former Owner-Occupier,195788.0
+V23,Caherciveen,2,2021,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,2,2021,Existing,All Buyer Types,174400.0
+V23,Caherciveen,2,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2021,Existing,Household Buyer - Former Owner-Occupier,179250.0
+V23,Caherciveen,2,2021,Existing,Household Buyer - Non-Occupier,155000.0
+V23,Caherciveen,3,2021,All Dwelling Statuses,All Buyer Types,249464.0
+V23,Caherciveen,3,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,262500.0
+V23,Caherciveen,3,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,239035.0
+V23,Caherciveen,3,2021,New,All Buyer Types,119175.0
+V23,Caherciveen,3,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2021,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2021,New,Household Buyer - Non-Occupier,119175.0
+V23,Caherciveen,3,2021,Existing,All Buyer Types,265750.0
+V23,Caherciveen,3,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2021,Existing,Household Buyer - Former Owner-Occupier,262500.0
+V23,Caherciveen,3,2021,Existing,Household Buyer - Non-Occupier,269000.0
+V23,Caherciveen,4,2021,All Dwelling Statuses,All Buyer Types,160500.0
+V23,Caherciveen,4,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+V23,Caherciveen,4,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,160667.0
+V23,Caherciveen,4,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,115000.0
+V23,Caherciveen,4,2021,New,All Buyer Types,
+V23,Caherciveen,4,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2021,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,4,2021,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,4,2021,Existing,All Buyer Types,160500.0
+V23,Caherciveen,4,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+V23,Caherciveen,4,2021,Existing,Household Buyer - Former Owner-Occupier,160667.0
+V23,Caherciveen,4,2021,Existing,Household Buyer - Non-Occupier,115000.0
+V23,Caherciveen,5,2021,All Dwelling Statuses,All Buyer Types,132861.0
+V23,Caherciveen,5,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,134400.0
+V23,Caherciveen,5,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,130938.0
+V23,Caherciveen,5,2021,New,All Buyer Types,270375.0
+V23,Caherciveen,5,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2021,New,Household Buyer - Former Owner-Occupier,256999.0
+V23,Caherciveen,5,2021,New,Household Buyer - Non-Occupier,283750.0
+V23,Caherciveen,5,2021,Existing,All Buyer Types,93571.0
+V23,Caherciveen,5,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2021,Existing,Household Buyer - Former Owner-Occupier,103750.0
+V23,Caherciveen,5,2021,Existing,Household Buyer - Non-Occupier,80000.0
+V23,Caherciveen,6,2021,All Dwelling Statuses,All Buyer Types,198750.0
+V23,Caherciveen,6,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,188214.0
+V23,Caherciveen,6,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,223333.0
+V23,Caherciveen,6,2021,New,All Buyer Types,
+V23,Caherciveen,6,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2021,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,6,2021,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,6,2021,Existing,All Buyer Types,198750.0
+V23,Caherciveen,6,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2021,Existing,Household Buyer - Former Owner-Occupier,188214.0
+V23,Caherciveen,6,2021,Existing,Household Buyer - Non-Occupier,223333.0
+V23,Caherciveen,7,2021,All Dwelling Statuses,All Buyer Types,210786.0
+V23,Caherciveen,7,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,229000.0
+V23,Caherciveen,7,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,223286.0
+V23,Caherciveen,7,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,186000.0
+V23,Caherciveen,7,2021,New,All Buyer Types,268000.0
+V23,Caherciveen,7,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,268000.0
+V23,Caherciveen,7,2021,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,7,2021,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,7,2021,Existing,All Buyer Types,206385.0
+V23,Caherciveen,7,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+V23,Caherciveen,7,2021,Existing,Household Buyer - Former Owner-Occupier,223286.0
+V23,Caherciveen,7,2021,Existing,Household Buyer - Non-Occupier,186000.0
+V23,Caherciveen,8,2021,All Dwelling Statuses,All Buyer Types,191909.0
+V23,Caherciveen,8,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,60000.0
+V23,Caherciveen,8,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,179000.0
+V23,Caherciveen,8,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,231200.0
+V23,Caherciveen,8,2021,New,All Buyer Types,
+V23,Caherciveen,8,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2021,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,8,2021,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,8,2021,Existing,All Buyer Types,191909.0
+V23,Caherciveen,8,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,60000.0
+V23,Caherciveen,8,2021,Existing,Household Buyer - Former Owner-Occupier,179000.0
+V23,Caherciveen,8,2021,Existing,Household Buyer - Non-Occupier,231200.0
+V23,Caherciveen,9,2021,All Dwelling Statuses,All Buyer Types,237000.0
+V23,Caherciveen,9,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,157000.0
+V23,Caherciveen,9,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,236600.0
+V23,Caherciveen,9,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,257500.0
+V23,Caherciveen,9,2021,New,All Buyer Types,130000.0
+V23,Caherciveen,9,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2021,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,9,2021,New,Household Buyer - Non-Occupier,130000.0
+V23,Caherciveen,9,2021,Existing,All Buyer Types,248889.0
+V23,Caherciveen,9,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,157000.0
+V23,Caherciveen,9,2021,Existing,Household Buyer - Former Owner-Occupier,236600.0
+V23,Caherciveen,9,2021,Existing,Household Buyer - Non-Occupier,300000.0
+V23,Caherciveen,10,2021,All Dwelling Statuses,All Buyer Types,200986.0
+V23,Caherciveen,10,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180617.0
+V23,Caherciveen,10,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,165087.0
+V23,Caherciveen,10,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,226600.0
+V23,Caherciveen,10,2021,New,All Buyer Types,270000.0
+V23,Caherciveen,10,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2021,New,Household Buyer - Former Owner-Occupier,270000.0
+V23,Caherciveen,10,2021,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,10,2021,Existing,All Buyer Types,192360.0
+V23,Caherciveen,10,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180617.0
+V23,Caherciveen,10,2021,Existing,Household Buyer - Former Owner-Occupier,112630.0
+V23,Caherciveen,10,2021,Existing,Household Buyer - Non-Occupier,226600.0
+V23,Caherciveen,11,2021,All Dwelling Statuses,All Buyer Types,274978.0
+V23,Caherciveen,11,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,204300.0
+V23,Caherciveen,11,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,228417.0
+V23,Caherciveen,11,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,450000.0
+V23,Caherciveen,11,2021,New,All Buyer Types,204300.0
+V23,Caherciveen,11,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,204300.0
+V23,Caherciveen,11,2021,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,11,2021,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,11,2021,Existing,All Buyer Types,283813.0
+V23,Caherciveen,11,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2021,Existing,Household Buyer - Former Owner-Occupier,228417.0
+V23,Caherciveen,11,2021,Existing,Household Buyer - Non-Occupier,450000.0
+V23,Caherciveen,12,2021,All Dwelling Statuses,All Buyer Types,241400.0
+V23,Caherciveen,12,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+V23,Caherciveen,12,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,292500.0
+V23,Caherciveen,12,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,200375.0
+V23,Caherciveen,12,2021,New,All Buyer Types,
+V23,Caherciveen,12,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2021,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,12,2021,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,12,2021,Existing,All Buyer Types,241400.0
+V23,Caherciveen,12,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+V23,Caherciveen,12,2021,Existing,Household Buyer - Former Owner-Occupier,292500.0
+V23,Caherciveen,12,2021,Existing,Household Buyer - Non-Occupier,200375.0
+V23,Caherciveen,1,2022,All Dwelling Statuses,All Buyer Types,259750.0
+V23,Caherciveen,1,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,400000.0
+V23,Caherciveen,1,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,273250.0
+V23,Caherciveen,1,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,195000.0
+V23,Caherciveen,1,2022,New,All Buyer Types,250000.0
+V23,Caherciveen,1,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2022,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2022,New,Household Buyer - Non-Occupier,250000.0
+V23,Caherciveen,1,2022,Existing,All Buyer Types,261143.0
+V23,Caherciveen,1,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,400000.0
+V23,Caherciveen,1,2022,Existing,Household Buyer - Former Owner-Occupier,273250.0
+V23,Caherciveen,1,2022,Existing,Household Buyer - Non-Occupier,167500.0
+V23,Caherciveen,2,2022,All Dwelling Statuses,All Buyer Types,257503.0
+V23,Caherciveen,2,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,306193.0
+V23,Caherciveen,2,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,192583.0
+V23,Caherciveen,2,2022,New,All Buyer Types,311274.0
+V23,Caherciveen,2,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2022,New,Household Buyer - Former Owner-Occupier,311274.0
+V23,Caherciveen,2,2022,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,2,2022,Existing,All Buyer Types,248542.0
+V23,Caherciveen,2,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2022,Existing,Household Buyer - Former Owner-Occupier,304500.0
+V23,Caherciveen,2,2022,Existing,Household Buyer - Non-Occupier,192583.0
+V23,Caherciveen,3,2022,All Dwelling Statuses,All Buyer Types,169404.0
+V23,Caherciveen,3,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,207888.0
+V23,Caherciveen,3,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,130920.0
+V23,Caherciveen,3,2022,New,All Buyer Types,300775.0
+V23,Caherciveen,3,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2022,New,Household Buyer - Former Owner-Occupier,300775.0
+V23,Caherciveen,3,2022,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,3,2022,Existing,All Buyer Types,125613.0
+V23,Caherciveen,3,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2022,Existing,Household Buyer - Former Owner-Occupier,115000.0
+V23,Caherciveen,3,2022,Existing,Household Buyer - Non-Occupier,130920.0
+V23,Caherciveen,4,2022,All Dwelling Statuses,All Buyer Types,293334.0
+V23,Caherciveen,4,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+V23,Caherciveen,4,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,227500.0
+V23,Caherciveen,4,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,318959.0
+V23,Caherciveen,4,2022,New,All Buyer Types,223900.0
+V23,Caherciveen,4,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2022,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,4,2022,New,Household Buyer - Non-Occupier,223900.0
+V23,Caherciveen,4,2022,Existing,All Buyer Types,308764.0
+V23,Caherciveen,4,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+V23,Caherciveen,4,2022,Existing,Household Buyer - Former Owner-Occupier,227500.0
+V23,Caherciveen,4,2022,Existing,Household Buyer - Non-Occupier,350646.0
+V23,Caherciveen,5,2022,All Dwelling Statuses,All Buyer Types,257667.0
+V23,Caherciveen,5,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,279700.0
+V23,Caherciveen,5,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,147500.0
+V23,Caherciveen,5,2022,New,All Buyer Types,
+V23,Caherciveen,5,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2022,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,5,2022,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,5,2022,Existing,All Buyer Types,257667.0
+V23,Caherciveen,5,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2022,Existing,Household Buyer - Former Owner-Occupier,279700.0
+V23,Caherciveen,5,2022,Existing,Household Buyer - Non-Occupier,147500.0
+V23,Caherciveen,6,2022,All Dwelling Statuses,All Buyer Types,222261.0
+V23,Caherciveen,6,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,262665.0
+V23,Caherciveen,6,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,173776.0
+V23,Caherciveen,6,2022,New,All Buyer Types,258217.0
+V23,Caherciveen,6,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2022,New,Household Buyer - Former Owner-Occupier,207995.0
+V23,Caherciveen,6,2022,New,Household Buyer - Non-Occupier,308440.0
+V23,Caherciveen,6,2022,Existing,All Buyer Types,201714.0
+V23,Caherciveen,6,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2022,Existing,Household Buyer - Former Owner-Occupier,290000.0
+V23,Caherciveen,6,2022,Existing,Household Buyer - Non-Occupier,84000.0
+V23,Caherciveen,7,2022,All Dwelling Statuses,All Buyer Types,224563.0
+V23,Caherciveen,7,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,207000.0
+V23,Caherciveen,7,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,263638.0
+V23,Caherciveen,7,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,189000.0
+V23,Caherciveen,7,2022,New,All Buyer Types,184345.0
+V23,Caherciveen,7,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,207000.0
+V23,Caherciveen,7,2022,New,Household Buyer - Former Owner-Occupier,161690.0
+V23,Caherciveen,7,2022,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,7,2022,Existing,All Buyer Types,233500.0
+V23,Caherciveen,7,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2022,Existing,Household Buyer - Former Owner-Occupier,289125.0
+V23,Caherciveen,7,2022,Existing,Household Buyer - Non-Occupier,189000.0
+V23,Caherciveen,8,2022,All Dwelling Statuses,All Buyer Types,210750.0
+V23,Caherciveen,8,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,335000.0
+V23,Caherciveen,8,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,86500.0
+V23,Caherciveen,8,2022,New,All Buyer Types,289999.0
+V23,Caherciveen,8,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2022,New,Household Buyer - Former Owner-Occupier,289999.0
+V23,Caherciveen,8,2022,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,8,2022,Existing,All Buyer Types,184333.0
+V23,Caherciveen,8,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2022,Existing,Household Buyer - Former Owner-Occupier,380000.0
+V23,Caherciveen,8,2022,Existing,Household Buyer - Non-Occupier,86500.0
+V23,Caherciveen,9,2022,All Dwelling Statuses,All Buyer Types,225219.0
+V23,Caherciveen,9,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,191000.0
+V23,Caherciveen,9,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,267994.0
+V23,Caherciveen,9,2022,New,All Buyer Types,209975.0
+V23,Caherciveen,9,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2022,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,9,2022,New,Household Buyer - Non-Occupier,209975.0
+V23,Caherciveen,9,2022,Existing,All Buyer Types,227125.0
+V23,Caherciveen,9,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2022,Existing,Household Buyer - Former Owner-Occupier,191000.0
+V23,Caherciveen,9,2022,Existing,Household Buyer - Non-Occupier,287333.0
+V23,Caherciveen,10,2022,All Dwelling Statuses,All Buyer Types,280833.0
+V23,Caherciveen,10,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,309357.0
+V23,Caherciveen,10,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,181000.0
+V23,Caherciveen,10,2022,New,All Buyer Types,290000.0
+V23,Caherciveen,10,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2022,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,10,2022,New,Household Buyer - Non-Occupier,290000.0
+V23,Caherciveen,10,2022,Existing,All Buyer Types,279688.0
+V23,Caherciveen,10,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2022,Existing,Household Buyer - Former Owner-Occupier,309357.0
+V23,Caherciveen,10,2022,Existing,Household Buyer - Non-Occupier,72000.0
+V23,Caherciveen,11,2022,All Dwelling Statuses,All Buyer Types,245533.0
+V23,Caherciveen,11,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,155000.0
+V23,Caherciveen,11,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,281746.0
+V23,Caherciveen,11,2022,New,All Buyer Types,
+V23,Caherciveen,11,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2022,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,11,2022,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,11,2022,Existing,All Buyer Types,245533.0
+V23,Caherciveen,11,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2022,Existing,Household Buyer - Former Owner-Occupier,155000.0
+V23,Caherciveen,11,2022,Existing,Household Buyer - Non-Occupier,281746.0
+V23,Caherciveen,12,2022,All Dwelling Statuses,All Buyer Types,190444.0
+V23,Caherciveen,12,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,155000.0
+V23,Caherciveen,12,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,173500.0
+V23,Caherciveen,12,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,216250.0
+V23,Caherciveen,12,2022,New,All Buyer Types,245000.0
+V23,Caherciveen,12,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2022,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,12,2022,New,Household Buyer - Non-Occupier,245000.0
+V23,Caherciveen,12,2022,Existing,All Buyer Types,183625.0
+V23,Caherciveen,12,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,155000.0
+V23,Caherciveen,12,2022,Existing,Household Buyer - Former Owner-Occupier,173500.0
+V23,Caherciveen,12,2022,Existing,Household Buyer - Non-Occupier,206667.0
+V23,Caherciveen,1,2023,All Dwelling Statuses,All Buyer Types,252000.0
+V23,Caherciveen,1,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,318000.0
+V23,Caherciveen,1,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,120000.0
+V23,Caherciveen,1,2023,New,All Buyer Types,
+V23,Caherciveen,1,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2023,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2023,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,1,2023,Existing,All Buyer Types,252000.0
+V23,Caherciveen,1,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2023,Existing,Household Buyer - Former Owner-Occupier,318000.0
+V23,Caherciveen,1,2023,Existing,Household Buyer - Non-Occupier,120000.0
+V23,Caherciveen,2,2023,All Dwelling Statuses,All Buyer Types,219582.0
+V23,Caherciveen,2,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+V23,Caherciveen,2,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,198200.0
+V23,Caherciveen,2,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,219000.0
+V23,Caherciveen,2,2023,New,All Buyer Types,175000.0
+V23,Caherciveen,2,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2023,New,Household Buyer - Former Owner-Occupier,175000.0
+V23,Caherciveen,2,2023,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,2,2023,Existing,All Buyer Types,224040.0
+V23,Caherciveen,2,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+V23,Caherciveen,2,2023,Existing,Household Buyer - Former Owner-Occupier,202066.0
+V23,Caherciveen,2,2023,Existing,Household Buyer - Non-Occupier,219000.0
+V23,Caherciveen,3,2023,All Dwelling Statuses,All Buyer Types,314357.0
+V23,Caherciveen,3,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,300917.0
+V23,Caherciveen,3,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,395000.0
+V23,Caherciveen,3,2023,New,All Buyer Types,263000.0
+V23,Caherciveen,3,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2023,New,Household Buyer - Former Owner-Occupier,263000.0
+V23,Caherciveen,3,2023,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,3,2023,Existing,All Buyer Types,322917.0
+V23,Caherciveen,3,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2023,Existing,Household Buyer - Former Owner-Occupier,308500.0
+V23,Caherciveen,3,2023,Existing,Household Buyer - Non-Occupier,395000.0
+V23,Caherciveen,4,2023,All Dwelling Statuses,All Buyer Types,245000.0
+V23,Caherciveen,4,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+V23,Caherciveen,4,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,230000.0
+V23,Caherciveen,4,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,232500.0
+V23,Caherciveen,4,2023,New,All Buyer Types,300000.0
+V23,Caherciveen,4,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+V23,Caherciveen,4,2023,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,4,2023,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,4,2023,Existing,All Buyer Types,231250.0
+V23,Caherciveen,4,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2023,Existing,Household Buyer - Former Owner-Occupier,230000.0
+V23,Caherciveen,4,2023,Existing,Household Buyer - Non-Occupier,232500.0
+V23,Caherciveen,5,2023,All Dwelling Statuses,All Buyer Types,226857.0
+V23,Caherciveen,5,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,287500.0
+V23,Caherciveen,5,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,202600.0
+V23,Caherciveen,5,2023,New,All Buyer Types,
+V23,Caherciveen,5,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2023,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,5,2023,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,5,2023,Existing,All Buyer Types,226857.0
+V23,Caherciveen,5,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2023,Existing,Household Buyer - Former Owner-Occupier,287500.0
+V23,Caherciveen,5,2023,Existing,Household Buyer - Non-Occupier,202600.0
+V23,Caherciveen,6,2023,All Dwelling Statuses,All Buyer Types,376381.0
+V23,Caherciveen,6,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,389678.0
+V23,Caherciveen,6,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,270000.0
+V23,Caherciveen,6,2023,New,All Buyer Types,289425.0
+V23,Caherciveen,6,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2023,New,Household Buyer - Former Owner-Occupier,289425.0
+V23,Caherciveen,6,2023,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,6,2023,Existing,All Buyer Types,387250.0
+V23,Caherciveen,6,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2023,Existing,Household Buyer - Former Owner-Occupier,404000.0
+V23,Caherciveen,6,2023,Existing,Household Buyer - Non-Occupier,270000.0
+V23,Caherciveen,7,2023,All Dwelling Statuses,All Buyer Types,297167.0
+V23,Caherciveen,7,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+V23,Caherciveen,7,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,297333.0
+V23,Caherciveen,7,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,320500.0
+V23,Caherciveen,7,2023,New,All Buyer Types,262000.0
+V23,Caherciveen,7,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2023,New,Household Buyer - Former Owner-Occupier,262000.0
+V23,Caherciveen,7,2023,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,7,2023,Existing,All Buyer Types,301563.0
+V23,Caherciveen,7,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+V23,Caherciveen,7,2023,Existing,Household Buyer - Former Owner-Occupier,315000.0
+V23,Caherciveen,7,2023,Existing,Household Buyer - Non-Occupier,320500.0
+V23,Caherciveen,8,2023,All Dwelling Statuses,All Buyer Types,222083.0
+V23,Caherciveen,8,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,290000.0
+V23,Caherciveen,8,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,215625.0
+V23,Caherciveen,8,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,180000.0
+V23,Caherciveen,8,2023,New,All Buyer Types,
+V23,Caherciveen,8,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,8,2023,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,8,2023,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,8,2023,Existing,All Buyer Types,222083.0
+V23,Caherciveen,8,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,290000.0
+V23,Caherciveen,8,2023,Existing,Household Buyer - Former Owner-Occupier,215625.0
+V23,Caherciveen,8,2023,Existing,Household Buyer - Non-Occupier,180000.0
+V23,Caherciveen,9,2023,All Dwelling Statuses,All Buyer Types,214667.0
+V23,Caherciveen,9,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,236600.0
+V23,Caherciveen,9,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,105000.0
+V23,Caherciveen,9,2023,New,All Buyer Types,
+V23,Caherciveen,9,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2023,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,9,2023,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,9,2023,Existing,All Buyer Types,214667.0
+V23,Caherciveen,9,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,9,2023,Existing,Household Buyer - Former Owner-Occupier,236600.0
+V23,Caherciveen,9,2023,Existing,Household Buyer - Non-Occupier,105000.0
+V23,Caherciveen,10,2023,All Dwelling Statuses,All Buyer Types,245611.0
+V23,Caherciveen,10,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,270000.0
+V23,Caherciveen,10,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,221222.0
+V23,Caherciveen,10,2023,New,All Buyer Types,245444.0
+V23,Caherciveen,10,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2023,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,10,2023,New,Household Buyer - Non-Occupier,245444.0
+V23,Caherciveen,10,2023,Existing,All Buyer Types,245667.0
+V23,Caherciveen,10,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,10,2023,Existing,Household Buyer - Former Owner-Occupier,270000.0
+V23,Caherciveen,10,2023,Existing,Household Buyer - Non-Occupier,197000.0
+V23,Caherciveen,11,2023,All Dwelling Statuses,All Buyer Types,266409.0
+V23,Caherciveen,11,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,284583.0
+V23,Caherciveen,11,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,244600.0
+V23,Caherciveen,11,2023,New,All Buyer Types,250000.0
+V23,Caherciveen,11,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2023,New,Household Buyer - Former Owner-Occupier,250000.0
+V23,Caherciveen,11,2023,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,11,2023,Existing,All Buyer Types,268050.0
+V23,Caherciveen,11,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,11,2023,Existing,Household Buyer - Former Owner-Occupier,291500.0
+V23,Caherciveen,11,2023,Existing,Household Buyer - Non-Occupier,244600.0
+V23,Caherciveen,12,2023,All Dwelling Statuses,All Buyer Types,207601.0
+V23,Caherciveen,12,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,217568.0
+V23,Caherciveen,12,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,200125.0
+V23,Caherciveen,12,2023,New,All Buyer Types,207705.0
+V23,Caherciveen,12,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2023,New,Household Buyer - Former Owner-Occupier,207705.0
+V23,Caherciveen,12,2023,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,12,2023,Existing,All Buyer Types,207583.0
+V23,Caherciveen,12,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,12,2023,Existing,Household Buyer - Former Owner-Occupier,222500.0
+V23,Caherciveen,12,2023,Existing,Household Buyer - Non-Occupier,200125.0
+V23,Caherciveen,1,2024,All Dwelling Statuses,All Buyer Types,382400.0
+V23,Caherciveen,1,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,487500.0
+V23,Caherciveen,1,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,312333.0
+V23,Caherciveen,1,2024,New,All Buyer Types,
+V23,Caherciveen,1,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2024,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,1,2024,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,1,2024,Existing,All Buyer Types,382400.0
+V23,Caherciveen,1,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,1,2024,Existing,Household Buyer - Former Owner-Occupier,487500.0
+V23,Caherciveen,1,2024,Existing,Household Buyer - Non-Occupier,312333.0
+V23,Caherciveen,2,2024,All Dwelling Statuses,All Buyer Types,432429.0
+V23,Caherciveen,2,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,425500.0
+V23,Caherciveen,2,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,441667.0
+V23,Caherciveen,2,2024,New,All Buyer Types,
+V23,Caherciveen,2,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2024,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,2,2024,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,2,2024,Existing,All Buyer Types,432429.0
+V23,Caherciveen,2,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,2,2024,Existing,Household Buyer - Former Owner-Occupier,425500.0
+V23,Caherciveen,2,2024,Existing,Household Buyer - Non-Occupier,441667.0
+V23,Caherciveen,3,2024,All Dwelling Statuses,All Buyer Types,237400.0
+V23,Caherciveen,3,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,265000.0
+V23,Caherciveen,3,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,127000.0
+V23,Caherciveen,3,2024,New,All Buyer Types,
+V23,Caherciveen,3,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2024,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,3,2024,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,3,2024,Existing,All Buyer Types,237400.0
+V23,Caherciveen,3,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,3,2024,Existing,Household Buyer - Former Owner-Occupier,265000.0
+V23,Caherciveen,3,2024,Existing,Household Buyer - Non-Occupier,127000.0
+V23,Caherciveen,4,2024,All Dwelling Statuses,All Buyer Types,248900.0
+V23,Caherciveen,4,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,167500.0
+V23,Caherciveen,4,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,308500.0
+V23,Caherciveen,4,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,230000.0
+V23,Caherciveen,4,2024,New,All Buyer Types,227000.0
+V23,Caherciveen,4,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,4,2024,New,Household Buyer - Former Owner-Occupier,227000.0
+V23,Caherciveen,4,2024,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,4,2024,Existing,All Buyer Types,254375.0
+V23,Caherciveen,4,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,167500.0
+V23,Caherciveen,4,2024,Existing,Household Buyer - Former Owner-Occupier,390000.0
+V23,Caherciveen,4,2024,Existing,Household Buyer - Non-Occupier,230000.0
+V23,Caherciveen,5,2024,All Dwelling Statuses,All Buyer Types,248833.0
+V23,Caherciveen,5,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+V23,Caherciveen,5,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,284200.0
+V23,Caherciveen,5,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,239167.0
+V23,Caherciveen,5,2024,New,All Buyer Types,275000.0
+V23,Caherciveen,5,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,5,2024,New,Household Buyer - Former Owner-Occupier,275000.0
+V23,Caherciveen,5,2024,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,5,2024,Existing,All Buyer Types,246455.0
+V23,Caherciveen,5,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+V23,Caherciveen,5,2024,Existing,Household Buyer - Former Owner-Occupier,286500.0
+V23,Caherciveen,5,2024,Existing,Household Buyer - Non-Occupier,239167.0
+V23,Caherciveen,6,2024,All Dwelling Statuses,All Buyer Types,181667.0
+V23,Caherciveen,6,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,305000.0
+V23,Caherciveen,6,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,120000.0
+V23,Caherciveen,6,2024,New,All Buyer Types,
+V23,Caherciveen,6,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2024,New,Household Buyer - Former Owner-Occupier,
+V23,Caherciveen,6,2024,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,6,2024,Existing,All Buyer Types,181667.0
+V23,Caherciveen,6,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,6,2024,Existing,Household Buyer - Former Owner-Occupier,305000.0
+V23,Caherciveen,6,2024,Existing,Household Buyer - Non-Occupier,120000.0
+V23,Caherciveen,7,2024,All Dwelling Statuses,All Buyer Types,269400.0
+V23,Caherciveen,7,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,117000.0
+V23,Caherciveen,7,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,282500.0
+V23,Caherciveen,7,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,332500.0
+V23,Caherciveen,7,2024,New,All Buyer Types,220000.0
+V23,Caherciveen,7,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V23,Caherciveen,7,2024,New,Household Buyer - Former Owner-Occupier,220000.0
+V23,Caherciveen,7,2024,New,Household Buyer - Non-Occupier,
+V23,Caherciveen,7,2024,Existing,All Buyer Types,281750.0
+V23,Caherciveen,7,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,117000.0
+V23,Caherciveen,7,2024,Existing,Household Buyer - Former Owner-Occupier,345000.0
+V23,Caherciveen,7,2024,Existing,Household Buyer - Non-Occupier,332500.0

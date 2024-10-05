@@ -1,0 +1,2101 @@
+Routing Key,City,Month,Year,Dwelling Status,Type of Buyer,VALUE
+Y34,New Ross,1,2010,All Dwelling Statuses,All Buyer Types,245000.0
+Y34,New Ross,1,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,245000.0
+Y34,New Ross,1,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+Y34,New Ross,1,2010,New,All Buyer Types,
+Y34,New Ross,1,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2010,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,1,2010,New,Household Buyer - Non-Occupier,
+Y34,New Ross,1,2010,Existing,All Buyer Types,245000.0
+Y34,New Ross,1,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2010,Existing,Household Buyer - Former Owner-Occupier,245000.0
+Y34,New Ross,1,2010,Existing,Household Buyer - Non-Occupier,
+Y34,New Ross,2,2010,All Dwelling Statuses,All Buyer Types,135000.0
+Y34,New Ross,2,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,2,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,135000.0
+Y34,New Ross,2,2010,New,All Buyer Types,
+Y34,New Ross,2,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2010,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,2,2010,New,Household Buyer - Non-Occupier,
+Y34,New Ross,2,2010,Existing,All Buyer Types,135000.0
+Y34,New Ross,2,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2010,Existing,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,2,2010,Existing,Household Buyer - Non-Occupier,135000.0
+Y34,New Ross,3,2010,All Dwelling Statuses,All Buyer Types,244966.0
+Y34,New Ross,3,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+Y34,New Ross,3,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,223574.0
+Y34,New Ross,3,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,395500.0
+Y34,New Ross,3,2010,New,All Buyer Types,246295.0
+Y34,New Ross,3,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,3,2010,New,Household Buyer - Former Owner-Occupier,246295.0
+Y34,New Ross,3,2010,New,Household Buyer - Non-Occupier,
+Y34,New Ross,3,2010,Existing,All Buyer Types,244700.0
+Y34,New Ross,3,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+Y34,New Ross,3,2010,Existing,Household Buyer - Former Owner-Occupier,216000.0
+Y34,New Ross,3,2010,Existing,Household Buyer - Non-Occupier,395500.0
+Y34,New Ross,4,2010,All Dwelling Statuses,All Buyer Types,137000.0
+Y34,New Ross,4,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,137000.0
+Y34,New Ross,4,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+Y34,New Ross,4,2010,New,All Buyer Types,
+Y34,New Ross,4,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2010,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,4,2010,New,Household Buyer - Non-Occupier,
+Y34,New Ross,4,2010,Existing,All Buyer Types,137000.0
+Y34,New Ross,4,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2010,Existing,Household Buyer - Former Owner-Occupier,137000.0
+Y34,New Ross,4,2010,Existing,Household Buyer - Non-Occupier,
+Y34,New Ross,5,2010,All Dwelling Statuses,All Buyer Types,146600.0
+Y34,New Ross,5,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,229999.0
+Y34,New Ross,5,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,159333.0
+Y34,New Ross,5,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,25000.0
+Y34,New Ross,5,2010,New,All Buyer Types,229999.0
+Y34,New Ross,5,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,229999.0
+Y34,New Ross,5,2010,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,5,2010,New,Household Buyer - Non-Occupier,
+Y34,New Ross,5,2010,Existing,All Buyer Types,125750.0
+Y34,New Ross,5,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,5,2010,Existing,Household Buyer - Former Owner-Occupier,159333.0
+Y34,New Ross,5,2010,Existing,Household Buyer - Non-Occupier,25000.0
+Y34,New Ross,6,2010,All Dwelling Statuses,All Buyer Types,183036.0
+Y34,New Ross,6,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+Y34,New Ross,6,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,83125.0
+Y34,New Ross,6,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,315000.0
+Y34,New Ross,6,2010,New,All Buyer Types,300000.0
+Y34,New Ross,6,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+Y34,New Ross,6,2010,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,6,2010,New,Household Buyer - Non-Occupier,
+Y34,New Ross,6,2010,Existing,All Buyer Types,163542.0
+Y34,New Ross,6,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,166667.0
+Y34,New Ross,6,2010,Existing,Household Buyer - Former Owner-Occupier,83125.0
+Y34,New Ross,6,2010,Existing,Household Buyer - Non-Occupier,315000.0
+Y34,New Ross,7,2010,All Dwelling Statuses,All Buyer Types,181178.0
+Y34,New Ross,7,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+Y34,New Ross,7,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,187943.0
+Y34,New Ross,7,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,200000.0
+Y34,New Ross,7,2010,New,All Buyer Types,195400.0
+Y34,New Ross,7,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,7,2010,New,Household Buyer - Former Owner-Occupier,195400.0
+Y34,New Ross,7,2010,New,Household Buyer - Non-Occupier,
+Y34,New Ross,7,2010,Existing,All Buyer Types,169800.0
+Y34,New Ross,7,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+Y34,New Ross,7,2010,Existing,Household Buyer - Former Owner-Occupier,178000.0
+Y34,New Ross,7,2010,Existing,Household Buyer - Non-Occupier,200000.0
+Y34,New Ross,8,2010,All Dwelling Statuses,All Buyer Types,220000.0
+Y34,New Ross,8,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+Y34,New Ross,8,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,8,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+Y34,New Ross,8,2010,New,All Buyer Types,
+Y34,New Ross,8,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,8,2010,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,8,2010,New,Household Buyer - Non-Occupier,
+Y34,New Ross,8,2010,Existing,All Buyer Types,220000.0
+Y34,New Ross,8,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+Y34,New Ross,8,2010,Existing,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,8,2010,Existing,Household Buyer - Non-Occupier,
+Y34,New Ross,9,2010,All Dwelling Statuses,All Buyer Types,158000.0
+Y34,New Ross,9,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,9,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,162000.0
+Y34,New Ross,9,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,150000.0
+Y34,New Ross,9,2010,New,All Buyer Types,
+Y34,New Ross,9,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,9,2010,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,9,2010,New,Household Buyer - Non-Occupier,
+Y34,New Ross,9,2010,Existing,All Buyer Types,158000.0
+Y34,New Ross,9,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,9,2010,Existing,Household Buyer - Former Owner-Occupier,162000.0
+Y34,New Ross,9,2010,Existing,Household Buyer - Non-Occupier,150000.0
+Y34,New Ross,10,2010,All Dwelling Statuses,All Buyer Types,185500.0
+Y34,New Ross,10,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+Y34,New Ross,10,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,176667.0
+Y34,New Ross,10,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,192500.0
+Y34,New Ross,10,2010,New,All Buyer Types,270000.0
+Y34,New Ross,10,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,10,2010,New,Household Buyer - Former Owner-Occupier,270000.0
+Y34,New Ross,10,2010,New,Household Buyer - Non-Occupier,
+Y34,New Ross,10,2010,Existing,All Buyer Types,164375.0
+Y34,New Ross,10,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+Y34,New Ross,10,2010,Existing,Household Buyer - Former Owner-Occupier,130000.0
+Y34,New Ross,10,2010,Existing,Household Buyer - Non-Occupier,192500.0
+Y34,New Ross,11,2010,All Dwelling Statuses,All Buyer Types,175938.0
+Y34,New Ross,11,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,11,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,190083.0
+Y34,New Ross,11,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,133500.0
+Y34,New Ross,11,2010,New,All Buyer Types,170250.0
+Y34,New Ross,11,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,11,2010,New,Household Buyer - Former Owner-Occupier,170250.0
+Y34,New Ross,11,2010,New,Household Buyer - Non-Occupier,
+Y34,New Ross,11,2010,Existing,All Buyer Types,177833.0
+Y34,New Ross,11,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,11,2010,Existing,Household Buyer - Former Owner-Occupier,200000.0
+Y34,New Ross,11,2010,Existing,Household Buyer - Non-Occupier,133500.0
+Y34,New Ross,12,2010,All Dwelling Statuses,All Buyer Types,164600.0
+Y34,New Ross,12,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,163000.0
+Y34,New Ross,12,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,76000.0
+Y34,New Ross,12,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,258000.0
+Y34,New Ross,12,2010,New,All Buyer Types,
+Y34,New Ross,12,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,12,2010,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,12,2010,New,Household Buyer - Non-Occupier,
+Y34,New Ross,12,2010,Existing,All Buyer Types,164600.0
+Y34,New Ross,12,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,163000.0
+Y34,New Ross,12,2010,Existing,Household Buyer - Former Owner-Occupier,76000.0
+Y34,New Ross,12,2010,Existing,Household Buyer - Non-Occupier,258000.0
+Y34,New Ross,1,2011,All Dwelling Statuses,All Buyer Types,62333.0
+Y34,New Ross,1,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,55000.0
+Y34,New Ross,1,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,77000.0
+Y34,New Ross,1,2011,New,All Buyer Types,
+Y34,New Ross,1,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2011,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,1,2011,New,Household Buyer - Non-Occupier,
+Y34,New Ross,1,2011,Existing,All Buyer Types,62333.0
+Y34,New Ross,1,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2011,Existing,Household Buyer - Former Owner-Occupier,55000.0
+Y34,New Ross,1,2011,Existing,Household Buyer - Non-Occupier,77000.0
+Y34,New Ross,2,2011,All Dwelling Statuses,All Buyer Types,169796.0
+Y34,New Ross,2,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,215365.0
+Y34,New Ross,2,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,161125.0
+Y34,New Ross,2,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,96000.0
+Y34,New Ross,2,2011,New,All Buyer Types,204229.0
+Y34,New Ross,2,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,243458.0
+Y34,New Ross,2,2011,New,Household Buyer - Former Owner-Occupier,165000.0
+Y34,New Ross,2,2011,New,Household Buyer - Non-Occupier,
+Y34,New Ross,2,2011,Existing,All Buyer Types,161188.0
+Y34,New Ross,2,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,206000.0
+Y34,New Ross,2,2011,Existing,Household Buyer - Former Owner-Occupier,159833.0
+Y34,New Ross,2,2011,Existing,Household Buyer - Non-Occupier,96000.0
+Y34,New Ross,3,2011,All Dwelling Statuses,All Buyer Types,186667.0
+Y34,New Ross,3,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,3,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,186667.0
+Y34,New Ross,3,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+Y34,New Ross,3,2011,New,All Buyer Types,
+Y34,New Ross,3,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,3,2011,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,3,2011,New,Household Buyer - Non-Occupier,
+Y34,New Ross,3,2011,Existing,All Buyer Types,186667.0
+Y34,New Ross,3,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,3,2011,Existing,Household Buyer - Former Owner-Occupier,186667.0
+Y34,New Ross,3,2011,Existing,Household Buyer - Non-Occupier,
+Y34,New Ross,4,2011,All Dwelling Statuses,All Buyer Types,225750.0
+Y34,New Ross,4,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,224375.0
+Y34,New Ross,4,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,260000.0
+Y34,New Ross,4,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,160000.0
+Y34,New Ross,4,2011,New,All Buyer Types,283750.0
+Y34,New Ross,4,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,283750.0
+Y34,New Ross,4,2011,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,4,2011,New,Household Buyer - Non-Occupier,
+Y34,New Ross,4,2011,Existing,All Buyer Types,211250.0
+Y34,New Ross,4,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+Y34,New Ross,4,2011,Existing,Household Buyer - Former Owner-Occupier,260000.0
+Y34,New Ross,4,2011,Existing,Household Buyer - Non-Occupier,160000.0
+Y34,New Ross,5,2011,All Dwelling Statuses,All Buyer Types,168889.0
+Y34,New Ross,5,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,5,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,194500.0
+Y34,New Ross,5,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,156083.0
+Y34,New Ross,5,2011,New,All Buyer Types,189999.0
+Y34,New Ross,5,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,5,2011,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,5,2011,New,Household Buyer - Non-Occupier,189999.0
+Y34,New Ross,5,2011,Existing,All Buyer Types,166250.0
+Y34,New Ross,5,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,5,2011,Existing,Household Buyer - Former Owner-Occupier,194500.0
+Y34,New Ross,5,2011,Existing,Household Buyer - Non-Occupier,149300.0
+Y34,New Ross,6,2011,All Dwelling Statuses,All Buyer Types,119125.0
+Y34,New Ross,6,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,6,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,118833.0
+Y34,New Ross,6,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,120000.0
+Y34,New Ross,6,2011,New,All Buyer Types,
+Y34,New Ross,6,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,6,2011,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,6,2011,New,Household Buyer - Non-Occupier,
+Y34,New Ross,6,2011,Existing,All Buyer Types,119125.0
+Y34,New Ross,6,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,6,2011,Existing,Household Buyer - Former Owner-Occupier,118833.0
+Y34,New Ross,6,2011,Existing,Household Buyer - Non-Occupier,120000.0
+Y34,New Ross,7,2011,All Dwelling Statuses,All Buyer Types,125250.0
+Y34,New Ross,7,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,156500.0
+Y34,New Ross,7,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,187500.0
+Y34,New Ross,7,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,73333.0
+Y34,New Ross,7,2011,New,All Buyer Types,
+Y34,New Ross,7,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,7,2011,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,7,2011,New,Household Buyer - Non-Occupier,
+Y34,New Ross,7,2011,Existing,All Buyer Types,125250.0
+Y34,New Ross,7,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,156500.0
+Y34,New Ross,7,2011,Existing,Household Buyer - Former Owner-Occupier,187500.0
+Y34,New Ross,7,2011,Existing,Household Buyer - Non-Occupier,73333.0
+Y34,New Ross,8,2011,All Dwelling Statuses,All Buyer Types,143500.0
+Y34,New Ross,8,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,8,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,143500.0
+Y34,New Ross,8,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+Y34,New Ross,8,2011,New,All Buyer Types,
+Y34,New Ross,8,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,8,2011,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,8,2011,New,Household Buyer - Non-Occupier,
+Y34,New Ross,8,2011,Existing,All Buyer Types,143500.0
+Y34,New Ross,8,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,8,2011,Existing,Household Buyer - Former Owner-Occupier,143500.0
+Y34,New Ross,8,2011,Existing,Household Buyer - Non-Occupier,
+Y34,New Ross,9,2011,All Dwelling Statuses,All Buyer Types,129862.0
+Y34,New Ross,9,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,9,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,79450.0
+Y34,New Ross,9,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,146666.0
+Y34,New Ross,9,2011,New,All Buyer Types,114725.0
+Y34,New Ross,9,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,9,2011,New,Household Buyer - Former Owner-Occupier,79450.0
+Y34,New Ross,9,2011,New,Household Buyer - Non-Occupier,149999.0
+Y34,New Ross,9,2011,Existing,All Buyer Types,145000.0
+Y34,New Ross,9,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,9,2011,Existing,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,9,2011,Existing,Household Buyer - Non-Occupier,145000.0
+Y34,New Ross,10,2011,All Dwelling Statuses,All Buyer Types,199788.0
+Y34,New Ross,10,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,10,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,232217.0
+Y34,New Ross,10,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,102500.0
+Y34,New Ross,10,2011,New,All Buyer Types,
+Y34,New Ross,10,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,10,2011,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,10,2011,New,Household Buyer - Non-Occupier,
+Y34,New Ross,10,2011,Existing,All Buyer Types,199788.0
+Y34,New Ross,10,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,10,2011,Existing,Household Buyer - Former Owner-Occupier,232217.0
+Y34,New Ross,10,2011,Existing,Household Buyer - Non-Occupier,102500.0
+Y34,New Ross,11,2011,All Dwelling Statuses,All Buyer Types,130000.0
+Y34,New Ross,11,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+Y34,New Ross,11,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,100000.0
+Y34,New Ross,11,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+Y34,New Ross,11,2011,New,All Buyer Types,
+Y34,New Ross,11,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,11,2011,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,11,2011,New,Household Buyer - Non-Occupier,
+Y34,New Ross,11,2011,Existing,All Buyer Types,130000.0
+Y34,New Ross,11,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+Y34,New Ross,11,2011,Existing,Household Buyer - Former Owner-Occupier,100000.0
+Y34,New Ross,11,2011,Existing,Household Buyer - Non-Occupier,
+Y34,New Ross,12,2011,All Dwelling Statuses,All Buyer Types,120375.0
+Y34,New Ross,12,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,132000.0
+Y34,New Ross,12,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,131875.0
+Y34,New Ross,12,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,112143.0
+Y34,New Ross,12,2011,New,All Buyer Types,132000.0
+Y34,New Ross,12,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,132000.0
+Y34,New Ross,12,2011,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,12,2011,New,Household Buyer - Non-Occupier,
+Y34,New Ross,12,2011,Existing,All Buyer Types,119318.0
+Y34,New Ross,12,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,12,2011,Existing,Household Buyer - Former Owner-Occupier,131875.0
+Y34,New Ross,12,2011,Existing,Household Buyer - Non-Occupier,112143.0
+Y34,New Ross,1,2012,All Dwelling Statuses,All Buyer Types,93365.0
+Y34,New Ross,1,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,70423.0
+Y34,New Ross,1,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,139250.0
+Y34,New Ross,1,2012,New,All Buyer Types,113500.0
+Y34,New Ross,1,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2012,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,1,2012,New,Household Buyer - Non-Occupier,113500.0
+Y34,New Ross,1,2012,Existing,All Buyer Types,89338.0
+Y34,New Ross,1,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2012,Existing,Household Buyer - Former Owner-Occupier,70423.0
+Y34,New Ross,1,2012,Existing,Household Buyer - Non-Occupier,165000.0
+Y34,New Ross,2,2012,All Dwelling Statuses,All Buyer Types,103167.0
+Y34,New Ross,2,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,94750.0
+Y34,New Ross,2,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,120000.0
+Y34,New Ross,2,2012,New,All Buyer Types,
+Y34,New Ross,2,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2012,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,2,2012,New,Household Buyer - Non-Occupier,
+Y34,New Ross,2,2012,Existing,All Buyer Types,103167.0
+Y34,New Ross,2,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2012,Existing,Household Buyer - Former Owner-Occupier,94750.0
+Y34,New Ross,2,2012,Existing,Household Buyer - Non-Occupier,120000.0
+Y34,New Ross,3,2012,All Dwelling Statuses,All Buyer Types,108500.0
+Y34,New Ross,3,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,3,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,126250.0
+Y34,New Ross,3,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,96667.0
+Y34,New Ross,3,2012,New,All Buyer Types,
+Y34,New Ross,3,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,3,2012,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,3,2012,New,Household Buyer - Non-Occupier,
+Y34,New Ross,3,2012,Existing,All Buyer Types,108500.0
+Y34,New Ross,3,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,3,2012,Existing,Household Buyer - Former Owner-Occupier,126250.0
+Y34,New Ross,3,2012,Existing,Household Buyer - Non-Occupier,96667.0
+Y34,New Ross,4,2012,All Dwelling Statuses,All Buyer Types,111248.0
+Y34,New Ross,4,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+Y34,New Ross,4,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,152500.0
+Y34,New Ross,4,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,67496.0
+Y34,New Ross,4,2012,New,All Buyer Types,110487.0
+Y34,New Ross,4,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2012,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,4,2012,New,Household Buyer - Non-Occupier,110487.0
+Y34,New Ross,4,2012,Existing,All Buyer Types,111400.0
+Y34,New Ross,4,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+Y34,New Ross,4,2012,Existing,Household Buyer - Former Owner-Occupier,152500.0
+Y34,New Ross,4,2012,Existing,Household Buyer - Non-Occupier,46000.0
+Y34,New Ross,5,2012,All Dwelling Statuses,All Buyer Types,78832.0
+Y34,New Ross,5,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,133684.0
+Y34,New Ross,5,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,39720.0
+Y34,New Ross,5,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,89167.0
+Y34,New Ross,5,2012,New,All Buyer Types,159517.0
+Y34,New Ross,5,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,159276.0
+Y34,New Ross,5,2012,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,5,2012,New,Household Buyer - Non-Occupier,160000.0
+Y34,New Ross,5,2012,Existing,All Buyer Types,48575.0
+Y34,New Ross,5,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,82500.0
+Y34,New Ross,5,2012,Existing,Household Buyer - Former Owner-Occupier,39720.0
+Y34,New Ross,5,2012,Existing,Household Buyer - Non-Occupier,53750.0
+Y34,New Ross,6,2012,All Dwelling Statuses,All Buyer Types,123286.0
+Y34,New Ross,6,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,76500.0
+Y34,New Ross,6,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,191667.0
+Y34,New Ross,6,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,67500.0
+Y34,New Ross,6,2012,New,All Buyer Types,
+Y34,New Ross,6,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,6,2012,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,6,2012,New,Household Buyer - Non-Occupier,
+Y34,New Ross,6,2012,Existing,All Buyer Types,123286.0
+Y34,New Ross,6,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,76500.0
+Y34,New Ross,6,2012,Existing,Household Buyer - Former Owner-Occupier,191667.0
+Y34,New Ross,6,2012,Existing,Household Buyer - Non-Occupier,67500.0
+Y34,New Ross,7,2012,All Dwelling Statuses,All Buyer Types,120192.0
+Y34,New Ross,7,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,135750.0
+Y34,New Ross,7,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,116222.0
+Y34,New Ross,7,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,122500.0
+Y34,New Ross,7,2012,New,All Buyer Types,
+Y34,New Ross,7,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,7,2012,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,7,2012,New,Household Buyer - Non-Occupier,
+Y34,New Ross,7,2012,Existing,All Buyer Types,120192.0
+Y34,New Ross,7,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,135750.0
+Y34,New Ross,7,2012,Existing,Household Buyer - Former Owner-Occupier,116222.0
+Y34,New Ross,7,2012,Existing,Household Buyer - Non-Occupier,122500.0
+Y34,New Ross,8,2012,All Dwelling Statuses,All Buyer Types,159800.0
+Y34,New Ross,8,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,185000.0
+Y34,New Ross,8,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,145500.0
+Y34,New Ross,8,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,180000.0
+Y34,New Ross,8,2012,New,All Buyer Types,150000.0
+Y34,New Ross,8,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,8,2012,New,Household Buyer - Former Owner-Occupier,150000.0
+Y34,New Ross,8,2012,New,Household Buyer - Non-Occupier,
+Y34,New Ross,8,2012,Existing,All Buyer Types,160889.0
+Y34,New Ross,8,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,185000.0
+Y34,New Ross,8,2012,Existing,Household Buyer - Former Owner-Occupier,144600.0
+Y34,New Ross,8,2012,Existing,Household Buyer - Non-Occupier,180000.0
+Y34,New Ross,9,2012,All Dwelling Statuses,All Buyer Types,129675.0
+Y34,New Ross,9,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,145000.0
+Y34,New Ross,9,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,128333.0
+Y34,New Ross,9,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,126038.0
+Y34,New Ross,9,2012,New,All Buyer Types,164575.0
+Y34,New Ross,9,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,9,2012,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,9,2012,New,Household Buyer - Non-Occupier,164575.0
+Y34,New Ross,9,2012,Existing,All Buyer Types,125313.0
+Y34,New Ross,9,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,145000.0
+Y34,New Ross,9,2012,Existing,Household Buyer - Former Owner-Occupier,128333.0
+Y34,New Ross,9,2012,Existing,Household Buyer - Non-Occupier,87500.0
+Y34,New Ross,10,2012,All Dwelling Statuses,All Buyer Types,68333.0
+Y34,New Ross,10,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,35000.0
+Y34,New Ross,10,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,75000.0
+Y34,New Ross,10,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+Y34,New Ross,10,2012,New,All Buyer Types,
+Y34,New Ross,10,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,10,2012,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,10,2012,New,Household Buyer - Non-Occupier,
+Y34,New Ross,10,2012,Existing,All Buyer Types,68333.0
+Y34,New Ross,10,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,35000.0
+Y34,New Ross,10,2012,Existing,Household Buyer - Former Owner-Occupier,75000.0
+Y34,New Ross,10,2012,Existing,Household Buyer - Non-Occupier,
+Y34,New Ross,11,2012,All Dwelling Statuses,All Buyer Types,121675.0
+Y34,New Ross,11,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,135000.0
+Y34,New Ross,11,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,113914.0
+Y34,New Ross,11,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,127750.0
+Y34,New Ross,11,2012,New,All Buyer Types,161071.0
+Y34,New Ross,11,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,11,2012,New,Household Buyer - Former Owner-Occupier,161071.0
+Y34,New Ross,11,2012,New,Household Buyer - Non-Occupier,
+Y34,New Ross,11,2012,Existing,All Buyer Types,116750.0
+Y34,New Ross,11,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,135000.0
+Y34,New Ross,11,2012,Existing,Household Buyer - Former Owner-Occupier,102125.0
+Y34,New Ross,11,2012,Existing,Household Buyer - Non-Occupier,127750.0
+Y34,New Ross,12,2012,All Dwelling Statuses,All Buyer Types,77933.0
+Y34,New Ross,12,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,77133.0
+Y34,New Ross,12,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,91000.0
+Y34,New Ross,12,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,55000.0
+Y34,New Ross,12,2012,New,All Buyer Types,109767.0
+Y34,New Ross,12,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,109767.0
+Y34,New Ross,12,2012,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,12,2012,New,Household Buyer - Non-Occupier,
+Y34,New Ross,12,2012,Existing,All Buyer Types,65200.0
+Y34,New Ross,12,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,44500.0
+Y34,New Ross,12,2012,Existing,Household Buyer - Former Owner-Occupier,91000.0
+Y34,New Ross,12,2012,Existing,Household Buyer - Non-Occupier,55000.0
+Y34,New Ross,1,2013,All Dwelling Statuses,All Buyer Types,81071.0
+Y34,New Ross,1,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,47000.0
+Y34,New Ross,1,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,90500.0
+Y34,New Ross,1,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,68000.0
+Y34,New Ross,1,2013,New,All Buyer Types,
+Y34,New Ross,1,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2013,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,1,2013,New,Household Buyer - Non-Occupier,
+Y34,New Ross,1,2013,Existing,All Buyer Types,81071.0
+Y34,New Ross,1,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,47000.0
+Y34,New Ross,1,2013,Existing,Household Buyer - Former Owner-Occupier,90500.0
+Y34,New Ross,1,2013,Existing,Household Buyer - Non-Occupier,68000.0
+Y34,New Ross,2,2013,All Dwelling Statuses,All Buyer Types,129000.0
+Y34,New Ross,2,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+Y34,New Ross,2,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,217000.0
+Y34,New Ross,2,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,70000.0
+Y34,New Ross,2,2013,New,All Buyer Types,
+Y34,New Ross,2,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2013,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,2,2013,New,Household Buyer - Non-Occupier,
+Y34,New Ross,2,2013,Existing,All Buyer Types,129000.0
+Y34,New Ross,2,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+Y34,New Ross,2,2013,Existing,Household Buyer - Former Owner-Occupier,217000.0
+Y34,New Ross,2,2013,Existing,Household Buyer - Non-Occupier,70000.0
+Y34,New Ross,3,2013,All Dwelling Statuses,All Buyer Types,71875.0
+Y34,New Ross,3,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,3,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,57667.0
+Y34,New Ross,3,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,80400.0
+Y34,New Ross,3,2013,New,All Buyer Types,
+Y34,New Ross,3,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,3,2013,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,3,2013,New,Household Buyer - Non-Occupier,
+Y34,New Ross,3,2013,Existing,All Buyer Types,71875.0
+Y34,New Ross,3,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,3,2013,Existing,Household Buyer - Former Owner-Occupier,57667.0
+Y34,New Ross,3,2013,Existing,Household Buyer - Non-Occupier,80400.0
+Y34,New Ross,4,2013,All Dwelling Statuses,All Buyer Types,
+Y34,New Ross,4,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,4,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+Y34,New Ross,4,2013,New,All Buyer Types,
+Y34,New Ross,4,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2013,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,4,2013,New,Household Buyer - Non-Occupier,
+Y34,New Ross,4,2013,Existing,All Buyer Types,
+Y34,New Ross,4,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2013,Existing,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,4,2013,Existing,Household Buyer - Non-Occupier,
+Y34,New Ross,5,2013,All Dwelling Statuses,All Buyer Types,88137.0
+Y34,New Ross,5,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,125433.0
+Y34,New Ross,5,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,82500.0
+Y34,New Ross,5,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,76600.0
+Y34,New Ross,5,2013,New,All Buyer Types,225865.0
+Y34,New Ross,5,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,225865.0
+Y34,New Ross,5,2013,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,5,2013,New,Household Buyer - Non-Occupier,
+Y34,New Ross,5,2013,Existing,All Buyer Types,72833.0
+Y34,New Ross,5,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,25000.0
+Y34,New Ross,5,2013,Existing,Household Buyer - Former Owner-Occupier,82500.0
+Y34,New Ross,5,2013,Existing,Household Buyer - Non-Occupier,76600.0
+Y34,New Ross,6,2013,All Dwelling Statuses,All Buyer Types,65111.0
+Y34,New Ross,6,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,6,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,82600.0
+Y34,New Ross,6,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,43250.0
+Y34,New Ross,6,2013,New,All Buyer Types,
+Y34,New Ross,6,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,6,2013,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,6,2013,New,Household Buyer - Non-Occupier,
+Y34,New Ross,6,2013,Existing,All Buyer Types,65111.0
+Y34,New Ross,6,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,6,2013,Existing,Household Buyer - Former Owner-Occupier,82600.0
+Y34,New Ross,6,2013,Existing,Household Buyer - Non-Occupier,43250.0
+Y34,New Ross,7,2013,All Dwelling Statuses,All Buyer Types,101605.0
+Y34,New Ross,7,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,65000.0
+Y34,New Ross,7,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,69500.0
+Y34,New Ross,7,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,134610.0
+Y34,New Ross,7,2013,New,All Buyer Types,238025.0
+Y34,New Ross,7,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,7,2013,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,7,2013,New,Household Buyer - Non-Occupier,238025.0
+Y34,New Ross,7,2013,Existing,All Buyer Types,67500.0
+Y34,New Ross,7,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,65000.0
+Y34,New Ross,7,2013,Existing,Household Buyer - Former Owner-Occupier,69500.0
+Y34,New Ross,7,2013,Existing,Household Buyer - Non-Occupier,65667.0
+Y34,New Ross,8,2013,All Dwelling Statuses,All Buyer Types,99356.0
+Y34,New Ross,8,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,74750.0
+Y34,New Ross,8,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,115919.0
+Y34,New Ross,8,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,93676.0
+Y34,New Ross,8,2013,New,All Buyer Types,124850.0
+Y34,New Ross,8,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,8,2013,New,Household Buyer - Former Owner-Occupier,124850.0
+Y34,New Ross,8,2013,New,Household Buyer - Non-Occupier,
+Y34,New Ross,8,2013,Existing,All Buyer Types,97856.0
+Y34,New Ross,8,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,74750.0
+Y34,New Ross,8,2013,Existing,Household Buyer - Former Owner-Occupier,114643.0
+Y34,New Ross,8,2013,Existing,Household Buyer - Non-Occupier,93676.0
+Y34,New Ross,9,2013,All Dwelling Statuses,All Buyer Types,100020.0
+Y34,New Ross,9,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+Y34,New Ross,9,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,106667.0
+Y34,New Ross,9,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,65100.0
+Y34,New Ross,9,2013,New,All Buyer Types,
+Y34,New Ross,9,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,9,2013,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,9,2013,New,Household Buyer - Non-Occupier,
+Y34,New Ross,9,2013,Existing,All Buyer Types,100020.0
+Y34,New Ross,9,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+Y34,New Ross,9,2013,Existing,Household Buyer - Former Owner-Occupier,106667.0
+Y34,New Ross,9,2013,Existing,Household Buyer - Non-Occupier,65100.0
+Y34,New Ross,10,2013,All Dwelling Statuses,All Buyer Types,137195.0
+Y34,New Ross,10,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,105333.0
+Y34,New Ross,10,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,186746.0
+Y34,New Ross,10,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,74375.0
+Y34,New Ross,10,2013,New,All Buyer Types,
+Y34,New Ross,10,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,10,2013,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,10,2013,New,Household Buyer - Non-Occupier,
+Y34,New Ross,10,2013,Existing,All Buyer Types,137195.0
+Y34,New Ross,10,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,105333.0
+Y34,New Ross,10,2013,Existing,Household Buyer - Former Owner-Occupier,186746.0
+Y34,New Ross,10,2013,Existing,Household Buyer - Non-Occupier,74375.0
+Y34,New Ross,11,2013,All Dwelling Statuses,All Buyer Types,74800.0
+Y34,New Ross,11,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,119500.0
+Y34,New Ross,11,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,76750.0
+Y34,New Ross,11,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,56000.0
+Y34,New Ross,11,2013,New,All Buyer Types,
+Y34,New Ross,11,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,11,2013,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,11,2013,New,Household Buyer - Non-Occupier,
+Y34,New Ross,11,2013,Existing,All Buyer Types,74800.0
+Y34,New Ross,11,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,119500.0
+Y34,New Ross,11,2013,Existing,Household Buyer - Former Owner-Occupier,76750.0
+Y34,New Ross,11,2013,Existing,Household Buyer - Non-Occupier,56000.0
+Y34,New Ross,12,2013,All Dwelling Statuses,All Buyer Types,118100.0
+Y34,New Ross,12,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+Y34,New Ross,12,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,106300.0
+Y34,New Ross,12,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,137375.0
+Y34,New Ross,12,2013,New,All Buyer Types,
+Y34,New Ross,12,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,12,2013,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,12,2013,New,Household Buyer - Non-Occupier,
+Y34,New Ross,12,2013,Existing,All Buyer Types,118100.0
+Y34,New Ross,12,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+Y34,New Ross,12,2013,Existing,Household Buyer - Former Owner-Occupier,106300.0
+Y34,New Ross,12,2013,Existing,Household Buyer - Non-Occupier,137375.0
+Y34,New Ross,1,2014,All Dwelling Statuses,All Buyer Types,72675.0
+Y34,New Ross,1,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,78750.0
+Y34,New Ross,1,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,120000.0
+Y34,New Ross,1,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,54875.0
+Y34,New Ross,1,2014,New,All Buyer Types,28375.0
+Y34,New Ross,1,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2014,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,1,2014,New,Household Buyer - Non-Occupier,28375.0
+Y34,New Ross,1,2014,Existing,All Buyer Types,83750.0
+Y34,New Ross,1,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,78750.0
+Y34,New Ross,1,2014,Existing,Household Buyer - Former Owner-Occupier,120000.0
+Y34,New Ross,1,2014,Existing,Household Buyer - Non-Occupier,68125.0
+Y34,New Ross,2,2014,All Dwelling Statuses,All Buyer Types,91550.0
+Y34,New Ross,2,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,57500.0
+Y34,New Ross,2,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,103500.0
+Y34,New Ross,2,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,30000.0
+Y34,New Ross,2,2014,New,All Buyer Types,
+Y34,New Ross,2,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2014,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,2,2014,New,Household Buyer - Non-Occupier,
+Y34,New Ross,2,2014,Existing,All Buyer Types,91550.0
+Y34,New Ross,2,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,57500.0
+Y34,New Ross,2,2014,Existing,Household Buyer - Former Owner-Occupier,103500.0
+Y34,New Ross,2,2014,Existing,Household Buyer - Non-Occupier,30000.0
+Y34,New Ross,3,2014,All Dwelling Statuses,All Buyer Types,96552.0
+Y34,New Ross,3,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,128928.0
+Y34,New Ross,3,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,97878.0
+Y34,New Ross,3,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,80950.0
+Y34,New Ross,3,2014,New,All Buyer Types,93638.0
+Y34,New Ross,3,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,3,2014,New,Household Buyer - Former Owner-Occupier,93638.0
+Y34,New Ross,3,2014,New,Household Buyer - Non-Occupier,
+Y34,New Ross,3,2014,Existing,All Buyer Types,96940.0
+Y34,New Ross,3,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,128928.0
+Y34,New Ross,3,2014,Existing,Household Buyer - Former Owner-Occupier,98938.0
+Y34,New Ross,3,2014,Existing,Household Buyer - Non-Occupier,80950.0
+Y34,New Ross,4,2014,All Dwelling Statuses,All Buyer Types,103889.0
+Y34,New Ross,4,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,79000.0
+Y34,New Ross,4,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,123000.0
+Y34,New Ross,4,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,103000.0
+Y34,New Ross,4,2014,New,All Buyer Types,
+Y34,New Ross,4,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2014,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,4,2014,New,Household Buyer - Non-Occupier,
+Y34,New Ross,4,2014,Existing,All Buyer Types,103889.0
+Y34,New Ross,4,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,79000.0
+Y34,New Ross,4,2014,Existing,Household Buyer - Former Owner-Occupier,123000.0
+Y34,New Ross,4,2014,Existing,Household Buyer - Non-Occupier,103000.0
+Y34,New Ross,5,2014,All Dwelling Statuses,All Buyer Types,103650.0
+Y34,New Ross,5,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+Y34,New Ross,5,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,105483.0
+Y34,New Ross,5,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,101167.0
+Y34,New Ross,5,2014,New,All Buyer Types,136200.0
+Y34,New Ross,5,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,5,2014,New,Household Buyer - Former Owner-Occupier,136200.0
+Y34,New Ross,5,2014,New,Household Buyer - Non-Occupier,
+Y34,New Ross,5,2014,Existing,All Buyer Types,101480.0
+Y34,New Ross,5,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+Y34,New Ross,5,2014,Existing,Household Buyer - Former Owner-Occupier,99340.0
+Y34,New Ross,5,2014,Existing,Household Buyer - Non-Occupier,101167.0
+Y34,New Ross,6,2014,All Dwelling Statuses,All Buyer Types,80900.0
+Y34,New Ross,6,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,6,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,67600.0
+Y34,New Ross,6,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,94200.0
+Y34,New Ross,6,2014,New,All Buyer Types,
+Y34,New Ross,6,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,6,2014,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,6,2014,New,Household Buyer - Non-Occupier,
+Y34,New Ross,6,2014,Existing,All Buyer Types,80900.0
+Y34,New Ross,6,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,6,2014,Existing,Household Buyer - Former Owner-Occupier,67600.0
+Y34,New Ross,6,2014,Existing,Household Buyer - Non-Occupier,94200.0
+Y34,New Ross,7,2014,All Dwelling Statuses,All Buyer Types,97073.0
+Y34,New Ross,7,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,162750.0
+Y34,New Ross,7,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,98408.0
+Y34,New Ross,7,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,68400.0
+Y34,New Ross,7,2014,New,All Buyer Types,
+Y34,New Ross,7,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,7,2014,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,7,2014,New,Household Buyer - Non-Occupier,
+Y34,New Ross,7,2014,Existing,All Buyer Types,97073.0
+Y34,New Ross,7,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,162750.0
+Y34,New Ross,7,2014,Existing,Household Buyer - Former Owner-Occupier,98408.0
+Y34,New Ross,7,2014,Existing,Household Buyer - Non-Occupier,68400.0
+Y34,New Ross,8,2014,All Dwelling Statuses,All Buyer Types,134556.0
+Y34,New Ross,8,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,197000.0
+Y34,New Ross,8,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,149667.0
+Y34,New Ross,8,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,58000.0
+Y34,New Ross,8,2014,New,All Buyer Types,
+Y34,New Ross,8,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,8,2014,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,8,2014,New,Household Buyer - Non-Occupier,
+Y34,New Ross,8,2014,Existing,All Buyer Types,134556.0
+Y34,New Ross,8,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,197000.0
+Y34,New Ross,8,2014,Existing,Household Buyer - Former Owner-Occupier,149667.0
+Y34,New Ross,8,2014,Existing,Household Buyer - Non-Occupier,58000.0
+Y34,New Ross,9,2014,All Dwelling Statuses,All Buyer Types,103600.0
+Y34,New Ross,9,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,144000.0
+Y34,New Ross,9,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,120000.0
+Y34,New Ross,9,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,55000.0
+Y34,New Ross,9,2014,New,All Buyer Types,
+Y34,New Ross,9,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,9,2014,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,9,2014,New,Household Buyer - Non-Occupier,
+Y34,New Ross,9,2014,Existing,All Buyer Types,103600.0
+Y34,New Ross,9,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,144000.0
+Y34,New Ross,9,2014,Existing,Household Buyer - Former Owner-Occupier,120000.0
+Y34,New Ross,9,2014,Existing,Household Buyer - Non-Occupier,55000.0
+Y34,New Ross,10,2014,All Dwelling Statuses,All Buyer Types,125850.0
+Y34,New Ross,10,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,91000.0
+Y34,New Ross,10,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,145694.0
+Y34,New Ross,10,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,96167.0
+Y34,New Ross,10,2014,New,All Buyer Types,113500.0
+Y34,New Ross,10,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,10,2014,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,10,2014,New,Household Buyer - Non-Occupier,113500.0
+Y34,New Ross,10,2014,Existing,All Buyer Types,126879.0
+Y34,New Ross,10,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,91000.0
+Y34,New Ross,10,2014,Existing,Household Buyer - Former Owner-Occupier,145694.0
+Y34,New Ross,10,2014,Existing,Household Buyer - Non-Occupier,87500.0
+Y34,New Ross,11,2014,All Dwelling Statuses,All Buyer Types,125286.0
+Y34,New Ross,11,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,11,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,123000.0
+Y34,New Ross,11,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,129400.0
+Y34,New Ross,11,2014,New,All Buyer Types,
+Y34,New Ross,11,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,11,2014,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,11,2014,New,Household Buyer - Non-Occupier,
+Y34,New Ross,11,2014,Existing,All Buyer Types,125286.0
+Y34,New Ross,11,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,11,2014,Existing,Household Buyer - Former Owner-Occupier,123000.0
+Y34,New Ross,11,2014,Existing,Household Buyer - Non-Occupier,129400.0
+Y34,New Ross,12,2014,All Dwelling Statuses,All Buyer Types,119911.0
+Y34,New Ross,12,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+Y34,New Ross,12,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,140538.0
+Y34,New Ross,12,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,96292.0
+Y34,New Ross,12,2014,New,All Buyer Types,
+Y34,New Ross,12,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,12,2014,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,12,2014,New,Household Buyer - Non-Occupier,
+Y34,New Ross,12,2014,Existing,All Buyer Types,119911.0
+Y34,New Ross,12,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+Y34,New Ross,12,2014,Existing,Household Buyer - Former Owner-Occupier,140538.0
+Y34,New Ross,12,2014,Existing,Household Buyer - Non-Occupier,96292.0
+Y34,New Ross,1,2015,All Dwelling Statuses,All Buyer Types,110705.0
+Y34,New Ross,1,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,227500.0
+Y34,New Ross,1,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,138450.0
+Y34,New Ross,1,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,59600.0
+Y34,New Ross,1,2015,New,All Buyer Types,
+Y34,New Ross,1,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2015,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,1,2015,New,Household Buyer - Non-Occupier,
+Y34,New Ross,1,2015,Existing,All Buyer Types,110705.0
+Y34,New Ross,1,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,227500.0
+Y34,New Ross,1,2015,Existing,Household Buyer - Former Owner-Occupier,138450.0
+Y34,New Ross,1,2015,Existing,Household Buyer - Non-Occupier,59600.0
+Y34,New Ross,2,2015,All Dwelling Statuses,All Buyer Types,153504.0
+Y34,New Ross,2,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,191661.0
+Y34,New Ross,2,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,155723.0
+Y34,New Ross,2,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,55000.0
+Y34,New Ross,2,2015,New,All Buyer Types,208310.0
+Y34,New Ross,2,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,249700.0
+Y34,New Ross,2,2015,New,Household Buyer - Former Owner-Occupier,187616.0
+Y34,New Ross,2,2015,New,Household Buyer - Non-Occupier,
+Y34,New Ross,2,2015,Existing,All Buyer Types,137062.0
+Y34,New Ross,2,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,133622.0
+Y34,New Ross,2,2015,Existing,Household Buyer - Former Owner-Occupier,147750.0
+Y34,New Ross,2,2015,Existing,Household Buyer - Non-Occupier,55000.0
+Y34,New Ross,3,2015,All Dwelling Statuses,All Buyer Types,119346.0
+Y34,New Ross,3,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,114333.0
+Y34,New Ross,3,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,149071.0
+Y34,New Ross,3,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,55000.0
+Y34,New Ross,3,2015,New,All Buyer Types,
+Y34,New Ross,3,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,3,2015,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,3,2015,New,Household Buyer - Non-Occupier,
+Y34,New Ross,3,2015,Existing,All Buyer Types,119346.0
+Y34,New Ross,3,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,114333.0
+Y34,New Ross,3,2015,Existing,Household Buyer - Former Owner-Occupier,149071.0
+Y34,New Ross,3,2015,Existing,Household Buyer - Non-Occupier,55000.0
+Y34,New Ross,4,2015,All Dwelling Statuses,All Buyer Types,130811.0
+Y34,New Ross,4,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,132788.0
+Y34,New Ross,4,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,115000.0
+Y34,New Ross,4,2015,New,All Buyer Types,
+Y34,New Ross,4,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2015,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,4,2015,New,Household Buyer - Non-Occupier,
+Y34,New Ross,4,2015,Existing,All Buyer Types,130811.0
+Y34,New Ross,4,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2015,Existing,Household Buyer - Former Owner-Occupier,132788.0
+Y34,New Ross,4,2015,Existing,Household Buyer - Non-Occupier,115000.0
+Y34,New Ross,5,2015,All Dwelling Statuses,All Buyer Types,127867.0
+Y34,New Ross,5,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,5,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,155250.0
+Y34,New Ross,5,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,114175.0
+Y34,New Ross,5,2015,New,All Buyer Types,
+Y34,New Ross,5,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,5,2015,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,5,2015,New,Household Buyer - Non-Occupier,
+Y34,New Ross,5,2015,Existing,All Buyer Types,127867.0
+Y34,New Ross,5,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,5,2015,Existing,Household Buyer - Former Owner-Occupier,155250.0
+Y34,New Ross,5,2015,Existing,Household Buyer - Non-Occupier,114175.0
+Y34,New Ross,6,2015,All Dwelling Statuses,All Buyer Types,108013.0
+Y34,New Ross,6,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,80000.0
+Y34,New Ross,6,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,124979.0
+Y34,New Ross,6,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,82929.0
+Y34,New Ross,6,2015,New,All Buyer Types,
+Y34,New Ross,6,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,6,2015,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,6,2015,New,Household Buyer - Non-Occupier,
+Y34,New Ross,6,2015,Existing,All Buyer Types,108013.0
+Y34,New Ross,6,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,80000.0
+Y34,New Ross,6,2015,Existing,Household Buyer - Former Owner-Occupier,124979.0
+Y34,New Ross,6,2015,Existing,Household Buyer - Non-Occupier,82929.0
+Y34,New Ross,7,2015,All Dwelling Statuses,All Buyer Types,102029.0
+Y34,New Ross,7,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,104333.0
+Y34,New Ross,7,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,116063.0
+Y34,New Ross,7,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,82167.0
+Y34,New Ross,7,2015,New,All Buyer Types,
+Y34,New Ross,7,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,7,2015,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,7,2015,New,Household Buyer - Non-Occupier,
+Y34,New Ross,7,2015,Existing,All Buyer Types,102029.0
+Y34,New Ross,7,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,104333.0
+Y34,New Ross,7,2015,Existing,Household Buyer - Former Owner-Occupier,116063.0
+Y34,New Ross,7,2015,Existing,Household Buyer - Non-Occupier,82167.0
+Y34,New Ross,8,2015,All Dwelling Statuses,All Buyer Types,118321.0
+Y34,New Ross,8,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,106000.0
+Y34,New Ross,8,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,133333.0
+Y34,New Ross,8,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,108125.0
+Y34,New Ross,8,2015,New,All Buyer Types,
+Y34,New Ross,8,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,8,2015,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,8,2015,New,Household Buyer - Non-Occupier,
+Y34,New Ross,8,2015,Existing,All Buyer Types,118321.0
+Y34,New Ross,8,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,106000.0
+Y34,New Ross,8,2015,Existing,Household Buyer - Former Owner-Occupier,133333.0
+Y34,New Ross,8,2015,Existing,Household Buyer - Non-Occupier,108125.0
+Y34,New Ross,9,2015,All Dwelling Statuses,All Buyer Types,94115.0
+Y34,New Ross,9,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,9,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,96214.0
+Y34,New Ross,9,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,91667.0
+Y34,New Ross,9,2015,New,All Buyer Types,
+Y34,New Ross,9,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,9,2015,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,9,2015,New,Household Buyer - Non-Occupier,
+Y34,New Ross,9,2015,Existing,All Buyer Types,94115.0
+Y34,New Ross,9,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,9,2015,Existing,Household Buyer - Former Owner-Occupier,96214.0
+Y34,New Ross,9,2015,Existing,Household Buyer - Non-Occupier,91667.0
+Y34,New Ross,10,2015,All Dwelling Statuses,All Buyer Types,112700.0
+Y34,New Ross,10,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,10,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,122500.0
+Y34,New Ross,10,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,98000.0
+Y34,New Ross,10,2015,New,All Buyer Types,
+Y34,New Ross,10,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,10,2015,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,10,2015,New,Household Buyer - Non-Occupier,
+Y34,New Ross,10,2015,Existing,All Buyer Types,112700.0
+Y34,New Ross,10,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,10,2015,Existing,Household Buyer - Former Owner-Occupier,122500.0
+Y34,New Ross,10,2015,Existing,Household Buyer - Non-Occupier,98000.0
+Y34,New Ross,11,2015,All Dwelling Statuses,All Buyer Types,101589.0
+Y34,New Ross,11,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,158100.0
+Y34,New Ross,11,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,127688.0
+Y34,New Ross,11,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,72111.0
+Y34,New Ross,11,2015,New,All Buyer Types,
+Y34,New Ross,11,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,11,2015,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,11,2015,New,Household Buyer - Non-Occupier,
+Y34,New Ross,11,2015,Existing,All Buyer Types,101589.0
+Y34,New Ross,11,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,158100.0
+Y34,New Ross,11,2015,Existing,Household Buyer - Former Owner-Occupier,127688.0
+Y34,New Ross,11,2015,Existing,Household Buyer - Non-Occupier,72111.0
+Y34,New Ross,12,2015,All Dwelling Statuses,All Buyer Types,105654.0
+Y34,New Ross,12,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,132125.0
+Y34,New Ross,12,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,117508.0
+Y34,New Ross,12,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,79864.0
+Y34,New Ross,12,2015,New,All Buyer Types,198625.0
+Y34,New Ross,12,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,12,2015,New,Household Buyer - Former Owner-Occupier,198625.0
+Y34,New Ross,12,2015,New,Household Buyer - Non-Occupier,
+Y34,New Ross,12,2015,Existing,All Buyer Types,102448.0
+Y34,New Ross,12,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,132125.0
+Y34,New Ross,12,2015,Existing,Household Buyer - Former Owner-Occupier,111714.0
+Y34,New Ross,12,2015,Existing,Household Buyer - Non-Occupier,79864.0
+Y34,New Ross,1,2016,All Dwelling Statuses,All Buyer Types,99500.0
+Y34,New Ross,1,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,137000.0
+Y34,New Ross,1,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,170000.0
+Y34,New Ross,1,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,45500.0
+Y34,New Ross,1,2016,New,All Buyer Types,
+Y34,New Ross,1,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2016,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,1,2016,New,Household Buyer - Non-Occupier,
+Y34,New Ross,1,2016,Existing,All Buyer Types,99500.0
+Y34,New Ross,1,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,137000.0
+Y34,New Ross,1,2016,Existing,Household Buyer - Former Owner-Occupier,170000.0
+Y34,New Ross,1,2016,Existing,Household Buyer - Non-Occupier,45500.0
+Y34,New Ross,2,2016,All Dwelling Statuses,All Buyer Types,85036.0
+Y34,New Ross,2,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,86000.0
+Y34,New Ross,2,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,124250.0
+Y34,New Ross,2,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,37400.0
+Y34,New Ross,2,2016,New,All Buyer Types,
+Y34,New Ross,2,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2016,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,2,2016,New,Household Buyer - Non-Occupier,
+Y34,New Ross,2,2016,Existing,All Buyer Types,85036.0
+Y34,New Ross,2,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,86000.0
+Y34,New Ross,2,2016,Existing,Household Buyer - Former Owner-Occupier,124250.0
+Y34,New Ross,2,2016,Existing,Household Buyer - Non-Occupier,37400.0
+Y34,New Ross,3,2016,All Dwelling Statuses,All Buyer Types,92394.0
+Y34,New Ross,3,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,147550.0
+Y34,New Ross,3,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,88400.0
+Y34,New Ross,3,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,80667.0
+Y34,New Ross,3,2016,New,All Buyer Types,147550.0
+Y34,New Ross,3,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,147550.0
+Y34,New Ross,3,2016,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,3,2016,New,Household Buyer - Non-Occupier,
+Y34,New Ross,3,2016,Existing,All Buyer Types,85500.0
+Y34,New Ross,3,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,3,2016,Existing,Household Buyer - Former Owner-Occupier,88400.0
+Y34,New Ross,3,2016,Existing,Household Buyer - Non-Occupier,80667.0
+Y34,New Ross,4,2016,All Dwelling Statuses,All Buyer Types,148179.0
+Y34,New Ross,4,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,136208.0
+Y34,New Ross,4,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,220000.0
+Y34,New Ross,4,2016,New,All Buyer Types,
+Y34,New Ross,4,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2016,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,4,2016,New,Household Buyer - Non-Occupier,
+Y34,New Ross,4,2016,Existing,All Buyer Types,148179.0
+Y34,New Ross,4,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2016,Existing,Household Buyer - Former Owner-Occupier,136208.0
+Y34,New Ross,4,2016,Existing,Household Buyer - Non-Occupier,220000.0
+Y34,New Ross,5,2016,All Dwelling Statuses,All Buyer Types,111643.0
+Y34,New Ross,5,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,107000.0
+Y34,New Ross,5,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,151857.0
+Y34,New Ross,5,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,57200.0
+Y34,New Ross,5,2016,New,All Buyer Types,
+Y34,New Ross,5,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,5,2016,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,5,2016,New,Household Buyer - Non-Occupier,
+Y34,New Ross,5,2016,Existing,All Buyer Types,111643.0
+Y34,New Ross,5,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,107000.0
+Y34,New Ross,5,2016,Existing,Household Buyer - Former Owner-Occupier,151857.0
+Y34,New Ross,5,2016,Existing,Household Buyer - Non-Occupier,57200.0
+Y34,New Ross,6,2016,All Dwelling Statuses,All Buyer Types,98667.0
+Y34,New Ross,6,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+Y34,New Ross,6,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,118667.0
+Y34,New Ross,6,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,74750.0
+Y34,New Ross,6,2016,New,All Buyer Types,
+Y34,New Ross,6,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,6,2016,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,6,2016,New,Household Buyer - Non-Occupier,
+Y34,New Ross,6,2016,Existing,All Buyer Types,98667.0
+Y34,New Ross,6,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+Y34,New Ross,6,2016,Existing,Household Buyer - Former Owner-Occupier,118667.0
+Y34,New Ross,6,2016,Existing,Household Buyer - Non-Occupier,74750.0
+Y34,New Ross,7,2016,All Dwelling Statuses,All Buyer Types,156714.0
+Y34,New Ross,7,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,277500.0
+Y34,New Ross,7,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,166500.0
+Y34,New Ross,7,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,76750.0
+Y34,New Ross,7,2016,New,All Buyer Types,
+Y34,New Ross,7,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,7,2016,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,7,2016,New,Household Buyer - Non-Occupier,
+Y34,New Ross,7,2016,Existing,All Buyer Types,156714.0
+Y34,New Ross,7,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,277500.0
+Y34,New Ross,7,2016,Existing,Household Buyer - Former Owner-Occupier,166500.0
+Y34,New Ross,7,2016,Existing,Household Buyer - Non-Occupier,76750.0
+Y34,New Ross,8,2016,All Dwelling Statuses,All Buyer Types,137406.0
+Y34,New Ross,8,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160333.0
+Y34,New Ross,8,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,166500.0
+Y34,New Ross,8,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,77100.0
+Y34,New Ross,8,2016,New,All Buyer Types,
+Y34,New Ross,8,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,8,2016,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,8,2016,New,Household Buyer - Non-Occupier,
+Y34,New Ross,8,2016,Existing,All Buyer Types,137406.0
+Y34,New Ross,8,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160333.0
+Y34,New Ross,8,2016,Existing,Household Buyer - Former Owner-Occupier,166500.0
+Y34,New Ross,8,2016,Existing,Household Buyer - Non-Occupier,77100.0
+Y34,New Ross,9,2016,All Dwelling Statuses,All Buyer Types,102125.0
+Y34,New Ross,9,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,9,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,102667.0
+Y34,New Ross,9,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,101583.0
+Y34,New Ross,9,2016,New,All Buyer Types,
+Y34,New Ross,9,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,9,2016,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,9,2016,New,Household Buyer - Non-Occupier,
+Y34,New Ross,9,2016,Existing,All Buyer Types,102125.0
+Y34,New Ross,9,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,9,2016,Existing,Household Buyer - Former Owner-Occupier,102667.0
+Y34,New Ross,9,2016,Existing,Household Buyer - Non-Occupier,101583.0
+Y34,New Ross,10,2016,All Dwelling Statuses,All Buyer Types,131927.0
+Y34,New Ross,10,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,136000.0
+Y34,New Ross,10,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,139445.0
+Y34,New Ross,10,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,103000.0
+Y34,New Ross,10,2016,New,All Buyer Types,142200.0
+Y34,New Ross,10,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,10,2016,New,Household Buyer - Former Owner-Occupier,142200.0
+Y34,New Ross,10,2016,New,Household Buyer - Non-Occupier,
+Y34,New Ross,10,2016,Existing,All Buyer Types,130346.0
+Y34,New Ross,10,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,136000.0
+Y34,New Ross,10,2016,Existing,Household Buyer - Former Owner-Occupier,138833.0
+Y34,New Ross,10,2016,Existing,Household Buyer - Non-Occupier,103000.0
+Y34,New Ross,11,2016,All Dwelling Statuses,All Buyer Types,130750.0
+Y34,New Ross,11,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,145000.0
+Y34,New Ross,11,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,137917.0
+Y34,New Ross,11,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,111667.0
+Y34,New Ross,11,2016,New,All Buyer Types,
+Y34,New Ross,11,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,11,2016,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,11,2016,New,Household Buyer - Non-Occupier,
+Y34,New Ross,11,2016,Existing,All Buyer Types,130750.0
+Y34,New Ross,11,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,145000.0
+Y34,New Ross,11,2016,Existing,Household Buyer - Former Owner-Occupier,137917.0
+Y34,New Ross,11,2016,Existing,Household Buyer - Non-Occupier,111667.0
+Y34,New Ross,12,2016,All Dwelling Statuses,All Buyer Types,120821.0
+Y34,New Ross,12,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,119500.0
+Y34,New Ross,12,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,139100.0
+Y34,New Ross,12,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,87750.0
+Y34,New Ross,12,2016,New,All Buyer Types,68100.0
+Y34,New Ross,12,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,12,2016,New,Household Buyer - Former Owner-Occupier,68100.0
+Y34,New Ross,12,2016,New,Household Buyer - Non-Occupier,
+Y34,New Ross,12,2016,Existing,All Buyer Types,123750.0
+Y34,New Ross,12,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,119500.0
+Y34,New Ross,12,2016,Existing,Household Buyer - Former Owner-Occupier,146200.0
+Y34,New Ross,12,2016,Existing,Household Buyer - Non-Occupier,87750.0
+Y34,New Ross,1,2017,All Dwelling Statuses,All Buyer Types,89611.0
+Y34,New Ross,1,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,105000.0
+Y34,New Ross,1,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,78250.0
+Y34,New Ross,1,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,97125.0
+Y34,New Ross,1,2017,New,All Buyer Types,
+Y34,New Ross,1,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2017,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,1,2017,New,Household Buyer - Non-Occupier,
+Y34,New Ross,1,2017,Existing,All Buyer Types,89611.0
+Y34,New Ross,1,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,105000.0
+Y34,New Ross,1,2017,Existing,Household Buyer - Former Owner-Occupier,78250.0
+Y34,New Ross,1,2017,Existing,Household Buyer - Non-Occupier,97125.0
+Y34,New Ross,2,2017,All Dwelling Statuses,All Buyer Types,122813.0
+Y34,New Ross,2,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,128929.0
+Y34,New Ross,2,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+Y34,New Ross,2,2017,New,All Buyer Types,
+Y34,New Ross,2,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2017,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,2,2017,New,Household Buyer - Non-Occupier,
+Y34,New Ross,2,2017,Existing,All Buyer Types,122813.0
+Y34,New Ross,2,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2017,Existing,Household Buyer - Former Owner-Occupier,128929.0
+Y34,New Ross,2,2017,Existing,Household Buyer - Non-Occupier,80000.0
+Y34,New Ross,3,2017,All Dwelling Statuses,All Buyer Types,98150.0
+Y34,New Ross,3,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,90455.0
+Y34,New Ross,3,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,149750.0
+Y34,New Ross,3,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,74659.0
+Y34,New Ross,3,2017,New,All Buyer Types,56750.0
+Y34,New Ross,3,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,3,2017,New,Household Buyer - Former Owner-Occupier,56750.0
+Y34,New Ross,3,2017,New,Household Buyer - Non-Occupier,
+Y34,New Ross,3,2017,Existing,All Buyer Types,100585.0
+Y34,New Ross,3,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,90455.0
+Y34,New Ross,3,2017,Existing,Household Buyer - Former Owner-Occupier,173000.0
+Y34,New Ross,3,2017,Existing,Household Buyer - Non-Occupier,74659.0
+Y34,New Ross,4,2017,All Dwelling Statuses,All Buyer Types,121269.0
+Y34,New Ross,4,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,103667.0
+Y34,New Ross,4,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,157833.0
+Y34,New Ross,4,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,79625.0
+Y34,New Ross,4,2017,New,All Buyer Types,
+Y34,New Ross,4,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2017,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,4,2017,New,Household Buyer - Non-Occupier,
+Y34,New Ross,4,2017,Existing,All Buyer Types,121269.0
+Y34,New Ross,4,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,103667.0
+Y34,New Ross,4,2017,Existing,Household Buyer - Former Owner-Occupier,157833.0
+Y34,New Ross,4,2017,Existing,Household Buyer - Non-Occupier,79625.0
+Y34,New Ross,5,2017,All Dwelling Statuses,All Buyer Types,102800.0
+Y34,New Ross,5,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+Y34,New Ross,5,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,85714.0
+Y34,New Ross,5,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,91500.0
+Y34,New Ross,5,2017,New,All Buyer Types,
+Y34,New Ross,5,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,5,2017,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,5,2017,New,Household Buyer - Non-Occupier,
+Y34,New Ross,5,2017,Existing,All Buyer Types,102800.0
+Y34,New Ross,5,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+Y34,New Ross,5,2017,Existing,Household Buyer - Former Owner-Occupier,85714.0
+Y34,New Ross,5,2017,Existing,Household Buyer - Non-Occupier,91500.0
+Y34,New Ross,6,2017,All Dwelling Statuses,All Buyer Types,131526.0
+Y34,New Ross,6,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,106000.0
+Y34,New Ross,6,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,154400.0
+Y34,New Ross,6,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,106200.0
+Y34,New Ross,6,2017,New,All Buyer Types,
+Y34,New Ross,6,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,6,2017,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,6,2017,New,Household Buyer - Non-Occupier,
+Y34,New Ross,6,2017,Existing,All Buyer Types,131526.0
+Y34,New Ross,6,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,106000.0
+Y34,New Ross,6,2017,Existing,Household Buyer - Former Owner-Occupier,154400.0
+Y34,New Ross,6,2017,Existing,Household Buyer - Non-Occupier,106200.0
+Y34,New Ross,7,2017,All Dwelling Statuses,All Buyer Types,183308.0
+Y34,New Ross,7,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,136250.0
+Y34,New Ross,7,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,227313.0
+Y34,New Ross,7,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,97333.0
+Y34,New Ross,7,2017,New,All Buyer Types,
+Y34,New Ross,7,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,7,2017,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,7,2017,New,Household Buyer - Non-Occupier,
+Y34,New Ross,7,2017,Existing,All Buyer Types,183308.0
+Y34,New Ross,7,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,136250.0
+Y34,New Ross,7,2017,Existing,Household Buyer - Former Owner-Occupier,227313.0
+Y34,New Ross,7,2017,Existing,Household Buyer - Non-Occupier,97333.0
+Y34,New Ross,8,2017,All Dwelling Statuses,All Buyer Types,153962.0
+Y34,New Ross,8,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,116500.0
+Y34,New Ross,8,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,195188.0
+Y34,New Ross,8,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,69000.0
+Y34,New Ross,8,2017,New,All Buyer Types,
+Y34,New Ross,8,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,8,2017,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,8,2017,New,Household Buyer - Non-Occupier,
+Y34,New Ross,8,2017,Existing,All Buyer Types,153962.0
+Y34,New Ross,8,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,116500.0
+Y34,New Ross,8,2017,Existing,Household Buyer - Former Owner-Occupier,195188.0
+Y34,New Ross,8,2017,Existing,Household Buyer - Non-Occupier,69000.0
+Y34,New Ross,9,2017,All Dwelling Statuses,All Buyer Types,162655.0
+Y34,New Ross,9,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,194025.0
+Y34,New Ross,9,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,184000.0
+Y34,New Ross,9,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,106167.0
+Y34,New Ross,9,2017,New,All Buyer Types,261050.0
+Y34,New Ross,9,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,261050.0
+Y34,New Ross,9,2017,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,9,2017,New,Household Buyer - Non-Occupier,
+Y34,New Ross,9,2017,Existing,All Buyer Types,151722.0
+Y34,New Ross,9,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,127000.0
+Y34,New Ross,9,2017,Existing,Household Buyer - Former Owner-Occupier,184000.0
+Y34,New Ross,9,2017,Existing,Household Buyer - Non-Occupier,106167.0
+Y34,New Ross,10,2017,All Dwelling Statuses,All Buyer Types,111700.0
+Y34,New Ross,10,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,125125.0
+Y34,New Ross,10,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,103333.0
+Y34,New Ross,10,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,111000.0
+Y34,New Ross,10,2017,New,All Buyer Types,
+Y34,New Ross,10,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,10,2017,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,10,2017,New,Household Buyer - Non-Occupier,
+Y34,New Ross,10,2017,Existing,All Buyer Types,111700.0
+Y34,New Ross,10,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,125125.0
+Y34,New Ross,10,2017,Existing,Household Buyer - Former Owner-Occupier,103333.0
+Y34,New Ross,10,2017,Existing,Household Buyer - Non-Occupier,111000.0
+Y34,New Ross,11,2017,All Dwelling Statuses,All Buyer Types,122143.0
+Y34,New Ross,11,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,159000.0
+Y34,New Ross,11,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,140833.0
+Y34,New Ross,11,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,100857.0
+Y34,New Ross,11,2017,New,All Buyer Types,79499.0
+Y34,New Ross,11,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,11,2017,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,11,2017,New,Household Buyer - Non-Occupier,79499.0
+Y34,New Ross,11,2017,Existing,All Buyer Types,133773.0
+Y34,New Ross,11,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,159000.0
+Y34,New Ross,11,2017,Existing,Household Buyer - Former Owner-Occupier,140833.0
+Y34,New Ross,11,2017,Existing,Household Buyer - Non-Occupier,116875.0
+Y34,New Ross,12,2017,All Dwelling Statuses,All Buyer Types,115226.0
+Y34,New Ross,12,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,12,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,141045.0
+Y34,New Ross,12,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,86825.0
+Y34,New Ross,12,2017,New,All Buyer Types,56750.0
+Y34,New Ross,12,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,12,2017,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,12,2017,New,Household Buyer - Non-Occupier,56750.0
+Y34,New Ross,12,2017,Existing,All Buyer Types,118150.0
+Y34,New Ross,12,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,12,2017,Existing,Household Buyer - Former Owner-Occupier,141045.0
+Y34,New Ross,12,2017,Existing,Household Buyer - Non-Occupier,90167.0
+Y34,New Ross,1,2018,All Dwelling Statuses,All Buyer Types,113504.0
+Y34,New Ross,1,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,116667.0
+Y34,New Ross,1,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,142500.0
+Y34,New Ross,1,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,76810.0
+Y34,New Ross,1,2018,New,All Buyer Types,204350.0
+Y34,New Ross,1,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+Y34,New Ross,1,2018,New,Household Buyer - Former Owner-Occupier,359000.0
+Y34,New Ross,1,2018,New,Household Buyer - Non-Occupier,34050.0
+Y34,New Ross,1,2018,Existing,All Buyer Types,88727.0
+Y34,New Ross,1,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,65000.0
+Y34,New Ross,1,2018,Existing,Household Buyer - Former Owner-Occupier,99200.0
+Y34,New Ross,1,2018,Existing,Household Buyer - Non-Occupier,87500.0
+Y34,New Ross,2,2018,All Dwelling Statuses,All Buyer Types,148136.0
+Y34,New Ross,2,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,158950.0
+Y34,New Ross,2,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,40000.0
+Y34,New Ross,2,2018,New,All Buyer Types,
+Y34,New Ross,2,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2018,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,2,2018,New,Household Buyer - Non-Occupier,
+Y34,New Ross,2,2018,Existing,All Buyer Types,148136.0
+Y34,New Ross,2,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2018,Existing,Household Buyer - Former Owner-Occupier,158950.0
+Y34,New Ross,2,2018,Existing,Household Buyer - Non-Occupier,40000.0
+Y34,New Ross,3,2018,All Dwelling Statuses,All Buyer Types,149167.0
+Y34,New Ross,3,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,173000.0
+Y34,New Ross,3,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,153750.0
+Y34,New Ross,3,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,130375.0
+Y34,New Ross,3,2018,New,All Buyer Types,290000.0
+Y34,New Ross,3,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,290000.0
+Y34,New Ross,3,2018,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,3,2018,New,Household Buyer - Non-Occupier,
+Y34,New Ross,3,2018,Existing,All Buyer Types,136364.0
+Y34,New Ross,3,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,56000.0
+Y34,New Ross,3,2018,Existing,Household Buyer - Former Owner-Occupier,153750.0
+Y34,New Ross,3,2018,Existing,Household Buyer - Non-Occupier,130375.0
+Y34,New Ross,4,2018,All Dwelling Statuses,All Buyer Types,149800.0
+Y34,New Ross,4,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,238000.0
+Y34,New Ross,4,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,150400.0
+Y34,New Ross,4,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,126250.0
+Y34,New Ross,4,2018,New,All Buyer Types,45000.0
+Y34,New Ross,4,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2018,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,4,2018,New,Household Buyer - Non-Occupier,45000.0
+Y34,New Ross,4,2018,Existing,All Buyer Types,157286.0
+Y34,New Ross,4,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,238000.0
+Y34,New Ross,4,2018,Existing,Household Buyer - Former Owner-Occupier,150400.0
+Y34,New Ross,4,2018,Existing,Household Buyer - Non-Occupier,153333.0
+Y34,New Ross,5,2018,All Dwelling Statuses,All Buyer Types,181861.0
+Y34,New Ross,5,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,132500.0
+Y34,New Ross,5,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,191188.0
+Y34,New Ross,5,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,202333.0
+Y34,New Ross,5,2018,New,All Buyer Types,
+Y34,New Ross,5,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,5,2018,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,5,2018,New,Household Buyer - Non-Occupier,
+Y34,New Ross,5,2018,Existing,All Buyer Types,181861.0
+Y34,New Ross,5,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,132500.0
+Y34,New Ross,5,2018,Existing,Household Buyer - Former Owner-Occupier,191188.0
+Y34,New Ross,5,2018,Existing,Household Buyer - Non-Occupier,202333.0
+Y34,New Ross,6,2018,All Dwelling Statuses,All Buyer Types,114079.0
+Y34,New Ross,6,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,138317.0
+Y34,New Ross,6,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,125500.0
+Y34,New Ross,6,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,96250.0
+Y34,New Ross,6,2018,New,All Buyer Types,
+Y34,New Ross,6,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,6,2018,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,6,2018,New,Household Buyer - Non-Occupier,
+Y34,New Ross,6,2018,Existing,All Buyer Types,114079.0
+Y34,New Ross,6,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,138317.0
+Y34,New Ross,6,2018,Existing,Household Buyer - Former Owner-Occupier,125500.0
+Y34,New Ross,6,2018,Existing,Household Buyer - Non-Occupier,96250.0
+Y34,New Ross,7,2018,All Dwelling Statuses,All Buyer Types,91250.0
+Y34,New Ross,7,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,122000.0
+Y34,New Ross,7,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,86800.0
+Y34,New Ross,7,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,85643.0
+Y34,New Ross,7,2018,New,All Buyer Types,
+Y34,New Ross,7,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,7,2018,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,7,2018,New,Household Buyer - Non-Occupier,
+Y34,New Ross,7,2018,Existing,All Buyer Types,91250.0
+Y34,New Ross,7,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,122000.0
+Y34,New Ross,7,2018,Existing,Household Buyer - Former Owner-Occupier,86800.0
+Y34,New Ross,7,2018,Existing,Household Buyer - Non-Occupier,85643.0
+Y34,New Ross,8,2018,All Dwelling Statuses,All Buyer Types,161457.0
+Y34,New Ross,8,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,118750.0
+Y34,New Ross,8,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,183679.0
+Y34,New Ross,8,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,133400.0
+Y34,New Ross,8,2018,New,All Buyer Types,355000.0
+Y34,New Ross,8,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,8,2018,New,Household Buyer - Former Owner-Occupier,355000.0
+Y34,New Ross,8,2018,New,Household Buyer - Non-Occupier,
+Y34,New Ross,8,2018,Existing,All Buyer Types,152659.0
+Y34,New Ross,8,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,118750.0
+Y34,New Ross,8,2018,Existing,Household Buyer - Former Owner-Occupier,170500.0
+Y34,New Ross,8,2018,Existing,Household Buyer - Non-Occupier,133400.0
+Y34,New Ross,9,2018,All Dwelling Statuses,All Buyer Types,151175.0
+Y34,New Ross,9,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,111000.0
+Y34,New Ross,9,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,160075.0
+Y34,New Ross,9,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,140833.0
+Y34,New Ross,9,2018,New,All Buyer Types,149999.0
+Y34,New Ross,9,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,9,2018,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,9,2018,New,Household Buyer - Non-Occupier,149999.0
+Y34,New Ross,9,2018,Existing,All Buyer Types,151282.0
+Y34,New Ross,9,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,111000.0
+Y34,New Ross,9,2018,Existing,Household Buyer - Former Owner-Occupier,160075.0
+Y34,New Ross,9,2018,Existing,Household Buyer - Non-Occupier,136250.0
+Y34,New Ross,10,2018,All Dwelling Statuses,All Buyer Types,156411.0
+Y34,New Ross,10,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+Y34,New Ross,10,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,161589.0
+Y34,New Ross,10,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,136760.0
+Y34,New Ross,10,2018,New,All Buyer Types,
+Y34,New Ross,10,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,10,2018,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,10,2018,New,Household Buyer - Non-Occupier,
+Y34,New Ross,10,2018,Existing,All Buyer Types,156411.0
+Y34,New Ross,10,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+Y34,New Ross,10,2018,Existing,Household Buyer - Former Owner-Occupier,161589.0
+Y34,New Ross,10,2018,Existing,Household Buyer - Non-Occupier,136760.0
+Y34,New Ross,11,2018,All Dwelling Statuses,All Buyer Types,151825.0
+Y34,New Ross,11,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,176500.0
+Y34,New Ross,11,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,182950.0
+Y34,New Ross,11,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,106750.0
+Y34,New Ross,11,2018,New,All Buyer Types,
+Y34,New Ross,11,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,11,2018,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,11,2018,New,Household Buyer - Non-Occupier,
+Y34,New Ross,11,2018,Existing,All Buyer Types,151825.0
+Y34,New Ross,11,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,176500.0
+Y34,New Ross,11,2018,Existing,Household Buyer - Former Owner-Occupier,182950.0
+Y34,New Ross,11,2018,Existing,Household Buyer - Non-Occupier,106750.0
+Y34,New Ross,12,2018,All Dwelling Statuses,All Buyer Types,168857.0
+Y34,New Ross,12,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,156850.0
+Y34,New Ross,12,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,181094.0
+Y34,New Ross,12,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,134500.0
+Y34,New Ross,12,2018,New,All Buyer Types,249700.0
+Y34,New Ross,12,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,249700.0
+Y34,New Ross,12,2018,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,12,2018,New,Household Buyer - Non-Occupier,
+Y34,New Ross,12,2018,Existing,All Buyer Types,165182.0
+Y34,New Ross,12,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,64000.0
+Y34,New Ross,12,2018,Existing,Household Buyer - Former Owner-Occupier,181094.0
+Y34,New Ross,12,2018,Existing,Household Buyer - Non-Occupier,134500.0
+Y34,New Ross,1,2019,All Dwelling Statuses,All Buyer Types,134500.0
+Y34,New Ross,1,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,80000.0
+Y34,New Ross,1,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,139300.0
+Y34,New Ross,1,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,144667.0
+Y34,New Ross,1,2019,New,All Buyer Types,
+Y34,New Ross,1,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2019,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,1,2019,New,Household Buyer - Non-Occupier,
+Y34,New Ross,1,2019,Existing,All Buyer Types,134500.0
+Y34,New Ross,1,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,80000.0
+Y34,New Ross,1,2019,Existing,Household Buyer - Former Owner-Occupier,139300.0
+Y34,New Ross,1,2019,Existing,Household Buyer - Non-Occupier,144667.0
+Y34,New Ross,2,2019,All Dwelling Statuses,All Buyer Types,155107.0
+Y34,New Ross,2,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,191000.0
+Y34,New Ross,2,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,65375.0
+Y34,New Ross,2,2019,New,All Buyer Types,375000.0
+Y34,New Ross,2,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2019,New,Household Buyer - Former Owner-Occupier,375000.0
+Y34,New Ross,2,2019,New,Household Buyer - Non-Occupier,
+Y34,New Ross,2,2019,Existing,All Buyer Types,118458.0
+Y34,New Ross,2,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2019,Existing,Household Buyer - Former Owner-Occupier,145000.0
+Y34,New Ross,2,2019,Existing,Household Buyer - Non-Occupier,65375.0
+Y34,New Ross,3,2019,All Dwelling Statuses,All Buyer Types,118853.0
+Y34,New Ross,3,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165500.0
+Y34,New Ross,3,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,148389.0
+Y34,New Ross,3,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,59000.0
+Y34,New Ross,3,2019,New,All Buyer Types,
+Y34,New Ross,3,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,3,2019,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,3,2019,New,Household Buyer - Non-Occupier,
+Y34,New Ross,3,2019,Existing,All Buyer Types,118853.0
+Y34,New Ross,3,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165500.0
+Y34,New Ross,3,2019,Existing,Household Buyer - Former Owner-Occupier,148389.0
+Y34,New Ross,3,2019,Existing,Household Buyer - Non-Occupier,59000.0
+Y34,New Ross,4,2019,All Dwelling Statuses,All Buyer Types,164975.0
+Y34,New Ross,4,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,127500.0
+Y34,New Ross,4,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,192000.0
+Y34,New Ross,4,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,76333.0
+Y34,New Ross,4,2019,New,All Buyer Types,
+Y34,New Ross,4,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2019,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,4,2019,New,Household Buyer - Non-Occupier,
+Y34,New Ross,4,2019,Existing,All Buyer Types,164975.0
+Y34,New Ross,4,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,127500.0
+Y34,New Ross,4,2019,Existing,Household Buyer - Former Owner-Occupier,192000.0
+Y34,New Ross,4,2019,Existing,Household Buyer - Non-Occupier,76333.0
+Y34,New Ross,5,2019,All Dwelling Statuses,All Buyer Types,126028.0
+Y34,New Ross,5,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+Y34,New Ross,5,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,176833.0
+Y34,New Ross,5,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,46714.0
+Y34,New Ross,5,2019,New,All Buyer Types,
+Y34,New Ross,5,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,5,2019,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,5,2019,New,Household Buyer - Non-Occupier,
+Y34,New Ross,5,2019,Existing,All Buyer Types,126028.0
+Y34,New Ross,5,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+Y34,New Ross,5,2019,Existing,Household Buyer - Former Owner-Occupier,176833.0
+Y34,New Ross,5,2019,Existing,Household Buyer - Non-Occupier,46714.0
+Y34,New Ross,6,2019,All Dwelling Statuses,All Buyer Types,172441.0
+Y34,New Ross,6,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,200340.0
+Y34,New Ross,6,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,210182.0
+Y34,New Ross,6,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+Y34,New Ross,6,2019,New,All Buyer Types,222699.0
+Y34,New Ross,6,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,222699.0
+Y34,New Ross,6,2019,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,6,2019,New,Household Buyer - Non-Occupier,
+Y34,New Ross,6,2019,Existing,All Buyer Types,170048.0
+Y34,New Ross,6,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,194750.0
+Y34,New Ross,6,2019,Existing,Household Buyer - Former Owner-Occupier,210182.0
+Y34,New Ross,6,2019,Existing,Household Buyer - Non-Occupier,80000.0
+Y34,New Ross,7,2019,All Dwelling Statuses,All Buyer Types,169750.0
+Y34,New Ross,7,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,7,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,173611.0
+Y34,New Ross,7,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,135000.0
+Y34,New Ross,7,2019,New,All Buyer Types,
+Y34,New Ross,7,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,7,2019,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,7,2019,New,Household Buyer - Non-Occupier,
+Y34,New Ross,7,2019,Existing,All Buyer Types,169750.0
+Y34,New Ross,7,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,7,2019,Existing,Household Buyer - Former Owner-Occupier,173611.0
+Y34,New Ross,7,2019,Existing,Household Buyer - Non-Occupier,135000.0
+Y34,New Ross,8,2019,All Dwelling Statuses,All Buyer Types,124500.0
+Y34,New Ross,8,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,113750.0
+Y34,New Ross,8,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,142063.0
+Y34,New Ross,8,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,104667.0
+Y34,New Ross,8,2019,New,All Buyer Types,
+Y34,New Ross,8,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,8,2019,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,8,2019,New,Household Buyer - Non-Occupier,
+Y34,New Ross,8,2019,Existing,All Buyer Types,124500.0
+Y34,New Ross,8,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,113750.0
+Y34,New Ross,8,2019,Existing,Household Buyer - Former Owner-Occupier,142063.0
+Y34,New Ross,8,2019,Existing,Household Buyer - Non-Occupier,104667.0
+Y34,New Ross,9,2019,All Dwelling Statuses,All Buyer Types,189088.0
+Y34,New Ross,9,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,111667.0
+Y34,New Ross,9,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,219708.0
+Y34,New Ross,9,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,121500.0
+Y34,New Ross,9,2019,New,All Buyer Types,
+Y34,New Ross,9,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,9,2019,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,9,2019,New,Household Buyer - Non-Occupier,
+Y34,New Ross,9,2019,Existing,All Buyer Types,189088.0
+Y34,New Ross,9,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,111667.0
+Y34,New Ross,9,2019,Existing,Household Buyer - Former Owner-Occupier,219708.0
+Y34,New Ross,9,2019,Existing,Household Buyer - Non-Occupier,121500.0
+Y34,New Ross,10,2019,All Dwelling Statuses,All Buyer Types,150563.0
+Y34,New Ross,10,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,153750.0
+Y34,New Ross,10,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,165875.0
+Y34,New Ross,10,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,116750.0
+Y34,New Ross,10,2019,New,All Buyer Types,399500.0
+Y34,New Ross,10,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,10,2019,New,Household Buyer - Former Owner-Occupier,399500.0
+Y34,New Ross,10,2019,New,Household Buyer - Non-Occupier,
+Y34,New Ross,10,2019,Existing,All Buyer Types,133967.0
+Y34,New Ross,10,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,153750.0
+Y34,New Ross,10,2019,Existing,Household Buyer - Former Owner-Occupier,132500.0
+Y34,New Ross,10,2019,Existing,Household Buyer - Non-Occupier,116750.0
+Y34,New Ross,11,2019,All Dwelling Statuses,All Buyer Types,139375.0
+Y34,New Ross,11,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,201000.0
+Y34,New Ross,11,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,111667.0
+Y34,New Ross,11,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,126000.0
+Y34,New Ross,11,2019,New,All Buyer Types,
+Y34,New Ross,11,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,11,2019,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,11,2019,New,Household Buyer - Non-Occupier,
+Y34,New Ross,11,2019,Existing,All Buyer Types,139375.0
+Y34,New Ross,11,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,201000.0
+Y34,New Ross,11,2019,Existing,Household Buyer - Former Owner-Occupier,111667.0
+Y34,New Ross,11,2019,Existing,Household Buyer - Non-Occupier,126000.0
+Y34,New Ross,12,2019,All Dwelling Statuses,All Buyer Types,126382.0
+Y34,New Ross,12,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,127500.0
+Y34,New Ross,12,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,151500.0
+Y34,New Ross,12,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,89852.0
+Y34,New Ross,12,2019,New,All Buyer Types,
+Y34,New Ross,12,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,12,2019,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,12,2019,New,Household Buyer - Non-Occupier,
+Y34,New Ross,12,2019,Existing,All Buyer Types,126382.0
+Y34,New Ross,12,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,127500.0
+Y34,New Ross,12,2019,Existing,Household Buyer - Former Owner-Occupier,151500.0
+Y34,New Ross,12,2019,Existing,Household Buyer - Non-Occupier,89852.0
+Y34,New Ross,1,2020,All Dwelling Statuses,All Buyer Types,142054.0
+Y34,New Ross,1,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,137250.0
+Y34,New Ross,1,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,161536.0
+Y34,New Ross,1,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,103000.0
+Y34,New Ross,1,2020,New,All Buyer Types,170250.0
+Y34,New Ross,1,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2020,New,Household Buyer - Former Owner-Occupier,170250.0
+Y34,New Ross,1,2020,New,Household Buyer - Non-Occupier,
+Y34,New Ross,1,2020,Existing,All Buyer Types,139885.0
+Y34,New Ross,1,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,137250.0
+Y34,New Ross,1,2020,Existing,Household Buyer - Former Owner-Occupier,160083.0
+Y34,New Ross,1,2020,Existing,Household Buyer - Non-Occupier,103000.0
+Y34,New Ross,2,2020,All Dwelling Statuses,All Buyer Types,170700.0
+Y34,New Ross,2,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,128000.0
+Y34,New Ross,2,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,181375.0
+Y34,New Ross,2,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+Y34,New Ross,2,2020,New,All Buyer Types,
+Y34,New Ross,2,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2020,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,2,2020,New,Household Buyer - Non-Occupier,
+Y34,New Ross,2,2020,Existing,All Buyer Types,170700.0
+Y34,New Ross,2,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,128000.0
+Y34,New Ross,2,2020,Existing,Household Buyer - Former Owner-Occupier,181375.0
+Y34,New Ross,2,2020,Existing,Household Buyer - Non-Occupier,
+Y34,New Ross,3,2020,All Dwelling Statuses,All Buyer Types,195286.0
+Y34,New Ross,3,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,202500.0
+Y34,New Ross,3,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,226750.0
+Y34,New Ross,3,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,55000.0
+Y34,New Ross,3,2020,New,All Buyer Types,
+Y34,New Ross,3,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,3,2020,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,3,2020,New,Household Buyer - Non-Occupier,
+Y34,New Ross,3,2020,Existing,All Buyer Types,195286.0
+Y34,New Ross,3,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,202500.0
+Y34,New Ross,3,2020,Existing,Household Buyer - Former Owner-Occupier,226750.0
+Y34,New Ross,3,2020,Existing,Household Buyer - Non-Occupier,55000.0
+Y34,New Ross,4,2020,All Dwelling Statuses,All Buyer Types,104688.0
+Y34,New Ross,4,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,108658.0
+Y34,New Ross,4,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,111833.0
+Y34,New Ross,4,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,90000.0
+Y34,New Ross,4,2020,New,All Buyer Types,
+Y34,New Ross,4,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2020,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,4,2020,New,Household Buyer - Non-Occupier,
+Y34,New Ross,4,2020,Existing,All Buyer Types,104688.0
+Y34,New Ross,4,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,108658.0
+Y34,New Ross,4,2020,Existing,Household Buyer - Former Owner-Occupier,111833.0
+Y34,New Ross,4,2020,Existing,Household Buyer - Non-Occupier,90000.0
+Y34,New Ross,5,2020,All Dwelling Statuses,All Buyer Types,183500.0
+Y34,New Ross,5,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,185833.0
+Y34,New Ross,5,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,240000.0
+Y34,New Ross,5,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,120000.0
+Y34,New Ross,5,2020,New,All Buyer Types,
+Y34,New Ross,5,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,5,2020,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,5,2020,New,Household Buyer - Non-Occupier,
+Y34,New Ross,5,2020,Existing,All Buyer Types,183500.0
+Y34,New Ross,5,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,185833.0
+Y34,New Ross,5,2020,Existing,Household Buyer - Former Owner-Occupier,240000.0
+Y34,New Ross,5,2020,Existing,Household Buyer - Non-Occupier,120000.0
+Y34,New Ross,6,2020,All Dwelling Statuses,All Buyer Types,121607.0
+Y34,New Ross,6,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+Y34,New Ross,6,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,115083.0
+Y34,New Ross,6,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,103000.0
+Y34,New Ross,6,2020,New,All Buyer Types,170250.0
+Y34,New Ross,6,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,6,2020,New,Household Buyer - Former Owner-Occupier,170250.0
+Y34,New Ross,6,2020,New,Household Buyer - Non-Occupier,
+Y34,New Ross,6,2020,Existing,All Buyer Types,113500.0
+Y34,New Ross,6,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+Y34,New Ross,6,2020,Existing,Household Buyer - Former Owner-Occupier,87500.0
+Y34,New Ross,6,2020,Existing,Household Buyer - Non-Occupier,103000.0
+Y34,New Ross,7,2020,All Dwelling Statuses,All Buyer Types,127000.0
+Y34,New Ross,7,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,81667.0
+Y34,New Ross,7,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,156667.0
+Y34,New Ross,7,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,85000.0
+Y34,New Ross,7,2020,New,All Buyer Types,
+Y34,New Ross,7,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,7,2020,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,7,2020,New,Household Buyer - Non-Occupier,
+Y34,New Ross,7,2020,Existing,All Buyer Types,127000.0
+Y34,New Ross,7,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,81667.0
+Y34,New Ross,7,2020,Existing,Household Buyer - Former Owner-Occupier,156667.0
+Y34,New Ross,7,2020,Existing,Household Buyer - Non-Occupier,85000.0
+Y34,New Ross,8,2020,All Dwelling Statuses,All Buyer Types,196107.0
+Y34,New Ross,8,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,185000.0
+Y34,New Ross,8,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,228875.0
+Y34,New Ross,8,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,145900.0
+Y34,New Ross,8,2020,New,All Buyer Types,
+Y34,New Ross,8,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,8,2020,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,8,2020,New,Household Buyer - Non-Occupier,
+Y34,New Ross,8,2020,Existing,All Buyer Types,196107.0
+Y34,New Ross,8,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,185000.0
+Y34,New Ross,8,2020,Existing,Household Buyer - Former Owner-Occupier,228875.0
+Y34,New Ross,8,2020,Existing,Household Buyer - Non-Occupier,145900.0
+Y34,New Ross,9,2020,All Dwelling Statuses,All Buyer Types,167464.0
+Y34,New Ross,9,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,174750.0
+Y34,New Ross,9,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,152500.0
+Y34,New Ross,9,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,192667.0
+Y34,New Ross,9,2020,New,All Buyer Types,
+Y34,New Ross,9,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,9,2020,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,9,2020,New,Household Buyer - Non-Occupier,
+Y34,New Ross,9,2020,Existing,All Buyer Types,167464.0
+Y34,New Ross,9,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,174750.0
+Y34,New Ross,9,2020,Existing,Household Buyer - Former Owner-Occupier,152500.0
+Y34,New Ross,9,2020,Existing,Household Buyer - Non-Occupier,192667.0
+Y34,New Ross,10,2020,All Dwelling Statuses,All Buyer Types,190931.0
+Y34,New Ross,10,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,172500.0
+Y34,New Ross,10,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,205807.0
+Y34,New Ross,10,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,177071.0
+Y34,New Ross,10,2020,New,All Buyer Types,292263.0
+Y34,New Ross,10,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,10,2020,New,Household Buyer - Former Owner-Occupier,292263.0
+Y34,New Ross,10,2020,New,Household Buyer - Non-Occupier,
+Y34,New Ross,10,2020,Existing,All Buyer Types,184971.0
+Y34,New Ross,10,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,172500.0
+Y34,New Ross,10,2020,Existing,Household Buyer - Former Owner-Occupier,195000.0
+Y34,New Ross,10,2020,Existing,Household Buyer - Non-Occupier,177071.0
+Y34,New Ross,11,2020,All Dwelling Statuses,All Buyer Types,148667.0
+Y34,New Ross,11,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+Y34,New Ross,11,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,171333.0
+Y34,New Ross,11,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,97500.0
+Y34,New Ross,11,2020,New,All Buyer Types,
+Y34,New Ross,11,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,11,2020,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,11,2020,New,Household Buyer - Non-Occupier,
+Y34,New Ross,11,2020,Existing,All Buyer Types,148667.0
+Y34,New Ross,11,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+Y34,New Ross,11,2020,Existing,Household Buyer - Former Owner-Occupier,171333.0
+Y34,New Ross,11,2020,Existing,Household Buyer - Non-Occupier,97500.0
+Y34,New Ross,12,2020,All Dwelling Statuses,All Buyer Types,159711.0
+Y34,New Ross,12,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,140375.0
+Y34,New Ross,12,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,187286.0
+Y34,New Ross,12,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,145250.0
+Y34,New Ross,12,2020,New,All Buyer Types,
+Y34,New Ross,12,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,12,2020,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,12,2020,New,Household Buyer - Non-Occupier,
+Y34,New Ross,12,2020,Existing,All Buyer Types,159711.0
+Y34,New Ross,12,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140375.0
+Y34,New Ross,12,2020,Existing,Household Buyer - Former Owner-Occupier,187286.0
+Y34,New Ross,12,2020,Existing,Household Buyer - Non-Occupier,145250.0
+Y34,New Ross,1,2021,All Dwelling Statuses,All Buyer Types,156583.0
+Y34,New Ross,1,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,156500.0
+Y34,New Ross,1,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,180250.0
+Y34,New Ross,1,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,133000.0
+Y34,New Ross,1,2021,New,All Buyer Types,
+Y34,New Ross,1,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2021,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,1,2021,New,Household Buyer - Non-Occupier,
+Y34,New Ross,1,2021,Existing,All Buyer Types,156583.0
+Y34,New Ross,1,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,156500.0
+Y34,New Ross,1,2021,Existing,Household Buyer - Former Owner-Occupier,180250.0
+Y34,New Ross,1,2021,Existing,Household Buyer - Non-Occupier,133000.0
+Y34,New Ross,2,2021,All Dwelling Statuses,All Buyer Types,203105.0
+Y34,New Ross,2,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,231680.0
+Y34,New Ross,2,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,98333.0
+Y34,New Ross,2,2021,New,All Buyer Types,323475.0
+Y34,New Ross,2,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2021,New,Household Buyer - Former Owner-Occupier,323475.0
+Y34,New Ross,2,2021,New,Household Buyer - Non-Occupier,
+Y34,New Ross,2,2021,Existing,All Buyer Types,193846.0
+Y34,New Ross,2,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2021,Existing,Household Buyer - Former Owner-Occupier,222500.0
+Y34,New Ross,2,2021,Existing,Household Buyer - Non-Occupier,98333.0
+Y34,New Ross,3,2021,All Dwelling Statuses,All Buyer Types,179875.0
+Y34,New Ross,3,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,116000.0
+Y34,New Ross,3,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,193000.0
+Y34,New Ross,3,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,165000.0
+Y34,New Ross,3,2021,New,All Buyer Types,
+Y34,New Ross,3,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,3,2021,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,3,2021,New,Household Buyer - Non-Occupier,
+Y34,New Ross,3,2021,Existing,All Buyer Types,179875.0
+Y34,New Ross,3,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,116000.0
+Y34,New Ross,3,2021,Existing,Household Buyer - Former Owner-Occupier,193000.0
+Y34,New Ross,3,2021,Existing,Household Buyer - Non-Occupier,165000.0
+Y34,New Ross,4,2021,All Dwelling Statuses,All Buyer Types,194515.0
+Y34,New Ross,4,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,123000.0
+Y34,New Ross,4,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,213288.0
+Y34,New Ross,4,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,137000.0
+Y34,New Ross,4,2021,New,All Buyer Types,
+Y34,New Ross,4,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2021,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,4,2021,New,Household Buyer - Non-Occupier,
+Y34,New Ross,4,2021,Existing,All Buyer Types,194515.0
+Y34,New Ross,4,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,123000.0
+Y34,New Ross,4,2021,Existing,Household Buyer - Former Owner-Occupier,213288.0
+Y34,New Ross,4,2021,Existing,Household Buyer - Non-Occupier,137000.0
+Y34,New Ross,5,2021,All Dwelling Statuses,All Buyer Types,170667.0
+Y34,New Ross,5,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,155000.0
+Y34,New Ross,5,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,210125.0
+Y34,New Ross,5,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,137333.0
+Y34,New Ross,5,2021,New,All Buyer Types,
+Y34,New Ross,5,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,5,2021,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,5,2021,New,Household Buyer - Non-Occupier,
+Y34,New Ross,5,2021,Existing,All Buyer Types,170667.0
+Y34,New Ross,5,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,155000.0
+Y34,New Ross,5,2021,Existing,Household Buyer - Former Owner-Occupier,210125.0
+Y34,New Ross,5,2021,Existing,Household Buyer - Non-Occupier,137333.0
+Y34,New Ross,6,2021,All Dwelling Statuses,All Buyer Types,212937.0
+Y34,New Ross,6,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,212000.0
+Y34,New Ross,6,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,242100.0
+Y34,New Ross,6,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,140500.0
+Y34,New Ross,6,2021,New,All Buyer Types,239000.0
+Y34,New Ross,6,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,249000.0
+Y34,New Ross,6,2021,New,Household Buyer - Former Owner-Occupier,229000.0
+Y34,New Ross,6,2021,New,Household Buyer - Non-Occupier,
+Y34,New Ross,6,2021,Existing,All Buyer Types,209214.0
+Y34,New Ross,6,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+Y34,New Ross,6,2021,Existing,Household Buyer - Former Owner-Occupier,243556.0
+Y34,New Ross,6,2021,Existing,Household Buyer - Non-Occupier,140500.0
+Y34,New Ross,7,2021,All Dwelling Statuses,All Buyer Types,198175.0
+Y34,New Ross,7,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,142333.0
+Y34,New Ross,7,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,234950.0
+Y34,New Ross,7,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,169571.0
+Y34,New Ross,7,2021,New,All Buyer Types,
+Y34,New Ross,7,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,7,2021,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,7,2021,New,Household Buyer - Non-Occupier,
+Y34,New Ross,7,2021,Existing,All Buyer Types,198175.0
+Y34,New Ross,7,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,142333.0
+Y34,New Ross,7,2021,Existing,Household Buyer - Former Owner-Occupier,234950.0
+Y34,New Ross,7,2021,Existing,Household Buyer - Non-Occupier,169571.0
+Y34,New Ross,8,2021,All Dwelling Statuses,All Buyer Types,191476.0
+Y34,New Ross,8,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,156667.0
+Y34,New Ross,8,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,203533.0
+Y34,New Ross,8,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,166000.0
+Y34,New Ross,8,2021,New,All Buyer Types,
+Y34,New Ross,8,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,8,2021,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,8,2021,New,Household Buyer - Non-Occupier,
+Y34,New Ross,8,2021,Existing,All Buyer Types,191476.0
+Y34,New Ross,8,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,156667.0
+Y34,New Ross,8,2021,Existing,Household Buyer - Former Owner-Occupier,203533.0
+Y34,New Ross,8,2021,Existing,Household Buyer - Non-Occupier,166000.0
+Y34,New Ross,9,2021,All Dwelling Statuses,All Buyer Types,195614.0
+Y34,New Ross,9,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,110663.0
+Y34,New Ross,9,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,224727.0
+Y34,New Ross,9,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,162000.0
+Y34,New Ross,9,2021,New,All Buyer Types,110663.0
+Y34,New Ross,9,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,110663.0
+Y34,New Ross,9,2021,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,9,2021,New,Household Buyer - Non-Occupier,
+Y34,New Ross,9,2021,Existing,All Buyer Types,200333.0
+Y34,New Ross,9,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,9,2021,Existing,Household Buyer - Former Owner-Occupier,224727.0
+Y34,New Ross,9,2021,Existing,Household Buyer - Non-Occupier,162000.0
+Y34,New Ross,10,2021,All Dwelling Statuses,All Buyer Types,217269.0
+Y34,New Ross,10,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,234500.0
+Y34,New Ross,10,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,225025.0
+Y34,New Ross,10,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,148333.0
+Y34,New Ross,10,2021,New,All Buyer Types,249000.0
+Y34,New Ross,10,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,249000.0
+Y34,New Ross,10,2021,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,10,2021,New,Household Buyer - Non-Occupier,
+Y34,New Ross,10,2021,Existing,All Buyer Types,216000.0
+Y34,New Ross,10,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,227250.0
+Y34,New Ross,10,2021,Existing,Household Buyer - Former Owner-Occupier,225025.0
+Y34,New Ross,10,2021,Existing,Household Buyer - Non-Occupier,148333.0
+Y34,New Ross,11,2021,All Dwelling Statuses,All Buyer Types,208023.0
+Y34,New Ross,11,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,144250.0
+Y34,New Ross,11,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,202063.0
+Y34,New Ross,11,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,263750.0
+Y34,New Ross,11,2021,New,All Buyer Types,
+Y34,New Ross,11,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,11,2021,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,11,2021,New,Household Buyer - Non-Occupier,
+Y34,New Ross,11,2021,Existing,All Buyer Types,208023.0
+Y34,New Ross,11,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,144250.0
+Y34,New Ross,11,2021,Existing,Household Buyer - Former Owner-Occupier,202063.0
+Y34,New Ross,11,2021,Existing,Household Buyer - Non-Occupier,263750.0
+Y34,New Ross,12,2021,All Dwelling Statuses,All Buyer Types,195741.0
+Y34,New Ross,12,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,176667.0
+Y34,New Ross,12,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,206889.0
+Y34,New Ross,12,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,171833.0
+Y34,New Ross,12,2021,New,All Buyer Types,
+Y34,New Ross,12,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,12,2021,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,12,2021,New,Household Buyer - Non-Occupier,
+Y34,New Ross,12,2021,Existing,All Buyer Types,195741.0
+Y34,New Ross,12,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,176667.0
+Y34,New Ross,12,2021,Existing,Household Buyer - Former Owner-Occupier,206889.0
+Y34,New Ross,12,2021,Existing,Household Buyer - Non-Occupier,171833.0
+Y34,New Ross,1,2022,All Dwelling Statuses,All Buyer Types,266250.0
+Y34,New Ross,1,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,280000.0
+Y34,New Ross,1,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,225000.0
+Y34,New Ross,1,2022,New,All Buyer Types,
+Y34,New Ross,1,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2022,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,1,2022,New,Household Buyer - Non-Occupier,
+Y34,New Ross,1,2022,Existing,All Buyer Types,266250.0
+Y34,New Ross,1,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2022,Existing,Household Buyer - Former Owner-Occupier,280000.0
+Y34,New Ross,1,2022,Existing,Household Buyer - Non-Occupier,225000.0
+Y34,New Ross,2,2022,All Dwelling Statuses,All Buyer Types,227676.0
+Y34,New Ross,2,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,223500.0
+Y34,New Ross,2,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,244125.0
+Y34,New Ross,2,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,142733.0
+Y34,New Ross,2,2022,New,All Buyer Types,204999.0
+Y34,New Ross,2,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,204999.0
+Y34,New Ross,2,2022,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,2,2022,New,Household Buyer - Non-Occupier,
+Y34,New Ross,2,2022,Existing,All Buyer Types,228810.0
+Y34,New Ross,2,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,242000.0
+Y34,New Ross,2,2022,Existing,Household Buyer - Former Owner-Occupier,244125.0
+Y34,New Ross,2,2022,Existing,Household Buyer - Non-Occupier,142733.0
+Y34,New Ross,3,2022,All Dwelling Statuses,All Buyer Types,148875.0
+Y34,New Ross,3,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,209750.0
+Y34,New Ross,3,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,145400.0
+Y34,New Ross,3,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,128000.0
+Y34,New Ross,3,2022,New,All Buyer Types,
+Y34,New Ross,3,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,3,2022,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,3,2022,New,Household Buyer - Non-Occupier,
+Y34,New Ross,3,2022,Existing,All Buyer Types,148875.0
+Y34,New Ross,3,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,209750.0
+Y34,New Ross,3,2022,Existing,Household Buyer - Former Owner-Occupier,145400.0
+Y34,New Ross,3,2022,Existing,Household Buyer - Non-Occupier,128000.0
+Y34,New Ross,4,2022,All Dwelling Statuses,All Buyer Types,238174.0
+Y34,New Ross,4,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,234111.0
+Y34,New Ross,4,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,250545.0
+Y34,New Ross,4,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,205000.0
+Y34,New Ross,4,2022,New,All Buyer Types,
+Y34,New Ross,4,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2022,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,4,2022,New,Household Buyer - Non-Occupier,
+Y34,New Ross,4,2022,Existing,All Buyer Types,238174.0
+Y34,New Ross,4,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,234111.0
+Y34,New Ross,4,2022,Existing,Household Buyer - Former Owner-Occupier,250545.0
+Y34,New Ross,4,2022,Existing,Household Buyer - Non-Occupier,205000.0
+Y34,New Ross,5,2022,All Dwelling Statuses,All Buyer Types,198583.0
+Y34,New Ross,5,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,197000.0
+Y34,New Ross,5,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,207400.0
+Y34,New Ross,5,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,140333.0
+Y34,New Ross,5,2022,New,All Buyer Types,
+Y34,New Ross,5,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,5,2022,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,5,2022,New,Household Buyer - Non-Occupier,
+Y34,New Ross,5,2022,Existing,All Buyer Types,198583.0
+Y34,New Ross,5,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,197000.0
+Y34,New Ross,5,2022,Existing,Household Buyer - Former Owner-Occupier,207400.0
+Y34,New Ross,5,2022,Existing,Household Buyer - Non-Occupier,140333.0
+Y34,New Ross,6,2022,All Dwelling Statuses,All Buyer Types,197664.0
+Y34,New Ross,6,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,189875.0
+Y34,New Ross,6,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,204751.0
+Y34,New Ross,6,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+Y34,New Ross,6,2022,New,All Buyer Types,187275.0
+Y34,New Ross,6,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,6,2022,New,Household Buyer - Former Owner-Occupier,187275.0
+Y34,New Ross,6,2022,New,Household Buyer - Non-Occupier,
+Y34,New Ross,6,2022,Existing,All Buyer Types,198080.0
+Y34,New Ross,6,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,189875.0
+Y34,New Ross,6,2022,Existing,Household Buyer - Former Owner-Occupier,205625.0
+Y34,New Ross,6,2022,Existing,Household Buyer - Non-Occupier,80000.0
+Y34,New Ross,7,2022,All Dwelling Statuses,All Buyer Types,165839.0
+Y34,New Ross,7,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,162000.0
+Y34,New Ross,7,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,173281.0
+Y34,New Ross,7,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,153889.0
+Y34,New Ross,7,2022,New,All Buyer Types,
+Y34,New Ross,7,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,7,2022,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,7,2022,New,Household Buyer - Non-Occupier,
+Y34,New Ross,7,2022,Existing,All Buyer Types,165839.0
+Y34,New Ross,7,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,162000.0
+Y34,New Ross,7,2022,Existing,Household Buyer - Former Owner-Occupier,173281.0
+Y34,New Ross,7,2022,Existing,Household Buyer - Non-Occupier,153889.0
+Y34,New Ross,8,2022,All Dwelling Statuses,All Buyer Types,232750.0
+Y34,New Ross,8,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,247500.0
+Y34,New Ross,8,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,254458.0
+Y34,New Ross,8,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,160250.0
+Y34,New Ross,8,2022,New,All Buyer Types,
+Y34,New Ross,8,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,8,2022,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,8,2022,New,Household Buyer - Non-Occupier,
+Y34,New Ross,8,2022,Existing,All Buyer Types,232750.0
+Y34,New Ross,8,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,247500.0
+Y34,New Ross,8,2022,Existing,Household Buyer - Former Owner-Occupier,254458.0
+Y34,New Ross,8,2022,Existing,Household Buyer - Non-Occupier,160250.0
+Y34,New Ross,9,2022,All Dwelling Statuses,All Buyer Types,235583.0
+Y34,New Ross,9,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,234375.0
+Y34,New Ross,9,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,266233.0
+Y34,New Ross,9,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,144600.0
+Y34,New Ross,9,2022,New,All Buyer Types,
+Y34,New Ross,9,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,9,2022,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,9,2022,New,Household Buyer - Non-Occupier,
+Y34,New Ross,9,2022,Existing,All Buyer Types,235583.0
+Y34,New Ross,9,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,234375.0
+Y34,New Ross,9,2022,Existing,Household Buyer - Former Owner-Occupier,266233.0
+Y34,New Ross,9,2022,Existing,Household Buyer - Non-Occupier,144600.0
+Y34,New Ross,10,2022,All Dwelling Statuses,All Buyer Types,196053.0
+Y34,New Ross,10,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,161750.0
+Y34,New Ross,10,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,234800.0
+Y34,New Ross,10,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,146000.0
+Y34,New Ross,10,2022,New,All Buyer Types,
+Y34,New Ross,10,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,10,2022,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,10,2022,New,Household Buyer - Non-Occupier,
+Y34,New Ross,10,2022,Existing,All Buyer Types,196053.0
+Y34,New Ross,10,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,161750.0
+Y34,New Ross,10,2022,Existing,Household Buyer - Former Owner-Occupier,234800.0
+Y34,New Ross,10,2022,Existing,Household Buyer - Non-Occupier,146000.0
+Y34,New Ross,11,2022,All Dwelling Statuses,All Buyer Types,222739.0
+Y34,New Ross,11,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,174000.0
+Y34,New Ross,11,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,257267.0
+Y34,New Ross,11,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,148400.0
+Y34,New Ross,11,2022,New,All Buyer Types,
+Y34,New Ross,11,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,11,2022,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,11,2022,New,Household Buyer - Non-Occupier,
+Y34,New Ross,11,2022,Existing,All Buyer Types,222739.0
+Y34,New Ross,11,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,174000.0
+Y34,New Ross,11,2022,Existing,Household Buyer - Former Owner-Occupier,257267.0
+Y34,New Ross,11,2022,Existing,Household Buyer - Non-Occupier,148400.0
+Y34,New Ross,12,2022,All Dwelling Statuses,All Buyer Types,217031.0
+Y34,New Ross,12,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,227000.0
+Y34,New Ross,12,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,261556.0
+Y34,New Ross,12,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,148583.0
+Y34,New Ross,12,2022,New,All Buyer Types,227000.0
+Y34,New Ross,12,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,227000.0
+Y34,New Ross,12,2022,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,12,2022,New,Household Buyer - Non-Occupier,
+Y34,New Ross,12,2022,Existing,All Buyer Types,216367.0
+Y34,New Ross,12,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,12,2022,Existing,Household Buyer - Former Owner-Occupier,261556.0
+Y34,New Ross,12,2022,Existing,Household Buyer - Non-Occupier,148583.0
+Y34,New Ross,1,2023,All Dwelling Statuses,All Buyer Types,226792.0
+Y34,New Ross,1,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,214000.0
+Y34,New Ross,1,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,251875.0
+Y34,New Ross,1,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,164167.0
+Y34,New Ross,1,2023,New,All Buyer Types,
+Y34,New Ross,1,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2023,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,1,2023,New,Household Buyer - Non-Occupier,
+Y34,New Ross,1,2023,Existing,All Buyer Types,226792.0
+Y34,New Ross,1,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,214000.0
+Y34,New Ross,1,2023,Existing,Household Buyer - Former Owner-Occupier,251875.0
+Y34,New Ross,1,2023,Existing,Household Buyer - Non-Occupier,164167.0
+Y34,New Ross,2,2023,All Dwelling Statuses,All Buyer Types,212813.0
+Y34,New Ross,2,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,203750.0
+Y34,New Ross,2,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,239444.0
+Y34,New Ross,2,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,145000.0
+Y34,New Ross,2,2023,New,All Buyer Types,
+Y34,New Ross,2,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2023,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,2,2023,New,Household Buyer - Non-Occupier,
+Y34,New Ross,2,2023,Existing,All Buyer Types,212813.0
+Y34,New Ross,2,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,203750.0
+Y34,New Ross,2,2023,Existing,Household Buyer - Former Owner-Occupier,239444.0
+Y34,New Ross,2,2023,Existing,Household Buyer - Non-Occupier,145000.0
+Y34,New Ross,3,2023,All Dwelling Statuses,All Buyer Types,209167.0
+Y34,New Ross,3,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,167800.0
+Y34,New Ross,3,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,237056.0
+Y34,New Ross,3,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,165000.0
+Y34,New Ross,3,2023,New,All Buyer Types,
+Y34,New Ross,3,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,3,2023,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,3,2023,New,Household Buyer - Non-Occupier,
+Y34,New Ross,3,2023,Existing,All Buyer Types,209167.0
+Y34,New Ross,3,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,167800.0
+Y34,New Ross,3,2023,Existing,Household Buyer - Former Owner-Occupier,237056.0
+Y34,New Ross,3,2023,Existing,Household Buyer - Non-Occupier,165000.0
+Y34,New Ross,4,2023,All Dwelling Statuses,All Buyer Types,187923.0
+Y34,New Ross,4,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,134500.0
+Y34,New Ross,4,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197857.0
+Y34,New Ross,4,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,218167.0
+Y34,New Ross,4,2023,New,All Buyer Types,
+Y34,New Ross,4,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2023,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,4,2023,New,Household Buyer - Non-Occupier,
+Y34,New Ross,4,2023,Existing,All Buyer Types,187923.0
+Y34,New Ross,4,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,134500.0
+Y34,New Ross,4,2023,Existing,Household Buyer - Former Owner-Occupier,197857.0
+Y34,New Ross,4,2023,Existing,Household Buyer - Non-Occupier,218167.0
+Y34,New Ross,5,2023,All Dwelling Statuses,All Buyer Types,211500.0
+Y34,New Ross,5,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,157500.0
+Y34,New Ross,5,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,241182.0
+Y34,New Ross,5,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,155000.0
+Y34,New Ross,5,2023,New,All Buyer Types,
+Y34,New Ross,5,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,5,2023,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,5,2023,New,Household Buyer - Non-Occupier,
+Y34,New Ross,5,2023,Existing,All Buyer Types,211500.0
+Y34,New Ross,5,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,157500.0
+Y34,New Ross,5,2023,Existing,Household Buyer - Former Owner-Occupier,241182.0
+Y34,New Ross,5,2023,Existing,Household Buyer - Non-Occupier,155000.0
+Y34,New Ross,6,2023,All Dwelling Statuses,All Buyer Types,241423.0
+Y34,New Ross,6,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,248500.0
+Y34,New Ross,6,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,258313.0
+Y34,New Ross,6,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,191667.0
+Y34,New Ross,6,2023,New,All Buyer Types,
+Y34,New Ross,6,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,6,2023,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,6,2023,New,Household Buyer - Non-Occupier,
+Y34,New Ross,6,2023,Existing,All Buyer Types,241423.0
+Y34,New Ross,6,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,248500.0
+Y34,New Ross,6,2023,Existing,Household Buyer - Former Owner-Occupier,258313.0
+Y34,New Ross,6,2023,Existing,Household Buyer - Non-Occupier,191667.0
+Y34,New Ross,7,2023,All Dwelling Statuses,All Buyer Types,237071.0
+Y34,New Ross,7,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,159000.0
+Y34,New Ross,7,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,278111.0
+Y34,New Ross,7,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,180000.0
+Y34,New Ross,7,2023,New,All Buyer Types,
+Y34,New Ross,7,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,7,2023,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,7,2023,New,Household Buyer - Non-Occupier,
+Y34,New Ross,7,2023,Existing,All Buyer Types,237071.0
+Y34,New Ross,7,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,159000.0
+Y34,New Ross,7,2023,Existing,Household Buyer - Former Owner-Occupier,278111.0
+Y34,New Ross,7,2023,Existing,Household Buyer - Non-Occupier,180000.0
+Y34,New Ross,8,2023,All Dwelling Statuses,All Buyer Types,211300.0
+Y34,New Ross,8,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+Y34,New Ross,8,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,225409.0
+Y34,New Ross,8,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,135000.0
+Y34,New Ross,8,2023,New,All Buyer Types,
+Y34,New Ross,8,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,8,2023,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,8,2023,New,Household Buyer - Non-Occupier,
+Y34,New Ross,8,2023,Existing,All Buyer Types,211300.0
+Y34,New Ross,8,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+Y34,New Ross,8,2023,Existing,Household Buyer - Former Owner-Occupier,225409.0
+Y34,New Ross,8,2023,Existing,Household Buyer - Non-Occupier,135000.0
+Y34,New Ross,9,2023,All Dwelling Statuses,All Buyer Types,187824.0
+Y34,New Ross,9,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,107333.0
+Y34,New Ross,9,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,207949.0
+Y34,New Ross,9,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,177750.0
+Y34,New Ross,9,2023,New,All Buyer Types,400000.0
+Y34,New Ross,9,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,9,2023,New,Household Buyer - Former Owner-Occupier,400000.0
+Y34,New Ross,9,2023,New,Household Buyer - Non-Occupier,
+Y34,New Ross,9,2023,Existing,All Buyer Types,175343.0
+Y34,New Ross,9,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,107333.0
+Y34,New Ross,9,2023,Existing,Household Buyer - Former Owner-Occupier,191944.0
+Y34,New Ross,9,2023,Existing,Household Buyer - Non-Occupier,177750.0
+Y34,New Ross,10,2023,All Dwelling Statuses,All Buyer Types,177265.0
+Y34,New Ross,10,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,112500.0
+Y34,New Ross,10,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,221850.0
+Y34,New Ross,10,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,114000.0
+Y34,New Ross,10,2023,New,All Buyer Types,
+Y34,New Ross,10,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,10,2023,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,10,2023,New,Household Buyer - Non-Occupier,
+Y34,New Ross,10,2023,Existing,All Buyer Types,177265.0
+Y34,New Ross,10,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,112500.0
+Y34,New Ross,10,2023,Existing,Household Buyer - Former Owner-Occupier,221850.0
+Y34,New Ross,10,2023,Existing,Household Buyer - Non-Occupier,114000.0
+Y34,New Ross,11,2023,All Dwelling Statuses,All Buyer Types,232254.0
+Y34,New Ross,11,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,263333.0
+Y34,New Ross,11,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,230191.0
+Y34,New Ross,11,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,219467.0
+Y34,New Ross,11,2023,New,All Buyer Types,
+Y34,New Ross,11,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,11,2023,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,11,2023,New,Household Buyer - Non-Occupier,
+Y34,New Ross,11,2023,Existing,All Buyer Types,232254.0
+Y34,New Ross,11,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,263333.0
+Y34,New Ross,11,2023,Existing,Household Buyer - Former Owner-Occupier,230191.0
+Y34,New Ross,11,2023,Existing,Household Buyer - Non-Occupier,219467.0
+Y34,New Ross,12,2023,All Dwelling Statuses,All Buyer Types,183236.0
+Y34,New Ross,12,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,242667.0
+Y34,New Ross,12,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,255500.0
+Y34,New Ross,12,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,107595.0
+Y34,New Ross,12,2023,New,All Buyer Types,321000.0
+Y34,New Ross,12,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,12,2023,New,Household Buyer - Former Owner-Occupier,321000.0
+Y34,New Ross,12,2023,New,Household Buyer - Non-Occupier,
+Y34,New Ross,12,2023,Existing,All Buyer Types,176348.0
+Y34,New Ross,12,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,242667.0
+Y34,New Ross,12,2023,Existing,Household Buyer - Former Owner-Occupier,246143.0
+Y34,New Ross,12,2023,Existing,Household Buyer - Non-Occupier,107595.0
+Y34,New Ross,1,2024,All Dwelling Statuses,All Buyer Types,246827.0
+Y34,New Ross,1,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,293500.0
+Y34,New Ross,1,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,91250.0
+Y34,New Ross,1,2024,New,All Buyer Types,
+Y34,New Ross,1,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2024,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,1,2024,New,Household Buyer - Non-Occupier,
+Y34,New Ross,1,2024,Existing,All Buyer Types,246827.0
+Y34,New Ross,1,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,1,2024,Existing,Household Buyer - Former Owner-Occupier,293500.0
+Y34,New Ross,1,2024,Existing,Household Buyer - Non-Occupier,91250.0
+Y34,New Ross,2,2024,All Dwelling Statuses,All Buyer Types,244200.0
+Y34,New Ross,2,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,343833.0
+Y34,New Ross,2,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,236700.0
+Y34,New Ross,2,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,202778.0
+Y34,New Ross,2,2024,New,All Buyer Types,
+Y34,New Ross,2,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,2,2024,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,2,2024,New,Household Buyer - Non-Occupier,
+Y34,New Ross,2,2024,Existing,All Buyer Types,244200.0
+Y34,New Ross,2,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,343833.0
+Y34,New Ross,2,2024,Existing,Household Buyer - Former Owner-Occupier,236700.0
+Y34,New Ross,2,2024,Existing,Household Buyer - Non-Occupier,202778.0
+Y34,New Ross,3,2024,All Dwelling Statuses,All Buyer Types,224633.0
+Y34,New Ross,3,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,368750.0
+Y34,New Ross,3,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,200167.0
+Y34,New Ross,3,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,230000.0
+Y34,New Ross,3,2024,New,All Buyer Types,
+Y34,New Ross,3,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,3,2024,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,3,2024,New,Household Buyer - Non-Occupier,
+Y34,New Ross,3,2024,Existing,All Buyer Types,224633.0
+Y34,New Ross,3,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,368750.0
+Y34,New Ross,3,2024,Existing,Household Buyer - Former Owner-Occupier,200167.0
+Y34,New Ross,3,2024,Existing,Household Buyer - Non-Occupier,230000.0
+Y34,New Ross,4,2024,All Dwelling Statuses,All Buyer Types,188875.0
+Y34,New Ross,4,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,230000.0
+Y34,New Ross,4,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,215350.0
+Y34,New Ross,4,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,117333.0
+Y34,New Ross,4,2024,New,All Buyer Types,
+Y34,New Ross,4,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,4,2024,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,4,2024,New,Household Buyer - Non-Occupier,
+Y34,New Ross,4,2024,Existing,All Buyer Types,188875.0
+Y34,New Ross,4,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,230000.0
+Y34,New Ross,4,2024,Existing,Household Buyer - Former Owner-Occupier,215350.0
+Y34,New Ross,4,2024,Existing,Household Buyer - Non-Occupier,117333.0
+Y34,New Ross,5,2024,All Dwelling Statuses,All Buyer Types,210766.0
+Y34,New Ross,5,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+Y34,New Ross,5,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,228094.0
+Y34,New Ross,5,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,113750.0
+Y34,New Ross,5,2024,New,All Buyer Types,
+Y34,New Ross,5,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,5,2024,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,5,2024,New,Household Buyer - Non-Occupier,
+Y34,New Ross,5,2024,Existing,All Buyer Types,210766.0
+Y34,New Ross,5,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+Y34,New Ross,5,2024,Existing,Household Buyer - Former Owner-Occupier,228094.0
+Y34,New Ross,5,2024,Existing,Household Buyer - Non-Occupier,113750.0
+Y34,New Ross,6,2024,All Dwelling Statuses,All Buyer Types,267132.0
+Y34,New Ross,6,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,218000.0
+Y34,New Ross,6,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,286188.0
+Y34,New Ross,6,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,235000.0
+Y34,New Ross,6,2024,New,All Buyer Types,394500.0
+Y34,New Ross,6,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,335000.0
+Y34,New Ross,6,2024,New,Household Buyer - Former Owner-Occupier,454000.0
+Y34,New Ross,6,2024,New,Household Buyer - Non-Occupier,
+Y34,New Ross,6,2024,Existing,All Buyer Types,250150.0
+Y34,New Ross,6,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,179000.0
+Y34,New Ross,6,2024,Existing,Household Buyer - Former Owner-Occupier,270932.0
+Y34,New Ross,6,2024,Existing,Household Buyer - Non-Occupier,235000.0
+Y34,New Ross,7,2024,All Dwelling Statuses,All Buyer Types,272364.0
+Y34,New Ross,7,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,228667.0
+Y34,New Ross,7,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,416667.0
+Y34,New Ross,7,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,212000.0
+Y34,New Ross,7,2024,New,All Buyer Types,
+Y34,New Ross,7,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y34,New Ross,7,2024,New,Household Buyer - Former Owner-Occupier,
+Y34,New Ross,7,2024,New,Household Buyer - Non-Occupier,
+Y34,New Ross,7,2024,Existing,All Buyer Types,272364.0
+Y34,New Ross,7,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,228667.0
+Y34,New Ross,7,2024,Existing,Household Buyer - Former Owner-Occupier,416667.0
+Y34,New Ross,7,2024,Existing,Household Buyer - Non-Occupier,212000.0

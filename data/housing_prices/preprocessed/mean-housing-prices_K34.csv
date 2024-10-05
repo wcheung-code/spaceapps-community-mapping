@@ -1,0 +1,2101 @@
+Routing Key,City,Month,Year,Dwelling Status,Type of Buyer,VALUE
+K34,Skerries,1,2010,All Dwelling Statuses,All Buyer Types,328684.0
+K34,Skerries,1,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,253211.0
+K34,Skerries,1,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,379000.0
+K34,Skerries,1,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,1,2010,New,All Buyer Types,281421.0
+K34,Skerries,1,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,281421.0
+K34,Skerries,1,2010,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,1,2010,New,Household Buyer - Non-Occupier,
+K34,Skerries,1,2010,Existing,All Buyer Types,340500.0
+K34,Skerries,1,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,225000.0
+K34,Skerries,1,2010,Existing,Household Buyer - Former Owner-Occupier,379000.0
+K34,Skerries,1,2010,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,2,2010,All Dwelling Statuses,All Buyer Types,435000.0
+K34,Skerries,2,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,600000.0
+K34,Skerries,2,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,270000.0
+K34,Skerries,2,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,2,2010,New,All Buyer Types,
+K34,Skerries,2,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,2,2010,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,2,2010,New,Household Buyer - Non-Occupier,
+K34,Skerries,2,2010,Existing,All Buyer Types,435000.0
+K34,Skerries,2,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,600000.0
+K34,Skerries,2,2010,Existing,Household Buyer - Former Owner-Occupier,270000.0
+K34,Skerries,2,2010,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,3,2010,All Dwelling Statuses,All Buyer Types,472686.0
+K34,Skerries,3,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,3,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,472686.0
+K34,Skerries,3,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,3,2010,New,All Buyer Types,472686.0
+K34,Skerries,3,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,3,2010,New,Household Buyer - Former Owner-Occupier,472686.0
+K34,Skerries,3,2010,New,Household Buyer - Non-Occupier,
+K34,Skerries,3,2010,Existing,All Buyer Types,
+K34,Skerries,3,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,3,2010,Existing,Household Buyer - Former Owner-Occupier,
+K34,Skerries,3,2010,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,4,2010,All Dwelling Statuses,All Buyer Types,268567.0
+K34,Skerries,4,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,238468.0
+K34,Skerries,4,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,315305.0
+K34,Skerries,4,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,173500.0
+K34,Skerries,4,2010,New,All Buyer Types,264545.0
+K34,Skerries,4,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,252703.0
+K34,Skerries,4,2010,New,Household Buyer - Former Owner-Occupier,288231.0
+K34,Skerries,4,2010,New,Household Buyer - Non-Occupier,
+K34,Skerries,4,2010,Existing,All Buyer Types,270075.0
+K34,Skerries,4,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+K34,Skerries,4,2010,Existing,Household Buyer - Former Owner-Occupier,320720.0
+K34,Skerries,4,2010,Existing,Household Buyer - Non-Occupier,173500.0
+K34,Skerries,5,2010,All Dwelling Statuses,All Buyer Types,355286.0
+K34,Skerries,5,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,273000.0
+K34,Skerries,5,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,572500.0
+K34,Skerries,5,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,250000.0
+K34,Skerries,5,2010,New,All Buyer Types,
+K34,Skerries,5,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,5,2010,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,5,2010,New,Household Buyer - Non-Occupier,
+K34,Skerries,5,2010,Existing,All Buyer Types,355286.0
+K34,Skerries,5,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,273000.0
+K34,Skerries,5,2010,Existing,Household Buyer - Former Owner-Occupier,572500.0
+K34,Skerries,5,2010,Existing,Household Buyer - Non-Occupier,250000.0
+K34,Skerries,6,2010,All Dwelling Statuses,All Buyer Types,241500.0
+K34,Skerries,6,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,266667.0
+K34,Skerries,6,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,262333.0
+K34,Skerries,6,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,172500.0
+K34,Skerries,6,2010,New,All Buyer Types,230667.0
+K34,Skerries,6,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,250000.0
+K34,Skerries,6,2010,New,Household Buyer - Former Owner-Occupier,247000.0
+K34,Skerries,6,2010,New,Household Buyer - Non-Occupier,195000.0
+K34,Skerries,6,2010,Existing,All Buyer Types,248000.0
+K34,Skerries,6,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+K34,Skerries,6,2010,Existing,Household Buyer - Former Owner-Occupier,270000.0
+K34,Skerries,6,2010,Existing,Household Buyer - Non-Occupier,150000.0
+K34,Skerries,7,2010,All Dwelling Statuses,All Buyer Types,302300.0
+K34,Skerries,7,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,311525.0
+K34,Skerries,7,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,290000.0
+K34,Skerries,7,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,7,2010,New,All Buyer Types,374550.0
+K34,Skerries,7,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,374550.0
+K34,Skerries,7,2010,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,7,2010,New,Household Buyer - Non-Occupier,
+K34,Skerries,7,2010,Existing,All Buyer Types,273400.0
+K34,Skerries,7,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,248500.0
+K34,Skerries,7,2010,Existing,Household Buyer - Former Owner-Occupier,290000.0
+K34,Skerries,7,2010,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,8,2010,All Dwelling Statuses,All Buyer Types,520775.0
+K34,Skerries,8,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,290392.0
+K34,Skerries,8,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,866350.0
+K34,Skerries,8,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,8,2010,New,All Buyer Types,346175.0
+K34,Skerries,8,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,346175.0
+K34,Skerries,8,2010,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,8,2010,New,Household Buyer - Non-Occupier,
+K34,Skerries,8,2010,Existing,All Buyer Types,564425.0
+K34,Skerries,8,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,262500.0
+K34,Skerries,8,2010,Existing,Household Buyer - Former Owner-Occupier,866350.0
+K34,Skerries,8,2010,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,9,2010,All Dwelling Statuses,All Buyer Types,342013.0
+K34,Skerries,9,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,365000.0
+K34,Skerries,9,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,330519.0
+K34,Skerries,9,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,9,2010,New,All Buyer Types,366038.0
+K34,Skerries,9,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,9,2010,New,Household Buyer - Former Owner-Occupier,366038.0
+K34,Skerries,9,2010,New,Household Buyer - Non-Occupier,
+K34,Skerries,9,2010,Existing,All Buyer Types,330000.0
+K34,Skerries,9,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,365000.0
+K34,Skerries,9,2010,Existing,Household Buyer - Former Owner-Occupier,295000.0
+K34,Skerries,9,2010,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,10,2010,All Dwelling Statuses,All Buyer Types,464225.0
+K34,Skerries,10,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,346175.0
+K34,Skerries,10,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,503575.0
+K34,Skerries,10,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,10,2010,New,All Buyer Types,355951.0
+K34,Skerries,10,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,346175.0
+K34,Skerries,10,2010,New,Household Buyer - Former Owner-Occupier,365726.0
+K34,Skerries,10,2010,New,Household Buyer - Non-Occupier,
+K34,Skerries,10,2010,Existing,All Buyer Types,572500.0
+K34,Skerries,10,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,10,2010,Existing,Household Buyer - Former Owner-Occupier,572500.0
+K34,Skerries,10,2010,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,11,2010,All Dwelling Statuses,All Buyer Types,398750.0
+K34,Skerries,11,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,277500.0
+K34,Skerries,11,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,520000.0
+K34,Skerries,11,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,11,2010,New,All Buyer Types,
+K34,Skerries,11,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,11,2010,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,11,2010,New,Household Buyer - Non-Occupier,
+K34,Skerries,11,2010,Existing,All Buyer Types,398750.0
+K34,Skerries,11,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,277500.0
+K34,Skerries,11,2010,Existing,Household Buyer - Former Owner-Occupier,520000.0
+K34,Skerries,11,2010,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,12,2010,All Dwelling Statuses,All Buyer Types,294113.0
+K34,Skerries,12,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+K34,Skerries,12,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,365725.0
+K34,Skerries,12,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,280000.0
+K34,Skerries,12,2010,New,All Buyer Types,250483.0
+K34,Skerries,12,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+K34,Skerries,12,2010,New,Household Buyer - Former Owner-Occupier,306450.0
+K34,Skerries,12,2010,New,Household Buyer - Non-Occupier,280000.0
+K34,Skerries,12,2010,Existing,All Buyer Types,425000.0
+K34,Skerries,12,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,12,2010,Existing,Household Buyer - Former Owner-Occupier,425000.0
+K34,Skerries,12,2010,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,1,2011,All Dwelling Statuses,All Buyer Types,229333.0
+K34,Skerries,1,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,229333.0
+K34,Skerries,1,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K34,Skerries,1,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,1,2011,New,All Buyer Types,265000.0
+K34,Skerries,1,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,265000.0
+K34,Skerries,1,2011,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,1,2011,New,Household Buyer - Non-Occupier,
+K34,Skerries,1,2011,Existing,All Buyer Types,211500.0
+K34,Skerries,1,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,211500.0
+K34,Skerries,1,2011,Existing,Household Buyer - Former Owner-Occupier,
+K34,Skerries,1,2011,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,2,2011,All Dwelling Statuses,All Buyer Types,303340.0
+K34,Skerries,2,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,291567.0
+K34,Skerries,2,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,321000.0
+K34,Skerries,2,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,2,2011,New,All Buyer Types,312000.0
+K34,Skerries,2,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,2,2011,New,Household Buyer - Former Owner-Occupier,312000.0
+K34,Skerries,2,2011,New,Household Buyer - Non-Occupier,
+K34,Skerries,2,2011,Existing,All Buyer Types,301175.0
+K34,Skerries,2,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,291567.0
+K34,Skerries,2,2011,Existing,Household Buyer - Former Owner-Occupier,330000.0
+K34,Skerries,2,2011,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,3,2011,All Dwelling Statuses,All Buyer Types,277500.0
+K34,Skerries,3,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,290000.0
+K34,Skerries,3,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K34,Skerries,3,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,265000.0
+K34,Skerries,3,2011,New,All Buyer Types,
+K34,Skerries,3,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,3,2011,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,3,2011,New,Household Buyer - Non-Occupier,
+K34,Skerries,3,2011,Existing,All Buyer Types,277500.0
+K34,Skerries,3,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,290000.0
+K34,Skerries,3,2011,Existing,Household Buyer - Former Owner-Occupier,
+K34,Skerries,3,2011,Existing,Household Buyer - Non-Occupier,265000.0
+K34,Skerries,4,2011,All Dwelling Statuses,All Buyer Types,356750.0
+K34,Skerries,4,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,232000.0
+K34,Skerries,4,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,457500.0
+K34,Skerries,4,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,280000.0
+K34,Skerries,4,2011,New,All Buyer Types,280000.0
+K34,Skerries,4,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,4,2011,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,4,2011,New,Household Buyer - Non-Occupier,280000.0
+K34,Skerries,4,2011,Existing,All Buyer Types,382333.0
+K34,Skerries,4,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,232000.0
+K34,Skerries,4,2011,Existing,Household Buyer - Former Owner-Occupier,457500.0
+K34,Skerries,4,2011,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,5,2011,All Dwelling Statuses,All Buyer Types,246667.0
+K34,Skerries,5,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,5,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,235000.0
+K34,Skerries,5,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,252500.0
+K34,Skerries,5,2011,New,All Buyer Types,265000.0
+K34,Skerries,5,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,5,2011,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,5,2011,New,Household Buyer - Non-Occupier,265000.0
+K34,Skerries,5,2011,Existing,All Buyer Types,237500.0
+K34,Skerries,5,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,5,2011,Existing,Household Buyer - Former Owner-Occupier,235000.0
+K34,Skerries,5,2011,Existing,Household Buyer - Non-Occupier,240000.0
+K34,Skerries,6,2011,All Dwelling Statuses,All Buyer Types,203500.0
+K34,Skerries,6,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,203500.0
+K34,Skerries,6,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K34,Skerries,6,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,6,2011,New,All Buyer Types,152000.0
+K34,Skerries,6,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,152000.0
+K34,Skerries,6,2011,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,6,2011,New,Household Buyer - Non-Occupier,
+K34,Skerries,6,2011,Existing,All Buyer Types,255000.0
+K34,Skerries,6,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,255000.0
+K34,Skerries,6,2011,Existing,Household Buyer - Former Owner-Occupier,
+K34,Skerries,6,2011,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,7,2011,All Dwelling Statuses,All Buyer Types,700000.0
+K34,Skerries,7,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,7,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,700000.0
+K34,Skerries,7,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,7,2011,New,All Buyer Types,
+K34,Skerries,7,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,7,2011,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,7,2011,New,Household Buyer - Non-Occupier,
+K34,Skerries,7,2011,Existing,All Buyer Types,700000.0
+K34,Skerries,7,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,7,2011,Existing,Household Buyer - Former Owner-Occupier,700000.0
+K34,Skerries,7,2011,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,8,2011,All Dwelling Statuses,All Buyer Types,296571.0
+K34,Skerries,8,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,237500.0
+K34,Skerries,8,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,354000.0
+K34,Skerries,8,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,185000.0
+K34,Skerries,8,2011,New,All Buyer Types,
+K34,Skerries,8,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,8,2011,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,8,2011,New,Household Buyer - Non-Occupier,
+K34,Skerries,8,2011,Existing,All Buyer Types,296571.0
+K34,Skerries,8,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,237500.0
+K34,Skerries,8,2011,Existing,Household Buyer - Former Owner-Occupier,354000.0
+K34,Skerries,8,2011,Existing,Household Buyer - Non-Occupier,185000.0
+K34,Skerries,9,2011,All Dwelling Statuses,All Buyer Types,275914.0
+K34,Skerries,9,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,287155.0
+K34,Skerries,9,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,272167.0
+K34,Skerries,9,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,9,2011,New,All Buyer Types,287155.0
+K34,Skerries,9,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,287155.0
+K34,Skerries,9,2011,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,9,2011,New,Household Buyer - Non-Occupier,
+K34,Skerries,9,2011,Existing,All Buyer Types,272167.0
+K34,Skerries,9,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,9,2011,Existing,Household Buyer - Former Owner-Occupier,272167.0
+K34,Skerries,9,2011,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,10,2011,All Dwelling Statuses,All Buyer Types,417333.0
+K34,Skerries,10,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,10,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,491000.0
+K34,Skerries,10,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,270000.0
+K34,Skerries,10,2011,New,All Buyer Types,270000.0
+K34,Skerries,10,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,10,2011,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,10,2011,New,Household Buyer - Non-Occupier,270000.0
+K34,Skerries,10,2011,Existing,All Buyer Types,491000.0
+K34,Skerries,10,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,10,2011,Existing,Household Buyer - Former Owner-Occupier,491000.0
+K34,Skerries,10,2011,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,11,2011,All Dwelling Statuses,All Buyer Types,331500.0
+K34,Skerries,11,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,333000.0
+K34,Skerries,11,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,331000.0
+K34,Skerries,11,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,11,2011,New,All Buyer Types,
+K34,Skerries,11,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,11,2011,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,11,2011,New,Household Buyer - Non-Occupier,
+K34,Skerries,11,2011,Existing,All Buyer Types,331500.0
+K34,Skerries,11,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,333000.0
+K34,Skerries,11,2011,Existing,Household Buyer - Former Owner-Occupier,331000.0
+K34,Skerries,11,2011,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,12,2011,All Dwelling Statuses,All Buyer Types,246167.0
+K34,Skerries,12,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,235500.0
+K34,Skerries,12,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,248000.0
+K34,Skerries,12,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,255000.0
+K34,Skerries,12,2011,New,All Buyer Types,261333.0
+K34,Skerries,12,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,261000.0
+K34,Skerries,12,2011,New,Household Buyer - Former Owner-Occupier,263000.0
+K34,Skerries,12,2011,New,Household Buyer - Non-Occupier,260000.0
+K34,Skerries,12,2011,Existing,All Buyer Types,231000.0
+K34,Skerries,12,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+K34,Skerries,12,2011,Existing,Household Buyer - Former Owner-Occupier,233000.0
+K34,Skerries,12,2011,Existing,Household Buyer - Non-Occupier,250000.0
+K34,Skerries,1,2012,All Dwelling Statuses,All Buyer Types,345000.0
+K34,Skerries,1,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,345000.0
+K34,Skerries,1,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,1,2012,New,All Buyer Types,
+K34,Skerries,1,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2012,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,1,2012,New,Household Buyer - Non-Occupier,
+K34,Skerries,1,2012,Existing,All Buyer Types,345000.0
+K34,Skerries,1,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2012,Existing,Household Buyer - Former Owner-Occupier,345000.0
+K34,Skerries,1,2012,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,2,2012,All Dwelling Statuses,All Buyer Types,397500.0
+K34,Skerries,2,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,2,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,436250.0
+K34,Skerries,2,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,320000.0
+K34,Skerries,2,2012,New,All Buyer Types,
+K34,Skerries,2,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,2,2012,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,2,2012,New,Household Buyer - Non-Occupier,
+K34,Skerries,2,2012,Existing,All Buyer Types,397500.0
+K34,Skerries,2,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,2,2012,Existing,Household Buyer - Former Owner-Occupier,436250.0
+K34,Skerries,2,2012,Existing,Household Buyer - Non-Occupier,320000.0
+K34,Skerries,3,2012,All Dwelling Statuses,All Buyer Types,293000.0
+K34,Skerries,3,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,3,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K34,Skerries,3,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,293000.0
+K34,Skerries,3,2012,New,All Buyer Types,
+K34,Skerries,3,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,3,2012,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,3,2012,New,Household Buyer - Non-Occupier,
+K34,Skerries,3,2012,Existing,All Buyer Types,293000.0
+K34,Skerries,3,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,3,2012,Existing,Household Buyer - Former Owner-Occupier,
+K34,Skerries,3,2012,Existing,Household Buyer - Non-Occupier,293000.0
+K34,Skerries,4,2012,All Dwelling Statuses,All Buyer Types,203500.0
+K34,Skerries,4,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,4,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,203500.0
+K34,Skerries,4,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,4,2012,New,All Buyer Types,
+K34,Skerries,4,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,4,2012,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,4,2012,New,Household Buyer - Non-Occupier,
+K34,Skerries,4,2012,Existing,All Buyer Types,203500.0
+K34,Skerries,4,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,4,2012,Existing,Household Buyer - Former Owner-Occupier,203500.0
+K34,Skerries,4,2012,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,5,2012,All Dwelling Statuses,All Buyer Types,281833.0
+K34,Skerries,5,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,249000.0
+K34,Skerries,5,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,298250.0
+K34,Skerries,5,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,5,2012,New,All Buyer Types,238000.0
+K34,Skerries,5,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,238000.0
+K34,Skerries,5,2012,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,5,2012,New,Household Buyer - Non-Occupier,
+K34,Skerries,5,2012,Existing,All Buyer Types,290600.0
+K34,Skerries,5,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,260000.0
+K34,Skerries,5,2012,Existing,Household Buyer - Former Owner-Occupier,298250.0
+K34,Skerries,5,2012,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,6,2012,All Dwelling Statuses,All Buyer Types,285019.0
+K34,Skerries,6,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+K34,Skerries,6,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,292565.0
+K34,Skerries,6,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,272400.0
+K34,Skerries,6,2012,New,All Buyer Types,223365.0
+K34,Skerries,6,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,6,2012,New,Household Buyer - Former Owner-Occupier,198848.0
+K34,Skerries,6,2012,New,Household Buyer - Non-Occupier,272400.0
+K34,Skerries,6,2012,Existing,All Buyer Types,377500.0
+K34,Skerries,6,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+K34,Skerries,6,2012,Existing,Household Buyer - Former Owner-Occupier,480000.0
+K34,Skerries,6,2012,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,7,2012,All Dwelling Statuses,All Buyer Types,243464.0
+K34,Skerries,7,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,238333.0
+K34,Skerries,7,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,246050.0
+K34,Skerries,7,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,233000.0
+K34,Skerries,7,2012,New,All Buyer Types,174333.0
+K34,Skerries,7,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,219999.0
+K34,Skerries,7,2012,New,Household Buyer - Former Owner-Occupier,151500.0
+K34,Skerries,7,2012,New,Household Buyer - Non-Occupier,
+K34,Skerries,7,2012,Existing,All Buyer Types,262318.0
+K34,Skerries,7,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,247500.0
+K34,Skerries,7,2012,Existing,Household Buyer - Former Owner-Occupier,269688.0
+K34,Skerries,7,2012,Existing,Household Buyer - Non-Occupier,233000.0
+K34,Skerries,8,2012,All Dwelling Statuses,All Buyer Types,257917.0
+K34,Skerries,8,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,270001.0
+K34,Skerries,8,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,255500.0
+K34,Skerries,8,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,8,2012,New,All Buyer Types,270001.0
+K34,Skerries,8,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,270001.0
+K34,Skerries,8,2012,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,8,2012,New,Household Buyer - Non-Occupier,
+K34,Skerries,8,2012,Existing,All Buyer Types,255500.0
+K34,Skerries,8,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,8,2012,Existing,Household Buyer - Former Owner-Occupier,255500.0
+K34,Skerries,8,2012,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,9,2012,All Dwelling Statuses,All Buyer Types,201241.0
+K34,Skerries,9,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,9,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,200985.0
+K34,Skerries,9,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,201667.0
+K34,Skerries,9,2012,New,All Buyer Types,177642.0
+K34,Skerries,9,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,9,2012,New,Household Buyer - Former Owner-Occupier,177642.0
+K34,Skerries,9,2012,New,Household Buyer - Non-Occupier,
+K34,Skerries,9,2012,Existing,All Buyer Types,215400.0
+K34,Skerries,9,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,9,2012,Existing,Household Buyer - Former Owner-Occupier,236000.0
+K34,Skerries,9,2012,Existing,Household Buyer - Non-Occupier,201667.0
+K34,Skerries,10,2012,All Dwelling Statuses,All Buyer Types,238592.0
+K34,Skerries,10,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,224333.0
+K34,Skerries,10,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,242870.0
+K34,Skerries,10,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,10,2012,New,All Buyer Types,
+K34,Skerries,10,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,10,2012,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,10,2012,New,Household Buyer - Non-Occupier,
+K34,Skerries,10,2012,Existing,All Buyer Types,238592.0
+K34,Skerries,10,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,224333.0
+K34,Skerries,10,2012,Existing,Household Buyer - Former Owner-Occupier,242870.0
+K34,Skerries,10,2012,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,11,2012,All Dwelling Statuses,All Buyer Types,347714.0
+K34,Skerries,11,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+K34,Skerries,11,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,402000.0
+K34,Skerries,11,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,290500.0
+K34,Skerries,11,2012,New,All Buyer Types,240000.0
+K34,Skerries,11,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,11,2012,New,Household Buyer - Former Owner-Occupier,240000.0
+K34,Skerries,11,2012,New,Household Buyer - Non-Occupier,
+K34,Skerries,11,2012,Existing,All Buyer Types,365667.0
+K34,Skerries,11,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+K34,Skerries,11,2012,Existing,Household Buyer - Former Owner-Occupier,456000.0
+K34,Skerries,11,2012,Existing,Household Buyer - Non-Occupier,290500.0
+K34,Skerries,12,2012,All Dwelling Statuses,All Buyer Types,283912.0
+K34,Skerries,12,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,228361.0
+K34,Skerries,12,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,381125.0
+K34,Skerries,12,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,12,2012,New,All Buyer Types,212264.0
+K34,Skerries,12,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,212264.0
+K34,Skerries,12,2012,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,12,2012,New,Household Buyer - Non-Occupier,
+K34,Skerries,12,2012,Existing,All Buyer Types,299833.0
+K34,Skerries,12,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,234800.0
+K34,Skerries,12,2012,Existing,Household Buyer - Former Owner-Occupier,381125.0
+K34,Skerries,12,2012,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,1,2013,All Dwelling Statuses,All Buyer Types,231000.0
+K34,Skerries,1,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,252000.0
+K34,Skerries,1,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,210000.0
+K34,Skerries,1,2013,New,All Buyer Types,
+K34,Skerries,1,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2013,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,1,2013,New,Household Buyer - Non-Occupier,
+K34,Skerries,1,2013,Existing,All Buyer Types,231000.0
+K34,Skerries,1,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2013,Existing,Household Buyer - Former Owner-Occupier,252000.0
+K34,Skerries,1,2013,Existing,Household Buyer - Non-Occupier,210000.0
+K34,Skerries,2,2013,All Dwelling Statuses,All Buyer Types,309800.0
+K34,Skerries,2,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+K34,Skerries,2,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,347250.0
+K34,Skerries,2,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,2,2013,New,All Buyer Types,363000.0
+K34,Skerries,2,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,2,2013,New,Household Buyer - Former Owner-Occupier,363000.0
+K34,Skerries,2,2013,New,Household Buyer - Non-Occupier,
+K34,Skerries,2,2013,Existing,All Buyer Types,296500.0
+K34,Skerries,2,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+K34,Skerries,2,2013,Existing,Household Buyer - Former Owner-Occupier,342000.0
+K34,Skerries,2,2013,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,3,2013,All Dwelling Statuses,All Buyer Types,266086.0
+K34,Skerries,3,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,214533.0
+K34,Skerries,3,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,348000.0
+K34,Skerries,3,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,175000.0
+K34,Skerries,3,2013,New,All Buyer Types,215650.0
+K34,Skerries,3,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,215650.0
+K34,Skerries,3,2013,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,3,2013,New,Household Buyer - Non-Occupier,
+K34,Skerries,3,2013,Existing,All Buyer Types,274492.0
+K34,Skerries,3,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,213975.0
+K34,Skerries,3,2013,Existing,Household Buyer - Former Owner-Occupier,348000.0
+K34,Skerries,3,2013,Existing,Household Buyer - Non-Occupier,175000.0
+K34,Skerries,4,2013,All Dwelling Statuses,All Buyer Types,341967.0
+K34,Skerries,4,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,256800.0
+K34,Skerries,4,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,359000.0
+K34,Skerries,4,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,4,2013,New,All Buyer Types,
+K34,Skerries,4,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,4,2013,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,4,2013,New,Household Buyer - Non-Occupier,
+K34,Skerries,4,2013,Existing,All Buyer Types,341967.0
+K34,Skerries,4,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,256800.0
+K34,Skerries,4,2013,Existing,Household Buyer - Former Owner-Occupier,359000.0
+K34,Skerries,4,2013,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,5,2013,All Dwelling Statuses,All Buyer Types,252067.0
+K34,Skerries,5,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,5,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,252067.0
+K34,Skerries,5,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,5,2013,New,All Buyer Types,
+K34,Skerries,5,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,5,2013,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,5,2013,New,Household Buyer - Non-Occupier,
+K34,Skerries,5,2013,Existing,All Buyer Types,252067.0
+K34,Skerries,5,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,5,2013,Existing,Household Buyer - Former Owner-Occupier,252067.0
+K34,Skerries,5,2013,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,6,2013,All Dwelling Statuses,All Buyer Types,304000.0
+K34,Skerries,6,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,359999.0
+K34,Skerries,6,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,290000.0
+K34,Skerries,6,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,6,2013,New,All Buyer Types,359999.0
+K34,Skerries,6,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,359999.0
+K34,Skerries,6,2013,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,6,2013,New,Household Buyer - Non-Occupier,
+K34,Skerries,6,2013,Existing,All Buyer Types,290000.0
+K34,Skerries,6,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,6,2013,Existing,Household Buyer - Former Owner-Occupier,290000.0
+K34,Skerries,6,2013,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,7,2013,All Dwelling Statuses,All Buyer Types,248491.0
+K34,Skerries,7,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,189000.0
+K34,Skerries,7,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,261625.0
+K34,Skerries,7,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,206000.0
+K34,Skerries,7,2013,New,All Buyer Types,141875.0
+K34,Skerries,7,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,7,2013,New,Household Buyer - Former Owner-Occupier,141875.0
+K34,Skerries,7,2013,New,Household Buyer - Non-Occupier,
+K34,Skerries,7,2013,Existing,All Buyer Types,256692.0
+K34,Skerries,7,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,189000.0
+K34,Skerries,7,2013,Existing,Household Buyer - Former Owner-Occupier,273600.0
+K34,Skerries,7,2013,Existing,Household Buyer - Non-Occupier,206000.0
+K34,Skerries,8,2013,All Dwelling Statuses,All Buyer Types,292879.0
+K34,Skerries,8,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,178000.0
+K34,Skerries,8,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,378111.0
+K34,Skerries,8,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,139094.0
+K34,Skerries,8,2013,New,All Buyer Types,246344.0
+K34,Skerries,8,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,8,2013,New,Household Buyer - Former Owner-Occupier,365000.0
+K34,Skerries,8,2013,New,Household Buyer - Non-Occupier,127688.0
+K34,Skerries,8,2013,Existing,All Buyer Types,300038.0
+K34,Skerries,8,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,178000.0
+K34,Skerries,8,2013,Existing,Household Buyer - Former Owner-Occupier,379750.0
+K34,Skerries,8,2013,Existing,Household Buyer - Non-Occupier,150500.0
+K34,Skerries,9,2013,All Dwelling Statuses,All Buyer Types,278701.0
+K34,Skerries,9,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,420000.0
+K34,Skerries,9,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,247333.0
+K34,Skerries,9,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,325611.0
+K34,Skerries,9,2013,New,All Buyer Types,
+K34,Skerries,9,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,9,2013,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,9,2013,New,Household Buyer - Non-Occupier,
+K34,Skerries,9,2013,Existing,All Buyer Types,278701.0
+K34,Skerries,9,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,420000.0
+K34,Skerries,9,2013,Existing,Household Buyer - Former Owner-Occupier,247333.0
+K34,Skerries,9,2013,Existing,Household Buyer - Non-Occupier,325611.0
+K34,Skerries,10,2013,All Dwelling Statuses,All Buyer Types,399937.0
+K34,Skerries,10,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,361674.0
+K34,Skerries,10,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,419069.0
+K34,Skerries,10,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,10,2013,New,All Buyer Types,386312.0
+K34,Skerries,10,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,358348.0
+K34,Skerries,10,2013,New,Household Buyer - Former Owner-Occupier,414275.0
+K34,Skerries,10,2013,New,Household Buyer - Non-Occupier,
+K34,Skerries,10,2013,Existing,All Buyer Types,406750.0
+K34,Skerries,10,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,365000.0
+K34,Skerries,10,2013,Existing,Household Buyer - Former Owner-Occupier,420667.0
+K34,Skerries,10,2013,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,11,2013,All Dwelling Statuses,All Buyer Types,356928.0
+K34,Skerries,11,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,360138.0
+K34,Skerries,11,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,356125.0
+K34,Skerries,11,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,11,2013,New,All Buyer Types,414275.0
+K34,Skerries,11,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,414275.0
+K34,Skerries,11,2013,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,11,2013,New,Household Buyer - Non-Occupier,
+K34,Skerries,11,2013,Existing,All Buyer Types,350556.0
+K34,Skerries,11,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,306000.0
+K34,Skerries,11,2013,Existing,Household Buyer - Former Owner-Occupier,356125.0
+K34,Skerries,11,2013,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,12,2013,All Dwelling Statuses,All Buyer Types,277106.0
+K34,Skerries,12,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,258750.0
+K34,Skerries,12,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,294882.0
+K34,Skerries,12,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,155000.0
+K34,Skerries,12,2013,New,All Buyer Types,
+K34,Skerries,12,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,12,2013,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,12,2013,New,Household Buyer - Non-Occupier,
+K34,Skerries,12,2013,Existing,All Buyer Types,277106.0
+K34,Skerries,12,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,258750.0
+K34,Skerries,12,2013,Existing,Household Buyer - Former Owner-Occupier,294882.0
+K34,Skerries,12,2013,Existing,Household Buyer - Non-Occupier,155000.0
+K34,Skerries,1,2014,All Dwelling Statuses,All Buyer Types,279916.0
+K34,Skerries,1,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,281699.0
+K34,Skerries,1,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,271000.0
+K34,Skerries,1,2014,New,All Buyer Types,350494.0
+K34,Skerries,1,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2014,New,Household Buyer - Former Owner-Occupier,350494.0
+K34,Skerries,1,2014,New,Household Buyer - Non-Occupier,
+K34,Skerries,1,2014,Existing,All Buyer Types,265800.0
+K34,Skerries,1,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2014,Existing,Household Buyer - Former Owner-Occupier,264500.0
+K34,Skerries,1,2014,Existing,Household Buyer - Non-Occupier,271000.0
+K34,Skerries,2,2014,All Dwelling Statuses,All Buyer Types,286938.0
+K34,Skerries,2,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,241000.0
+K34,Skerries,2,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,293500.0
+K34,Skerries,2,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,2,2014,New,All Buyer Types,370000.0
+K34,Skerries,2,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,2,2014,New,Household Buyer - Former Owner-Occupier,370000.0
+K34,Skerries,2,2014,New,Household Buyer - Non-Occupier,
+K34,Skerries,2,2014,Existing,All Buyer Types,275071.0
+K34,Skerries,2,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,241000.0
+K34,Skerries,2,2014,Existing,Household Buyer - Former Owner-Occupier,280750.0
+K34,Skerries,2,2014,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,3,2014,All Dwelling Statuses,All Buyer Types,317571.0
+K34,Skerries,3,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,282500.0
+K34,Skerries,3,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,323417.0
+K34,Skerries,3,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,3,2014,New,All Buyer Types,385000.0
+K34,Skerries,3,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,3,2014,New,Household Buyer - Former Owner-Occupier,385000.0
+K34,Skerries,3,2014,New,Household Buyer - Non-Occupier,
+K34,Skerries,3,2014,Existing,All Buyer Types,312385.0
+K34,Skerries,3,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,282500.0
+K34,Skerries,3,2014,Existing,Household Buyer - Former Owner-Occupier,317818.0
+K34,Skerries,3,2014,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,4,2014,All Dwelling Statuses,All Buyer Types,356667.0
+K34,Skerries,4,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,186000.0
+K34,Skerries,4,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,405429.0
+K34,Skerries,4,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,4,2014,New,All Buyer Types,385000.0
+K34,Skerries,4,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,4,2014,New,Household Buyer - Former Owner-Occupier,385000.0
+K34,Skerries,4,2014,New,Household Buyer - Non-Occupier,
+K34,Skerries,4,2014,Existing,All Buyer Types,353125.0
+K34,Skerries,4,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,186000.0
+K34,Skerries,4,2014,Existing,Household Buyer - Former Owner-Occupier,408833.0
+K34,Skerries,4,2014,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,5,2014,All Dwelling Statuses,All Buyer Types,296583.0
+K34,Skerries,5,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,400000.0
+K34,Skerries,5,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,317444.0
+K34,Skerries,5,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,151000.0
+K34,Skerries,5,2014,New,All Buyer Types,385000.0
+K34,Skerries,5,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,5,2014,New,Household Buyer - Former Owner-Occupier,385000.0
+K34,Skerries,5,2014,New,Household Buyer - Non-Occupier,
+K34,Skerries,5,2014,Existing,All Buyer Types,288545.0
+K34,Skerries,5,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,400000.0
+K34,Skerries,5,2014,Existing,Household Buyer - Former Owner-Occupier,309000.0
+K34,Skerries,5,2014,Existing,Household Buyer - Non-Occupier,151000.0
+K34,Skerries,6,2014,All Dwelling Statuses,All Buyer Types,267667.0
+K34,Skerries,6,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,347500.0
+K34,Skerries,6,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,239000.0
+K34,Skerries,6,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,252667.0
+K34,Skerries,6,2014,New,All Buyer Types,390000.0
+K34,Skerries,6,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,6,2014,New,Household Buyer - Former Owner-Occupier,385000.0
+K34,Skerries,6,2014,New,Household Buyer - Non-Occupier,395000.0
+K34,Skerries,6,2014,Existing,All Buyer Types,232714.0
+K34,Skerries,6,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,347500.0
+K34,Skerries,6,2014,Existing,Household Buyer - Former Owner-Occupier,190333.0
+K34,Skerries,6,2014,Existing,Household Buyer - Non-Occupier,181500.0
+K34,Skerries,7,2014,All Dwelling Statuses,All Buyer Types,264008.0
+K34,Skerries,7,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,236250.0
+K34,Skerries,7,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,277887.0
+K34,Skerries,7,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,7,2014,New,All Buyer Types,273275.0
+K34,Skerries,7,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+K34,Skerries,7,2014,New,Household Buyer - Former Owner-Occupier,271549.0
+K34,Skerries,7,2014,New,Household Buyer - Non-Occupier,
+K34,Skerries,7,2014,Existing,All Buyer Types,259375.0
+K34,Skerries,7,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,197500.0
+K34,Skerries,7,2014,Existing,Household Buyer - Former Owner-Occupier,280000.0
+K34,Skerries,7,2014,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,8,2014,All Dwelling Statuses,All Buyer Types,309141.0
+K34,Skerries,8,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,316666.0
+K34,Skerries,8,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,335933.0
+K34,Skerries,8,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,256400.0
+K34,Skerries,8,2014,New,All Buyer Types,203464.0
+K34,Skerries,8,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,274999.0
+K34,Skerries,8,2014,New,Household Buyer - Former Owner-Occupier,167697.0
+K34,Skerries,8,2014,New,Household Buyer - Non-Occupier,
+K34,Skerries,8,2014,Existing,All Buyer Types,331786.0
+K34,Skerries,8,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,337500.0
+K34,Skerries,8,2014,Existing,Household Buyer - Former Owner-Occupier,384000.0
+K34,Skerries,8,2014,Existing,Household Buyer - Non-Occupier,256400.0
+K34,Skerries,9,2014,All Dwelling Statuses,All Buyer Types,324504.0
+K34,Skerries,9,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,388500.0
+K34,Skerries,9,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,312694.0
+K34,Skerries,9,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,275750.0
+K34,Skerries,9,2014,New,All Buyer Types,281775.0
+K34,Skerries,9,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,9,2014,New,Household Buyer - Former Owner-Occupier,281775.0
+K34,Skerries,9,2014,New,Household Buyer - Non-Occupier,
+K34,Skerries,9,2014,Existing,All Buyer Types,332273.0
+K34,Skerries,9,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,388500.0
+K34,Skerries,9,2014,Existing,Household Buyer - Former Owner-Occupier,323000.0
+K34,Skerries,9,2014,Existing,Household Buyer - Non-Occupier,275750.0
+K34,Skerries,10,2014,All Dwelling Statuses,All Buyer Types,343029.0
+K34,Skerries,10,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,252300.0
+K34,Skerries,10,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,464000.0
+K34,Skerries,10,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,10,2014,New,All Buyer Types,231500.0
+K34,Skerries,10,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,231500.0
+K34,Skerries,10,2014,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,10,2014,New,Household Buyer - Non-Occupier,
+K34,Skerries,10,2014,Existing,All Buyer Types,426675.0
+K34,Skerries,10,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,314700.0
+K34,Skerries,10,2014,Existing,Household Buyer - Former Owner-Occupier,464000.0
+K34,Skerries,10,2014,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,11,2014,All Dwelling Statuses,All Buyer Types,328214.0
+K34,Skerries,11,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,373333.0
+K34,Skerries,11,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,294375.0
+K34,Skerries,11,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,11,2014,New,All Buyer Types,267250.0
+K34,Skerries,11,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,11,2014,New,Household Buyer - Former Owner-Occupier,267250.0
+K34,Skerries,11,2014,New,Household Buyer - Non-Occupier,
+K34,Skerries,11,2014,Existing,All Buyer Types,352600.0
+K34,Skerries,11,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,373333.0
+K34,Skerries,11,2014,Existing,Household Buyer - Former Owner-Occupier,321500.0
+K34,Skerries,11,2014,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,12,2014,All Dwelling Statuses,All Buyer Types,414659.0
+K34,Skerries,12,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+K34,Skerries,12,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,478031.0
+K34,Skerries,12,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,288500.0
+K34,Skerries,12,2014,New,All Buyer Types,269500.0
+K34,Skerries,12,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,12,2014,New,Household Buyer - Former Owner-Occupier,269500.0
+K34,Skerries,12,2014,New,Household Buyer - Non-Occupier,
+K34,Skerries,12,2014,Existing,All Buyer Types,469094.0
+K34,Skerries,12,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+K34,Skerries,12,2014,Existing,Household Buyer - Former Owner-Occupier,603150.0
+K34,Skerries,12,2014,Existing,Household Buyer - Non-Occupier,288500.0
+K34,Skerries,1,2015,All Dwelling Statuses,All Buyer Types,355383.0
+K34,Skerries,1,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,323413.0
+K34,Skerries,1,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,363375.0
+K34,Skerries,1,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,1,2015,New,All Buyer Types,302163.0
+K34,Skerries,1,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,334825.0
+K34,Skerries,1,2015,New,Household Buyer - Former Owner-Occupier,269500.0
+K34,Skerries,1,2015,New,Household Buyer - Non-Occupier,
+K34,Skerries,1,2015,Existing,All Buyer Types,368688.0
+K34,Skerries,1,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,312000.0
+K34,Skerries,1,2015,Existing,Household Buyer - Former Owner-Occupier,376786.0
+K34,Skerries,1,2015,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,2,2015,All Dwelling Statuses,All Buyer Types,395833.0
+K34,Skerries,2,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,2,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,391786.0
+K34,Skerries,2,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,410000.0
+K34,Skerries,2,2015,New,All Buyer Types,295000.0
+K34,Skerries,2,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,2,2015,New,Household Buyer - Former Owner-Occupier,295000.0
+K34,Skerries,2,2015,New,Household Buyer - Non-Occupier,
+K34,Skerries,2,2015,Existing,All Buyer Types,408438.0
+K34,Skerries,2,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,2,2015,Existing,Household Buyer - Former Owner-Occupier,407917.0
+K34,Skerries,2,2015,Existing,Household Buyer - Non-Occupier,410000.0
+K34,Skerries,3,2015,All Dwelling Statuses,All Buyer Types,364400.0
+K34,Skerries,3,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,330000.0
+K34,Skerries,3,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,401500.0
+K34,Skerries,3,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,287500.0
+K34,Skerries,3,2015,New,All Buyer Types,287500.0
+K34,Skerries,3,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,3,2015,New,Household Buyer - Former Owner-Occupier,287500.0
+K34,Skerries,3,2015,New,Household Buyer - Non-Occupier,287500.0
+K34,Skerries,3,2015,Existing,All Buyer Types,415667.0
+K34,Skerries,3,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,330000.0
+K34,Skerries,3,2015,Existing,Household Buyer - Former Owner-Occupier,458500.0
+K34,Skerries,3,2015,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,4,2015,All Dwelling Statuses,All Buyer Types,305714.0
+K34,Skerries,4,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,4,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,305714.0
+K34,Skerries,4,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,4,2015,New,All Buyer Types,295000.0
+K34,Skerries,4,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,4,2015,New,Household Buyer - Former Owner-Occupier,295000.0
+K34,Skerries,4,2015,New,Household Buyer - Non-Occupier,
+K34,Skerries,4,2015,Existing,All Buyer Types,307500.0
+K34,Skerries,4,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,4,2015,Existing,Household Buyer - Former Owner-Occupier,307500.0
+K34,Skerries,4,2015,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,5,2015,All Dwelling Statuses,All Buyer Types,293909.0
+K34,Skerries,5,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,248500.0
+K34,Skerries,5,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,361500.0
+K34,Skerries,5,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,183000.0
+K34,Skerries,5,2015,New,All Buyer Types,335000.0
+K34,Skerries,5,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,335000.0
+K34,Skerries,5,2015,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,5,2015,New,Household Buyer - Non-Occupier,
+K34,Skerries,5,2015,Existing,All Buyer Types,289800.0
+K34,Skerries,5,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,226875.0
+K34,Skerries,5,2015,Existing,Household Buyer - Former Owner-Occupier,361500.0
+K34,Skerries,5,2015,Existing,Household Buyer - Non-Occupier,183000.0
+K34,Skerries,6,2015,All Dwelling Statuses,All Buyer Types,346550.0
+K34,Skerries,6,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,287000.0
+K34,Skerries,6,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,386250.0
+K34,Skerries,6,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,6,2015,New,All Buyer Types,325000.0
+K34,Skerries,6,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,328333.0
+K34,Skerries,6,2015,New,Household Buyer - Former Owner-Occupier,315000.0
+K34,Skerries,6,2015,New,Household Buyer - Non-Occupier,
+K34,Skerries,6,2015,Existing,All Buyer Types,360917.0
+K34,Skerries,6,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,163000.0
+K34,Skerries,6,2015,Existing,Household Buyer - Former Owner-Occupier,400500.0
+K34,Skerries,6,2015,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,7,2015,All Dwelling Statuses,All Buyer Types,358468.0
+K34,Skerries,7,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,358000.0
+K34,Skerries,7,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,328370.0
+K34,Skerries,7,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,510363.0
+K34,Skerries,7,2015,New,All Buyer Types,361393.0
+K34,Skerries,7,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,318333.0
+K34,Skerries,7,2015,New,Household Buyer - Former Owner-Occupier,327640.0
+K34,Skerries,7,2015,New,Household Buyer - Non-Occupier,510363.0
+K34,Skerries,7,2015,Existing,All Buyer Types,354813.0
+K34,Skerries,7,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,397667.0
+K34,Skerries,7,2015,Existing,Household Buyer - Former Owner-Occupier,329100.0
+K34,Skerries,7,2015,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,8,2015,All Dwelling Statuses,All Buyer Types,300526.0
+K34,Skerries,8,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,345000.0
+K34,Skerries,8,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,278289.0
+K34,Skerries,8,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,8,2015,New,All Buyer Types,319077.0
+K34,Skerries,8,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,8,2015,New,Household Buyer - Former Owner-Occupier,319077.0
+K34,Skerries,8,2015,New,Household Buyer - Non-Occupier,
+K34,Skerries,8,2015,Existing,All Buyer Types,291250.0
+K34,Skerries,8,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,345000.0
+K34,Skerries,8,2015,Existing,Household Buyer - Former Owner-Occupier,237500.0
+K34,Skerries,8,2015,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,9,2015,All Dwelling Statuses,All Buyer Types,294500.0
+K34,Skerries,9,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,327500.0
+K34,Skerries,9,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,272500.0
+K34,Skerries,9,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,9,2015,New,All Buyer Types,326667.0
+K34,Skerries,9,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,327500.0
+K34,Skerries,9,2015,New,Household Buyer - Former Owner-Occupier,325000.0
+K34,Skerries,9,2015,New,Household Buyer - Non-Occupier,
+K34,Skerries,9,2015,Existing,All Buyer Types,246250.0
+K34,Skerries,9,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,9,2015,Existing,Household Buyer - Former Owner-Occupier,246250.0
+K34,Skerries,9,2015,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,10,2015,All Dwelling Statuses,All Buyer Types,259336.0
+K34,Skerries,10,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,310000.0
+K34,Skerries,10,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,239070.0
+K34,Skerries,10,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,10,2015,New,All Buyer Types,307175.0
+K34,Skerries,10,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,10,2015,New,Household Buyer - Former Owner-Occupier,307175.0
+K34,Skerries,10,2015,New,Household Buyer - Non-Occupier,
+K34,Skerries,10,2015,Existing,All Buyer Types,240200.0
+K34,Skerries,10,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,310000.0
+K34,Skerries,10,2015,Existing,Household Buyer - Former Owner-Occupier,193667.0
+K34,Skerries,10,2015,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,11,2015,All Dwelling Statuses,All Buyer Types,426754.0
+K34,Skerries,11,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,310000.0
+K34,Skerries,11,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,523299.0
+K34,Skerries,11,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,311125.0
+K34,Skerries,11,2015,New,All Buyer Types,321598.0
+K34,Skerries,11,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,11,2015,New,Household Buyer - Former Owner-Occupier,359795.0
+K34,Skerries,11,2015,New,Household Buyer - Non-Occupier,302500.0
+K34,Skerries,11,2015,Existing,All Buyer Types,466188.0
+K34,Skerries,11,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,310000.0
+K34,Skerries,11,2015,Existing,Household Buyer - Former Owner-Occupier,556000.0
+K34,Skerries,11,2015,Existing,Household Buyer - Non-Occupier,319750.0
+K34,Skerries,12,2015,All Dwelling Statuses,All Buyer Types,329294.0
+K34,Skerries,12,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,361000.0
+K34,Skerries,12,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,343750.0
+K34,Skerries,12,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,195000.0
+K34,Skerries,12,2015,New,All Buyer Types,362143.0
+K34,Skerries,12,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,12,2015,New,Household Buyer - Former Owner-Occupier,362143.0
+K34,Skerries,12,2015,New,Household Buyer - Non-Occupier,
+K34,Skerries,12,2015,Existing,All Buyer Types,306300.0
+K34,Skerries,12,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,361000.0
+K34,Skerries,12,2015,Existing,Household Buyer - Former Owner-Occupier,318000.0
+K34,Skerries,12,2015,Existing,Household Buyer - Non-Occupier,195000.0
+K34,Skerries,1,2016,All Dwelling Statuses,All Buyer Types,337250.0
+K34,Skerries,1,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,340000.0
+K34,Skerries,1,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,344000.0
+K34,Skerries,1,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,310000.0
+K34,Skerries,1,2016,New,All Buyer Types,355000.0
+K34,Skerries,1,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,368333.0
+K34,Skerries,1,2016,New,Household Buyer - Former Owner-Occupier,315000.0
+K34,Skerries,1,2016,New,Household Buyer - Non-Occupier,
+K34,Skerries,1,2016,Existing,All Buyer Types,319500.0
+K34,Skerries,1,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,297500.0
+K34,Skerries,1,2016,Existing,Household Buyer - Former Owner-Occupier,373000.0
+K34,Skerries,1,2016,Existing,Household Buyer - Non-Occupier,310000.0
+K34,Skerries,2,2016,All Dwelling Statuses,All Buyer Types,391292.0
+K34,Skerries,2,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,389708.0
+K34,Skerries,2,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,436500.0
+K34,Skerries,2,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,170000.0
+K34,Skerries,2,2016,New,All Buyer Types,389708.0
+K34,Skerries,2,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,389708.0
+K34,Skerries,2,2016,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,2,2016,New,Household Buyer - Non-Occupier,
+K34,Skerries,2,2016,Existing,All Buyer Types,392083.0
+K34,Skerries,2,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,2,2016,Existing,Household Buyer - Former Owner-Occupier,436500.0
+K34,Skerries,2,2016,Existing,Household Buyer - Non-Occupier,170000.0
+K34,Skerries,3,2016,All Dwelling Statuses,All Buyer Types,416833.0
+K34,Skerries,3,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,423500.0
+K34,Skerries,3,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,393000.0
+K34,Skerries,3,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,475000.0
+K34,Skerries,3,2016,New,All Buyer Types,475000.0
+K34,Skerries,3,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,3,2016,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,3,2016,New,Household Buyer - Non-Occupier,475000.0
+K34,Skerries,3,2016,Existing,All Buyer Types,405200.0
+K34,Skerries,3,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,423500.0
+K34,Skerries,3,2016,Existing,Household Buyer - Former Owner-Occupier,393000.0
+K34,Skerries,3,2016,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,4,2016,All Dwelling Statuses,All Buyer Types,316614.0
+K34,Skerries,4,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,374797.0
+K34,Skerries,4,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,365700.0
+K34,Skerries,4,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,137833.0
+K34,Skerries,4,2016,New,All Buyer Types,324662.0
+K34,Skerries,4,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,324493.0
+K34,Skerries,4,2016,New,Household Buyer - Former Owner-Occupier,324999.0
+K34,Skerries,4,2016,New,Household Buyer - Non-Occupier,
+K34,Skerries,4,2016,Existing,All Buyer Types,314200.0
+K34,Skerries,4,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,408333.0
+K34,Skerries,4,2016,Existing,Household Buyer - Former Owner-Occupier,375875.0
+K34,Skerries,4,2016,Existing,Household Buyer - Non-Occupier,137833.0
+K34,Skerries,5,2016,All Dwelling Statuses,All Buyer Types,304911.0
+K34,Skerries,5,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,291278.0
+K34,Skerries,5,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,314000.0
+K34,Skerries,5,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,5,2016,New,All Buyer Types,330019.0
+K34,Skerries,5,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,310056.0
+K34,Skerries,5,2016,New,Household Buyer - Former Owner-Occupier,340000.0
+K34,Skerries,5,2016,New,Household Buyer - Non-Occupier,
+K34,Skerries,5,2016,Existing,All Buyer Types,267250.0
+K34,Skerries,5,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,272500.0
+K34,Skerries,5,2016,Existing,Household Buyer - Former Owner-Occupier,262000.0
+K34,Skerries,5,2016,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,6,2016,All Dwelling Statuses,All Buyer Types,283708.0
+K34,Skerries,6,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,295667.0
+K34,Skerries,6,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,301428.0
+K34,Skerries,6,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,203750.0
+K34,Skerries,6,2016,New,All Buyer Types,303889.0
+K34,Skerries,6,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,312500.0
+K34,Skerries,6,2016,New,Household Buyer - Former Owner-Occupier,301428.0
+K34,Skerries,6,2016,New,Household Buyer - Non-Occupier,
+K34,Skerries,6,2016,Existing,All Buyer Types,223167.0
+K34,Skerries,6,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,262000.0
+K34,Skerries,6,2016,Existing,Household Buyer - Former Owner-Occupier,
+K34,Skerries,6,2016,Existing,Household Buyer - Non-Occupier,203750.0
+K34,Skerries,7,2016,All Dwelling Statuses,All Buyer Types,371914.0
+K34,Skerries,7,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,341000.0
+K34,Skerries,7,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,375778.0
+K34,Skerries,7,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,7,2016,New,All Buyer Types,352995.0
+K34,Skerries,7,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,370000.0
+K34,Skerries,7,2016,New,Household Buyer - Former Owner-Occupier,351106.0
+K34,Skerries,7,2016,New,Household Buyer - Non-Occupier,
+K34,Skerries,7,2016,Existing,All Buyer Types,395563.0
+K34,Skerries,7,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,312000.0
+K34,Skerries,7,2016,Existing,Household Buyer - Former Owner-Occupier,407500.0
+K34,Skerries,7,2016,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,8,2016,All Dwelling Statuses,All Buyer Types,347458.0
+K34,Skerries,8,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,8,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,362450.0
+K34,Skerries,8,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,272500.0
+K34,Skerries,8,2016,New,All Buyer Types,373333.0
+K34,Skerries,8,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,8,2016,New,Household Buyer - Former Owner-Occupier,373333.0
+K34,Skerries,8,2016,New,Household Buyer - Non-Occupier,
+K34,Skerries,8,2016,Existing,All Buyer Types,338833.0
+K34,Skerries,8,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,8,2016,Existing,Household Buyer - Former Owner-Occupier,357786.0
+K34,Skerries,8,2016,Existing,Household Buyer - Non-Occupier,272500.0
+K34,Skerries,9,2016,All Dwelling Statuses,All Buyer Types,359028.0
+K34,Skerries,9,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,365000.0
+K34,Skerries,9,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,367115.0
+K34,Skerries,9,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,230000.0
+K34,Skerries,9,2016,New,All Buyer Types,375714.0
+K34,Skerries,9,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,361667.0
+K34,Skerries,9,2016,New,Household Buyer - Former Owner-Occupier,386250.0
+K34,Skerries,9,2016,New,Household Buyer - Non-Occupier,
+K34,Skerries,9,2016,Existing,All Buyer Types,348409.0
+K34,Skerries,9,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,375000.0
+K34,Skerries,9,2016,Existing,Household Buyer - Former Owner-Occupier,358611.0
+K34,Skerries,9,2016,Existing,Household Buyer - Non-Occupier,230000.0
+K34,Skerries,10,2016,All Dwelling Statuses,All Buyer Types,368950.0
+K34,Skerries,10,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,382151.0
+K34,Skerries,10,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,344500.0
+K34,Skerries,10,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,422500.0
+K34,Skerries,10,2016,New,All Buyer Types,363863.0
+K34,Skerries,10,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,415227.0
+K34,Skerries,10,2016,New,Household Buyer - Former Owner-Occupier,312500.0
+K34,Skerries,10,2016,New,Household Buyer - Non-Occupier,
+K34,Skerries,10,2016,Existing,All Buyer Types,371857.0
+K34,Skerries,10,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,316000.0
+K34,Skerries,10,2016,Existing,Household Buyer - Former Owner-Occupier,360500.0
+K34,Skerries,10,2016,Existing,Household Buyer - Non-Occupier,422500.0
+K34,Skerries,11,2016,All Dwelling Statuses,All Buyer Types,343402.0
+K34,Skerries,11,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,346663.0
+K34,Skerries,11,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,342512.0
+K34,Skerries,11,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,11,2016,New,All Buyer Types,345498.0
+K34,Skerries,11,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,322495.0
+K34,Skerries,11,2016,New,Household Buyer - Former Owner-Occupier,357000.0
+K34,Skerries,11,2016,New,Household Buyer - Non-Occupier,
+K34,Skerries,11,2016,Existing,All Buyer Types,341829.0
+K34,Skerries,11,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,395000.0
+K34,Skerries,11,2016,Existing,Household Buyer - Former Owner-Occupier,334233.0
+K34,Skerries,11,2016,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,12,2016,All Dwelling Statuses,All Buyer Types,347050.0
+K34,Skerries,12,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,392417.0
+K34,Skerries,12,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,343944.0
+K34,Skerries,12,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,222333.0
+K34,Skerries,12,2016,New,All Buyer Types,389318.0
+K34,Skerries,12,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,406679.0
+K34,Skerries,12,2016,New,Household Buyer - Former Owner-Occupier,369064.0
+K34,Skerries,12,2016,New,Household Buyer - Non-Occupier,
+K34,Skerries,12,2016,Existing,All Buyer Types,292100.0
+K34,Skerries,12,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,342500.0
+K34,Skerries,12,2016,Existing,Household Buyer - Former Owner-Occupier,313800.0
+K34,Skerries,12,2016,Existing,Household Buyer - Non-Occupier,222333.0
+K34,Skerries,1,2017,All Dwelling Statuses,All Buyer Types,322634.0
+K34,Skerries,1,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,383196.0
+K34,Skerries,1,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,189400.0
+K34,Skerries,1,2017,New,All Buyer Types,331025.0
+K34,Skerries,1,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2017,New,Household Buyer - Former Owner-Occupier,331025.0
+K34,Skerries,1,2017,New,Household Buyer - Non-Occupier,
+K34,Skerries,1,2017,Existing,All Buyer Types,317600.0
+K34,Skerries,1,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2017,Existing,Household Buyer - Former Owner-Occupier,445800.0
+K34,Skerries,1,2017,Existing,Household Buyer - Non-Occupier,189400.0
+K34,Skerries,2,2017,All Dwelling Statuses,All Buyer Types,337436.0
+K34,Skerries,2,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,334500.0
+K34,Skerries,2,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,339198.0
+K34,Skerries,2,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,2,2017,New,All Buyer Types,349998.0
+K34,Skerries,2,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,390000.0
+K34,Skerries,2,2017,New,Household Buyer - Former Owner-Occupier,325997.0
+K34,Skerries,2,2017,New,Household Buyer - Non-Occupier,
+K34,Skerries,2,2017,Existing,All Buyer Types,324875.0
+K34,Skerries,2,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,279000.0
+K34,Skerries,2,2017,Existing,Household Buyer - Former Owner-Occupier,352400.0
+K34,Skerries,2,2017,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,3,2017,All Dwelling Statuses,All Buyer Types,338581.0
+K34,Skerries,3,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,285989.0
+K34,Skerries,3,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,349100.0
+K34,Skerries,3,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,3,2017,New,All Buyer Types,324996.0
+K34,Skerries,3,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,314984.0
+K34,Skerries,3,2017,New,Household Buyer - Former Owner-Occupier,328333.0
+K34,Skerries,3,2017,New,Household Buyer - Non-Occupier,
+K34,Skerries,3,2017,Existing,All Buyer Types,349450.0
+K34,Skerries,3,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,228000.0
+K34,Skerries,3,2017,Existing,Household Buyer - Former Owner-Occupier,362944.0
+K34,Skerries,3,2017,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,4,2017,All Dwelling Statuses,All Buyer Types,309361.0
+K34,Skerries,4,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,320259.0
+K34,Skerries,4,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,308155.0
+K34,Skerries,4,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,250000.0
+K34,Skerries,4,2017,New,All Buyer Types,320055.0
+K34,Skerries,4,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,323911.0
+K34,Skerries,4,2017,New,Household Buyer - Former Owner-Occupier,300775.0
+K34,Skerries,4,2017,New,Household Buyer - Non-Occupier,
+K34,Skerries,4,2017,Existing,All Buyer Types,298667.0
+K34,Skerries,4,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,302000.0
+K34,Skerries,4,2017,Existing,Household Buyer - Former Owner-Occupier,310000.0
+K34,Skerries,4,2017,Existing,Household Buyer - Non-Occupier,250000.0
+K34,Skerries,5,2017,All Dwelling Statuses,All Buyer Types,319639.0
+K34,Skerries,5,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,380000.0
+K34,Skerries,5,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,315279.0
+K34,Skerries,5,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,240000.0
+K34,Skerries,5,2017,New,All Buyer Types,330279.0
+K34,Skerries,5,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,342500.0
+K34,Skerries,5,2017,New,Household Buyer - Former Owner-Occupier,322131.0
+K34,Skerries,5,2017,New,Household Buyer - Non-Occupier,
+K34,Skerries,5,2017,Existing,All Buyer Types,309000.0
+K34,Skerries,5,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,455000.0
+K34,Skerries,5,2017,Existing,Household Buyer - Former Owner-Occupier,305000.0
+K34,Skerries,5,2017,Existing,Household Buyer - Non-Occupier,240000.0
+K34,Skerries,6,2017,All Dwelling Statuses,All Buyer Types,444559.0
+K34,Skerries,6,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,377500.0
+K34,Skerries,6,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,486500.0
+K34,Skerries,6,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,239000.0
+K34,Skerries,6,2017,New,All Buyer Types,354285.0
+K34,Skerries,6,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,390000.0
+K34,Skerries,6,2017,New,Household Buyer - Former Owner-Occupier,348333.0
+K34,Skerries,6,2017,New,Household Buyer - Non-Occupier,
+K34,Skerries,6,2017,Existing,All Buyer Types,507750.0
+K34,Skerries,6,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,365000.0
+K34,Skerries,6,2017,Existing,Household Buyer - Former Owner-Occupier,604929.0
+K34,Skerries,6,2017,Existing,Household Buyer - Non-Occupier,239000.0
+K34,Skerries,7,2017,All Dwelling Statuses,All Buyer Types,308741.0
+K34,Skerries,7,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,304910.0
+K34,Skerries,7,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,332559.0
+K34,Skerries,7,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,163500.0
+K34,Skerries,7,2017,New,All Buyer Types,340635.0
+K34,Skerries,7,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,352275.0
+K34,Skerries,7,2017,New,Household Buyer - Former Owner-Occupier,334815.0
+K34,Skerries,7,2017,New,Household Buyer - Non-Occupier,
+K34,Skerries,7,2017,Existing,All Buyer Types,295071.0
+K34,Skerries,7,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,273333.0
+K34,Skerries,7,2017,Existing,Household Buyer - Former Owner-Occupier,331556.0
+K34,Skerries,7,2017,Existing,Household Buyer - Non-Occupier,163500.0
+K34,Skerries,8,2017,All Dwelling Statuses,All Buyer Types,333887.0
+K34,Skerries,8,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,332343.0
+K34,Skerries,8,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,341000.0
+K34,Skerries,8,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,298000.0
+K34,Skerries,8,2017,New,All Buyer Types,337609.0
+K34,Skerries,8,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,339511.0
+K34,Skerries,8,2017,New,Household Buyer - Former Owner-Occupier,329999.0
+K34,Skerries,8,2017,New,Household Buyer - Non-Occupier,
+K34,Skerries,8,2017,Existing,All Buyer Types,328571.0
+K34,Skerries,8,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+K34,Skerries,8,2017,Existing,Household Buyer - Former Owner-Occupier,345400.0
+K34,Skerries,8,2017,Existing,Household Buyer - Non-Occupier,298000.0
+K34,Skerries,9,2017,All Dwelling Statuses,All Buyer Types,381901.0
+K34,Skerries,9,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,358045.0
+K34,Skerries,9,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,401781.0
+K34,Skerries,9,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,282500.0
+K34,Skerries,9,2017,New,All Buyer Types,370786.0
+K34,Skerries,9,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,360056.0
+K34,Skerries,9,2017,New,Household Buyer - Former Owner-Occupier,380624.0
+K34,Skerries,9,2017,New,Household Buyer - Non-Occupier,334999.0
+K34,Skerries,9,2017,Existing,All Buyer Types,396350.0
+K34,Skerries,9,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,350000.0
+K34,Skerries,9,2017,Existing,Household Buyer - Former Owner-Occupier,422938.0
+K34,Skerries,9,2017,Existing,Household Buyer - Non-Occupier,230000.0
+K34,Skerries,10,2017,All Dwelling Statuses,All Buyer Types,424076.0
+K34,Skerries,10,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,348333.0
+K34,Skerries,10,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,529166.0
+K34,Skerries,10,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,248000.0
+K34,Skerries,10,2017,New,All Buyer Types,364999.0
+K34,Skerries,10,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,357499.0
+K34,Skerries,10,2017,New,Household Buyer - Former Owner-Occupier,372499.0
+K34,Skerries,10,2017,New,Household Buyer - Non-Occupier,
+K34,Skerries,10,2017,Existing,All Buyer Types,518600.0
+K34,Skerries,10,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,330000.0
+K34,Skerries,10,2017,Existing,Household Buyer - Former Owner-Occupier,842500.0
+K34,Skerries,10,2017,Existing,Household Buyer - Non-Occupier,248000.0
+K34,Skerries,11,2017,All Dwelling Statuses,All Buyer Types,446414.0
+K34,Skerries,11,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,319999.0
+K34,Skerries,11,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,456139.0
+K34,Skerries,11,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,11,2017,New,All Buyer Types,347050.0
+K34,Skerries,11,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,319999.0
+K34,Skerries,11,2017,New,Household Buyer - Former Owner-Occupier,352461.0
+K34,Skerries,11,2017,New,Household Buyer - Non-Occupier,
+K34,Skerries,11,2017,Existing,All Buyer Types,520938.0
+K34,Skerries,11,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,11,2017,Existing,Household Buyer - Former Owner-Occupier,520938.0
+K34,Skerries,11,2017,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,12,2017,All Dwelling Statuses,All Buyer Types,440853.0
+K34,Skerries,12,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,430000.0
+K34,Skerries,12,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,442404.0
+K34,Skerries,12,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,12,2017,New,All Buyer Types,395096.0
+K34,Skerries,12,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,430000.0
+K34,Skerries,12,2017,New,Household Buyer - Former Owner-Occupier,388115.0
+K34,Skerries,12,2017,New,Household Buyer - Non-Occupier,
+K34,Skerries,12,2017,Existing,All Buyer Types,578125.0
+K34,Skerries,12,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,12,2017,Existing,Household Buyer - Former Owner-Occupier,578125.0
+K34,Skerries,12,2017,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,1,2018,All Dwelling Statuses,All Buyer Types,475705.0
+K34,Skerries,1,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,394999.0
+K34,Skerries,1,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,443342.0
+K34,Skerries,1,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,567333.0
+K34,Skerries,1,2018,New,All Buyer Types,458010.0
+K34,Skerries,1,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,394999.0
+K34,Skerries,1,2018,New,Household Buyer - Former Owner-Occupier,398350.0
+K34,Skerries,1,2018,New,Household Buyer - Non-Occupier,699999.0
+K34,Skerries,1,2018,Existing,All Buyer Types,493400.0
+K34,Skerries,1,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2018,Existing,Household Buyer - Former Owner-Occupier,488333.0
+K34,Skerries,1,2018,Existing,Household Buyer - Non-Occupier,501000.0
+K34,Skerries,2,2018,All Dwelling Statuses,All Buyer Types,349700.0
+K34,Skerries,2,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,362500.0
+K34,Skerries,2,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,346855.0
+K34,Skerries,2,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,2,2018,New,All Buyer Types,337299.0
+K34,Skerries,2,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,369999.0
+K34,Skerries,2,2018,New,Household Buyer - Former Owner-Occupier,326399.0
+K34,Skerries,2,2018,New,Household Buyer - Non-Occupier,
+K34,Skerries,2,2018,Existing,All Buyer Types,356786.0
+K34,Skerries,2,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,355000.0
+K34,Skerries,2,2018,Existing,Household Buyer - Former Owner-Occupier,357083.0
+K34,Skerries,2,2018,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,3,2018,All Dwelling Statuses,All Buyer Types,396694.0
+K34,Skerries,3,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,439249.0
+K34,Skerries,3,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,370250.0
+K34,Skerries,3,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,332252.0
+K34,Skerries,3,2018,New,All Buyer Types,344833.0
+K34,Skerries,3,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,351999.0
+K34,Skerries,3,2018,New,Household Buyer - Former Owner-Occupier,343625.0
+K34,Skerries,3,2018,New,Household Buyer - Non-Occupier,299499.0
+K34,Skerries,3,2018,Existing,All Buyer Types,500418.0
+K34,Skerries,3,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,1050000.0
+K34,Skerries,3,2018,Existing,Household Buyer - Former Owner-Occupier,396875.0
+K34,Skerries,3,2018,Existing,Household Buyer - Non-Occupier,365005.0
+K34,Skerries,4,2018,All Dwelling Statuses,All Buyer Types,433522.0
+K34,Skerries,4,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,431999.0
+K34,Skerries,4,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,537187.0
+K34,Skerries,4,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,230000.0
+K34,Skerries,4,2018,New,All Buyer Types,373392.0
+K34,Skerries,4,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,344998.0
+K34,Skerries,4,2018,New,Household Buyer - Former Owner-Occupier,411249.0
+K34,Skerries,4,2018,New,Household Buyer - Non-Occupier,
+K34,Skerries,4,2018,Existing,All Buyer Types,538750.0
+K34,Skerries,4,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,780000.0
+K34,Skerries,4,2018,Existing,Household Buyer - Former Owner-Occupier,915000.0
+K34,Skerries,4,2018,Existing,Household Buyer - Non-Occupier,230000.0
+K34,Skerries,5,2018,All Dwelling Statuses,All Buyer Types,361539.0
+K34,Skerries,5,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,325705.0
+K34,Skerries,5,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,378262.0
+K34,Skerries,5,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,5,2018,New,All Buyer Types,311297.0
+K34,Skerries,5,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,330823.0
+K34,Skerries,5,2018,New,Household Buyer - Former Owner-Occupier,294561.0
+K34,Skerries,5,2018,New,Household Buyer - Non-Occupier,
+K34,Skerries,5,2018,Existing,All Buyer Types,434111.0
+K34,Skerries,5,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+K34,Skerries,5,2018,Existing,Household Buyer - Former Owner-Occupier,451500.0
+K34,Skerries,5,2018,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,6,2018,All Dwelling Statuses,All Buyer Types,485150.0
+K34,Skerries,6,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,368749.0
+K34,Skerries,6,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,557258.0
+K34,Skerries,6,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,445999.0
+K34,Skerries,6,2018,New,All Buyer Types,390142.0
+K34,Skerries,6,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,361666.0
+K34,Skerries,6,2018,New,Household Buyer - Former Owner-Occupier,399999.0
+K34,Skerries,6,2018,New,Household Buyer - Non-Occupier,445999.0
+K34,Skerries,6,2018,Existing,All Buyer Types,618162.0
+K34,Skerries,6,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,390000.0
+K34,Skerries,6,2018,Existing,Household Buyer - Former Owner-Occupier,675203.0
+K34,Skerries,6,2018,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,7,2018,All Dwelling Statuses,All Buyer Types,385257.0
+K34,Skerries,7,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,370499.0
+K34,Skerries,7,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,393455.0
+K34,Skerries,7,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,7,2018,New,All Buyer Types,421666.0
+K34,Skerries,7,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,396666.0
+K34,Skerries,7,2018,New,Household Buyer - Former Owner-Occupier,446666.0
+K34,Skerries,7,2018,New,Household Buyer - Non-Occupier,
+K34,Skerries,7,2018,Existing,All Buyer Types,357950.0
+K34,Skerries,7,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,331250.0
+K34,Skerries,7,2018,Existing,Household Buyer - Former Owner-Occupier,366850.0
+K34,Skerries,7,2018,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,8,2018,All Dwelling Statuses,All Buyer Types,549352.0
+K34,Skerries,8,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,420907.0
+K34,Skerries,8,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,592167.0
+K34,Skerries,8,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,8,2018,New,All Buyer Types,420907.0
+K34,Skerries,8,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,420907.0
+K34,Skerries,8,2018,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,8,2018,New,Household Buyer - Non-Occupier,
+K34,Skerries,8,2018,Existing,All Buyer Types,592167.0
+K34,Skerries,8,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,8,2018,Existing,Household Buyer - Former Owner-Occupier,592167.0
+K34,Skerries,8,2018,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,9,2018,All Dwelling Statuses,All Buyer Types,432666.0
+K34,Skerries,9,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,417500.0
+K34,Skerries,9,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,440250.0
+K34,Skerries,9,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,9,2018,New,All Buyer Types,406999.0
+K34,Skerries,9,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,399999.0
+K34,Skerries,9,2018,New,Household Buyer - Former Owner-Occupier,411666.0
+K34,Skerries,9,2018,New,Household Buyer - Non-Occupier,
+K34,Skerries,9,2018,Existing,All Buyer Types,445500.0
+K34,Skerries,9,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,429167.0
+K34,Skerries,9,2018,Existing,Household Buyer - Former Owner-Occupier,452500.0
+K34,Skerries,9,2018,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,10,2018,All Dwelling Statuses,All Buyer Types,424656.0
+K34,Skerries,10,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,381250.0
+K34,Skerries,10,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,431334.0
+K34,Skerries,10,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,10,2018,New,All Buyer Types,369056.0
+K34,Skerries,10,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,381250.0
+K34,Skerries,10,2018,New,Household Buyer - Former Owner-Occupier,362959.0
+K34,Skerries,10,2018,New,Household Buyer - Non-Occupier,
+K34,Skerries,10,2018,Existing,All Buyer Types,461722.0
+K34,Skerries,10,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,10,2018,Existing,Household Buyer - Former Owner-Occupier,461722.0
+K34,Skerries,10,2018,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,11,2018,All Dwelling Statuses,All Buyer Types,434480.0
+K34,Skerries,11,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,388000.0
+K34,Skerries,11,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,532950.0
+K34,Skerries,11,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,273000.0
+K34,Skerries,11,2018,New,All Buyer Types,344199.0
+K34,Skerries,11,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,311666.0
+K34,Skerries,11,2018,New,Household Buyer - Former Owner-Occupier,441798.0
+K34,Skerries,11,2018,New,Household Buyer - Non-Occupier,
+K34,Skerries,11,2018,Existing,All Buyer Types,494667.0
+K34,Skerries,11,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,502500.0
+K34,Skerries,11,2018,Existing,Household Buyer - Former Owner-Occupier,563333.0
+K34,Skerries,11,2018,Existing,Household Buyer - Non-Occupier,273000.0
+K34,Skerries,12,2018,All Dwelling Statuses,All Buyer Types,436679.0
+K34,Skerries,12,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,468425.0
+K34,Skerries,12,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,442302.0
+K34,Skerries,12,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,406750.0
+K34,Skerries,12,2018,New,All Buyer Types,373373.0
+K34,Skerries,12,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,351850.0
+K34,Skerries,12,2018,New,Household Buyer - Former Owner-Occupier,378754.0
+K34,Skerries,12,2018,New,Household Buyer - Non-Occupier,
+K34,Skerries,12,2018,Existing,All Buyer Types,465455.0
+K34,Skerries,12,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,585000.0
+K34,Skerries,12,2018,Existing,Household Buyer - Former Owner-Occupier,484667.0
+K34,Skerries,12,2018,Existing,Household Buyer - Non-Occupier,406750.0
+K34,Skerries,1,2019,All Dwelling Statuses,All Buyer Types,356900.0
+K34,Skerries,1,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,434999.0
+K34,Skerries,1,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,357125.0
+K34,Skerries,1,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,277000.0
+K34,Skerries,1,2019,New,All Buyer Types,387499.0
+K34,Skerries,1,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,434999.0
+K34,Skerries,1,2019,New,Household Buyer - Former Owner-Occupier,339998.0
+K34,Skerries,1,2019,New,Household Buyer - Non-Occupier,
+K34,Skerries,1,2019,Existing,All Buyer Types,349250.0
+K34,Skerries,1,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2019,Existing,Household Buyer - Former Owner-Occupier,359571.0
+K34,Skerries,1,2019,Existing,Household Buyer - Non-Occupier,277000.0
+K34,Skerries,2,2019,All Dwelling Statuses,All Buyer Types,394737.0
+K34,Skerries,2,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,380000.0
+K34,Skerries,2,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,414695.0
+K34,Skerries,2,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,313167.0
+K34,Skerries,2,2019,New,All Buyer Types,412861.0
+K34,Skerries,2,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,380000.0
+K34,Skerries,2,2019,New,Household Buyer - Former Owner-Occupier,418338.0
+K34,Skerries,2,2019,New,Household Buyer - Non-Occupier,
+K34,Skerries,2,2019,Existing,All Buyer Types,382050.0
+K34,Skerries,2,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,2,2019,Existing,Household Buyer - Former Owner-Occupier,411571.0
+K34,Skerries,2,2019,Existing,Household Buyer - Non-Occupier,313167.0
+K34,Skerries,3,2019,All Dwelling Statuses,All Buyer Types,394167.0
+K34,Skerries,3,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,475000.0
+K34,Skerries,3,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,418750.0
+K34,Skerries,3,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,280000.0
+K34,Skerries,3,2019,New,All Buyer Types,522500.0
+K34,Skerries,3,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,3,2019,New,Household Buyer - Former Owner-Occupier,522500.0
+K34,Skerries,3,2019,New,Household Buyer - Non-Occupier,
+K34,Skerries,3,2019,Existing,All Buyer Types,357500.0
+K34,Skerries,3,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,475000.0
+K34,Skerries,3,2019,Existing,Household Buyer - Former Owner-Occupier,366875.0
+K34,Skerries,3,2019,Existing,Household Buyer - Non-Occupier,280000.0
+K34,Skerries,4,2019,All Dwelling Statuses,All Buyer Types,346318.0
+K34,Skerries,4,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,365272.0
+K34,Skerries,4,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,312000.0
+K34,Skerries,4,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,323775.0
+K34,Skerries,4,2019,New,All Buyer Types,340863.0
+K34,Skerries,4,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,349408.0
+K34,Skerries,4,2019,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,4,2019,New,Household Buyer - Non-Occupier,323775.0
+K34,Skerries,4,2019,Existing,All Buyer Types,354500.0
+K34,Skerries,4,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,397000.0
+K34,Skerries,4,2019,Existing,Household Buyer - Former Owner-Occupier,312000.0
+K34,Skerries,4,2019,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,5,2019,All Dwelling Statuses,All Buyer Types,506080.0
+K34,Skerries,5,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,399389.0
+K34,Skerries,5,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,525479.0
+K34,Skerries,5,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,5,2019,New,All Buyer Types,487261.0
+K34,Skerries,5,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,399389.0
+K34,Skerries,5,2019,New,Household Buyer - Former Owner-Occupier,575133.0
+K34,Skerries,5,2019,New,Household Buyer - Non-Occupier,
+K34,Skerries,5,2019,Existing,All Buyer Types,514444.0
+K34,Skerries,5,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,5,2019,Existing,Household Buyer - Former Owner-Occupier,514444.0
+K34,Skerries,5,2019,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,6,2019,All Dwelling Statuses,All Buyer Types,368030.0
+K34,Skerries,6,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,479999.0
+K34,Skerries,6,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,371243.0
+K34,Skerries,6,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,240000.0
+K34,Skerries,6,2019,New,All Buyer Types,455000.0
+K34,Skerries,6,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,479999.0
+K34,Skerries,6,2019,New,Household Buyer - Former Owner-Occupier,430000.0
+K34,Skerries,6,2019,New,Household Buyer - Non-Occupier,
+K34,Skerries,6,2019,Existing,All Buyer Types,333243.0
+K34,Skerries,6,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,6,2019,Existing,Household Buyer - Former Owner-Occupier,356553.0
+K34,Skerries,6,2019,Existing,Household Buyer - Non-Occupier,240000.0
+K34,Skerries,7,2019,All Dwelling Statuses,All Buyer Types,456936.0
+K34,Skerries,7,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,379166.0
+K34,Skerries,7,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,497868.0
+K34,Skerries,7,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,240000.0
+K34,Skerries,7,2019,New,All Buyer Types,392758.0
+K34,Skerries,7,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,350000.0
+K34,Skerries,7,2019,New,Household Buyer - Former Owner-Occupier,414137.0
+K34,Skerries,7,2019,New,Household Buyer - Non-Occupier,
+K34,Skerries,7,2019,Existing,All Buyer Types,499722.0
+K34,Skerries,7,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,437500.0
+K34,Skerries,7,2019,Existing,Household Buyer - Former Owner-Occupier,545714.0
+K34,Skerries,7,2019,Existing,Household Buyer - Non-Occupier,240000.0
+K34,Skerries,8,2019,All Dwelling Statuses,All Buyer Types,524469.0
+K34,Skerries,8,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,438750.0
+K34,Skerries,8,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,519060.0
+K34,Skerries,8,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,750000.0
+K34,Skerries,8,2019,New,All Buyer Types,445000.0
+K34,Skerries,8,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,8,2019,New,Household Buyer - Former Owner-Occupier,445000.0
+K34,Skerries,8,2019,New,Household Buyer - Non-Occupier,
+K34,Skerries,8,2019,Existing,All Buyer Types,538918.0
+K34,Skerries,8,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,438750.0
+K34,Skerries,8,2019,Existing,Household Buyer - Former Owner-Occupier,537575.0
+K34,Skerries,8,2019,Existing,Household Buyer - Non-Occupier,750000.0
+K34,Skerries,9,2019,All Dwelling Statuses,All Buyer Types,452333.0
+K34,Skerries,9,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,295500.0
+K34,Skerries,9,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,530750.0
+K34,Skerries,9,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,9,2019,New,All Buyer Types,
+K34,Skerries,9,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,9,2019,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,9,2019,New,Household Buyer - Non-Occupier,
+K34,Skerries,9,2019,Existing,All Buyer Types,452333.0
+K34,Skerries,9,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,295500.0
+K34,Skerries,9,2019,Existing,Household Buyer - Former Owner-Occupier,530750.0
+K34,Skerries,9,2019,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,10,2019,All Dwelling Statuses,All Buyer Types,442533.0
+K34,Skerries,10,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,376000.0
+K34,Skerries,10,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,466667.0
+K34,Skerries,10,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,286000.0
+K34,Skerries,10,2019,New,All Buyer Types,375000.0
+K34,Skerries,10,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,10,2019,New,Household Buyer - Former Owner-Occupier,375000.0
+K34,Skerries,10,2019,New,Household Buyer - Non-Occupier,
+K34,Skerries,10,2019,Existing,All Buyer Types,447357.0
+K34,Skerries,10,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,376000.0
+K34,Skerries,10,2019,Existing,Household Buyer - Former Owner-Occupier,475000.0
+K34,Skerries,10,2019,Existing,Household Buyer - Non-Occupier,286000.0
+K34,Skerries,11,2019,All Dwelling Statuses,All Buyer Types,488859.0
+K34,Skerries,11,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,441611.0
+K34,Skerries,11,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,562667.0
+K34,Skerries,11,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,235000.0
+K34,Skerries,11,2019,New,All Buyer Types,374963.0
+K34,Skerries,11,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,374945.0
+K34,Skerries,11,2019,New,Household Buyer - Former Owner-Occupier,374999.0
+K34,Skerries,11,2019,New,Household Buyer - Non-Occupier,
+K34,Skerries,11,2019,Existing,All Buyer Types,506842.0
+K34,Skerries,11,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,463833.0
+K34,Skerries,11,2019,Existing,Household Buyer - Former Owner-Occupier,579727.0
+K34,Skerries,11,2019,Existing,Household Buyer - Non-Occupier,235000.0
+K34,Skerries,12,2019,All Dwelling Statuses,All Buyer Types,452547.0
+K34,Skerries,12,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,337250.0
+K34,Skerries,12,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,471763.0
+K34,Skerries,12,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,12,2019,New,All Buyer Types,404250.0
+K34,Skerries,12,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,337250.0
+K34,Skerries,12,2019,New,Household Buyer - Former Owner-Occupier,471249.0
+K34,Skerries,12,2019,New,Household Buyer - Non-Occupier,
+K34,Skerries,12,2019,Existing,All Buyer Types,471866.0
+K34,Skerries,12,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,12,2019,Existing,Household Buyer - Former Owner-Occupier,471866.0
+K34,Skerries,12,2019,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,1,2020,All Dwelling Statuses,All Buyer Types,404875.0
+K34,Skerries,1,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,404875.0
+K34,Skerries,1,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,1,2020,New,All Buyer Types,
+K34,Skerries,1,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2020,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,1,2020,New,Household Buyer - Non-Occupier,
+K34,Skerries,1,2020,Existing,All Buyer Types,404875.0
+K34,Skerries,1,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2020,Existing,Household Buyer - Former Owner-Occupier,404875.0
+K34,Skerries,1,2020,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,2,2020,All Dwelling Statuses,All Buyer Types,407200.0
+K34,Skerries,2,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,2,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,407200.0
+K34,Skerries,2,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,2,2020,New,All Buyer Types,470000.0
+K34,Skerries,2,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,2,2020,New,Household Buyer - Former Owner-Occupier,470000.0
+K34,Skerries,2,2020,New,Household Buyer - Non-Occupier,
+K34,Skerries,2,2020,Existing,All Buyer Types,386267.0
+K34,Skerries,2,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,2,2020,Existing,Household Buyer - Former Owner-Occupier,386267.0
+K34,Skerries,2,2020,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,3,2020,All Dwelling Statuses,All Buyer Types,371167.0
+K34,Skerries,3,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,403000.0
+K34,Skerries,3,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,410714.0
+K34,Skerries,3,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,62500.0
+K34,Skerries,3,2020,New,All Buyer Types,
+K34,Skerries,3,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,3,2020,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,3,2020,New,Household Buyer - Non-Occupier,
+K34,Skerries,3,2020,Existing,All Buyer Types,371167.0
+K34,Skerries,3,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,403000.0
+K34,Skerries,3,2020,Existing,Household Buyer - Former Owner-Occupier,410714.0
+K34,Skerries,3,2020,Existing,Household Buyer - Non-Occupier,62500.0
+K34,Skerries,4,2020,All Dwelling Statuses,All Buyer Types,549333.0
+K34,Skerries,4,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,4,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,549333.0
+K34,Skerries,4,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,4,2020,New,All Buyer Types,
+K34,Skerries,4,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,4,2020,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,4,2020,New,Household Buyer - Non-Occupier,
+K34,Skerries,4,2020,Existing,All Buyer Types,549333.0
+K34,Skerries,4,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,4,2020,Existing,Household Buyer - Former Owner-Occupier,549333.0
+K34,Skerries,4,2020,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,5,2020,All Dwelling Statuses,All Buyer Types,405161.0
+K34,Skerries,5,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,630000.0
+K34,Skerries,5,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,373042.0
+K34,Skerries,5,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,5,2020,New,All Buyer Types,630000.0
+K34,Skerries,5,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,630000.0
+K34,Skerries,5,2020,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,5,2020,New,Household Buyer - Non-Occupier,
+K34,Skerries,5,2020,Existing,All Buyer Types,373042.0
+K34,Skerries,5,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,5,2020,Existing,Household Buyer - Former Owner-Occupier,373042.0
+K34,Skerries,5,2020,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,6,2020,All Dwelling Statuses,All Buyer Types,361000.0
+K34,Skerries,6,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,6,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,361000.0
+K34,Skerries,6,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,6,2020,New,All Buyer Types,
+K34,Skerries,6,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,6,2020,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,6,2020,New,Household Buyer - Non-Occupier,
+K34,Skerries,6,2020,Existing,All Buyer Types,361000.0
+K34,Skerries,6,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,6,2020,Existing,Household Buyer - Former Owner-Occupier,361000.0
+K34,Skerries,6,2020,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,7,2020,All Dwelling Statuses,All Buyer Types,353750.0
+K34,Skerries,7,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,7,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,353750.0
+K34,Skerries,7,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,7,2020,New,All Buyer Types,
+K34,Skerries,7,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,7,2020,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,7,2020,New,Household Buyer - Non-Occupier,
+K34,Skerries,7,2020,Existing,All Buyer Types,353750.0
+K34,Skerries,7,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,7,2020,Existing,Household Buyer - Former Owner-Occupier,353750.0
+K34,Skerries,7,2020,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,8,2020,All Dwelling Statuses,All Buyer Types,262667.0
+K34,Skerries,8,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,8,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,262667.0
+K34,Skerries,8,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,8,2020,New,All Buyer Types,
+K34,Skerries,8,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,8,2020,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,8,2020,New,Household Buyer - Non-Occupier,
+K34,Skerries,8,2020,Existing,All Buyer Types,262667.0
+K34,Skerries,8,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,8,2020,Existing,Household Buyer - Former Owner-Occupier,262667.0
+K34,Skerries,8,2020,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,9,2020,All Dwelling Statuses,All Buyer Types,451500.0
+K34,Skerries,9,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,700000.0
+K34,Skerries,9,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,265333.0
+K34,Skerries,9,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,761500.0
+K34,Skerries,9,2020,New,All Buyer Types,
+K34,Skerries,9,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,9,2020,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,9,2020,New,Household Buyer - Non-Occupier,
+K34,Skerries,9,2020,Existing,All Buyer Types,451500.0
+K34,Skerries,9,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,700000.0
+K34,Skerries,9,2020,Existing,Household Buyer - Former Owner-Occupier,265333.0
+K34,Skerries,9,2020,Existing,Household Buyer - Non-Occupier,761500.0
+K34,Skerries,10,2020,All Dwelling Statuses,All Buyer Types,402258.0
+K34,Skerries,10,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,462125.0
+K34,Skerries,10,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,378311.0
+K34,Skerries,10,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,10,2020,New,All Buyer Types,418053.0
+K34,Skerries,10,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,10,2020,New,Household Buyer - Former Owner-Occupier,418053.0
+K34,Skerries,10,2020,New,Household Buyer - Non-Occupier,
+K34,Skerries,10,2020,Existing,All Buyer Types,399625.0
+K34,Skerries,10,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,462125.0
+K34,Skerries,10,2020,Existing,Household Buyer - Former Owner-Occupier,368375.0
+K34,Skerries,10,2020,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,11,2020,All Dwelling Statuses,All Buyer Types,464583.0
+K34,Skerries,11,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,475000.0
+K34,Skerries,11,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,459375.0
+K34,Skerries,11,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,11,2020,New,All Buyer Types,
+K34,Skerries,11,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,11,2020,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,11,2020,New,Household Buyer - Non-Occupier,
+K34,Skerries,11,2020,Existing,All Buyer Types,464583.0
+K34,Skerries,11,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,475000.0
+K34,Skerries,11,2020,Existing,Household Buyer - Former Owner-Occupier,459375.0
+K34,Skerries,11,2020,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,12,2020,All Dwelling Statuses,All Buyer Types,385157.0
+K34,Skerries,12,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,281000.0
+K34,Skerries,12,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,425000.0
+K34,Skerries,12,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,421863.0
+K34,Skerries,12,2020,New,All Buyer Types,
+K34,Skerries,12,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,12,2020,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,12,2020,New,Household Buyer - Non-Occupier,
+K34,Skerries,12,2020,Existing,All Buyer Types,385157.0
+K34,Skerries,12,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,281000.0
+K34,Skerries,12,2020,Existing,Household Buyer - Former Owner-Occupier,425000.0
+K34,Skerries,12,2020,Existing,Household Buyer - Non-Occupier,421863.0
+K34,Skerries,1,2021,All Dwelling Statuses,All Buyer Types,529538.0
+K34,Skerries,1,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,529538.0
+K34,Skerries,1,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,1,2021,New,All Buyer Types,
+K34,Skerries,1,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2021,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,1,2021,New,Household Buyer - Non-Occupier,
+K34,Skerries,1,2021,Existing,All Buyer Types,529538.0
+K34,Skerries,1,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2021,Existing,Household Buyer - Former Owner-Occupier,529538.0
+K34,Skerries,1,2021,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,2,2021,All Dwelling Statuses,All Buyer Types,498250.0
+K34,Skerries,2,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,520000.0
+K34,Skerries,2,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,496437.0
+K34,Skerries,2,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,2,2021,New,All Buyer Types,712500.0
+K34,Skerries,2,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,2,2021,New,Household Buyer - Former Owner-Occupier,712500.0
+K34,Skerries,2,2021,New,Household Buyer - Non-Occupier,
+K34,Skerries,2,2021,Existing,All Buyer Types,459295.0
+K34,Skerries,2,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,520000.0
+K34,Skerries,2,2021,Existing,Household Buyer - Former Owner-Occupier,453225.0
+K34,Skerries,2,2021,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,3,2021,All Dwelling Statuses,All Buyer Types,421650.0
+K34,Skerries,3,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,370000.0
+K34,Skerries,3,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,427389.0
+K34,Skerries,3,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,3,2021,New,All Buyer Types,
+K34,Skerries,3,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,3,2021,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,3,2021,New,Household Buyer - Non-Occupier,
+K34,Skerries,3,2021,Existing,All Buyer Types,421650.0
+K34,Skerries,3,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,370000.0
+K34,Skerries,3,2021,Existing,Household Buyer - Former Owner-Occupier,427389.0
+K34,Skerries,3,2021,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,4,2021,All Dwelling Statuses,All Buyer Types,313333.0
+K34,Skerries,4,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,285000.0
+K34,Skerries,4,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,319000.0
+K34,Skerries,4,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,4,2021,New,All Buyer Types,
+K34,Skerries,4,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,4,2021,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,4,2021,New,Household Buyer - Non-Occupier,
+K34,Skerries,4,2021,Existing,All Buyer Types,313333.0
+K34,Skerries,4,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,285000.0
+K34,Skerries,4,2021,Existing,Household Buyer - Former Owner-Occupier,319000.0
+K34,Skerries,4,2021,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,5,2021,All Dwelling Statuses,All Buyer Types,391219.0
+K34,Skerries,5,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,318000.0
+K34,Skerries,5,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,415625.0
+K34,Skerries,5,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,5,2021,New,All Buyer Types,360062.0
+K34,Skerries,5,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,254999.0
+K34,Skerries,5,2021,New,Household Buyer - Former Owner-Occupier,395083.0
+K34,Skerries,5,2021,New,Household Buyer - Non-Occupier,
+K34,Skerries,5,2021,Existing,All Buyer Types,422375.0
+K34,Skerries,5,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,381000.0
+K34,Skerries,5,2021,Existing,Household Buyer - Former Owner-Occupier,436167.0
+K34,Skerries,5,2021,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,6,2021,All Dwelling Statuses,All Buyer Types,497555.0
+K34,Skerries,6,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,359999.0
+K34,Skerries,6,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,516624.0
+K34,Skerries,6,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,330000.0
+K34,Skerries,6,2021,New,All Buyer Types,320662.0
+K34,Skerries,6,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,359999.0
+K34,Skerries,6,2021,New,Household Buyer - Former Owner-Occupier,300994.0
+K34,Skerries,6,2021,New,Household Buyer - Non-Occupier,
+K34,Skerries,6,2021,Existing,All Buyer Types,532933.0
+K34,Skerries,6,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,6,2021,Existing,Household Buyer - Former Owner-Occupier,547429.0
+K34,Skerries,6,2021,Existing,Household Buyer - Non-Occupier,330000.0
+K34,Skerries,7,2021,All Dwelling Statuses,All Buyer Types,596615.0
+K34,Skerries,7,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,321250.0
+K34,Skerries,7,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,646682.0
+K34,Skerries,7,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,7,2021,New,All Buyer Types,345000.0
+K34,Skerries,7,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,345000.0
+K34,Skerries,7,2021,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,7,2021,New,Household Buyer - Non-Occupier,
+K34,Skerries,7,2021,Existing,All Buyer Types,617583.0
+K34,Skerries,7,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,297500.0
+K34,Skerries,7,2021,Existing,Household Buyer - Former Owner-Occupier,646682.0
+K34,Skerries,7,2021,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,8,2021,All Dwelling Statuses,All Buyer Types,454429.0
+K34,Skerries,8,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,495000.0
+K34,Skerries,8,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,459200.0
+K34,Skerries,8,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,390000.0
+K34,Skerries,8,2021,New,All Buyer Types,
+K34,Skerries,8,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,8,2021,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,8,2021,New,Household Buyer - Non-Occupier,
+K34,Skerries,8,2021,Existing,All Buyer Types,454429.0
+K34,Skerries,8,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,495000.0
+K34,Skerries,8,2021,Existing,Household Buyer - Former Owner-Occupier,459200.0
+K34,Skerries,8,2021,Existing,Household Buyer - Non-Occupier,390000.0
+K34,Skerries,9,2021,All Dwelling Statuses,All Buyer Types,522588.0
+K34,Skerries,9,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,312500.0
+K34,Skerries,9,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,550600.0
+K34,Skerries,9,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,9,2021,New,All Buyer Types,480000.0
+K34,Skerries,9,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,312500.0
+K34,Skerries,9,2021,New,Household Buyer - Former Owner-Occupier,814999.0
+K34,Skerries,9,2021,New,Household Buyer - Non-Occupier,
+K34,Skerries,9,2021,Existing,All Buyer Types,531714.0
+K34,Skerries,9,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,9,2021,Existing,Household Buyer - Former Owner-Occupier,531714.0
+K34,Skerries,9,2021,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,10,2021,All Dwelling Statuses,All Buyer Types,470147.0
+K34,Skerries,10,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,405250.0
+K34,Skerries,10,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,509708.0
+K34,Skerries,10,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,255000.0
+K34,Skerries,10,2021,New,All Buyer Types,337500.0
+K34,Skerries,10,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,345000.0
+K34,Skerries,10,2021,New,Household Buyer - Former Owner-Occupier,375000.0
+K34,Skerries,10,2021,New,Household Buyer - Non-Occupier,255000.0
+K34,Skerries,10,2021,Existing,All Buyer Types,510962.0
+K34,Skerries,10,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,425333.0
+K34,Skerries,10,2021,Existing,Household Buyer - Former Owner-Occupier,536650.0
+K34,Skerries,10,2021,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,11,2021,All Dwelling Statuses,All Buyer Types,473889.0
+K34,Skerries,11,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+K34,Skerries,11,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,523571.0
+K34,Skerries,11,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,11,2021,New,All Buyer Types,290000.0
+K34,Skerries,11,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+K34,Skerries,11,2021,New,Household Buyer - Former Owner-Occupier,269999.0
+K34,Skerries,11,2021,New,Household Buyer - Non-Occupier,
+K34,Skerries,11,2021,Existing,All Buyer Types,565833.0
+K34,Skerries,11,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,11,2021,Existing,Household Buyer - Former Owner-Occupier,565833.0
+K34,Skerries,11,2021,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,12,2021,All Dwelling Statuses,All Buyer Types,448491.0
+K34,Skerries,12,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,265001.0
+K34,Skerries,12,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,514185.0
+K34,Skerries,12,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,376000.0
+K34,Skerries,12,2021,New,All Buyer Types,313642.0
+K34,Skerries,12,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,265001.0
+K34,Skerries,12,2021,New,Household Buyer - Former Owner-Occupier,337962.0
+K34,Skerries,12,2021,New,Household Buyer - Non-Occupier,
+K34,Skerries,12,2021,Existing,All Buyer Types,529400.0
+K34,Skerries,12,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,12,2021,Existing,Household Buyer - Former Owner-Occupier,631667.0
+K34,Skerries,12,2021,Existing,Household Buyer - Non-Occupier,376000.0
+K34,Skerries,1,2022,All Dwelling Statuses,All Buyer Types,473077.0
+K34,Skerries,1,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,386000.0
+K34,Skerries,1,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,489778.0
+K34,Skerries,1,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,485000.0
+K34,Skerries,1,2022,New,All Buyer Types,343333.0
+K34,Skerries,1,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,335000.0
+K34,Skerries,1,2022,New,Household Buyer - Former Owner-Occupier,347500.0
+K34,Skerries,1,2022,New,Household Buyer - Non-Occupier,
+K34,Skerries,1,2022,Existing,All Buyer Types,512000.0
+K34,Skerries,1,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,437000.0
+K34,Skerries,1,2022,Existing,Household Buyer - Former Owner-Occupier,530429.0
+K34,Skerries,1,2022,Existing,Household Buyer - Non-Occupier,485000.0
+K34,Skerries,2,2022,All Dwelling Statuses,All Buyer Types,564000.0
+K34,Skerries,2,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,640000.0
+K34,Skerries,2,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,623500.0
+K34,Skerries,2,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,250000.0
+K34,Skerries,2,2022,New,All Buyer Types,
+K34,Skerries,2,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,2,2022,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,2,2022,New,Household Buyer - Non-Occupier,
+K34,Skerries,2,2022,Existing,All Buyer Types,564000.0
+K34,Skerries,2,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,640000.0
+K34,Skerries,2,2022,Existing,Household Buyer - Former Owner-Occupier,623500.0
+K34,Skerries,2,2022,Existing,Household Buyer - Non-Occupier,250000.0
+K34,Skerries,3,2022,All Dwelling Statuses,All Buyer Types,382982.0
+K34,Skerries,3,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,3,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,424970.0
+K34,Skerries,3,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,320001.0
+K34,Skerries,3,2022,New,All Buyer Types,316228.0
+K34,Skerries,3,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,3,2022,New,Household Buyer - Former Owner-Occupier,312455.0
+K34,Skerries,3,2022,New,Household Buyer - Non-Occupier,320001.0
+K34,Skerries,3,2022,Existing,All Buyer Types,650000.0
+K34,Skerries,3,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,3,2022,Existing,Household Buyer - Former Owner-Occupier,650000.0
+K34,Skerries,3,2022,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,4,2022,All Dwelling Statuses,All Buyer Types,387200.0
+K34,Skerries,4,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,356666.0
+K34,Skerries,4,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,394500.0
+K34,Skerries,4,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,435000.0
+K34,Skerries,4,2022,New,All Buyer Types,320000.0
+K34,Skerries,4,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,320000.0
+K34,Skerries,4,2022,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,4,2022,New,Household Buyer - Non-Occupier,
+K34,Skerries,4,2022,Existing,All Buyer Types,404000.0
+K34,Skerries,4,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,430000.0
+K34,Skerries,4,2022,Existing,Household Buyer - Former Owner-Occupier,394500.0
+K34,Skerries,4,2022,Existing,Household Buyer - Non-Occupier,435000.0
+K34,Skerries,5,2022,All Dwelling Statuses,All Buyer Types,451483.0
+K34,Skerries,5,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,453750.0
+K34,Skerries,5,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,451135.0
+K34,Skerries,5,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,5,2022,New,All Buyer Types,363833.0
+K34,Skerries,5,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,451500.0
+K34,Skerries,5,2022,New,Household Buyer - Former Owner-Occupier,320000.0
+K34,Skerries,5,2022,New,Household Buyer - Non-Occupier,
+K34,Skerries,5,2022,Existing,All Buyer Types,473396.0
+K34,Skerries,5,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,456000.0
+K34,Skerries,5,2022,Existing,Household Buyer - Former Owner-Occupier,474977.0
+K34,Skerries,5,2022,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,6,2022,All Dwelling Statuses,All Buyer Types,432650.0
+K34,Skerries,6,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,379999.0
+K34,Skerries,6,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,550000.0
+K34,Skerries,6,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,291200.0
+K34,Skerries,6,2022,New,All Buyer Types,322499.0
+K34,Skerries,6,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,322499.0
+K34,Skerries,6,2022,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,6,2022,New,Household Buyer - Non-Occupier,
+K34,Skerries,6,2022,Existing,All Buyer Types,469367.0
+K34,Skerries,6,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,437500.0
+K34,Skerries,6,2022,Existing,Household Buyer - Former Owner-Occupier,550000.0
+K34,Skerries,6,2022,Existing,Household Buyer - Non-Occupier,291200.0
+K34,Skerries,7,2022,All Dwelling Statuses,All Buyer Types,496300.0
+K34,Skerries,7,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,7,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,578214.0
+K34,Skerries,7,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,305167.0
+K34,Skerries,7,2022,New,All Buyer Types,
+K34,Skerries,7,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,7,2022,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,7,2022,New,Household Buyer - Non-Occupier,
+K34,Skerries,7,2022,Existing,All Buyer Types,496300.0
+K34,Skerries,7,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,7,2022,Existing,Household Buyer - Former Owner-Occupier,578214.0
+K34,Skerries,7,2022,Existing,Household Buyer - Non-Occupier,305167.0
+K34,Skerries,8,2022,All Dwelling Statuses,All Buyer Types,529375.0
+K34,Skerries,8,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,595000.0
+K34,Skerries,8,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,544737.0
+K34,Skerries,8,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,106250.0
+K34,Skerries,8,2022,New,All Buyer Types,407500.0
+K34,Skerries,8,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,8,2022,New,Household Buyer - Former Owner-Occupier,407500.0
+K34,Skerries,8,2022,New,Household Buyer - Non-Occupier,
+K34,Skerries,8,2022,Existing,All Buyer Types,541563.0
+K34,Skerries,8,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,595000.0
+K34,Skerries,8,2022,Existing,Household Buyer - Former Owner-Occupier,560882.0
+K34,Skerries,8,2022,Existing,Household Buyer - Non-Occupier,106250.0
+K34,Skerries,9,2022,All Dwelling Statuses,All Buyer Types,457667.0
+K34,Skerries,9,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,466752.0
+K34,Skerries,9,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,479286.0
+K34,Skerries,9,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,270000.0
+K34,Skerries,9,2022,New,All Buyer Types,333336.0
+K34,Skerries,9,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,365005.0
+K34,Skerries,9,2022,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,9,2022,New,Household Buyer - Non-Occupier,270000.0
+K34,Skerries,9,2022,Existing,All Buyer Types,499111.0
+K34,Skerries,9,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,568500.0
+K34,Skerries,9,2022,Existing,Household Buyer - Former Owner-Occupier,479286.0
+K34,Skerries,9,2022,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,10,2022,All Dwelling Statuses,All Buyer Types,538983.0
+K34,Skerries,10,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,612500.0
+K34,Skerries,10,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,521678.0
+K34,Skerries,10,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,565000.0
+K34,Skerries,10,2022,New,All Buyer Types,414275.0
+K34,Skerries,10,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,10,2022,New,Household Buyer - Former Owner-Occupier,414275.0
+K34,Skerries,10,2022,New,Household Buyer - Non-Occupier,
+K34,Skerries,10,2022,Existing,All Buyer Types,549375.0
+K34,Skerries,10,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,612500.0
+K34,Skerries,10,2022,Existing,Household Buyer - Former Owner-Occupier,533611.0
+K34,Skerries,10,2022,Existing,Household Buyer - Non-Occupier,565000.0
+K34,Skerries,11,2022,All Dwelling Statuses,All Buyer Types,408778.0
+K34,Skerries,11,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,420000.0
+K34,Skerries,11,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,445454.0
+K34,Skerries,11,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,195833.0
+K34,Skerries,11,2022,New,All Buyer Types,352500.0
+K34,Skerries,11,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,405000.0
+K34,Skerries,11,2022,New,Household Buyer - Former Owner-Occupier,335000.0
+K34,Skerries,11,2022,New,Household Buyer - Non-Occupier,
+K34,Skerries,11,2022,Existing,All Buyer Types,429242.0
+K34,Skerries,11,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,435000.0
+K34,Skerries,11,2022,Existing,Household Buyer - Former Owner-Occupier,486875.0
+K34,Skerries,11,2022,Existing,Household Buyer - Non-Occupier,195833.0
+K34,Skerries,12,2022,All Dwelling Statuses,All Buyer Types,495294.0
+K34,Skerries,12,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,466250.0
+K34,Skerries,12,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,504231.0
+K34,Skerries,12,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,12,2022,New,All Buyer Types,459000.0
+K34,Skerries,12,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,12,2022,New,Household Buyer - Former Owner-Occupier,459000.0
+K34,Skerries,12,2022,New,Household Buyer - Non-Occupier,
+K34,Skerries,12,2022,Existing,All Buyer Types,510417.0
+K34,Skerries,12,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,466250.0
+K34,Skerries,12,2022,Existing,Household Buyer - Former Owner-Occupier,532500.0
+K34,Skerries,12,2022,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,1,2023,All Dwelling Statuses,All Buyer Types,459347.0
+K34,Skerries,1,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,526557.0
+K34,Skerries,1,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,436944.0
+K34,Skerries,1,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,1,2023,New,All Buyer Types,344360.0
+K34,Skerries,1,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,373720.0
+K34,Skerries,1,2023,New,Household Buyer - Former Owner-Occupier,315000.0
+K34,Skerries,1,2023,New,Household Buyer - Non-Occupier,
+K34,Skerries,1,2023,Existing,All Buyer Types,482345.0
+K34,Skerries,1,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,602975.0
+K34,Skerries,1,2023,Existing,Household Buyer - Former Owner-Occupier,452188.0
+K34,Skerries,1,2023,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,2,2023,All Dwelling Statuses,All Buyer Types,525000.0
+K34,Skerries,2,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,487500.0
+K34,Skerries,2,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,540000.0
+K34,Skerries,2,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,2,2023,New,All Buyer Types,405000.0
+K34,Skerries,2,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,405000.0
+K34,Skerries,2,2023,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,2,2023,New,Household Buyer - Non-Occupier,
+K34,Skerries,2,2023,Existing,All Buyer Types,545000.0
+K34,Skerries,2,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,570000.0
+K34,Skerries,2,2023,Existing,Household Buyer - Former Owner-Occupier,540000.0
+K34,Skerries,2,2023,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,3,2023,All Dwelling Statuses,All Buyer Types,658121.0
+K34,Skerries,3,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,492500.0
+K34,Skerries,3,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,713328.0
+K34,Skerries,3,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,3,2023,New,All Buyer Types,359984.0
+K34,Skerries,3,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,315000.0
+K34,Skerries,3,2023,New,Household Buyer - Former Owner-Occupier,404968.0
+K34,Skerries,3,2023,New,Household Buyer - Non-Occupier,
+K34,Skerries,3,2023,Existing,All Buyer Types,757500.0
+K34,Skerries,3,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,670000.0
+K34,Skerries,3,2023,Existing,Household Buyer - Former Owner-Occupier,775000.0
+K34,Skerries,3,2023,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,4,2023,All Dwelling Statuses,All Buyer Types,516105.0
+K34,Skerries,4,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,335052.0
+K34,Skerries,4,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,536222.0
+K34,Skerries,4,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,4,2023,New,All Buyer Types,377526.0
+K34,Skerries,4,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,335052.0
+K34,Skerries,4,2023,New,Household Buyer - Former Owner-Occupier,420000.0
+K34,Skerries,4,2023,New,Household Buyer - Non-Occupier,
+K34,Skerries,4,2023,Existing,All Buyer Types,550750.0
+K34,Skerries,4,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,4,2023,Existing,Household Buyer - Former Owner-Occupier,550750.0
+K34,Skerries,4,2023,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,5,2023,All Dwelling Statuses,All Buyer Types,613286.0
+K34,Skerries,5,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,415000.0
+K34,Skerries,5,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,646333.0
+K34,Skerries,5,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,5,2023,New,All Buyer Types,415000.0
+K34,Skerries,5,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,415000.0
+K34,Skerries,5,2023,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,5,2023,New,Household Buyer - Non-Occupier,
+K34,Skerries,5,2023,Existing,All Buyer Types,646333.0
+K34,Skerries,5,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,5,2023,Existing,Household Buyer - Former Owner-Occupier,646333.0
+K34,Skerries,5,2023,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,6,2023,All Dwelling Statuses,All Buyer Types,494808.0
+K34,Skerries,6,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,6,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,541136.0
+K34,Skerries,6,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,240000.0
+K34,Skerries,6,2023,New,All Buyer Types,420000.0
+K34,Skerries,6,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,6,2023,New,Household Buyer - Former Owner-Occupier,420000.0
+K34,Skerries,6,2023,New,Household Buyer - Non-Occupier,
+K34,Skerries,6,2023,Existing,All Buyer Types,501042.0
+K34,Skerries,6,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,6,2023,Existing,Household Buyer - Former Owner-Occupier,553250.0
+K34,Skerries,6,2023,Existing,Household Buyer - Non-Occupier,240000.0
+K34,Skerries,7,2023,All Dwelling Statuses,All Buyer Types,425278.0
+K34,Skerries,7,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,485000.0
+K34,Skerries,7,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,410000.0
+K34,Skerries,7,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,460000.0
+K34,Skerries,7,2023,New,All Buyer Types,475000.0
+K34,Skerries,7,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,367500.0
+K34,Skerries,7,2023,New,Household Buyer - Former Owner-Occupier,582500.0
+K34,Skerries,7,2023,New,Household Buyer - Non-Occupier,
+K34,Skerries,7,2023,Existing,All Buyer Types,411071.0
+K34,Skerries,7,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,720000.0
+K34,Skerries,7,2023,Existing,Household Buyer - Former Owner-Occupier,381250.0
+K34,Skerries,7,2023,Existing,Household Buyer - Non-Occupier,460000.0
+K34,Skerries,8,2023,All Dwelling Statuses,All Buyer Types,536000.0
+K34,Skerries,8,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,415000.0
+K34,Skerries,8,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,572300.0
+K34,Skerries,8,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,8,2023,New,All Buyer Types,350000.0
+K34,Skerries,8,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,362500.0
+K34,Skerries,8,2023,New,Household Buyer - Former Owner-Occupier,324999.0
+K34,Skerries,8,2023,New,Household Buyer - Non-Occupier,
+K34,Skerries,8,2023,Existing,All Buyer Types,591800.0
+K34,Skerries,8,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,520000.0
+K34,Skerries,8,2023,Existing,Household Buyer - Former Owner-Occupier,599778.0
+K34,Skerries,8,2023,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,9,2023,All Dwelling Statuses,All Buyer Types,537375.0
+K34,Skerries,9,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,452667.0
+K34,Skerries,9,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,582500.0
+K34,Skerries,9,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,250000.0
+K34,Skerries,9,2023,New,All Buyer Types,420000.0
+K34,Skerries,9,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,420000.0
+K34,Skerries,9,2023,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,9,2023,New,Household Buyer - Non-Occupier,
+K34,Skerries,9,2023,Existing,All Buyer Types,545200.0
+K34,Skerries,9,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,469000.0
+K34,Skerries,9,2023,Existing,Household Buyer - Former Owner-Occupier,582500.0
+K34,Skerries,9,2023,Existing,Household Buyer - Non-Occupier,250000.0
+K34,Skerries,10,2023,All Dwelling Statuses,All Buyer Types,534117.0
+K34,Skerries,10,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,490000.0
+K34,Skerries,10,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,540419.0
+K34,Skerries,10,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,10,2023,New,All Buyer Types,
+K34,Skerries,10,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,10,2023,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,10,2023,New,Household Buyer - Non-Occupier,
+K34,Skerries,10,2023,Existing,All Buyer Types,534117.0
+K34,Skerries,10,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,490000.0
+K34,Skerries,10,2023,Existing,Household Buyer - Former Owner-Occupier,540419.0
+K34,Skerries,10,2023,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,11,2023,All Dwelling Statuses,All Buyer Types,448000.0
+K34,Skerries,11,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,313500.0
+K34,Skerries,11,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,486429.0
+K34,Skerries,11,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,11,2023,New,All Buyer Types,
+K34,Skerries,11,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,11,2023,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,11,2023,New,Household Buyer - Non-Occupier,
+K34,Skerries,11,2023,Existing,All Buyer Types,448000.0
+K34,Skerries,11,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,313500.0
+K34,Skerries,11,2023,Existing,Household Buyer - Former Owner-Occupier,486429.0
+K34,Skerries,11,2023,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,12,2023,All Dwelling Statuses,All Buyer Types,491923.0
+K34,Skerries,12,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,505000.0
+K34,Skerries,12,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,492000.0
+K34,Skerries,12,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,465000.0
+K34,Skerries,12,2023,New,All Buyer Types,
+K34,Skerries,12,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,12,2023,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,12,2023,New,Household Buyer - Non-Occupier,
+K34,Skerries,12,2023,Existing,All Buyer Types,491923.0
+K34,Skerries,12,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,505000.0
+K34,Skerries,12,2023,Existing,Household Buyer - Former Owner-Occupier,492000.0
+K34,Skerries,12,2023,Existing,Household Buyer - Non-Occupier,465000.0
+K34,Skerries,1,2024,All Dwelling Statuses,All Buyer Types,427500.0
+K34,Skerries,1,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,427500.0
+K34,Skerries,1,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,1,2024,New,All Buyer Types,
+K34,Skerries,1,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2024,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,1,2024,New,Household Buyer - Non-Occupier,
+K34,Skerries,1,2024,Existing,All Buyer Types,427500.0
+K34,Skerries,1,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,1,2024,Existing,Household Buyer - Former Owner-Occupier,427500.0
+K34,Skerries,1,2024,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,2,2024,All Dwelling Statuses,All Buyer Types,528273.0
+K34,Skerries,2,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,503000.0
+K34,Skerries,2,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,549333.0
+K34,Skerries,2,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,2,2024,New,All Buyer Types,
+K34,Skerries,2,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,2,2024,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,2,2024,New,Household Buyer - Non-Occupier,
+K34,Skerries,2,2024,Existing,All Buyer Types,528273.0
+K34,Skerries,2,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,503000.0
+K34,Skerries,2,2024,Existing,Household Buyer - Former Owner-Occupier,549333.0
+K34,Skerries,2,2024,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,3,2024,All Dwelling Statuses,All Buyer Types,566250.0
+K34,Skerries,3,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,3,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,485000.0
+K34,Skerries,3,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,810000.0
+K34,Skerries,3,2024,New,All Buyer Types,
+K34,Skerries,3,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,3,2024,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,3,2024,New,Household Buyer - Non-Occupier,
+K34,Skerries,3,2024,Existing,All Buyer Types,566250.0
+K34,Skerries,3,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,3,2024,Existing,Household Buyer - Former Owner-Occupier,485000.0
+K34,Skerries,3,2024,Existing,Household Buyer - Non-Occupier,810000.0
+K34,Skerries,4,2024,All Dwelling Statuses,All Buyer Types,497583.0
+K34,Skerries,4,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,4,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,417100.0
+K34,Skerries,4,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,900000.0
+K34,Skerries,4,2024,New,All Buyer Types,
+K34,Skerries,4,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,4,2024,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,4,2024,New,Household Buyer - Non-Occupier,
+K34,Skerries,4,2024,Existing,All Buyer Types,497583.0
+K34,Skerries,4,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,4,2024,Existing,Household Buyer - Former Owner-Occupier,417100.0
+K34,Skerries,4,2024,Existing,Household Buyer - Non-Occupier,900000.0
+K34,Skerries,5,2024,All Dwelling Statuses,All Buyer Types,370000.0
+K34,Skerries,5,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,375000.0
+K34,Skerries,5,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,365000.0
+K34,Skerries,5,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,5,2024,New,All Buyer Types,
+K34,Skerries,5,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,5,2024,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,5,2024,New,Household Buyer - Non-Occupier,
+K34,Skerries,5,2024,Existing,All Buyer Types,370000.0
+K34,Skerries,5,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,375000.0
+K34,Skerries,5,2024,Existing,Household Buyer - Former Owner-Occupier,365000.0
+K34,Skerries,5,2024,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,6,2024,All Dwelling Statuses,All Buyer Types,476050.0
+K34,Skerries,6,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,413500.0
+K34,Skerries,6,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,491688.0
+K34,Skerries,6,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,6,2024,New,All Buyer Types,
+K34,Skerries,6,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,6,2024,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,6,2024,New,Household Buyer - Non-Occupier,
+K34,Skerries,6,2024,Existing,All Buyer Types,476050.0
+K34,Skerries,6,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,413500.0
+K34,Skerries,6,2024,Existing,Household Buyer - Former Owner-Occupier,491688.0
+K34,Skerries,6,2024,Existing,Household Buyer - Non-Occupier,
+K34,Skerries,7,2024,All Dwelling Statuses,All Buyer Types,587833.0
+K34,Skerries,7,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,7,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,587833.0
+K34,Skerries,7,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K34,Skerries,7,2024,New,All Buyer Types,
+K34,Skerries,7,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,7,2024,New,Household Buyer - Former Owner-Occupier,
+K34,Skerries,7,2024,New,Household Buyer - Non-Occupier,
+K34,Skerries,7,2024,Existing,All Buyer Types,587833.0
+K34,Skerries,7,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K34,Skerries,7,2024,Existing,Household Buyer - Former Owner-Occupier,587833.0
+K34,Skerries,7,2024,Existing,Household Buyer - Non-Occupier,

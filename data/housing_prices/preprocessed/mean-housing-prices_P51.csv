@@ -1,0 +1,2101 @@
+Routing Key,City,Month,Year,Dwelling Status,Type of Buyer,VALUE
+P51,Mallow,1,2010,All Dwelling Statuses,All Buyer Types,166375.0
+P51,Mallow,1,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,185769.0
+P51,Mallow,1,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,185625.0
+P51,Mallow,1,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,60000.0
+P51,Mallow,1,2010,New,All Buyer Types,220190.0
+P51,Mallow,1,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,220190.0
+P51,Mallow,1,2010,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,1,2010,New,Household Buyer - Non-Occupier,
+P51,Mallow,1,2010,Existing,All Buyer Types,156591.0
+P51,Mallow,1,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,172000.0
+P51,Mallow,1,2010,Existing,Household Buyer - Former Owner-Occupier,185625.0
+P51,Mallow,1,2010,Existing,Household Buyer - Non-Occupier,60000.0
+P51,Mallow,2,2010,All Dwelling Statuses,All Buyer Types,212154.0
+P51,Mallow,2,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,218300.0
+P51,Mallow,2,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,191667.0
+P51,Mallow,2,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P51,Mallow,2,2010,New,All Buyer Types,
+P51,Mallow,2,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,2,2010,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,2,2010,New,Household Buyer - Non-Occupier,
+P51,Mallow,2,2010,Existing,All Buyer Types,212154.0
+P51,Mallow,2,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,218300.0
+P51,Mallow,2,2010,Existing,Household Buyer - Former Owner-Occupier,191667.0
+P51,Mallow,2,2010,Existing,Household Buyer - Non-Occupier,
+P51,Mallow,3,2010,All Dwelling Statuses,All Buyer Types,181523.0
+P51,Mallow,3,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,214655.0
+P51,Mallow,3,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,191000.0
+P51,Mallow,3,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,75000.0
+P51,Mallow,3,2010,New,All Buyer Types,242592.0
+P51,Mallow,3,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,242592.0
+P51,Mallow,3,2010,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,3,2010,New,Household Buyer - Non-Occupier,
+P51,Mallow,3,2010,Existing,All Buyer Types,161167.0
+P51,Mallow,3,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,172750.0
+P51,Mallow,3,2010,Existing,Household Buyer - Former Owner-Occupier,191000.0
+P51,Mallow,3,2010,Existing,Household Buyer - Non-Occupier,75000.0
+P51,Mallow,4,2010,All Dwelling Statuses,All Buyer Types,195492.0
+P51,Mallow,4,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,233238.0
+P51,Mallow,4,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,165000.0
+P51,Mallow,4,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,30000.0
+P51,Mallow,4,2010,New,All Buyer Types,296143.0
+P51,Mallow,4,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,296143.0
+P51,Mallow,4,2010,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,4,2010,New,Household Buyer - Non-Occupier,
+P51,Mallow,4,2010,Existing,All Buyer Types,145167.0
+P51,Mallow,4,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,170333.0
+P51,Mallow,4,2010,Existing,Household Buyer - Former Owner-Occupier,165000.0
+P51,Mallow,4,2010,Existing,Household Buyer - Non-Occupier,30000.0
+P51,Mallow,5,2010,All Dwelling Statuses,All Buyer Types,206620.0
+P51,Mallow,5,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,218300.0
+P51,Mallow,5,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,217500.0
+P51,Mallow,5,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,171982.0
+P51,Mallow,5,2010,New,All Buyer Types,196963.0
+P51,Mallow,5,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,5,2010,New,Household Buyer - Former Owner-Occupier,209999.0
+P51,Mallow,5,2010,New,Household Buyer - Non-Occupier,183927.0
+P51,Mallow,5,2010,Existing,All Buyer Types,208000.0
+P51,Mallow,5,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,218300.0
+P51,Mallow,5,2010,Existing,Household Buyer - Former Owner-Occupier,225000.0
+P51,Mallow,5,2010,Existing,Household Buyer - Non-Occupier,168000.0
+P51,Mallow,6,2010,All Dwelling Statuses,All Buyer Types,146545.0
+P51,Mallow,6,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,161000.0
+P51,Mallow,6,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,104625.0
+P51,Mallow,6,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,227500.0
+P51,Mallow,6,2010,New,All Buyer Types,
+P51,Mallow,6,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,6,2010,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,6,2010,New,Household Buyer - Non-Occupier,
+P51,Mallow,6,2010,Existing,All Buyer Types,146545.0
+P51,Mallow,6,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,161000.0
+P51,Mallow,6,2010,Existing,Household Buyer - Former Owner-Occupier,104625.0
+P51,Mallow,6,2010,Existing,Household Buyer - Non-Occupier,227500.0
+P51,Mallow,7,2010,All Dwelling Statuses,All Buyer Types,169926.0
+P51,Mallow,7,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180902.0
+P51,Mallow,7,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,208285.0
+P51,Mallow,7,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,74000.0
+P51,Mallow,7,2010,New,All Buyer Types,237648.0
+P51,Mallow,7,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,267157.0
+P51,Mallow,7,2010,New,Household Buyer - Former Owner-Occupier,208140.0
+P51,Mallow,7,2010,New,Household Buyer - Non-Occupier,
+P51,Mallow,7,2010,Existing,All Buyer Types,151867.0
+P51,Mallow,7,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,146400.0
+P51,Mallow,7,2010,Existing,Household Buyer - Former Owner-Occupier,208333.0
+P51,Mallow,7,2010,Existing,Household Buyer - Non-Occupier,74000.0
+P51,Mallow,8,2010,All Dwelling Statuses,All Buyer Types,132570.0
+P51,Mallow,8,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,127651.0
+P51,Mallow,8,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,127600.0
+P51,Mallow,8,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,162213.0
+P51,Mallow,8,2010,New,All Buyer Types,225740.0
+P51,Mallow,8,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,162055.0
+P51,Mallow,8,2010,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,8,2010,New,Household Buyer - Non-Occupier,289425.0
+P51,Mallow,8,2010,Existing,All Buyer Types,117042.0
+P51,Mallow,8,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,121917.0
+P51,Mallow,8,2010,Existing,Household Buyer - Former Owner-Occupier,127600.0
+P51,Mallow,8,2010,Existing,Household Buyer - Non-Occupier,35000.0
+P51,Mallow,9,2010,All Dwelling Statuses,All Buyer Types,182313.0
+P51,Mallow,9,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,195308.0
+P51,Mallow,9,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,160942.0
+P51,Mallow,9,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,77500.0
+P51,Mallow,9,2010,New,All Buyer Types,219032.0
+P51,Mallow,9,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,219434.0
+P51,Mallow,9,2010,New,Household Buyer - Former Owner-Occupier,217825.0
+P51,Mallow,9,2010,New,Household Buyer - Non-Occupier,
+P51,Mallow,9,2010,Existing,All Buyer Types,171015.0
+P51,Mallow,9,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,188070.0
+P51,Mallow,9,2010,Existing,Household Buyer - Former Owner-Occupier,132500.0
+P51,Mallow,9,2010,Existing,Household Buyer - Non-Occupier,77500.0
+P51,Mallow,10,2010,All Dwelling Statuses,All Buyer Types,180514.0
+P51,Mallow,10,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,198143.0
+P51,Mallow,10,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,206081.0
+P51,Mallow,10,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,104700.0
+P51,Mallow,10,2010,New,All Buyer Types,235802.0
+P51,Mallow,10,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,157500.0
+P51,Mallow,10,2010,New,Household Buyer - Former Owner-Occupier,274953.0
+P51,Mallow,10,2010,New,Household Buyer - Non-Occupier,
+P51,Mallow,10,2010,Existing,All Buyer Types,159781.0
+P51,Mallow,10,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,214400.0
+P51,Mallow,10,2010,Existing,Household Buyer - Former Owner-Occupier,160167.0
+P51,Mallow,10,2010,Existing,Household Buyer - Non-Occupier,104700.0
+P51,Mallow,11,2010,All Dwelling Statuses,All Buyer Types,156323.0
+P51,Mallow,11,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150361.0
+P51,Mallow,11,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,179308.0
+P51,Mallow,11,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,88657.0
+P51,Mallow,11,2010,New,All Buyer Types,198908.0
+P51,Mallow,11,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,185567.0
+P51,Mallow,11,2010,New,Household Buyer - Former Owner-Occupier,275388.0
+P51,Mallow,11,2010,New,Household Buyer - Non-Occupier,99313.0
+P51,Mallow,11,2010,Existing,All Buyer Types,137692.0
+P51,Mallow,11,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,132759.0
+P51,Mallow,11,2010,Existing,Household Buyer - Former Owner-Occupier,151857.0
+P51,Mallow,11,2010,Existing,Household Buyer - Non-Occupier,78000.0
+P51,Mallow,12,2010,All Dwelling Statuses,All Buyer Types,123000.0
+P51,Mallow,12,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,152357.0
+P51,Mallow,12,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,112083.0
+P51,Mallow,12,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,88000.0
+P51,Mallow,12,2010,New,All Buyer Types,160000.0
+P51,Mallow,12,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+P51,Mallow,12,2010,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,12,2010,New,Household Buyer - Non-Occupier,
+P51,Mallow,12,2010,Existing,All Buyer Types,120688.0
+P51,Mallow,12,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,151083.0
+P51,Mallow,12,2010,Existing,Household Buyer - Former Owner-Occupier,112083.0
+P51,Mallow,12,2010,Existing,Household Buyer - Non-Occupier,88000.0
+P51,Mallow,1,2011,All Dwelling Statuses,All Buyer Types,145379.0
+P51,Mallow,1,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,120750.0
+P51,Mallow,1,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,228558.0
+P51,Mallow,1,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,107625.0
+P51,Mallow,1,2011,New,All Buyer Types,208918.0
+P51,Mallow,1,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,149999.0
+P51,Mallow,1,2011,New,Household Buyer - Former Owner-Occupier,228558.0
+P51,Mallow,1,2011,New,Household Buyer - Non-Occupier,
+P51,Mallow,1,2011,Existing,All Buyer Types,109071.0
+P51,Mallow,1,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,111000.0
+P51,Mallow,1,2011,Existing,Household Buyer - Former Owner-Occupier,
+P51,Mallow,1,2011,Existing,Household Buyer - Non-Occupier,107625.0
+P51,Mallow,2,2011,All Dwelling Statuses,All Buyer Types,182537.0
+P51,Mallow,2,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,188996.0
+P51,Mallow,2,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,240369.0
+P51,Mallow,2,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,47500.0
+P51,Mallow,2,2011,New,All Buyer Types,232430.0
+P51,Mallow,2,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,160672.0
+P51,Mallow,2,2011,New,Household Buyer - Former Owner-Occupier,304188.0
+P51,Mallow,2,2011,New,Household Buyer - Non-Occupier,
+P51,Mallow,2,2011,Existing,All Buyer Types,157591.0
+P51,Mallow,2,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,203158.0
+P51,Mallow,2,2011,Existing,Household Buyer - Former Owner-Occupier,176550.0
+P51,Mallow,2,2011,Existing,Household Buyer - Non-Occupier,47500.0
+P51,Mallow,3,2011,All Dwelling Statuses,All Buyer Types,170839.0
+P51,Mallow,3,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,188108.0
+P51,Mallow,3,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,163438.0
+P51,Mallow,3,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P51,Mallow,3,2011,New,All Buyer Types,180442.0
+P51,Mallow,3,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,190663.0
+P51,Mallow,3,2011,New,Household Buyer - Former Owner-Occupier,160000.0
+P51,Mallow,3,2011,New,Household Buyer - Non-Occupier,
+P51,Mallow,3,2011,Existing,All Buyer Types,166724.0
+P51,Mallow,3,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,183000.0
+P51,Mallow,3,2011,Existing,Household Buyer - Former Owner-Occupier,164011.0
+P51,Mallow,3,2011,Existing,Household Buyer - Non-Occupier,
+P51,Mallow,4,2011,All Dwelling Statuses,All Buyer Types,178936.0
+P51,Mallow,4,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,224767.0
+P51,Mallow,4,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,161667.0
+P51,Mallow,4,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,162000.0
+P51,Mallow,4,2011,New,All Buyer Types,204300.0
+P51,Mallow,4,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,204300.0
+P51,Mallow,4,2011,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,4,2011,New,Household Buyer - Non-Occupier,
+P51,Mallow,4,2011,Existing,All Buyer Types,176400.0
+P51,Mallow,4,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,235000.0
+P51,Mallow,4,2011,Existing,Household Buyer - Former Owner-Occupier,161667.0
+P51,Mallow,4,2011,Existing,Household Buyer - Non-Occupier,162000.0
+P51,Mallow,5,2011,All Dwelling Statuses,All Buyer Types,105029.0
+P51,Mallow,5,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,106417.0
+P51,Mallow,5,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,108200.0
+P51,Mallow,5,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,65000.0
+P51,Mallow,5,2011,New,All Buyer Types,
+P51,Mallow,5,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,5,2011,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,5,2011,New,Household Buyer - Non-Occupier,
+P51,Mallow,5,2011,Existing,All Buyer Types,105029.0
+P51,Mallow,5,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,106417.0
+P51,Mallow,5,2011,Existing,Household Buyer - Former Owner-Occupier,108200.0
+P51,Mallow,5,2011,Existing,Household Buyer - Non-Occupier,65000.0
+P51,Mallow,6,2011,All Dwelling Statuses,All Buyer Types,165016.0
+P51,Mallow,6,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,159730.0
+P51,Mallow,6,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,162725.0
+P51,Mallow,6,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,183958.0
+P51,Mallow,6,2011,New,All Buyer Types,194592.0
+P51,Mallow,6,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,205560.0
+P51,Mallow,6,2011,New,Household Buyer - Former Owner-Occupier,139750.0
+P51,Mallow,6,2011,New,Household Buyer - Non-Occupier,
+P51,Mallow,6,2011,Existing,All Buyer Types,155157.0
+P51,Mallow,6,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,113900.0
+P51,Mallow,6,2011,Existing,Household Buyer - Former Owner-Occupier,165278.0
+P51,Mallow,6,2011,Existing,Household Buyer - Non-Occupier,183958.0
+P51,Mallow,7,2011,All Dwelling Statuses,All Buyer Types,136219.0
+P51,Mallow,7,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,110250.0
+P51,Mallow,7,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,183725.0
+P51,Mallow,7,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,91667.0
+P51,Mallow,7,2011,New,All Buyer Types,184313.0
+P51,Mallow,7,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,7,2011,New,Household Buyer - Former Owner-Occupier,184313.0
+P51,Mallow,7,2011,New,Household Buyer - Non-Occupier,
+P51,Mallow,7,2011,Existing,All Buyer Types,126600.0
+P51,Mallow,7,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,110250.0
+P51,Mallow,7,2011,Existing,Household Buyer - Former Owner-Occupier,183333.0
+P51,Mallow,7,2011,Existing,Household Buyer - Non-Occupier,91667.0
+P51,Mallow,8,2011,All Dwelling Statuses,All Buyer Types,167222.0
+P51,Mallow,8,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,146000.0
+P51,Mallow,8,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,191500.0
+P51,Mallow,8,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,149000.0
+P51,Mallow,8,2011,New,All Buyer Types,
+P51,Mallow,8,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,8,2011,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,8,2011,New,Household Buyer - Non-Occupier,
+P51,Mallow,8,2011,Existing,All Buyer Types,167222.0
+P51,Mallow,8,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,146000.0
+P51,Mallow,8,2011,Existing,Household Buyer - Former Owner-Occupier,191500.0
+P51,Mallow,8,2011,Existing,Household Buyer - Non-Occupier,149000.0
+P51,Mallow,9,2011,All Dwelling Statuses,All Buyer Types,137628.0
+P51,Mallow,9,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,132216.0
+P51,Mallow,9,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,158538.0
+P51,Mallow,9,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,112292.0
+P51,Mallow,9,2011,New,All Buyer Types,199862.0
+P51,Mallow,9,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,141308.0
+P51,Mallow,9,2011,New,Household Buyer - Former Owner-Occupier,258133.0
+P51,Mallow,9,2011,New,Household Buyer - Non-Occupier,141875.0
+P51,Mallow,9,2011,Existing,All Buyer Types,124526.0
+P51,Mallow,9,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,131458.0
+P51,Mallow,9,2011,Existing,Household Buyer - Former Owner-Occupier,118700.0
+P51,Mallow,9,2011,Existing,Household Buyer - Non-Occupier,97500.0
+P51,Mallow,10,2011,All Dwelling Statuses,All Buyer Types,143375.0
+P51,Mallow,10,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,185738.0
+P51,Mallow,10,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,145266.0
+P51,Mallow,10,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,85000.0
+P51,Mallow,10,2011,New,All Buyer Types,241875.0
+P51,Mallow,10,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,192950.0
+P51,Mallow,10,2011,New,Household Buyer - Former Owner-Occupier,290799.0
+P51,Mallow,10,2011,New,Household Buyer - Non-Occupier,
+P51,Mallow,10,2011,Existing,All Buyer Types,118750.0
+P51,Mallow,10,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,183333.0
+P51,Mallow,10,2011,Existing,Household Buyer - Former Owner-Occupier,72500.0
+P51,Mallow,10,2011,Existing,Household Buyer - Non-Occupier,85000.0
+P51,Mallow,11,2011,All Dwelling Statuses,All Buyer Types,103480.0
+P51,Mallow,11,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,120267.0
+P51,Mallow,11,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,123333.0
+P51,Mallow,11,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,76000.0
+P51,Mallow,11,2011,New,All Buyer Types,111650.0
+P51,Mallow,11,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,90800.0
+P51,Mallow,11,2011,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,11,2011,New,Household Buyer - Non-Occupier,132500.0
+P51,Mallow,11,2011,Existing,All Buyer Types,101438.0
+P51,Mallow,11,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,135000.0
+P51,Mallow,11,2011,Existing,Household Buyer - Former Owner-Occupier,123333.0
+P51,Mallow,11,2011,Existing,Household Buyer - Non-Occupier,57167.0
+P51,Mallow,12,2011,All Dwelling Statuses,All Buyer Types,104679.0
+P51,Mallow,12,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115306.0
+P51,Mallow,12,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,139400.0
+P51,Mallow,12,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,50000.0
+P51,Mallow,12,2011,New,All Buyer Types,132417.0
+P51,Mallow,12,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,79450.0
+P51,Mallow,12,2011,New,Household Buyer - Former Owner-Occupier,158900.0
+P51,Mallow,12,2011,New,Household Buyer - Non-Occupier,
+P51,Mallow,12,2011,Existing,All Buyer Types,100056.0
+P51,Mallow,12,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,120429.0
+P51,Mallow,12,2011,Existing,Household Buyer - Former Owner-Occupier,131600.0
+P51,Mallow,12,2011,Existing,Household Buyer - Non-Occupier,50000.0
+P51,Mallow,1,2012,All Dwelling Statuses,All Buyer Types,125160.0
+P51,Mallow,1,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,65000.0
+P51,Mallow,1,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,143547.0
+P51,Mallow,1,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,75000.0
+P51,Mallow,1,2012,New,All Buyer Types,
+P51,Mallow,1,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,1,2012,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,1,2012,New,Household Buyer - Non-Occupier,
+P51,Mallow,1,2012,Existing,All Buyer Types,125160.0
+P51,Mallow,1,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,65000.0
+P51,Mallow,1,2012,Existing,Household Buyer - Former Owner-Occupier,143547.0
+P51,Mallow,1,2012,Existing,Household Buyer - Non-Occupier,75000.0
+P51,Mallow,2,2012,All Dwelling Statuses,All Buyer Types,107257.0
+P51,Mallow,2,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,98000.0
+P51,Mallow,2,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,126529.0
+P51,Mallow,2,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,68525.0
+P51,Mallow,2,2012,New,All Buyer Types,105120.0
+P51,Mallow,2,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,2,2012,New,Household Buyer - Former Owner-Occupier,133760.0
+P51,Mallow,2,2012,New,Household Buyer - Non-Occupier,90800.0
+P51,Mallow,2,2012,Existing,All Buyer Types,107792.0
+P51,Mallow,2,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,98000.0
+P51,Mallow,2,2012,Existing,Household Buyer - Former Owner-Occupier,125625.0
+P51,Mallow,2,2012,Existing,Household Buyer - Non-Occupier,46250.0
+P51,Mallow,3,2012,All Dwelling Statuses,All Buyer Types,109956.0
+P51,Mallow,3,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,121793.0
+P51,Mallow,3,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,108008.0
+P51,Mallow,3,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,76320.0
+P51,Mallow,3,2012,New,All Buyer Types,111798.0
+P51,Mallow,3,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,124850.0
+P51,Mallow,3,2012,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,3,2012,New,Household Buyer - Non-Occupier,72640.0
+P51,Mallow,3,2012,Existing,All Buyer Types,109390.0
+P51,Mallow,3,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,119500.0
+P51,Mallow,3,2012,Existing,Household Buyer - Former Owner-Occupier,108008.0
+P51,Mallow,3,2012,Existing,Household Buyer - Non-Occupier,80000.0
+P51,Mallow,4,2012,All Dwelling Statuses,All Buyer Types,112497.0
+P51,Mallow,4,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,119743.0
+P51,Mallow,4,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,139354.0
+P51,Mallow,4,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,70125.0
+P51,Mallow,4,2012,New,All Buyer Types,139983.0
+P51,Mallow,4,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,249700.0
+P51,Mallow,4,2012,New,Household Buyer - Former Owner-Occupier,85125.0
+P51,Mallow,4,2012,New,Household Buyer - Non-Occupier,85125.0
+P51,Mallow,4,2012,Existing,All Buyer Types,107000.0
+P51,Mallow,4,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,98083.0
+P51,Mallow,4,2012,Existing,Household Buyer - Former Owner-Occupier,150200.0
+P51,Mallow,4,2012,Existing,Household Buyer - Non-Occupier,66375.0
+P51,Mallow,5,2012,All Dwelling Statuses,All Buyer Types,110681.0
+P51,Mallow,5,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,52667.0
+P51,Mallow,5,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,147379.0
+P51,Mallow,5,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,70833.0
+P51,Mallow,5,2012,New,All Buyer Types,286531.0
+P51,Mallow,5,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,5,2012,New,Household Buyer - Former Owner-Occupier,286531.0
+P51,Mallow,5,2012,New,Household Buyer - Non-Occupier,
+P51,Mallow,5,2012,Existing,All Buyer Types,97154.0
+P51,Mallow,5,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,52667.0
+P51,Mallow,5,2012,Existing,Household Buyer - Former Owner-Occupier,127500.0
+P51,Mallow,5,2012,Existing,Household Buyer - Non-Occupier,70833.0
+P51,Mallow,6,2012,All Dwelling Statuses,All Buyer Types,144196.0
+P51,Mallow,6,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+P51,Mallow,6,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,139833.0
+P51,Mallow,6,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,133023.0
+P51,Mallow,6,2012,New,All Buyer Types,76045.0
+P51,Mallow,6,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,6,2012,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,6,2012,New,Household Buyer - Non-Occupier,76045.0
+P51,Mallow,6,2012,Existing,All Buyer Types,149875.0
+P51,Mallow,6,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+P51,Mallow,6,2012,Existing,Household Buyer - Former Owner-Occupier,139833.0
+P51,Mallow,6,2012,Existing,Household Buyer - Non-Occupier,190000.0
+P51,Mallow,7,2012,All Dwelling Statuses,All Buyer Types,86623.0
+P51,Mallow,7,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,119592.0
+P51,Mallow,7,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,78790.0
+P51,Mallow,7,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,76667.0
+P51,Mallow,7,2012,New,All Buyer Types,94408.0
+P51,Mallow,7,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,73775.0
+P51,Mallow,7,2012,New,Household Buyer - Former Owner-Occupier,104725.0
+P51,Mallow,7,2012,New,Household Buyer - Non-Occupier,
+P51,Mallow,7,2012,Existing,All Buyer Types,84500.0
+P51,Mallow,7,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,142500.0
+P51,Mallow,7,2012,Existing,Household Buyer - Former Owner-Occupier,61500.0
+P51,Mallow,7,2012,Existing,Household Buyer - Non-Occupier,76667.0
+P51,Mallow,8,2012,All Dwelling Statuses,All Buyer Types,122415.0
+P51,Mallow,8,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,130662.0
+P51,Mallow,8,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,136562.0
+P51,Mallow,8,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,81750.0
+P51,Mallow,8,2012,New,All Buyer Types,147117.0
+P51,Mallow,8,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,109235.0
+P51,Mallow,8,2012,New,Household Buyer - Former Owner-Occupier,184999.0
+P51,Mallow,8,2012,New,Household Buyer - Non-Occupier,
+P51,Mallow,8,2012,Existing,All Buyer Types,115357.0
+P51,Mallow,8,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,141375.0
+P51,Mallow,8,2012,Existing,Household Buyer - Former Owner-Occupier,120417.0
+P51,Mallow,8,2012,Existing,Household Buyer - Non-Occupier,81750.0
+P51,Mallow,9,2012,All Dwelling Statuses,All Buyer Types,145742.0
+P51,Mallow,9,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,129486.0
+P51,Mallow,9,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,200242.0
+P51,Mallow,9,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,70400.0
+P51,Mallow,9,2012,New,All Buyer Types,178700.0
+P51,Mallow,9,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,272400.0
+P51,Mallow,9,2012,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,9,2012,New,Household Buyer - Non-Occupier,84999.0
+P51,Mallow,9,2012,Existing,All Buyer Types,142273.0
+P51,Mallow,9,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,105667.0
+P51,Mallow,9,2012,Existing,Household Buyer - Former Owner-Occupier,200242.0
+P51,Mallow,9,2012,Existing,Household Buyer - Non-Occupier,66750.0
+P51,Mallow,10,2012,All Dwelling Statuses,All Buyer Types,118787.0
+P51,Mallow,10,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,113250.0
+P51,Mallow,10,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,136569.0
+P51,Mallow,10,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,82104.0
+P51,Mallow,10,2012,New,All Buyer Types,114351.0
+P51,Mallow,10,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,113500.0
+P51,Mallow,10,2012,New,Household Buyer - Former Owner-Occupier,129390.0
+P51,Mallow,10,2012,New,Household Buyer - Non-Occupier,85125.0
+P51,Mallow,10,2012,Existing,All Buyer Types,119831.0
+P51,Mallow,10,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,113000.0
+P51,Mallow,10,2012,Existing,Household Buyer - Former Owner-Occupier,137875.0
+P51,Mallow,10,2012,Existing,Household Buyer - Non-Occupier,81500.0
+P51,Mallow,11,2012,All Dwelling Statuses,All Buyer Types,107125.0
+P51,Mallow,11,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,111179.0
+P51,Mallow,11,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,67000.0
+P51,Mallow,11,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,128333.0
+P51,Mallow,11,2012,New,All Buyer Types,
+P51,Mallow,11,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,11,2012,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,11,2012,New,Household Buyer - Non-Occupier,
+P51,Mallow,11,2012,Existing,All Buyer Types,107125.0
+P51,Mallow,11,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,111179.0
+P51,Mallow,11,2012,Existing,Household Buyer - Former Owner-Occupier,67000.0
+P51,Mallow,11,2012,Existing,Household Buyer - Non-Occupier,128333.0
+P51,Mallow,12,2012,All Dwelling Statuses,All Buyer Types,160210.0
+P51,Mallow,12,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,174667.0
+P51,Mallow,12,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,175633.0
+P51,Mallow,12,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,59000.0
+P51,Mallow,12,2012,New,All Buyer Types,141300.0
+P51,Mallow,12,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,123000.0
+P51,Mallow,12,2012,New,Household Buyer - Former Owner-Occupier,168750.0
+P51,Mallow,12,2012,New,Household Buyer - Non-Occupier,
+P51,Mallow,12,2012,Existing,All Buyer Types,163846.0
+P51,Mallow,12,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,191889.0
+P51,Mallow,12,2012,Existing,Household Buyer - Former Owner-Occupier,176692.0
+P51,Mallow,12,2012,Existing,Household Buyer - Non-Occupier,59000.0
+P51,Mallow,1,2013,All Dwelling Statuses,All Buyer Types,121510.0
+P51,Mallow,1,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,85532.0
+P51,Mallow,1,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178300.0
+P51,Mallow,1,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,86500.0
+P51,Mallow,1,2013,New,All Buyer Types,247065.0
+P51,Mallow,1,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,147129.0
+P51,Mallow,1,2013,New,Household Buyer - Former Owner-Occupier,347000.0
+P51,Mallow,1,2013,New,Household Buyer - Non-Occupier,
+P51,Mallow,1,2013,Existing,All Buyer Types,98682.0
+P51,Mallow,1,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,65000.0
+P51,Mallow,1,2013,Existing,Household Buyer - Former Owner-Occupier,136125.0
+P51,Mallow,1,2013,Existing,Household Buyer - Non-Occupier,86500.0
+P51,Mallow,2,2013,All Dwelling Statuses,All Buyer Types,116265.0
+P51,Mallow,2,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,76290.0
+P51,Mallow,2,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,151071.0
+P51,Mallow,2,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,72500.0
+P51,Mallow,2,2013,New,All Buyer Types,79450.0
+P51,Mallow,2,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,79450.0
+P51,Mallow,2,2013,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,2,2013,New,Household Buyer - Non-Occupier,
+P51,Mallow,2,2013,Existing,All Buyer Types,119333.0
+P51,Mallow,2,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,75500.0
+P51,Mallow,2,2013,Existing,Household Buyer - Former Owner-Occupier,151071.0
+P51,Mallow,2,2013,Existing,Household Buyer - Non-Occupier,72500.0
+P51,Mallow,3,2013,All Dwelling Statuses,All Buyer Types,115684.0
+P51,Mallow,3,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,132667.0
+P51,Mallow,3,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,134000.0
+P51,Mallow,3,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,76667.0
+P51,Mallow,3,2013,New,All Buyer Types,
+P51,Mallow,3,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,3,2013,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,3,2013,New,Household Buyer - Non-Occupier,
+P51,Mallow,3,2013,Existing,All Buyer Types,115684.0
+P51,Mallow,3,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,132667.0
+P51,Mallow,3,2013,Existing,Household Buyer - Former Owner-Occupier,134000.0
+P51,Mallow,3,2013,Existing,Household Buyer - Non-Occupier,76667.0
+P51,Mallow,4,2013,All Dwelling Statuses,All Buyer Types,96271.0
+P51,Mallow,4,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,79830.0
+P51,Mallow,4,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,116000.0
+P51,Mallow,4,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P51,Mallow,4,2013,New,All Buyer Types,102150.0
+P51,Mallow,4,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,102150.0
+P51,Mallow,4,2013,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,4,2013,New,Household Buyer - Non-Occupier,
+P51,Mallow,4,2013,Existing,All Buyer Types,95683.0
+P51,Mallow,4,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,75366.0
+P51,Mallow,4,2013,Existing,Household Buyer - Former Owner-Occupier,116000.0
+P51,Mallow,4,2013,Existing,Household Buyer - Non-Occupier,
+P51,Mallow,5,2013,All Dwelling Statuses,All Buyer Types,101426.0
+P51,Mallow,5,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,113736.0
+P51,Mallow,5,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,98206.0
+P51,Mallow,5,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,70000.0
+P51,Mallow,5,2013,New,All Buyer Types,102150.0
+P51,Mallow,5,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,102150.0
+P51,Mallow,5,2013,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,5,2013,New,Household Buyer - Non-Occupier,
+P51,Mallow,5,2013,Existing,All Buyer Types,101396.0
+P51,Mallow,5,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115667.0
+P51,Mallow,5,2013,Existing,Household Buyer - Former Owner-Occupier,98206.0
+P51,Mallow,5,2013,Existing,Household Buyer - Non-Occupier,70000.0
+P51,Mallow,6,2013,All Dwelling Statuses,All Buyer Types,107898.0
+P51,Mallow,6,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,88119.0
+P51,Mallow,6,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,116875.0
+P51,Mallow,6,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,129500.0
+P51,Mallow,6,2013,New,All Buyer Types,136200.0
+P51,Mallow,6,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,136200.0
+P51,Mallow,6,2013,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,6,2013,New,Household Buyer - Non-Occupier,
+P51,Mallow,6,2013,Existing,All Buyer Types,106408.0
+P51,Mallow,6,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,81250.0
+P51,Mallow,6,2013,Existing,Household Buyer - Former Owner-Occupier,116875.0
+P51,Mallow,6,2013,Existing,Household Buyer - Non-Occupier,129500.0
+P51,Mallow,7,2013,All Dwelling Statuses,All Buyer Types,109646.0
+P51,Mallow,7,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,112200.0
+P51,Mallow,7,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,127071.0
+P51,Mallow,7,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,66858.0
+P51,Mallow,7,2013,New,All Buyer Types,142325.0
+P51,Mallow,7,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,7,2013,New,Household Buyer - Former Owner-Occupier,182500.0
+P51,Mallow,7,2013,New,Household Buyer - Non-Occupier,102150.0
+P51,Mallow,7,2013,Existing,All Buyer Types,106804.0
+P51,Mallow,7,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,112200.0
+P51,Mallow,7,2013,Existing,Household Buyer - Former Owner-Occupier,122808.0
+P51,Mallow,7,2013,Existing,Household Buyer - Non-Occupier,59800.0
+P51,Mallow,8,2013,All Dwelling Statuses,All Buyer Types,100526.0
+P51,Mallow,8,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,106375.0
+P51,Mallow,8,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,97900.0
+P51,Mallow,8,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+P51,Mallow,8,2013,New,All Buyer Types,
+P51,Mallow,8,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,8,2013,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,8,2013,New,Household Buyer - Non-Occupier,
+P51,Mallow,8,2013,Existing,All Buyer Types,100526.0
+P51,Mallow,8,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,106375.0
+P51,Mallow,8,2013,Existing,Household Buyer - Former Owner-Occupier,97900.0
+P51,Mallow,8,2013,Existing,Household Buyer - Non-Occupier,80000.0
+P51,Mallow,9,2013,All Dwelling Statuses,All Buyer Types,100261.0
+P51,Mallow,9,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,87745.0
+P51,Mallow,9,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,121500.0
+P51,Mallow,9,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,106560.0
+P51,Mallow,9,2013,New,All Buyer Types,90933.0
+P51,Mallow,9,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+P51,Mallow,9,2013,New,Household Buyer - Former Owner-Occupier,82000.0
+P51,Mallow,9,2013,New,Household Buyer - Non-Occupier,90800.0
+P51,Mallow,9,2013,Existing,All Buyer Types,101816.0
+P51,Mallow,9,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,86519.0
+P51,Mallow,9,2013,Existing,Household Buyer - Former Owner-Occupier,131375.0
+P51,Mallow,9,2013,Existing,Household Buyer - Non-Occupier,110500.0
+P51,Mallow,10,2013,All Dwelling Statuses,All Buyer Types,126083.0
+P51,Mallow,10,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,126676.0
+P51,Mallow,10,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,137258.0
+P51,Mallow,10,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,80200.0
+P51,Mallow,10,2013,New,All Buyer Types,84125.0
+P51,Mallow,10,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,98000.0
+P51,Mallow,10,2013,New,Household Buyer - Former Owner-Occupier,88500.0
+P51,Mallow,10,2013,New,Household Buyer - Non-Occupier,75000.0
+P51,Mallow,10,2013,Existing,All Buyer Types,131497.0
+P51,Mallow,10,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,129862.0
+P51,Mallow,10,2013,Existing,Household Buyer - Former Owner-Occupier,139825.0
+P51,Mallow,10,2013,Existing,Household Buyer - Non-Occupier,83667.0
+P51,Mallow,11,2013,All Dwelling Statuses,All Buyer Types,88021.0
+P51,Mallow,11,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,94444.0
+P51,Mallow,11,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,92556.0
+P51,Mallow,11,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,71583.0
+P51,Mallow,11,2013,New,All Buyer Types,125000.0
+P51,Mallow,11,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,11,2013,New,Household Buyer - Former Owner-Occupier,125000.0
+P51,Mallow,11,2013,New,Household Buyer - Non-Occupier,
+P51,Mallow,11,2013,Existing,All Buyer Types,86413.0
+P51,Mallow,11,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,94444.0
+P51,Mallow,11,2013,Existing,Household Buyer - Former Owner-Occupier,88500.0
+P51,Mallow,11,2013,Existing,Household Buyer - Non-Occupier,71583.0
+P51,Mallow,12,2013,All Dwelling Statuses,All Buyer Types,133226.0
+P51,Mallow,12,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,153970.0
+P51,Mallow,12,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,115775.0
+P51,Mallow,12,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,133719.0
+P51,Mallow,12,2013,New,All Buyer Types,195788.0
+P51,Mallow,12,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,249700.0
+P51,Mallow,12,2013,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,12,2013,New,Household Buyer - Non-Occupier,141875.0
+P51,Mallow,12,2013,Existing,All Buyer Types,128013.0
+P51,Mallow,12,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,143333.0
+P51,Mallow,12,2013,Existing,Household Buyer - Former Owner-Occupier,115775.0
+P51,Mallow,12,2013,Existing,Household Buyer - Non-Occupier,131000.0
+P51,Mallow,1,2014,All Dwelling Statuses,All Buyer Types,109723.0
+P51,Mallow,1,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,151983.0
+P51,Mallow,1,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,77417.0
+P51,Mallow,1,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,50000.0
+P51,Mallow,1,2014,New,All Buyer Types,192950.0
+P51,Mallow,1,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,192950.0
+P51,Mallow,1,2014,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,1,2014,New,Household Buyer - Non-Occupier,
+P51,Mallow,1,2014,Existing,All Buyer Types,94591.0
+P51,Mallow,1,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,131500.0
+P51,Mallow,1,2014,Existing,Household Buyer - Former Owner-Occupier,77417.0
+P51,Mallow,1,2014,Existing,Household Buyer - Non-Occupier,50000.0
+P51,Mallow,2,2014,All Dwelling Statuses,All Buyer Types,104073.0
+P51,Mallow,2,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,118083.0
+P51,Mallow,2,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,123520.0
+P51,Mallow,2,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,58750.0
+P51,Mallow,2,2014,New,All Buyer Types,
+P51,Mallow,2,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,2,2014,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,2,2014,New,Household Buyer - Non-Occupier,
+P51,Mallow,2,2014,Existing,All Buyer Types,104073.0
+P51,Mallow,2,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,118083.0
+P51,Mallow,2,2014,Existing,Household Buyer - Former Owner-Occupier,123520.0
+P51,Mallow,2,2014,Existing,Household Buyer - Non-Occupier,58750.0
+P51,Mallow,3,2014,All Dwelling Statuses,All Buyer Types,141544.0
+P51,Mallow,3,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,129120.0
+P51,Mallow,3,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,145191.0
+P51,Mallow,3,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,158755.0
+P51,Mallow,3,2014,New,All Buyer Types,141743.0
+P51,Mallow,3,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,84359.0
+P51,Mallow,3,2014,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,3,2014,New,Household Buyer - Non-Occupier,256510.0
+P51,Mallow,3,2014,Existing,All Buyer Types,141506.0
+P51,Mallow,3,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,151500.0
+P51,Mallow,3,2014,Existing,Household Buyer - Former Owner-Occupier,145191.0
+P51,Mallow,3,2014,Existing,Household Buyer - Non-Occupier,61000.0
+P51,Mallow,4,2014,All Dwelling Statuses,All Buyer Types,100944.0
+P51,Mallow,4,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100950.0
+P51,Mallow,4,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,103846.0
+P51,Mallow,4,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,91500.0
+P51,Mallow,4,2014,New,All Buyer Types,
+P51,Mallow,4,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,4,2014,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,4,2014,New,Household Buyer - Non-Occupier,
+P51,Mallow,4,2014,Existing,All Buyer Types,100944.0
+P51,Mallow,4,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100950.0
+P51,Mallow,4,2014,Existing,Household Buyer - Former Owner-Occupier,103846.0
+P51,Mallow,4,2014,Existing,Household Buyer - Non-Occupier,91500.0
+P51,Mallow,5,2014,All Dwelling Statuses,All Buyer Types,91618.0
+P51,Mallow,5,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,104639.0
+P51,Mallow,5,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,84556.0
+P51,Mallow,5,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,38000.0
+P51,Mallow,5,2014,New,All Buyer Types,
+P51,Mallow,5,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,5,2014,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,5,2014,New,Household Buyer - Non-Occupier,
+P51,Mallow,5,2014,Existing,All Buyer Types,91618.0
+P51,Mallow,5,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,104639.0
+P51,Mallow,5,2014,Existing,Household Buyer - Former Owner-Occupier,84556.0
+P51,Mallow,5,2014,Existing,Household Buyer - Non-Occupier,38000.0
+P51,Mallow,6,2014,All Dwelling Statuses,All Buyer Types,96647.0
+P51,Mallow,6,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,98500.0
+P51,Mallow,6,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,102067.0
+P51,Mallow,6,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,89375.0
+P51,Mallow,6,2014,New,All Buyer Types,111885.0
+P51,Mallow,6,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,93000.0
+P51,Mallow,6,2014,New,Household Buyer - Former Owner-Occupier,126269.0
+P51,Mallow,6,2014,New,Household Buyer - Non-Occupier,102000.0
+P51,Mallow,6,2014,Existing,All Buyer Types,93600.0
+P51,Mallow,6,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,99286.0
+P51,Mallow,6,2014,Existing,Household Buyer - Former Owner-Occupier,94000.0
+P51,Mallow,6,2014,Existing,Household Buyer - Non-Occupier,87571.0
+P51,Mallow,7,2014,All Dwelling Statuses,All Buyer Types,105250.0
+P51,Mallow,7,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,140008.0
+P51,Mallow,7,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,111451.0
+P51,Mallow,7,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,67250.0
+P51,Mallow,7,2014,New,All Buyer Types,106463.0
+P51,Mallow,7,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,115013.0
+P51,Mallow,7,2014,New,Household Buyer - Former Owner-Occupier,93638.0
+P51,Mallow,7,2014,New,Household Buyer - Non-Occupier,
+P51,Mallow,7,2014,Existing,All Buyer Types,105041.0
+P51,Mallow,7,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,177500.0
+P51,Mallow,7,2014,Existing,Household Buyer - Former Owner-Occupier,113326.0
+P51,Mallow,7,2014,Existing,Household Buyer - Non-Occupier,67250.0
+P51,Mallow,8,2014,All Dwelling Statuses,All Buyer Types,94312.0
+P51,Mallow,8,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,151000.0
+P51,Mallow,8,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,92392.0
+P51,Mallow,8,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,79700.0
+P51,Mallow,8,2014,New,All Buyer Types,144869.0
+P51,Mallow,8,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,185000.0
+P51,Mallow,8,2014,New,Household Buyer - Former Owner-Occupier,104738.0
+P51,Mallow,8,2014,New,Household Buyer - Non-Occupier,
+P51,Mallow,8,2014,Existing,All Buyer Types,90423.0
+P51,Mallow,8,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,117000.0
+P51,Mallow,8,2014,Existing,Household Buyer - Former Owner-Occupier,91775.0
+P51,Mallow,8,2014,Existing,Household Buyer - Non-Occupier,79700.0
+P51,Mallow,9,2014,All Dwelling Statuses,All Buyer Types,109009.0
+P51,Mallow,9,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,111727.0
+P51,Mallow,9,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,120012.0
+P51,Mallow,9,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,84903.0
+P51,Mallow,9,2014,New,All Buyer Types,108771.0
+P51,Mallow,9,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,9,2014,New,Household Buyer - Former Owner-Occupier,108771.0
+P51,Mallow,9,2014,New,Household Buyer - Non-Occupier,
+P51,Mallow,9,2014,Existing,All Buyer Types,109030.0
+P51,Mallow,9,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,111727.0
+P51,Mallow,9,2014,Existing,Household Buyer - Former Owner-Occupier,122421.0
+P51,Mallow,9,2014,Existing,Household Buyer - Non-Occupier,84903.0
+P51,Mallow,10,2014,All Dwelling Statuses,All Buyer Types,120633.0
+P51,Mallow,10,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,110533.0
+P51,Mallow,10,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,131696.0
+P51,Mallow,10,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,102667.0
+P51,Mallow,10,2014,New,All Buyer Types,86828.0
+P51,Mallow,10,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,86828.0
+P51,Mallow,10,2014,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,10,2014,New,Household Buyer - Non-Occupier,
+P51,Mallow,10,2014,Existing,All Buyer Types,121933.0
+P51,Mallow,10,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,113167.0
+P51,Mallow,10,2014,Existing,Household Buyer - Former Owner-Occupier,131696.0
+P51,Mallow,10,2014,Existing,Household Buyer - Non-Occupier,102667.0
+P51,Mallow,11,2014,All Dwelling Statuses,All Buyer Types,86564.0
+P51,Mallow,11,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,95140.0
+P51,Mallow,11,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,110324.0
+P51,Mallow,11,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,66518.0
+P51,Mallow,11,2014,New,All Buyer Types,86260.0
+P51,Mallow,11,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,86260.0
+P51,Mallow,11,2014,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,11,2014,New,Household Buyer - Non-Occupier,
+P51,Mallow,11,2014,Existing,All Buyer Types,86570.0
+P51,Mallow,11,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,96250.0
+P51,Mallow,11,2014,Existing,Household Buyer - Former Owner-Occupier,110324.0
+P51,Mallow,11,2014,Existing,Household Buyer - Non-Occupier,66518.0
+P51,Mallow,12,2014,All Dwelling Statuses,All Buyer Types,118399.0
+P51,Mallow,12,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,113013.0
+P51,Mallow,12,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,130486.0
+P51,Mallow,12,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,95576.0
+P51,Mallow,12,2014,New,All Buyer Types,123465.0
+P51,Mallow,12,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,123698.0
+P51,Mallow,12,2014,New,Household Buyer - Former Owner-Occupier,123000.0
+P51,Mallow,12,2014,New,Household Buyer - Non-Occupier,
+P51,Mallow,12,2014,Existing,All Buyer Types,118154.0
+P51,Mallow,12,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,110639.0
+P51,Mallow,12,2014,Existing,Household Buyer - Former Owner-Occupier,130694.0
+P51,Mallow,12,2014,Existing,Household Buyer - Non-Occupier,95576.0
+P51,Mallow,1,2015,All Dwelling Statuses,All Buyer Types,109406.0
+P51,Mallow,1,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,92947.0
+P51,Mallow,1,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,116345.0
+P51,Mallow,1,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,117700.0
+P51,Mallow,1,2015,New,All Buyer Types,164575.0
+P51,Mallow,1,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,164575.0
+P51,Mallow,1,2015,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,1,2015,New,Household Buyer - Non-Occupier,
+P51,Mallow,1,2015,Existing,All Buyer Types,107200.0
+P51,Mallow,1,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,82714.0
+P51,Mallow,1,2015,Existing,Household Buyer - Former Owner-Occupier,116345.0
+P51,Mallow,1,2015,Existing,Household Buyer - Non-Occupier,117700.0
+P51,Mallow,2,2015,All Dwelling Statuses,All Buyer Types,108491.0
+P51,Mallow,2,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,121740.0
+P51,Mallow,2,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,132015.0
+P51,Mallow,2,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,73706.0
+P51,Mallow,2,2015,New,All Buyer Types,90263.0
+P51,Mallow,2,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,97894.0
+P51,Mallow,2,2015,New,Household Buyer - Former Owner-Occupier,75001.0
+P51,Mallow,2,2015,New,Household Buyer - Non-Occupier,
+P51,Mallow,2,2015,Existing,All Buyer Types,109654.0
+P51,Mallow,2,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,124720.0
+P51,Mallow,2,2015,Existing,Household Buyer - Former Owner-Occupier,136088.0
+P51,Mallow,2,2015,Existing,Household Buyer - Non-Occupier,73706.0
+P51,Mallow,3,2015,All Dwelling Statuses,All Buyer Types,130801.0
+P51,Mallow,3,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,154214.0
+P51,Mallow,3,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,150455.0
+P51,Mallow,3,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,95726.0
+P51,Mallow,3,2015,New,All Buyer Types,172962.0
+P51,Mallow,3,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,3,2015,New,Household Buyer - Former Owner-Occupier,169999.0
+P51,Mallow,3,2015,New,Household Buyer - Non-Occupier,175925.0
+P51,Mallow,3,2015,Existing,All Buyer Types,128884.0
+P51,Mallow,3,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,154214.0
+P51,Mallow,3,2015,Existing,Household Buyer - Former Owner-Occupier,149524.0
+P51,Mallow,3,2015,Existing,Household Buyer - Non-Occupier,90713.0
+P51,Mallow,4,2015,All Dwelling Statuses,All Buyer Types,142184.0
+P51,Mallow,4,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,149070.0
+P51,Mallow,4,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,151651.0
+P51,Mallow,4,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,57833.0
+P51,Mallow,4,2015,New,All Buyer Types,176780.0
+P51,Mallow,4,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,200335.0
+P51,Mallow,4,2015,New,Household Buyer - Former Owner-Occupier,153225.0
+P51,Mallow,4,2015,New,Household Buyer - Non-Occupier,
+P51,Mallow,4,2015,Existing,All Buyer Types,139952.0
+P51,Mallow,4,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,144409.0
+P51,Mallow,4,2015,Existing,Household Buyer - Former Owner-Occupier,151559.0
+P51,Mallow,4,2015,Existing,Household Buyer - Non-Occupier,57833.0
+P51,Mallow,5,2015,All Dwelling Statuses,All Buyer Types,111429.0
+P51,Mallow,5,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,118636.0
+P51,Mallow,5,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,126461.0
+P51,Mallow,5,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,72556.0
+P51,Mallow,5,2015,New,All Buyer Types,92500.0
+P51,Mallow,5,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,99999.0
+P51,Mallow,5,2015,New,Household Buyer - Former Owner-Occupier,85000.0
+P51,Mallow,5,2015,New,Household Buyer - Non-Occupier,
+P51,Mallow,5,2015,Existing,All Buyer Types,112481.0
+P51,Mallow,5,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,120500.0
+P51,Mallow,5,2015,Existing,Household Buyer - Former Owner-Occupier,128900.0
+P51,Mallow,5,2015,Existing,Household Buyer - Non-Occupier,72556.0
+P51,Mallow,6,2015,All Dwelling Statuses,All Buyer Types,131620.0
+P51,Mallow,6,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,126714.0
+P51,Mallow,6,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,160900.0
+P51,Mallow,6,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,99313.0
+P51,Mallow,6,2015,New,All Buyer Types,155000.0
+P51,Mallow,6,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+P51,Mallow,6,2015,New,Household Buyer - Former Owner-Occupier,134999.0
+P51,Mallow,6,2015,New,Household Buyer - Non-Occupier,
+P51,Mallow,6,2015,Existing,All Buyer Types,129587.0
+P51,Mallow,6,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,118667.0
+P51,Mallow,6,2015,Existing,Household Buyer - Former Owner-Occupier,163778.0
+P51,Mallow,6,2015,Existing,Household Buyer - Non-Occupier,99313.0
+P51,Mallow,7,2015,All Dwelling Statuses,All Buyer Types,136991.0
+P51,Mallow,7,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,176611.0
+P51,Mallow,7,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,130925.0
+P51,Mallow,7,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,121350.0
+P51,Mallow,7,2015,New,All Buyer Types,160938.0
+P51,Mallow,7,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+P51,Mallow,7,2015,New,Household Buyer - Former Owner-Occupier,141875.0
+P51,Mallow,7,2015,New,Household Buyer - Non-Occupier,
+P51,Mallow,7,2015,Existing,All Buyer Types,136033.0
+P51,Mallow,7,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,176188.0
+P51,Mallow,7,2015,Existing,Household Buyer - Former Owner-Occupier,130583.0
+P51,Mallow,7,2015,Existing,Household Buyer - Non-Occupier,121350.0
+P51,Mallow,8,2015,All Dwelling Statuses,All Buyer Types,132418.0
+P51,Mallow,8,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,122167.0
+P51,Mallow,8,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,152310.0
+P51,Mallow,8,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,77085.0
+P51,Mallow,8,2015,New,All Buyer Types,86233.0
+P51,Mallow,8,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,8,2015,New,Household Buyer - Former Owner-Occupier,98138.0
+P51,Mallow,8,2015,New,Household Buyer - Non-Occupier,62425.0
+P51,Mallow,8,2015,Existing,All Buyer Types,137960.0
+P51,Mallow,8,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,122167.0
+P51,Mallow,8,2015,Existing,Household Buyer - Former Owner-Occupier,159533.0
+P51,Mallow,8,2015,Existing,Household Buyer - Non-Occupier,80750.0
+P51,Mallow,9,2015,All Dwelling Statuses,All Buyer Types,101923.0
+P51,Mallow,9,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,126917.0
+P51,Mallow,9,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,107820.0
+P51,Mallow,9,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,77567.0
+P51,Mallow,9,2015,New,All Buyer Types,66738.0
+P51,Mallow,9,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,113500.0
+P51,Mallow,9,2015,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,9,2015,New,Household Buyer - Non-Occupier,55048.0
+P51,Mallow,9,2015,Existing,All Buyer Types,107420.0
+P51,Mallow,9,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,129600.0
+P51,Mallow,9,2015,Existing,Household Buyer - Former Owner-Occupier,107820.0
+P51,Mallow,9,2015,Existing,Household Buyer - Non-Occupier,90436.0
+P51,Mallow,10,2015,All Dwelling Statuses,All Buyer Types,126598.0
+P51,Mallow,10,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,141715.0
+P51,Mallow,10,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,130774.0
+P51,Mallow,10,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,95483.0
+P51,Mallow,10,2015,New,All Buyer Types,162617.0
+P51,Mallow,10,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,150546.0
+P51,Mallow,10,2015,New,Household Buyer - Former Owner-Occupier,189444.0
+P51,Mallow,10,2015,New,Household Buyer - Non-Occupier,79450.0
+P51,Mallow,10,2015,Existing,All Buyer Types,119394.0
+P51,Mallow,10,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140109.0
+P51,Mallow,10,2015,Existing,Household Buyer - Former Owner-Occupier,116106.0
+P51,Mallow,10,2015,Existing,Household Buyer - Non-Occupier,97488.0
+P51,Mallow,11,2015,All Dwelling Statuses,All Buyer Types,133143.0
+P51,Mallow,11,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100083.0
+P51,Mallow,11,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,153762.0
+P51,Mallow,11,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,87167.0
+P51,Mallow,11,2015,New,All Buyer Types,144259.0
+P51,Mallow,11,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,11,2015,New,Household Buyer - Former Owner-Occupier,144259.0
+P51,Mallow,11,2015,New,Household Buyer - Non-Occupier,
+P51,Mallow,11,2015,Existing,All Buyer Types,132470.0
+P51,Mallow,11,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100083.0
+P51,Mallow,11,2015,Existing,Household Buyer - Former Owner-Occupier,154667.0
+P51,Mallow,11,2015,Existing,Household Buyer - Non-Occupier,87167.0
+P51,Mallow,12,2015,All Dwelling Statuses,All Buyer Types,93918.0
+P51,Mallow,12,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,84045.0
+P51,Mallow,12,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,120022.0
+P51,Mallow,12,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,76490.0
+P51,Mallow,12,2015,New,All Buyer Types,142891.0
+P51,Mallow,12,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,117813.0
+P51,Mallow,12,2015,New,Household Buyer - Former Owner-Occupier,192950.0
+P51,Mallow,12,2015,New,Household Buyer - Non-Occupier,130400.0
+P51,Mallow,12,2015,Existing,All Buyer Types,88895.0
+P51,Mallow,12,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,78417.0
+P51,Mallow,12,2015,Existing,Household Buyer - Former Owner-Occupier,115160.0
+P51,Mallow,12,2015,Existing,Household Buyer - Non-Occupier,70500.0
+P51,Mallow,1,2016,All Dwelling Statuses,All Buyer Types,120710.0
+P51,Mallow,1,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,158400.0
+P51,Mallow,1,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,130417.0
+P51,Mallow,1,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,69889.0
+P51,Mallow,1,2016,New,All Buyer Types,115000.0
+P51,Mallow,1,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+P51,Mallow,1,2016,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,1,2016,New,Household Buyer - Non-Occupier,
+P51,Mallow,1,2016,Existing,All Buyer Types,120970.0
+P51,Mallow,1,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,169250.0
+P51,Mallow,1,2016,Existing,Household Buyer - Former Owner-Occupier,130417.0
+P51,Mallow,1,2016,Existing,Household Buyer - Non-Occupier,69889.0
+P51,Mallow,2,2016,All Dwelling Statuses,All Buyer Types,143746.0
+P51,Mallow,2,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,123406.0
+P51,Mallow,2,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,189344.0
+P51,Mallow,2,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,62833.0
+P51,Mallow,2,2016,New,All Buyer Types,110938.0
+P51,Mallow,2,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,141875.0
+P51,Mallow,2,2016,New,Household Buyer - Former Owner-Occupier,80000.0
+P51,Mallow,2,2016,New,Household Buyer - Non-Occupier,
+P51,Mallow,2,2016,Existing,All Buyer Types,145797.0
+P51,Mallow,2,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,121727.0
+P51,Mallow,2,2016,Existing,Household Buyer - Former Owner-Occupier,196633.0
+P51,Mallow,2,2016,Existing,Household Buyer - Non-Occupier,62833.0
+P51,Mallow,3,2016,All Dwelling Statuses,All Buyer Types,129308.0
+P51,Mallow,3,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,134070.0
+P51,Mallow,3,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,144227.0
+P51,Mallow,3,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,78000.0
+P51,Mallow,3,2016,New,All Buyer Types,102108.0
+P51,Mallow,3,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,113438.0
+P51,Mallow,3,2016,New,Household Buyer - Former Owner-Occupier,79450.0
+P51,Mallow,3,2016,New,Household Buyer - Non-Occupier,
+P51,Mallow,3,2016,Existing,All Buyer Types,131348.0
+P51,Mallow,3,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,138656.0
+P51,Mallow,3,2016,Existing,Household Buyer - Former Owner-Occupier,147043.0
+P51,Mallow,3,2016,Existing,Household Buyer - Non-Occupier,78000.0
+P51,Mallow,4,2016,All Dwelling Statuses,All Buyer Types,111743.0
+P51,Mallow,4,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,107782.0
+P51,Mallow,4,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,149667.0
+P51,Mallow,4,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,60005.0
+P51,Mallow,4,2016,New,All Buyer Types,133034.0
+P51,Mallow,4,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,133034.0
+P51,Mallow,4,2016,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,4,2016,New,Household Buyer - Non-Occupier,
+P51,Mallow,4,2016,Existing,All Buyer Types,108517.0
+P51,Mallow,4,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,92000.0
+P51,Mallow,4,2016,Existing,Household Buyer - Former Owner-Occupier,149667.0
+P51,Mallow,4,2016,Existing,Household Buyer - Non-Occupier,60005.0
+P51,Mallow,5,2016,All Dwelling Statuses,All Buyer Types,109934.0
+P51,Mallow,5,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,138796.0
+P51,Mallow,5,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,105106.0
+P51,Mallow,5,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,72325.0
+P51,Mallow,5,2016,New,All Buyer Types,124023.0
+P51,Mallow,5,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,155775.0
+P51,Mallow,5,2016,New,Household Buyer - Former Owner-Occupier,121220.0
+P51,Mallow,5,2016,New,Household Buyer - Non-Occupier,96475.0
+P51,Mallow,5,2016,Existing,All Buyer Types,107194.0
+P51,Mallow,5,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,135400.0
+P51,Mallow,5,2016,Existing,Household Buyer - Former Owner-Occupier,102909.0
+P51,Mallow,5,2016,Existing,Household Buyer - Non-Occupier,60250.0
+P51,Mallow,6,2016,All Dwelling Statuses,All Buyer Types,115747.0
+P51,Mallow,6,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,113542.0
+P51,Mallow,6,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,135892.0
+P51,Mallow,6,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,79044.0
+P51,Mallow,6,2016,New,All Buyer Types,127092.0
+P51,Mallow,6,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,6,2016,New,Household Buyer - Former Owner-Occupier,171896.0
+P51,Mallow,6,2016,New,Household Buyer - Non-Occupier,82288.0
+P51,Mallow,6,2016,Existing,All Buyer Types,114761.0
+P51,Mallow,6,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,113542.0
+P51,Mallow,6,2016,Existing,Household Buyer - Former Owner-Occupier,132761.0
+P51,Mallow,6,2016,Existing,Household Buyer - Non-Occupier,78455.0
+P51,Mallow,7,2016,All Dwelling Statuses,All Buyer Types,117741.0
+P51,Mallow,7,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,117179.0
+P51,Mallow,7,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,135957.0
+P51,Mallow,7,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,98167.0
+P51,Mallow,7,2016,New,All Buyer Types,114500.0
+P51,Mallow,7,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,114500.0
+P51,Mallow,7,2016,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,7,2016,New,Household Buyer - Non-Occupier,
+P51,Mallow,7,2016,Existing,All Buyer Types,117918.0
+P51,Mallow,7,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,117909.0
+P51,Mallow,7,2016,Existing,Household Buyer - Former Owner-Occupier,135957.0
+P51,Mallow,7,2016,Existing,Household Buyer - Non-Occupier,98167.0
+P51,Mallow,8,2016,All Dwelling Statuses,All Buyer Types,128339.0
+P51,Mallow,8,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,152853.0
+P51,Mallow,8,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,136692.0
+P51,Mallow,8,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,99571.0
+P51,Mallow,8,2016,New,All Buyer Types,140060.0
+P51,Mallow,8,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,136913.0
+P51,Mallow,8,2016,New,Household Buyer - Former Owner-Occupier,149500.0
+P51,Mallow,8,2016,New,Household Buyer - Non-Occupier,
+P51,Mallow,8,2016,Existing,All Buyer Types,127000.0
+P51,Mallow,8,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,158167.0
+P51,Mallow,8,2016,Existing,Household Buyer - Former Owner-Occupier,135625.0
+P51,Mallow,8,2016,Existing,Household Buyer - Non-Occupier,99571.0
+P51,Mallow,9,2016,All Dwelling Statuses,All Buyer Types,131871.0
+P51,Mallow,9,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,167818.0
+P51,Mallow,9,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,149872.0
+P51,Mallow,9,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,82406.0
+P51,Mallow,9,2016,New,All Buyer Types,176237.0
+P51,Mallow,9,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,150999.0
+P51,Mallow,9,2016,New,Household Buyer - Former Owner-Occupier,182546.0
+P51,Mallow,9,2016,New,Household Buyer - Non-Occupier,
+P51,Mallow,9,2016,Existing,All Buyer Types,126830.0
+P51,Mallow,9,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,169500.0
+P51,Mallow,9,2016,Existing,Household Buyer - Former Owner-Occupier,142611.0
+P51,Mallow,9,2016,Existing,Household Buyer - Non-Occupier,82406.0
+P51,Mallow,10,2016,All Dwelling Statuses,All Buyer Types,128738.0
+P51,Mallow,10,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,164457.0
+P51,Mallow,10,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,130128.0
+P51,Mallow,10,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,87958.0
+P51,Mallow,10,2016,New,All Buyer Types,154462.0
+P51,Mallow,10,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,124282.0
+P51,Mallow,10,2016,New,Household Buyer - Former Owner-Occupier,245001.0
+P51,Mallow,10,2016,New,Household Buyer - Non-Occupier,
+P51,Mallow,10,2016,Existing,All Buyer Types,126100.0
+P51,Mallow,10,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,176510.0
+P51,Mallow,10,2016,Existing,Household Buyer - Former Owner-Occupier,123371.0
+P51,Mallow,10,2016,Existing,Household Buyer - Non-Occupier,87958.0
+P51,Mallow,11,2016,All Dwelling Statuses,All Buyer Types,154409.0
+P51,Mallow,11,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,105391.0
+P51,Mallow,11,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,166522.0
+P51,Mallow,11,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,168917.0
+P51,Mallow,11,2016,New,All Buyer Types,122841.0
+P51,Mallow,11,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,140565.0
+P51,Mallow,11,2016,New,Household Buyer - Former Owner-Occupier,87395.0
+P51,Mallow,11,2016,New,Household Buyer - Non-Occupier,
+P51,Mallow,11,2016,Existing,All Buyer Types,157114.0
+P51,Mallow,11,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,93667.0
+P51,Mallow,11,2016,Existing,Household Buyer - Former Owner-Occupier,171176.0
+P51,Mallow,11,2016,Existing,Household Buyer - Non-Occupier,168917.0
+P51,Mallow,12,2016,All Dwelling Statuses,All Buyer Types,116664.0
+P51,Mallow,12,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,123963.0
+P51,Mallow,12,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,158387.0
+P51,Mallow,12,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,64704.0
+P51,Mallow,12,2016,New,All Buyer Types,118316.0
+P51,Mallow,12,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,12,2016,New,Household Buyer - Former Owner-Occupier,307000.0
+P51,Mallow,12,2016,New,Household Buyer - Non-Occupier,68000.0
+P51,Mallow,12,2016,Existing,All Buyer Types,116082.0
+P51,Mallow,12,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,123963.0
+P51,Mallow,12,2016,Existing,Household Buyer - Former Owner-Occupier,136370.0
+P51,Mallow,12,2016,Existing,Household Buyer - Non-Occupier,60583.0
+P51,Mallow,1,2017,All Dwelling Statuses,All Buyer Types,153469.0
+P51,Mallow,1,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,177888.0
+P51,Mallow,1,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,164667.0
+P51,Mallow,1,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,97750.0
+P51,Mallow,1,2017,New,All Buyer Types,182875.0
+P51,Mallow,1,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,182875.0
+P51,Mallow,1,2017,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,1,2017,New,Household Buyer - Non-Occupier,
+P51,Mallow,1,2017,Existing,All Buyer Types,152629.0
+P51,Mallow,1,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,177333.0
+P51,Mallow,1,2017,Existing,Household Buyer - Former Owner-Occupier,164667.0
+P51,Mallow,1,2017,Existing,Household Buyer - Non-Occupier,97750.0
+P51,Mallow,2,2017,All Dwelling Statuses,All Buyer Types,102901.0
+P51,Mallow,2,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,144572.0
+P51,Mallow,2,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,129500.0
+P51,Mallow,2,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,68403.0
+P51,Mallow,2,2017,New,All Buyer Types,163788.0
+P51,Mallow,2,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,155192.0
+P51,Mallow,2,2017,New,Household Buyer - Former Owner-Occupier,241000.0
+P51,Mallow,2,2017,New,Household Buyer - Non-Occupier,112365.0
+P51,Mallow,2,2017,Existing,All Buyer Types,95476.0
+P51,Mallow,2,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,138200.0
+P51,Mallow,2,2017,Existing,Household Buyer - Former Owner-Occupier,122067.0
+P51,Mallow,2,2017,Existing,Household Buyer - Non-Occupier,66309.0
+P51,Mallow,3,2017,All Dwelling Statuses,All Buyer Types,123294.0
+P51,Mallow,3,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,130700.0
+P51,Mallow,3,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,144027.0
+P51,Mallow,3,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,81333.0
+P51,Mallow,3,2017,New,All Buyer Types,116500.0
+P51,Mallow,3,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,113000.0
+P51,Mallow,3,2017,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,3,2017,New,Household Buyer - Non-Occupier,120000.0
+P51,Mallow,3,2017,Existing,All Buyer Types,123550.0
+P51,Mallow,3,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,131964.0
+P51,Mallow,3,2017,Existing,Household Buyer - Former Owner-Occupier,144027.0
+P51,Mallow,3,2017,Existing,Household Buyer - Non-Occupier,78571.0
+P51,Mallow,4,2017,All Dwelling Statuses,All Buyer Types,140564.0
+P51,Mallow,4,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,147883.0
+P51,Mallow,4,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,145099.0
+P51,Mallow,4,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,125257.0
+P51,Mallow,4,2017,New,All Buyer Types,165974.0
+P51,Mallow,4,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,121357.0
+P51,Mallow,4,2017,New,Household Buyer - Former Owner-Occupier,152090.0
+P51,Mallow,4,2017,New,Household Buyer - Non-Occupier,217533.0
+P51,Mallow,4,2017,Existing,All Buyer Types,136594.0
+P51,Mallow,4,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,153778.0
+P51,Mallow,4,2017,Existing,Household Buyer - Former Owner-Occupier,144633.0
+P51,Mallow,4,2017,Existing,Household Buyer - Non-Occupier,102188.0
+P51,Mallow,5,2017,All Dwelling Statuses,All Buyer Types,139430.0
+P51,Mallow,5,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,159545.0
+P51,Mallow,5,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,158052.0
+P51,Mallow,5,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,63300.0
+P51,Mallow,5,2017,New,All Buyer Types,137000.0
+P51,Mallow,5,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,227000.0
+P51,Mallow,5,2017,New,Household Buyer - Former Owner-Occupier,47000.0
+P51,Mallow,5,2017,New,Household Buyer - Non-Occupier,
+P51,Mallow,5,2017,Existing,All Buyer Types,139531.0
+P51,Mallow,5,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,152800.0
+P51,Mallow,5,2017,Existing,Household Buyer - Former Owner-Occupier,162018.0
+P51,Mallow,5,2017,Existing,Household Buyer - Non-Occupier,63300.0
+P51,Mallow,6,2017,All Dwelling Statuses,All Buyer Types,164189.0
+P51,Mallow,6,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,172152.0
+P51,Mallow,6,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,193424.0
+P51,Mallow,6,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,96278.0
+P51,Mallow,6,2017,New,All Buyer Types,238223.0
+P51,Mallow,6,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,135065.0
+P51,Mallow,6,2017,New,Household Buyer - Former Owner-Occupier,264012.0
+P51,Mallow,6,2017,New,Household Buyer - Non-Occupier,
+P51,Mallow,6,2017,Existing,All Buyer Types,151850.0
+P51,Mallow,6,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,178333.0
+P51,Mallow,6,2017,Existing,Household Buyer - Former Owner-Occupier,174600.0
+P51,Mallow,6,2017,Existing,Household Buyer - Non-Occupier,96278.0
+P51,Mallow,7,2017,All Dwelling Statuses,All Buyer Types,171567.0
+P51,Mallow,7,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,192731.0
+P51,Mallow,7,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,173194.0
+P51,Mallow,7,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,141000.0
+P51,Mallow,7,2017,New,All Buyer Types,195011.0
+P51,Mallow,7,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,187885.0
+P51,Mallow,7,2017,New,Household Buyer - Former Owner-Occupier,204511.0
+P51,Mallow,7,2017,New,Household Buyer - Non-Occupier,
+P51,Mallow,7,2017,Existing,All Buyer Types,167359.0
+P51,Mallow,7,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,195500.0
+P51,Mallow,7,2017,Existing,Household Buyer - Former Owner-Occupier,169109.0
+P51,Mallow,7,2017,Existing,Household Buyer - Non-Occupier,141000.0
+P51,Mallow,8,2017,All Dwelling Statuses,All Buyer Types,121152.0
+P51,Mallow,8,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,109750.0
+P51,Mallow,8,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,138234.0
+P51,Mallow,8,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,87009.0
+P51,Mallow,8,2017,New,All Buyer Types,92983.0
+P51,Mallow,8,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,199500.0
+P51,Mallow,8,2017,New,Household Buyer - Former Owner-Occupier,28375.0
+P51,Mallow,8,2017,New,Household Buyer - Non-Occupier,51075.0
+P51,Mallow,8,2017,Existing,All Buyer Types,123213.0
+P51,Mallow,8,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,101591.0
+P51,Mallow,8,2017,Existing,Household Buyer - Former Owner-Occupier,143011.0
+P51,Mallow,8,2017,Existing,Household Buyer - Non-Occupier,92143.0
+P51,Mallow,9,2017,All Dwelling Statuses,All Buyer Types,156554.0
+P51,Mallow,9,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,189437.0
+P51,Mallow,9,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,153199.0
+P51,Mallow,9,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,104125.0
+P51,Mallow,9,2017,New,All Buyer Types,161250.0
+P51,Mallow,9,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,283750.0
+P51,Mallow,9,2017,New,Household Buyer - Former Owner-Occupier,100000.0
+P51,Mallow,9,2017,New,Household Buyer - Non-Occupier,
+P51,Mallow,9,2017,Existing,All Buyer Types,156219.0
+P51,Mallow,9,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,182700.0
+P51,Mallow,9,2017,Existing,Household Buyer - Former Owner-Occupier,158519.0
+P51,Mallow,9,2017,Existing,Household Buyer - Non-Occupier,104125.0
+P51,Mallow,10,2017,All Dwelling Statuses,All Buyer Types,133328.0
+P51,Mallow,10,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,138955.0
+P51,Mallow,10,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,148298.0
+P51,Mallow,10,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,78813.0
+P51,Mallow,10,2017,New,All Buyer Types,163125.0
+P51,Mallow,10,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,176667.0
+P51,Mallow,10,2017,New,Household Buyer - Former Owner-Occupier,122499.0
+P51,Mallow,10,2017,New,Household Buyer - Non-Occupier,
+P51,Mallow,10,2017,Existing,All Buyer Types,130349.0
+P51,Mallow,10,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,124813.0
+P51,Mallow,10,2017,Existing,Household Buyer - Former Owner-Occupier,149373.0
+P51,Mallow,10,2017,Existing,Household Buyer - Non-Occupier,78813.0
+P51,Mallow,11,2017,All Dwelling Statuses,All Buyer Types,166460.0
+P51,Mallow,11,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,198653.0
+P51,Mallow,11,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,139047.0
+P51,Mallow,11,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,140000.0
+P51,Mallow,11,2017,New,All Buyer Types,139605.0
+P51,Mallow,11,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,139605.0
+P51,Mallow,11,2017,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,11,2017,New,Household Buyer - Non-Occupier,
+P51,Mallow,11,2017,Existing,All Buyer Types,167206.0
+P51,Mallow,11,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,202344.0
+P51,Mallow,11,2017,Existing,Household Buyer - Former Owner-Occupier,139047.0
+P51,Mallow,11,2017,Existing,Household Buyer - Non-Occupier,140000.0
+P51,Mallow,12,2017,All Dwelling Statuses,All Buyer Types,134125.0
+P51,Mallow,12,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,138279.0
+P51,Mallow,12,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,160537.0
+P51,Mallow,12,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,61364.0
+P51,Mallow,12,2017,New,All Buyer Types,203761.0
+P51,Mallow,12,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,194102.0
+P51,Mallow,12,2017,New,Household Buyer - Former Owner-Occupier,218250.0
+P51,Mallow,12,2017,New,Household Buyer - Non-Occupier,
+P51,Mallow,12,2017,Existing,All Buyer Types,119913.0
+P51,Mallow,12,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115950.0
+P51,Mallow,12,2017,Existing,Household Buyer - Former Owner-Occupier,150500.0
+P51,Mallow,12,2017,Existing,Household Buyer - Non-Occupier,61364.0
+P51,Mallow,1,2018,All Dwelling Statuses,All Buyer Types,129107.0
+P51,Mallow,1,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,161100.0
+P51,Mallow,1,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,133250.0
+P51,Mallow,1,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,96786.0
+P51,Mallow,1,2018,New,All Buyer Types,132500.0
+P51,Mallow,1,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+P51,Mallow,1,2018,New,Household Buyer - Former Owner-Occupier,125000.0
+P51,Mallow,1,2018,New,Household Buyer - Non-Occupier,
+P51,Mallow,1,2018,Existing,All Buyer Types,128846.0
+P51,Mallow,1,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,166375.0
+P51,Mallow,1,2018,Existing,Household Buyer - Former Owner-Occupier,133800.0
+P51,Mallow,1,2018,Existing,Household Buyer - Non-Occupier,96786.0
+P51,Mallow,2,2018,All Dwelling Statuses,All Buyer Types,148041.0
+P51,Mallow,2,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,128125.0
+P51,Mallow,2,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,168534.0
+P51,Mallow,2,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,85500.0
+P51,Mallow,2,2018,New,All Buyer Types,174275.0
+P51,Mallow,2,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,141875.0
+P51,Mallow,2,2018,New,Household Buyer - Former Owner-Occupier,203166.0
+P51,Mallow,2,2018,New,Household Buyer - Non-Occupier,120000.0
+P51,Mallow,2,2018,Existing,All Buyer Types,144841.0
+P51,Mallow,2,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,126750.0
+P51,Mallow,2,2018,Existing,Household Buyer - Former Owner-Occupier,164538.0
+P51,Mallow,2,2018,Existing,Household Buyer - Non-Occupier,78600.0
+P51,Mallow,3,2018,All Dwelling Statuses,All Buyer Types,171170.0
+P51,Mallow,3,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,181917.0
+P51,Mallow,3,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,177781.0
+P51,Mallow,3,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,133857.0
+P51,Mallow,3,2018,New,All Buyer Types,144823.0
+P51,Mallow,3,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,239000.0
+P51,Mallow,3,2018,New,Household Buyer - Former Owner-Occupier,121278.0
+P51,Mallow,3,2018,New,Household Buyer - Non-Occupier,
+P51,Mallow,3,2018,Existing,All Buyer Types,175044.0
+P51,Mallow,3,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,176727.0
+P51,Mallow,3,2018,Existing,Household Buyer - Former Owner-Occupier,191907.0
+P51,Mallow,3,2018,Existing,Household Buyer - Non-Occupier,133857.0
+P51,Mallow,4,2018,All Dwelling Statuses,All Buyer Types,150641.0
+P51,Mallow,4,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,137000.0
+P51,Mallow,4,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,185647.0
+P51,Mallow,4,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,100125.0
+P51,Mallow,4,2018,New,All Buyer Types,132001.0
+P51,Mallow,4,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,4,2018,New,Household Buyer - Former Owner-Occupier,132001.0
+P51,Mallow,4,2018,New,Household Buyer - Non-Occupier,
+P51,Mallow,4,2018,Existing,All Buyer Types,151132.0
+P51,Mallow,4,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,137000.0
+P51,Mallow,4,2018,Existing,Household Buyer - Former Owner-Occupier,189000.0
+P51,Mallow,4,2018,Existing,Household Buyer - Non-Occupier,100125.0
+P51,Mallow,5,2018,All Dwelling Statuses,All Buyer Types,176229.0
+P51,Mallow,5,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,191991.0
+P51,Mallow,5,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,201754.0
+P51,Mallow,5,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,97875.0
+P51,Mallow,5,2018,New,All Buyer Types,195913.0
+P51,Mallow,5,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,259915.0
+P51,Mallow,5,2018,New,Household Buyer - Former Owner-Occupier,163913.0
+P51,Mallow,5,2018,New,Household Buyer - Non-Occupier,
+P51,Mallow,5,2018,Existing,All Buyer Types,174439.0
+P51,Mallow,5,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,183500.0
+P51,Mallow,5,2018,Existing,Household Buyer - Former Owner-Occupier,206206.0
+P51,Mallow,5,2018,Existing,Household Buyer - Non-Occupier,97875.0
+P51,Mallow,6,2018,All Dwelling Statuses,All Buyer Types,162931.0
+P51,Mallow,6,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,219000.0
+P51,Mallow,6,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,152941.0
+P51,Mallow,6,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,51333.0
+P51,Mallow,6,2018,New,All Buyer Types,312000.0
+P51,Mallow,6,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,6,2018,New,Household Buyer - Former Owner-Occupier,312000.0
+P51,Mallow,6,2018,New,Household Buyer - Non-Occupier,
+P51,Mallow,6,2018,Existing,All Buyer Types,157607.0
+P51,Mallow,6,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,219000.0
+P51,Mallow,6,2018,Existing,Household Buyer - Former Owner-Occupier,143000.0
+P51,Mallow,6,2018,Existing,Household Buyer - Non-Occupier,51333.0
+P51,Mallow,7,2018,All Dwelling Statuses,All Buyer Types,136702.0
+P51,Mallow,7,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,144800.0
+P51,Mallow,7,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,141957.0
+P51,Mallow,7,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,109778.0
+P51,Mallow,7,2018,New,All Buyer Types,
+P51,Mallow,7,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,7,2018,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,7,2018,New,Household Buyer - Non-Occupier,
+P51,Mallow,7,2018,Existing,All Buyer Types,136702.0
+P51,Mallow,7,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,144800.0
+P51,Mallow,7,2018,Existing,Household Buyer - Former Owner-Occupier,141957.0
+P51,Mallow,7,2018,Existing,Household Buyer - Non-Occupier,109778.0
+P51,Mallow,8,2018,All Dwelling Statuses,All Buyer Types,140409.0
+P51,Mallow,8,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,154125.0
+P51,Mallow,8,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,151714.0
+P51,Mallow,8,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,100052.0
+P51,Mallow,8,2018,New,All Buyer Types,32915.0
+P51,Mallow,8,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,8,2018,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,8,2018,New,Household Buyer - Non-Occupier,32915.0
+P51,Mallow,8,2018,Existing,All Buyer Types,143667.0
+P51,Mallow,8,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,154125.0
+P51,Mallow,8,2018,Existing,Household Buyer - Former Owner-Occupier,151714.0
+P51,Mallow,8,2018,Existing,Household Buyer - Non-Occupier,109643.0
+P51,Mallow,9,2018,All Dwelling Statuses,All Buyer Types,152422.0
+P51,Mallow,9,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,168833.0
+P51,Mallow,9,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,160978.0
+P51,Mallow,9,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,121750.0
+P51,Mallow,9,2018,New,All Buyer Types,261050.0
+P51,Mallow,9,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,9,2018,New,Household Buyer - Former Owner-Occupier,261050.0
+P51,Mallow,9,2018,New,Household Buyer - Non-Occupier,
+P51,Mallow,9,2018,Existing,All Buyer Types,149895.0
+P51,Mallow,9,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,168833.0
+P51,Mallow,9,2018,Existing,Household Buyer - Former Owner-Occupier,155711.0
+P51,Mallow,9,2018,Existing,Household Buyer - Non-Occupier,121750.0
+P51,Mallow,10,2018,All Dwelling Statuses,All Buyer Types,152397.0
+P51,Mallow,10,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,161885.0
+P51,Mallow,10,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,156050.0
+P51,Mallow,10,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,137156.0
+P51,Mallow,10,2018,New,All Buyer Types,230527.0
+P51,Mallow,10,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,147000.0
+P51,Mallow,10,2018,New,Household Buyer - Former Owner-Occupier,314054.0
+P51,Mallow,10,2018,New,Household Buyer - Non-Occupier,
+P51,Mallow,10,2018,Existing,All Buyer Types,149793.0
+P51,Mallow,10,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,163125.0
+P51,Mallow,10,2018,Existing,Household Buyer - Former Owner-Occupier,151112.0
+P51,Mallow,10,2018,Existing,Household Buyer - Non-Occupier,137156.0
+P51,Mallow,11,2018,All Dwelling Statuses,All Buyer Types,166754.0
+P51,Mallow,11,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,167969.0
+P51,Mallow,11,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,185129.0
+P51,Mallow,11,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,117667.0
+P51,Mallow,11,2018,New,All Buyer Types,409999.0
+P51,Mallow,11,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,11,2018,New,Household Buyer - Former Owner-Occupier,409999.0
+P51,Mallow,11,2018,New,Household Buyer - Non-Occupier,
+P51,Mallow,11,2018,Existing,All Buyer Types,162560.0
+P51,Mallow,11,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,167969.0
+P51,Mallow,11,2018,Existing,Household Buyer - Former Owner-Occupier,177633.0
+P51,Mallow,11,2018,Existing,Household Buyer - Non-Occupier,117667.0
+P51,Mallow,12,2018,All Dwelling Statuses,All Buyer Types,173543.0
+P51,Mallow,12,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150141.0
+P51,Mallow,12,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,202838.0
+P51,Mallow,12,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,128556.0
+P51,Mallow,12,2018,New,All Buyer Types,293559.0
+P51,Mallow,12,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,190680.0
+P51,Mallow,12,2018,New,Household Buyer - Former Owner-Occupier,344999.0
+P51,Mallow,12,2018,New,Household Buyer - Non-Occupier,
+P51,Mallow,12,2018,Existing,All Buyer Types,166876.0
+P51,Mallow,12,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,147889.0
+P51,Mallow,12,2018,Existing,Household Buyer - Former Owner-Occupier,192307.0
+P51,Mallow,12,2018,Existing,Household Buyer - Non-Occupier,128556.0
+P51,Mallow,1,2019,All Dwelling Statuses,All Buyer Types,127097.0
+P51,Mallow,1,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,187143.0
+P51,Mallow,1,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,138885.0
+P51,Mallow,1,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,74955.0
+P51,Mallow,1,2019,New,All Buyer Types,150000.0
+P51,Mallow,1,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+P51,Mallow,1,2019,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,1,2019,New,Household Buyer - Non-Occupier,
+P51,Mallow,1,2019,Existing,All Buyer Types,126333.0
+P51,Mallow,1,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,193333.0
+P51,Mallow,1,2019,Existing,Household Buyer - Former Owner-Occupier,138885.0
+P51,Mallow,1,2019,Existing,Household Buyer - Non-Occupier,74955.0
+P51,Mallow,2,2019,All Dwelling Statuses,All Buyer Types,168553.0
+P51,Mallow,2,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,176929.0
+P51,Mallow,2,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,181307.0
+P51,Mallow,2,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,100786.0
+P51,Mallow,2,2019,New,All Buyer Types,137499.0
+P51,Mallow,2,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,134999.0
+P51,Mallow,2,2019,New,Household Buyer - Former Owner-Occupier,139999.0
+P51,Mallow,2,2019,New,Household Buyer - Non-Occupier,
+P51,Mallow,2,2019,Existing,All Buyer Types,169874.0
+P51,Mallow,2,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180154.0
+P51,Mallow,2,2019,Existing,Household Buyer - Former Owner-Occupier,182837.0
+P51,Mallow,2,2019,Existing,Household Buyer - Non-Occupier,100786.0
+P51,Mallow,3,2019,All Dwelling Statuses,All Buyer Types,152489.0
+P51,Mallow,3,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,166607.0
+P51,Mallow,3,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,164099.0
+P51,Mallow,3,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,75929.0
+P51,Mallow,3,2019,New,All Buyer Types,197036.0
+P51,Mallow,3,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,243572.0
+P51,Mallow,3,2019,New,Household Buyer - Former Owner-Occupier,150500.0
+P51,Mallow,3,2019,New,Household Buyer - Non-Occupier,
+P51,Mallow,3,2019,Existing,All Buyer Types,150671.0
+P51,Mallow,3,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,158056.0
+P51,Mallow,3,2019,Existing,Household Buyer - Former Owner-Occupier,164511.0
+P51,Mallow,3,2019,Existing,Household Buyer - Non-Occupier,75929.0
+P51,Mallow,4,2019,All Dwelling Statuses,All Buyer Types,162129.0
+P51,Mallow,4,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,196887.0
+P51,Mallow,4,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,159741.0
+P51,Mallow,4,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,133938.0
+P51,Mallow,4,2019,New,All Buyer Types,240998.0
+P51,Mallow,4,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,282048.0
+P51,Mallow,4,2019,New,Household Buyer - Former Owner-Occupier,158900.0
+P51,Mallow,4,2019,New,Household Buyer - Non-Occupier,
+P51,Mallow,4,2019,Existing,All Buyer Types,155369.0
+P51,Mallow,4,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,168500.0
+P51,Mallow,4,2019,Existing,Household Buyer - Former Owner-Occupier,159781.0
+P51,Mallow,4,2019,Existing,Household Buyer - Non-Occupier,133938.0
+P51,Mallow,5,2019,All Dwelling Statuses,All Buyer Types,169610.0
+P51,Mallow,5,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,194827.0
+P51,Mallow,5,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197173.0
+P51,Mallow,5,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,95627.0
+P51,Mallow,5,2019,New,All Buyer Types,198492.0
+P51,Mallow,5,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,5,2019,New,Household Buyer - Former Owner-Occupier,198492.0
+P51,Mallow,5,2019,New,Household Buyer - Non-Occupier,
+P51,Mallow,5,2019,Existing,All Buyer Types,167726.0
+P51,Mallow,5,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,194827.0
+P51,Mallow,5,2019,Existing,Household Buyer - Former Owner-Occupier,196975.0
+P51,Mallow,5,2019,Existing,Household Buyer - Non-Occupier,95627.0
+P51,Mallow,6,2019,All Dwelling Statuses,All Buyer Types,160808.0
+P51,Mallow,6,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,167535.0
+P51,Mallow,6,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,166925.0
+P51,Mallow,6,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,142848.0
+P51,Mallow,6,2019,New,All Buyer Types,230120.0
+P51,Mallow,6,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,176988.0
+P51,Mallow,6,2019,New,Household Buyer - Former Owner-Occupier,442650.0
+P51,Mallow,6,2019,New,Household Buyer - Non-Occupier,
+P51,Mallow,6,2019,Existing,All Buyer Types,151441.0
+P51,Mallow,6,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,163333.0
+P51,Mallow,6,2019,Existing,Household Buyer - Former Owner-Occupier,150706.0
+P51,Mallow,6,2019,Existing,Household Buyer - Non-Occupier,142848.0
+P51,Mallow,7,2019,All Dwelling Statuses,All Buyer Types,182143.0
+P51,Mallow,7,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,194558.0
+P51,Mallow,7,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,211156.0
+P51,Mallow,7,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,84083.0
+P51,Mallow,7,2019,New,All Buyer Types,325133.0
+P51,Mallow,7,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,325133.0
+P51,Mallow,7,2019,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,7,2019,New,Household Buyer - Non-Occupier,
+P51,Mallow,7,2019,Existing,All Buyer Types,177531.0
+P51,Mallow,7,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180050.0
+P51,Mallow,7,2019,Existing,Household Buyer - Former Owner-Occupier,211156.0
+P51,Mallow,7,2019,Existing,Household Buyer - Non-Occupier,84083.0
+P51,Mallow,8,2019,All Dwelling Statuses,All Buyer Types,169018.0
+P51,Mallow,8,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,169719.0
+P51,Mallow,8,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,182746.0
+P51,Mallow,8,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,116429.0
+P51,Mallow,8,2019,New,All Buyer Types,476075.0
+P51,Mallow,8,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,8,2019,New,Household Buyer - Former Owner-Occupier,476075.0
+P51,Mallow,8,2019,New,Household Buyer - Non-Occupier,
+P51,Mallow,8,2019,Existing,All Buyer Types,162621.0
+P51,Mallow,8,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,169719.0
+P51,Mallow,8,2019,Existing,Household Buyer - Former Owner-Occupier,171013.0
+P51,Mallow,8,2019,Existing,Household Buyer - Non-Occupier,116429.0
+P51,Mallow,9,2019,All Dwelling Statuses,All Buyer Types,186590.0
+P51,Mallow,9,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,196748.0
+P51,Mallow,9,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,209547.0
+P51,Mallow,9,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,112688.0
+P51,Mallow,9,2019,New,All Buyer Types,259391.0
+P51,Mallow,9,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,191612.0
+P51,Mallow,9,2019,New,Household Buyer - Former Owner-Occupier,394949.0
+P51,Mallow,9,2019,New,Household Buyer - Non-Occupier,
+P51,Mallow,9,2019,Existing,All Buyer Types,180842.0
+P51,Mallow,9,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,197682.0
+P51,Mallow,9,2019,Existing,Household Buyer - Former Owner-Occupier,199789.0
+P51,Mallow,9,2019,Existing,Household Buyer - Non-Occupier,112688.0
+P51,Mallow,10,2019,All Dwelling Statuses,All Buyer Types,183050.0
+P51,Mallow,10,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,169409.0
+P51,Mallow,10,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,215835.0
+P51,Mallow,10,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,101318.0
+P51,Mallow,10,2019,New,All Buyer Types,299150.0
+P51,Mallow,10,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,10,2019,New,Household Buyer - Former Owner-Occupier,299150.0
+P51,Mallow,10,2019,New,Household Buyer - Non-Occupier,
+P51,Mallow,10,2019,Existing,All Buyer Types,173762.0
+P51,Mallow,10,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,169409.0
+P51,Mallow,10,2019,Existing,Household Buyer - Former Owner-Occupier,203933.0
+P51,Mallow,10,2019,Existing,Household Buyer - Non-Occupier,101318.0
+P51,Mallow,11,2019,All Dwelling Statuses,All Buyer Types,189160.0
+P51,Mallow,11,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,208850.0
+P51,Mallow,11,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,207394.0
+P51,Mallow,11,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,90286.0
+P51,Mallow,11,2019,New,All Buyer Types,162675.0
+P51,Mallow,11,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,249700.0
+P51,Mallow,11,2019,New,Household Buyer - Former Owner-Occupier,287500.0
+P51,Mallow,11,2019,New,Household Buyer - Non-Occupier,56750.0
+P51,Mallow,11,2019,Existing,All Buyer Types,191809.0
+P51,Mallow,11,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,205136.0
+P51,Mallow,11,2019,Existing,Household Buyer - Former Owner-Occupier,204056.0
+P51,Mallow,11,2019,Existing,Household Buyer - Non-Occupier,103700.0
+P51,Mallow,12,2019,All Dwelling Statuses,All Buyer Types,171023.0
+P51,Mallow,12,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,170476.0
+P51,Mallow,12,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,199602.0
+P51,Mallow,12,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,120810.0
+P51,Mallow,12,2019,New,All Buyer Types,230525.0
+P51,Mallow,12,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,200001.0
+P51,Mallow,12,2019,New,Household Buyer - Former Owner-Occupier,261050.0
+P51,Mallow,12,2019,New,Household Buyer - Non-Occupier,
+P51,Mallow,12,2019,Existing,All Buyer Types,168971.0
+P51,Mallow,12,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,169000.0
+P51,Mallow,12,2019,Existing,Household Buyer - Former Owner-Occupier,197042.0
+P51,Mallow,12,2019,Existing,Household Buyer - Non-Occupier,120810.0
+P51,Mallow,1,2020,All Dwelling Statuses,All Buyer Types,192867.0
+P51,Mallow,1,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,216344.0
+P51,Mallow,1,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,196375.0
+P51,Mallow,1,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,129250.0
+P51,Mallow,1,2020,New,All Buyer Types,254657.0
+P51,Mallow,1,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,250000.0
+P51,Mallow,1,2020,New,Household Buyer - Former Owner-Occupier,256209.0
+P51,Mallow,1,2020,New,Household Buyer - Non-Occupier,
+P51,Mallow,1,2020,Existing,All Buyer Types,183713.0
+P51,Mallow,1,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,211536.0
+P51,Mallow,1,2020,Existing,Household Buyer - Former Owner-Occupier,185156.0
+P51,Mallow,1,2020,Existing,Household Buyer - Non-Occupier,129250.0
+P51,Mallow,2,2020,All Dwelling Statuses,All Buyer Types,190890.0
+P51,Mallow,2,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,204521.0
+P51,Mallow,2,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,198667.0
+P51,Mallow,2,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,115000.0
+P51,Mallow,2,2020,New,All Buyer Types,301875.0
+P51,Mallow,2,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,301875.0
+P51,Mallow,2,2020,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,2,2020,New,Household Buyer - Non-Occupier,
+P51,Mallow,2,2020,Existing,All Buyer Types,183953.0
+P51,Mallow,2,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,185050.0
+P51,Mallow,2,2020,Existing,Household Buyer - Former Owner-Occupier,198667.0
+P51,Mallow,2,2020,Existing,Household Buyer - Non-Occupier,115000.0
+P51,Mallow,3,2020,All Dwelling Statuses,All Buyer Types,159483.0
+P51,Mallow,3,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,154622.0
+P51,Mallow,3,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,171700.0
+P51,Mallow,3,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,86833.0
+P51,Mallow,3,2020,New,All Buyer Types,245000.0
+P51,Mallow,3,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+P51,Mallow,3,2020,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,3,2020,New,Household Buyer - Non-Occupier,
+P51,Mallow,3,2020,Existing,All Buyer Types,157582.0
+P51,Mallow,3,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,149306.0
+P51,Mallow,3,2020,Existing,Household Buyer - Former Owner-Occupier,171700.0
+P51,Mallow,3,2020,Existing,Household Buyer - Non-Occupier,86833.0
+P51,Mallow,4,2020,All Dwelling Statuses,All Buyer Types,182288.0
+P51,Mallow,4,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,239629.0
+P51,Mallow,4,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,173115.0
+P51,Mallow,4,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,111750.0
+P51,Mallow,4,2020,New,All Buyer Types,278726.0
+P51,Mallow,4,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,287453.0
+P51,Mallow,4,2020,New,Household Buyer - Former Owner-Occupier,270000.0
+P51,Mallow,4,2020,New,Household Buyer - Non-Occupier,
+P51,Mallow,4,2020,Existing,All Buyer Types,163000.0
+P51,Mallow,4,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220500.0
+P51,Mallow,4,2020,Existing,Household Buyer - Former Owner-Occupier,155500.0
+P51,Mallow,4,2020,Existing,Household Buyer - Non-Occupier,111750.0
+P51,Mallow,5,2020,All Dwelling Statuses,All Buyer Types,169806.0
+P51,Mallow,5,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,189671.0
+P51,Mallow,5,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,198125.0
+P51,Mallow,5,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,62700.0
+P51,Mallow,5,2020,New,All Buyer Types,252232.0
+P51,Mallow,5,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,270847.0
+P51,Mallow,5,2020,New,Household Buyer - Former Owner-Occupier,215000.0
+P51,Mallow,5,2020,New,Household Buyer - Non-Occupier,
+P51,Mallow,5,2020,Existing,All Buyer Types,159054.0
+P51,Mallow,5,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,157200.0
+P51,Mallow,5,2020,Existing,Household Buyer - Former Owner-Occupier,196827.0
+P51,Mallow,5,2020,Existing,Household Buyer - Non-Occupier,62700.0
+P51,Mallow,6,2020,All Dwelling Statuses,All Buyer Types,193441.0
+P51,Mallow,6,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,208468.0
+P51,Mallow,6,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197604.0
+P51,Mallow,6,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,71250.0
+P51,Mallow,6,2020,New,All Buyer Types,231873.0
+P51,Mallow,6,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,242821.0
+P51,Mallow,6,2020,New,Household Buyer - Former Owner-Occupier,209975.0
+P51,Mallow,6,2020,New,Household Buyer - Non-Occupier,
+P51,Mallow,6,2020,Existing,All Buyer Types,189466.0
+P51,Mallow,6,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,200833.0
+P51,Mallow,6,2020,Existing,Household Buyer - Former Owner-Occupier,196917.0
+P51,Mallow,6,2020,Existing,Household Buyer - Non-Occupier,71250.0
+P51,Mallow,7,2020,All Dwelling Statuses,All Buyer Types,173421.0
+P51,Mallow,7,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,195259.0
+P51,Mallow,7,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,163889.0
+P51,Mallow,7,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,143784.0
+P51,Mallow,7,2020,New,All Buyer Types,257476.0
+P51,Mallow,7,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,268038.0
+P51,Mallow,7,2020,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,7,2020,New,Household Buyer - Non-Occupier,236352.0
+P51,Mallow,7,2020,Existing,All Buyer Types,158588.0
+P51,Mallow,7,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,171000.0
+P51,Mallow,7,2020,Existing,Household Buyer - Former Owner-Occupier,163889.0
+P51,Mallow,7,2020,Existing,Household Buyer - Non-Occupier,97500.0
+P51,Mallow,8,2020,All Dwelling Statuses,All Buyer Types,179163.0
+P51,Mallow,8,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,207868.0
+P51,Mallow,8,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,173167.0
+P51,Mallow,8,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,123033.0
+P51,Mallow,8,2020,New,All Buyer Types,214137.0
+P51,Mallow,8,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,230405.0
+P51,Mallow,8,2020,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,8,2020,New,Household Buyer - Non-Occupier,181600.0
+P51,Mallow,8,2020,Existing,All Buyer Types,174792.0
+P51,Mallow,8,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,201429.0
+P51,Mallow,8,2020,Existing,Household Buyer - Former Owner-Occupier,173167.0
+P51,Mallow,8,2020,Existing,Household Buyer - Non-Occupier,93750.0
+P51,Mallow,9,2020,All Dwelling Statuses,All Buyer Types,147375.0
+P51,Mallow,9,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,161000.0
+P51,Mallow,9,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,155659.0
+P51,Mallow,9,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,67750.0
+P51,Mallow,9,2020,New,All Buyer Types,
+P51,Mallow,9,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,9,2020,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,9,2020,New,Household Buyer - Non-Occupier,
+P51,Mallow,9,2020,Existing,All Buyer Types,147375.0
+P51,Mallow,9,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,161000.0
+P51,Mallow,9,2020,Existing,Household Buyer - Former Owner-Occupier,155659.0
+P51,Mallow,9,2020,Existing,Household Buyer - Non-Occupier,67750.0
+P51,Mallow,10,2020,All Dwelling Statuses,All Buyer Types,176117.0
+P51,Mallow,10,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,178018.0
+P51,Mallow,10,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,184908.0
+P51,Mallow,10,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,101750.0
+P51,Mallow,10,2020,New,All Buyer Types,267810.0
+P51,Mallow,10,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,278000.0
+P51,Mallow,10,2020,New,Household Buyer - Former Owner-Occupier,247430.0
+P51,Mallow,10,2020,New,Household Buyer - Non-Occupier,
+P51,Mallow,10,2020,Existing,All Buyer Types,171205.0
+P51,Mallow,10,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,170020.0
+P51,Mallow,10,2020,Existing,Household Buyer - Former Owner-Occupier,182593.0
+P51,Mallow,10,2020,Existing,Household Buyer - Non-Occupier,101750.0
+P51,Mallow,11,2020,All Dwelling Statuses,All Buyer Types,136927.0
+P51,Mallow,11,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,159864.0
+P51,Mallow,11,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,162727.0
+P51,Mallow,11,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,88698.0
+P51,Mallow,11,2020,New,All Buyer Types,499999.0
+P51,Mallow,11,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,11,2020,New,Household Buyer - Former Owner-Occupier,499999.0
+P51,Mallow,11,2020,New,Household Buyer - Non-Occupier,
+P51,Mallow,11,2020,Existing,All Buyer Types,129518.0
+P51,Mallow,11,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,159864.0
+P51,Mallow,11,2020,Existing,Household Buyer - Former Owner-Occupier,146667.0
+P51,Mallow,11,2020,Existing,Household Buyer - Non-Occupier,88698.0
+P51,Mallow,12,2020,All Dwelling Statuses,All Buyer Types,184942.0
+P51,Mallow,12,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180361.0
+P51,Mallow,12,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,206700.0
+P51,Mallow,12,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,133667.0
+P51,Mallow,12,2020,New,All Buyer Types,234999.0
+P51,Mallow,12,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,12,2020,New,Household Buyer - Former Owner-Occupier,234999.0
+P51,Mallow,12,2020,New,Household Buyer - Non-Occupier,
+P51,Mallow,12,2020,Existing,All Buyer Types,183961.0
+P51,Mallow,12,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180361.0
+P51,Mallow,12,2020,Existing,Household Buyer - Former Owner-Occupier,205521.0
+P51,Mallow,12,2020,Existing,Household Buyer - Non-Occupier,133667.0
+P51,Mallow,1,2021,All Dwelling Statuses,All Buyer Types,166895.0
+P51,Mallow,1,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,162481.0
+P51,Mallow,1,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,194853.0
+P51,Mallow,1,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,114167.0
+P51,Mallow,1,2021,New,All Buyer Types,161204.0
+P51,Mallow,1,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,232675.0
+P51,Mallow,1,2021,New,Household Buyer - Former Owner-Occupier,125469.0
+P51,Mallow,1,2021,New,Household Buyer - Non-Occupier,
+P51,Mallow,1,2021,Existing,All Buyer Types,167397.0
+P51,Mallow,1,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,158094.0
+P51,Mallow,1,2021,Existing,Household Buyer - Former Owner-Occupier,206417.0
+P51,Mallow,1,2021,Existing,Household Buyer - Non-Occupier,114167.0
+P51,Mallow,2,2021,All Dwelling Statuses,All Buyer Types,162933.0
+P51,Mallow,2,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,158500.0
+P51,Mallow,2,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,167837.0
+P51,Mallow,2,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,150619.0
+P51,Mallow,2,2021,New,All Buyer Types,
+P51,Mallow,2,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,2,2021,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,2,2021,New,Household Buyer - Non-Occupier,
+P51,Mallow,2,2021,Existing,All Buyer Types,162933.0
+P51,Mallow,2,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,158500.0
+P51,Mallow,2,2021,Existing,Household Buyer - Former Owner-Occupier,167837.0
+P51,Mallow,2,2021,Existing,Household Buyer - Non-Occupier,150619.0
+P51,Mallow,3,2021,All Dwelling Statuses,All Buyer Types,167471.0
+P51,Mallow,3,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,166350.0
+P51,Mallow,3,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178480.0
+P51,Mallow,3,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,125333.0
+P51,Mallow,3,2021,New,All Buyer Types,
+P51,Mallow,3,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,3,2021,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,3,2021,New,Household Buyer - Non-Occupier,
+P51,Mallow,3,2021,Existing,All Buyer Types,167471.0
+P51,Mallow,3,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,166350.0
+P51,Mallow,3,2021,Existing,Household Buyer - Former Owner-Occupier,178480.0
+P51,Mallow,3,2021,Existing,Household Buyer - Non-Occupier,125333.0
+P51,Mallow,4,2021,All Dwelling Statuses,All Buyer Types,168789.0
+P51,Mallow,4,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160231.0
+P51,Mallow,4,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,181447.0
+P51,Mallow,4,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,152631.0
+P51,Mallow,4,2021,New,All Buyer Types,147550.0
+P51,Mallow,4,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,4,2021,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,4,2021,New,Household Buyer - Non-Occupier,147550.0
+P51,Mallow,4,2021,Existing,All Buyer Types,169333.0
+P51,Mallow,4,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160231.0
+P51,Mallow,4,2021,Existing,Household Buyer - Former Owner-Occupier,181447.0
+P51,Mallow,4,2021,Existing,Household Buyer - Non-Occupier,153357.0
+P51,Mallow,5,2021,All Dwelling Statuses,All Buyer Types,165300.0
+P51,Mallow,5,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,198273.0
+P51,Mallow,5,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,153842.0
+P51,Mallow,5,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,150800.0
+P51,Mallow,5,2021,New,All Buyer Types,290000.0
+P51,Mallow,5,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,290000.0
+P51,Mallow,5,2021,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,5,2021,New,Household Buyer - Non-Occupier,
+P51,Mallow,5,2021,Existing,All Buyer Types,162103.0
+P51,Mallow,5,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,189100.0
+P51,Mallow,5,2021,Existing,Household Buyer - Former Owner-Occupier,153842.0
+P51,Mallow,5,2021,Existing,Household Buyer - Non-Occupier,150800.0
+P51,Mallow,6,2021,All Dwelling Statuses,All Buyer Types,181478.0
+P51,Mallow,6,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,211063.0
+P51,Mallow,6,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197705.0
+P51,Mallow,6,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,88214.0
+P51,Mallow,6,2021,New,All Buyer Types,270125.0
+P51,Mallow,6,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,270125.0
+P51,Mallow,6,2021,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,6,2021,New,Household Buyer - Non-Occupier,
+P51,Mallow,6,2021,Existing,All Buyer Types,168441.0
+P51,Mallow,6,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,152000.0
+P51,Mallow,6,2021,Existing,Household Buyer - Former Owner-Occupier,197705.0
+P51,Mallow,6,2021,Existing,Household Buyer - Non-Occupier,88214.0
+P51,Mallow,7,2021,All Dwelling Statuses,All Buyer Types,177238.0
+P51,Mallow,7,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,173497.0
+P51,Mallow,7,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,204413.0
+P51,Mallow,7,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,119600.0
+P51,Mallow,7,2021,New,All Buyer Types,305865.0
+P51,Mallow,7,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,305965.0
+P51,Mallow,7,2021,New,Household Buyer - Former Owner-Occupier,305832.0
+P51,Mallow,7,2021,New,Household Buyer - Non-Occupier,
+P51,Mallow,7,2021,Existing,All Buyer Types,164988.0
+P51,Mallow,7,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,162458.0
+P51,Mallow,7,2021,Existing,Household Buyer - Former Owner-Occupier,189200.0
+P51,Mallow,7,2021,Existing,Household Buyer - Non-Occupier,119600.0
+P51,Mallow,8,2021,All Dwelling Statuses,All Buyer Types,176972.0
+P51,Mallow,8,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,184897.0
+P51,Mallow,8,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,189941.0
+P51,Mallow,8,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,122214.0
+P51,Mallow,8,2021,New,All Buyer Types,329525.0
+P51,Mallow,8,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,279806.0
+P51,Mallow,8,2021,New,Household Buyer - Former Owner-Occupier,354384.0
+P51,Mallow,8,2021,New,Household Buyer - Non-Occupier,
+P51,Mallow,8,2021,Existing,All Buyer Types,165237.0
+P51,Mallow,8,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,177596.0
+P51,Mallow,8,2021,Existing,Household Buyer - Former Owner-Occupier,172632.0
+P51,Mallow,8,2021,Existing,Household Buyer - Non-Occupier,122214.0
+P51,Mallow,9,2021,All Dwelling Statuses,All Buyer Types,196481.0
+P51,Mallow,9,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,217190.0
+P51,Mallow,9,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,224132.0
+P51,Mallow,9,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,122615.0
+P51,Mallow,9,2021,New,All Buyer Types,280000.0
+P51,Mallow,9,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,280000.0
+P51,Mallow,9,2021,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,9,2021,New,Household Buyer - Non-Occupier,
+P51,Mallow,9,2021,Existing,All Buyer Types,194875.0
+P51,Mallow,9,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,214050.0
+P51,Mallow,9,2021,Existing,Household Buyer - Former Owner-Occupier,224132.0
+P51,Mallow,9,2021,Existing,Household Buyer - Non-Occupier,122615.0
+P51,Mallow,10,2021,All Dwelling Statuses,All Buyer Types,191110.0
+P51,Mallow,10,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,213722.0
+P51,Mallow,10,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,203280.0
+P51,Mallow,10,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,113200.0
+P51,Mallow,10,2021,New,All Buyer Types,299000.0
+P51,Mallow,10,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,299000.0
+P51,Mallow,10,2021,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,10,2021,New,Household Buyer - Non-Occupier,
+P51,Mallow,10,2021,Existing,All Buyer Types,189148.0
+P51,Mallow,10,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,209458.0
+P51,Mallow,10,2021,Existing,Household Buyer - Former Owner-Occupier,203280.0
+P51,Mallow,10,2021,Existing,Household Buyer - Non-Occupier,113200.0
+P51,Mallow,11,2021,All Dwelling Statuses,All Buyer Types,204312.0
+P51,Mallow,11,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,215080.0
+P51,Mallow,11,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,210963.0
+P51,Mallow,11,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,145667.0
+P51,Mallow,11,2021,New,All Buyer Types,343637.0
+P51,Mallow,11,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,187275.0
+P51,Mallow,11,2021,New,Household Buyer - Former Owner-Occupier,499999.0
+P51,Mallow,11,2021,New,Household Buyer - Non-Occupier,
+P51,Mallow,11,2021,Existing,All Buyer Types,198383.0
+P51,Mallow,11,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,216933.0
+P51,Mallow,11,2021,Existing,Household Buyer - Former Owner-Occupier,199846.0
+P51,Mallow,11,2021,Existing,Household Buyer - Non-Occupier,145667.0
+P51,Mallow,12,2021,All Dwelling Statuses,All Buyer Types,221661.0
+P51,Mallow,12,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,196105.0
+P51,Mallow,12,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,255131.0
+P51,Mallow,12,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,118500.0
+P51,Mallow,12,2021,New,All Buyer Types,331052.0
+P51,Mallow,12,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+P51,Mallow,12,2021,New,Household Buyer - Former Owner-Occupier,346578.0
+P51,Mallow,12,2021,New,Household Buyer - Non-Occupier,
+P51,Mallow,12,2021,Existing,All Buyer Types,209038.0
+P51,Mallow,12,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,183882.0
+P51,Mallow,12,2021,Existing,Household Buyer - Former Owner-Occupier,242517.0
+P51,Mallow,12,2021,Existing,Household Buyer - Non-Occupier,118500.0
+P51,Mallow,1,2022,All Dwelling Statuses,All Buyer Types,198257.0
+P51,Mallow,1,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,179636.0
+P51,Mallow,1,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,230820.0
+P51,Mallow,1,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,134313.0
+P51,Mallow,1,2022,New,All Buyer Types,264017.0
+P51,Mallow,1,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,1,2022,New,Household Buyer - Former Owner-Occupier,264017.0
+P51,Mallow,1,2022,New,Household Buyer - Non-Occupier,
+P51,Mallow,1,2022,Existing,All Buyer Types,193066.0
+P51,Mallow,1,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,179636.0
+P51,Mallow,1,2022,Existing,Household Buyer - Former Owner-Occupier,225579.0
+P51,Mallow,1,2022,Existing,Household Buyer - Non-Occupier,134313.0
+P51,Mallow,2,2022,All Dwelling Statuses,All Buyer Types,228401.0
+P51,Mallow,2,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,237476.0
+P51,Mallow,2,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,248917.0
+P51,Mallow,2,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,126214.0
+P51,Mallow,2,2022,New,All Buyer Types,
+P51,Mallow,2,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,2,2022,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,2,2022,New,Household Buyer - Non-Occupier,
+P51,Mallow,2,2022,Existing,All Buyer Types,228401.0
+P51,Mallow,2,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,237476.0
+P51,Mallow,2,2022,Existing,Household Buyer - Former Owner-Occupier,248917.0
+P51,Mallow,2,2022,Existing,Household Buyer - Non-Occupier,126214.0
+P51,Mallow,3,2022,All Dwelling Statuses,All Buyer Types,216286.0
+P51,Mallow,3,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,230938.0
+P51,Mallow,3,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,215302.0
+P51,Mallow,3,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,160667.0
+P51,Mallow,3,2022,New,All Buyer Types,279688.0
+P51,Mallow,3,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,286733.0
+P51,Mallow,3,2022,New,Household Buyer - Former Owner-Occupier,269120.0
+P51,Mallow,3,2022,New,Household Buyer - Non-Occupier,
+P51,Mallow,3,2022,Existing,All Buyer Types,207229.0
+P51,Mallow,3,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,214200.0
+P51,Mallow,3,2022,Existing,Household Buyer - Former Owner-Occupier,210409.0
+P51,Mallow,3,2022,Existing,Household Buyer - Non-Occupier,160667.0
+P51,Mallow,4,2022,All Dwelling Statuses,All Buyer Types,191131.0
+P51,Mallow,4,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,203168.0
+P51,Mallow,4,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,199674.0
+P51,Mallow,4,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,115667.0
+P51,Mallow,4,2022,New,All Buyer Types,312317.0
+P51,Mallow,4,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,316425.0
+P51,Mallow,4,2022,New,Household Buyer - Former Owner-Occupier,308208.0
+P51,Mallow,4,2022,New,Household Buyer - Non-Occupier,
+P51,Mallow,4,2022,Existing,All Buyer Types,168048.0
+P51,Mallow,4,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,178000.0
+P51,Mallow,4,2022,Existing,Household Buyer - Former Owner-Occupier,175556.0
+P51,Mallow,4,2022,Existing,Household Buyer - Non-Occupier,115667.0
+P51,Mallow,5,2022,All Dwelling Statuses,All Buyer Types,207470.0
+P51,Mallow,5,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210714.0
+P51,Mallow,5,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,220158.0
+P51,Mallow,5,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,111083.0
+P51,Mallow,5,2022,New,All Buyer Types,308661.0
+P51,Mallow,5,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,5,2022,New,Household Buyer - Former Owner-Occupier,308661.0
+P51,Mallow,5,2022,New,Household Buyer - Non-Occupier,
+P51,Mallow,5,2022,Existing,All Buyer Types,200491.0
+P51,Mallow,5,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210714.0
+P51,Mallow,5,2022,Existing,Household Buyer - Former Owner-Occupier,210842.0
+P51,Mallow,5,2022,Existing,Household Buyer - Non-Occupier,111083.0
+P51,Mallow,6,2022,All Dwelling Statuses,All Buyer Types,207086.0
+P51,Mallow,6,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,209547.0
+P51,Mallow,6,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,222414.0
+P51,Mallow,6,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,159857.0
+P51,Mallow,6,2022,New,All Buyer Types,305531.0
+P51,Mallow,6,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,317916.0
+P51,Mallow,6,2022,New,Household Buyer - Former Owner-Occupier,268375.0
+P51,Mallow,6,2022,New,Household Buyer - Non-Occupier,
+P51,Mallow,6,2022,Existing,All Buyer Types,196724.0
+P51,Mallow,6,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,184538.0
+P51,Mallow,6,2022,Existing,Household Buyer - Former Owner-Occupier,219861.0
+P51,Mallow,6,2022,Existing,Household Buyer - Non-Occupier,159857.0
+P51,Mallow,7,2022,All Dwelling Statuses,All Buyer Types,225390.0
+P51,Mallow,7,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,242146.0
+P51,Mallow,7,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,222544.0
+P51,Mallow,7,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,186083.0
+P51,Mallow,7,2022,New,All Buyer Types,271096.0
+P51,Mallow,7,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,277222.0
+P51,Mallow,7,2022,New,Household Buyer - Former Owner-Occupier,254762.0
+P51,Mallow,7,2022,New,Household Buyer - Non-Occupier,
+P51,Mallow,7,2022,Existing,All Buyer Types,213698.0
+P51,Mallow,7,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,216636.0
+P51,Mallow,7,2022,Existing,Household Buyer - Former Owner-Occupier,218827.0
+P51,Mallow,7,2022,Existing,Household Buyer - Non-Occupier,186083.0
+P51,Mallow,8,2022,All Dwelling Statuses,All Buyer Types,212000.0
+P51,Mallow,8,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210208.0
+P51,Mallow,8,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,231984.0
+P51,Mallow,8,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,126786.0
+P51,Mallow,8,2022,New,All Buyer Types,275000.0
+P51,Mallow,8,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+P51,Mallow,8,2022,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,8,2022,New,Household Buyer - Non-Occupier,
+P51,Mallow,8,2022,Existing,All Buyer Types,206569.0
+P51,Mallow,8,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,193158.0
+P51,Mallow,8,2022,Existing,Household Buyer - Former Owner-Occupier,231984.0
+P51,Mallow,8,2022,Existing,Household Buyer - Non-Occupier,126786.0
+P51,Mallow,9,2022,All Dwelling Statuses,All Buyer Types,251849.0
+P51,Mallow,9,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,238412.0
+P51,Mallow,9,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,288688.0
+P51,Mallow,9,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,98000.0
+P51,Mallow,9,2022,New,All Buyer Types,298241.0
+P51,Mallow,9,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,298241.0
+P51,Mallow,9,2022,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,9,2022,New,Household Buyer - Non-Occupier,
+P51,Mallow,9,2022,Existing,All Buyer Types,250862.0
+P51,Mallow,9,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,235263.0
+P51,Mallow,9,2022,Existing,Household Buyer - Former Owner-Occupier,288688.0
+P51,Mallow,9,2022,Existing,Household Buyer - Non-Occupier,98000.0
+P51,Mallow,10,2022,All Dwelling Statuses,All Buyer Types,227158.0
+P51,Mallow,10,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,196972.0
+P51,Mallow,10,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,243918.0
+P51,Mallow,10,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,217563.0
+P51,Mallow,10,2022,New,All Buyer Types,296690.0
+P51,Mallow,10,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,10,2022,New,Household Buyer - Former Owner-Occupier,409282.0
+P51,Mallow,10,2022,New,Household Buyer - Non-Occupier,71505.0
+P51,Mallow,10,2022,Existing,All Buyer Types,223682.0
+P51,Mallow,10,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,196972.0
+P51,Mallow,10,2022,Existing,Household Buyer - Former Owner-Occupier,234468.0
+P51,Mallow,10,2022,Existing,Household Buyer - Non-Occupier,238429.0
+P51,Mallow,11,2022,All Dwelling Statuses,All Buyer Types,237823.0
+P51,Mallow,11,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,243585.0
+P51,Mallow,11,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,259100.0
+P51,Mallow,11,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,168273.0
+P51,Mallow,11,2022,New,All Buyer Types,293895.0
+P51,Mallow,11,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,275843.0
+P51,Mallow,11,2022,New,Household Buyer - Former Owner-Occupier,330000.0
+P51,Mallow,11,2022,New,Household Buyer - Non-Occupier,
+P51,Mallow,11,2022,Existing,All Buyer Types,231921.0
+P51,Mallow,11,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,236417.0
+P51,Mallow,11,2022,Existing,Household Buyer - Former Owner-Occupier,254036.0
+P51,Mallow,11,2022,Existing,Household Buyer - Non-Occupier,168273.0
+P51,Mallow,12,2022,All Dwelling Statuses,All Buyer Types,224936.0
+P51,Mallow,12,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,258424.0
+P51,Mallow,12,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,235245.0
+P51,Mallow,12,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,121182.0
+P51,Mallow,12,2022,New,All Buyer Types,319918.0
+P51,Mallow,12,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,313890.0
+P51,Mallow,12,2022,New,Household Buyer - Former Owner-Occupier,327454.0
+P51,Mallow,12,2022,New,Household Buyer - Non-Occupier,
+P51,Mallow,12,2022,Existing,All Buyer Types,208497.0
+P51,Mallow,12,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,245818.0
+P51,Mallow,12,2022,Existing,Household Buyer - Former Owner-Occupier,215833.0
+P51,Mallow,12,2022,Existing,Household Buyer - Non-Occupier,121182.0
+P51,Mallow,1,2023,All Dwelling Statuses,All Buyer Types,200038.0
+P51,Mallow,1,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,222750.0
+P51,Mallow,1,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,204647.0
+P51,Mallow,1,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,134000.0
+P51,Mallow,1,2023,New,All Buyer Types,324227.0
+P51,Mallow,1,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,321334.0
+P51,Mallow,1,2023,New,Household Buyer - Former Owner-Occupier,326396.0
+P51,Mallow,1,2023,New,Household Buyer - Non-Occupier,
+P51,Mallow,1,2023,Existing,All Buyer Types,178835.0
+P51,Mallow,1,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,204265.0
+P51,Mallow,1,2023,Existing,Household Buyer - Former Owner-Occupier,176000.0
+P51,Mallow,1,2023,Existing,Household Buyer - Non-Occupier,134000.0
+P51,Mallow,2,2023,All Dwelling Statuses,All Buyer Types,232859.0
+P51,Mallow,2,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,222368.0
+P51,Mallow,2,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,249861.0
+P51,Mallow,2,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,128500.0
+P51,Mallow,2,2023,New,All Buyer Types,328233.0
+P51,Mallow,2,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,325000.0
+P51,Mallow,2,2023,New,Household Buyer - Former Owner-Occupier,333082.0
+P51,Mallow,2,2023,New,Household Buyer - Non-Occupier,
+P51,Mallow,2,2023,Existing,All Buyer Types,220938.0
+P51,Mallow,2,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,203125.0
+P51,Mallow,2,2023,Existing,Household Buyer - Former Owner-Occupier,242295.0
+P51,Mallow,2,2023,Existing,Household Buyer - Non-Occupier,128500.0
+P51,Mallow,3,2023,All Dwelling Statuses,All Buyer Types,234834.0
+P51,Mallow,3,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,261241.0
+P51,Mallow,3,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,242071.0
+P51,Mallow,3,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,138286.0
+P51,Mallow,3,2023,New,All Buyer Types,341085.0
+P51,Mallow,3,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,339481.0
+P51,Mallow,3,2023,New,Household Buyer - Former Owner-Occupier,347500.0
+P51,Mallow,3,2023,New,Household Buyer - Non-Occupier,
+P51,Mallow,3,2023,Existing,All Buyer Types,212698.0
+P51,Mallow,3,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,183000.0
+P51,Mallow,3,2023,Existing,Household Buyer - Former Owner-Occupier,235682.0
+P51,Mallow,3,2023,Existing,Household Buyer - Non-Occupier,138286.0
+P51,Mallow,4,2023,All Dwelling Statuses,All Buyer Types,243264.0
+P51,Mallow,4,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,261564.0
+P51,Mallow,4,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,258720.0
+P51,Mallow,4,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,151417.0
+P51,Mallow,4,2023,New,All Buyer Types,330844.0
+P51,Mallow,4,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,336125.0
+P51,Mallow,4,2023,New,Household Buyer - Former Owner-Occupier,315000.0
+P51,Mallow,4,2023,New,Household Buyer - Non-Occupier,
+P51,Mallow,4,2023,Existing,All Buyer Types,233533.0
+P51,Mallow,4,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,224283.0
+P51,Mallow,4,2023,Existing,Household Buyer - Former Owner-Occupier,256375.0
+P51,Mallow,4,2023,Existing,Household Buyer - Non-Occupier,151417.0
+P51,Mallow,5,2023,All Dwelling Statuses,All Buyer Types,215943.0
+P51,Mallow,5,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,205227.0
+P51,Mallow,5,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,242130.0
+P51,Mallow,5,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,167500.0
+P51,Mallow,5,2023,New,All Buyer Types,390000.0
+P51,Mallow,5,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P51,Mallow,5,2023,New,Household Buyer - Former Owner-Occupier,390000.0
+P51,Mallow,5,2023,New,Household Buyer - Non-Occupier,
+P51,Mallow,5,2023,Existing,All Buyer Types,207655.0
+P51,Mallow,5,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,205227.0
+P51,Mallow,5,2023,Existing,Household Buyer - Former Owner-Occupier,228048.0
+P51,Mallow,5,2023,Existing,Household Buyer - Non-Occupier,167500.0
+P51,Mallow,6,2023,All Dwelling Statuses,All Buyer Types,232861.0
+P51,Mallow,6,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,247548.0
+P51,Mallow,6,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,238434.0
+P51,Mallow,6,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,159167.0
+P51,Mallow,6,2023,New,All Buyer Types,364308.0
+P51,Mallow,6,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,335000.0
+P51,Mallow,6,2023,New,Household Buyer - Former Owner-Occupier,378962.0
+P51,Mallow,6,2023,New,Household Buyer - Non-Occupier,
+P51,Mallow,6,2023,Existing,All Buyer Types,224646.0
+P51,Mallow,6,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,243175.0
+P51,Mallow,6,2023,Existing,Household Buyer - Former Owner-Occupier,225659.0
+P51,Mallow,6,2023,Existing,Household Buyer - Non-Occupier,159167.0
+P51,Mallow,7,2023,All Dwelling Statuses,All Buyer Types,244617.0
+P51,Mallow,7,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,253061.0
+P51,Mallow,7,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,256929.0
+P51,Mallow,7,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,141900.0
+P51,Mallow,7,2023,New,All Buyer Types,354204.0
+P51,Mallow,7,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,353806.0
+P51,Mallow,7,2023,New,Household Buyer - Former Owner-Occupier,355000.0
+P51,Mallow,7,2023,New,Household Buyer - Non-Occupier,
+P51,Mallow,7,2023,Existing,All Buyer Types,230628.0
+P51,Mallow,7,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,227875.0
+P51,Mallow,7,2023,Existing,Household Buyer - Former Owner-Occupier,249385.0
+P51,Mallow,7,2023,Existing,Household Buyer - Non-Occupier,141900.0
+P51,Mallow,8,2023,All Dwelling Statuses,All Buyer Types,262502.0
+P51,Mallow,8,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,275659.0
+P51,Mallow,8,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,245679.0
+P51,Mallow,8,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,286000.0
+P51,Mallow,8,2023,New,All Buyer Types,327796.0
+P51,Mallow,8,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,359000.0
+P51,Mallow,8,2023,New,Household Buyer - Former Owner-Occupier,249788.0
+P51,Mallow,8,2023,New,Household Buyer - Non-Occupier,
+P51,Mallow,8,2023,Existing,All Buyer Types,250149.0
+P51,Mallow,8,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,251147.0
+P51,Mallow,8,2023,Existing,Household Buyer - Former Owner-Occupier,245222.0
+P51,Mallow,8,2023,Existing,Household Buyer - Non-Occupier,286000.0
+P51,Mallow,9,2023,All Dwelling Statuses,All Buyer Types,244740.0
+P51,Mallow,9,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,239756.0
+P51,Mallow,9,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,285399.0
+P51,Mallow,9,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,104286.0
+P51,Mallow,9,2023,New,All Buyer Types,347271.0
+P51,Mallow,9,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,347271.0
+P51,Mallow,9,2023,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,9,2023,New,Household Buyer - Non-Occupier,
+P51,Mallow,9,2023,Existing,All Buyer Types,230385.0
+P51,Mallow,9,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,192719.0
+P51,Mallow,9,2023,Existing,Household Buyer - Former Owner-Occupier,285399.0
+P51,Mallow,9,2023,Existing,Household Buyer - Non-Occupier,104286.0
+P51,Mallow,10,2023,All Dwelling Statuses,All Buyer Types,235613.0
+P51,Mallow,10,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,263504.0
+P51,Mallow,10,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,256385.0
+P51,Mallow,10,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,131400.0
+P51,Mallow,10,2023,New,All Buyer Types,347940.0
+P51,Mallow,10,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,345097.0
+P51,Mallow,10,2023,New,Household Buyer - Former Owner-Occupier,365000.0
+P51,Mallow,10,2023,New,Household Buyer - Non-Occupier,
+P51,Mallow,10,2023,Existing,All Buyer Types,218883.0
+P51,Mallow,10,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,222708.0
+P51,Mallow,10,2023,Existing,Household Buyer - Former Owner-Occupier,252040.0
+P51,Mallow,10,2023,Existing,Household Buyer - Non-Occupier,131400.0
+P51,Mallow,11,2023,All Dwelling Statuses,All Buyer Types,253670.0
+P51,Mallow,11,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,272684.0
+P51,Mallow,11,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,259021.0
+P51,Mallow,11,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,131250.0
+P51,Mallow,11,2023,New,All Buyer Types,339167.0
+P51,Mallow,11,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,320000.0
+P51,Mallow,11,2023,New,Household Buyer - Former Owner-Occupier,377500.0
+P51,Mallow,11,2023,New,Household Buyer - Non-Occupier,
+P51,Mallow,11,2023,Existing,All Buyer Types,241159.0
+P51,Mallow,11,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,260067.0
+P51,Mallow,11,2023,Existing,Household Buyer - Former Owner-Occupier,248250.0
+P51,Mallow,11,2023,Existing,Household Buyer - Non-Occupier,131250.0
+P51,Mallow,12,2023,All Dwelling Statuses,All Buyer Types,246421.0
+P51,Mallow,12,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,240927.0
+P51,Mallow,12,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,257065.0
+P51,Mallow,12,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,231857.0
+P51,Mallow,12,2023,New,All Buyer Types,351020.0
+P51,Mallow,12,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,351275.0
+P51,Mallow,12,2023,New,Household Buyer - Former Owner-Occupier,350000.0
+P51,Mallow,12,2023,New,Household Buyer - Non-Occupier,
+P51,Mallow,12,2023,Existing,All Buyer Types,236167.0
+P51,Mallow,12,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220864.0
+P51,Mallow,12,2023,Existing,Household Buyer - Former Owner-Occupier,252841.0
+P51,Mallow,12,2023,Existing,Household Buyer - Non-Occupier,231857.0
+P51,Mallow,1,2024,All Dwelling Statuses,All Buyer Types,245101.0
+P51,Mallow,1,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,244780.0
+P51,Mallow,1,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,252875.0
+P51,Mallow,1,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,185000.0
+P51,Mallow,1,2024,New,All Buyer Types,351910.0
+P51,Mallow,1,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,351910.0
+P51,Mallow,1,2024,New,Household Buyer - Former Owner-Occupier,
+P51,Mallow,1,2024,New,Household Buyer - Non-Occupier,
+P51,Mallow,1,2024,Existing,All Buyer Types,229278.0
+P51,Mallow,1,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,197167.0
+P51,Mallow,1,2024,Existing,Household Buyer - Former Owner-Occupier,252875.0
+P51,Mallow,1,2024,Existing,Household Buyer - Non-Occupier,185000.0
+P51,Mallow,2,2024,All Dwelling Statuses,All Buyer Types,233512.0
+P51,Mallow,2,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,261001.0
+P51,Mallow,2,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,242197.0
+P51,Mallow,2,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,141200.0
+P51,Mallow,2,2024,New,All Buyer Types,339213.0
+P51,Mallow,2,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,358754.0
+P51,Mallow,2,2024,New,Household Buyer - Former Owner-Occupier,261050.0
+P51,Mallow,2,2024,New,Household Buyer - Non-Occupier,
+P51,Mallow,2,2024,Existing,All Buyer Types,212372.0
+P51,Mallow,2,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,217556.0
+P51,Mallow,2,2024,Existing,Household Buyer - Former Owner-Occupier,240483.0
+P51,Mallow,2,2024,Existing,Household Buyer - Non-Occupier,141200.0
+P51,Mallow,3,2024,All Dwelling Statuses,All Buyer Types,275838.0
+P51,Mallow,3,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,290731.0
+P51,Mallow,3,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,284757.0
+P51,Mallow,3,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,180083.0
+P51,Mallow,3,2024,New,All Buyer Types,371416.0
+P51,Mallow,3,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,368077.0
+P51,Mallow,3,2024,New,Household Buyer - Former Owner-Occupier,378650.0
+P51,Mallow,3,2024,New,Household Buyer - Non-Occupier,
+P51,Mallow,3,2024,Existing,All Buyer Types,222426.0
+P51,Mallow,3,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,213385.0
+P51,Mallow,3,2024,Existing,Household Buyer - Former Owner-Occupier,247200.0
+P51,Mallow,3,2024,Existing,Household Buyer - Non-Occupier,180083.0
+P51,Mallow,4,2024,All Dwelling Statuses,All Buyer Types,249420.0
+P51,Mallow,4,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,253250.0
+P51,Mallow,4,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,278508.0
+P51,Mallow,4,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,148750.0
+P51,Mallow,4,2024,New,All Buyer Types,340728.0
+P51,Mallow,4,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,332500.0
+P51,Mallow,4,2024,New,Household Buyer - Former Owner-Occupier,351699.0
+P51,Mallow,4,2024,New,Household Buyer - Non-Occupier,
+P51,Mallow,4,2024,Existing,All Buyer Types,221630.0
+P51,Mallow,4,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,221550.0
+P51,Mallow,4,2024,Existing,Household Buyer - Former Owner-Occupier,254111.0
+P51,Mallow,4,2024,Existing,Household Buyer - Non-Occupier,148750.0
+P51,Mallow,5,2024,All Dwelling Statuses,All Buyer Types,221181.0
+P51,Mallow,5,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,252380.0
+P51,Mallow,5,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,241175.0
+P51,Mallow,5,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,130423.0
+P51,Mallow,5,2024,New,All Buyer Types,372307.0
+P51,Mallow,5,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,354000.0
+P51,Mallow,5,2024,New,Household Buyer - Former Owner-Occupier,433332.0
+P51,Mallow,5,2024,New,Household Buyer - Non-Occupier,
+P51,Mallow,5,2024,Existing,All Buyer Types,177522.0
+P51,Mallow,5,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,184633.0
+P51,Mallow,5,2024,Existing,Household Buyer - Former Owner-Occupier,207265.0
+P51,Mallow,5,2024,Existing,Household Buyer - Non-Occupier,130423.0
+P51,Mallow,6,2024,All Dwelling Statuses,All Buyer Types,291627.0
+P51,Mallow,6,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,299324.0
+P51,Mallow,6,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,317591.0
+P51,Mallow,6,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,182539.0
+P51,Mallow,6,2024,New,All Buyer Types,378475.0
+P51,Mallow,6,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,380210.0
+P51,Mallow,6,2024,New,Household Buyer - Former Owner-Occupier,372500.0
+P51,Mallow,6,2024,New,Household Buyer - Non-Occupier,373075.0
+P51,Mallow,6,2024,Existing,All Buyer Types,264090.0
+P51,Mallow,6,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,245400.0
+P51,Mallow,6,2024,Existing,Household Buyer - Former Owner-Occupier,312100.0
+P51,Mallow,6,2024,Existing,Household Buyer - Non-Occupier,150783.0
+P51,Mallow,7,2024,All Dwelling Statuses,All Buyer Types,290256.0
+P51,Mallow,7,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,301071.0
+P51,Mallow,7,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,296956.0
+P51,Mallow,7,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,137500.0
+P51,Mallow,7,2024,New,All Buyer Types,388125.0
+P51,Mallow,7,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,385000.0
+P51,Mallow,7,2024,New,Household Buyer - Former Owner-Occupier,391250.0
+P51,Mallow,7,2024,New,Household Buyer - Non-Occupier,
+P51,Mallow,7,2024,Existing,All Buyer Types,265000.0
+P51,Mallow,7,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,267500.0
+P51,Mallow,7,2024,Existing,Household Buyer - Former Owner-Occupier,277105.0
+P51,Mallow,7,2024,Existing,Household Buyer - Non-Occupier,137500.0

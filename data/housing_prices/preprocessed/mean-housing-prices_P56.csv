@@ -1,0 +1,2101 @@
+Routing Key,City,Month,Year,Dwelling Status,Type of Buyer,VALUE
+P56,Charleville,1,2010,All Dwelling Statuses,All Buyer Types,85000.0
+P56,Charleville,1,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,85000.0
+P56,Charleville,1,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P56,Charleville,1,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,1,2010,New,All Buyer Types,
+P56,Charleville,1,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2010,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,1,2010,New,Household Buyer - Non-Occupier,
+P56,Charleville,1,2010,Existing,All Buyer Types,85000.0
+P56,Charleville,1,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,85000.0
+P56,Charleville,1,2010,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,1,2010,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,2,2010,All Dwelling Statuses,All Buyer Types,308720.0
+P56,Charleville,2,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,308720.0
+P56,Charleville,2,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P56,Charleville,2,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,2,2010,New,All Buyer Types,308720.0
+P56,Charleville,2,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,308720.0
+P56,Charleville,2,2010,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,2,2010,New,Household Buyer - Non-Occupier,
+P56,Charleville,2,2010,Existing,All Buyer Types,
+P56,Charleville,2,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2010,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,2,2010,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,3,2010,All Dwelling Statuses,All Buyer Types,193917.0
+P56,Charleville,3,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,170250.0
+P56,Charleville,3,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,361500.0
+P56,Charleville,3,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,50000.0
+P56,Charleville,3,2010,New,All Buyer Types,170250.0
+P56,Charleville,3,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,170250.0
+P56,Charleville,3,2010,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,3,2010,New,Household Buyer - Non-Occupier,
+P56,Charleville,3,2010,Existing,All Buyer Types,205750.0
+P56,Charleville,3,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2010,Existing,Household Buyer - Former Owner-Occupier,361500.0
+P56,Charleville,3,2010,Existing,Household Buyer - Non-Occupier,50000.0
+P56,Charleville,4,2010,All Dwelling Statuses,All Buyer Types,125000.0
+P56,Charleville,4,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P56,Charleville,4,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,125000.0
+P56,Charleville,4,2010,New,All Buyer Types,
+P56,Charleville,4,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2010,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,4,2010,New,Household Buyer - Non-Occupier,
+P56,Charleville,4,2010,Existing,All Buyer Types,125000.0
+P56,Charleville,4,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2010,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,4,2010,Existing,Household Buyer - Non-Occupier,125000.0
+P56,Charleville,5,2010,All Dwelling Statuses,All Buyer Types,141342.0
+P56,Charleville,5,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,169513.0
+P56,Charleville,5,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,85000.0
+P56,Charleville,5,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,5,2010,New,All Buyer Types,244025.0
+P56,Charleville,5,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,244025.0
+P56,Charleville,5,2010,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,5,2010,New,Household Buyer - Non-Occupier,
+P56,Charleville,5,2010,Existing,All Buyer Types,90000.0
+P56,Charleville,5,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,95000.0
+P56,Charleville,5,2010,Existing,Household Buyer - Former Owner-Occupier,85000.0
+P56,Charleville,5,2010,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,6,2010,All Dwelling Statuses,All Buyer Types,156167.0
+P56,Charleville,6,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,6,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,156167.0
+P56,Charleville,6,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,6,2010,New,All Buyer Types,
+P56,Charleville,6,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,6,2010,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,6,2010,New,Household Buyer - Non-Occupier,
+P56,Charleville,6,2010,Existing,All Buyer Types,156167.0
+P56,Charleville,6,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,6,2010,Existing,Household Buyer - Former Owner-Occupier,156167.0
+P56,Charleville,6,2010,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,7,2010,All Dwelling Statuses,All Buyer Types,275000.0
+P56,Charleville,7,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+P56,Charleville,7,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P56,Charleville,7,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,7,2010,New,All Buyer Types,
+P56,Charleville,7,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,7,2010,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,7,2010,New,Household Buyer - Non-Occupier,
+P56,Charleville,7,2010,Existing,All Buyer Types,275000.0
+P56,Charleville,7,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+P56,Charleville,7,2010,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,7,2010,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,8,2010,All Dwelling Statuses,All Buyer Types,119044.0
+P56,Charleville,8,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,8,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,119044.0
+P56,Charleville,8,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,8,2010,New,All Buyer Types,68087.0
+P56,Charleville,8,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,8,2010,New,Household Buyer - Former Owner-Occupier,68087.0
+P56,Charleville,8,2010,New,Household Buyer - Non-Occupier,
+P56,Charleville,8,2010,Existing,All Buyer Types,170000.0
+P56,Charleville,8,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,8,2010,Existing,Household Buyer - Former Owner-Occupier,170000.0
+P56,Charleville,8,2010,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,9,2010,All Dwelling Statuses,All Buyer Types,184311.0
+P56,Charleville,9,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210283.0
+P56,Charleville,9,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,154430.0
+P56,Charleville,9,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,186917.0
+P56,Charleville,9,2010,New,All Buyer Types,239544.0
+P56,Charleville,9,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,248565.0
+P56,Charleville,9,2010,New,Household Buyer - Former Owner-Occupier,198860.0
+P56,Charleville,9,2010,New,Household Buyer - Non-Occupier,255375.0
+P56,Charleville,9,2010,Existing,All Buyer Types,110667.0
+P56,Charleville,9,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,172000.0
+P56,Charleville,9,2010,Existing,Household Buyer - Former Owner-Occupier,110000.0
+P56,Charleville,9,2010,Existing,Household Buyer - Non-Occupier,50000.0
+P56,Charleville,10,2010,All Dwelling Statuses,All Buyer Types,135424.0
+P56,Charleville,10,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,145848.0
+P56,Charleville,10,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,125000.0
+P56,Charleville,10,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,10,2010,New,All Buyer Types,145848.0
+P56,Charleville,10,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,145848.0
+P56,Charleville,10,2010,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,10,2010,New,Household Buyer - Non-Occupier,
+P56,Charleville,10,2010,Existing,All Buyer Types,125000.0
+P56,Charleville,10,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,10,2010,Existing,Household Buyer - Former Owner-Occupier,125000.0
+P56,Charleville,10,2010,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,11,2010,All Dwelling Statuses,All Buyer Types,163000.0
+P56,Charleville,11,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,163000.0
+P56,Charleville,11,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P56,Charleville,11,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,11,2010,New,All Buyer Types,
+P56,Charleville,11,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,11,2010,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,11,2010,New,Household Buyer - Non-Occupier,
+P56,Charleville,11,2010,Existing,All Buyer Types,163000.0
+P56,Charleville,11,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,163000.0
+P56,Charleville,11,2010,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,11,2010,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,12,2010,All Dwelling Statuses,All Buyer Types,230055.0
+P56,Charleville,12,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,246091.0
+P56,Charleville,12,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P56,Charleville,12,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,206000.0
+P56,Charleville,12,2010,New,All Buyer Types,230091.0
+P56,Charleville,12,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,231637.0
+P56,Charleville,12,2010,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,12,2010,New,Household Buyer - Non-Occupier,227000.0
+P56,Charleville,12,2010,Existing,All Buyer Types,230000.0
+P56,Charleville,12,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+P56,Charleville,12,2010,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,12,2010,Existing,Household Buyer - Non-Occupier,185000.0
+P56,Charleville,1,2011,All Dwelling Statuses,All Buyer Types,181855.0
+P56,Charleville,1,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,162067.0
+P56,Charleville,1,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,145000.0
+P56,Charleville,1,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,278075.0
+P56,Charleville,1,2011,New,All Buyer Types,186425.0
+P56,Charleville,1,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,136200.0
+P56,Charleville,1,2011,New,Household Buyer - Former Owner-Occupier,145000.0
+P56,Charleville,1,2011,New,Household Buyer - Non-Occupier,278075.0
+P56,Charleville,1,2011,Existing,All Buyer Types,175000.0
+P56,Charleville,1,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+P56,Charleville,1,2011,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,1,2011,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,2,2011,All Dwelling Statuses,All Buyer Types,137223.0
+P56,Charleville,2,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+P56,Charleville,2,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,66668.0
+P56,Charleville,2,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,245000.0
+P56,Charleville,2,2011,New,All Buyer Types,66668.0
+P56,Charleville,2,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2011,New,Household Buyer - Former Owner-Occupier,66668.0
+P56,Charleville,2,2011,New,Household Buyer - Non-Occupier,
+P56,Charleville,2,2011,Existing,All Buyer Types,172500.0
+P56,Charleville,2,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+P56,Charleville,2,2011,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,2,2011,Existing,Household Buyer - Non-Occupier,245000.0
+P56,Charleville,3,2011,All Dwelling Statuses,All Buyer Types,137500.0
+P56,Charleville,3,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,199999.0
+P56,Charleville,3,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,106250.0
+P56,Charleville,3,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,3,2011,New,All Buyer Types,199999.0
+P56,Charleville,3,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,199999.0
+P56,Charleville,3,2011,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,3,2011,New,Household Buyer - Non-Occupier,
+P56,Charleville,3,2011,Existing,All Buyer Types,106250.0
+P56,Charleville,3,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2011,Existing,Household Buyer - Former Owner-Occupier,106250.0
+P56,Charleville,3,2011,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,4,2011,All Dwelling Statuses,All Buyer Types,149667.0
+P56,Charleville,4,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,187000.0
+P56,Charleville,4,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P56,Charleville,4,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,75000.0
+P56,Charleville,4,2011,New,All Buyer Types,
+P56,Charleville,4,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2011,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,4,2011,New,Household Buyer - Non-Occupier,
+P56,Charleville,4,2011,Existing,All Buyer Types,149667.0
+P56,Charleville,4,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,187000.0
+P56,Charleville,4,2011,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,4,2011,Existing,Household Buyer - Non-Occupier,75000.0
+P56,Charleville,5,2011,All Dwelling Statuses,All Buyer Types,295100.0
+P56,Charleville,5,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,5,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,295100.0
+P56,Charleville,5,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,5,2011,New,All Buyer Types,295100.0
+P56,Charleville,5,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,5,2011,New,Household Buyer - Former Owner-Occupier,295100.0
+P56,Charleville,5,2011,New,Household Buyer - Non-Occupier,
+P56,Charleville,5,2011,Existing,All Buyer Types,
+P56,Charleville,5,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,5,2011,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,5,2011,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,6,2011,All Dwelling Statuses,All Buyer Types,203070.0
+P56,Charleville,6,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+P56,Charleville,6,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,157105.0
+P56,Charleville,6,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,6,2011,New,All Buyer Types,114209.0
+P56,Charleville,6,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,6,2011,New,Household Buyer - Former Owner-Occupier,114209.0
+P56,Charleville,6,2011,New,Household Buyer - Non-Occupier,
+P56,Charleville,6,2011,Existing,All Buyer Types,247500.0
+P56,Charleville,6,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+P56,Charleville,6,2011,Existing,Household Buyer - Former Owner-Occupier,200000.0
+P56,Charleville,6,2011,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,7,2011,All Dwelling Statuses,All Buyer Types,180973.0
+P56,Charleville,7,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,234945.0
+P56,Charleville,7,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,127000.0
+P56,Charleville,7,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,7,2011,New,All Buyer Types,234945.0
+P56,Charleville,7,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,234945.0
+P56,Charleville,7,2011,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,7,2011,New,Household Buyer - Non-Occupier,
+P56,Charleville,7,2011,Existing,All Buyer Types,127000.0
+P56,Charleville,7,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,7,2011,Existing,Household Buyer - Former Owner-Occupier,127000.0
+P56,Charleville,7,2011,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,8,2011,All Dwelling Statuses,All Buyer Types,160000.0
+P56,Charleville,8,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+P56,Charleville,8,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P56,Charleville,8,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,8,2011,New,All Buyer Types,
+P56,Charleville,8,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,8,2011,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,8,2011,New,Household Buyer - Non-Occupier,
+P56,Charleville,8,2011,Existing,All Buyer Types,160000.0
+P56,Charleville,8,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+P56,Charleville,8,2011,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,8,2011,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,9,2011,All Dwelling Statuses,All Buyer Types,123200.0
+P56,Charleville,9,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,93100.0
+P56,Charleville,9,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,182500.0
+P56,Charleville,9,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,94000.0
+P56,Charleville,9,2011,New,All Buyer Types,136200.0
+P56,Charleville,9,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,136200.0
+P56,Charleville,9,2011,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,9,2011,New,Household Buyer - Non-Occupier,
+P56,Charleville,9,2011,Existing,All Buyer Types,120600.0
+P56,Charleville,9,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,50000.0
+P56,Charleville,9,2011,Existing,Household Buyer - Former Owner-Occupier,182500.0
+P56,Charleville,9,2011,Existing,Household Buyer - Non-Occupier,94000.0
+P56,Charleville,10,2011,All Dwelling Statuses,All Buyer Types,160000.0
+P56,Charleville,10,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+P56,Charleville,10,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P56,Charleville,10,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,10,2011,New,All Buyer Types,
+P56,Charleville,10,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,10,2011,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,10,2011,New,Household Buyer - Non-Occupier,
+P56,Charleville,10,2011,Existing,All Buyer Types,160000.0
+P56,Charleville,10,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+P56,Charleville,10,2011,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,10,2011,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,11,2011,All Dwelling Statuses,All Buyer Types,50000.0
+P56,Charleville,11,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,11,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,65000.0
+P56,Charleville,11,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,35000.0
+P56,Charleville,11,2011,New,All Buyer Types,
+P56,Charleville,11,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,11,2011,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,11,2011,New,Household Buyer - Non-Occupier,
+P56,Charleville,11,2011,Existing,All Buyer Types,50000.0
+P56,Charleville,11,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,11,2011,Existing,Household Buyer - Former Owner-Occupier,65000.0
+P56,Charleville,11,2011,Existing,Household Buyer - Non-Occupier,35000.0
+P56,Charleville,12,2011,All Dwelling Statuses,All Buyer Types,189000.0
+P56,Charleville,12,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+P56,Charleville,12,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,180000.0
+P56,Charleville,12,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,155000.0
+P56,Charleville,12,2011,New,All Buyer Types,
+P56,Charleville,12,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,12,2011,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,12,2011,New,Household Buyer - Non-Occupier,
+P56,Charleville,12,2011,Existing,All Buyer Types,189000.0
+P56,Charleville,12,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+P56,Charleville,12,2011,Existing,Household Buyer - Former Owner-Occupier,180000.0
+P56,Charleville,12,2011,Existing,Household Buyer - Non-Occupier,155000.0
+P56,Charleville,1,2012,All Dwelling Statuses,All Buyer Types,100000.0
+P56,Charleville,1,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,200000.0
+P56,Charleville,1,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,66667.0
+P56,Charleville,1,2012,New,All Buyer Types,
+P56,Charleville,1,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2012,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,1,2012,New,Household Buyer - Non-Occupier,
+P56,Charleville,1,2012,Existing,All Buyer Types,100000.0
+P56,Charleville,1,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2012,Existing,Household Buyer - Former Owner-Occupier,200000.0
+P56,Charleville,1,2012,Existing,Household Buyer - Non-Occupier,66667.0
+P56,Charleville,2,2012,All Dwelling Statuses,All Buyer Types,125600.0
+P56,Charleville,2,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,125600.0
+P56,Charleville,2,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,2,2012,New,All Buyer Types,136200.0
+P56,Charleville,2,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2012,New,Household Buyer - Former Owner-Occupier,136200.0
+P56,Charleville,2,2012,New,Household Buyer - Non-Occupier,
+P56,Charleville,2,2012,Existing,All Buyer Types,115000.0
+P56,Charleville,2,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2012,Existing,Household Buyer - Former Owner-Occupier,115000.0
+P56,Charleville,2,2012,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,3,2012,All Dwelling Statuses,All Buyer Types,79000.0
+P56,Charleville,3,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,90000.0
+P56,Charleville,3,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,57000.0
+P56,Charleville,3,2012,New,All Buyer Types,
+P56,Charleville,3,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2012,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,3,2012,New,Household Buyer - Non-Occupier,
+P56,Charleville,3,2012,Existing,All Buyer Types,79000.0
+P56,Charleville,3,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2012,Existing,Household Buyer - Former Owner-Occupier,90000.0
+P56,Charleville,3,2012,Existing,Household Buyer - Non-Occupier,57000.0
+P56,Charleville,4,2012,All Dwelling Statuses,All Buyer Types,109000.0
+P56,Charleville,4,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,159500.0
+P56,Charleville,4,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,58500.0
+P56,Charleville,4,2012,New,All Buyer Types,
+P56,Charleville,4,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2012,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,4,2012,New,Household Buyer - Non-Occupier,
+P56,Charleville,4,2012,Existing,All Buyer Types,109000.0
+P56,Charleville,4,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2012,Existing,Household Buyer - Former Owner-Occupier,159500.0
+P56,Charleville,4,2012,Existing,Household Buyer - Non-Occupier,58500.0
+P56,Charleville,5,2012,All Dwelling Statuses,All Buyer Types,96250.0
+P56,Charleville,5,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,85000.0
+P56,Charleville,5,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,107500.0
+P56,Charleville,5,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,5,2012,New,All Buyer Types,
+P56,Charleville,5,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,5,2012,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,5,2012,New,Household Buyer - Non-Occupier,
+P56,Charleville,5,2012,Existing,All Buyer Types,96250.0
+P56,Charleville,5,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,85000.0
+P56,Charleville,5,2012,Existing,Household Buyer - Former Owner-Occupier,107500.0
+P56,Charleville,5,2012,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,6,2012,All Dwelling Statuses,All Buyer Types,142400.0
+P56,Charleville,6,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,101500.0
+P56,Charleville,6,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,192000.0
+P56,Charleville,6,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,125000.0
+P56,Charleville,6,2012,New,All Buyer Types,
+P56,Charleville,6,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,6,2012,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,6,2012,New,Household Buyer - Non-Occupier,
+P56,Charleville,6,2012,Existing,All Buyer Types,142400.0
+P56,Charleville,6,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,101500.0
+P56,Charleville,6,2012,Existing,Household Buyer - Former Owner-Occupier,192000.0
+P56,Charleville,6,2012,Existing,Household Buyer - Non-Occupier,125000.0
+P56,Charleville,7,2012,All Dwelling Statuses,All Buyer Types,170000.0
+P56,Charleville,7,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+P56,Charleville,7,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P56,Charleville,7,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,7,2012,New,All Buyer Types,
+P56,Charleville,7,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,7,2012,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,7,2012,New,Household Buyer - Non-Occupier,
+P56,Charleville,7,2012,Existing,All Buyer Types,170000.0
+P56,Charleville,7,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+P56,Charleville,7,2012,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,7,2012,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,8,2012,All Dwelling Statuses,All Buyer Types,129333.0
+P56,Charleville,8,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,145000.0
+P56,Charleville,8,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,121500.0
+P56,Charleville,8,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,8,2012,New,All Buyer Types,145000.0
+P56,Charleville,8,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,145000.0
+P56,Charleville,8,2012,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,8,2012,New,Household Buyer - Non-Occupier,
+P56,Charleville,8,2012,Existing,All Buyer Types,121500.0
+P56,Charleville,8,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,8,2012,Existing,Household Buyer - Former Owner-Occupier,121500.0
+P56,Charleville,8,2012,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,9,2012,All Dwelling Statuses,All Buyer Types,130500.0
+P56,Charleville,9,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,147500.0
+P56,Charleville,9,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P56,Charleville,9,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,96500.0
+P56,Charleville,9,2012,New,All Buyer Types,
+P56,Charleville,9,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,9,2012,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,9,2012,New,Household Buyer - Non-Occupier,
+P56,Charleville,9,2012,Existing,All Buyer Types,130500.0
+P56,Charleville,9,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,147500.0
+P56,Charleville,9,2012,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,9,2012,Existing,Household Buyer - Non-Occupier,96500.0
+P56,Charleville,10,2012,All Dwelling Statuses,All Buyer Types,111279.0
+P56,Charleville,10,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,123146.0
+P56,Charleville,10,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,91250.0
+P56,Charleville,10,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,92000.0
+P56,Charleville,10,2012,New,All Buyer Types,110732.0
+P56,Charleville,10,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,110732.0
+P56,Charleville,10,2012,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,10,2012,New,Household Buyer - Non-Occupier,
+P56,Charleville,10,2012,Existing,All Buyer Types,111357.0
+P56,Charleville,10,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,126250.0
+P56,Charleville,10,2012,Existing,Household Buyer - Former Owner-Occupier,91250.0
+P56,Charleville,10,2012,Existing,Household Buyer - Non-Occupier,92000.0
+P56,Charleville,11,2012,All Dwelling Statuses,All Buyer Types,94167.0
+P56,Charleville,11,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+P56,Charleville,11,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,83750.0
+P56,Charleville,11,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,11,2012,New,All Buyer Types,115000.0
+P56,Charleville,11,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+P56,Charleville,11,2012,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,11,2012,New,Household Buyer - Non-Occupier,
+P56,Charleville,11,2012,Existing,All Buyer Types,83750.0
+P56,Charleville,11,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,11,2012,Existing,Household Buyer - Former Owner-Occupier,83750.0
+P56,Charleville,11,2012,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,12,2012,All Dwelling Statuses,All Buyer Types,100400.0
+P56,Charleville,12,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+P56,Charleville,12,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,133500.0
+P56,Charleville,12,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,47500.0
+P56,Charleville,12,2012,New,All Buyer Types,
+P56,Charleville,12,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,12,2012,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,12,2012,New,Household Buyer - Non-Occupier,
+P56,Charleville,12,2012,Existing,All Buyer Types,100400.0
+P56,Charleville,12,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+P56,Charleville,12,2012,Existing,Household Buyer - Former Owner-Occupier,133500.0
+P56,Charleville,12,2012,Existing,Household Buyer - Non-Occupier,47500.0
+P56,Charleville,1,2013,All Dwelling Statuses,All Buyer Types,73333.0
+P56,Charleville,1,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,73333.0
+P56,Charleville,1,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,1,2013,New,All Buyer Types,
+P56,Charleville,1,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2013,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,1,2013,New,Household Buyer - Non-Occupier,
+P56,Charleville,1,2013,Existing,All Buyer Types,73333.0
+P56,Charleville,1,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2013,Existing,Household Buyer - Former Owner-Occupier,73333.0
+P56,Charleville,1,2013,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,2,2013,All Dwelling Statuses,All Buyer Types,
+P56,Charleville,2,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P56,Charleville,2,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,2,2013,New,All Buyer Types,
+P56,Charleville,2,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2013,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,2,2013,New,Household Buyer - Non-Occupier,
+P56,Charleville,2,2013,Existing,All Buyer Types,
+P56,Charleville,2,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2013,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,2,2013,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,3,2013,All Dwelling Statuses,All Buyer Types,120500.0
+P56,Charleville,3,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,120500.0
+P56,Charleville,3,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,3,2013,New,All Buyer Types,
+P56,Charleville,3,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2013,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,3,2013,New,Household Buyer - Non-Occupier,
+P56,Charleville,3,2013,Existing,All Buyer Types,120500.0
+P56,Charleville,3,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2013,Existing,Household Buyer - Former Owner-Occupier,120500.0
+P56,Charleville,3,2013,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,4,2013,All Dwelling Statuses,All Buyer Types,77875.0
+P56,Charleville,4,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+P56,Charleville,4,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,107500.0
+P56,Charleville,4,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,52000.0
+P56,Charleville,4,2013,New,All Buyer Types,100000.0
+P56,Charleville,4,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+P56,Charleville,4,2013,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,4,2013,New,Household Buyer - Non-Occupier,
+P56,Charleville,4,2013,Existing,All Buyer Types,70500.0
+P56,Charleville,4,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2013,Existing,Household Buyer - Former Owner-Occupier,107500.0
+P56,Charleville,4,2013,Existing,Household Buyer - Non-Occupier,52000.0
+P56,Charleville,5,2013,All Dwelling Statuses,All Buyer Types,61325.0
+P56,Charleville,5,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,25000.0
+P56,Charleville,5,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,72300.0
+P56,Charleville,5,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,74000.0
+P56,Charleville,5,2013,New,All Buyer Types,
+P56,Charleville,5,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,5,2013,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,5,2013,New,Household Buyer - Non-Occupier,
+P56,Charleville,5,2013,Existing,All Buyer Types,61325.0
+P56,Charleville,5,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,25000.0
+P56,Charleville,5,2013,Existing,Household Buyer - Former Owner-Occupier,72300.0
+P56,Charleville,5,2013,Existing,Household Buyer - Non-Occupier,74000.0
+P56,Charleville,6,2013,All Dwelling Statuses,All Buyer Types,159490.0
+P56,Charleville,6,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,137483.0
+P56,Charleville,6,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,340000.0
+P56,Charleville,6,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,45000.0
+P56,Charleville,6,2013,New,All Buyer Types,
+P56,Charleville,6,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,6,2013,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,6,2013,New,Household Buyer - Non-Occupier,
+P56,Charleville,6,2013,Existing,All Buyer Types,159490.0
+P56,Charleville,6,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,137483.0
+P56,Charleville,6,2013,Existing,Household Buyer - Former Owner-Occupier,340000.0
+P56,Charleville,6,2013,Existing,Household Buyer - Non-Occupier,45000.0
+P56,Charleville,7,2013,All Dwelling Statuses,All Buyer Types,92435.0
+P56,Charleville,7,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,110725.0
+P56,Charleville,7,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,55000.0
+P56,Charleville,7,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,75000.0
+P56,Charleville,7,2013,New,All Buyer Types,119175.0
+P56,Charleville,7,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,119175.0
+P56,Charleville,7,2013,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,7,2013,New,Household Buyer - Non-Occupier,
+P56,Charleville,7,2013,Existing,All Buyer Types,85750.0
+P56,Charleville,7,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,106500.0
+P56,Charleville,7,2013,Existing,Household Buyer - Former Owner-Occupier,55000.0
+P56,Charleville,7,2013,Existing,Household Buyer - Non-Occupier,75000.0
+P56,Charleville,8,2013,All Dwelling Statuses,All Buyer Types,71700.0
+P56,Charleville,8,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,113500.0
+P56,Charleville,8,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,115000.0
+P56,Charleville,8,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,43333.0
+P56,Charleville,8,2013,New,All Buyer Types,114250.0
+P56,Charleville,8,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,113500.0
+P56,Charleville,8,2013,New,Household Buyer - Former Owner-Occupier,115000.0
+P56,Charleville,8,2013,New,Household Buyer - Non-Occupier,
+P56,Charleville,8,2013,Existing,All Buyer Types,43333.0
+P56,Charleville,8,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,8,2013,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,8,2013,Existing,Household Buyer - Non-Occupier,43333.0
+P56,Charleville,9,2013,All Dwelling Statuses,All Buyer Types,148500.0
+P56,Charleville,9,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,9,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,148500.0
+P56,Charleville,9,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,9,2013,New,All Buyer Types,
+P56,Charleville,9,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,9,2013,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,9,2013,New,Household Buyer - Non-Occupier,
+P56,Charleville,9,2013,Existing,All Buyer Types,148500.0
+P56,Charleville,9,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,9,2013,Existing,Household Buyer - Former Owner-Occupier,148500.0
+P56,Charleville,9,2013,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,10,2013,All Dwelling Statuses,All Buyer Types,104078.0
+P56,Charleville,10,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,124850.0
+P56,Charleville,10,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,93400.0
+P56,Charleville,10,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,110000.0
+P56,Charleville,10,2013,New,All Buyer Types,124850.0
+P56,Charleville,10,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,124850.0
+P56,Charleville,10,2013,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,10,2013,New,Household Buyer - Non-Occupier,
+P56,Charleville,10,2013,Existing,All Buyer Types,98143.0
+P56,Charleville,10,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,10,2013,Existing,Household Buyer - Former Owner-Occupier,93400.0
+P56,Charleville,10,2013,Existing,Household Buyer - Non-Occupier,110000.0
+P56,Charleville,11,2013,All Dwelling Statuses,All Buyer Types,135000.0
+P56,Charleville,11,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,135000.0
+P56,Charleville,11,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P56,Charleville,11,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,11,2013,New,All Buyer Types,140000.0
+P56,Charleville,11,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+P56,Charleville,11,2013,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,11,2013,New,Household Buyer - Non-Occupier,
+P56,Charleville,11,2013,Existing,All Buyer Types,130000.0
+P56,Charleville,11,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+P56,Charleville,11,2013,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,11,2013,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,12,2013,All Dwelling Statuses,All Buyer Types,110064.0
+P56,Charleville,12,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,119443.0
+P56,Charleville,12,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,145500.0
+P56,Charleville,12,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,65250.0
+P56,Charleville,12,2013,New,All Buyer Types,159886.0
+P56,Charleville,12,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,159886.0
+P56,Charleville,12,2013,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,12,2013,New,Household Buyer - Non-Occupier,
+P56,Charleville,12,2013,Existing,All Buyer Types,100100.0
+P56,Charleville,12,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,79000.0
+P56,Charleville,12,2013,Existing,Household Buyer - Former Owner-Occupier,145500.0
+P56,Charleville,12,2013,Existing,Household Buyer - Non-Occupier,65250.0
+P56,Charleville,1,2014,All Dwelling Statuses,All Buyer Types,59500.0
+P56,Charleville,1,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,80000.0
+P56,Charleville,1,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,39000.0
+P56,Charleville,1,2014,New,All Buyer Types,
+P56,Charleville,1,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2014,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,1,2014,New,Household Buyer - Non-Occupier,
+P56,Charleville,1,2014,Existing,All Buyer Types,59500.0
+P56,Charleville,1,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2014,Existing,Household Buyer - Former Owner-Occupier,80000.0
+P56,Charleville,1,2014,Existing,Household Buyer - Non-Occupier,39000.0
+P56,Charleville,2,2014,All Dwelling Statuses,All Buyer Types,126444.0
+P56,Charleville,2,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,117500.0
+P56,Charleville,2,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,142888.0
+P56,Charleville,2,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,102500.0
+P56,Charleville,2,2014,New,All Buyer Types,165000.0
+P56,Charleville,2,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2014,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,2,2014,New,Household Buyer - Non-Occupier,165000.0
+P56,Charleville,2,2014,Existing,All Buyer Types,120936.0
+P56,Charleville,2,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,117500.0
+P56,Charleville,2,2014,Existing,Household Buyer - Former Owner-Occupier,142888.0
+P56,Charleville,2,2014,Existing,Household Buyer - Non-Occupier,40000.0
+P56,Charleville,3,2014,All Dwelling Statuses,All Buyer Types,107571.0
+P56,Charleville,3,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,97333.0
+P56,Charleville,3,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,135000.0
+P56,Charleville,3,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,95500.0
+P56,Charleville,3,2014,New,All Buyer Types,112500.0
+P56,Charleville,3,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,112500.0
+P56,Charleville,3,2014,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,3,2014,New,Household Buyer - Non-Occupier,
+P56,Charleville,3,2014,Existing,All Buyer Types,105600.0
+P56,Charleville,3,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,67000.0
+P56,Charleville,3,2014,Existing,Household Buyer - Former Owner-Occupier,135000.0
+P56,Charleville,3,2014,Existing,Household Buyer - Non-Occupier,95500.0
+P56,Charleville,4,2014,All Dwelling Statuses,All Buyer Types,86100.0
+P56,Charleville,4,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,63750.0
+P56,Charleville,4,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,108450.0
+P56,Charleville,4,2014,New,All Buyer Types,158900.0
+P56,Charleville,4,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2014,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,4,2014,New,Household Buyer - Non-Occupier,158900.0
+P56,Charleville,4,2014,Existing,All Buyer Types,61833.0
+P56,Charleville,4,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2014,Existing,Household Buyer - Former Owner-Occupier,63750.0
+P56,Charleville,4,2014,Existing,Household Buyer - Non-Occupier,58000.0
+P56,Charleville,5,2014,All Dwelling Statuses,All Buyer Types,87252.0
+P56,Charleville,5,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,132000.0
+P56,Charleville,5,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,73000.0
+P56,Charleville,5,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,66258.0
+P56,Charleville,5,2014,New,All Buyer Types,73775.0
+P56,Charleville,5,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,5,2014,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,5,2014,New,Household Buyer - Non-Occupier,73775.0
+P56,Charleville,5,2014,Existing,All Buyer Types,88600.0
+P56,Charleville,5,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,132000.0
+P56,Charleville,5,2014,Existing,Household Buyer - Former Owner-Occupier,73000.0
+P56,Charleville,5,2014,Existing,Household Buyer - Non-Occupier,62500.0
+P56,Charleville,6,2014,All Dwelling Statuses,All Buyer Types,84738.0
+P56,Charleville,6,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,60000.0
+P56,Charleville,6,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,59500.0
+P56,Charleville,6,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,109725.0
+P56,Charleville,6,2014,New,All Buyer Types,158900.0
+P56,Charleville,6,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,6,2014,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,6,2014,New,Household Buyer - Non-Occupier,158900.0
+P56,Charleville,6,2014,Existing,All Buyer Types,74143.0
+P56,Charleville,6,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,60000.0
+P56,Charleville,6,2014,Existing,Household Buyer - Former Owner-Occupier,59500.0
+P56,Charleville,6,2014,Existing,Household Buyer - Non-Occupier,93333.0
+P56,Charleville,7,2014,All Dwelling Statuses,All Buyer Types,92500.0
+P56,Charleville,7,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,60000.0
+P56,Charleville,7,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,105000.0
+P56,Charleville,7,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,100000.0
+P56,Charleville,7,2014,New,All Buyer Types,
+P56,Charleville,7,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,7,2014,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,7,2014,New,Household Buyer - Non-Occupier,
+P56,Charleville,7,2014,Existing,All Buyer Types,92500.0
+P56,Charleville,7,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,60000.0
+P56,Charleville,7,2014,Existing,Household Buyer - Former Owner-Occupier,105000.0
+P56,Charleville,7,2014,Existing,Household Buyer - Non-Occupier,100000.0
+P56,Charleville,8,2014,All Dwelling Statuses,All Buyer Types,113500.0
+P56,Charleville,8,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,68000.0
+P56,Charleville,8,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P56,Charleville,8,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,159000.0
+P56,Charleville,8,2014,New,All Buyer Types,80000.0
+P56,Charleville,8,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,80000.0
+P56,Charleville,8,2014,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,8,2014,New,Household Buyer - Non-Occupier,80000.0
+P56,Charleville,8,2014,Existing,All Buyer Types,147000.0
+P56,Charleville,8,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,56000.0
+P56,Charleville,8,2014,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,8,2014,Existing,Household Buyer - Non-Occupier,238000.0
+P56,Charleville,9,2014,All Dwelling Statuses,All Buyer Types,110998.0
+P56,Charleville,9,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,85000.0
+P56,Charleville,9,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,123998.0
+P56,Charleville,9,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,9,2014,New,All Buyer Types,155495.0
+P56,Charleville,9,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,9,2014,New,Household Buyer - Former Owner-Occupier,155495.0
+P56,Charleville,9,2014,New,Household Buyer - Non-Occupier,
+P56,Charleville,9,2014,Existing,All Buyer Types,88750.0
+P56,Charleville,9,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,85000.0
+P56,Charleville,9,2014,Existing,Household Buyer - Former Owner-Occupier,92500.0
+P56,Charleville,9,2014,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,10,2014,All Dwelling Statuses,All Buyer Types,106957.0
+P56,Charleville,10,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,105000.0
+P56,Charleville,10,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,107740.0
+P56,Charleville,10,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,10,2014,New,All Buyer Types,91567.0
+P56,Charleville,10,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+P56,Charleville,10,2014,New,Household Buyer - Former Owner-Occupier,87350.0
+P56,Charleville,10,2014,New,Household Buyer - Non-Occupier,
+P56,Charleville,10,2014,Existing,All Buyer Types,118500.0
+P56,Charleville,10,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+P56,Charleville,10,2014,Existing,Household Buyer - Former Owner-Occupier,121333.0
+P56,Charleville,10,2014,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,11,2014,All Dwelling Statuses,All Buyer Types,101500.0
+P56,Charleville,11,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,101500.0
+P56,Charleville,11,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P56,Charleville,11,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,11,2014,New,All Buyer Types,
+P56,Charleville,11,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,11,2014,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,11,2014,New,Household Buyer - Non-Occupier,
+P56,Charleville,11,2014,Existing,All Buyer Types,101500.0
+P56,Charleville,11,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,101500.0
+P56,Charleville,11,2014,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,11,2014,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,12,2014,All Dwelling Statuses,All Buyer Types,103313.0
+P56,Charleville,12,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,101167.0
+P56,Charleville,12,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,117000.0
+P56,Charleville,12,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,55000.0
+P56,Charleville,12,2014,New,All Buyer Types,113500.0
+P56,Charleville,12,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,113500.0
+P56,Charleville,12,2014,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,12,2014,New,Household Buyer - Non-Occupier,
+P56,Charleville,12,2014,Existing,All Buyer Types,101857.0
+P56,Charleville,12,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,95000.0
+P56,Charleville,12,2014,Existing,Household Buyer - Former Owner-Occupier,117000.0
+P56,Charleville,12,2014,Existing,Household Buyer - Non-Occupier,55000.0
+P56,Charleville,1,2015,All Dwelling Statuses,All Buyer Types,94600.0
+P56,Charleville,1,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,101667.0
+P56,Charleville,1,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P56,Charleville,1,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,84000.0
+P56,Charleville,1,2015,New,All Buyer Types,
+P56,Charleville,1,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2015,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,1,2015,New,Household Buyer - Non-Occupier,
+P56,Charleville,1,2015,Existing,All Buyer Types,94600.0
+P56,Charleville,1,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,101667.0
+P56,Charleville,1,2015,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,1,2015,Existing,Household Buyer - Non-Occupier,84000.0
+P56,Charleville,2,2015,All Dwelling Statuses,All Buyer Types,79125.0
+P56,Charleville,2,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,79125.0
+P56,Charleville,2,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,2,2015,New,All Buyer Types,
+P56,Charleville,2,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2015,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,2,2015,New,Household Buyer - Non-Occupier,
+P56,Charleville,2,2015,Existing,All Buyer Types,79125.0
+P56,Charleville,2,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2015,Existing,Household Buyer - Former Owner-Occupier,79125.0
+P56,Charleville,2,2015,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,3,2015,All Dwelling Statuses,All Buyer Types,109800.0
+P56,Charleville,3,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,40000.0
+P56,Charleville,3,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,210000.0
+P56,Charleville,3,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,99667.0
+P56,Charleville,3,2015,New,All Buyer Types,100000.0
+P56,Charleville,3,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2015,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,3,2015,New,Household Buyer - Non-Occupier,100000.0
+P56,Charleville,3,2015,Existing,All Buyer Types,112250.0
+P56,Charleville,3,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,40000.0
+P56,Charleville,3,2015,Existing,Household Buyer - Former Owner-Occupier,210000.0
+P56,Charleville,3,2015,Existing,Household Buyer - Non-Occupier,99500.0
+P56,Charleville,4,2015,All Dwelling Statuses,All Buyer Types,117409.0
+P56,Charleville,4,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,127125.0
+P56,Charleville,4,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,150955.0
+P56,Charleville,4,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,45000.0
+P56,Charleville,4,2015,New,All Buyer Types,132228.0
+P56,Charleville,4,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,113500.0
+P56,Charleville,4,2015,New,Household Buyer - Former Owner-Occupier,150955.0
+P56,Charleville,4,2015,New,Household Buyer - Non-Occupier,
+P56,Charleville,4,2015,Existing,All Buyer Types,110000.0
+P56,Charleville,4,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,131667.0
+P56,Charleville,4,2015,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,4,2015,Existing,Household Buyer - Non-Occupier,45000.0
+P56,Charleville,5,2015,All Dwelling Statuses,All Buyer Types,129780.0
+P56,Charleville,5,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+P56,Charleville,5,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,129633.0
+P56,Charleville,5,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,5,2015,New,All Buyer Types,158900.0
+P56,Charleville,5,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,5,2015,New,Household Buyer - Former Owner-Occupier,158900.0
+P56,Charleville,5,2015,New,Household Buyer - Non-Occupier,
+P56,Charleville,5,2015,Existing,All Buyer Types,122500.0
+P56,Charleville,5,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+P56,Charleville,5,2015,Existing,Household Buyer - Former Owner-Occupier,115000.0
+P56,Charleville,5,2015,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,6,2015,All Dwelling Statuses,All Buyer Types,107300.0
+P56,Charleville,6,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,148600.0
+P56,Charleville,6,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,100000.0
+P56,Charleville,6,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,49000.0
+P56,Charleville,6,2015,New,All Buyer Types,90800.0
+P56,Charleville,6,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,90800.0
+P56,Charleville,6,2015,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,6,2015,New,Household Buyer - Non-Occupier,
+P56,Charleville,6,2015,Existing,All Buyer Types,110600.0
+P56,Charleville,6,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,177500.0
+P56,Charleville,6,2015,Existing,Household Buyer - Former Owner-Occupier,100000.0
+P56,Charleville,6,2015,Existing,Household Buyer - Non-Occupier,49000.0
+P56,Charleville,7,2015,All Dwelling Statuses,All Buyer Types,95786.0
+P56,Charleville,7,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,89500.0
+P56,Charleville,7,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,96818.0
+P56,Charleville,7,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,97000.0
+P56,Charleville,7,2015,New,All Buyer Types,
+P56,Charleville,7,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,7,2015,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,7,2015,New,Household Buyer - Non-Occupier,
+P56,Charleville,7,2015,Existing,All Buyer Types,95786.0
+P56,Charleville,7,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,89500.0
+P56,Charleville,7,2015,Existing,Household Buyer - Former Owner-Occupier,96818.0
+P56,Charleville,7,2015,Existing,Household Buyer - Non-Occupier,97000.0
+P56,Charleville,8,2015,All Dwelling Statuses,All Buyer Types,107096.0
+P56,Charleville,8,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,131667.0
+P56,Charleville,8,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,82525.0
+P56,Charleville,8,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,8,2015,New,All Buyer Types,82288.0
+P56,Charleville,8,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,8,2015,New,Household Buyer - Former Owner-Occupier,82288.0
+P56,Charleville,8,2015,New,Household Buyer - Non-Occupier,
+P56,Charleville,8,2015,Existing,All Buyer Types,119500.0
+P56,Charleville,8,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,131667.0
+P56,Charleville,8,2015,Existing,Household Buyer - Former Owner-Occupier,83000.0
+P56,Charleville,8,2015,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,9,2015,All Dwelling Statuses,All Buyer Types,132000.0
+P56,Charleville,9,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+P56,Charleville,9,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,167500.0
+P56,Charleville,9,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,88500.0
+P56,Charleville,9,2015,New,All Buyer Types,
+P56,Charleville,9,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,9,2015,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,9,2015,New,Household Buyer - Non-Occupier,
+P56,Charleville,9,2015,Existing,All Buyer Types,132000.0
+P56,Charleville,9,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+P56,Charleville,9,2015,Existing,Household Buyer - Former Owner-Occupier,167500.0
+P56,Charleville,9,2015,Existing,Household Buyer - Non-Occupier,88500.0
+P56,Charleville,10,2015,All Dwelling Statuses,All Buyer Types,97363.0
+P56,Charleville,10,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,82563.0
+P56,Charleville,10,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,111667.0
+P56,Charleville,10,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,94700.0
+P56,Charleville,10,2015,New,All Buyer Types,85125.0
+P56,Charleville,10,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,85125.0
+P56,Charleville,10,2015,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,10,2015,New,Household Buyer - Non-Occupier,
+P56,Charleville,10,2015,Existing,All Buyer Types,98722.0
+P56,Charleville,10,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,80000.0
+P56,Charleville,10,2015,Existing,Household Buyer - Former Owner-Occupier,111667.0
+P56,Charleville,10,2015,Existing,Household Buyer - Non-Occupier,94700.0
+P56,Charleville,11,2015,All Dwelling Statuses,All Buyer Types,139833.0
+P56,Charleville,11,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,229750.0
+P56,Charleville,11,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,94875.0
+P56,Charleville,11,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,11,2015,New,All Buyer Types,
+P56,Charleville,11,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,11,2015,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,11,2015,New,Household Buyer - Non-Occupier,
+P56,Charleville,11,2015,Existing,All Buyer Types,139833.0
+P56,Charleville,11,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,229750.0
+P56,Charleville,11,2015,Existing,Household Buyer - Former Owner-Occupier,94875.0
+P56,Charleville,11,2015,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,12,2015,All Dwelling Statuses,All Buyer Types,72667.0
+P56,Charleville,12,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,12,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,72667.0
+P56,Charleville,12,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,12,2015,New,All Buyer Types,
+P56,Charleville,12,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,12,2015,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,12,2015,New,Household Buyer - Non-Occupier,
+P56,Charleville,12,2015,Existing,All Buyer Types,72667.0
+P56,Charleville,12,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,12,2015,Existing,Household Buyer - Former Owner-Occupier,72667.0
+P56,Charleville,12,2015,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,1,2016,All Dwelling Statuses,All Buyer Types,112278.0
+P56,Charleville,1,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+P56,Charleville,1,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,181500.0
+P56,Charleville,1,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,57200.0
+P56,Charleville,1,2016,New,All Buyer Types,
+P56,Charleville,1,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2016,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,1,2016,New,Household Buyer - Non-Occupier,
+P56,Charleville,1,2016,Existing,All Buyer Types,112278.0
+P56,Charleville,1,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+P56,Charleville,1,2016,Existing,Household Buyer - Former Owner-Occupier,181500.0
+P56,Charleville,1,2016,Existing,Household Buyer - Non-Occupier,57200.0
+P56,Charleville,2,2016,All Dwelling Statuses,All Buyer Types,76104.0
+P56,Charleville,2,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,79625.0
+P56,Charleville,2,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,67500.0
+P56,Charleville,2,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,77375.0
+P56,Charleville,2,2016,New,All Buyer Types,
+P56,Charleville,2,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2016,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,2,2016,New,Household Buyer - Non-Occupier,
+P56,Charleville,2,2016,Existing,All Buyer Types,76104.0
+P56,Charleville,2,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,79625.0
+P56,Charleville,2,2016,Existing,Household Buyer - Former Owner-Occupier,67500.0
+P56,Charleville,2,2016,Existing,Household Buyer - Non-Occupier,77375.0
+P56,Charleville,3,2016,All Dwelling Statuses,All Buyer Types,81500.0
+P56,Charleville,3,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,210000.0
+P56,Charleville,3,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,63143.0
+P56,Charleville,3,2016,New,All Buyer Types,
+P56,Charleville,3,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2016,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,3,2016,New,Household Buyer - Non-Occupier,
+P56,Charleville,3,2016,Existing,All Buyer Types,81500.0
+P56,Charleville,3,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2016,Existing,Household Buyer - Former Owner-Occupier,210000.0
+P56,Charleville,3,2016,Existing,Household Buyer - Non-Occupier,63143.0
+P56,Charleville,4,2016,All Dwelling Statuses,All Buyer Types,110000.0
+P56,Charleville,4,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,112500.0
+P56,Charleville,4,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,105000.0
+P56,Charleville,4,2016,New,All Buyer Types,
+P56,Charleville,4,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2016,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,4,2016,New,Household Buyer - Non-Occupier,
+P56,Charleville,4,2016,Existing,All Buyer Types,110000.0
+P56,Charleville,4,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2016,Existing,Household Buyer - Former Owner-Occupier,112500.0
+P56,Charleville,4,2016,Existing,Household Buyer - Non-Occupier,105000.0
+P56,Charleville,5,2016,All Dwelling Statuses,All Buyer Types,96667.0
+P56,Charleville,5,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,123000.0
+P56,Charleville,5,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,83500.0
+P56,Charleville,5,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,5,2016,New,All Buyer Types,85000.0
+P56,Charleville,5,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,5,2016,New,Household Buyer - Former Owner-Occupier,85000.0
+P56,Charleville,5,2016,New,Household Buyer - Non-Occupier,
+P56,Charleville,5,2016,Existing,All Buyer Types,99000.0
+P56,Charleville,5,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,123000.0
+P56,Charleville,5,2016,Existing,Household Buyer - Former Owner-Occupier,83000.0
+P56,Charleville,5,2016,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,6,2016,All Dwelling Statuses,All Buyer Types,80384.0
+P56,Charleville,6,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,146000.0
+P56,Charleville,6,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,71035.0
+P56,Charleville,6,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,52250.0
+P56,Charleville,6,2016,New,All Buyer Types,
+P56,Charleville,6,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,6,2016,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,6,2016,New,Household Buyer - Non-Occupier,
+P56,Charleville,6,2016,Existing,All Buyer Types,80384.0
+P56,Charleville,6,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,146000.0
+P56,Charleville,6,2016,Existing,Household Buyer - Former Owner-Occupier,71035.0
+P56,Charleville,6,2016,Existing,Household Buyer - Non-Occupier,52250.0
+P56,Charleville,7,2016,All Dwelling Statuses,All Buyer Types,94938.0
+P56,Charleville,7,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,112500.0
+P56,Charleville,7,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,101600.0
+P56,Charleville,7,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,69501.0
+P56,Charleville,7,2016,New,All Buyer Types,79001.0
+P56,Charleville,7,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,7,2016,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,7,2016,New,Household Buyer - Non-Occupier,79001.0
+P56,Charleville,7,2016,Existing,All Buyer Types,97214.0
+P56,Charleville,7,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,112500.0
+P56,Charleville,7,2016,Existing,Household Buyer - Former Owner-Occupier,101600.0
+P56,Charleville,7,2016,Existing,Household Buyer - Non-Occupier,60000.0
+P56,Charleville,8,2016,All Dwelling Statuses,All Buyer Types,105130.0
+P56,Charleville,8,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,8,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,102728.0
+P56,Charleville,8,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,108333.0
+P56,Charleville,8,2016,New,All Buyer Types,
+P56,Charleville,8,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,8,2016,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,8,2016,New,Household Buyer - Non-Occupier,
+P56,Charleville,8,2016,Existing,All Buyer Types,105130.0
+P56,Charleville,8,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,8,2016,Existing,Household Buyer - Former Owner-Occupier,102728.0
+P56,Charleville,8,2016,Existing,Household Buyer - Non-Occupier,108333.0
+P56,Charleville,9,2016,All Dwelling Statuses,All Buyer Types,84125.0
+P56,Charleville,9,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,85000.0
+P56,Charleville,9,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,88250.0
+P56,Charleville,9,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,75000.0
+P56,Charleville,9,2016,New,All Buyer Types,
+P56,Charleville,9,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,9,2016,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,9,2016,New,Household Buyer - Non-Occupier,
+P56,Charleville,9,2016,Existing,All Buyer Types,84125.0
+P56,Charleville,9,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,85000.0
+P56,Charleville,9,2016,Existing,Household Buyer - Former Owner-Occupier,88250.0
+P56,Charleville,9,2016,Existing,Household Buyer - Non-Occupier,75000.0
+P56,Charleville,10,2016,All Dwelling Statuses,All Buyer Types,73232.0
+P56,Charleville,10,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,10,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,81025.0
+P56,Charleville,10,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,53750.0
+P56,Charleville,10,2016,New,All Buyer Types,85125.0
+P56,Charleville,10,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,10,2016,New,Household Buyer - Former Owner-Occupier,85125.0
+P56,Charleville,10,2016,New,Household Buyer - Non-Occupier,
+P56,Charleville,10,2016,Existing,All Buyer Types,71250.0
+P56,Charleville,10,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,10,2016,Existing,Household Buyer - Former Owner-Occupier,80000.0
+P56,Charleville,10,2016,Existing,Household Buyer - Non-Occupier,53750.0
+P56,Charleville,11,2016,All Dwelling Statuses,All Buyer Types,76833.0
+P56,Charleville,11,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,60250.0
+P56,Charleville,11,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,110000.0
+P56,Charleville,11,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,11,2016,New,All Buyer Types,
+P56,Charleville,11,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,11,2016,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,11,2016,New,Household Buyer - Non-Occupier,
+P56,Charleville,11,2016,Existing,All Buyer Types,76833.0
+P56,Charleville,11,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,60250.0
+P56,Charleville,11,2016,Existing,Household Buyer - Former Owner-Occupier,110000.0
+P56,Charleville,11,2016,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,12,2016,All Dwelling Statuses,All Buyer Types,102834.0
+P56,Charleville,12,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,70000.0
+P56,Charleville,12,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,107709.0
+P56,Charleville,12,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,99750.0
+P56,Charleville,12,2016,New,All Buyer Types,73775.0
+P56,Charleville,12,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,12,2016,New,Household Buyer - Former Owner-Occupier,73775.0
+P56,Charleville,12,2016,New,Household Buyer - Non-Occupier,
+P56,Charleville,12,2016,Existing,All Buyer Types,105740.0
+P56,Charleville,12,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,70000.0
+P56,Charleville,12,2016,Existing,Household Buyer - Former Owner-Occupier,112557.0
+P56,Charleville,12,2016,Existing,Household Buyer - Non-Occupier,99750.0
+P56,Charleville,1,2017,All Dwelling Statuses,All Buyer Types,110000.0
+P56,Charleville,1,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,157500.0
+P56,Charleville,1,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,62500.0
+P56,Charleville,1,2017,New,All Buyer Types,
+P56,Charleville,1,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2017,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,1,2017,New,Household Buyer - Non-Occupier,
+P56,Charleville,1,2017,Existing,All Buyer Types,110000.0
+P56,Charleville,1,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2017,Existing,Household Buyer - Former Owner-Occupier,157500.0
+P56,Charleville,1,2017,Existing,Household Buyer - Non-Occupier,62500.0
+P56,Charleville,2,2017,All Dwelling Statuses,All Buyer Types,108250.0
+P56,Charleville,2,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,145000.0
+P56,Charleville,2,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,96875.0
+P56,Charleville,2,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,117000.0
+P56,Charleville,2,2017,New,All Buyer Types,
+P56,Charleville,2,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2017,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,2,2017,New,Household Buyer - Non-Occupier,
+P56,Charleville,2,2017,Existing,All Buyer Types,108250.0
+P56,Charleville,2,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,145000.0
+P56,Charleville,2,2017,Existing,Household Buyer - Former Owner-Occupier,96875.0
+P56,Charleville,2,2017,Existing,Household Buyer - Non-Occupier,117000.0
+P56,Charleville,3,2017,All Dwelling Statuses,All Buyer Types,115333.0
+P56,Charleville,3,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+P56,Charleville,3,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,115667.0
+P56,Charleville,3,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,82500.0
+P56,Charleville,3,2017,New,All Buyer Types,
+P56,Charleville,3,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2017,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,3,2017,New,Household Buyer - Non-Occupier,
+P56,Charleville,3,2017,Existing,All Buyer Types,115333.0
+P56,Charleville,3,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+P56,Charleville,3,2017,Existing,Household Buyer - Former Owner-Occupier,115667.0
+P56,Charleville,3,2017,Existing,Household Buyer - Non-Occupier,82500.0
+P56,Charleville,4,2017,All Dwelling Statuses,All Buyer Types,106929.0
+P56,Charleville,4,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,119375.0
+P56,Charleville,4,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,90333.0
+P56,Charleville,4,2017,New,All Buyer Types,
+P56,Charleville,4,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2017,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,4,2017,New,Household Buyer - Non-Occupier,
+P56,Charleville,4,2017,Existing,All Buyer Types,106929.0
+P56,Charleville,4,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2017,Existing,Household Buyer - Former Owner-Occupier,119375.0
+P56,Charleville,4,2017,Existing,Household Buyer - Non-Occupier,90333.0
+P56,Charleville,5,2017,All Dwelling Statuses,All Buyer Types,102500.0
+P56,Charleville,5,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+P56,Charleville,5,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,111250.0
+P56,Charleville,5,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,72500.0
+P56,Charleville,5,2017,New,All Buyer Types,
+P56,Charleville,5,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,5,2017,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,5,2017,New,Household Buyer - Non-Occupier,
+P56,Charleville,5,2017,Existing,All Buyer Types,102500.0
+P56,Charleville,5,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+P56,Charleville,5,2017,Existing,Household Buyer - Former Owner-Occupier,111250.0
+P56,Charleville,5,2017,Existing,Household Buyer - Non-Occupier,72500.0
+P56,Charleville,6,2017,All Dwelling Statuses,All Buyer Types,128844.0
+P56,Charleville,6,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+P56,Charleville,6,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,147800.0
+P56,Charleville,6,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,96867.0
+P56,Charleville,6,2017,New,All Buyer Types,
+P56,Charleville,6,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,6,2017,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,6,2017,New,Household Buyer - Non-Occupier,
+P56,Charleville,6,2017,Existing,All Buyer Types,128844.0
+P56,Charleville,6,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+P56,Charleville,6,2017,Existing,Household Buyer - Former Owner-Occupier,147800.0
+P56,Charleville,6,2017,Existing,Household Buyer - Non-Occupier,96867.0
+P56,Charleville,7,2017,All Dwelling Statuses,All Buyer Types,118143.0
+P56,Charleville,7,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+P56,Charleville,7,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,123400.0
+P56,Charleville,7,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,110000.0
+P56,Charleville,7,2017,New,All Buyer Types,
+P56,Charleville,7,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,7,2017,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,7,2017,New,Household Buyer - Non-Occupier,
+P56,Charleville,7,2017,Existing,All Buyer Types,118143.0
+P56,Charleville,7,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+P56,Charleville,7,2017,Existing,Household Buyer - Former Owner-Occupier,123400.0
+P56,Charleville,7,2017,Existing,Household Buyer - Non-Occupier,110000.0
+P56,Charleville,8,2017,All Dwelling Statuses,All Buyer Types,78200.0
+P56,Charleville,8,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+P56,Charleville,8,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,82500.0
+P56,Charleville,8,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,55500.0
+P56,Charleville,8,2017,New,All Buyer Types,
+P56,Charleville,8,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,8,2017,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,8,2017,New,Household Buyer - Non-Occupier,
+P56,Charleville,8,2017,Existing,All Buyer Types,78200.0
+P56,Charleville,8,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+P56,Charleville,8,2017,Existing,Household Buyer - Former Owner-Occupier,82500.0
+P56,Charleville,8,2017,Existing,Household Buyer - Non-Occupier,55500.0
+P56,Charleville,9,2017,All Dwelling Statuses,All Buyer Types,125438.0
+P56,Charleville,9,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,95333.0
+P56,Charleville,9,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,143500.0
+P56,Charleville,9,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,9,2017,New,All Buyer Types,
+P56,Charleville,9,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,9,2017,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,9,2017,New,Household Buyer - Non-Occupier,
+P56,Charleville,9,2017,Existing,All Buyer Types,125438.0
+P56,Charleville,9,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,95333.0
+P56,Charleville,9,2017,Existing,Household Buyer - Former Owner-Occupier,143500.0
+P56,Charleville,9,2017,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,10,2017,All Dwelling Statuses,All Buyer Types,111688.0
+P56,Charleville,10,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,137750.0
+P56,Charleville,10,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,103000.0
+P56,Charleville,10,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,10,2017,New,All Buyer Types,
+P56,Charleville,10,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,10,2017,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,10,2017,New,Household Buyer - Non-Occupier,
+P56,Charleville,10,2017,Existing,All Buyer Types,111688.0
+P56,Charleville,10,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,137750.0
+P56,Charleville,10,2017,Existing,Household Buyer - Former Owner-Occupier,103000.0
+P56,Charleville,10,2017,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,11,2017,All Dwelling Statuses,All Buyer Types,134286.0
+P56,Charleville,11,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,105000.0
+P56,Charleville,11,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,165000.0
+P56,Charleville,11,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,87500.0
+P56,Charleville,11,2017,New,All Buyer Types,
+P56,Charleville,11,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,11,2017,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,11,2017,New,Household Buyer - Non-Occupier,
+P56,Charleville,11,2017,Existing,All Buyer Types,134286.0
+P56,Charleville,11,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,105000.0
+P56,Charleville,11,2017,Existing,Household Buyer - Former Owner-Occupier,165000.0
+P56,Charleville,11,2017,Existing,Household Buyer - Non-Occupier,87500.0
+P56,Charleville,12,2017,All Dwelling Statuses,All Buyer Types,118389.0
+P56,Charleville,12,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,173500.0
+P56,Charleville,12,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,167500.0
+P56,Charleville,12,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,76700.0
+P56,Charleville,12,2017,New,All Buyer Types,
+P56,Charleville,12,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,12,2017,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,12,2017,New,Household Buyer - Non-Occupier,
+P56,Charleville,12,2017,Existing,All Buyer Types,118389.0
+P56,Charleville,12,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,173500.0
+P56,Charleville,12,2017,Existing,Household Buyer - Former Owner-Occupier,167500.0
+P56,Charleville,12,2017,Existing,Household Buyer - Non-Occupier,76700.0
+P56,Charleville,1,2018,All Dwelling Statuses,All Buyer Types,46250.0
+P56,Charleville,1,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P56,Charleville,1,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,46250.0
+P56,Charleville,1,2018,New,All Buyer Types,
+P56,Charleville,1,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2018,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,1,2018,New,Household Buyer - Non-Occupier,
+P56,Charleville,1,2018,Existing,All Buyer Types,46250.0
+P56,Charleville,1,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2018,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,1,2018,Existing,Household Buyer - Non-Occupier,46250.0
+P56,Charleville,2,2018,All Dwelling Statuses,All Buyer Types,69701.0
+P56,Charleville,2,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,98253.0
+P56,Charleville,2,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,83000.0
+P56,Charleville,2,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,34500.0
+P56,Charleville,2,2018,New,All Buyer Types,71505.0
+P56,Charleville,2,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,71505.0
+P56,Charleville,2,2018,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,2,2018,New,Household Buyer - Non-Occupier,
+P56,Charleville,2,2018,Existing,All Buyer Types,69250.0
+P56,Charleville,2,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+P56,Charleville,2,2018,Existing,Household Buyer - Former Owner-Occupier,83000.0
+P56,Charleville,2,2018,Existing,Household Buyer - Non-Occupier,34500.0
+P56,Charleville,3,2018,All Dwelling Statuses,All Buyer Types,188875.0
+P56,Charleville,3,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,188875.0
+P56,Charleville,3,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,3,2018,New,All Buyer Types,
+P56,Charleville,3,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2018,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,3,2018,New,Household Buyer - Non-Occupier,
+P56,Charleville,3,2018,Existing,All Buyer Types,188875.0
+P56,Charleville,3,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2018,Existing,Household Buyer - Former Owner-Occupier,188875.0
+P56,Charleville,3,2018,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,4,2018,All Dwelling Statuses,All Buyer Types,119500.0
+P56,Charleville,4,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,123400.0
+P56,Charleville,4,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,100000.0
+P56,Charleville,4,2018,New,All Buyer Types,
+P56,Charleville,4,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2018,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,4,2018,New,Household Buyer - Non-Occupier,
+P56,Charleville,4,2018,Existing,All Buyer Types,119500.0
+P56,Charleville,4,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2018,Existing,Household Buyer - Former Owner-Occupier,123400.0
+P56,Charleville,4,2018,Existing,Household Buyer - Non-Occupier,100000.0
+P56,Charleville,5,2018,All Dwelling Statuses,All Buyer Types,185950.0
+P56,Charleville,5,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,88000.0
+P56,Charleville,5,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,319500.0
+P56,Charleville,5,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,98700.0
+P56,Charleville,5,2018,New,All Buyer Types,
+P56,Charleville,5,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,5,2018,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,5,2018,New,Household Buyer - Non-Occupier,
+P56,Charleville,5,2018,Existing,All Buyer Types,185950.0
+P56,Charleville,5,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,88000.0
+P56,Charleville,5,2018,Existing,Household Buyer - Former Owner-Occupier,319500.0
+P56,Charleville,5,2018,Existing,Household Buyer - Non-Occupier,98700.0
+P56,Charleville,6,2018,All Dwelling Statuses,All Buyer Types,181111.0
+P56,Charleville,6,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,174667.0
+P56,Charleville,6,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,206000.0
+P56,Charleville,6,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,76000.0
+P56,Charleville,6,2018,New,All Buyer Types,
+P56,Charleville,6,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,6,2018,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,6,2018,New,Household Buyer - Non-Occupier,
+P56,Charleville,6,2018,Existing,All Buyer Types,181111.0
+P56,Charleville,6,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,174667.0
+P56,Charleville,6,2018,Existing,Household Buyer - Former Owner-Occupier,206000.0
+P56,Charleville,6,2018,Existing,Household Buyer - Non-Occupier,76000.0
+P56,Charleville,7,2018,All Dwelling Statuses,All Buyer Types,159286.0
+P56,Charleville,7,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,7,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,176667.0
+P56,Charleville,7,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,55000.0
+P56,Charleville,7,2018,New,All Buyer Types,
+P56,Charleville,7,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,7,2018,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,7,2018,New,Household Buyer - Non-Occupier,
+P56,Charleville,7,2018,Existing,All Buyer Types,159286.0
+P56,Charleville,7,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,7,2018,Existing,Household Buyer - Former Owner-Occupier,176667.0
+P56,Charleville,7,2018,Existing,Household Buyer - Non-Occupier,55000.0
+P56,Charleville,8,2018,All Dwelling Statuses,All Buyer Types,131600.0
+P56,Charleville,8,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,84667.0
+P56,Charleville,8,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,157000.0
+P56,Charleville,8,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,120000.0
+P56,Charleville,8,2018,New,All Buyer Types,
+P56,Charleville,8,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,8,2018,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,8,2018,New,Household Buyer - Non-Occupier,
+P56,Charleville,8,2018,Existing,All Buyer Types,131600.0
+P56,Charleville,8,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,84667.0
+P56,Charleville,8,2018,Existing,Household Buyer - Former Owner-Occupier,157000.0
+P56,Charleville,8,2018,Existing,Household Buyer - Non-Occupier,120000.0
+P56,Charleville,9,2018,All Dwelling Statuses,All Buyer Types,182167.0
+P56,Charleville,9,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,157500.0
+P56,Charleville,9,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,194500.0
+P56,Charleville,9,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,9,2018,New,All Buyer Types,
+P56,Charleville,9,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,9,2018,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,9,2018,New,Household Buyer - Non-Occupier,
+P56,Charleville,9,2018,Existing,All Buyer Types,182167.0
+P56,Charleville,9,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,157500.0
+P56,Charleville,9,2018,Existing,Household Buyer - Former Owner-Occupier,194500.0
+P56,Charleville,9,2018,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,10,2018,All Dwelling Statuses,All Buyer Types,156643.0
+P56,Charleville,10,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+P56,Charleville,10,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,187875.0
+P56,Charleville,10,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,10,2018,New,All Buyer Types,
+P56,Charleville,10,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,10,2018,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,10,2018,New,Household Buyer - Non-Occupier,
+P56,Charleville,10,2018,Existing,All Buyer Types,156643.0
+P56,Charleville,10,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+P56,Charleville,10,2018,Existing,Household Buyer - Former Owner-Occupier,187875.0
+P56,Charleville,10,2018,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,11,2018,All Dwelling Statuses,All Buyer Types,130636.0
+P56,Charleville,11,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165500.0
+P56,Charleville,11,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,89250.0
+P56,Charleville,11,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,149800.0
+P56,Charleville,11,2018,New,All Buyer Types,
+P56,Charleville,11,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,11,2018,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,11,2018,New,Household Buyer - Non-Occupier,
+P56,Charleville,11,2018,Existing,All Buyer Types,130636.0
+P56,Charleville,11,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165500.0
+P56,Charleville,11,2018,Existing,Household Buyer - Former Owner-Occupier,89250.0
+P56,Charleville,11,2018,Existing,Household Buyer - Non-Occupier,149800.0
+P56,Charleville,12,2018,All Dwelling Statuses,All Buyer Types,139600.0
+P56,Charleville,12,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,56000.0
+P56,Charleville,12,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,213500.0
+P56,Charleville,12,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,107500.0
+P56,Charleville,12,2018,New,All Buyer Types,
+P56,Charleville,12,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,12,2018,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,12,2018,New,Household Buyer - Non-Occupier,
+P56,Charleville,12,2018,Existing,All Buyer Types,139600.0
+P56,Charleville,12,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,56000.0
+P56,Charleville,12,2018,Existing,Household Buyer - Former Owner-Occupier,213500.0
+P56,Charleville,12,2018,Existing,Household Buyer - Non-Occupier,107500.0
+P56,Charleville,1,2019,All Dwelling Statuses,All Buyer Types,84000.0
+P56,Charleville,1,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,131000.0
+P56,Charleville,1,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,165000.0
+P56,Charleville,1,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,56250.0
+P56,Charleville,1,2019,New,All Buyer Types,
+P56,Charleville,1,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2019,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,1,2019,New,Household Buyer - Non-Occupier,
+P56,Charleville,1,2019,Existing,All Buyer Types,84000.0
+P56,Charleville,1,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,131000.0
+P56,Charleville,1,2019,Existing,Household Buyer - Former Owner-Occupier,165000.0
+P56,Charleville,1,2019,Existing,Household Buyer - Non-Occupier,56250.0
+P56,Charleville,2,2019,All Dwelling Statuses,All Buyer Types,87750.0
+P56,Charleville,2,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,151000.0
+P56,Charleville,2,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P56,Charleville,2,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,66667.0
+P56,Charleville,2,2019,New,All Buyer Types,
+P56,Charleville,2,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2019,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,2,2019,New,Household Buyer - Non-Occupier,
+P56,Charleville,2,2019,Existing,All Buyer Types,87750.0
+P56,Charleville,2,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,151000.0
+P56,Charleville,2,2019,Existing,Household Buyer - Former Owner-Occupier,
+P56,Charleville,2,2019,Existing,Household Buyer - Non-Occupier,66667.0
+P56,Charleville,3,2019,All Dwelling Statuses,All Buyer Types,153500.0
+P56,Charleville,3,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,215000.0
+P56,Charleville,3,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,174143.0
+P56,Charleville,3,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,102000.0
+P56,Charleville,3,2019,New,All Buyer Types,
+P56,Charleville,3,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2019,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,3,2019,New,Household Buyer - Non-Occupier,
+P56,Charleville,3,2019,Existing,All Buyer Types,153500.0
+P56,Charleville,3,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,215000.0
+P56,Charleville,3,2019,Existing,Household Buyer - Former Owner-Occupier,174143.0
+P56,Charleville,3,2019,Existing,Household Buyer - Non-Occupier,102000.0
+P56,Charleville,4,2019,All Dwelling Statuses,All Buyer Types,167214.0
+P56,Charleville,4,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,119750.0
+P56,Charleville,4,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,186200.0
+P56,Charleville,4,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,4,2019,New,All Buyer Types,
+P56,Charleville,4,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2019,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,4,2019,New,Household Buyer - Non-Occupier,
+P56,Charleville,4,2019,Existing,All Buyer Types,167214.0
+P56,Charleville,4,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,119750.0
+P56,Charleville,4,2019,Existing,Household Buyer - Former Owner-Occupier,186200.0
+P56,Charleville,4,2019,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,5,2019,All Dwelling Statuses,All Buyer Types,116000.0
+P56,Charleville,5,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,145000.0
+P56,Charleville,5,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,87000.0
+P56,Charleville,5,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,5,2019,New,All Buyer Types,
+P56,Charleville,5,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,5,2019,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,5,2019,New,Household Buyer - Non-Occupier,
+P56,Charleville,5,2019,Existing,All Buyer Types,116000.0
+P56,Charleville,5,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,145000.0
+P56,Charleville,5,2019,Existing,Household Buyer - Former Owner-Occupier,87000.0
+P56,Charleville,5,2019,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,6,2019,All Dwelling Statuses,All Buyer Types,79000.0
+P56,Charleville,6,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,6,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,91000.0
+P56,Charleville,6,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,67000.0
+P56,Charleville,6,2019,New,All Buyer Types,
+P56,Charleville,6,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,6,2019,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,6,2019,New,Household Buyer - Non-Occupier,
+P56,Charleville,6,2019,Existing,All Buyer Types,79000.0
+P56,Charleville,6,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,6,2019,Existing,Household Buyer - Former Owner-Occupier,91000.0
+P56,Charleville,6,2019,Existing,Household Buyer - Non-Occupier,67000.0
+P56,Charleville,7,2019,All Dwelling Statuses,All Buyer Types,219633.0
+P56,Charleville,7,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,208110.0
+P56,Charleville,7,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,257000.0
+P56,Charleville,7,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,143500.0
+P56,Charleville,7,2019,New,All Buyer Types,179330.0
+P56,Charleville,7,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,179330.0
+P56,Charleville,7,2019,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,7,2019,New,Household Buyer - Non-Occupier,
+P56,Charleville,7,2019,Existing,All Buyer Types,224111.0
+P56,Charleville,7,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,222500.0
+P56,Charleville,7,2019,Existing,Household Buyer - Former Owner-Occupier,257000.0
+P56,Charleville,7,2019,Existing,Household Buyer - Non-Occupier,143500.0
+P56,Charleville,8,2019,All Dwelling Statuses,All Buyer Types,195600.0
+P56,Charleville,8,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,255000.0
+P56,Charleville,8,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,180750.0
+P56,Charleville,8,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,8,2019,New,All Buyer Types,
+P56,Charleville,8,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,8,2019,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,8,2019,New,Household Buyer - Non-Occupier,
+P56,Charleville,8,2019,Existing,All Buyer Types,195600.0
+P56,Charleville,8,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,255000.0
+P56,Charleville,8,2019,Existing,Household Buyer - Former Owner-Occupier,180750.0
+P56,Charleville,8,2019,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,9,2019,All Dwelling Statuses,All Buyer Types,114125.0
+P56,Charleville,9,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,126500.0
+P56,Charleville,9,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,141500.0
+P56,Charleville,9,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,94250.0
+P56,Charleville,9,2019,New,All Buyer Types,
+P56,Charleville,9,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,9,2019,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,9,2019,New,Household Buyer - Non-Occupier,
+P56,Charleville,9,2019,Existing,All Buyer Types,114125.0
+P56,Charleville,9,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,126500.0
+P56,Charleville,9,2019,Existing,Household Buyer - Former Owner-Occupier,141500.0
+P56,Charleville,9,2019,Existing,Household Buyer - Non-Occupier,94250.0
+P56,Charleville,10,2019,All Dwelling Statuses,All Buyer Types,92071.0
+P56,Charleville,10,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,55000.0
+P56,Charleville,10,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,106500.0
+P56,Charleville,10,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,107500.0
+P56,Charleville,10,2019,New,All Buyer Types,
+P56,Charleville,10,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,10,2019,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,10,2019,New,Household Buyer - Non-Occupier,
+P56,Charleville,10,2019,Existing,All Buyer Types,92071.0
+P56,Charleville,10,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,55000.0
+P56,Charleville,10,2019,Existing,Household Buyer - Former Owner-Occupier,106500.0
+P56,Charleville,10,2019,Existing,Household Buyer - Non-Occupier,107500.0
+P56,Charleville,11,2019,All Dwelling Statuses,All Buyer Types,125700.0
+P56,Charleville,11,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,11,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,136714.0
+P56,Charleville,11,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,100000.0
+P56,Charleville,11,2019,New,All Buyer Types,
+P56,Charleville,11,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,11,2019,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,11,2019,New,Household Buyer - Non-Occupier,
+P56,Charleville,11,2019,Existing,All Buyer Types,125700.0
+P56,Charleville,11,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,11,2019,Existing,Household Buyer - Former Owner-Occupier,136714.0
+P56,Charleville,11,2019,Existing,Household Buyer - Non-Occupier,100000.0
+P56,Charleville,12,2019,All Dwelling Statuses,All Buyer Types,155125.0
+P56,Charleville,12,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,142167.0
+P56,Charleville,12,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,159625.0
+P56,Charleville,12,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,176000.0
+P56,Charleville,12,2019,New,All Buyer Types,
+P56,Charleville,12,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,12,2019,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,12,2019,New,Household Buyer - Non-Occupier,
+P56,Charleville,12,2019,Existing,All Buyer Types,155125.0
+P56,Charleville,12,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,142167.0
+P56,Charleville,12,2019,Existing,Household Buyer - Former Owner-Occupier,159625.0
+P56,Charleville,12,2019,Existing,Household Buyer - Non-Occupier,176000.0
+P56,Charleville,1,2020,All Dwelling Statuses,All Buyer Types,168875.0
+P56,Charleville,1,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,208250.0
+P56,Charleville,1,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,159333.0
+P56,Charleville,1,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,40000.0
+P56,Charleville,1,2020,New,All Buyer Types,
+P56,Charleville,1,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2020,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,1,2020,New,Household Buyer - Non-Occupier,
+P56,Charleville,1,2020,Existing,All Buyer Types,168875.0
+P56,Charleville,1,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,208250.0
+P56,Charleville,1,2020,Existing,Household Buyer - Former Owner-Occupier,159333.0
+P56,Charleville,1,2020,Existing,Household Buyer - Non-Occupier,40000.0
+P56,Charleville,2,2020,All Dwelling Statuses,All Buyer Types,143400.0
+P56,Charleville,2,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,112000.0
+P56,Charleville,2,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,164333.0
+P56,Charleville,2,2020,New,All Buyer Types,
+P56,Charleville,2,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2020,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,2,2020,New,Household Buyer - Non-Occupier,
+P56,Charleville,2,2020,Existing,All Buyer Types,143400.0
+P56,Charleville,2,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2020,Existing,Household Buyer - Former Owner-Occupier,112000.0
+P56,Charleville,2,2020,Existing,Household Buyer - Non-Occupier,164333.0
+P56,Charleville,3,2020,All Dwelling Statuses,All Buyer Types,192000.0
+P56,Charleville,3,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225000.0
+P56,Charleville,3,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,126000.0
+P56,Charleville,3,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,3,2020,New,All Buyer Types,
+P56,Charleville,3,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2020,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,3,2020,New,Household Buyer - Non-Occupier,
+P56,Charleville,3,2020,Existing,All Buyer Types,192000.0
+P56,Charleville,3,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,225000.0
+P56,Charleville,3,2020,Existing,Household Buyer - Former Owner-Occupier,126000.0
+P56,Charleville,3,2020,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,4,2020,All Dwelling Statuses,All Buyer Types,124333.0
+P56,Charleville,4,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,142000.0
+P56,Charleville,4,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,120800.0
+P56,Charleville,4,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,4,2020,New,All Buyer Types,
+P56,Charleville,4,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2020,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,4,2020,New,Household Buyer - Non-Occupier,
+P56,Charleville,4,2020,Existing,All Buyer Types,124333.0
+P56,Charleville,4,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,142000.0
+P56,Charleville,4,2020,Existing,Household Buyer - Former Owner-Occupier,120800.0
+P56,Charleville,4,2020,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,5,2020,All Dwelling Statuses,All Buyer Types,123300.0
+P56,Charleville,5,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+P56,Charleville,5,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,121000.0
+P56,Charleville,5,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,77750.0
+P56,Charleville,5,2020,New,All Buyer Types,
+P56,Charleville,5,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,5,2020,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,5,2020,New,Household Buyer - Non-Occupier,
+P56,Charleville,5,2020,Existing,All Buyer Types,123300.0
+P56,Charleville,5,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+P56,Charleville,5,2020,Existing,Household Buyer - Former Owner-Occupier,121000.0
+P56,Charleville,5,2020,Existing,Household Buyer - Non-Occupier,77750.0
+P56,Charleville,6,2020,All Dwelling Statuses,All Buyer Types,142400.0
+P56,Charleville,6,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,152500.0
+P56,Charleville,6,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,242000.0
+P56,Charleville,6,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,82500.0
+P56,Charleville,6,2020,New,All Buyer Types,85000.0
+P56,Charleville,6,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,85000.0
+P56,Charleville,6,2020,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,6,2020,New,Household Buyer - Non-Occupier,
+P56,Charleville,6,2020,Existing,All Buyer Types,156750.0
+P56,Charleville,6,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+P56,Charleville,6,2020,Existing,Household Buyer - Former Owner-Occupier,242000.0
+P56,Charleville,6,2020,Existing,Household Buyer - Non-Occupier,82500.0
+P56,Charleville,7,2020,All Dwelling Statuses,All Buyer Types,154500.0
+P56,Charleville,7,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,137100.0
+P56,Charleville,7,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,185000.0
+P56,Charleville,7,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,150000.0
+P56,Charleville,7,2020,New,All Buyer Types,
+P56,Charleville,7,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,7,2020,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,7,2020,New,Household Buyer - Non-Occupier,
+P56,Charleville,7,2020,Existing,All Buyer Types,154500.0
+P56,Charleville,7,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,137100.0
+P56,Charleville,7,2020,Existing,Household Buyer - Former Owner-Occupier,185000.0
+P56,Charleville,7,2020,Existing,Household Buyer - Non-Occupier,150000.0
+P56,Charleville,8,2020,All Dwelling Statuses,All Buyer Types,120750.0
+P56,Charleville,8,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,155000.0
+P56,Charleville,8,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,150000.0
+P56,Charleville,8,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,28000.0
+P56,Charleville,8,2020,New,All Buyer Types,
+P56,Charleville,8,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,8,2020,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,8,2020,New,Household Buyer - Non-Occupier,
+P56,Charleville,8,2020,Existing,All Buyer Types,120750.0
+P56,Charleville,8,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,155000.0
+P56,Charleville,8,2020,Existing,Household Buyer - Former Owner-Occupier,150000.0
+P56,Charleville,8,2020,Existing,Household Buyer - Non-Occupier,28000.0
+P56,Charleville,9,2020,All Dwelling Statuses,All Buyer Types,188243.0
+P56,Charleville,9,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,385000.0
+P56,Charleville,9,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,113500.0
+P56,Charleville,9,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,66230.0
+P56,Charleville,9,2020,New,All Buyer Types,
+P56,Charleville,9,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,9,2020,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,9,2020,New,Household Buyer - Non-Occupier,
+P56,Charleville,9,2020,Existing,All Buyer Types,188243.0
+P56,Charleville,9,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,385000.0
+P56,Charleville,9,2020,Existing,Household Buyer - Former Owner-Occupier,113500.0
+P56,Charleville,9,2020,Existing,Household Buyer - Non-Occupier,66230.0
+P56,Charleville,10,2020,All Dwelling Statuses,All Buyer Types,174000.0
+P56,Charleville,10,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,137000.0
+P56,Charleville,10,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,192500.0
+P56,Charleville,10,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,10,2020,New,All Buyer Types,
+P56,Charleville,10,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,10,2020,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,10,2020,New,Household Buyer - Non-Occupier,
+P56,Charleville,10,2020,Existing,All Buyer Types,174000.0
+P56,Charleville,10,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,137000.0
+P56,Charleville,10,2020,Existing,Household Buyer - Former Owner-Occupier,192500.0
+P56,Charleville,10,2020,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,11,2020,All Dwelling Statuses,All Buyer Types,153278.0
+P56,Charleville,11,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,238000.0
+P56,Charleville,11,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,125583.0
+P56,Charleville,11,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,150000.0
+P56,Charleville,11,2020,New,All Buyer Types,
+P56,Charleville,11,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,11,2020,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,11,2020,New,Household Buyer - Non-Occupier,
+P56,Charleville,11,2020,Existing,All Buyer Types,153278.0
+P56,Charleville,11,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,238000.0
+P56,Charleville,11,2020,Existing,Household Buyer - Former Owner-Occupier,125583.0
+P56,Charleville,11,2020,Existing,Household Buyer - Non-Occupier,150000.0
+P56,Charleville,12,2020,All Dwelling Statuses,All Buyer Types,131553.0
+P56,Charleville,12,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,270000.0
+P56,Charleville,12,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,121567.0
+P56,Charleville,12,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,73000.0
+P56,Charleville,12,2020,New,All Buyer Types,125533.0
+P56,Charleville,12,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,12,2020,New,Household Buyer - Former Owner-Occupier,125533.0
+P56,Charleville,12,2020,New,Household Buyer - Non-Occupier,
+P56,Charleville,12,2020,Existing,All Buyer Types,132222.0
+P56,Charleville,12,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,270000.0
+P56,Charleville,12,2020,Existing,Household Buyer - Former Owner-Occupier,121000.0
+P56,Charleville,12,2020,Existing,Household Buyer - Non-Occupier,73000.0
+P56,Charleville,1,2021,All Dwelling Statuses,All Buyer Types,131438.0
+P56,Charleville,1,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,50000.0
+P56,Charleville,1,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,143071.0
+P56,Charleville,1,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,1,2021,New,All Buyer Types,
+P56,Charleville,1,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2021,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,1,2021,New,Household Buyer - Non-Occupier,
+P56,Charleville,1,2021,Existing,All Buyer Types,131438.0
+P56,Charleville,1,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,50000.0
+P56,Charleville,1,2021,Existing,Household Buyer - Former Owner-Occupier,143071.0
+P56,Charleville,1,2021,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,2,2021,All Dwelling Statuses,All Buyer Types,107125.0
+P56,Charleville,2,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,88833.0
+P56,Charleville,2,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,162000.0
+P56,Charleville,2,2021,New,All Buyer Types,
+P56,Charleville,2,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2021,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,2,2021,New,Household Buyer - Non-Occupier,
+P56,Charleville,2,2021,Existing,All Buyer Types,107125.0
+P56,Charleville,2,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2021,Existing,Household Buyer - Former Owner-Occupier,88833.0
+P56,Charleville,2,2021,Existing,Household Buyer - Non-Occupier,162000.0
+P56,Charleville,3,2021,All Dwelling Statuses,All Buyer Types,151600.0
+P56,Charleville,3,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,50000.0
+P56,Charleville,3,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,207667.0
+P56,Charleville,3,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,85000.0
+P56,Charleville,3,2021,New,All Buyer Types,
+P56,Charleville,3,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2021,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,3,2021,New,Household Buyer - Non-Occupier,
+P56,Charleville,3,2021,Existing,All Buyer Types,151600.0
+P56,Charleville,3,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,50000.0
+P56,Charleville,3,2021,Existing,Household Buyer - Former Owner-Occupier,207667.0
+P56,Charleville,3,2021,Existing,Household Buyer - Non-Occupier,85000.0
+P56,Charleville,4,2021,All Dwelling Statuses,All Buyer Types,176800.0
+P56,Charleville,4,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,185667.0
+P56,Charleville,4,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,163500.0
+P56,Charleville,4,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,4,2021,New,All Buyer Types,
+P56,Charleville,4,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2021,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,4,2021,New,Household Buyer - Non-Occupier,
+P56,Charleville,4,2021,Existing,All Buyer Types,176800.0
+P56,Charleville,4,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,185667.0
+P56,Charleville,4,2021,Existing,Household Buyer - Former Owner-Occupier,163500.0
+P56,Charleville,4,2021,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,5,2021,All Dwelling Statuses,All Buyer Types,110625.0
+P56,Charleville,5,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,96500.0
+P56,Charleville,5,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,115333.0
+P56,Charleville,5,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,5,2021,New,All Buyer Types,
+P56,Charleville,5,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,5,2021,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,5,2021,New,Household Buyer - Non-Occupier,
+P56,Charleville,5,2021,Existing,All Buyer Types,110625.0
+P56,Charleville,5,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,96500.0
+P56,Charleville,5,2021,Existing,Household Buyer - Former Owner-Occupier,115333.0
+P56,Charleville,5,2021,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,6,2021,All Dwelling Statuses,All Buyer Types,202500.0
+P56,Charleville,6,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+P56,Charleville,6,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,202500.0
+P56,Charleville,6,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,110000.0
+P56,Charleville,6,2021,New,All Buyer Types,
+P56,Charleville,6,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,6,2021,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,6,2021,New,Household Buyer - Non-Occupier,
+P56,Charleville,6,2021,Existing,All Buyer Types,202500.0
+P56,Charleville,6,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+P56,Charleville,6,2021,Existing,Household Buyer - Former Owner-Occupier,202500.0
+P56,Charleville,6,2021,Existing,Household Buyer - Non-Occupier,110000.0
+P56,Charleville,7,2021,All Dwelling Statuses,All Buyer Types,172500.0
+P56,Charleville,7,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,7,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,219000.0
+P56,Charleville,7,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,33000.0
+P56,Charleville,7,2021,New,All Buyer Types,
+P56,Charleville,7,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,7,2021,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,7,2021,New,Household Buyer - Non-Occupier,
+P56,Charleville,7,2021,Existing,All Buyer Types,172500.0
+P56,Charleville,7,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,7,2021,Existing,Household Buyer - Former Owner-Occupier,219000.0
+P56,Charleville,7,2021,Existing,Household Buyer - Non-Occupier,33000.0
+P56,Charleville,8,2021,All Dwelling Statuses,All Buyer Types,144625.0
+P56,Charleville,8,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,167000.0
+P56,Charleville,8,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,170000.0
+P56,Charleville,8,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,70000.0
+P56,Charleville,8,2021,New,All Buyer Types,
+P56,Charleville,8,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,8,2021,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,8,2021,New,Household Buyer - Non-Occupier,
+P56,Charleville,8,2021,Existing,All Buyer Types,144625.0
+P56,Charleville,8,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,167000.0
+P56,Charleville,8,2021,Existing,Household Buyer - Former Owner-Occupier,170000.0
+P56,Charleville,8,2021,Existing,Household Buyer - Non-Occupier,70000.0
+P56,Charleville,9,2021,All Dwelling Statuses,All Buyer Types,199750.0
+P56,Charleville,9,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,169333.0
+P56,Charleville,9,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,291000.0
+P56,Charleville,9,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,9,2021,New,All Buyer Types,
+P56,Charleville,9,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,9,2021,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,9,2021,New,Household Buyer - Non-Occupier,
+P56,Charleville,9,2021,Existing,All Buyer Types,199750.0
+P56,Charleville,9,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,169333.0
+P56,Charleville,9,2021,Existing,Household Buyer - Former Owner-Occupier,291000.0
+P56,Charleville,9,2021,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,10,2021,All Dwelling Statuses,All Buyer Types,109900.0
+P56,Charleville,10,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,70000.0
+P56,Charleville,10,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,117667.0
+P56,Charleville,10,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,107667.0
+P56,Charleville,10,2021,New,All Buyer Types,
+P56,Charleville,10,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,10,2021,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,10,2021,New,Household Buyer - Non-Occupier,
+P56,Charleville,10,2021,Existing,All Buyer Types,109900.0
+P56,Charleville,10,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,70000.0
+P56,Charleville,10,2021,Existing,Household Buyer - Former Owner-Occupier,117667.0
+P56,Charleville,10,2021,Existing,Household Buyer - Non-Occupier,107667.0
+P56,Charleville,11,2021,All Dwelling Statuses,All Buyer Types,176214.0
+P56,Charleville,11,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,152333.0
+P56,Charleville,11,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,230500.0
+P56,Charleville,11,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,85000.0
+P56,Charleville,11,2021,New,All Buyer Types,
+P56,Charleville,11,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,11,2021,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,11,2021,New,Household Buyer - Non-Occupier,
+P56,Charleville,11,2021,Existing,All Buyer Types,176214.0
+P56,Charleville,11,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,152333.0
+P56,Charleville,11,2021,Existing,Household Buyer - Former Owner-Occupier,230500.0
+P56,Charleville,11,2021,Existing,Household Buyer - Non-Occupier,85000.0
+P56,Charleville,12,2021,All Dwelling Statuses,All Buyer Types,175458.0
+P56,Charleville,12,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,201500.0
+P56,Charleville,12,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,151071.0
+P56,Charleville,12,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,242000.0
+P56,Charleville,12,2021,New,All Buyer Types,
+P56,Charleville,12,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,12,2021,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,12,2021,New,Household Buyer - Non-Occupier,
+P56,Charleville,12,2021,Existing,All Buyer Types,175458.0
+P56,Charleville,12,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,201500.0
+P56,Charleville,12,2021,Existing,Household Buyer - Former Owner-Occupier,151071.0
+P56,Charleville,12,2021,Existing,Household Buyer - Non-Occupier,242000.0
+P56,Charleville,1,2022,All Dwelling Statuses,All Buyer Types,178667.0
+P56,Charleville,1,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,217500.0
+P56,Charleville,1,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,159250.0
+P56,Charleville,1,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,1,2022,New,All Buyer Types,
+P56,Charleville,1,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2022,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,1,2022,New,Household Buyer - Non-Occupier,
+P56,Charleville,1,2022,Existing,All Buyer Types,178667.0
+P56,Charleville,1,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,217500.0
+P56,Charleville,1,2022,Existing,Household Buyer - Former Owner-Occupier,159250.0
+P56,Charleville,1,2022,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,2,2022,All Dwelling Statuses,All Buyer Types,230063.0
+P56,Charleville,2,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,226000.0
+P56,Charleville,2,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,280100.0
+P56,Charleville,2,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,107000.0
+P56,Charleville,2,2022,New,All Buyer Types,
+P56,Charleville,2,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2022,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,2,2022,New,Household Buyer - Non-Occupier,
+P56,Charleville,2,2022,Existing,All Buyer Types,230063.0
+P56,Charleville,2,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,226000.0
+P56,Charleville,2,2022,Existing,Household Buyer - Former Owner-Occupier,280100.0
+P56,Charleville,2,2022,Existing,Household Buyer - Non-Occupier,107000.0
+P56,Charleville,3,2022,All Dwelling Statuses,All Buyer Types,182500.0
+P56,Charleville,3,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+P56,Charleville,3,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,245000.0
+P56,Charleville,3,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,3,2022,New,All Buyer Types,
+P56,Charleville,3,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2022,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,3,2022,New,Household Buyer - Non-Occupier,
+P56,Charleville,3,2022,Existing,All Buyer Types,182500.0
+P56,Charleville,3,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+P56,Charleville,3,2022,Existing,Household Buyer - Former Owner-Occupier,245000.0
+P56,Charleville,3,2022,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,4,2022,All Dwelling Statuses,All Buyer Types,143333.0
+P56,Charleville,4,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,75000.0
+P56,Charleville,4,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,177500.0
+P56,Charleville,4,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,4,2022,New,All Buyer Types,
+P56,Charleville,4,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2022,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,4,2022,New,Household Buyer - Non-Occupier,
+P56,Charleville,4,2022,Existing,All Buyer Types,143333.0
+P56,Charleville,4,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,75000.0
+P56,Charleville,4,2022,Existing,Household Buyer - Former Owner-Occupier,177500.0
+P56,Charleville,4,2022,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,5,2022,All Dwelling Statuses,All Buyer Types,169250.0
+P56,Charleville,5,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,193667.0
+P56,Charleville,5,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,135000.0
+P56,Charleville,5,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,167667.0
+P56,Charleville,5,2022,New,All Buyer Types,
+P56,Charleville,5,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,5,2022,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,5,2022,New,Household Buyer - Non-Occupier,
+P56,Charleville,5,2022,Existing,All Buyer Types,169250.0
+P56,Charleville,5,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,193667.0
+P56,Charleville,5,2022,Existing,Household Buyer - Former Owner-Occupier,135000.0
+P56,Charleville,5,2022,Existing,Household Buyer - Non-Occupier,167667.0
+P56,Charleville,6,2022,All Dwelling Statuses,All Buyer Types,224571.0
+P56,Charleville,6,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210500.0
+P56,Charleville,6,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,243333.0
+P56,Charleville,6,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,6,2022,New,All Buyer Types,
+P56,Charleville,6,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,6,2022,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,6,2022,New,Household Buyer - Non-Occupier,
+P56,Charleville,6,2022,Existing,All Buyer Types,224571.0
+P56,Charleville,6,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210500.0
+P56,Charleville,6,2022,Existing,Household Buyer - Former Owner-Occupier,243333.0
+P56,Charleville,6,2022,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,7,2022,All Dwelling Statuses,All Buyer Types,218917.0
+P56,Charleville,7,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+P56,Charleville,7,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,223700.0
+P56,Charleville,7,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,7,2022,New,All Buyer Types,
+P56,Charleville,7,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,7,2022,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,7,2022,New,Household Buyer - Non-Occupier,
+P56,Charleville,7,2022,Existing,All Buyer Types,218917.0
+P56,Charleville,7,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+P56,Charleville,7,2022,Existing,Household Buyer - Former Owner-Occupier,223700.0
+P56,Charleville,7,2022,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,8,2022,All Dwelling Statuses,All Buyer Types,191125.0
+P56,Charleville,8,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,196667.0
+P56,Charleville,8,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,207250.0
+P56,Charleville,8,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,110000.0
+P56,Charleville,8,2022,New,All Buyer Types,
+P56,Charleville,8,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,8,2022,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,8,2022,New,Household Buyer - Non-Occupier,
+P56,Charleville,8,2022,Existing,All Buyer Types,191125.0
+P56,Charleville,8,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,196667.0
+P56,Charleville,8,2022,Existing,Household Buyer - Former Owner-Occupier,207250.0
+P56,Charleville,8,2022,Existing,Household Buyer - Non-Occupier,110000.0
+P56,Charleville,9,2022,All Dwelling Statuses,All Buyer Types,195167.0
+P56,Charleville,9,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,196500.0
+P56,Charleville,9,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,192500.0
+P56,Charleville,9,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,9,2022,New,All Buyer Types,
+P56,Charleville,9,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,9,2022,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,9,2022,New,Household Buyer - Non-Occupier,
+P56,Charleville,9,2022,Existing,All Buyer Types,195167.0
+P56,Charleville,9,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,196500.0
+P56,Charleville,9,2022,Existing,Household Buyer - Former Owner-Occupier,192500.0
+P56,Charleville,9,2022,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,10,2022,All Dwelling Statuses,All Buyer Types,236625.0
+P56,Charleville,10,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,263000.0
+P56,Charleville,10,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,203750.0
+P56,Charleville,10,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,289000.0
+P56,Charleville,10,2022,New,All Buyer Types,
+P56,Charleville,10,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,10,2022,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,10,2022,New,Household Buyer - Non-Occupier,
+P56,Charleville,10,2022,Existing,All Buyer Types,236625.0
+P56,Charleville,10,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,263000.0
+P56,Charleville,10,2022,Existing,Household Buyer - Former Owner-Occupier,203750.0
+P56,Charleville,10,2022,Existing,Household Buyer - Non-Occupier,289000.0
+P56,Charleville,11,2022,All Dwelling Statuses,All Buyer Types,201192.0
+P56,Charleville,11,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,270000.0
+P56,Charleville,11,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,155700.0
+P56,Charleville,11,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,205400.0
+P56,Charleville,11,2022,New,All Buyer Types,
+P56,Charleville,11,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,11,2022,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,11,2022,New,Household Buyer - Non-Occupier,
+P56,Charleville,11,2022,Existing,All Buyer Types,201192.0
+P56,Charleville,11,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,270000.0
+P56,Charleville,11,2022,Existing,Household Buyer - Former Owner-Occupier,155700.0
+P56,Charleville,11,2022,Existing,Household Buyer - Non-Occupier,205400.0
+P56,Charleville,12,2022,All Dwelling Statuses,All Buyer Types,267682.0
+P56,Charleville,12,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,265900.0
+P56,Charleville,12,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,350500.0
+P56,Charleville,12,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,106500.0
+P56,Charleville,12,2022,New,All Buyer Types,
+P56,Charleville,12,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,12,2022,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,12,2022,New,Household Buyer - Non-Occupier,
+P56,Charleville,12,2022,Existing,All Buyer Types,267682.0
+P56,Charleville,12,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,265900.0
+P56,Charleville,12,2022,Existing,Household Buyer - Former Owner-Occupier,350500.0
+P56,Charleville,12,2022,Existing,Household Buyer - Non-Occupier,106500.0
+P56,Charleville,1,2023,All Dwelling Statuses,All Buyer Types,265000.0
+P56,Charleville,1,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,286667.0
+P56,Charleville,1,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,243333.0
+P56,Charleville,1,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,1,2023,New,All Buyer Types,
+P56,Charleville,1,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2023,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,1,2023,New,Household Buyer - Non-Occupier,
+P56,Charleville,1,2023,Existing,All Buyer Types,265000.0
+P56,Charleville,1,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,286667.0
+P56,Charleville,1,2023,Existing,Household Buyer - Former Owner-Occupier,243333.0
+P56,Charleville,1,2023,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,2,2023,All Dwelling Statuses,All Buyer Types,188667.0
+P56,Charleville,2,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,230000.0
+P56,Charleville,2,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,236000.0
+P56,Charleville,2,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,100000.0
+P56,Charleville,2,2023,New,All Buyer Types,
+P56,Charleville,2,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2023,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,2,2023,New,Household Buyer - Non-Occupier,
+P56,Charleville,2,2023,Existing,All Buyer Types,188667.0
+P56,Charleville,2,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,230000.0
+P56,Charleville,2,2023,Existing,Household Buyer - Former Owner-Occupier,236000.0
+P56,Charleville,2,2023,Existing,Household Buyer - Non-Occupier,100000.0
+P56,Charleville,3,2023,All Dwelling Statuses,All Buyer Types,213929.0
+P56,Charleville,3,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,60000.0
+P56,Charleville,3,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,270000.0
+P56,Charleville,3,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,178750.0
+P56,Charleville,3,2023,New,All Buyer Types,
+P56,Charleville,3,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2023,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,3,2023,New,Household Buyer - Non-Occupier,
+P56,Charleville,3,2023,Existing,All Buyer Types,213929.0
+P56,Charleville,3,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,60000.0
+P56,Charleville,3,2023,Existing,Household Buyer - Former Owner-Occupier,270000.0
+P56,Charleville,3,2023,Existing,Household Buyer - Non-Occupier,178750.0
+P56,Charleville,4,2023,All Dwelling Statuses,All Buyer Types,229500.0
+P56,Charleville,4,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,263000.0
+P56,Charleville,4,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,129000.0
+P56,Charleville,4,2023,New,All Buyer Types,
+P56,Charleville,4,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2023,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,4,2023,New,Household Buyer - Non-Occupier,
+P56,Charleville,4,2023,Existing,All Buyer Types,229500.0
+P56,Charleville,4,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2023,Existing,Household Buyer - Former Owner-Occupier,263000.0
+P56,Charleville,4,2023,Existing,Household Buyer - Non-Occupier,129000.0
+P56,Charleville,5,2023,All Dwelling Statuses,All Buyer Types,150188.0
+P56,Charleville,5,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+P56,Charleville,5,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,169300.0
+P56,Charleville,5,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+P56,Charleville,5,2023,New,All Buyer Types,
+P56,Charleville,5,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,5,2023,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,5,2023,New,Household Buyer - Non-Occupier,
+P56,Charleville,5,2023,Existing,All Buyer Types,150188.0
+P56,Charleville,5,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+P56,Charleville,5,2023,Existing,Household Buyer - Former Owner-Occupier,169300.0
+P56,Charleville,5,2023,Existing,Household Buyer - Non-Occupier,80000.0
+P56,Charleville,6,2023,All Dwelling Statuses,All Buyer Types,222500.0
+P56,Charleville,6,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,265000.0
+P56,Charleville,6,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,180000.0
+P56,Charleville,6,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,6,2023,New,All Buyer Types,
+P56,Charleville,6,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,6,2023,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,6,2023,New,Household Buyer - Non-Occupier,
+P56,Charleville,6,2023,Existing,All Buyer Types,222500.0
+P56,Charleville,6,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,265000.0
+P56,Charleville,6,2023,Existing,Household Buyer - Former Owner-Occupier,180000.0
+P56,Charleville,6,2023,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,7,2023,All Dwelling Statuses,All Buyer Types,291000.0
+P56,Charleville,7,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+P56,Charleville,7,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,357500.0
+P56,Charleville,7,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,190000.0
+P56,Charleville,7,2023,New,All Buyer Types,
+P56,Charleville,7,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,7,2023,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,7,2023,New,Household Buyer - Non-Occupier,
+P56,Charleville,7,2023,Existing,All Buyer Types,291000.0
+P56,Charleville,7,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+P56,Charleville,7,2023,Existing,Household Buyer - Former Owner-Occupier,357500.0
+P56,Charleville,7,2023,Existing,Household Buyer - Non-Occupier,190000.0
+P56,Charleville,8,2023,All Dwelling Statuses,All Buyer Types,225750.0
+P56,Charleville,8,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,212500.0
+P56,Charleville,8,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,244700.0
+P56,Charleville,8,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,157500.0
+P56,Charleville,8,2023,New,All Buyer Types,
+P56,Charleville,8,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,8,2023,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,8,2023,New,Household Buyer - Non-Occupier,
+P56,Charleville,8,2023,Existing,All Buyer Types,225750.0
+P56,Charleville,8,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,212500.0
+P56,Charleville,8,2023,Existing,Household Buyer - Former Owner-Occupier,244700.0
+P56,Charleville,8,2023,Existing,Household Buyer - Non-Occupier,157500.0
+P56,Charleville,9,2023,All Dwelling Statuses,All Buyer Types,164818.0
+P56,Charleville,9,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,249000.0
+P56,Charleville,9,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,189250.0
+P56,Charleville,9,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,77250.0
+P56,Charleville,9,2023,New,All Buyer Types,
+P56,Charleville,9,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,9,2023,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,9,2023,New,Household Buyer - Non-Occupier,
+P56,Charleville,9,2023,Existing,All Buyer Types,164818.0
+P56,Charleville,9,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,249000.0
+P56,Charleville,9,2023,Existing,Household Buyer - Former Owner-Occupier,189250.0
+P56,Charleville,9,2023,Existing,Household Buyer - Non-Occupier,77250.0
+P56,Charleville,10,2023,All Dwelling Statuses,All Buyer Types,198571.0
+P56,Charleville,10,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,246667.0
+P56,Charleville,10,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,163333.0
+P56,Charleville,10,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,160000.0
+P56,Charleville,10,2023,New,All Buyer Types,
+P56,Charleville,10,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,10,2023,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,10,2023,New,Household Buyer - Non-Occupier,
+P56,Charleville,10,2023,Existing,All Buyer Types,198571.0
+P56,Charleville,10,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,246667.0
+P56,Charleville,10,2023,Existing,Household Buyer - Former Owner-Occupier,163333.0
+P56,Charleville,10,2023,Existing,Household Buyer - Non-Occupier,160000.0
+P56,Charleville,11,2023,All Dwelling Statuses,All Buyer Types,162375.0
+P56,Charleville,11,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+P56,Charleville,11,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,192083.0
+P56,Charleville,11,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,115625.0
+P56,Charleville,11,2023,New,All Buyer Types,
+P56,Charleville,11,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,11,2023,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,11,2023,New,Household Buyer - Non-Occupier,
+P56,Charleville,11,2023,Existing,All Buyer Types,162375.0
+P56,Charleville,11,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+P56,Charleville,11,2023,Existing,Household Buyer - Former Owner-Occupier,192083.0
+P56,Charleville,11,2023,Existing,Household Buyer - Non-Occupier,115625.0
+P56,Charleville,12,2023,All Dwelling Statuses,All Buyer Types,204100.0
+P56,Charleville,12,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,201250.0
+P56,Charleville,12,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,206000.0
+P56,Charleville,12,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,12,2023,New,All Buyer Types,
+P56,Charleville,12,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,12,2023,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,12,2023,New,Household Buyer - Non-Occupier,
+P56,Charleville,12,2023,Existing,All Buyer Types,204100.0
+P56,Charleville,12,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,201250.0
+P56,Charleville,12,2023,Existing,Household Buyer - Former Owner-Occupier,206000.0
+P56,Charleville,12,2023,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,1,2024,All Dwelling Statuses,All Buyer Types,233074.0
+P56,Charleville,1,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,270765.0
+P56,Charleville,1,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,120000.0
+P56,Charleville,1,2024,New,All Buyer Types,
+P56,Charleville,1,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2024,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,1,2024,New,Household Buyer - Non-Occupier,
+P56,Charleville,1,2024,Existing,All Buyer Types,233074.0
+P56,Charleville,1,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,1,2024,Existing,Household Buyer - Former Owner-Occupier,270765.0
+P56,Charleville,1,2024,Existing,Household Buyer - Non-Occupier,120000.0
+P56,Charleville,2,2024,All Dwelling Statuses,All Buyer Types,180750.0
+P56,Charleville,2,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+P56,Charleville,2,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,183000.0
+P56,Charleville,2,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,2,2024,New,All Buyer Types,
+P56,Charleville,2,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,2,2024,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,2,2024,New,Household Buyer - Non-Occupier,
+P56,Charleville,2,2024,Existing,All Buyer Types,180750.0
+P56,Charleville,2,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+P56,Charleville,2,2024,Existing,Household Buyer - Former Owner-Occupier,183000.0
+P56,Charleville,2,2024,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,3,2024,All Dwelling Statuses,All Buyer Types,195800.0
+P56,Charleville,3,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,218750.0
+P56,Charleville,3,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,270000.0
+P56,Charleville,3,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,135750.0
+P56,Charleville,3,2024,New,All Buyer Types,
+P56,Charleville,3,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,3,2024,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,3,2024,New,Household Buyer - Non-Occupier,
+P56,Charleville,3,2024,Existing,All Buyer Types,195800.0
+P56,Charleville,3,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,218750.0
+P56,Charleville,3,2024,Existing,Household Buyer - Former Owner-Occupier,270000.0
+P56,Charleville,3,2024,Existing,Household Buyer - Non-Occupier,135750.0
+P56,Charleville,4,2024,All Dwelling Statuses,All Buyer Types,173145.0
+P56,Charleville,4,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,201000.0
+P56,Charleville,4,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,215790.0
+P56,Charleville,4,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,60000.0
+P56,Charleville,4,2024,New,All Buyer Types,
+P56,Charleville,4,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,4,2024,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,4,2024,New,Household Buyer - Non-Occupier,
+P56,Charleville,4,2024,Existing,All Buyer Types,173145.0
+P56,Charleville,4,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,201000.0
+P56,Charleville,4,2024,Existing,Household Buyer - Former Owner-Occupier,215790.0
+P56,Charleville,4,2024,Existing,Household Buyer - Non-Occupier,60000.0
+P56,Charleville,5,2024,All Dwelling Statuses,All Buyer Types,191750.0
+P56,Charleville,5,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,179667.0
+P56,Charleville,5,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,228000.0
+P56,Charleville,5,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,5,2024,New,All Buyer Types,
+P56,Charleville,5,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,5,2024,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,5,2024,New,Household Buyer - Non-Occupier,
+P56,Charleville,5,2024,Existing,All Buyer Types,191750.0
+P56,Charleville,5,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,179667.0
+P56,Charleville,5,2024,Existing,Household Buyer - Former Owner-Occupier,228000.0
+P56,Charleville,5,2024,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,6,2024,All Dwelling Statuses,All Buyer Types,216167.0
+P56,Charleville,6,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,189400.0
+P56,Charleville,6,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,350000.0
+P56,Charleville,6,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,6,2024,New,All Buyer Types,260000.0
+P56,Charleville,6,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,260000.0
+P56,Charleville,6,2024,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,6,2024,New,Household Buyer - Non-Occupier,
+P56,Charleville,6,2024,Existing,All Buyer Types,207400.0
+P56,Charleville,6,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,171750.0
+P56,Charleville,6,2024,Existing,Household Buyer - Former Owner-Occupier,350000.0
+P56,Charleville,6,2024,Existing,Household Buyer - Non-Occupier,
+P56,Charleville,7,2024,All Dwelling Statuses,All Buyer Types,177500.0
+P56,Charleville,7,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+P56,Charleville,7,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,205000.0
+P56,Charleville,7,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P56,Charleville,7,2024,New,All Buyer Types,
+P56,Charleville,7,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P56,Charleville,7,2024,New,Household Buyer - Former Owner-Occupier,
+P56,Charleville,7,2024,New,Household Buyer - Non-Occupier,
+P56,Charleville,7,2024,Existing,All Buyer Types,177500.0
+P56,Charleville,7,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+P56,Charleville,7,2024,Existing,Household Buyer - Former Owner-Occupier,205000.0
+P56,Charleville,7,2024,Existing,Household Buyer - Non-Occupier,

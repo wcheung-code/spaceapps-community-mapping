@@ -1,0 +1,2101 @@
+Routing Key,City,Month,Year,Dwelling Status,Type of Buyer,VALUE
+D07,Dublin 7,1,2010,All Dwelling Statuses,All Buyer Types,279808.0
+D07,Dublin 7,1,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,250056.0
+D07,Dublin 7,1,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,346750.0
+D07,Dublin 7,1,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+D07,Dublin 7,1,2010,New,All Buyer Types,
+D07,Dublin 7,1,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,1,2010,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,1,2010,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,1,2010,Existing,All Buyer Types,279808.0
+D07,Dublin 7,1,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,250056.0
+D07,Dublin 7,1,2010,Existing,Household Buyer - Former Owner-Occupier,346750.0
+D07,Dublin 7,1,2010,Existing,Household Buyer - Non-Occupier,
+D07,Dublin 7,2,2010,All Dwelling Statuses,All Buyer Types,311725.0
+D07,Dublin 7,2,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,238667.0
+D07,Dublin 7,2,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,377688.0
+D07,Dublin 7,2,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,355000.0
+D07,Dublin 7,2,2010,New,All Buyer Types,
+D07,Dublin 7,2,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,2,2010,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,2,2010,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,2,2010,Existing,All Buyer Types,311725.0
+D07,Dublin 7,2,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,238667.0
+D07,Dublin 7,2,2010,Existing,Household Buyer - Former Owner-Occupier,377688.0
+D07,Dublin 7,2,2010,Existing,Household Buyer - Non-Occupier,355000.0
+D07,Dublin 7,3,2010,All Dwelling Statuses,All Buyer Types,246994.0
+D07,Dublin 7,3,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,251598.0
+D07,Dublin 7,3,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,231650.0
+D07,Dublin 7,3,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+D07,Dublin 7,3,2010,New,All Buyer Types,266738.0
+D07,Dublin 7,3,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,266738.0
+D07,Dublin 7,3,2010,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,3,2010,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,3,2010,Existing,All Buyer Types,243405.0
+D07,Dublin 7,3,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,247813.0
+D07,Dublin 7,3,2010,Existing,Household Buyer - Former Owner-Occupier,231650.0
+D07,Dublin 7,3,2010,Existing,Household Buyer - Non-Occupier,
+D07,Dublin 7,4,2010,All Dwelling Statuses,All Buyer Types,244449.0
+D07,Dublin 7,4,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,243333.0
+D07,Dublin 7,4,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,332765.0
+D07,Dublin 7,4,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,164500.0
+D07,Dublin 7,4,2010,New,All Buyer Types,237265.0
+D07,Dublin 7,4,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,159000.0
+D07,Dublin 7,4,2010,New,Household Buyer - Former Owner-Occupier,315530.0
+D07,Dublin 7,4,2010,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,4,2010,Existing,All Buyer Types,245294.0
+D07,Dublin 7,4,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,249357.0
+D07,Dublin 7,4,2010,Existing,Household Buyer - Former Owner-Occupier,350000.0
+D07,Dublin 7,4,2010,Existing,Household Buyer - Non-Occupier,164500.0
+D07,Dublin 7,5,2010,All Dwelling Statuses,All Buyer Types,279381.0
+D07,Dublin 7,5,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,241321.0
+D07,Dublin 7,5,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,365167.0
+D07,Dublin 7,5,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,297500.0
+D07,Dublin 7,5,2010,New,All Buyer Types,
+D07,Dublin 7,5,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,5,2010,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,5,2010,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,5,2010,Existing,All Buyer Types,279381.0
+D07,Dublin 7,5,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,241321.0
+D07,Dublin 7,5,2010,Existing,Household Buyer - Former Owner-Occupier,365167.0
+D07,Dublin 7,5,2010,Existing,Household Buyer - Non-Occupier,297500.0
+D07,Dublin 7,6,2010,All Dwelling Statuses,All Buyer Types,262466.0
+D07,Dublin 7,6,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,243188.0
+D07,Dublin 7,6,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,417500.0
+D07,Dublin 7,6,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,313333.0
+D07,Dublin 7,6,2010,New,All Buyer Types,
+D07,Dublin 7,6,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,6,2010,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,6,2010,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,6,2010,Existing,All Buyer Types,262466.0
+D07,Dublin 7,6,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,243188.0
+D07,Dublin 7,6,2010,Existing,Household Buyer - Former Owner-Occupier,417500.0
+D07,Dublin 7,6,2010,Existing,Household Buyer - Non-Occupier,313333.0
+D07,Dublin 7,7,2010,All Dwelling Statuses,All Buyer Types,288642.0
+D07,Dublin 7,7,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,267241.0
+D07,Dublin 7,7,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,358625.0
+D07,Dublin 7,7,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,251833.0
+D07,Dublin 7,7,2010,New,All Buyer Types,332555.0
+D07,Dublin 7,7,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,332555.0
+D07,Dublin 7,7,2010,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,7,2010,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,7,2010,Existing,All Buyer Types,287226.0
+D07,Dublin 7,7,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,263975.0
+D07,Dublin 7,7,2010,Existing,Household Buyer - Former Owner-Occupier,358625.0
+D07,Dublin 7,7,2010,Existing,Household Buyer - Non-Occupier,251833.0
+D07,Dublin 7,8,2010,All Dwelling Statuses,All Buyer Types,268433.0
+D07,Dublin 7,8,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,274853.0
+D07,Dublin 7,8,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,291550.0
+D07,Dublin 7,8,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,155000.0
+D07,Dublin 7,8,2010,New,All Buyer Types,
+D07,Dublin 7,8,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,8,2010,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,8,2010,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,8,2010,Existing,All Buyer Types,268433.0
+D07,Dublin 7,8,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,274853.0
+D07,Dublin 7,8,2010,Existing,Household Buyer - Former Owner-Occupier,291550.0
+D07,Dublin 7,8,2010,Existing,Household Buyer - Non-Occupier,155000.0
+D07,Dublin 7,9,2010,All Dwelling Statuses,All Buyer Types,300708.0
+D07,Dublin 7,9,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,250150.0
+D07,Dublin 7,9,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,363906.0
+D07,Dublin 7,9,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+D07,Dublin 7,9,2010,New,All Buyer Types,
+D07,Dublin 7,9,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,9,2010,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,9,2010,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,9,2010,Existing,All Buyer Types,300708.0
+D07,Dublin 7,9,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,250150.0
+D07,Dublin 7,9,2010,Existing,Household Buyer - Former Owner-Occupier,363906.0
+D07,Dublin 7,9,2010,Existing,Household Buyer - Non-Occupier,
+D07,Dublin 7,10,2010,All Dwelling Statuses,All Buyer Types,233669.0
+D07,Dublin 7,10,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,262071.0
+D07,Dublin 7,10,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,239818.0
+D07,Dublin 7,10,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,170714.0
+D07,Dublin 7,10,2010,New,All Buyer Types,
+D07,Dublin 7,10,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,10,2010,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,10,2010,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,10,2010,Existing,All Buyer Types,233669.0
+D07,Dublin 7,10,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,262071.0
+D07,Dublin 7,10,2010,Existing,Household Buyer - Former Owner-Occupier,239818.0
+D07,Dublin 7,10,2010,Existing,Household Buyer - Non-Occupier,170714.0
+D07,Dublin 7,11,2010,All Dwelling Statuses,All Buyer Types,260247.0
+D07,Dublin 7,11,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,244843.0
+D07,Dublin 7,11,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,299857.0
+D07,Dublin 7,11,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+D07,Dublin 7,11,2010,New,All Buyer Types,176670.0
+D07,Dublin 7,11,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,176670.0
+D07,Dublin 7,11,2010,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,11,2010,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,11,2010,Existing,All Buyer Types,263729.0
+D07,Dublin 7,11,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,248853.0
+D07,Dublin 7,11,2010,Existing,Household Buyer - Former Owner-Occupier,299857.0
+D07,Dublin 7,11,2010,Existing,Household Buyer - Non-Occupier,
+D07,Dublin 7,12,2010,All Dwelling Statuses,All Buyer Types,315825.0
+D07,Dublin 7,12,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,252487.0
+D07,Dublin 7,12,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,442500.0
+D07,Dublin 7,12,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+D07,Dublin 7,12,2010,New,All Buyer Types,192894.0
+D07,Dublin 7,12,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,192894.0
+D07,Dublin 7,12,2010,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,12,2010,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,12,2010,Existing,All Buyer Types,327000.0
+D07,Dublin 7,12,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,261000.0
+D07,Dublin 7,12,2010,Existing,Household Buyer - Former Owner-Occupier,442500.0
+D07,Dublin 7,12,2010,Existing,Household Buyer - Non-Occupier,
+D07,Dublin 7,1,2011,All Dwelling Statuses,All Buyer Types,241818.0
+D07,Dublin 7,1,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,250833.0
+D07,Dublin 7,1,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,222500.0
+D07,Dublin 7,1,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,236667.0
+D07,Dublin 7,1,2011,New,All Buyer Types,
+D07,Dublin 7,1,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,1,2011,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,1,2011,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,1,2011,Existing,All Buyer Types,241818.0
+D07,Dublin 7,1,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,250833.0
+D07,Dublin 7,1,2011,Existing,Household Buyer - Former Owner-Occupier,222500.0
+D07,Dublin 7,1,2011,Existing,Household Buyer - Non-Occupier,236667.0
+D07,Dublin 7,2,2011,All Dwelling Statuses,All Buyer Types,219762.0
+D07,Dublin 7,2,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,232057.0
+D07,Dublin 7,2,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,235833.0
+D07,Dublin 7,2,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,175000.0
+D07,Dublin 7,2,2011,New,All Buyer Types,
+D07,Dublin 7,2,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,2,2011,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,2,2011,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,2,2011,Existing,All Buyer Types,219762.0
+D07,Dublin 7,2,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,232057.0
+D07,Dublin 7,2,2011,Existing,Household Buyer - Former Owner-Occupier,235833.0
+D07,Dublin 7,2,2011,Existing,Household Buyer - Non-Occupier,175000.0
+D07,Dublin 7,3,2011,All Dwelling Statuses,All Buyer Types,235393.0
+D07,Dublin 7,3,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,191500.0
+D07,Dublin 7,3,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,313700.0
+D07,Dublin 7,3,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,192667.0
+D07,Dublin 7,3,2011,New,All Buyer Types,
+D07,Dublin 7,3,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,3,2011,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,3,2011,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,3,2011,Existing,All Buyer Types,235393.0
+D07,Dublin 7,3,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,191500.0
+D07,Dublin 7,3,2011,Existing,Household Buyer - Former Owner-Occupier,313700.0
+D07,Dublin 7,3,2011,Existing,Household Buyer - Non-Occupier,192667.0
+D07,Dublin 7,4,2011,All Dwelling Statuses,All Buyer Types,228468.0
+D07,Dublin 7,4,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210526.0
+D07,Dublin 7,4,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,280365.0
+D07,Dublin 7,4,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,290000.0
+D07,Dublin 7,4,2011,New,All Buyer Types,209947.0
+D07,Dublin 7,4,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,209947.0
+D07,Dublin 7,4,2011,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,4,2011,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,4,2011,Existing,All Buyer Types,230525.0
+D07,Dublin 7,4,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210615.0
+D07,Dublin 7,4,2011,Existing,Household Buyer - Former Owner-Occupier,280365.0
+D07,Dublin 7,4,2011,Existing,Household Buyer - Non-Occupier,290000.0
+D07,Dublin 7,5,2011,All Dwelling Statuses,All Buyer Types,215160.0
+D07,Dublin 7,5,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,216000.0
+D07,Dublin 7,5,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,251800.0
+D07,Dublin 7,5,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,188029.0
+D07,Dublin 7,5,2011,New,All Buyer Types,93706.0
+D07,Dublin 7,5,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,5,2011,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,5,2011,New,Household Buyer - Non-Occupier,93706.0
+D07,Dublin 7,5,2011,Existing,All Buyer Types,221553.0
+D07,Dublin 7,5,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,216000.0
+D07,Dublin 7,5,2011,Existing,Household Buyer - Former Owner-Occupier,251800.0
+D07,Dublin 7,5,2011,Existing,Household Buyer - Non-Occupier,203750.0
+D07,Dublin 7,6,2011,All Dwelling Statuses,All Buyer Types,191087.0
+D07,Dublin 7,6,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,179764.0
+D07,Dublin 7,6,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,201152.0
+D07,Dublin 7,6,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+D07,Dublin 7,6,2011,New,All Buyer Types,155813.0
+D07,Dublin 7,6,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,151371.0
+D07,Dublin 7,6,2011,New,Household Buyer - Former Owner-Occupier,162475.0
+D07,Dublin 7,6,2011,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,6,2011,Existing,All Buyer Types,205785.0
+D07,Dublin 7,6,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,196800.0
+D07,Dublin 7,6,2011,Existing,Household Buyer - Former Owner-Occupier,212202.0
+D07,Dublin 7,6,2011,Existing,Household Buyer - Non-Occupier,
+D07,Dublin 7,7,2011,All Dwelling Statuses,All Buyer Types,218812.0
+D07,Dublin 7,7,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,229999.0
+D07,Dublin 7,7,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,235111.0
+D07,Dublin 7,7,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,117500.0
+D07,Dublin 7,7,2011,New,All Buyer Types,147493.0
+D07,Dublin 7,7,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,147493.0
+D07,Dublin 7,7,2011,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,7,2011,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,7,2011,Existing,All Buyer Types,223567.0
+D07,Dublin 7,7,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,250625.0
+D07,Dublin 7,7,2011,Existing,Household Buyer - Former Owner-Occupier,235111.0
+D07,Dublin 7,7,2011,Existing,Household Buyer - Non-Occupier,117500.0
+D07,Dublin 7,8,2011,All Dwelling Statuses,All Buyer Types,230458.0
+D07,Dublin 7,8,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,140800.0
+D07,Dublin 7,8,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,330250.0
+D07,Dublin 7,8,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+D07,Dublin 7,8,2011,New,All Buyer Types,
+D07,Dublin 7,8,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,8,2011,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,8,2011,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,8,2011,Existing,All Buyer Types,230458.0
+D07,Dublin 7,8,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140800.0
+D07,Dublin 7,8,2011,Existing,Household Buyer - Former Owner-Occupier,330250.0
+D07,Dublin 7,8,2011,Existing,Household Buyer - Non-Occupier,80000.0
+D07,Dublin 7,9,2011,All Dwelling Statuses,All Buyer Types,202974.0
+D07,Dublin 7,9,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,248400.0
+D07,Dublin 7,9,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,211450.0
+D07,Dublin 7,9,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,125000.0
+D07,Dublin 7,9,2011,New,All Buyer Types,
+D07,Dublin 7,9,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,9,2011,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,9,2011,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,9,2011,Existing,All Buyer Types,202974.0
+D07,Dublin 7,9,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,248400.0
+D07,Dublin 7,9,2011,Existing,Household Buyer - Former Owner-Occupier,211450.0
+D07,Dublin 7,9,2011,Existing,Household Buyer - Non-Occupier,125000.0
+D07,Dublin 7,10,2011,All Dwelling Statuses,All Buyer Types,179813.0
+D07,Dublin 7,10,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,164000.0
+D07,Dublin 7,10,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,265000.0
+D07,Dublin 7,10,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,131250.0
+D07,Dublin 7,10,2011,New,All Buyer Types,
+D07,Dublin 7,10,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,10,2011,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,10,2011,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,10,2011,Existing,All Buyer Types,179813.0
+D07,Dublin 7,10,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,164000.0
+D07,Dublin 7,10,2011,Existing,Household Buyer - Former Owner-Occupier,265000.0
+D07,Dublin 7,10,2011,Existing,Household Buyer - Non-Occupier,131250.0
+D07,Dublin 7,11,2011,All Dwelling Statuses,All Buyer Types,169250.0
+D07,Dublin 7,11,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,199214.0
+D07,Dublin 7,11,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,165375.0
+D07,Dublin 7,11,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,138167.0
+D07,Dublin 7,11,2011,New,All Buyer Types,
+D07,Dublin 7,11,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,11,2011,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,11,2011,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,11,2011,Existing,All Buyer Types,169250.0
+D07,Dublin 7,11,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,199214.0
+D07,Dublin 7,11,2011,Existing,Household Buyer - Former Owner-Occupier,165375.0
+D07,Dublin 7,11,2011,Existing,Household Buyer - Non-Occupier,138167.0
+D07,Dublin 7,12,2011,All Dwelling Statuses,All Buyer Types,214350.0
+D07,Dublin 7,12,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,195500.0
+D07,Dublin 7,12,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,260375.0
+D07,Dublin 7,12,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,160000.0
+D07,Dublin 7,12,2011,New,All Buyer Types,
+D07,Dublin 7,12,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,12,2011,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,12,2011,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,12,2011,Existing,All Buyer Types,214350.0
+D07,Dublin 7,12,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,195500.0
+D07,Dublin 7,12,2011,Existing,Household Buyer - Former Owner-Occupier,260375.0
+D07,Dublin 7,12,2011,Existing,Household Buyer - Non-Occupier,160000.0
+D07,Dublin 7,1,2012,All Dwelling Statuses,All Buyer Types,183109.0
+D07,Dublin 7,1,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,167729.0
+D07,Dublin 7,1,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,240000.0
+D07,Dublin 7,1,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,147750.0
+D07,Dublin 7,1,2012,New,All Buyer Types,181600.0
+D07,Dublin 7,1,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,181600.0
+D07,Dublin 7,1,2012,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,1,2012,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,1,2012,Existing,All Buyer Types,183203.0
+D07,Dublin 7,1,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165417.0
+D07,Dublin 7,1,2012,Existing,Household Buyer - Former Owner-Occupier,240000.0
+D07,Dublin 7,1,2012,Existing,Household Buyer - Non-Occupier,147750.0
+D07,Dublin 7,2,2012,All Dwelling Statuses,All Buyer Types,174267.0
+D07,Dublin 7,2,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,168500.0
+D07,Dublin 7,2,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,180167.0
+D07,Dublin 7,2,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,150000.0
+D07,Dublin 7,2,2012,New,All Buyer Types,
+D07,Dublin 7,2,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,2,2012,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,2,2012,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,2,2012,Existing,All Buyer Types,174267.0
+D07,Dublin 7,2,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,168500.0
+D07,Dublin 7,2,2012,Existing,Household Buyer - Former Owner-Occupier,180167.0
+D07,Dublin 7,2,2012,Existing,Household Buyer - Non-Occupier,150000.0
+D07,Dublin 7,3,2012,All Dwelling Statuses,All Buyer Types,160842.0
+D07,Dublin 7,3,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,215932.0
+D07,Dublin 7,3,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,154857.0
+D07,Dublin 7,3,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,117875.0
+D07,Dublin 7,3,2012,New,All Buyer Types,
+D07,Dublin 7,3,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,3,2012,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,3,2012,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,3,2012,Existing,All Buyer Types,160842.0
+D07,Dublin 7,3,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,215932.0
+D07,Dublin 7,3,2012,Existing,Household Buyer - Former Owner-Occupier,154857.0
+D07,Dublin 7,3,2012,Existing,Household Buyer - Non-Occupier,117875.0
+D07,Dublin 7,4,2012,All Dwelling Statuses,All Buyer Types,149746.0
+D07,Dublin 7,4,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,114333.0
+D07,Dublin 7,4,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,188970.0
+D07,Dublin 7,4,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,84700.0
+D07,Dublin 7,4,2012,New,All Buyer Types,
+D07,Dublin 7,4,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,4,2012,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,4,2012,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,4,2012,Existing,All Buyer Types,149746.0
+D07,Dublin 7,4,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,114333.0
+D07,Dublin 7,4,2012,Existing,Household Buyer - Former Owner-Occupier,188970.0
+D07,Dublin 7,4,2012,Existing,Household Buyer - Non-Occupier,84700.0
+D07,Dublin 7,5,2012,All Dwelling Statuses,All Buyer Types,163586.0
+D07,Dublin 7,5,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,154167.0
+D07,Dublin 7,5,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197017.0
+D07,Dublin 7,5,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,143813.0
+D07,Dublin 7,5,2012,New,All Buyer Types,
+D07,Dublin 7,5,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,5,2012,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,5,2012,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,5,2012,Existing,All Buyer Types,163586.0
+D07,Dublin 7,5,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,154167.0
+D07,Dublin 7,5,2012,Existing,Household Buyer - Former Owner-Occupier,197017.0
+D07,Dublin 7,5,2012,Existing,Household Buyer - Non-Occupier,143813.0
+D07,Dublin 7,6,2012,All Dwelling Statuses,All Buyer Types,162361.0
+D07,Dublin 7,6,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,178827.0
+D07,Dublin 7,6,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,150500.0
+D07,Dublin 7,6,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,153429.0
+D07,Dublin 7,6,2012,New,All Buyer Types,
+D07,Dublin 7,6,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,6,2012,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,6,2012,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,6,2012,Existing,All Buyer Types,162361.0
+D07,Dublin 7,6,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,178827.0
+D07,Dublin 7,6,2012,Existing,Household Buyer - Former Owner-Occupier,150500.0
+D07,Dublin 7,6,2012,Existing,Household Buyer - Non-Occupier,153429.0
+D07,Dublin 7,7,2012,All Dwelling Statuses,All Buyer Types,195339.0
+D07,Dublin 7,7,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,198550.0
+D07,Dublin 7,7,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,217893.0
+D07,Dublin 7,7,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,108375.0
+D07,Dublin 7,7,2012,New,All Buyer Types,
+D07,Dublin 7,7,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,7,2012,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,7,2012,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,7,2012,Existing,All Buyer Types,195339.0
+D07,Dublin 7,7,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,198550.0
+D07,Dublin 7,7,2012,Existing,Household Buyer - Former Owner-Occupier,217893.0
+D07,Dublin 7,7,2012,Existing,Household Buyer - Non-Occupier,108375.0
+D07,Dublin 7,8,2012,All Dwelling Statuses,All Buyer Types,143146.0
+D07,Dublin 7,8,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,145556.0
+D07,Dublin 7,8,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,154222.0
+D07,Dublin 7,8,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,122917.0
+D07,Dublin 7,8,2012,New,All Buyer Types,
+D07,Dublin 7,8,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,8,2012,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,8,2012,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,8,2012,Existing,All Buyer Types,143146.0
+D07,Dublin 7,8,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,145556.0
+D07,Dublin 7,8,2012,Existing,Household Buyer - Former Owner-Occupier,154222.0
+D07,Dublin 7,8,2012,Existing,Household Buyer - Non-Occupier,122917.0
+D07,Dublin 7,9,2012,All Dwelling Statuses,All Buyer Types,168261.0
+D07,Dublin 7,9,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,173467.0
+D07,Dublin 7,9,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,198558.0
+D07,Dublin 7,9,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,122556.0
+D07,Dublin 7,9,2012,New,All Buyer Types,
+D07,Dublin 7,9,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,9,2012,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,9,2012,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,9,2012,Existing,All Buyer Types,168261.0
+D07,Dublin 7,9,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,173467.0
+D07,Dublin 7,9,2012,Existing,Household Buyer - Former Owner-Occupier,198558.0
+D07,Dublin 7,9,2012,Existing,Household Buyer - Non-Occupier,122556.0
+D07,Dublin 7,10,2012,All Dwelling Statuses,All Buyer Types,194272.0
+D07,Dublin 7,10,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,223667.0
+D07,Dublin 7,10,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178688.0
+D07,Dublin 7,10,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,170958.0
+D07,Dublin 7,10,2012,New,All Buyer Types,
+D07,Dublin 7,10,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,10,2012,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,10,2012,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,10,2012,Existing,All Buyer Types,194272.0
+D07,Dublin 7,10,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,223667.0
+D07,Dublin 7,10,2012,Existing,Household Buyer - Former Owner-Occupier,178688.0
+D07,Dublin 7,10,2012,Existing,Household Buyer - Non-Occupier,170958.0
+D07,Dublin 7,11,2012,All Dwelling Statuses,All Buyer Types,204878.0
+D07,Dublin 7,11,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,228615.0
+D07,Dublin 7,11,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,193033.0
+D07,Dublin 7,11,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,190333.0
+D07,Dublin 7,11,2012,New,All Buyer Types,
+D07,Dublin 7,11,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,11,2012,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,11,2012,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,11,2012,Existing,All Buyer Types,204878.0
+D07,Dublin 7,11,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,228615.0
+D07,Dublin 7,11,2012,Existing,Household Buyer - Former Owner-Occupier,193033.0
+D07,Dublin 7,11,2012,Existing,Household Buyer - Non-Occupier,190333.0
+D07,Dublin 7,12,2012,All Dwelling Statuses,All Buyer Types,202274.0
+D07,Dublin 7,12,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,195663.0
+D07,Dublin 7,12,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,260450.0
+D07,Dublin 7,12,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,154233.0
+D07,Dublin 7,12,2012,New,All Buyer Types,189167.0
+D07,Dublin 7,12,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,12,2012,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,12,2012,New,Household Buyer - Non-Occupier,189167.0
+D07,Dublin 7,12,2012,Existing,All Buyer Types,203060.0
+D07,Dublin 7,12,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,195663.0
+D07,Dublin 7,12,2012,Existing,Household Buyer - Former Owner-Occupier,260450.0
+D07,Dublin 7,12,2012,Existing,Household Buyer - Non-Occupier,145500.0
+D07,Dublin 7,1,2013,All Dwelling Statuses,All Buyer Types,171019.0
+D07,Dublin 7,1,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,184000.0
+D07,Dublin 7,1,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,184785.0
+D07,Dublin 7,1,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,133750.0
+D07,Dublin 7,1,2013,New,All Buyer Types,
+D07,Dublin 7,1,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,1,2013,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,1,2013,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,1,2013,Existing,All Buyer Types,171019.0
+D07,Dublin 7,1,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,184000.0
+D07,Dublin 7,1,2013,Existing,Household Buyer - Former Owner-Occupier,184785.0
+D07,Dublin 7,1,2013,Existing,Household Buyer - Non-Occupier,133750.0
+D07,Dublin 7,2,2013,All Dwelling Statuses,All Buyer Types,162143.0
+D07,Dublin 7,2,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,162438.0
+D07,Dublin 7,2,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,168444.0
+D07,Dublin 7,2,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,147375.0
+D07,Dublin 7,2,2013,New,All Buyer Types,
+D07,Dublin 7,2,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,2,2013,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,2,2013,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,2,2013,Existing,All Buyer Types,162143.0
+D07,Dublin 7,2,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,162438.0
+D07,Dublin 7,2,2013,Existing,Household Buyer - Former Owner-Occupier,168444.0
+D07,Dublin 7,2,2013,Existing,Household Buyer - Non-Occupier,147375.0
+D07,Dublin 7,3,2013,All Dwelling Statuses,All Buyer Types,177661.0
+D07,Dublin 7,3,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,189000.0
+D07,Dublin 7,3,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,203923.0
+D07,Dublin 7,3,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,98083.0
+D07,Dublin 7,3,2013,New,All Buyer Types,
+D07,Dublin 7,3,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,3,2013,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,3,2013,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,3,2013,Existing,All Buyer Types,177661.0
+D07,Dublin 7,3,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,189000.0
+D07,Dublin 7,3,2013,Existing,Household Buyer - Former Owner-Occupier,203923.0
+D07,Dublin 7,3,2013,Existing,Household Buyer - Non-Occupier,98083.0
+D07,Dublin 7,4,2013,All Dwelling Statuses,All Buyer Types,160037.0
+D07,Dublin 7,4,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,182125.0
+D07,Dublin 7,4,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,159885.0
+D07,Dublin 7,4,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,130917.0
+D07,Dublin 7,4,2013,New,All Buyer Types,
+D07,Dublin 7,4,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,4,2013,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,4,2013,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,4,2013,Existing,All Buyer Types,160037.0
+D07,Dublin 7,4,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,182125.0
+D07,Dublin 7,4,2013,Existing,Household Buyer - Former Owner-Occupier,159885.0
+D07,Dublin 7,4,2013,Existing,Household Buyer - Non-Occupier,130917.0
+D07,Dublin 7,5,2013,All Dwelling Statuses,All Buyer Types,180239.0
+D07,Dublin 7,5,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,216417.0
+D07,Dublin 7,5,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,253200.0
+D07,Dublin 7,5,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,131750.0
+D07,Dublin 7,5,2013,New,All Buyer Types,
+D07,Dublin 7,5,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,5,2013,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,5,2013,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,5,2013,Existing,All Buyer Types,180239.0
+D07,Dublin 7,5,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,216417.0
+D07,Dublin 7,5,2013,Existing,Household Buyer - Former Owner-Occupier,253200.0
+D07,Dublin 7,5,2013,Existing,Household Buyer - Non-Occupier,131750.0
+D07,Dublin 7,6,2013,All Dwelling Statuses,All Buyer Types,196236.0
+D07,Dublin 7,6,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,197321.0
+D07,Dublin 7,6,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,182083.0
+D07,Dublin 7,6,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,211700.0
+D07,Dublin 7,6,2013,New,All Buyer Types,
+D07,Dublin 7,6,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,6,2013,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,6,2013,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,6,2013,Existing,All Buyer Types,196236.0
+D07,Dublin 7,6,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,197321.0
+D07,Dublin 7,6,2013,Existing,Household Buyer - Former Owner-Occupier,182083.0
+D07,Dublin 7,6,2013,Existing,Household Buyer - Non-Occupier,211700.0
+D07,Dublin 7,7,2013,All Dwelling Statuses,All Buyer Types,195875.0
+D07,Dublin 7,7,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,206143.0
+D07,Dublin 7,7,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,229269.0
+D07,Dublin 7,7,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,132625.0
+D07,Dublin 7,7,2013,New,All Buyer Types,
+D07,Dublin 7,7,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,7,2013,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,7,2013,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,7,2013,Existing,All Buyer Types,195875.0
+D07,Dublin 7,7,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,206143.0
+D07,Dublin 7,7,2013,Existing,Household Buyer - Former Owner-Occupier,229269.0
+D07,Dublin 7,7,2013,Existing,Household Buyer - Non-Occupier,132625.0
+D07,Dublin 7,8,2013,All Dwelling Statuses,All Buyer Types,214098.0
+D07,Dublin 7,8,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,209900.0
+D07,Dublin 7,8,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,256548.0
+D07,Dublin 7,8,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,159778.0
+D07,Dublin 7,8,2013,New,All Buyer Types,
+D07,Dublin 7,8,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,8,2013,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,8,2013,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,8,2013,Existing,All Buyer Types,214098.0
+D07,Dublin 7,8,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,209900.0
+D07,Dublin 7,8,2013,Existing,Household Buyer - Former Owner-Occupier,256548.0
+D07,Dublin 7,8,2013,Existing,Household Buyer - Non-Occupier,159778.0
+D07,Dublin 7,9,2013,All Dwelling Statuses,All Buyer Types,203034.0
+D07,Dublin 7,9,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,167479.0
+D07,Dublin 7,9,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,261300.0
+D07,Dublin 7,9,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,158300.0
+D07,Dublin 7,9,2013,New,All Buyer Types,
+D07,Dublin 7,9,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,9,2013,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,9,2013,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,9,2013,Existing,All Buyer Types,203034.0
+D07,Dublin 7,9,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,167479.0
+D07,Dublin 7,9,2013,Existing,Household Buyer - Former Owner-Occupier,261300.0
+D07,Dublin 7,9,2013,Existing,Household Buyer - Non-Occupier,158300.0
+D07,Dublin 7,10,2013,All Dwelling Statuses,All Buyer Types,208564.0
+D07,Dublin 7,10,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,199444.0
+D07,Dublin 7,10,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,248556.0
+D07,Dublin 7,10,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,192250.0
+D07,Dublin 7,10,2013,New,All Buyer Types,
+D07,Dublin 7,10,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,10,2013,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,10,2013,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,10,2013,Existing,All Buyer Types,208564.0
+D07,Dublin 7,10,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,199444.0
+D07,Dublin 7,10,2013,Existing,Household Buyer - Former Owner-Occupier,248556.0
+D07,Dublin 7,10,2013,Existing,Household Buyer - Non-Occupier,192250.0
+D07,Dublin 7,11,2013,All Dwelling Statuses,All Buyer Types,213349.0
+D07,Dublin 7,11,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,208972.0
+D07,Dublin 7,11,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,237067.0
+D07,Dublin 7,11,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,195750.0
+D07,Dublin 7,11,2013,New,All Buyer Types,28375.0
+D07,Dublin 7,11,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,11,2013,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,11,2013,New,Household Buyer - Non-Occupier,28375.0
+D07,Dublin 7,11,2013,Existing,All Buyer Types,223919.0
+D07,Dublin 7,11,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,208972.0
+D07,Dublin 7,11,2013,Existing,Household Buyer - Former Owner-Occupier,237067.0
+D07,Dublin 7,11,2013,Existing,Household Buyer - Non-Occupier,243571.0
+D07,Dublin 7,12,2013,All Dwelling Statuses,All Buyer Types,193693.0
+D07,Dublin 7,12,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,222150.0
+D07,Dublin 7,12,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,207974.0
+D07,Dublin 7,12,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,141163.0
+D07,Dublin 7,12,2013,New,All Buyer Types,
+D07,Dublin 7,12,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,12,2013,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,12,2013,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,12,2013,Existing,All Buyer Types,193693.0
+D07,Dublin 7,12,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,222150.0
+D07,Dublin 7,12,2013,Existing,Household Buyer - Former Owner-Occupier,207974.0
+D07,Dublin 7,12,2013,Existing,Household Buyer - Non-Occupier,141163.0
+D07,Dublin 7,1,2014,All Dwelling Statuses,All Buyer Types,186306.0
+D07,Dublin 7,1,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210077.0
+D07,Dublin 7,1,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,181542.0
+D07,Dublin 7,1,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,159000.0
+D07,Dublin 7,1,2014,New,All Buyer Types,
+D07,Dublin 7,1,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,1,2014,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,1,2014,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,1,2014,Existing,All Buyer Types,186306.0
+D07,Dublin 7,1,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210077.0
+D07,Dublin 7,1,2014,Existing,Household Buyer - Former Owner-Occupier,181542.0
+D07,Dublin 7,1,2014,Existing,Household Buyer - Non-Occupier,159000.0
+D07,Dublin 7,2,2014,All Dwelling Statuses,All Buyer Types,162953.0
+D07,Dublin 7,2,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,187667.0
+D07,Dublin 7,2,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,170500.0
+D07,Dublin 7,2,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,139182.0
+D07,Dublin 7,2,2014,New,All Buyer Types,
+D07,Dublin 7,2,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,2,2014,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,2,2014,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,2,2014,Existing,All Buyer Types,162953.0
+D07,Dublin 7,2,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,187667.0
+D07,Dublin 7,2,2014,Existing,Household Buyer - Former Owner-Occupier,170500.0
+D07,Dublin 7,2,2014,Existing,Household Buyer - Non-Occupier,139182.0
+D07,Dublin 7,3,2014,All Dwelling Statuses,All Buyer Types,193447.0
+D07,Dublin 7,3,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,204667.0
+D07,Dublin 7,3,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,211833.0
+D07,Dublin 7,3,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,179050.0
+D07,Dublin 7,3,2014,New,All Buyer Types,
+D07,Dublin 7,3,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,3,2014,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,3,2014,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,3,2014,Existing,All Buyer Types,193447.0
+D07,Dublin 7,3,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,204667.0
+D07,Dublin 7,3,2014,Existing,Household Buyer - Former Owner-Occupier,211833.0
+D07,Dublin 7,3,2014,Existing,Household Buyer - Non-Occupier,179050.0
+D07,Dublin 7,4,2014,All Dwelling Statuses,All Buyer Types,200590.0
+D07,Dublin 7,4,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180333.0
+D07,Dublin 7,4,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,249000.0
+D07,Dublin 7,4,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,182479.0
+D07,Dublin 7,4,2014,New,All Buyer Types,
+D07,Dublin 7,4,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,4,2014,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,4,2014,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,4,2014,Existing,All Buyer Types,200590.0
+D07,Dublin 7,4,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180333.0
+D07,Dublin 7,4,2014,Existing,Household Buyer - Former Owner-Occupier,249000.0
+D07,Dublin 7,4,2014,Existing,Household Buyer - Non-Occupier,182479.0
+D07,Dublin 7,5,2014,All Dwelling Statuses,All Buyer Types,216063.0
+D07,Dublin 7,5,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,239533.0
+D07,Dublin 7,5,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,242786.0
+D07,Dublin 7,5,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,150045.0
+D07,Dublin 7,5,2014,New,All Buyer Types,
+D07,Dublin 7,5,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,5,2014,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,5,2014,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,5,2014,Existing,All Buyer Types,216063.0
+D07,Dublin 7,5,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,239533.0
+D07,Dublin 7,5,2014,Existing,Household Buyer - Former Owner-Occupier,242786.0
+D07,Dublin 7,5,2014,Existing,Household Buyer - Non-Occupier,150045.0
+D07,Dublin 7,6,2014,All Dwelling Statuses,All Buyer Types,242453.0
+D07,Dublin 7,6,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,249791.0
+D07,Dublin 7,6,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,281323.0
+D07,Dublin 7,6,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,201643.0
+D07,Dublin 7,6,2014,New,All Buyer Types,
+D07,Dublin 7,6,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,6,2014,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,6,2014,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,6,2014,Existing,All Buyer Types,242453.0
+D07,Dublin 7,6,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,249791.0
+D07,Dublin 7,6,2014,Existing,Household Buyer - Former Owner-Occupier,281323.0
+D07,Dublin 7,6,2014,Existing,Household Buyer - Non-Occupier,201643.0
+D07,Dublin 7,7,2014,All Dwelling Statuses,All Buyer Types,264205.0
+D07,Dublin 7,7,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,272017.0
+D07,Dublin 7,7,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,296333.0
+D07,Dublin 7,7,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,183455.0
+D07,Dublin 7,7,2014,New,All Buyer Types,
+D07,Dublin 7,7,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,7,2014,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,7,2014,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,7,2014,Existing,All Buyer Types,264205.0
+D07,Dublin 7,7,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,272017.0
+D07,Dublin 7,7,2014,Existing,Household Buyer - Former Owner-Occupier,296333.0
+D07,Dublin 7,7,2014,Existing,Household Buyer - Non-Occupier,183455.0
+D07,Dublin 7,8,2014,All Dwelling Statuses,All Buyer Types,243574.0
+D07,Dublin 7,8,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,229917.0
+D07,Dublin 7,8,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,290853.0
+D07,Dublin 7,8,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,198463.0
+D07,Dublin 7,8,2014,New,All Buyer Types,460810.0
+D07,Dublin 7,8,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,8,2014,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,8,2014,New,Household Buyer - Non-Occupier,460810.0
+D07,Dublin 7,8,2014,Existing,All Buyer Types,237858.0
+D07,Dublin 7,8,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,229917.0
+D07,Dublin 7,8,2014,Existing,Household Buyer - Former Owner-Occupier,290853.0
+D07,Dublin 7,8,2014,Existing,Household Buyer - Non-Occupier,180973.0
+D07,Dublin 7,9,2014,All Dwelling Statuses,All Buyer Types,288805.0
+D07,Dublin 7,9,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,305818.0
+D07,Dublin 7,9,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,319071.0
+D07,Dublin 7,9,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,197389.0
+D07,Dublin 7,9,2014,New,All Buyer Types,
+D07,Dublin 7,9,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,9,2014,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,9,2014,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,9,2014,Existing,All Buyer Types,288805.0
+D07,Dublin 7,9,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,305818.0
+D07,Dublin 7,9,2014,Existing,Household Buyer - Former Owner-Occupier,319071.0
+D07,Dublin 7,9,2014,Existing,Household Buyer - Non-Occupier,197389.0
+D07,Dublin 7,10,2014,All Dwelling Statuses,All Buyer Types,280295.0
+D07,Dublin 7,10,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,278893.0
+D07,Dublin 7,10,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,321525.0
+D07,Dublin 7,10,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,205689.0
+D07,Dublin 7,10,2014,New,All Buyer Types,
+D07,Dublin 7,10,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,10,2014,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,10,2014,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,10,2014,Existing,All Buyer Types,280295.0
+D07,Dublin 7,10,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,278893.0
+D07,Dublin 7,10,2014,Existing,Household Buyer - Former Owner-Occupier,321525.0
+D07,Dublin 7,10,2014,Existing,Household Buyer - Non-Occupier,205689.0
+D07,Dublin 7,11,2014,All Dwelling Statuses,All Buyer Types,289948.0
+D07,Dublin 7,11,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,226727.0
+D07,Dublin 7,11,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,385000.0
+D07,Dublin 7,11,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,216913.0
+D07,Dublin 7,11,2014,New,All Buyer Types,
+D07,Dublin 7,11,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,11,2014,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,11,2014,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,11,2014,Existing,All Buyer Types,289948.0
+D07,Dublin 7,11,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,226727.0
+D07,Dublin 7,11,2014,Existing,Household Buyer - Former Owner-Occupier,385000.0
+D07,Dublin 7,11,2014,Existing,Household Buyer - Non-Occupier,216913.0
+D07,Dublin 7,12,2014,All Dwelling Statuses,All Buyer Types,233384.0
+D07,Dublin 7,12,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,237889.0
+D07,Dublin 7,12,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,265800.0
+D07,Dublin 7,12,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,202072.0
+D07,Dublin 7,12,2014,New,All Buyer Types,
+D07,Dublin 7,12,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,12,2014,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,12,2014,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,12,2014,Existing,All Buyer Types,233384.0
+D07,Dublin 7,12,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,237889.0
+D07,Dublin 7,12,2014,Existing,Household Buyer - Former Owner-Occupier,265800.0
+D07,Dublin 7,12,2014,Existing,Household Buyer - Non-Occupier,202072.0
+D07,Dublin 7,1,2015,All Dwelling Statuses,All Buyer Types,265225.0
+D07,Dublin 7,1,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,277210.0
+D07,Dublin 7,1,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,290747.0
+D07,Dublin 7,1,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,222615.0
+D07,Dublin 7,1,2015,New,All Buyer Types,539999.0
+D07,Dublin 7,1,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,539999.0
+D07,Dublin 7,1,2015,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,1,2015,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,1,2015,Existing,All Buyer Types,256362.0
+D07,Dublin 7,1,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,248011.0
+D07,Dublin 7,1,2015,Existing,Household Buyer - Former Owner-Occupier,290747.0
+D07,Dublin 7,1,2015,Existing,Household Buyer - Non-Occupier,222615.0
+D07,Dublin 7,2,2015,All Dwelling Statuses,All Buyer Types,246186.0
+D07,Dublin 7,2,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,234550.0
+D07,Dublin 7,2,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,289947.0
+D07,Dublin 7,2,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,195107.0
+D07,Dublin 7,2,2015,New,All Buyer Types,534998.0
+D07,Dublin 7,2,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,534998.0
+D07,Dublin 7,2,2015,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,2,2015,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,2,2015,Existing,All Buyer Types,239310.0
+D07,Dublin 7,2,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,201167.0
+D07,Dublin 7,2,2015,Existing,Household Buyer - Former Owner-Occupier,289947.0
+D07,Dublin 7,2,2015,Existing,Household Buyer - Non-Occupier,195107.0
+D07,Dublin 7,3,2015,All Dwelling Statuses,All Buyer Types,286311.0
+D07,Dublin 7,3,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,262423.0
+D07,Dublin 7,3,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,314920.0
+D07,Dublin 7,3,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,261240.0
+D07,Dublin 7,3,2015,New,All Buyer Types,624250.0
+D07,Dublin 7,3,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,3,2015,New,Household Buyer - Former Owner-Occupier,624250.0
+D07,Dublin 7,3,2015,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,3,2015,Existing,All Buyer Types,279685.0
+D07,Dublin 7,3,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,262423.0
+D07,Dublin 7,3,2015,Existing,Household Buyer - Former Owner-Occupier,301471.0
+D07,Dublin 7,3,2015,Existing,Household Buyer - Non-Occupier,261240.0
+D07,Dublin 7,4,2015,All Dwelling Statuses,All Buyer Types,269551.0
+D07,Dublin 7,4,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,317450.0
+D07,Dublin 7,4,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,271571.0
+D07,Dublin 7,4,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,235733.0
+D07,Dublin 7,4,2015,New,All Buyer Types,545000.0
+D07,Dublin 7,4,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,545000.0
+D07,Dublin 7,4,2015,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,4,2015,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,4,2015,Existing,All Buyer Types,262303.0
+D07,Dublin 7,4,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,292167.0
+D07,Dublin 7,4,2015,Existing,Household Buyer - Former Owner-Occupier,271571.0
+D07,Dublin 7,4,2015,Existing,Household Buyer - Non-Occupier,235733.0
+D07,Dublin 7,5,2015,All Dwelling Statuses,All Buyer Types,300705.0
+D07,Dublin 7,5,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,293909.0
+D07,Dublin 7,5,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,302412.0
+D07,Dublin 7,5,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,303563.0
+D07,Dublin 7,5,2015,New,All Buyer Types,
+D07,Dublin 7,5,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,5,2015,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,5,2015,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,5,2015,Existing,All Buyer Types,300705.0
+D07,Dublin 7,5,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,293909.0
+D07,Dublin 7,5,2015,Existing,Household Buyer - Former Owner-Occupier,302412.0
+D07,Dublin 7,5,2015,Existing,Household Buyer - Non-Occupier,303563.0
+D07,Dublin 7,6,2015,All Dwelling Statuses,All Buyer Types,273360.0
+D07,Dublin 7,6,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,254059.0
+D07,Dublin 7,6,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,326607.0
+D07,Dublin 7,6,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,235418.0
+D07,Dublin 7,6,2015,New,All Buyer Types,
+D07,Dublin 7,6,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,6,2015,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,6,2015,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,6,2015,Existing,All Buyer Types,273360.0
+D07,Dublin 7,6,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,254059.0
+D07,Dublin 7,6,2015,Existing,Household Buyer - Former Owner-Occupier,326607.0
+D07,Dublin 7,6,2015,Existing,Household Buyer - Non-Occupier,235418.0
+D07,Dublin 7,7,2015,All Dwelling Statuses,All Buyer Types,266264.0
+D07,Dublin 7,7,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,253632.0
+D07,Dublin 7,7,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,309233.0
+D07,Dublin 7,7,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,227290.0
+D07,Dublin 7,7,2015,New,All Buyer Types,
+D07,Dublin 7,7,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,7,2015,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,7,2015,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,7,2015,Existing,All Buyer Types,266264.0
+D07,Dublin 7,7,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,253632.0
+D07,Dublin 7,7,2015,Existing,Household Buyer - Former Owner-Occupier,309233.0
+D07,Dublin 7,7,2015,Existing,Household Buyer - Non-Occupier,227290.0
+D07,Dublin 7,8,2015,All Dwelling Statuses,All Buyer Types,261691.0
+D07,Dublin 7,8,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,256500.0
+D07,Dublin 7,8,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,298650.0
+D07,Dublin 7,8,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,203500.0
+D07,Dublin 7,8,2015,New,All Buyer Types,
+D07,Dublin 7,8,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,8,2015,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,8,2015,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,8,2015,Existing,All Buyer Types,261691.0
+D07,Dublin 7,8,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,256500.0
+D07,Dublin 7,8,2015,Existing,Household Buyer - Former Owner-Occupier,298650.0
+D07,Dublin 7,8,2015,Existing,Household Buyer - Non-Occupier,203500.0
+D07,Dublin 7,9,2015,All Dwelling Statuses,All Buyer Types,254499.0
+D07,Dublin 7,9,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,276672.0
+D07,Dublin 7,9,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,258479.0
+D07,Dublin 7,9,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,200600.0
+D07,Dublin 7,9,2015,New,All Buyer Types,283750.0
+D07,Dublin 7,9,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,283750.0
+D07,Dublin 7,9,2015,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,9,2015,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,9,2015,Existing,All Buyer Types,253947.0
+D07,Dublin 7,9,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,276299.0
+D07,Dublin 7,9,2015,Existing,Household Buyer - Former Owner-Occupier,258479.0
+D07,Dublin 7,9,2015,Existing,Household Buyer - Non-Occupier,200600.0
+D07,Dublin 7,10,2015,All Dwelling Statuses,All Buyer Types,267478.0
+D07,Dublin 7,10,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,252625.0
+D07,Dublin 7,10,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,303922.0
+D07,Dublin 7,10,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,230812.0
+D07,Dublin 7,10,2015,New,All Buyer Types,480001.0
+D07,Dublin 7,10,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,10,2015,New,Household Buyer - Former Owner-Occupier,480001.0
+D07,Dublin 7,10,2015,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,10,2015,Existing,All Buyer Types,263391.0
+D07,Dublin 7,10,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,252625.0
+D07,Dublin 7,10,2015,Existing,Household Buyer - Former Owner-Occupier,295918.0
+D07,Dublin 7,10,2015,Existing,Household Buyer - Non-Occupier,230812.0
+D07,Dublin 7,11,2015,All Dwelling Statuses,All Buyer Types,252198.0
+D07,Dublin 7,11,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,277875.0
+D07,Dublin 7,11,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,291711.0
+D07,Dublin 7,11,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,189912.0
+D07,Dublin 7,11,2015,New,All Buyer Types,
+D07,Dublin 7,11,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,11,2015,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,11,2015,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,11,2015,Existing,All Buyer Types,252198.0
+D07,Dublin 7,11,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,277875.0
+D07,Dublin 7,11,2015,Existing,Household Buyer - Former Owner-Occupier,291711.0
+D07,Dublin 7,11,2015,Existing,Household Buyer - Non-Occupier,189912.0
+D07,Dublin 7,12,2015,All Dwelling Statuses,All Buyer Types,275629.0
+D07,Dublin 7,12,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,260500.0
+D07,Dublin 7,12,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,290533.0
+D07,Dublin 7,12,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,265902.0
+D07,Dublin 7,12,2015,New,All Buyer Types,
+D07,Dublin 7,12,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,12,2015,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,12,2015,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,12,2015,Existing,All Buyer Types,275629.0
+D07,Dublin 7,12,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,260500.0
+D07,Dublin 7,12,2015,Existing,Household Buyer - Former Owner-Occupier,290533.0
+D07,Dublin 7,12,2015,Existing,Household Buyer - Non-Occupier,265902.0
+D07,Dublin 7,1,2016,All Dwelling Statuses,All Buyer Types,255389.0
+D07,Dublin 7,1,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,251143.0
+D07,Dublin 7,1,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,276182.0
+D07,Dublin 7,1,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,228885.0
+D07,Dublin 7,1,2016,New,All Buyer Types,444772.0
+D07,Dublin 7,1,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,1,2016,New,Household Buyer - Former Owner-Occupier,444772.0
+D07,Dublin 7,1,2016,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,1,2016,Existing,All Buyer Types,250270.0
+D07,Dublin 7,1,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,251143.0
+D07,Dublin 7,1,2016,Existing,Household Buyer - Former Owner-Occupier,266265.0
+D07,Dublin 7,1,2016,Existing,Household Buyer - Non-Occupier,228885.0
+D07,Dublin 7,2,2016,All Dwelling Statuses,All Buyer Types,264549.0
+D07,Dublin 7,2,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,304773.0
+D07,Dublin 7,2,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,295909.0
+D07,Dublin 7,2,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,209903.0
+D07,Dublin 7,2,2016,New,All Buyer Types,
+D07,Dublin 7,2,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,2,2016,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,2,2016,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,2,2016,Existing,All Buyer Types,264549.0
+D07,Dublin 7,2,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,304773.0
+D07,Dublin 7,2,2016,Existing,Household Buyer - Former Owner-Occupier,295909.0
+D07,Dublin 7,2,2016,Existing,Household Buyer - Non-Occupier,209903.0
+D07,Dublin 7,3,2016,All Dwelling Statuses,All Buyer Types,274219.0
+D07,Dublin 7,3,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,326200.0
+D07,Dublin 7,3,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,272500.0
+D07,Dublin 7,3,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,212250.0
+D07,Dublin 7,3,2016,New,All Buyer Types,
+D07,Dublin 7,3,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,3,2016,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,3,2016,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,3,2016,Existing,All Buyer Types,274219.0
+D07,Dublin 7,3,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,326200.0
+D07,Dublin 7,3,2016,Existing,Household Buyer - Former Owner-Occupier,272500.0
+D07,Dublin 7,3,2016,Existing,Household Buyer - Non-Occupier,212250.0
+D07,Dublin 7,4,2016,All Dwelling Statuses,All Buyer Types,286761.0
+D07,Dublin 7,4,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,308444.0
+D07,Dublin 7,4,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,293385.0
+D07,Dublin 7,4,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,265127.0
+D07,Dublin 7,4,2016,New,All Buyer Types,
+D07,Dublin 7,4,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,4,2016,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,4,2016,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,4,2016,Existing,All Buyer Types,286761.0
+D07,Dublin 7,4,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,308444.0
+D07,Dublin 7,4,2016,Existing,Household Buyer - Former Owner-Occupier,293385.0
+D07,Dublin 7,4,2016,Existing,Household Buyer - Non-Occupier,265127.0
+D07,Dublin 7,5,2016,All Dwelling Statuses,All Buyer Types,265441.0
+D07,Dublin 7,5,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,292278.0
+D07,Dublin 7,5,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,258281.0
+D07,Dublin 7,5,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,256325.0
+D07,Dublin 7,5,2016,New,All Buyer Types,158900.0
+D07,Dublin 7,5,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,5,2016,New,Household Buyer - Former Owner-Occupier,158900.0
+D07,Dublin 7,5,2016,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,5,2016,Existing,All Buyer Types,268173.0
+D07,Dublin 7,5,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,292278.0
+D07,Dublin 7,5,2016,Existing,Household Buyer - Former Owner-Occupier,263250.0
+D07,Dublin 7,5,2016,Existing,Household Buyer - Non-Occupier,256325.0
+D07,Dublin 7,6,2016,All Dwelling Statuses,All Buyer Types,269646.0
+D07,Dublin 7,6,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,264857.0
+D07,Dublin 7,6,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,307800.0
+D07,Dublin 7,6,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,210527.0
+D07,Dublin 7,6,2016,New,All Buyer Types,
+D07,Dublin 7,6,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,6,2016,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,6,2016,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,6,2016,Existing,All Buyer Types,269646.0
+D07,Dublin 7,6,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,264857.0
+D07,Dublin 7,6,2016,Existing,Household Buyer - Former Owner-Occupier,307800.0
+D07,Dublin 7,6,2016,Existing,Household Buyer - Non-Occupier,210527.0
+D07,Dublin 7,7,2016,All Dwelling Statuses,All Buyer Types,297634.0
+D07,Dublin 7,7,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,319280.0
+D07,Dublin 7,7,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,301341.0
+D07,Dublin 7,7,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,258058.0
+D07,Dublin 7,7,2016,New,All Buyer Types,352695.0
+D07,Dublin 7,7,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,380000.0
+D07,Dublin 7,7,2016,New,Household Buyer - Former Owner-Occupier,287155.0
+D07,Dublin 7,7,2016,New,Household Buyer - Non-Occupier,363625.0
+D07,Dublin 7,7,2016,Existing,All Buyer Types,288261.0
+D07,Dublin 7,7,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,304100.0
+D07,Dublin 7,7,2016,Existing,Household Buyer - Former Owner-Occupier,302759.0
+D07,Dublin 7,7,2016,Existing,Household Buyer - Non-Occupier,238864.0
+D07,Dublin 7,8,2016,All Dwelling Statuses,All Buyer Types,325386.0
+D07,Dublin 7,8,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,327578.0
+D07,Dublin 7,8,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,345509.0
+D07,Dublin 7,8,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,251750.0
+D07,Dublin 7,8,2016,New,All Buyer Types,354266.0
+D07,Dublin 7,8,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,373441.0
+D07,Dublin 7,8,2016,New,Household Buyer - Former Owner-Occupier,344678.0
+D07,Dublin 7,8,2016,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,8,2016,Existing,All Buyer Types,321776.0
+D07,Dublin 7,8,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,323409.0
+D07,Dublin 7,8,2016,Existing,Household Buyer - Former Owner-Occupier,345684.0
+D07,Dublin 7,8,2016,Existing,Household Buyer - Non-Occupier,251750.0
+D07,Dublin 7,9,2016,All Dwelling Statuses,All Buyer Types,304066.0
+D07,Dublin 7,9,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,292705.0
+D07,Dublin 7,9,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,328187.0
+D07,Dublin 7,9,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,265329.0
+D07,Dublin 7,9,2016,New,All Buyer Types,
+D07,Dublin 7,9,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,9,2016,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,9,2016,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,9,2016,Existing,All Buyer Types,304066.0
+D07,Dublin 7,9,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,292705.0
+D07,Dublin 7,9,2016,Existing,Household Buyer - Former Owner-Occupier,328187.0
+D07,Dublin 7,9,2016,Existing,Household Buyer - Non-Occupier,265329.0
+D07,Dublin 7,10,2016,All Dwelling Statuses,All Buyer Types,303335.0
+D07,Dublin 7,10,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,306300.0
+D07,Dublin 7,10,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,358675.0
+D07,Dublin 7,10,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,243796.0
+D07,Dublin 7,10,2016,New,All Buyer Types,
+D07,Dublin 7,10,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,10,2016,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,10,2016,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,10,2016,Existing,All Buyer Types,303335.0
+D07,Dublin 7,10,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,306300.0
+D07,Dublin 7,10,2016,Existing,Household Buyer - Former Owner-Occupier,358675.0
+D07,Dublin 7,10,2016,Existing,Household Buyer - Non-Occupier,243796.0
+D07,Dublin 7,11,2016,All Dwelling Statuses,All Buyer Types,294160.0
+D07,Dublin 7,11,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,333786.0
+D07,Dublin 7,11,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,291480.0
+D07,Dublin 7,11,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,259321.0
+D07,Dublin 7,11,2016,New,All Buyer Types,
+D07,Dublin 7,11,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,11,2016,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,11,2016,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,11,2016,Existing,All Buyer Types,294160.0
+D07,Dublin 7,11,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,333786.0
+D07,Dublin 7,11,2016,Existing,Household Buyer - Former Owner-Occupier,291480.0
+D07,Dublin 7,11,2016,Existing,Household Buyer - Non-Occupier,259321.0
+D07,Dublin 7,12,2016,All Dwelling Statuses,All Buyer Types,278477.0
+D07,Dublin 7,12,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,289036.0
+D07,Dublin 7,12,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,283583.0
+D07,Dublin 7,12,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,265723.0
+D07,Dublin 7,12,2016,New,All Buyer Types,265300.0
+D07,Dublin 7,12,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,12,2016,New,Household Buyer - Former Owner-Occupier,410000.0
+D07,Dublin 7,12,2016,New,Household Buyer - Non-Occupier,192950.0
+D07,Dublin 7,12,2016,Existing,All Buyer Types,279147.0
+D07,Dublin 7,12,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,289036.0
+D07,Dublin 7,12,2016,Existing,Household Buyer - Former Owner-Occupier,278526.0
+D07,Dublin 7,12,2016,Existing,Household Buyer - Non-Occupier,273000.0
+D07,Dublin 7,1,2017,All Dwelling Statuses,All Buyer Types,266534.0
+D07,Dublin 7,1,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,247400.0
+D07,Dublin 7,1,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,274611.0
+D07,Dublin 7,1,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,278400.0
+D07,Dublin 7,1,2017,New,All Buyer Types,
+D07,Dublin 7,1,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,1,2017,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,1,2017,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,1,2017,Existing,All Buyer Types,266534.0
+D07,Dublin 7,1,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,247400.0
+D07,Dublin 7,1,2017,Existing,Household Buyer - Former Owner-Occupier,274611.0
+D07,Dublin 7,1,2017,Existing,Household Buyer - Non-Occupier,278400.0
+D07,Dublin 7,2,2017,All Dwelling Statuses,All Buyer Types,305480.0
+D07,Dublin 7,2,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,313572.0
+D07,Dublin 7,2,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,324265.0
+D07,Dublin 7,2,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,243679.0
+D07,Dublin 7,2,2017,New,All Buyer Types,
+D07,Dublin 7,2,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,2,2017,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,2,2017,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,2,2017,Existing,All Buyer Types,305480.0
+D07,Dublin 7,2,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,313572.0
+D07,Dublin 7,2,2017,Existing,Household Buyer - Former Owner-Occupier,324265.0
+D07,Dublin 7,2,2017,Existing,Household Buyer - Non-Occupier,243679.0
+D07,Dublin 7,3,2017,All Dwelling Statuses,All Buyer Types,273828.0
+D07,Dublin 7,3,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,306176.0
+D07,Dublin 7,3,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,267871.0
+D07,Dublin 7,3,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,240692.0
+D07,Dublin 7,3,2017,New,All Buyer Types,
+D07,Dublin 7,3,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,3,2017,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,3,2017,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,3,2017,Existing,All Buyer Types,273828.0
+D07,Dublin 7,3,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,306176.0
+D07,Dublin 7,3,2017,Existing,Household Buyer - Former Owner-Occupier,267871.0
+D07,Dublin 7,3,2017,Existing,Household Buyer - Non-Occupier,240692.0
+D07,Dublin 7,4,2017,All Dwelling Statuses,All Buyer Types,298124.0
+D07,Dublin 7,4,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,290324.0
+D07,Dublin 7,4,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,319008.0
+D07,Dublin 7,4,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,283375.0
+D07,Dublin 7,4,2017,New,All Buyer Types,522100.0
+D07,Dublin 7,4,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,4,2017,New,Household Buyer - Former Owner-Occupier,522100.0
+D07,Dublin 7,4,2017,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,4,2017,Existing,All Buyer Types,291903.0
+D07,Dublin 7,4,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,290324.0
+D07,Dublin 7,4,2017,Existing,Household Buyer - Former Owner-Occupier,300545.0
+D07,Dublin 7,4,2017,Existing,Household Buyer - Non-Occupier,283375.0
+D07,Dublin 7,5,2017,All Dwelling Statuses,All Buyer Types,333423.0
+D07,Dublin 7,5,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,325719.0
+D07,Dublin 7,5,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,337955.0
+D07,Dublin 7,5,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,337500.0
+D07,Dublin 7,5,2017,New,All Buyer Types,
+D07,Dublin 7,5,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,5,2017,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,5,2017,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,5,2017,Existing,All Buyer Types,333423.0
+D07,Dublin 7,5,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,325719.0
+D07,Dublin 7,5,2017,Existing,Household Buyer - Former Owner-Occupier,337955.0
+D07,Dublin 7,5,2017,Existing,Household Buyer - Non-Occupier,337500.0
+D07,Dublin 7,6,2017,All Dwelling Statuses,All Buyer Types,336300.0
+D07,Dublin 7,6,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,431295.0
+D07,Dublin 7,6,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,346558.0
+D07,Dublin 7,6,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,263971.0
+D07,Dublin 7,6,2017,New,All Buyer Types,
+D07,Dublin 7,6,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,6,2017,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,6,2017,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,6,2017,Existing,All Buyer Types,336300.0
+D07,Dublin 7,6,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,431295.0
+D07,Dublin 7,6,2017,Existing,Household Buyer - Former Owner-Occupier,346558.0
+D07,Dublin 7,6,2017,Existing,Household Buyer - Non-Occupier,263971.0
+D07,Dublin 7,7,2017,All Dwelling Statuses,All Buyer Types,338860.0
+D07,Dublin 7,7,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,323000.0
+D07,Dublin 7,7,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,350410.0
+D07,Dublin 7,7,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,340994.0
+D07,Dublin 7,7,2017,New,All Buyer Types,
+D07,Dublin 7,7,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,7,2017,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,7,2017,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,7,2017,Existing,All Buyer Types,338860.0
+D07,Dublin 7,7,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,323000.0
+D07,Dublin 7,7,2017,Existing,Household Buyer - Former Owner-Occupier,350410.0
+D07,Dublin 7,7,2017,Existing,Household Buyer - Non-Occupier,340994.0
+D07,Dublin 7,8,2017,All Dwelling Statuses,All Buyer Types,365536.0
+D07,Dublin 7,8,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,364185.0
+D07,Dublin 7,8,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,408800.0
+D07,Dublin 7,8,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,271944.0
+D07,Dublin 7,8,2017,New,All Buyer Types,
+D07,Dublin 7,8,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,8,2017,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,8,2017,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,8,2017,Existing,All Buyer Types,365536.0
+D07,Dublin 7,8,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,364185.0
+D07,Dublin 7,8,2017,Existing,Household Buyer - Former Owner-Occupier,408800.0
+D07,Dublin 7,8,2017,Existing,Household Buyer - Non-Occupier,271944.0
+D07,Dublin 7,9,2017,All Dwelling Statuses,All Buyer Types,329523.0
+D07,Dublin 7,9,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,357933.0
+D07,Dublin 7,9,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,346810.0
+D07,Dublin 7,9,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,230875.0
+D07,Dublin 7,9,2017,New,All Buyer Types,
+D07,Dublin 7,9,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,9,2017,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,9,2017,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,9,2017,Existing,All Buyer Types,329523.0
+D07,Dublin 7,9,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,357933.0
+D07,Dublin 7,9,2017,Existing,Household Buyer - Former Owner-Occupier,346810.0
+D07,Dublin 7,9,2017,Existing,Household Buyer - Non-Occupier,230875.0
+D07,Dublin 7,10,2017,All Dwelling Statuses,All Buyer Types,335143.0
+D07,Dublin 7,10,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,319830.0
+D07,Dublin 7,10,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,358346.0
+D07,Dublin 7,10,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,275143.0
+D07,Dublin 7,10,2017,New,All Buyer Types,
+D07,Dublin 7,10,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,10,2017,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,10,2017,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,10,2017,Existing,All Buyer Types,335143.0
+D07,Dublin 7,10,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,319830.0
+D07,Dublin 7,10,2017,Existing,Household Buyer - Former Owner-Occupier,358346.0
+D07,Dublin 7,10,2017,Existing,Household Buyer - Non-Occupier,275143.0
+D07,Dublin 7,11,2017,All Dwelling Statuses,All Buyer Types,323880.0
+D07,Dublin 7,11,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,334231.0
+D07,Dublin 7,11,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,351800.0
+D07,Dublin 7,11,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,270577.0
+D07,Dublin 7,11,2017,New,All Buyer Types,
+D07,Dublin 7,11,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,11,2017,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,11,2017,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,11,2017,Existing,All Buyer Types,323880.0
+D07,Dublin 7,11,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,334231.0
+D07,Dublin 7,11,2017,Existing,Household Buyer - Former Owner-Occupier,351800.0
+D07,Dublin 7,11,2017,Existing,Household Buyer - Non-Occupier,270577.0
+D07,Dublin 7,12,2017,All Dwelling Statuses,All Buyer Types,382137.0
+D07,Dublin 7,12,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,367163.0
+D07,Dublin 7,12,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,433435.0
+D07,Dublin 7,12,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,359271.0
+D07,Dublin 7,12,2017,New,All Buyer Types,577533.0
+D07,Dublin 7,12,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,564980.0
+D07,Dublin 7,12,2017,New,Household Buyer - Former Owner-Occupier,590087.0
+D07,Dublin 7,12,2017,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,12,2017,Existing,All Buyer Types,374475.0
+D07,Dublin 7,12,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,357743.0
+D07,Dublin 7,12,2017,Existing,Household Buyer - Former Owner-Occupier,421385.0
+D07,Dublin 7,12,2017,Existing,Household Buyer - Non-Occupier,359271.0
+D07,Dublin 7,1,2018,All Dwelling Statuses,All Buyer Types,362165.0
+D07,Dublin 7,1,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,390161.0
+D07,Dublin 7,1,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,419182.0
+D07,Dublin 7,1,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,236571.0
+D07,Dublin 7,1,2018,New,All Buyer Types,565000.0
+D07,Dublin 7,1,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,565000.0
+D07,Dublin 7,1,2018,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,1,2018,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,1,2018,Existing,All Buyer Types,354363.0
+D07,Dublin 7,1,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,368306.0
+D07,Dublin 7,1,2018,Existing,Household Buyer - Former Owner-Occupier,419182.0
+D07,Dublin 7,1,2018,Existing,Household Buyer - Non-Occupier,236571.0
+D07,Dublin 7,2,2018,All Dwelling Statuses,All Buyer Types,395544.0
+D07,Dublin 7,2,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,414389.0
+D07,Dublin 7,2,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,390961.0
+D07,Dublin 7,2,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,344200.0
+D07,Dublin 7,2,2018,New,All Buyer Types,502499.0
+D07,Dublin 7,2,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,499999.0
+D07,Dublin 7,2,2018,New,Household Buyer - Former Owner-Occupier,504999.0
+D07,Dublin 7,2,2018,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,2,2018,Existing,All Buyer Types,377209.0
+D07,Dublin 7,2,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,397267.0
+D07,Dublin 7,2,2018,Existing,Household Buyer - Former Owner-Occupier,368153.0
+D07,Dublin 7,2,2018,Existing,Household Buyer - Non-Occupier,344200.0
+D07,Dublin 7,3,2018,All Dwelling Statuses,All Buyer Types,396037.0
+D07,Dublin 7,3,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,409165.0
+D07,Dublin 7,3,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,448559.0
+D07,Dublin 7,3,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,240357.0
+D07,Dublin 7,3,2018,New,All Buyer Types,470126.0
+D07,Dublin 7,3,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,442282.0
+D07,Dublin 7,3,2018,New,Household Buyer - Former Owner-Occupier,488690.0
+D07,Dublin 7,3,2018,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,3,2018,Existing,All Buyer Types,372884.0
+D07,Dublin 7,3,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,400333.0
+D07,Dublin 7,3,2018,Existing,Household Buyer - Former Owner-Occupier,424480.0
+D07,Dublin 7,3,2018,Existing,Household Buyer - Non-Occupier,240357.0
+D07,Dublin 7,4,2018,All Dwelling Statuses,All Buyer Types,368853.0
+D07,Dublin 7,4,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,362059.0
+D07,Dublin 7,4,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,475500.0
+D07,Dublin 7,4,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,233000.0
+D07,Dublin 7,4,2018,New,All Buyer Types,494166.0
+D07,Dublin 7,4,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,503333.0
+D07,Dublin 7,4,2018,New,Household Buyer - Former Owner-Occupier,469999.0
+D07,Dublin 7,4,2018,New,Household Buyer - Non-Occupier,514999.0
+D07,Dublin 7,4,2018,Existing,All Buyer Types,342000.0
+D07,Dublin 7,4,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,331786.0
+D07,Dublin 7,4,2018,Existing,Household Buyer - Former Owner-Occupier,476875.0
+D07,Dublin 7,4,2018,Existing,Household Buyer - Non-Occupier,186000.0
+D07,Dublin 7,5,2018,All Dwelling Statuses,All Buyer Types,311860.0
+D07,Dublin 7,5,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,350917.0
+D07,Dublin 7,5,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,363583.0
+D07,Dublin 7,5,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,241875.0
+D07,Dublin 7,5,2018,New,All Buyer Types,534999.0
+D07,Dublin 7,5,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,5,2018,New,Household Buyer - Former Owner-Occupier,534999.0
+D07,Dublin 7,5,2018,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,5,2018,Existing,All Buyer Types,307306.0
+D07,Dublin 7,5,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,350917.0
+D07,Dublin 7,5,2018,Existing,Household Buyer - Former Owner-Occupier,353500.0
+D07,Dublin 7,5,2018,Existing,Household Buyer - Non-Occupier,241875.0
+D07,Dublin 7,6,2018,All Dwelling Statuses,All Buyer Types,364196.0
+D07,Dublin 7,6,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,396554.0
+D07,Dublin 7,6,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,358655.0
+D07,Dublin 7,6,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,331000.0
+D07,Dublin 7,6,2018,New,All Buyer Types,
+D07,Dublin 7,6,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,6,2018,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,6,2018,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,6,2018,Existing,All Buyer Types,364196.0
+D07,Dublin 7,6,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,396554.0
+D07,Dublin 7,6,2018,Existing,Household Buyer - Former Owner-Occupier,358655.0
+D07,Dublin 7,6,2018,Existing,Household Buyer - Non-Occupier,331000.0
+D07,Dublin 7,7,2018,All Dwelling Statuses,All Buyer Types,361256.0
+D07,Dublin 7,7,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,376679.0
+D07,Dublin 7,7,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,380990.0
+D07,Dublin 7,7,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,280000.0
+D07,Dublin 7,7,2018,New,All Buyer Types,539763.0
+D07,Dublin 7,7,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,495000.0
+D07,Dublin 7,7,2018,New,Household Buyer - Former Owner-Occupier,584525.0
+D07,Dublin 7,7,2018,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,7,2018,Existing,All Buyer Types,352756.0
+D07,Dublin 7,7,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,367577.0
+D07,Dublin 7,7,2018,Existing,Household Buyer - Former Owner-Occupier,371298.0
+D07,Dublin 7,7,2018,Existing,Household Buyer - Non-Occupier,280000.0
+D07,Dublin 7,8,2018,All Dwelling Statuses,All Buyer Types,356250.0
+D07,Dublin 7,8,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,359125.0
+D07,Dublin 7,8,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,367119.0
+D07,Dublin 7,8,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,268667.0
+D07,Dublin 7,8,2018,New,All Buyer Types,500000.0
+D07,Dublin 7,8,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,8,2018,New,Household Buyer - Former Owner-Occupier,500000.0
+D07,Dublin 7,8,2018,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,8,2018,Existing,All Buyer Types,352143.0
+D07,Dublin 7,8,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,359125.0
+D07,Dublin 7,8,2018,Existing,Household Buyer - Former Owner-Occupier,360475.0
+D07,Dublin 7,8,2018,Existing,Household Buyer - Non-Occupier,268667.0
+D07,Dublin 7,9,2018,All Dwelling Statuses,All Buyer Types,392429.0
+D07,Dublin 7,9,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,338542.0
+D07,Dublin 7,9,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,425875.0
+D07,Dublin 7,9,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,390200.0
+D07,Dublin 7,9,2018,New,All Buyer Types,
+D07,Dublin 7,9,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,9,2018,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,9,2018,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,9,2018,Existing,All Buyer Types,392429.0
+D07,Dublin 7,9,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,338542.0
+D07,Dublin 7,9,2018,Existing,Household Buyer - Former Owner-Occupier,425875.0
+D07,Dublin 7,9,2018,Existing,Household Buyer - Non-Occupier,390200.0
+D07,Dublin 7,10,2018,All Dwelling Statuses,All Buyer Types,397560.0
+D07,Dublin 7,10,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,350800.0
+D07,Dublin 7,10,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,481952.0
+D07,Dublin 7,10,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,321071.0
+D07,Dublin 7,10,2018,New,All Buyer Types,519999.0
+D07,Dublin 7,10,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,10,2018,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,10,2018,New,Household Buyer - Non-Occupier,519999.0
+D07,Dublin 7,10,2018,Existing,All Buyer Types,395061.0
+D07,Dublin 7,10,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,350800.0
+D07,Dublin 7,10,2018,Existing,Household Buyer - Former Owner-Occupier,481952.0
+D07,Dublin 7,10,2018,Existing,Household Buyer - Non-Occupier,305769.0
+D07,Dublin 7,11,2018,All Dwelling Statuses,All Buyer Types,397202.0
+D07,Dublin 7,11,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,320182.0
+D07,Dublin 7,11,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,447818.0
+D07,Dublin 7,11,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,367611.0
+D07,Dublin 7,11,2018,New,All Buyer Types,325000.0
+D07,Dublin 7,11,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,325000.0
+D07,Dublin 7,11,2018,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,11,2018,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,11,2018,Existing,All Buyer Types,398963.0
+D07,Dublin 7,11,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,319700.0
+D07,Dublin 7,11,2018,Existing,Household Buyer - Former Owner-Occupier,447818.0
+D07,Dublin 7,11,2018,Existing,Household Buyer - Non-Occupier,367611.0
+D07,Dublin 7,12,2018,All Dwelling Statuses,All Buyer Types,350688.0
+D07,Dublin 7,12,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,374733.0
+D07,Dublin 7,12,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,374435.0
+D07,Dublin 7,12,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,300306.0
+D07,Dublin 7,12,2018,New,All Buyer Types,
+D07,Dublin 7,12,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,12,2018,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,12,2018,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,12,2018,Existing,All Buyer Types,350688.0
+D07,Dublin 7,12,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,374733.0
+D07,Dublin 7,12,2018,Existing,Household Buyer - Former Owner-Occupier,374435.0
+D07,Dublin 7,12,2018,Existing,Household Buyer - Non-Occupier,300306.0
+D07,Dublin 7,1,2019,All Dwelling Statuses,All Buyer Types,285217.0
+D07,Dublin 7,1,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,346333.0
+D07,Dublin 7,1,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,314273.0
+D07,Dublin 7,1,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,198250.0
+D07,Dublin 7,1,2019,New,All Buyer Types,390000.0
+D07,Dublin 7,1,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,390000.0
+D07,Dublin 7,1,2019,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,1,2019,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,1,2019,Existing,All Buyer Types,281603.0
+D07,Dublin 7,1,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,340875.0
+D07,Dublin 7,1,2019,Existing,Household Buyer - Former Owner-Occupier,314273.0
+D07,Dublin 7,1,2019,Existing,Household Buyer - Non-Occupier,198250.0
+D07,Dublin 7,2,2019,All Dwelling Statuses,All Buyer Types,327769.0
+D07,Dublin 7,2,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,305250.0
+D07,Dublin 7,2,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,388000.0
+D07,Dublin 7,2,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,262472.0
+D07,Dublin 7,2,2019,New,All Buyer Types,
+D07,Dublin 7,2,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,2,2019,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,2,2019,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,2,2019,Existing,All Buyer Types,327769.0
+D07,Dublin 7,2,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,305250.0
+D07,Dublin 7,2,2019,Existing,Household Buyer - Former Owner-Occupier,388000.0
+D07,Dublin 7,2,2019,Existing,Household Buyer - Non-Occupier,262472.0
+D07,Dublin 7,3,2019,All Dwelling Statuses,All Buyer Types,398406.0
+D07,Dublin 7,3,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,376964.0
+D07,Dublin 7,3,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,414491.0
+D07,Dublin 7,3,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,364875.0
+D07,Dublin 7,3,2019,New,All Buyer Types,360999.0
+D07,Dublin 7,3,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,3,2019,New,Household Buyer - Former Owner-Occupier,360999.0
+D07,Dublin 7,3,2019,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,3,2019,Existing,All Buyer Types,401078.0
+D07,Dublin 7,3,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,376964.0
+D07,Dublin 7,3,2019,Existing,Household Buyer - Former Owner-Occupier,421178.0
+D07,Dublin 7,3,2019,Existing,Household Buyer - Non-Occupier,364875.0
+D07,Dublin 7,4,2019,All Dwelling Statuses,All Buyer Types,334254.0
+D07,Dublin 7,4,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,316458.0
+D07,Dublin 7,4,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,347814.0
+D07,Dublin 7,4,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,322143.0
+D07,Dublin 7,4,2019,New,All Buyer Types,227000.0
+D07,Dublin 7,4,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,4,2019,New,Household Buyer - Former Owner-Occupier,227000.0
+D07,Dublin 7,4,2019,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,4,2019,Existing,All Buyer Types,336935.0
+D07,Dublin 7,4,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,316458.0
+D07,Dublin 7,4,2019,Existing,Household Buyer - Former Owner-Occupier,353567.0
+D07,Dublin 7,4,2019,Existing,Household Buyer - Non-Occupier,322143.0
+D07,Dublin 7,5,2019,All Dwelling Statuses,All Buyer Types,355300.0
+D07,Dublin 7,5,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,395689.0
+D07,Dublin 7,5,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,331600.0
+D07,Dublin 7,5,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,334455.0
+D07,Dublin 7,5,2019,New,All Buyer Types,322952.0
+D07,Dublin 7,5,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,322952.0
+D07,Dublin 7,5,2019,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,5,2019,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,5,2019,Existing,All Buyer Types,356648.0
+D07,Dublin 7,5,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,404781.0
+D07,Dublin 7,5,2019,Existing,Household Buyer - Former Owner-Occupier,331600.0
+D07,Dublin 7,5,2019,Existing,Household Buyer - Non-Occupier,334455.0
+D07,Dublin 7,6,2019,All Dwelling Statuses,All Buyer Types,345994.0
+D07,Dublin 7,6,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,334474.0
+D07,Dublin 7,6,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,346411.0
+D07,Dublin 7,6,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,369389.0
+D07,Dublin 7,6,2019,New,All Buyer Types,380225.0
+D07,Dublin 7,6,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,6,2019,New,Household Buyer - Former Owner-Occupier,380225.0
+D07,Dublin 7,6,2019,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,6,2019,Existing,All Buyer Types,345266.0
+D07,Dublin 7,6,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,334474.0
+D07,Dublin 7,6,2019,Existing,Household Buyer - Former Owner-Occupier,344632.0
+D07,Dublin 7,6,2019,Existing,Household Buyer - Non-Occupier,369389.0
+D07,Dublin 7,7,2019,All Dwelling Statuses,All Buyer Types,379661.0
+D07,Dublin 7,7,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,343896.0
+D07,Dublin 7,7,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,416105.0
+D07,Dublin 7,7,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,350833.0
+D07,Dublin 7,7,2019,New,All Buyer Types,335000.0
+D07,Dublin 7,7,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,7,2019,New,Household Buyer - Former Owner-Occupier,335000.0
+D07,Dublin 7,7,2019,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,7,2019,Existing,All Buyer Types,380676.0
+D07,Dublin 7,7,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,343896.0
+D07,Dublin 7,7,2019,Existing,Household Buyer - Former Owner-Occupier,419967.0
+D07,Dublin 7,7,2019,Existing,Household Buyer - Non-Occupier,350833.0
+D07,Dublin 7,8,2019,All Dwelling Statuses,All Buyer Types,370026.0
+D07,Dublin 7,8,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,364727.0
+D07,Dublin 7,8,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,370534.0
+D07,Dublin 7,8,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,396375.0
+D07,Dublin 7,8,2019,New,All Buyer Types,380225.0
+D07,Dublin 7,8,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,8,2019,New,Household Buyer - Former Owner-Occupier,380225.0
+D07,Dublin 7,8,2019,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,8,2019,Existing,All Buyer Types,369809.0
+D07,Dublin 7,8,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,364727.0
+D07,Dublin 7,8,2019,Existing,Household Buyer - Former Owner-Occupier,370072.0
+D07,Dublin 7,8,2019,Existing,Household Buyer - Non-Occupier,396375.0
+D07,Dublin 7,9,2019,All Dwelling Statuses,All Buyer Types,388549.0
+D07,Dublin 7,9,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,367962.0
+D07,Dublin 7,9,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,426739.0
+D07,Dublin 7,9,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,266400.0
+D07,Dublin 7,9,2019,New,All Buyer Types,
+D07,Dublin 7,9,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,9,2019,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,9,2019,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,9,2019,Existing,All Buyer Types,388549.0
+D07,Dublin 7,9,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,367962.0
+D07,Dublin 7,9,2019,Existing,Household Buyer - Former Owner-Occupier,426739.0
+D07,Dublin 7,9,2019,Existing,Household Buyer - Non-Occupier,266400.0
+D07,Dublin 7,10,2019,All Dwelling Statuses,All Buyer Types,361681.0
+D07,Dublin 7,10,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,337065.0
+D07,Dublin 7,10,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,391346.0
+D07,Dublin 7,10,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,306375.0
+D07,Dublin 7,10,2019,New,All Buyer Types,
+D07,Dublin 7,10,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,10,2019,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,10,2019,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,10,2019,Existing,All Buyer Types,361681.0
+D07,Dublin 7,10,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,337065.0
+D07,Dublin 7,10,2019,Existing,Household Buyer - Former Owner-Occupier,391346.0
+D07,Dublin 7,10,2019,Existing,Household Buyer - Non-Occupier,306375.0
+D07,Dublin 7,11,2019,All Dwelling Statuses,All Buyer Types,365567.0
+D07,Dublin 7,11,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,345917.0
+D07,Dublin 7,11,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,386093.0
+D07,Dublin 7,11,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,300492.0
+D07,Dublin 7,11,2019,New,All Buyer Types,336475.0
+D07,Dublin 7,11,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,11,2019,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,11,2019,New,Household Buyer - Non-Occupier,336475.0
+D07,Dublin 7,11,2019,Existing,All Buyer Types,366399.0
+D07,Dublin 7,11,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,345917.0
+D07,Dublin 7,11,2019,Existing,Household Buyer - Former Owner-Occupier,386093.0
+D07,Dublin 7,11,2019,Existing,Household Buyer - Non-Occupier,282500.0
+D07,Dublin 7,12,2019,All Dwelling Statuses,All Buyer Types,333512.0
+D07,Dublin 7,12,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,325133.0
+D07,Dublin 7,12,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,348372.0
+D07,Dublin 7,12,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,318548.0
+D07,Dublin 7,12,2019,New,All Buyer Types,334825.0
+D07,Dublin 7,12,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,12,2019,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,12,2019,New,Household Buyer - Non-Occupier,334825.0
+D07,Dublin 7,12,2019,Existing,All Buyer Types,333494.0
+D07,Dublin 7,12,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,325133.0
+D07,Dublin 7,12,2019,Existing,Household Buyer - Former Owner-Occupier,348372.0
+D07,Dublin 7,12,2019,Existing,Household Buyer - Non-Occupier,317068.0
+D07,Dublin 7,1,2020,All Dwelling Statuses,All Buyer Types,336876.0
+D07,Dublin 7,1,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,341964.0
+D07,Dublin 7,1,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,351833.0
+D07,Dublin 7,1,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,296786.0
+D07,Dublin 7,1,2020,New,All Buyer Types,
+D07,Dublin 7,1,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,1,2020,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,1,2020,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,1,2020,Existing,All Buyer Types,336876.0
+D07,Dublin 7,1,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,341964.0
+D07,Dublin 7,1,2020,Existing,Household Buyer - Former Owner-Occupier,351833.0
+D07,Dublin 7,1,2020,Existing,Household Buyer - Non-Occupier,296786.0
+D07,Dublin 7,2,2020,All Dwelling Statuses,All Buyer Types,393717.0
+D07,Dublin 7,2,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,332238.0
+D07,Dublin 7,2,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,428300.0
+D07,Dublin 7,2,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,447500.0
+D07,Dublin 7,2,2020,New,All Buyer Types,
+D07,Dublin 7,2,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,2,2020,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,2,2020,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,2,2020,Existing,All Buyer Types,393717.0
+D07,Dublin 7,2,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,332238.0
+D07,Dublin 7,2,2020,Existing,Household Buyer - Former Owner-Occupier,428300.0
+D07,Dublin 7,2,2020,Existing,Household Buyer - Non-Occupier,447500.0
+D07,Dublin 7,3,2020,All Dwelling Statuses,All Buyer Types,388000.0
+D07,Dublin 7,3,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,388077.0
+D07,Dublin 7,3,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,380737.0
+D07,Dublin 7,3,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,525000.0
+D07,Dublin 7,3,2020,New,All Buyer Types,
+D07,Dublin 7,3,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,3,2020,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,3,2020,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,3,2020,Existing,All Buyer Types,388000.0
+D07,Dublin 7,3,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,388077.0
+D07,Dublin 7,3,2020,Existing,Household Buyer - Former Owner-Occupier,380737.0
+D07,Dublin 7,3,2020,Existing,Household Buyer - Non-Occupier,525000.0
+D07,Dublin 7,4,2020,All Dwelling Statuses,All Buyer Types,329167.0
+D07,Dublin 7,4,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,342750.0
+D07,Dublin 7,4,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,318167.0
+D07,Dublin 7,4,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,335000.0
+D07,Dublin 7,4,2020,New,All Buyer Types,
+D07,Dublin 7,4,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,4,2020,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,4,2020,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,4,2020,Existing,All Buyer Types,329167.0
+D07,Dublin 7,4,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,342750.0
+D07,Dublin 7,4,2020,Existing,Household Buyer - Former Owner-Occupier,318167.0
+D07,Dublin 7,4,2020,Existing,Household Buyer - Non-Occupier,335000.0
+D07,Dublin 7,5,2020,All Dwelling Statuses,All Buyer Types,317496.0
+D07,Dublin 7,5,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,346955.0
+D07,Dublin 7,5,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,330863.0
+D07,Dublin 7,5,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,196388.0
+D07,Dublin 7,5,2020,New,All Buyer Types,147550.0
+D07,Dublin 7,5,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,5,2020,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,5,2020,New,Household Buyer - Non-Occupier,147550.0
+D07,Dublin 7,5,2020,Existing,All Buyer Types,324033.0
+D07,Dublin 7,5,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,346955.0
+D07,Dublin 7,5,2020,Existing,Household Buyer - Former Owner-Occupier,330863.0
+D07,Dublin 7,5,2020,Existing,Household Buyer - Non-Occupier,212667.0
+D07,Dublin 7,6,2020,All Dwelling Statuses,All Buyer Types,366396.0
+D07,Dublin 7,6,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,353765.0
+D07,Dublin 7,6,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,343250.0
+D07,Dublin 7,6,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,720000.0
+D07,Dublin 7,6,2020,New,All Buyer Types,
+D07,Dublin 7,6,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,6,2020,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,6,2020,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,6,2020,Existing,All Buyer Types,366396.0
+D07,Dublin 7,6,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,353765.0
+D07,Dublin 7,6,2020,Existing,Household Buyer - Former Owner-Occupier,343250.0
+D07,Dublin 7,6,2020,Existing,Household Buyer - Non-Occupier,720000.0
+D07,Dublin 7,7,2020,All Dwelling Statuses,All Buyer Types,370729.0
+D07,Dublin 7,7,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,368688.0
+D07,Dublin 7,7,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,373231.0
+D07,Dublin 7,7,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,365333.0
+D07,Dublin 7,7,2020,New,All Buyer Types,
+D07,Dublin 7,7,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,7,2020,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,7,2020,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,7,2020,Existing,All Buyer Types,370729.0
+D07,Dublin 7,7,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,368688.0
+D07,Dublin 7,7,2020,Existing,Household Buyer - Former Owner-Occupier,373231.0
+D07,Dublin 7,7,2020,Existing,Household Buyer - Non-Occupier,365333.0
+D07,Dublin 7,8,2020,All Dwelling Statuses,All Buyer Types,373600.0
+D07,Dublin 7,8,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,385333.0
+D07,Dublin 7,8,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,378231.0
+D07,Dublin 7,8,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,318333.0
+D07,Dublin 7,8,2020,New,All Buyer Types,
+D07,Dublin 7,8,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,8,2020,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,8,2020,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,8,2020,Existing,All Buyer Types,373600.0
+D07,Dublin 7,8,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,385333.0
+D07,Dublin 7,8,2020,Existing,Household Buyer - Former Owner-Occupier,378231.0
+D07,Dublin 7,8,2020,Existing,Household Buyer - Non-Occupier,318333.0
+D07,Dublin 7,9,2020,All Dwelling Statuses,All Buyer Types,331203.0
+D07,Dublin 7,9,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,361289.0
+D07,Dublin 7,9,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,331457.0
+D07,Dublin 7,9,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,216067.0
+D07,Dublin 7,9,2020,New,All Buyer Types,
+D07,Dublin 7,9,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,9,2020,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,9,2020,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,9,2020,Existing,All Buyer Types,331203.0
+D07,Dublin 7,9,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,361289.0
+D07,Dublin 7,9,2020,Existing,Household Buyer - Former Owner-Occupier,331457.0
+D07,Dublin 7,9,2020,Existing,Household Buyer - Non-Occupier,216067.0
+D07,Dublin 7,10,2020,All Dwelling Statuses,All Buyer Types,396334.0
+D07,Dublin 7,10,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,379750.0
+D07,Dublin 7,10,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,416939.0
+D07,Dublin 7,10,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,351400.0
+D07,Dublin 7,10,2020,New,All Buyer Types,2074999.0
+D07,Dublin 7,10,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,10,2020,New,Household Buyer - Former Owner-Occupier,2074999.0
+D07,Dublin 7,10,2020,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,10,2020,Existing,All Buyer Types,363419.0
+D07,Dublin 7,10,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,379750.0
+D07,Dublin 7,10,2020,Existing,Household Buyer - Former Owner-Occupier,353167.0
+D07,Dublin 7,10,2020,Existing,Household Buyer - Non-Occupier,351400.0
+D07,Dublin 7,11,2020,All Dwelling Statuses,All Buyer Types,375894.0
+D07,Dublin 7,11,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,363833.0
+D07,Dublin 7,11,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,380813.0
+D07,Dublin 7,11,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,443500.0
+D07,Dublin 7,11,2020,New,All Buyer Types,368000.0
+D07,Dublin 7,11,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,368000.0
+D07,Dublin 7,11,2020,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,11,2020,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,11,2020,Existing,All Buyer Types,376065.0
+D07,Dublin 7,11,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,363625.0
+D07,Dublin 7,11,2020,Existing,Household Buyer - Former Owner-Occupier,380813.0
+D07,Dublin 7,11,2020,Existing,Household Buyer - Non-Occupier,443500.0
+D07,Dublin 7,12,2020,All Dwelling Statuses,All Buyer Types,349466.0
+D07,Dublin 7,12,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,366000.0
+D07,Dublin 7,12,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,349741.0
+D07,Dublin 7,12,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,294000.0
+D07,Dublin 7,12,2020,New,All Buyer Types,
+D07,Dublin 7,12,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,12,2020,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,12,2020,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,12,2020,Existing,All Buyer Types,349466.0
+D07,Dublin 7,12,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,366000.0
+D07,Dublin 7,12,2020,Existing,Household Buyer - Former Owner-Occupier,349741.0
+D07,Dublin 7,12,2020,Existing,Household Buyer - Non-Occupier,294000.0
+D07,Dublin 7,1,2021,All Dwelling Statuses,All Buyer Types,403534.0
+D07,Dublin 7,1,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,374654.0
+D07,Dublin 7,1,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,428563.0
+D07,Dublin 7,1,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+D07,Dublin 7,1,2021,New,All Buyer Types,
+D07,Dublin 7,1,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,1,2021,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,1,2021,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,1,2021,Existing,All Buyer Types,403534.0
+D07,Dublin 7,1,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,374654.0
+D07,Dublin 7,1,2021,Existing,Household Buyer - Former Owner-Occupier,428563.0
+D07,Dublin 7,1,2021,Existing,Household Buyer - Non-Occupier,
+D07,Dublin 7,2,2021,All Dwelling Statuses,All Buyer Types,397315.0
+D07,Dublin 7,2,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,373952.0
+D07,Dublin 7,2,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,433919.0
+D07,Dublin 7,2,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,302260.0
+D07,Dublin 7,2,2021,New,All Buyer Types,625000.0
+D07,Dublin 7,2,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,2,2021,New,Household Buyer - Former Owner-Occupier,625000.0
+D07,Dublin 7,2,2021,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,2,2021,Existing,All Buyer Types,391161.0
+D07,Dublin 7,2,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,373952.0
+D07,Dublin 7,2,2021,Existing,Household Buyer - Former Owner-Occupier,421180.0
+D07,Dublin 7,2,2021,Existing,Household Buyer - Non-Occupier,302260.0
+D07,Dublin 7,3,2021,All Dwelling Statuses,All Buyer Types,370644.0
+D07,Dublin 7,3,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,348233.0
+D07,Dublin 7,3,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,392995.0
+D07,Dublin 7,3,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,352167.0
+D07,Dublin 7,3,2021,New,All Buyer Types,
+D07,Dublin 7,3,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,3,2021,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,3,2021,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,3,2021,Existing,All Buyer Types,370644.0
+D07,Dublin 7,3,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,348233.0
+D07,Dublin 7,3,2021,Existing,Household Buyer - Former Owner-Occupier,392995.0
+D07,Dublin 7,3,2021,Existing,Household Buyer - Non-Occupier,352167.0
+D07,Dublin 7,4,2021,All Dwelling Statuses,All Buyer Types,364792.0
+D07,Dublin 7,4,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,387000.0
+D07,Dublin 7,4,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,333700.0
+D07,Dublin 7,4,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+D07,Dublin 7,4,2021,New,All Buyer Types,
+D07,Dublin 7,4,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,4,2021,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,4,2021,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,4,2021,Existing,All Buyer Types,364792.0
+D07,Dublin 7,4,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,387000.0
+D07,Dublin 7,4,2021,Existing,Household Buyer - Former Owner-Occupier,333700.0
+D07,Dublin 7,4,2021,Existing,Household Buyer - Non-Occupier,
+D07,Dublin 7,5,2021,All Dwelling Statuses,All Buyer Types,384033.0
+D07,Dublin 7,5,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,366875.0
+D07,Dublin 7,5,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,404206.0
+D07,Dublin 7,5,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,315500.0
+D07,Dublin 7,5,2021,New,All Buyer Types,
+D07,Dublin 7,5,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,5,2021,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,5,2021,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,5,2021,Existing,All Buyer Types,384033.0
+D07,Dublin 7,5,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,366875.0
+D07,Dublin 7,5,2021,Existing,Household Buyer - Former Owner-Occupier,404206.0
+D07,Dublin 7,5,2021,Existing,Household Buyer - Non-Occupier,315500.0
+D07,Dublin 7,6,2021,All Dwelling Statuses,All Buyer Types,407581.0
+D07,Dublin 7,6,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,403615.0
+D07,Dublin 7,6,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,444500.0
+D07,Dublin 7,6,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,291250.0
+D07,Dublin 7,6,2021,New,All Buyer Types,
+D07,Dublin 7,6,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,6,2021,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,6,2021,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,6,2021,Existing,All Buyer Types,407581.0
+D07,Dublin 7,6,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,403615.0
+D07,Dublin 7,6,2021,Existing,Household Buyer - Former Owner-Occupier,444500.0
+D07,Dublin 7,6,2021,Existing,Household Buyer - Non-Occupier,291250.0
+D07,Dublin 7,7,2021,All Dwelling Statuses,All Buyer Types,371608.0
+D07,Dublin 7,7,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,383500.0
+D07,Dublin 7,7,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,374846.0
+D07,Dublin 7,7,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,342563.0
+D07,Dublin 7,7,2021,New,All Buyer Types,
+D07,Dublin 7,7,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,7,2021,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,7,2021,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,7,2021,Existing,All Buyer Types,371608.0
+D07,Dublin 7,7,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,383500.0
+D07,Dublin 7,7,2021,Existing,Household Buyer - Former Owner-Occupier,374846.0
+D07,Dublin 7,7,2021,Existing,Household Buyer - Non-Occupier,342563.0
+D07,Dublin 7,8,2021,All Dwelling Statuses,All Buyer Types,394452.0
+D07,Dublin 7,8,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,402750.0
+D07,Dublin 7,8,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,437524.0
+D07,Dublin 7,8,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,187000.0
+D07,Dublin 7,8,2021,New,All Buyer Types,
+D07,Dublin 7,8,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,8,2021,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,8,2021,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,8,2021,Existing,All Buyer Types,394452.0
+D07,Dublin 7,8,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,402750.0
+D07,Dublin 7,8,2021,Existing,Household Buyer - Former Owner-Occupier,437524.0
+D07,Dublin 7,8,2021,Existing,Household Buyer - Non-Occupier,187000.0
+D07,Dublin 7,9,2021,All Dwelling Statuses,All Buyer Types,472101.0
+D07,Dublin 7,9,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,385768.0
+D07,Dublin 7,9,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,524393.0
+D07,Dublin 7,9,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,421000.0
+D07,Dublin 7,9,2021,New,All Buyer Types,
+D07,Dublin 7,9,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,9,2021,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,9,2021,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,9,2021,Existing,All Buyer Types,472101.0
+D07,Dublin 7,9,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,385768.0
+D07,Dublin 7,9,2021,Existing,Household Buyer - Former Owner-Occupier,524393.0
+D07,Dublin 7,9,2021,Existing,Household Buyer - Non-Occupier,421000.0
+D07,Dublin 7,10,2021,All Dwelling Statuses,All Buyer Types,412641.0
+D07,Dublin 7,10,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,350000.0
+D07,Dublin 7,10,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,454542.0
+D07,Dublin 7,10,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,442500.0
+D07,Dublin 7,10,2021,New,All Buyer Types,
+D07,Dublin 7,10,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,10,2021,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,10,2021,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,10,2021,Existing,All Buyer Types,412641.0
+D07,Dublin 7,10,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,350000.0
+D07,Dublin 7,10,2021,Existing,Household Buyer - Former Owner-Occupier,454542.0
+D07,Dublin 7,10,2021,Existing,Household Buyer - Non-Occupier,442500.0
+D07,Dublin 7,11,2021,All Dwelling Statuses,All Buyer Types,407042.0
+D07,Dublin 7,11,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,413100.0
+D07,Dublin 7,11,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,408050.0
+D07,Dublin 7,11,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,382820.0
+D07,Dublin 7,11,2021,New,All Buyer Types,
+D07,Dublin 7,11,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,11,2021,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,11,2021,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,11,2021,Existing,All Buyer Types,407042.0
+D07,Dublin 7,11,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,413100.0
+D07,Dublin 7,11,2021,Existing,Household Buyer - Former Owner-Occupier,408050.0
+D07,Dublin 7,11,2021,Existing,Household Buyer - Non-Occupier,382820.0
+D07,Dublin 7,12,2021,All Dwelling Statuses,All Buyer Types,417741.0
+D07,Dublin 7,12,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,395568.0
+D07,Dublin 7,12,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,454862.0
+D07,Dublin 7,12,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,333643.0
+D07,Dublin 7,12,2021,New,All Buyer Types,
+D07,Dublin 7,12,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,12,2021,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,12,2021,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,12,2021,Existing,All Buyer Types,417741.0
+D07,Dublin 7,12,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,395568.0
+D07,Dublin 7,12,2021,Existing,Household Buyer - Former Owner-Occupier,454862.0
+D07,Dublin 7,12,2021,Existing,Household Buyer - Non-Occupier,333643.0
+D07,Dublin 7,1,2022,All Dwelling Statuses,All Buyer Types,411924.0
+D07,Dublin 7,1,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,399736.0
+D07,Dublin 7,1,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,455364.0
+D07,Dublin 7,1,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,297333.0
+D07,Dublin 7,1,2022,New,All Buyer Types,
+D07,Dublin 7,1,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,1,2022,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,1,2022,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,1,2022,Existing,All Buyer Types,411924.0
+D07,Dublin 7,1,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,399736.0
+D07,Dublin 7,1,2022,Existing,Household Buyer - Former Owner-Occupier,455364.0
+D07,Dublin 7,1,2022,Existing,Household Buyer - Non-Occupier,297333.0
+D07,Dublin 7,2,2022,All Dwelling Statuses,All Buyer Types,406092.0
+D07,Dublin 7,2,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,401355.0
+D07,Dublin 7,2,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,418778.0
+D07,Dublin 7,2,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,272500.0
+D07,Dublin 7,2,2022,New,All Buyer Types,
+D07,Dublin 7,2,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,2,2022,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,2,2022,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,2,2022,Existing,All Buyer Types,406092.0
+D07,Dublin 7,2,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,401355.0
+D07,Dublin 7,2,2022,Existing,Household Buyer - Former Owner-Occupier,418778.0
+D07,Dublin 7,2,2022,Existing,Household Buyer - Non-Occupier,272500.0
+D07,Dublin 7,3,2022,All Dwelling Statuses,All Buyer Types,470594.0
+D07,Dublin 7,3,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,401273.0
+D07,Dublin 7,3,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,527944.0
+D07,Dublin 7,3,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,380667.0
+D07,Dublin 7,3,2022,New,All Buyer Types,
+D07,Dublin 7,3,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,3,2022,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,3,2022,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,3,2022,Existing,All Buyer Types,470594.0
+D07,Dublin 7,3,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,401273.0
+D07,Dublin 7,3,2022,Existing,Household Buyer - Former Owner-Occupier,527944.0
+D07,Dublin 7,3,2022,Existing,Household Buyer - Non-Occupier,380667.0
+D07,Dublin 7,4,2022,All Dwelling Statuses,All Buyer Types,411620.0
+D07,Dublin 7,4,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,416063.0
+D07,Dublin 7,4,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,430292.0
+D07,Dublin 7,4,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,238556.0
+D07,Dublin 7,4,2022,New,All Buyer Types,
+D07,Dublin 7,4,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,4,2022,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,4,2022,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,4,2022,Existing,All Buyer Types,411620.0
+D07,Dublin 7,4,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,416063.0
+D07,Dublin 7,4,2022,Existing,Household Buyer - Former Owner-Occupier,430292.0
+D07,Dublin 7,4,2022,Existing,Household Buyer - Non-Occupier,238556.0
+D07,Dublin 7,5,2022,All Dwelling Statuses,All Buyer Types,393786.0
+D07,Dublin 7,5,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,365188.0
+D07,Dublin 7,5,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,432029.0
+D07,Dublin 7,5,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,253333.0
+D07,Dublin 7,5,2022,New,All Buyer Types,
+D07,Dublin 7,5,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,5,2022,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,5,2022,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,5,2022,Existing,All Buyer Types,393786.0
+D07,Dublin 7,5,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,365188.0
+D07,Dublin 7,5,2022,Existing,Household Buyer - Former Owner-Occupier,432029.0
+D07,Dublin 7,5,2022,Existing,Household Buyer - Non-Occupier,253333.0
+D07,Dublin 7,6,2022,All Dwelling Statuses,All Buyer Types,399307.0
+D07,Dublin 7,6,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,422279.0
+D07,Dublin 7,6,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,401519.0
+D07,Dublin 7,6,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,286750.0
+D07,Dublin 7,6,2022,New,All Buyer Types,
+D07,Dublin 7,6,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,6,2022,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,6,2022,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,6,2022,Existing,All Buyer Types,399307.0
+D07,Dublin 7,6,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,422279.0
+D07,Dublin 7,6,2022,Existing,Household Buyer - Former Owner-Occupier,401519.0
+D07,Dublin 7,6,2022,Existing,Household Buyer - Non-Occupier,286750.0
+D07,Dublin 7,7,2022,All Dwelling Statuses,All Buyer Types,382804.0
+D07,Dublin 7,7,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,377600.0
+D07,Dublin 7,7,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,435333.0
+D07,Dublin 7,7,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,280300.0
+D07,Dublin 7,7,2022,New,All Buyer Types,
+D07,Dublin 7,7,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,7,2022,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,7,2022,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,7,2022,Existing,All Buyer Types,382804.0
+D07,Dublin 7,7,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,377600.0
+D07,Dublin 7,7,2022,Existing,Household Buyer - Former Owner-Occupier,435333.0
+D07,Dublin 7,7,2022,Existing,Household Buyer - Non-Occupier,280300.0
+D07,Dublin 7,8,2022,All Dwelling Statuses,All Buyer Types,420841.0
+D07,Dublin 7,8,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,435636.0
+D07,Dublin 7,8,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,433720.0
+D07,Dublin 7,8,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,323900.0
+D07,Dublin 7,8,2022,New,All Buyer Types,
+D07,Dublin 7,8,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,8,2022,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,8,2022,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,8,2022,Existing,All Buyer Types,420841.0
+D07,Dublin 7,8,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,435636.0
+D07,Dublin 7,8,2022,Existing,Household Buyer - Former Owner-Occupier,433720.0
+D07,Dublin 7,8,2022,Existing,Household Buyer - Non-Occupier,323900.0
+D07,Dublin 7,9,2022,All Dwelling Statuses,All Buyer Types,446857.0
+D07,Dublin 7,9,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,432450.0
+D07,Dublin 7,9,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,474864.0
+D07,Dublin 7,9,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,400000.0
+D07,Dublin 7,9,2022,New,All Buyer Types,
+D07,Dublin 7,9,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,9,2022,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,9,2022,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,9,2022,Existing,All Buyer Types,446857.0
+D07,Dublin 7,9,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,432450.0
+D07,Dublin 7,9,2022,Existing,Household Buyer - Former Owner-Occupier,474864.0
+D07,Dublin 7,9,2022,Existing,Household Buyer - Non-Occupier,400000.0
+D07,Dublin 7,10,2022,All Dwelling Statuses,All Buyer Types,417562.0
+D07,Dublin 7,10,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,425000.0
+D07,Dublin 7,10,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,426558.0
+D07,Dublin 7,10,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,368000.0
+D07,Dublin 7,10,2022,New,All Buyer Types,522100.0
+D07,Dublin 7,10,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,10,2022,New,Household Buyer - Former Owner-Occupier,522100.0
+D07,Dublin 7,10,2022,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,10,2022,Existing,All Buyer Types,415012.0
+D07,Dublin 7,10,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,425000.0
+D07,Dublin 7,10,2022,Existing,Household Buyer - Former Owner-Occupier,421250.0
+D07,Dublin 7,10,2022,Existing,Household Buyer - Non-Occupier,368000.0
+D07,Dublin 7,11,2022,All Dwelling Statuses,All Buyer Types,440488.0
+D07,Dublin 7,11,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,375565.0
+D07,Dublin 7,11,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,502582.0
+D07,Dublin 7,11,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,326667.0
+D07,Dublin 7,11,2022,New,All Buyer Types,
+D07,Dublin 7,11,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,11,2022,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,11,2022,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,11,2022,Existing,All Buyer Types,440488.0
+D07,Dublin 7,11,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,375565.0
+D07,Dublin 7,11,2022,Existing,Household Buyer - Former Owner-Occupier,502582.0
+D07,Dublin 7,11,2022,Existing,Household Buyer - Non-Occupier,326667.0
+D07,Dublin 7,12,2022,All Dwelling Statuses,All Buyer Types,460145.0
+D07,Dublin 7,12,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,440382.0
+D07,Dublin 7,12,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,460691.0
+D07,Dublin 7,12,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,513500.0
+D07,Dublin 7,12,2022,New,All Buyer Types,
+D07,Dublin 7,12,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,12,2022,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,12,2022,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,12,2022,Existing,All Buyer Types,460145.0
+D07,Dublin 7,12,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,440382.0
+D07,Dublin 7,12,2022,Existing,Household Buyer - Former Owner-Occupier,460691.0
+D07,Dublin 7,12,2022,Existing,Household Buyer - Non-Occupier,513500.0
+D07,Dublin 7,1,2023,All Dwelling Statuses,All Buyer Types,382111.0
+D07,Dublin 7,1,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,378875.0
+D07,Dublin 7,1,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,391250.0
+D07,Dublin 7,1,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,371600.0
+D07,Dublin 7,1,2023,New,All Buyer Types,
+D07,Dublin 7,1,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,1,2023,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,1,2023,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,1,2023,Existing,All Buyer Types,382111.0
+D07,Dublin 7,1,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,378875.0
+D07,Dublin 7,1,2023,Existing,Household Buyer - Former Owner-Occupier,391250.0
+D07,Dublin 7,1,2023,Existing,Household Buyer - Non-Occupier,371600.0
+D07,Dublin 7,2,2023,All Dwelling Statuses,All Buyer Types,443717.0
+D07,Dublin 7,2,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,433813.0
+D07,Dublin 7,2,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,449222.0
+D07,Dublin 7,2,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,438750.0
+D07,Dublin 7,2,2023,New,All Buyer Types,
+D07,Dublin 7,2,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,2,2023,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,2,2023,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,2,2023,Existing,All Buyer Types,443717.0
+D07,Dublin 7,2,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,433813.0
+D07,Dublin 7,2,2023,Existing,Household Buyer - Former Owner-Occupier,449222.0
+D07,Dublin 7,2,2023,Existing,Household Buyer - Non-Occupier,438750.0
+D07,Dublin 7,3,2023,All Dwelling Statuses,All Buyer Types,440477.0
+D07,Dublin 7,3,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,406469.0
+D07,Dublin 7,3,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,410500.0
+D07,Dublin 7,3,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,871667.0
+D07,Dublin 7,3,2023,New,All Buyer Types,
+D07,Dublin 7,3,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,3,2023,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,3,2023,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,3,2023,Existing,All Buyer Types,440477.0
+D07,Dublin 7,3,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,406469.0
+D07,Dublin 7,3,2023,Existing,Household Buyer - Former Owner-Occupier,410500.0
+D07,Dublin 7,3,2023,Existing,Household Buyer - Non-Occupier,871667.0
+D07,Dublin 7,4,2023,All Dwelling Statuses,All Buyer Types,420163.0
+D07,Dublin 7,4,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,406800.0
+D07,Dublin 7,4,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,433525.0
+D07,Dublin 7,4,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+D07,Dublin 7,4,2023,New,All Buyer Types,
+D07,Dublin 7,4,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,4,2023,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,4,2023,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,4,2023,Existing,All Buyer Types,420163.0
+D07,Dublin 7,4,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,406800.0
+D07,Dublin 7,4,2023,Existing,Household Buyer - Former Owner-Occupier,433525.0
+D07,Dublin 7,4,2023,Existing,Household Buyer - Non-Occupier,
+D07,Dublin 7,5,2023,All Dwelling Statuses,All Buyer Types,414185.0
+D07,Dublin 7,5,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,413665.0
+D07,Dublin 7,5,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,415435.0
+D07,Dublin 7,5,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,404500.0
+D07,Dublin 7,5,2023,New,All Buyer Types,550475.0
+D07,Dublin 7,5,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,550475.0
+D07,Dublin 7,5,2023,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,5,2023,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,5,2023,Existing,All Buyer Types,410940.0
+D07,Dublin 7,5,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,405618.0
+D07,Dublin 7,5,2023,Existing,Household Buyer - Former Owner-Occupier,415435.0
+D07,Dublin 7,5,2023,Existing,Household Buyer - Non-Occupier,404500.0
+D07,Dublin 7,6,2023,All Dwelling Statuses,All Buyer Types,374507.0
+D07,Dublin 7,6,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,399857.0
+D07,Dublin 7,6,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,361035.0
+D07,Dublin 7,6,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,371000.0
+D07,Dublin 7,6,2023,New,All Buyer Types,
+D07,Dublin 7,6,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,6,2023,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,6,2023,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,6,2023,Existing,All Buyer Types,374507.0
+D07,Dublin 7,6,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,399857.0
+D07,Dublin 7,6,2023,Existing,Household Buyer - Former Owner-Occupier,361035.0
+D07,Dublin 7,6,2023,Existing,Household Buyer - Non-Occupier,371000.0
+D07,Dublin 7,7,2023,All Dwelling Statuses,All Buyer Types,393219.0
+D07,Dublin 7,7,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,407643.0
+D07,Dublin 7,7,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,423635.0
+D07,Dublin 7,7,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,273125.0
+D07,Dublin 7,7,2023,New,All Buyer Types,610000.0
+D07,Dublin 7,7,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,7,2023,New,Household Buyer - Former Owner-Occupier,610000.0
+D07,Dublin 7,7,2023,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,7,2023,Existing,All Buyer Types,387932.0
+D07,Dublin 7,7,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,407643.0
+D07,Dublin 7,7,2023,Existing,Household Buyer - Former Owner-Occupier,414317.0
+D07,Dublin 7,7,2023,Existing,Household Buyer - Non-Occupier,273125.0
+D07,Dublin 7,8,2023,All Dwelling Statuses,All Buyer Types,437323.0
+D07,Dublin 7,8,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,431258.0
+D07,Dublin 7,8,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,449632.0
+D07,Dublin 7,8,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,415250.0
+D07,Dublin 7,8,2023,New,All Buyer Types,
+D07,Dublin 7,8,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,8,2023,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,8,2023,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,8,2023,Existing,All Buyer Types,437323.0
+D07,Dublin 7,8,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,431258.0
+D07,Dublin 7,8,2023,Existing,Household Buyer - Former Owner-Occupier,449632.0
+D07,Dublin 7,8,2023,Existing,Household Buyer - Non-Occupier,415250.0
+D07,Dublin 7,9,2023,All Dwelling Statuses,All Buyer Types,408825.0
+D07,Dublin 7,9,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,456000.0
+D07,Dublin 7,9,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,443580.0
+D07,Dublin 7,9,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,246308.0
+D07,Dublin 7,9,2023,New,All Buyer Types,
+D07,Dublin 7,9,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,9,2023,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,9,2023,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,9,2023,Existing,All Buyer Types,408825.0
+D07,Dublin 7,9,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,456000.0
+D07,Dublin 7,9,2023,Existing,Household Buyer - Former Owner-Occupier,443580.0
+D07,Dublin 7,9,2023,Existing,Household Buyer - Non-Occupier,246308.0
+D07,Dublin 7,10,2023,All Dwelling Statuses,All Buyer Types,415191.0
+D07,Dublin 7,10,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,403833.0
+D07,Dublin 7,10,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,450405.0
+D07,Dublin 7,10,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,315000.0
+D07,Dublin 7,10,2023,New,All Buyer Types,350000.0
+D07,Dublin 7,10,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,350000.0
+D07,Dublin 7,10,2023,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,10,2023,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,10,2023,Existing,All Buyer Types,416609.0
+D07,Dublin 7,10,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,406525.0
+D07,Dublin 7,10,2023,Existing,Household Buyer - Former Owner-Occupier,450405.0
+D07,Dublin 7,10,2023,Existing,Household Buyer - Non-Occupier,315000.0
+D07,Dublin 7,11,2023,All Dwelling Statuses,All Buyer Types,430177.0
+D07,Dublin 7,11,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,440042.0
+D07,Dublin 7,11,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,434214.0
+D07,Dublin 7,11,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,352000.0
+D07,Dublin 7,11,2023,New,All Buyer Types,
+D07,Dublin 7,11,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,11,2023,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,11,2023,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,11,2023,Existing,All Buyer Types,430177.0
+D07,Dublin 7,11,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,440042.0
+D07,Dublin 7,11,2023,Existing,Household Buyer - Former Owner-Occupier,434214.0
+D07,Dublin 7,11,2023,Existing,Household Buyer - Non-Occupier,352000.0
+D07,Dublin 7,12,2023,All Dwelling Statuses,All Buyer Types,444052.0
+D07,Dublin 7,12,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,428000.0
+D07,Dublin 7,12,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,466438.0
+D07,Dublin 7,12,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,328333.0
+D07,Dublin 7,12,2023,New,All Buyer Types,
+D07,Dublin 7,12,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,12,2023,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,12,2023,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,12,2023,Existing,All Buyer Types,444052.0
+D07,Dublin 7,12,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,428000.0
+D07,Dublin 7,12,2023,Existing,Household Buyer - Former Owner-Occupier,466438.0
+D07,Dublin 7,12,2023,Existing,Household Buyer - Non-Occupier,328333.0
+D07,Dublin 7,1,2024,All Dwelling Statuses,All Buyer Types,428024.0
+D07,Dublin 7,1,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,459065.0
+D07,Dublin 7,1,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,389179.0
+D07,Dublin 7,1,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,416667.0
+D07,Dublin 7,1,2024,New,All Buyer Types,
+D07,Dublin 7,1,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,1,2024,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,1,2024,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,1,2024,Existing,All Buyer Types,428024.0
+D07,Dublin 7,1,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,459065.0
+D07,Dublin 7,1,2024,Existing,Household Buyer - Former Owner-Occupier,389179.0
+D07,Dublin 7,1,2024,Existing,Household Buyer - Non-Occupier,416667.0
+D07,Dublin 7,2,2024,All Dwelling Statuses,All Buyer Types,393618.0
+D07,Dublin 7,2,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,451927.0
+D07,Dublin 7,2,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,369861.0
+D07,Dublin 7,2,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,339200.0
+D07,Dublin 7,2,2024,New,All Buyer Types,692350.0
+D07,Dublin 7,2,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,2,2024,New,Household Buyer - Former Owner-Occupier,692350.0
+D07,Dublin 7,2,2024,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,2,2024,Existing,All Buyer Types,375513.0
+D07,Dublin 7,2,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,451927.0
+D07,Dublin 7,2,2024,Existing,Household Buyer - Former Owner-Occupier,329550.0
+D07,Dublin 7,2,2024,Existing,Household Buyer - Non-Occupier,339200.0
+D07,Dublin 7,3,2024,All Dwelling Statuses,All Buyer Types,407989.0
+D07,Dublin 7,3,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,366071.0
+D07,Dublin 7,3,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,437707.0
+D07,Dublin 7,3,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,394600.0
+D07,Dublin 7,3,2024,New,All Buyer Types,
+D07,Dublin 7,3,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,3,2024,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,3,2024,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,3,2024,Existing,All Buyer Types,407989.0
+D07,Dublin 7,3,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,366071.0
+D07,Dublin 7,3,2024,Existing,Household Buyer - Former Owner-Occupier,437707.0
+D07,Dublin 7,3,2024,Existing,Household Buyer - Non-Occupier,394600.0
+D07,Dublin 7,4,2024,All Dwelling Statuses,All Buyer Types,446000.0
+D07,Dublin 7,4,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,446000.0
+D07,Dublin 7,4,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,451250.0
+D07,Dublin 7,4,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,438500.0
+D07,Dublin 7,4,2024,New,All Buyer Types,
+D07,Dublin 7,4,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,4,2024,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,4,2024,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,4,2024,Existing,All Buyer Types,446000.0
+D07,Dublin 7,4,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,446000.0
+D07,Dublin 7,4,2024,Existing,Household Buyer - Former Owner-Occupier,451250.0
+D07,Dublin 7,4,2024,Existing,Household Buyer - Non-Occupier,438500.0
+D07,Dublin 7,5,2024,All Dwelling Statuses,All Buyer Types,464792.0
+D07,Dublin 7,5,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,443866.0
+D07,Dublin 7,5,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,503200.0
+D07,Dublin 7,5,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,378000.0
+D07,Dublin 7,5,2024,New,All Buyer Types,711500.0
+D07,Dublin 7,5,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,711500.0
+D07,Dublin 7,5,2024,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,5,2024,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,5,2024,Existing,All Buyer Types,459954.0
+D07,Dublin 7,5,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,430484.0
+D07,Dublin 7,5,2024,Existing,Household Buyer - Former Owner-Occupier,503200.0
+D07,Dublin 7,5,2024,Existing,Household Buyer - Non-Occupier,378000.0
+D07,Dublin 7,6,2024,All Dwelling Statuses,All Buyer Types,475036.0
+D07,Dublin 7,6,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,531750.0
+D07,Dublin 7,6,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,441857.0
+D07,Dublin 7,6,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,367000.0
+D07,Dublin 7,6,2024,New,All Buyer Types,
+D07,Dublin 7,6,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,6,2024,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,6,2024,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,6,2024,Existing,All Buyer Types,475036.0
+D07,Dublin 7,6,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,531750.0
+D07,Dublin 7,6,2024,Existing,Household Buyer - Former Owner-Occupier,441857.0
+D07,Dublin 7,6,2024,Existing,Household Buyer - Non-Occupier,367000.0
+D07,Dublin 7,7,2024,All Dwelling Statuses,All Buyer Types,452028.0
+D07,Dublin 7,7,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,449625.0
+D07,Dublin 7,7,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,483000.0
+D07,Dublin 7,7,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,366800.0
+D07,Dublin 7,7,2024,New,All Buyer Types,
+D07,Dublin 7,7,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+D07,Dublin 7,7,2024,New,Household Buyer - Former Owner-Occupier,
+D07,Dublin 7,7,2024,New,Household Buyer - Non-Occupier,
+D07,Dublin 7,7,2024,Existing,All Buyer Types,452028.0
+D07,Dublin 7,7,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,449625.0
+D07,Dublin 7,7,2024,Existing,Household Buyer - Former Owner-Occupier,483000.0
+D07,Dublin 7,7,2024,Existing,Household Buyer - Non-Occupier,366800.0

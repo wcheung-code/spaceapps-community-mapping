@@ -1,0 +1,2101 @@
+Routing Key,City,Month,Year,Dwelling Status,Type of Buyer,VALUE
+W23,Celbridge,1,2010,All Dwelling Statuses,All Buyer Types,314709.0
+W23,Celbridge,1,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,330445.0
+W23,Celbridge,1,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,323333.0
+W23,Celbridge,1,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,100000.0
+W23,Celbridge,1,2010,New,All Buyer Types,305085.0
+W23,Celbridge,1,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,305085.0
+W23,Celbridge,1,2010,New,Household Buyer - Former Owner-Occupier,
+W23,Celbridge,1,2010,New,Household Buyer - Non-Occupier,
+W23,Celbridge,1,2010,Existing,All Buyer Types,317917.0
+W23,Celbridge,1,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,343125.0
+W23,Celbridge,1,2010,Existing,Household Buyer - Former Owner-Occupier,323333.0
+W23,Celbridge,1,2010,Existing,Household Buyer - Non-Occupier,100000.0
+W23,Celbridge,2,2010,All Dwelling Statuses,All Buyer Types,355686.0
+W23,Celbridge,2,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,276335.0
+W23,Celbridge,2,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,562000.0
+W23,Celbridge,2,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+W23,Celbridge,2,2010,New,All Buyer Types,415035.0
+W23,Celbridge,2,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,292907.0
+W23,Celbridge,2,2010,New,Household Buyer - Former Owner-Occupier,699999.0
+W23,Celbridge,2,2010,New,Household Buyer - Non-Occupier,
+W23,Celbridge,2,2010,Existing,All Buyer Types,281500.0
+W23,Celbridge,2,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,257000.0
+W23,Celbridge,2,2010,Existing,Household Buyer - Former Owner-Occupier,355000.0
+W23,Celbridge,2,2010,Existing,Household Buyer - Non-Occupier,
+W23,Celbridge,3,2010,All Dwelling Statuses,All Buyer Types,334705.0
+W23,Celbridge,3,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,270182.0
+W23,Celbridge,3,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,392740.0
+W23,Celbridge,3,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,290000.0
+W23,Celbridge,3,2010,New,All Buyer Types,401458.0
+W23,Celbridge,3,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,260000.0
+W23,Celbridge,3,2010,New,Household Buyer - Former Owner-Occupier,441875.0
+W23,Celbridge,3,2010,New,Household Buyer - Non-Occupier,
+W23,Celbridge,3,2010,Existing,All Buyer Types,297156.0
+W23,Celbridge,3,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,272444.0
+W23,Celbridge,3,2010,Existing,Household Buyer - Former Owner-Occupier,335417.0
+W23,Celbridge,3,2010,Existing,Household Buyer - Non-Occupier,290000.0
+W23,Celbridge,4,2010,All Dwelling Statuses,All Buyer Types,274148.0
+W23,Celbridge,4,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,260063.0
+W23,Celbridge,4,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,330486.0
+W23,Celbridge,4,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+W23,Celbridge,4,2010,New,All Buyer Types,256784.0
+W23,Celbridge,4,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,262753.0
+W23,Celbridge,4,2010,New,Household Buyer - Former Owner-Occupier,226943.0
+W23,Celbridge,4,2010,New,Household Buyer - Non-Occupier,
+W23,Celbridge,4,2010,Existing,All Buyer Types,281589.0
+W23,Celbridge,4,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,258841.0
+W23,Celbridge,4,2010,Existing,Household Buyer - Former Owner-Occupier,365000.0
+W23,Celbridge,4,2010,Existing,Household Buyer - Non-Occupier,
+W23,Celbridge,5,2010,All Dwelling Statuses,All Buyer Types,271940.0
+W23,Celbridge,5,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,251979.0
+W23,Celbridge,5,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,336714.0
+W23,Celbridge,5,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,164999.0
+W23,Celbridge,5,2010,New,All Buyer Types,231083.0
+W23,Celbridge,5,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,267687.0
+W23,Celbridge,5,2010,New,Household Buyer - Former Owner-Occupier,226333.0
+W23,Celbridge,5,2010,New,Household Buyer - Non-Occupier,164999.0
+W23,Celbridge,5,2010,Existing,All Buyer Types,302583.0
+W23,Celbridge,5,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,244125.0
+W23,Celbridge,5,2010,Existing,Household Buyer - Former Owner-Occupier,419500.0
+W23,Celbridge,5,2010,Existing,Household Buyer - Non-Occupier,
+W23,Celbridge,6,2010,All Dwelling Statuses,All Buyer Types,290871.0
+W23,Celbridge,6,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,257904.0
+W23,Celbridge,6,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,341242.0
+W23,Celbridge,6,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,365000.0
+W23,Celbridge,6,2010,New,All Buyer Types,252105.0
+W23,Celbridge,6,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,258930.0
+W23,Celbridge,6,2010,New,Household Buyer - Former Owner-Occupier,190680.0
+W23,Celbridge,6,2010,New,Household Buyer - Non-Occupier,
+W23,Celbridge,6,2010,Existing,All Buyer Types,315100.0
+W23,Celbridge,6,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,256586.0
+W23,Celbridge,6,2010,Existing,Household Buyer - Former Owner-Occupier,360063.0
+W23,Celbridge,6,2010,Existing,Household Buyer - Non-Occupier,365000.0
+W23,Celbridge,7,2010,All Dwelling Statuses,All Buyer Types,274947.0
+W23,Celbridge,7,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,245532.0
+W23,Celbridge,7,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,314574.0
+W23,Celbridge,7,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,149950.0
+W23,Celbridge,7,2010,New,All Buyer Types,271312.0
+W23,Celbridge,7,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,236163.0
+W23,Celbridge,7,2010,New,Household Buyer - Former Owner-Occupier,393779.0
+W23,Celbridge,7,2010,New,Household Buyer - Non-Occupier,149950.0
+W23,Celbridge,7,2010,Existing,All Buyer Types,276375.0
+W23,Celbridge,7,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,250577.0
+W23,Celbridge,7,2010,Existing,Household Buyer - Former Owner-Occupier,298733.0
+W23,Celbridge,7,2010,Existing,Household Buyer - Non-Occupier,
+W23,Celbridge,8,2010,All Dwelling Statuses,All Buyer Types,297237.0
+W23,Celbridge,8,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,258105.0
+W23,Celbridge,8,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,349412.0
+W23,Celbridge,8,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+W23,Celbridge,8,2010,New,All Buyer Types,314912.0
+W23,Celbridge,8,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,192383.0
+W23,Celbridge,8,2010,New,Household Buyer - Former Owner-Occupier,376177.0
+W23,Celbridge,8,2010,New,Household Buyer - Non-Occupier,
+W23,Celbridge,8,2010,Existing,All Buyer Types,290167.0
+W23,Celbridge,8,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,271250.0
+W23,Celbridge,8,2010,Existing,Household Buyer - Former Owner-Occupier,328000.0
+W23,Celbridge,8,2010,Existing,Household Buyer - Non-Occupier,
+W23,Celbridge,9,2010,All Dwelling Statuses,All Buyer Types,288665.0
+W23,Celbridge,9,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,265667.0
+W23,Celbridge,9,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,320025.0
+W23,Celbridge,9,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+W23,Celbridge,9,2010,New,All Buyer Types,235945.0
+W23,Celbridge,9,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,266166.0
+W23,Celbridge,9,2010,New,Household Buyer - Former Owner-Occupier,145280.0
+W23,Celbridge,9,2010,New,Household Buyer - Non-Occupier,
+W23,Celbridge,9,2010,Existing,All Buyer Types,298250.0
+W23,Celbridge,9,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,265542.0
+W23,Celbridge,9,2010,Existing,Household Buyer - Former Owner-Occupier,337500.0
+W23,Celbridge,9,2010,Existing,Household Buyer - Non-Occupier,
+W23,Celbridge,10,2010,All Dwelling Statuses,All Buyer Types,318724.0
+W23,Celbridge,10,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,264907.0
+W23,Celbridge,10,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,414785.0
+W23,Celbridge,10,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,232500.0
+W23,Celbridge,10,2010,New,All Buyer Types,316223.0
+W23,Celbridge,10,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,256817.0
+W23,Celbridge,10,2010,New,Household Buyer - Former Owner-Occupier,415234.0
+W23,Celbridge,10,2010,New,Household Buyer - Non-Occupier,
+W23,Celbridge,10,2010,Existing,All Buyer Types,319465.0
+W23,Celbridge,10,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,267603.0
+W23,Celbridge,10,2010,Existing,Household Buyer - Former Owner-Occupier,414650.0
+W23,Celbridge,10,2010,Existing,Household Buyer - Non-Occupier,232500.0
+W23,Celbridge,11,2010,All Dwelling Statuses,All Buyer Types,304477.0
+W23,Celbridge,11,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,270183.0
+W23,Celbridge,11,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,400500.0
+W23,Celbridge,11,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+W23,Celbridge,11,2010,New,All Buyer Types,367044.0
+W23,Celbridge,11,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,301362.0
+W23,Celbridge,11,2010,New,Household Buyer - Former Owner-Occupier,531250.0
+W23,Celbridge,11,2010,New,Household Buyer - Non-Occupier,
+W23,Celbridge,11,2010,Existing,All Buyer Types,267979.0
+W23,Celbridge,11,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,252861.0
+W23,Celbridge,11,2010,Existing,Household Buyer - Former Owner-Occupier,313333.0
+W23,Celbridge,11,2010,Existing,Household Buyer - Non-Occupier,
+W23,Celbridge,12,2010,All Dwelling Statuses,All Buyer Types,280549.0
+W23,Celbridge,12,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,266491.0
+W23,Celbridge,12,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,305960.0
+W23,Celbridge,12,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,147000.0
+W23,Celbridge,12,2010,New,All Buyer Types,261374.0
+W23,Celbridge,12,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,272646.0
+W23,Celbridge,12,2010,New,Household Buyer - Former Owner-Occupier,238828.0
+W23,Celbridge,12,2010,New,Household Buyer - Non-Occupier,
+W23,Celbridge,12,2010,Existing,All Buyer Types,289632.0
+W23,Celbridge,12,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,261875.0
+W23,Celbridge,12,2010,Existing,Household Buyer - Former Owner-Occupier,326100.0
+W23,Celbridge,12,2010,Existing,Household Buyer - Non-Occupier,147000.0
+W23,Celbridge,1,2011,All Dwelling Statuses,All Buyer Types,295741.0
+W23,Celbridge,1,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,267571.0
+W23,Celbridge,1,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,318277.0
+W23,Celbridge,1,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+W23,Celbridge,1,2011,New,All Buyer Types,356390.0
+W23,Celbridge,1,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,351283.0
+W23,Celbridge,1,2011,New,Household Buyer - Former Owner-Occupier,358943.0
+W23,Celbridge,1,2011,New,Household Buyer - Non-Occupier,
+W23,Celbridge,1,2011,Existing,All Buyer Types,265417.0
+W23,Celbridge,1,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,239667.0
+W23,Celbridge,1,2011,Existing,Household Buyer - Former Owner-Occupier,291167.0
+W23,Celbridge,1,2011,Existing,Household Buyer - Non-Occupier,
+W23,Celbridge,2,2011,All Dwelling Statuses,All Buyer Types,286622.0
+W23,Celbridge,2,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,253497.0
+W23,Celbridge,2,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,329213.0
+W23,Celbridge,2,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+W23,Celbridge,2,2011,New,All Buyer Types,286486.0
+W23,Celbridge,2,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,263735.0
+W23,Celbridge,2,2011,New,Household Buyer - Former Owner-Occupier,331988.0
+W23,Celbridge,2,2011,New,Household Buyer - Non-Occupier,
+W23,Celbridge,2,2011,Existing,All Buyer Types,286654.0
+W23,Celbridge,2,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,250571.0
+W23,Celbridge,2,2011,Existing,Household Buyer - Former Owner-Occupier,328750.0
+W23,Celbridge,2,2011,Existing,Household Buyer - Non-Occupier,
+W23,Celbridge,3,2011,All Dwelling Statuses,All Buyer Types,248097.0
+W23,Celbridge,3,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,241383.0
+W23,Celbridge,3,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,247800.0
+W23,Celbridge,3,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,310000.0
+W23,Celbridge,3,2011,New,All Buyer Types,238225.0
+W23,Celbridge,3,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,238225.0
+W23,Celbridge,3,2011,New,Household Buyer - Former Owner-Occupier,
+W23,Celbridge,3,2011,New,Household Buyer - Non-Occupier,
+W23,Celbridge,3,2011,Existing,All Buyer Types,249615.0
+W23,Celbridge,3,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,242286.0
+W23,Celbridge,3,2011,Existing,Household Buyer - Former Owner-Occupier,247800.0
+W23,Celbridge,3,2011,Existing,Household Buyer - Non-Occupier,310000.0
+W23,Celbridge,4,2011,All Dwelling Statuses,All Buyer Types,330292.0
+W23,Celbridge,4,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,297722.0
+W23,Celbridge,4,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,392927.0
+W23,Celbridge,4,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,195000.0
+W23,Celbridge,4,2011,New,All Buyer Types,397836.0
+W23,Celbridge,4,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,299999.0
+W23,Celbridge,4,2011,New,Household Buyer - Former Owner-Occupier,430448.0
+W23,Celbridge,4,2011,New,Household Buyer - Non-Occupier,
+W23,Celbridge,4,2011,Existing,All Buyer Types,313406.0
+W23,Celbridge,4,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,297438.0
+W23,Celbridge,4,2011,Existing,Household Buyer - Former Owner-Occupier,374167.0
+W23,Celbridge,4,2011,Existing,Household Buyer - Non-Occupier,195000.0
+W23,Celbridge,5,2011,All Dwelling Statuses,All Buyer Types,238167.0
+W23,Celbridge,5,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,207251.0
+W23,Celbridge,5,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,300000.0
+W23,Celbridge,5,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+W23,Celbridge,5,2011,New,All Buyer Types,243501.0
+W23,Celbridge,5,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,243501.0
+W23,Celbridge,5,2011,New,Household Buyer - Former Owner-Occupier,
+W23,Celbridge,5,2011,New,Household Buyer - Non-Occupier,
+W23,Celbridge,5,2011,Existing,All Buyer Types,235500.0
+W23,Celbridge,5,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,171000.0
+W23,Celbridge,5,2011,Existing,Household Buyer - Former Owner-Occupier,300000.0
+W23,Celbridge,5,2011,Existing,Household Buyer - Non-Occupier,
+W23,Celbridge,6,2011,All Dwelling Statuses,All Buyer Types,260250.0
+W23,Celbridge,6,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,209542.0
+W23,Celbridge,6,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,302273.0
+W23,Celbridge,6,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,181250.0
+W23,Celbridge,6,2011,New,All Buyer Types,198625.0
+W23,Celbridge,6,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,198625.0
+W23,Celbridge,6,2011,New,Household Buyer - Former Owner-Occupier,
+W23,Celbridge,6,2011,New,Household Buyer - Non-Occupier,
+W23,Celbridge,6,2011,Existing,All Buyer Types,267500.0
+W23,Celbridge,6,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,215000.0
+W23,Celbridge,6,2011,Existing,Household Buyer - Former Owner-Occupier,302273.0
+W23,Celbridge,6,2011,Existing,Household Buyer - Non-Occupier,181250.0
+W23,Celbridge,7,2011,All Dwelling Statuses,All Buyer Types,322990.0
+W23,Celbridge,7,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,258933.0
+W23,Celbridge,7,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,381708.0
+W23,Celbridge,7,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+W23,Celbridge,7,2011,New,All Buyer Types,243690.0
+W23,Celbridge,7,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,270754.0
+W23,Celbridge,7,2011,New,Household Buyer - Former Owner-Occupier,162499.0
+W23,Celbridge,7,2011,New,Household Buyer - Non-Occupier,
+W23,Celbridge,7,2011,Existing,All Buyer Types,339684.0
+W23,Celbridge,7,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,254500.0
+W23,Celbridge,7,2011,Existing,Household Buyer - Former Owner-Occupier,401636.0
+W23,Celbridge,7,2011,Existing,Household Buyer - Non-Occupier,
+W23,Celbridge,8,2011,All Dwelling Statuses,All Buyer Types,250628.0
+W23,Celbridge,8,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,296329.0
+W23,Celbridge,8,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,246333.0
+W23,Celbridge,8,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,110000.0
+W23,Celbridge,8,2011,New,All Buyer Types,321401.0
+W23,Celbridge,8,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,321401.0
+W23,Celbridge,8,2011,New,Household Buyer - Former Owner-Occupier,
+W23,Celbridge,8,2011,New,Household Buyer - Non-Occupier,
+W23,Celbridge,8,2011,Existing,All Buyer Types,241781.0
+W23,Celbridge,8,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,286300.0
+W23,Celbridge,8,2011,Existing,Household Buyer - Former Owner-Occupier,246333.0
+W23,Celbridge,8,2011,Existing,Household Buyer - Non-Occupier,110000.0
+W23,Celbridge,9,2011,All Dwelling Statuses,All Buyer Types,261951.0
+W23,Celbridge,9,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,244750.0
+W23,Celbridge,9,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,292369.0
+W23,Celbridge,9,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,212583.0
+W23,Celbridge,9,2011,New,All Buyer Types,286818.0
+W23,Celbridge,9,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,260000.0
+W23,Celbridge,9,2011,New,Household Buyer - Former Owner-Occupier,379090.0
+W23,Celbridge,9,2011,New,Household Buyer - Non-Occupier,265000.0
+W23,Celbridge,9,2011,Existing,All Buyer Types,254637.0
+W23,Celbridge,9,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,239667.0
+W23,Celbridge,9,2011,Existing,Household Buyer - Former Owner-Occupier,284485.0
+W23,Celbridge,9,2011,Existing,Household Buyer - Non-Occupier,160167.0
+W23,Celbridge,10,2011,All Dwelling Statuses,All Buyer Types,230732.0
+W23,Celbridge,10,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,234188.0
+W23,Celbridge,10,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,229850.0
+W23,Celbridge,10,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,205000.0
+W23,Celbridge,10,2011,New,All Buyer Types,193458.0
+W23,Celbridge,10,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,187688.0
+W23,Celbridge,10,2011,New,Household Buyer - Former Owner-Occupier,
+W23,Celbridge,10,2011,New,Household Buyer - Non-Occupier,205000.0
+W23,Celbridge,10,2011,Existing,All Buyer Types,236944.0
+W23,Celbridge,10,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,245813.0
+W23,Celbridge,10,2011,Existing,Household Buyer - Former Owner-Occupier,229850.0
+W23,Celbridge,10,2011,Existing,Household Buyer - Non-Occupier,
+W23,Celbridge,11,2011,All Dwelling Statuses,All Buyer Types,257129.0
+W23,Celbridge,11,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,228008.0
+W23,Celbridge,11,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,286250.0
+W23,Celbridge,11,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+W23,Celbridge,11,2011,New,All Buyer Types,341532.0
+W23,Celbridge,11,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,383063.0
+W23,Celbridge,11,2011,New,Household Buyer - Former Owner-Occupier,300000.0
+W23,Celbridge,11,2011,New,Household Buyer - Non-Occupier,
+W23,Celbridge,11,2011,Existing,All Buyer Types,245071.0
+W23,Celbridge,11,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,205857.0
+W23,Celbridge,11,2011,Existing,Household Buyer - Former Owner-Occupier,284286.0
+W23,Celbridge,11,2011,Existing,Household Buyer - Non-Occupier,
+W23,Celbridge,12,2011,All Dwelling Statuses,All Buyer Types,250835.0
+W23,Celbridge,12,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,188333.0
+W23,Celbridge,12,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,298917.0
+W23,Celbridge,12,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,322908.0
+W23,Celbridge,12,2011,New,All Buyer Types,315068.0
+W23,Celbridge,12,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,254998.0
+W23,Celbridge,12,2011,New,Household Buyer - Former Owner-Occupier,328125.0
+W23,Celbridge,12,2011,New,Household Buyer - Non-Occupier,322908.0
+W23,Celbridge,12,2011,Existing,All Buyer Types,237071.0
+W23,Celbridge,12,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,183571.0
+W23,Celbridge,12,2011,Existing,Household Buyer - Former Owner-Occupier,290571.0
+W23,Celbridge,12,2011,Existing,Household Buyer - Non-Occupier,
+W23,Celbridge,1,2012,All Dwelling Statuses,All Buyer Types,233082.0
+W23,Celbridge,1,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,240065.0
+W23,Celbridge,1,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,315000.0
+W23,Celbridge,1,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,116250.0
+W23,Celbridge,1,2012,New,All Buyer Types,330930.0
+W23,Celbridge,1,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,318663.0
+W23,Celbridge,1,2012,New,Household Buyer - Former Owner-Occupier,380000.0
+W23,Celbridge,1,2012,New,Household Buyer - Non-Occupier,
+W23,Celbridge,1,2012,Existing,All Buyer Types,178722.0
+W23,Celbridge,1,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,187667.0
+W23,Celbridge,1,2012,Existing,Household Buyer - Former Owner-Occupier,250000.0
+W23,Celbridge,1,2012,Existing,Household Buyer - Non-Occupier,116250.0
+W23,Celbridge,2,2012,All Dwelling Statuses,All Buyer Types,210714.0
+W23,Celbridge,2,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,205188.0
+W23,Celbridge,2,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,224700.0
+W23,Celbridge,2,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,185000.0
+W23,Celbridge,2,2012,New,All Buyer Types,215000.0
+W23,Celbridge,2,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,215000.0
+W23,Celbridge,2,2012,New,Household Buyer - Former Owner-Occupier,
+W23,Celbridge,2,2012,New,Household Buyer - Non-Occupier,
+W23,Celbridge,2,2012,Existing,All Buyer Types,210385.0
+W23,Celbridge,2,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,203786.0
+W23,Celbridge,2,2012,Existing,Household Buyer - Former Owner-Occupier,224700.0
+W23,Celbridge,2,2012,Existing,Household Buyer - Non-Occupier,185000.0
+W23,Celbridge,3,2012,All Dwelling Statuses,All Buyer Types,225444.0
+W23,Celbridge,3,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,227802.0
+W23,Celbridge,3,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,235130.0
+W23,Celbridge,3,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,105000.0
+W23,Celbridge,3,2012,New,All Buyer Types,323440.0
+W23,Celbridge,3,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,269510.0
+W23,Celbridge,3,2012,New,Household Buyer - Former Owner-Occupier,431300.0
+W23,Celbridge,3,2012,New,Household Buyer - Non-Occupier,
+W23,Celbridge,3,2012,Existing,All Buyer Types,209111.0
+W23,Celbridge,3,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,217375.0
+W23,Celbridge,3,2012,Existing,Household Buyer - Former Owner-Occupier,213333.0
+W23,Celbridge,3,2012,Existing,Household Buyer - Non-Occupier,105000.0
+W23,Celbridge,4,2012,All Dwelling Statuses,All Buyer Types,233543.0
+W23,Celbridge,4,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,276334.0
+W23,Celbridge,4,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,201450.0
+W23,Celbridge,4,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+W23,Celbridge,4,2012,New,All Buyer Types,448600.0
+W23,Celbridge,4,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,629501.0
+W23,Celbridge,4,2012,New,Household Buyer - Former Owner-Occupier,358150.0
+W23,Celbridge,4,2012,New,Household Buyer - Non-Occupier,
+W23,Celbridge,4,2012,Existing,All Buyer Types,174891.0
+W23,Celbridge,4,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,205700.0
+W23,Celbridge,4,2012,Existing,Household Buyer - Former Owner-Occupier,149217.0
+W23,Celbridge,4,2012,Existing,Household Buyer - Non-Occupier,
+W23,Celbridge,5,2012,All Dwelling Statuses,All Buyer Types,236700.0
+W23,Celbridge,5,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,250425.0
+W23,Celbridge,5,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,252704.0
+W23,Celbridge,5,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,154375.0
+W23,Celbridge,5,2012,New,All Buyer Types,317340.0
+W23,Celbridge,5,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,313916.0
+W23,Celbridge,5,2012,New,Household Buyer - Former Owner-Occupier,322475.0
+W23,Celbridge,5,2012,New,Household Buyer - Non-Occupier,
+W23,Celbridge,5,2012,Existing,All Buyer Types,217500.0
+W23,Celbridge,5,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,223214.0
+W23,Celbridge,5,2012,Existing,Household Buyer - Former Owner-Occupier,238750.0
+W23,Celbridge,5,2012,Existing,Household Buyer - Non-Occupier,154375.0
+W23,Celbridge,6,2012,All Dwelling Statuses,All Buyer Types,231359.0
+W23,Celbridge,6,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,209550.0
+W23,Celbridge,6,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,265399.0
+W23,Celbridge,6,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,75000.0
+W23,Celbridge,6,2012,New,All Buyer Types,377297.0
+W23,Celbridge,6,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+W23,Celbridge,6,2012,New,Household Buyer - Former Owner-Occupier,377297.0
+W23,Celbridge,6,2012,New,Household Buyer - Non-Occupier,
+W23,Celbridge,6,2012,Existing,All Buyer Types,208316.0
+W23,Celbridge,6,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,209550.0
+W23,Celbridge,6,2012,Existing,Household Buyer - Former Owner-Occupier,223438.0
+W23,Celbridge,6,2012,Existing,Household Buyer - Non-Occupier,75000.0
+W23,Celbridge,7,2012,All Dwelling Statuses,All Buyer Types,241110.0
+W23,Celbridge,7,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,222125.0
+W23,Celbridge,7,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,269673.0
+W23,Celbridge,7,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,186250.0
+W23,Celbridge,7,2012,New,All Buyer Types,281168.0
+W23,Celbridge,7,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,289625.0
+W23,Celbridge,7,2012,New,Household Buyer - Former Owner-Occupier,264253.0
+W23,Celbridge,7,2012,New,Household Buyer - Non-Occupier,
+W23,Celbridge,7,2012,Existing,All Buyer Types,228461.0
+W23,Celbridge,7,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,154625.0
+W23,Celbridge,7,2012,Existing,Household Buyer - Former Owner-Occupier,270659.0
+W23,Celbridge,7,2012,Existing,Household Buyer - Non-Occupier,186250.0
+W23,Celbridge,8,2012,All Dwelling Statuses,All Buyer Types,298124.0
+W23,Celbridge,8,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,257556.0
+W23,Celbridge,8,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,334912.0
+W23,Celbridge,8,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,185000.0
+W23,Celbridge,8,2012,New,All Buyer Types,286117.0
+W23,Celbridge,8,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+W23,Celbridge,8,2012,New,Household Buyer - Former Owner-Occupier,291675.0
+W23,Celbridge,8,2012,New,Household Buyer - Non-Occupier,
+W23,Celbridge,8,2012,Existing,All Buyer Types,299925.0
+W23,Celbridge,8,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,255375.0
+W23,Celbridge,8,2012,Existing,Household Buyer - Former Owner-Occupier,342773.0
+W23,Celbridge,8,2012,Existing,Household Buyer - Non-Occupier,185000.0
+W23,Celbridge,9,2012,All Dwelling Statuses,All Buyer Types,215339.0
+W23,Celbridge,9,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,220633.0
+W23,Celbridge,9,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,211491.0
+W23,Celbridge,9,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,185000.0
+W23,Celbridge,9,2012,New,All Buyer Types,231227.0
+W23,Celbridge,9,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,227241.0
+W23,Celbridge,9,2012,New,Household Buyer - Former Owner-Occupier,237206.0
+W23,Celbridge,9,2012,New,Household Buyer - Non-Occupier,
+W23,Celbridge,9,2012,Existing,All Buyer Types,211158.0
+W23,Celbridge,9,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,218650.0
+W23,Celbridge,9,2012,Existing,Household Buyer - Former Owner-Occupier,205063.0
+W23,Celbridge,9,2012,Existing,Household Buyer - Non-Occupier,185000.0
+W23,Celbridge,10,2012,All Dwelling Statuses,All Buyer Types,211172.0
+W23,Celbridge,10,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,222777.0
+W23,Celbridge,10,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,214057.0
+W23,Celbridge,10,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,140667.0
+W23,Celbridge,10,2012,New,All Buyer Types,240893.0
+W23,Celbridge,10,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,251282.0
+W23,Celbridge,10,2012,New,Household Buyer - Former Owner-Occupier,265672.0
+W23,Celbridge,10,2012,New,Household Buyer - Non-Occupier,125000.0
+W23,Celbridge,10,2012,Existing,All Buyer Types,202027.0
+W23,Celbridge,10,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,211375.0
+W23,Celbridge,10,2012,Existing,Household Buyer - Former Owner-Occupier,202996.0
+W23,Celbridge,10,2012,Existing,Household Buyer - Non-Occupier,148500.0
+W23,Celbridge,11,2012,All Dwelling Statuses,All Buyer Types,209969.0
+W23,Celbridge,11,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,237202.0
+W23,Celbridge,11,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,201077.0
+W23,Celbridge,11,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,148000.0
+W23,Celbridge,11,2012,New,All Buyer Types,305707.0
+W23,Celbridge,11,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,351698.0
+W23,Celbridge,11,2012,New,Household Buyer - Former Owner-Occupier,259716.0
+W23,Celbridge,11,2012,New,Household Buyer - Non-Occupier,
+W23,Celbridge,11,2012,Existing,All Buyer Types,188694.0
+W23,Celbridge,11,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,205976.0
+W23,Celbridge,11,2012,Existing,Household Buyer - Former Owner-Occupier,186417.0
+W23,Celbridge,11,2012,Existing,Household Buyer - Non-Occupier,148000.0
+W23,Celbridge,12,2012,All Dwelling Statuses,All Buyer Types,255466.0
+W23,Celbridge,12,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,240937.0
+W23,Celbridge,12,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,272833.0
+W23,Celbridge,12,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,165000.0
+W23,Celbridge,12,2012,New,All Buyer Types,306865.0
+W23,Celbridge,12,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,281124.0
+W23,Celbridge,12,2012,New,Household Buyer - Former Owner-Occupier,362638.0
+W23,Celbridge,12,2012,New,Household Buyer - Non-Occupier,
+W23,Celbridge,12,2012,Existing,All Buyer Types,238333.0
+W23,Celbridge,12,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220040.0
+W23,Celbridge,12,2012,Existing,Household Buyer - Former Owner-Occupier,255452.0
+W23,Celbridge,12,2012,Existing,Household Buyer - Non-Occupier,165000.0
+W23,Celbridge,1,2013,All Dwelling Statuses,All Buyer Types,247477.0
+W23,Celbridge,1,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,213000.0
+W23,Celbridge,1,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,290715.0
+W23,Celbridge,1,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,126333.0
+W23,Celbridge,1,2013,New,All Buyer Types,333275.0
+W23,Celbridge,1,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+W23,Celbridge,1,2013,New,Household Buyer - Former Owner-Occupier,333275.0
+W23,Celbridge,1,2013,New,Household Buyer - Non-Occupier,
+W23,Celbridge,1,2013,Existing,All Buyer Types,234277.0
+W23,Celbridge,1,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,213000.0
+W23,Celbridge,1,2013,Existing,Household Buyer - Former Owner-Occupier,280075.0
+W23,Celbridge,1,2013,Existing,Household Buyer - Non-Occupier,126333.0
+W23,Celbridge,2,2013,All Dwelling Statuses,All Buyer Types,261136.0
+W23,Celbridge,2,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,221281.0
+W23,Celbridge,2,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,324222.0
+W23,Celbridge,2,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,88500.0
+W23,Celbridge,2,2013,New,All Buyer Types,240914.0
+W23,Celbridge,2,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,269563.0
+W23,Celbridge,2,2013,New,Household Buyer - Former Owner-Occupier,267819.0
+W23,Celbridge,2,2013,New,Household Buyer - Non-Occupier,76000.0
+W23,Celbridge,2,2013,Existing,All Buyer Types,281357.0
+W23,Celbridge,2,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,173000.0
+W23,Celbridge,2,2013,Existing,Household Buyer - Former Owner-Occupier,380625.0
+W23,Celbridge,2,2013,Existing,Household Buyer - Non-Occupier,101000.0
+W23,Celbridge,3,2013,All Dwelling Statuses,All Buyer Types,208408.0
+W23,Celbridge,3,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+W23,Celbridge,3,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,226300.0
+W23,Celbridge,3,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,181550.0
+W23,Celbridge,3,2013,New,All Buyer Types,283289.0
+W23,Celbridge,3,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,274999.0
+W23,Celbridge,3,2013,New,Household Buyer - Former Owner-Occupier,295725.0
+W23,Celbridge,3,2013,New,Household Buyer - Non-Occupier,274998.0
+W23,Celbridge,3,2013,Existing,All Buyer Types,188703.0
+W23,Celbridge,3,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,168333.0
+W23,Celbridge,3,2013,Existing,Household Buyer - Former Owner-Occupier,212415.0
+W23,Celbridge,3,2013,Existing,Household Buyer - Non-Occupier,150400.0
+W23,Celbridge,4,2013,All Dwelling Statuses,All Buyer Types,250939.0
+W23,Celbridge,4,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,212098.0
+W23,Celbridge,4,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,255521.0
+W23,Celbridge,4,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,366667.0
+W23,Celbridge,4,2013,New,All Buyer Types,318932.0
+W23,Celbridge,4,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,321738.0
+W23,Celbridge,4,2013,New,Household Buyer - Former Owner-Occupier,330594.0
+W23,Celbridge,4,2013,New,Household Buyer - Non-Occupier,290000.0
+W23,Celbridge,4,2013,Existing,All Buyer Types,230941.0
+W23,Celbridge,4,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,184688.0
+W23,Celbridge,4,2013,Existing,Household Buyer - Former Owner-Occupier,234071.0
+W23,Celbridge,4,2013,Existing,Household Buyer - Non-Occupier,405000.0
+W23,Celbridge,5,2013,All Dwelling Statuses,All Buyer Types,257987.0
+W23,Celbridge,5,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,221315.0
+W23,Celbridge,5,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,299813.0
+W23,Celbridge,5,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,178700.0
+W23,Celbridge,5,2013,New,All Buyer Types,318405.0
+W23,Celbridge,5,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,230755.0
+W23,Celbridge,5,2013,New,Household Buyer - Former Owner-Occupier,381737.0
+W23,Celbridge,5,2013,New,Household Buyer - Non-Occupier,250000.0
+W23,Celbridge,5,2013,Existing,All Buyer Types,221211.0
+W23,Celbridge,5,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,214571.0
+W23,Celbridge,5,2013,Existing,Household Buyer - Former Owner-Occupier,245196.0
+W23,Celbridge,5,2013,Existing,Household Buyer - Non-Occupier,160875.0
+W23,Celbridge,6,2013,All Dwelling Statuses,All Buyer Types,255303.0
+W23,Celbridge,6,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,248229.0
+W23,Celbridge,6,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,266909.0
+W23,Celbridge,6,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,235000.0
+W23,Celbridge,6,2013,New,All Buyer Types,288235.0
+W23,Celbridge,6,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,275351.0
+W23,Celbridge,6,2013,New,Household Buyer - Former Owner-Occupier,311426.0
+W23,Celbridge,6,2013,New,Household Buyer - Non-Occupier,
+W23,Celbridge,6,2013,Existing,All Buyer Types,232250.0
+W23,Celbridge,6,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,213357.0
+W23,Celbridge,6,2013,Existing,Household Buyer - Former Owner-Occupier,244651.0
+W23,Celbridge,6,2013,Existing,Household Buyer - Non-Occupier,235000.0
+W23,Celbridge,7,2013,All Dwelling Statuses,All Buyer Types,242226.0
+W23,Celbridge,7,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225282.0
+W23,Celbridge,7,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,270051.0
+W23,Celbridge,7,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,160000.0
+W23,Celbridge,7,2013,New,All Buyer Types,317100.0
+W23,Celbridge,7,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,264743.0
+W23,Celbridge,7,2013,New,Household Buyer - Former Owner-Occupier,343278.0
+W23,Celbridge,7,2013,New,Household Buyer - Non-Occupier,
+W23,Celbridge,7,2013,Existing,All Buyer Types,217269.0
+W23,Celbridge,7,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,215417.0
+W23,Celbridge,7,2013,Existing,Household Buyer - Former Owner-Occupier,233438.0
+W23,Celbridge,7,2013,Existing,Household Buyer - Non-Occupier,160000.0
+W23,Celbridge,8,2013,All Dwelling Statuses,All Buyer Types,259987.0
+W23,Celbridge,8,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,197173.0
+W23,Celbridge,8,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,293995.0
+W23,Celbridge,8,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,329870.0
+W23,Celbridge,8,2013,New,All Buyer Types,244881.0
+W23,Celbridge,8,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,249038.0
+W23,Celbridge,8,2013,New,Household Buyer - Former Owner-Occupier,200860.0
+W23,Celbridge,8,2013,New,Household Buyer - Non-Occupier,324610.0
+W23,Celbridge,8,2013,Existing,All Buyer Types,262892.0
+W23,Celbridge,8,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,186800.0
+W23,Celbridge,8,2013,Existing,Household Buyer - Former Owner-Occupier,307300.0
+W23,Celbridge,8,2013,Existing,Household Buyer - Non-Occupier,332500.0
+W23,Celbridge,9,2013,All Dwelling Statuses,All Buyer Types,225392.0
+W23,Celbridge,9,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,209530.0
+W23,Celbridge,9,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,239121.0
+W23,Celbridge,9,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,198000.0
+W23,Celbridge,9,2013,New,All Buyer Types,251876.0
+W23,Celbridge,9,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,205981.0
+W23,Celbridge,9,2013,New,Household Buyer - Former Owner-Occupier,320719.0
+W23,Celbridge,9,2013,New,Household Buyer - Non-Occupier,
+W23,Celbridge,9,2013,Existing,All Buyer Types,216563.0
+W23,Celbridge,9,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,212571.0
+W23,Celbridge,9,2013,Existing,Household Buyer - Former Owner-Occupier,221942.0
+W23,Celbridge,9,2013,Existing,Household Buyer - Non-Occupier,198000.0
+W23,Celbridge,10,2013,All Dwelling Statuses,All Buyer Types,259214.0
+W23,Celbridge,10,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,221323.0
+W23,Celbridge,10,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,289429.0
+W23,Celbridge,10,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,205500.0
+W23,Celbridge,10,2013,New,All Buyer Types,327813.0
+W23,Celbridge,10,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,221419.0
+W23,Celbridge,10,2013,New,Household Buyer - Former Owner-Occupier,421211.0
+W23,Celbridge,10,2013,New,Household Buyer - Non-Occupier,180000.0
+W23,Celbridge,10,2013,Existing,All Buyer Types,237924.0
+W23,Celbridge,10,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,221250.0
+W23,Celbridge,10,2013,Existing,Household Buyer - Former Owner-Occupier,252822.0
+W23,Celbridge,10,2013,Existing,Household Buyer - Non-Occupier,209143.0
+W23,Celbridge,11,2013,All Dwelling Statuses,All Buyer Types,219216.0
+W23,Celbridge,11,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,226264.0
+W23,Celbridge,11,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,233127.0
+W23,Celbridge,11,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,119750.0
+W23,Celbridge,11,2013,New,All Buyer Types,279890.0
+W23,Celbridge,11,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,250116.0
+W23,Celbridge,11,2013,New,Household Buyer - Former Owner-Occupier,309665.0
+W23,Celbridge,11,2013,New,Household Buyer - Non-Occupier,
+W23,Celbridge,11,2013,Existing,All Buyer Types,204047.0
+W23,Celbridge,11,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,217591.0
+W23,Celbridge,11,2013,Existing,Household Buyer - Former Owner-Occupier,215118.0
+W23,Celbridge,11,2013,Existing,Household Buyer - Non-Occupier,119750.0
+W23,Celbridge,12,2013,All Dwelling Statuses,All Buyer Types,226135.0
+W23,Celbridge,12,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225199.0
+W23,Celbridge,12,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,301709.0
+W23,Celbridge,12,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,72500.0
+W23,Celbridge,12,2013,New,All Buyer Types,357653.0
+W23,Celbridge,12,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,184963.0
+W23,Celbridge,12,2013,New,Household Buyer - Former Owner-Occupier,404750.0
+W23,Celbridge,12,2013,New,Household Buyer - Non-Occupier,
+W23,Celbridge,12,2013,Existing,All Buyer Types,201908.0
+W23,Celbridge,12,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,233821.0
+W23,Celbridge,12,2013,Existing,Household Buyer - Former Owner-Occupier,271882.0
+W23,Celbridge,12,2013,Existing,Household Buyer - Non-Occupier,72500.0
+W23,Celbridge,1,2014,All Dwelling Statuses,All Buyer Types,249555.0
+W23,Celbridge,1,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,254538.0
+W23,Celbridge,1,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,286167.0
+W23,Celbridge,1,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,164688.0
+W23,Celbridge,1,2014,New,All Buyer Types,345788.0
+W23,Celbridge,1,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,276575.0
+W23,Celbridge,1,2014,New,Household Buyer - Former Owner-Occupier,415000.0
+W23,Celbridge,1,2014,New,Household Buyer - Non-Occupier,
+W23,Celbridge,1,2014,Existing,All Buyer Types,234750.0
+W23,Celbridge,1,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,232500.0
+W23,Celbridge,1,2014,Existing,Household Buyer - Former Owner-Occupier,270063.0
+W23,Celbridge,1,2014,Existing,Household Buyer - Non-Occupier,164688.0
+W23,Celbridge,2,2014,All Dwelling Statuses,All Buyer Types,246431.0
+W23,Celbridge,2,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225872.0
+W23,Celbridge,2,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,258629.0
+W23,Celbridge,2,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,250183.0
+W23,Celbridge,2,2014,New,All Buyer Types,310618.0
+W23,Celbridge,2,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,242319.0
+W23,Celbridge,2,2014,New,Household Buyer - Former Owner-Occupier,367533.0
+W23,Celbridge,2,2014,New,Household Buyer - Non-Occupier,
+W23,Celbridge,2,2014,Existing,All Buyer Types,214337.0
+W23,Celbridge,2,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,212167.0
+W23,Celbridge,2,2014,Existing,Household Buyer - Former Owner-Occupier,199227.0
+W23,Celbridge,2,2014,Existing,Household Buyer - Non-Occupier,250183.0
+W23,Celbridge,3,2014,All Dwelling Statuses,All Buyer Types,286604.0
+W23,Celbridge,3,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180606.0
+W23,Celbridge,3,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,381967.0
+W23,Celbridge,3,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,112000.0
+W23,Celbridge,3,2014,New,All Buyer Types,331722.0
+W23,Celbridge,3,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,244759.0
+W23,Celbridge,3,2014,New,Household Buyer - Former Owner-Occupier,368992.0
+W23,Celbridge,3,2014,New,Household Buyer - Non-Occupier,
+W23,Celbridge,3,2014,Existing,All Buyer Types,265119.0
+W23,Celbridge,3,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,159222.0
+W23,Celbridge,3,2014,Existing,Household Buyer - Former Owner-Occupier,391050.0
+W23,Celbridge,3,2014,Existing,Household Buyer - Non-Occupier,112000.0
+W23,Celbridge,4,2014,All Dwelling Statuses,All Buyer Types,288202.0
+W23,Celbridge,4,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,209357.0
+W23,Celbridge,4,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,341931.0
+W23,Celbridge,4,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,168500.0
+W23,Celbridge,4,2014,New,All Buyer Types,357330.0
+W23,Celbridge,4,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,222500.0
+W23,Celbridge,4,2014,New,Household Buyer - Former Owner-Occupier,387292.0
+W23,Celbridge,4,2014,New,Household Buyer - Non-Occupier,
+W23,Celbridge,4,2014,Existing,All Buyer Types,262855.0
+W23,Celbridge,4,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,207167.0
+W23,Celbridge,4,2014,Existing,Household Buyer - Former Owner-Occupier,316416.0
+W23,Celbridge,4,2014,Existing,Household Buyer - Non-Occupier,168500.0
+W23,Celbridge,5,2014,All Dwelling Statuses,All Buyer Types,343772.0
+W23,Celbridge,5,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,281309.0
+W23,Celbridge,5,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,316432.0
+W23,Celbridge,5,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,620996.0
+W23,Celbridge,5,2014,New,All Buyer Types,309023.0
+W23,Celbridge,5,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,325087.0
+W23,Celbridge,5,2014,New,Household Buyer - Former Owner-Occupier,343500.0
+W23,Celbridge,5,2014,New,Household Buyer - Non-Occupier,191875.0
+W23,Celbridge,5,2014,Existing,All Buyer Types,349118.0
+W23,Celbridge,5,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,271929.0
+W23,Celbridge,5,2014,Existing,Household Buyer - Former Owner-Occupier,313725.0
+W23,Celbridge,5,2014,Existing,Household Buyer - Non-Occupier,706820.0
+W23,Celbridge,6,2014,All Dwelling Statuses,All Buyer Types,292423.0
+W23,Celbridge,6,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,270253.0
+W23,Celbridge,6,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,325520.0
+W23,Celbridge,6,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,206250.0
+W23,Celbridge,6,2014,New,All Buyer Types,393254.0
+W23,Celbridge,6,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,266091.0
+W23,Celbridge,6,2014,New,Household Buyer - Former Owner-Occupier,520417.0
+W23,Celbridge,6,2014,New,Household Buyer - Non-Occupier,
+W23,Celbridge,6,2014,Existing,All Buyer Types,255758.0
+W23,Celbridge,6,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,273375.0
+W23,Celbridge,6,2014,Existing,Household Buyer - Former Owner-Occupier,263974.0
+W23,Celbridge,6,2014,Existing,Household Buyer - Non-Occupier,206250.0
+W23,Celbridge,7,2014,All Dwelling Statuses,All Buyer Types,276932.0
+W23,Celbridge,7,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,256645.0
+W23,Celbridge,7,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,303428.0
+W23,Celbridge,7,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,182750.0
+W23,Celbridge,7,2014,New,All Buyer Types,367776.0
+W23,Celbridge,7,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,257422.0
+W23,Celbridge,7,2014,New,Household Buyer - Former Owner-Occupier,436747.0
+W23,Celbridge,7,2014,New,Household Buyer - Non-Occupier,
+W23,Celbridge,7,2014,Existing,All Buyer Types,245014.0
+W23,Celbridge,7,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,256346.0
+W23,Celbridge,7,2014,Existing,Household Buyer - Former Owner-Occupier,250100.0
+W23,Celbridge,7,2014,Existing,Household Buyer - Non-Occupier,182750.0
+W23,Celbridge,8,2014,All Dwelling Statuses,All Buyer Types,291536.0
+W23,Celbridge,8,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,246363.0
+W23,Celbridge,8,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,314361.0
+W23,Celbridge,8,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,334167.0
+W23,Celbridge,8,2014,New,All Buyer Types,322073.0
+W23,Celbridge,8,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,265377.0
+W23,Celbridge,8,2014,New,Household Buyer - Former Owner-Occupier,368459.0
+W23,Celbridge,8,2014,New,Household Buyer - Non-Occupier,
+W23,Celbridge,8,2014,Existing,All Buyer Types,273574.0
+W23,Celbridge,8,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,229250.0
+W23,Celbridge,8,2014,Existing,Household Buyer - Former Owner-Occupier,286024.0
+W23,Celbridge,8,2014,Existing,Household Buyer - Non-Occupier,334167.0
+W23,Celbridge,9,2014,All Dwelling Statuses,All Buyer Types,325089.0
+W23,Celbridge,9,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,308453.0
+W23,Celbridge,9,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,350920.0
+W23,Celbridge,9,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,265357.0
+W23,Celbridge,9,2014,New,All Buyer Types,384484.0
+W23,Celbridge,9,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,321525.0
+W23,Celbridge,9,2014,New,Household Buyer - Former Owner-Occupier,400867.0
+W23,Celbridge,9,2014,New,Household Buyer - Non-Occupier,644999.0
+W23,Celbridge,9,2014,Existing,All Buyer Types,298220.0
+W23,Celbridge,9,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,302734.0
+W23,Celbridge,9,2014,Existing,Household Buyer - Former Owner-Occupier,323450.0
+W23,Celbridge,9,2014,Existing,Household Buyer - Non-Occupier,202083.0
+W23,Celbridge,10,2014,All Dwelling Statuses,All Buyer Types,327041.0
+W23,Celbridge,10,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,289669.0
+W23,Celbridge,10,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,350142.0
+W23,Celbridge,10,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,342340.0
+W23,Celbridge,10,2014,New,All Buyer Types,350775.0
+W23,Celbridge,10,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,300510.0
+W23,Celbridge,10,2014,New,Household Buyer - Former Owner-Occupier,407792.0
+W23,Celbridge,10,2014,New,Household Buyer - Non-Occupier,259999.0
+W23,Celbridge,10,2014,Existing,All Buyer Types,320712.0
+W23,Celbridge,10,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,286281.0
+W23,Celbridge,10,2014,Existing,Household Buyer - Former Owner-Occupier,335729.0
+W23,Celbridge,10,2014,Existing,Household Buyer - Non-Occupier,358808.0
+W23,Celbridge,11,2014,All Dwelling Statuses,All Buyer Types,324539.0
+W23,Celbridge,11,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,263212.0
+W23,Celbridge,11,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,346423.0
+W23,Celbridge,11,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,418771.0
+W23,Celbridge,11,2014,New,All Buyer Types,394948.0
+W23,Celbridge,11,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,301906.0
+W23,Celbridge,11,2014,New,Household Buyer - Former Owner-Occupier,426993.0
+W23,Celbridge,11,2014,New,Household Buyer - Non-Occupier,661705.0
+W23,Celbridge,11,2014,Existing,All Buyer Types,291011.0
+W23,Celbridge,11,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,248164.0
+W23,Celbridge,11,2014,Existing,Household Buyer - Former Owner-Occupier,281967.0
+W23,Celbridge,11,2014,Existing,Household Buyer - Non-Occupier,391778.0
+W23,Celbridge,12,2014,All Dwelling Statuses,All Buyer Types,299001.0
+W23,Celbridge,12,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,240286.0
+W23,Celbridge,12,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,335483.0
+W23,Celbridge,12,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,219115.0
+W23,Celbridge,12,2014,New,All Buyer Types,357800.0
+W23,Celbridge,12,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,254000.0
+W23,Celbridge,12,2014,New,Household Buyer - Former Owner-Occupier,424112.0
+W23,Celbridge,12,2014,New,Household Buyer - Non-Occupier,280000.0
+W23,Celbridge,12,2014,Existing,All Buyer Types,285002.0
+W23,Celbridge,12,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,232667.0
+W23,Celbridge,12,2014,Existing,Household Buyer - Former Owner-Occupier,316490.0
+W23,Celbridge,12,2014,Existing,Household Buyer - Non-Occupier,214042.0
+W23,Celbridge,1,2015,All Dwelling Statuses,All Buyer Types,283020.0
+W23,Celbridge,1,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,281740.0
+W23,Celbridge,1,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,288188.0
+W23,Celbridge,1,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,271250.0
+W23,Celbridge,1,2015,New,All Buyer Types,296388.0
+W23,Celbridge,1,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,265665.0
+W23,Celbridge,1,2015,New,Household Buyer - Former Owner-Occupier,320868.0
+W23,Celbridge,1,2015,New,Household Buyer - Non-Occupier,272400.0
+W23,Celbridge,1,2015,Existing,All Buyer Types,278564.0
+W23,Celbridge,1,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,294600.0
+W23,Celbridge,1,2015,Existing,Household Buyer - Former Owner-Occupier,277868.0
+W23,Celbridge,1,2015,Existing,Household Buyer - Non-Occupier,271122.0
+W23,Celbridge,2,2015,All Dwelling Statuses,All Buyer Types,315305.0
+W23,Celbridge,2,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,289187.0
+W23,Celbridge,2,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,363304.0
+W23,Celbridge,2,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,193667.0
+W23,Celbridge,2,2015,New,All Buyer Types,305033.0
+W23,Celbridge,2,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,288715.0
+W23,Celbridge,2,2015,New,Household Buyer - Former Owner-Occupier,364863.0
+W23,Celbridge,2,2015,New,Household Buyer - Non-Occupier,
+W23,Celbridge,2,2015,Existing,All Buyer Types,319414.0
+W23,Celbridge,2,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,289929.0
+W23,Celbridge,2,2015,Existing,Household Buyer - Former Owner-Occupier,363091.0
+W23,Celbridge,2,2015,Existing,Household Buyer - Non-Occupier,193667.0
+W23,Celbridge,3,2015,All Dwelling Statuses,All Buyer Types,272301.0
+W23,Celbridge,3,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,265622.0
+W23,Celbridge,3,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,295538.0
+W23,Celbridge,3,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,172200.0
+W23,Celbridge,3,2015,New,All Buyer Types,303257.0
+W23,Celbridge,3,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,234079.0
+W23,Celbridge,3,2015,New,Household Buyer - Former Owner-Occupier,334002.0
+W23,Celbridge,3,2015,New,Household Buyer - Non-Occupier,
+W23,Celbridge,3,2015,Existing,All Buyer Types,261711.0
+W23,Celbridge,3,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,274033.0
+W23,Celbridge,3,2015,Existing,Household Buyer - Former Owner-Occupier,276306.0
+W23,Celbridge,3,2015,Existing,Household Buyer - Non-Occupier,172200.0
+W23,Celbridge,4,2015,All Dwelling Statuses,All Buyer Types,313194.0
+W23,Celbridge,4,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,289283.0
+W23,Celbridge,4,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,353488.0
+W23,Celbridge,4,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,155125.0
+W23,Celbridge,4,2015,New,All Buyer Types,361677.0
+W23,Celbridge,4,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,321779.0
+W23,Celbridge,4,2015,New,Household Buyer - Former Owner-Occupier,400735.0
+W23,Celbridge,4,2015,New,Household Buyer - Non-Occupier,328500.0
+W23,Celbridge,4,2015,Existing,All Buyer Types,283359.0
+W23,Celbridge,4,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,256786.0
+W23,Celbridge,4,2015,Existing,Household Buyer - Former Owner-Occupier,329865.0
+W23,Celbridge,4,2015,Existing,Household Buyer - Non-Occupier,97333.0
+W23,Celbridge,5,2015,All Dwelling Statuses,All Buyer Types,283198.0
+W23,Celbridge,5,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,267158.0
+W23,Celbridge,5,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,303482.0
+W23,Celbridge,5,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,182250.0
+W23,Celbridge,5,2015,New,All Buyer Types,321650.0
+W23,Celbridge,5,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,259443.0
+W23,Celbridge,5,2015,New,Household Buyer - Former Owner-Occupier,366083.0
+W23,Celbridge,5,2015,New,Household Buyer - Non-Occupier,
+W23,Celbridge,5,2015,Existing,All Buyer Types,268313.0
+W23,Celbridge,5,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,271444.0
+W23,Celbridge,5,2015,Existing,Household Buyer - Former Owner-Occupier,280418.0
+W23,Celbridge,5,2015,Existing,Household Buyer - Non-Occupier,182250.0
+W23,Celbridge,6,2015,All Dwelling Statuses,All Buyer Types,296417.0
+W23,Celbridge,6,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,285736.0
+W23,Celbridge,6,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,321671.0
+W23,Celbridge,6,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,224333.0
+W23,Celbridge,6,2015,New,All Buyer Types,350031.0
+W23,Celbridge,6,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,326743.0
+W23,Celbridge,6,2015,New,Household Buyer - Former Owner-Occupier,388846.0
+W23,Celbridge,6,2015,New,Household Buyer - Non-Occupier,
+W23,Celbridge,6,2015,Existing,All Buyer Types,272589.0
+W23,Celbridge,6,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,254192.0
+W23,Celbridge,6,2015,Existing,Household Buyer - Former Owner-Occupier,299280.0
+W23,Celbridge,6,2015,Existing,Household Buyer - Non-Occupier,224333.0
+W23,Celbridge,7,2015,All Dwelling Statuses,All Buyer Types,286796.0
+W23,Celbridge,7,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,290795.0
+W23,Celbridge,7,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,287665.0
+W23,Celbridge,7,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,268625.0
+W23,Celbridge,7,2015,New,All Buyer Types,359971.0
+W23,Celbridge,7,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,358033.0
+W23,Celbridge,7,2015,New,Household Buyer - Former Owner-Occupier,373197.0
+W23,Celbridge,7,2015,New,Household Buyer - Non-Occupier,246749.0
+W23,Celbridge,7,2015,Existing,All Buyer Types,267770.0
+W23,Celbridge,7,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,278188.0
+W23,Celbridge,7,2015,Existing,Household Buyer - Former Owner-Occupier,261121.0
+W23,Celbridge,7,2015,Existing,Household Buyer - Non-Occupier,273000.0
+W23,Celbridge,8,2015,All Dwelling Statuses,All Buyer Types,313817.0
+W23,Celbridge,8,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,304097.0
+W23,Celbridge,8,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,333424.0
+W23,Celbridge,8,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,237100.0
+W23,Celbridge,8,2015,New,All Buyer Types,328257.0
+W23,Celbridge,8,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,322141.0
+W23,Celbridge,8,2015,New,Household Buyer - Former Owner-Occupier,340489.0
+W23,Celbridge,8,2015,New,Household Buyer - Non-Occupier,
+W23,Celbridge,8,2015,Existing,All Buyer Types,308866.0
+W23,Celbridge,8,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,283475.0
+W23,Celbridge,8,2015,Existing,Household Buyer - Former Owner-Occupier,332196.0
+W23,Celbridge,8,2015,Existing,Household Buyer - Non-Occupier,237100.0
+W23,Celbridge,9,2015,All Dwelling Statuses,All Buyer Types,293750.0
+W23,Celbridge,9,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,272758.0
+W23,Celbridge,9,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,303684.0
+W23,Celbridge,9,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,332500.0
+W23,Celbridge,9,2015,New,All Buyer Types,321748.0
+W23,Celbridge,9,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,295381.0
+W23,Celbridge,9,2015,New,Household Buyer - Former Owner-Occupier,349755.0
+W23,Celbridge,9,2015,New,Household Buyer - Non-Occupier,335000.0
+W23,Celbridge,9,2015,Existing,All Buyer Types,281751.0
+W23,Celbridge,9,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,258214.0
+W23,Celbridge,9,2015,Existing,Household Buyer - Former Owner-Occupier,288942.0
+W23,Celbridge,9,2015,Existing,Household Buyer - Non-Occupier,331667.0
+W23,Celbridge,10,2015,All Dwelling Statuses,All Buyer Types,307085.0
+W23,Celbridge,10,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,286382.0
+W23,Celbridge,10,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,341165.0
+W23,Celbridge,10,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,186286.0
+W23,Celbridge,10,2015,New,All Buyer Types,341121.0
+W23,Celbridge,10,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,308943.0
+W23,Celbridge,10,2015,New,Household Buyer - Former Owner-Occupier,356329.0
+W23,Celbridge,10,2015,New,Household Buyer - Non-Occupier,339999.0
+W23,Celbridge,10,2015,Existing,All Buyer Types,287848.0
+W23,Celbridge,10,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,275765.0
+W23,Celbridge,10,2015,Existing,Household Buyer - Former Owner-Occupier,329957.0
+W23,Celbridge,10,2015,Existing,Household Buyer - Non-Occupier,160667.0
+W23,Celbridge,11,2015,All Dwelling Statuses,All Buyer Types,304734.0
+W23,Celbridge,11,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,293623.0
+W23,Celbridge,11,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,324562.0
+W23,Celbridge,11,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,221500.0
+W23,Celbridge,11,2015,New,All Buyer Types,371176.0
+W23,Celbridge,11,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,398321.0
+W23,Celbridge,11,2015,New,Household Buyer - Former Owner-Occupier,360997.0
+W23,Celbridge,11,2015,New,Household Buyer - Non-Occupier,
+W23,Celbridge,11,2015,Existing,All Buyer Types,286909.0
+W23,Celbridge,11,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,275147.0
+W23,Celbridge,11,2015,Existing,Household Buyer - Former Owner-Occupier,309988.0
+W23,Celbridge,11,2015,Existing,Household Buyer - Non-Occupier,221500.0
+W23,Celbridge,12,2015,All Dwelling Statuses,All Buyer Types,322439.0
+W23,Celbridge,12,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,299270.0
+W23,Celbridge,12,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,338665.0
+W23,Celbridge,12,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,229667.0
+W23,Celbridge,12,2015,New,All Buyer Types,362192.0
+W23,Celbridge,12,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,328393.0
+W23,Celbridge,12,2015,New,Household Buyer - Former Owner-Occupier,393175.0
+W23,Celbridge,12,2015,New,Household Buyer - Non-Occupier,
+W23,Celbridge,12,2015,Existing,All Buyer Types,297042.0
+W23,Celbridge,12,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,235200.0
+W23,Celbridge,12,2015,Existing,Household Buyer - Former Owner-Occupier,315304.0
+W23,Celbridge,12,2015,Existing,Household Buyer - Non-Occupier,229667.0
+W23,Celbridge,1,2016,All Dwelling Statuses,All Buyer Types,314475.0
+W23,Celbridge,1,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,277184.0
+W23,Celbridge,1,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,357955.0
+W23,Celbridge,1,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,245286.0
+W23,Celbridge,1,2016,New,All Buyer Types,378353.0
+W23,Celbridge,1,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,336738.0
+W23,Celbridge,1,2016,New,Household Buyer - Former Owner-Occupier,395000.0
+W23,Celbridge,1,2016,New,Household Buyer - Non-Occupier,
+W23,Celbridge,1,2016,Existing,All Buyer Types,297277.0
+W23,Celbridge,1,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,257333.0
+W23,Celbridge,1,2016,Existing,Household Buyer - Former Owner-Occupier,343707.0
+W23,Celbridge,1,2016,Existing,Household Buyer - Non-Occupier,245286.0
+W23,Celbridge,2,2016,All Dwelling Statuses,All Buyer Types,326149.0
+W23,Celbridge,2,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,295930.0
+W23,Celbridge,2,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,351628.0
+W23,Celbridge,2,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,370000.0
+W23,Celbridge,2,2016,New,All Buyer Types,399601.0
+W23,Celbridge,2,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,353525.0
+W23,Celbridge,2,2016,New,Household Buyer - Former Owner-Occupier,436462.0
+W23,Celbridge,2,2016,New,Household Buyer - Non-Occupier,
+W23,Celbridge,2,2016,Existing,All Buyer Types,306706.0
+W23,Celbridge,2,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,281531.0
+W23,Celbridge,2,2016,Existing,Household Buyer - Former Owner-Occupier,326676.0
+W23,Celbridge,2,2016,Existing,Household Buyer - Non-Occupier,370000.0
+W23,Celbridge,3,2016,All Dwelling Statuses,All Buyer Types,293141.0
+W23,Celbridge,3,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,292267.0
+W23,Celbridge,3,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,305884.0
+W23,Celbridge,3,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,260429.0
+W23,Celbridge,3,2016,New,All Buyer Types,348600.0
+W23,Celbridge,3,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,342001.0
+W23,Celbridge,3,2016,New,Household Buyer - Former Owner-Occupier,397449.0
+W23,Celbridge,3,2016,New,Household Buyer - Non-Occupier,296667.0
+W23,Celbridge,3,2016,Existing,All Buyer Types,267393.0
+W23,Celbridge,3,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,259111.0
+W23,Celbridge,3,2016,Existing,Household Buyer - Former Owner-Occupier,281467.0
+W23,Celbridge,3,2016,Existing,Household Buyer - Non-Occupier,233250.0
+W23,Celbridge,4,2016,All Dwelling Statuses,All Buyer Types,320052.0
+W23,Celbridge,4,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,274067.0
+W23,Celbridge,4,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,355531.0
+W23,Celbridge,4,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,270750.0
+W23,Celbridge,4,2016,New,All Buyer Types,368627.0
+W23,Celbridge,4,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,302429.0
+W23,Celbridge,4,2016,New,Household Buyer - Former Owner-Occupier,434825.0
+W23,Celbridge,4,2016,New,Household Buyer - Non-Occupier,
+W23,Celbridge,4,2016,Existing,All Buyer Types,297383.0
+W23,Celbridge,4,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,249250.0
+W23,Celbridge,4,2016,Existing,Household Buyer - Former Owner-Occupier,324694.0
+W23,Celbridge,4,2016,Existing,Household Buyer - Non-Occupier,270750.0
+W23,Celbridge,5,2016,All Dwelling Statuses,All Buyer Types,297714.0
+W23,Celbridge,5,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,316706.0
+W23,Celbridge,5,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,308252.0
+W23,Celbridge,5,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,187333.0
+W23,Celbridge,5,2016,New,All Buyer Types,344186.0
+W23,Celbridge,5,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,333032.0
+W23,Celbridge,5,2016,New,Household Buyer - Former Owner-Occupier,362777.0
+W23,Celbridge,5,2016,New,Household Buyer - Non-Occupier,
+W23,Celbridge,5,2016,Existing,All Buyer Types,277060.0
+W23,Celbridge,5,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,301864.0
+W23,Celbridge,5,2016,Existing,Household Buyer - Former Owner-Occupier,291034.0
+W23,Celbridge,5,2016,Existing,Household Buyer - Non-Occupier,187333.0
+W23,Celbridge,6,2016,All Dwelling Statuses,All Buyer Types,332758.0
+W23,Celbridge,6,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,303030.0
+W23,Celbridge,6,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,353489.0
+W23,Celbridge,6,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,323030.0
+W23,Celbridge,6,2016,New,All Buyer Types,340977.0
+W23,Celbridge,6,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,317677.0
+W23,Celbridge,6,2016,New,Household Buyer - Former Owner-Occupier,380180.0
+W23,Celbridge,6,2016,New,Household Buyer - Non-Occupier,274849.0
+W23,Celbridge,6,2016,Existing,All Buyer Types,327357.0
+W23,Celbridge,6,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,296269.0
+W23,Celbridge,6,2016,Existing,Household Buyer - Former Owner-Occupier,336632.0
+W23,Celbridge,6,2016,Existing,Household Buyer - Non-Occupier,403333.0
+W23,Celbridge,7,2016,All Dwelling Statuses,All Buyer Types,325140.0
+W23,Celbridge,7,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,293986.0
+W23,Celbridge,7,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,345182.0
+W23,Celbridge,7,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,287600.0
+W23,Celbridge,7,2016,New,All Buyer Types,348745.0
+W23,Celbridge,7,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,326000.0
+W23,Celbridge,7,2016,New,Household Buyer - Former Owner-Occupier,356232.0
+W23,Celbridge,7,2016,New,Household Buyer - Non-Occupier,359200.0
+W23,Celbridge,7,2016,Existing,All Buyer Types,311949.0
+W23,Celbridge,7,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,276200.0
+W23,Celbridge,7,2016,Existing,Household Buyer - Former Owner-Occupier,339657.0
+W23,Celbridge,7,2016,Existing,Household Buyer - Non-Occupier,216000.0
+W23,Celbridge,8,2016,All Dwelling Statuses,All Buyer Types,329069.0
+W23,Celbridge,8,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,347900.0
+W23,Celbridge,8,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,342565.0
+W23,Celbridge,8,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,113333.0
+W23,Celbridge,8,2016,New,All Buyer Types,378185.0
+W23,Celbridge,8,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,257500.0
+W23,Celbridge,8,2016,New,Household Buyer - Former Owner-Occupier,386805.0
+W23,Celbridge,8,2016,New,Household Buyer - Non-Occupier,
+W23,Celbridge,8,2016,Existing,All Buyer Types,306045.0
+W23,Celbridge,8,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,357944.0
+W23,Celbridge,8,2016,Existing,Household Buyer - Former Owner-Occupier,311598.0
+W23,Celbridge,8,2016,Existing,Household Buyer - Non-Occupier,113333.0
+W23,Celbridge,9,2016,All Dwelling Statuses,All Buyer Types,301857.0
+W23,Celbridge,9,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,280447.0
+W23,Celbridge,9,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,328806.0
+W23,Celbridge,9,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,230417.0
+W23,Celbridge,9,2016,New,All Buyer Types,386286.0
+W23,Celbridge,9,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,321250.0
+W23,Celbridge,9,2016,New,Household Buyer - Former Owner-Occupier,473000.0
+W23,Celbridge,9,2016,New,Household Buyer - Non-Occupier,
+W23,Celbridge,9,2016,Existing,All Buyer Types,289796.0
+W23,Celbridge,9,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,269567.0
+W23,Celbridge,9,2016,Existing,Household Buyer - Former Owner-Occupier,313357.0
+W23,Celbridge,9,2016,Existing,Household Buyer - Non-Occupier,230417.0
+W23,Celbridge,10,2016,All Dwelling Statuses,All Buyer Types,314648.0
+W23,Celbridge,10,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,285258.0
+W23,Celbridge,10,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,332445.0
+W23,Celbridge,10,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,325102.0
+W23,Celbridge,10,2016,New,All Buyer Types,316969.0
+W23,Celbridge,10,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,295462.0
+W23,Celbridge,10,2016,New,Household Buyer - Former Owner-Occupier,337770.0
+W23,Celbridge,10,2016,New,Household Buyer - Non-Occupier,281012.0
+W23,Celbridge,10,2016,Existing,All Buyer Types,313800.0
+W23,Celbridge,10,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,280722.0
+W23,Celbridge,10,2016,Existing,Household Buyer - Former Owner-Occupier,330670.0
+W23,Celbridge,10,2016,Existing,Household Buyer - Non-Occupier,336125.0
+W23,Celbridge,11,2016,All Dwelling Statuses,All Buyer Types,320049.0
+W23,Celbridge,11,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,288967.0
+W23,Celbridge,11,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,344088.0
+W23,Celbridge,11,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,288128.0
+W23,Celbridge,11,2016,New,All Buyer Types,331856.0
+W23,Celbridge,11,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,298210.0
+W23,Celbridge,11,2016,New,Household Buyer - Former Owner-Occupier,344360.0
+W23,Celbridge,11,2016,New,Household Buyer - Non-Occupier,365803.0
+W23,Celbridge,11,2016,Existing,All Buyer Types,315381.0
+W23,Celbridge,11,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,282806.0
+W23,Celbridge,11,2016,Existing,Household Buyer - Former Owner-Occupier,344005.0
+W23,Celbridge,11,2016,Existing,Household Buyer - Non-Occupier,259000.0
+W23,Celbridge,12,2016,All Dwelling Statuses,All Buyer Types,318469.0
+W23,Celbridge,12,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,296410.0
+W23,Celbridge,12,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,338792.0
+W23,Celbridge,12,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,260247.0
+W23,Celbridge,12,2016,New,All Buyer Types,369396.0
+W23,Celbridge,12,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,336574.0
+W23,Celbridge,12,2016,New,Household Buyer - Former Owner-Occupier,374147.0
+W23,Celbridge,12,2016,New,Household Buyer - Non-Occupier,390986.0
+W23,Celbridge,12,2016,Existing,All Buyer Types,302015.0
+W23,Celbridge,12,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,285700.0
+W23,Celbridge,12,2016,Existing,Household Buyer - Former Owner-Occupier,326720.0
+W23,Celbridge,12,2016,Existing,Household Buyer - Non-Occupier,216667.0
+W23,Celbridge,1,2017,All Dwelling Statuses,All Buyer Types,338284.0
+W23,Celbridge,1,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,301694.0
+W23,Celbridge,1,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,350765.0
+W23,Celbridge,1,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,377333.0
+W23,Celbridge,1,2017,New,All Buyer Types,481813.0
+W23,Celbridge,1,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,374875.0
+W23,Celbridge,1,2017,New,Household Buyer - Former Owner-Occupier,588750.0
+W23,Celbridge,1,2017,New,Household Buyer - Non-Occupier,
+W23,Celbridge,1,2017,Existing,All Buyer Types,315320.0
+W23,Celbridge,1,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,280786.0
+W23,Celbridge,1,2017,Existing,Household Buyer - Former Owner-Occupier,319033.0
+W23,Celbridge,1,2017,Existing,Household Buyer - Non-Occupier,377333.0
+W23,Celbridge,2,2017,All Dwelling Statuses,All Buyer Types,353583.0
+W23,Celbridge,2,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,337834.0
+W23,Celbridge,2,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,381050.0
+W23,Celbridge,2,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,246071.0
+W23,Celbridge,2,2017,New,All Buyer Types,361582.0
+W23,Celbridge,2,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,323956.0
+W23,Celbridge,2,2017,New,Household Buyer - Former Owner-Occupier,399208.0
+W23,Celbridge,2,2017,New,Household Buyer - Non-Occupier,
+W23,Celbridge,2,2017,Existing,All Buyer Types,348695.0
+W23,Celbridge,2,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,376000.0
+W23,Celbridge,2,2017,Existing,Household Buyer - Former Owner-Occupier,373061.0
+W23,Celbridge,2,2017,Existing,Household Buyer - Non-Occupier,246071.0
+W23,Celbridge,3,2017,All Dwelling Statuses,All Buyer Types,325681.0
+W23,Celbridge,3,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,326839.0
+W23,Celbridge,3,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,341279.0
+W23,Celbridge,3,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,234238.0
+W23,Celbridge,3,2017,New,All Buyer Types,363642.0
+W23,Celbridge,3,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,309449.0
+W23,Celbridge,3,2017,New,Household Buyer - Former Owner-Occupier,390786.0
+W23,Celbridge,3,2017,New,Household Buyer - Non-Occupier,349833.0
+W23,Celbridge,3,2017,Existing,All Buyer Types,309791.0
+W23,Celbridge,3,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,336500.0
+W23,Celbridge,3,2017,Existing,Household Buyer - Former Owner-Occupier,322500.0
+W23,Celbridge,3,2017,Existing,Household Buyer - Non-Occupier,188000.0
+W23,Celbridge,4,2017,All Dwelling Statuses,All Buyer Types,348635.0
+W23,Celbridge,4,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,330473.0
+W23,Celbridge,4,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,361440.0
+W23,Celbridge,4,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,341250.0
+W23,Celbridge,4,2017,New,All Buyer Types,384210.0
+W23,Celbridge,4,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,370945.0
+W23,Celbridge,4,2017,New,Household Buyer - Former Owner-Occupier,379250.0
+W23,Celbridge,4,2017,New,Household Buyer - Non-Occupier,530000.0
+W23,Celbridge,4,2017,Existing,All Buyer Types,327036.0
+W23,Celbridge,4,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,290000.0
+W23,Celbridge,4,2017,Existing,Household Buyer - Former Owner-Occupier,353059.0
+W23,Celbridge,4,2017,Existing,Household Buyer - Non-Occupier,278333.0
+W23,Celbridge,5,2017,All Dwelling Statuses,All Buyer Types,297515.0
+W23,Celbridge,5,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,328514.0
+W23,Celbridge,5,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,298179.0
+W23,Celbridge,5,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,207000.0
+W23,Celbridge,5,2017,New,All Buyer Types,341012.0
+W23,Celbridge,5,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,337029.0
+W23,Celbridge,5,2017,New,Household Buyer - Former Owner-Occupier,352555.0
+W23,Celbridge,5,2017,New,Household Buyer - Non-Occupier,265000.0
+W23,Celbridge,5,2017,Existing,All Buyer Types,272867.0
+W23,Celbridge,5,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,320000.0
+W23,Celbridge,5,2017,Existing,Household Buyer - Former Owner-Occupier,272421.0
+W23,Celbridge,5,2017,Existing,Household Buyer - Non-Occupier,192500.0
+W23,Celbridge,6,2017,All Dwelling Statuses,All Buyer Types,338570.0
+W23,Celbridge,6,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,347780.0
+W23,Celbridge,6,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,340197.0
+W23,Celbridge,6,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,274500.0
+W23,Celbridge,6,2017,New,All Buyer Types,406068.0
+W23,Celbridge,6,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,388269.0
+W23,Celbridge,6,2017,New,Household Buyer - Former Owner-Occupier,425000.0
+W23,Celbridge,6,2017,New,Household Buyer - Non-Occupier,397000.0
+W23,Celbridge,6,2017,Existing,All Buyer Types,311250.0
+W23,Celbridge,6,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,324643.0
+W23,Celbridge,6,2017,Existing,Household Buyer - Former Owner-Occupier,313060.0
+W23,Celbridge,6,2017,Existing,Household Buyer - Non-Occupier,233667.0
+W23,Celbridge,7,2017,All Dwelling Statuses,All Buyer Types,326913.0
+W23,Celbridge,7,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,338681.0
+W23,Celbridge,7,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,331879.0
+W23,Celbridge,7,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,297215.0
+W23,Celbridge,7,2017,New,All Buyer Types,366187.0
+W23,Celbridge,7,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,364979.0
+W23,Celbridge,7,2017,New,Household Buyer - Former Owner-Occupier,371874.0
+W23,Celbridge,7,2017,New,Household Buyer - Non-Occupier,329150.0
+W23,Celbridge,7,2017,Existing,All Buyer Types,309458.0
+W23,Celbridge,7,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,308000.0
+W23,Celbridge,7,2017,Existing,Household Buyer - Former Owner-Occupier,316643.0
+W23,Celbridge,7,2017,Existing,Household Buyer - Non-Occupier,293667.0
+W23,Celbridge,8,2017,All Dwelling Statuses,All Buyer Types,302118.0
+W23,Celbridge,8,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,310676.0
+W23,Celbridge,8,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,314689.0
+W23,Celbridge,8,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,237232.0
+W23,Celbridge,8,2017,New,All Buyer Types,335106.0
+W23,Celbridge,8,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,395003.0
+W23,Celbridge,8,2017,New,Household Buyer - Former Owner-Occupier,335957.0
+W23,Celbridge,8,2017,New,Household Buyer - Non-Occupier,273081.0
+W23,Celbridge,8,2017,Existing,All Buyer Types,290242.0
+W23,Celbridge,8,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,289594.0
+W23,Celbridge,8,2017,Existing,Household Buyer - Former Owner-Occupier,307093.0
+W23,Celbridge,8,2017,Existing,Household Buyer - Non-Occupier,213333.0
+W23,Celbridge,9,2017,All Dwelling Statuses,All Buyer Types,328609.0
+W23,Celbridge,9,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,294857.0
+W23,Celbridge,9,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,359965.0
+W23,Celbridge,9,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,267000.0
+W23,Celbridge,9,2017,New,All Buyer Types,368166.0
+W23,Celbridge,9,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,368200.0
+W23,Celbridge,9,2017,New,Household Buyer - Former Owner-Occupier,368150.0
+W23,Celbridge,9,2017,New,Household Buyer - Non-Occupier,
+W23,Celbridge,9,2017,Existing,All Buyer Types,316889.0
+W23,Celbridge,9,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,278913.0
+W23,Celbridge,9,2017,Existing,Household Buyer - Former Owner-Occupier,356630.0
+W23,Celbridge,9,2017,Existing,Household Buyer - Non-Occupier,267000.0
+W23,Celbridge,10,2017,All Dwelling Statuses,All Buyer Types,336984.0
+W23,Celbridge,10,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,341383.0
+W23,Celbridge,10,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,342914.0
+W23,Celbridge,10,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,264300.0
+W23,Celbridge,10,2017,New,All Buyer Types,367606.0
+W23,Celbridge,10,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,368622.0
+W23,Celbridge,10,2017,New,Household Buyer - Former Owner-Occupier,372625.0
+W23,Celbridge,10,2017,New,Household Buyer - Non-Occupier,296199.0
+W23,Celbridge,10,2017,Existing,All Buyer Types,316569.0
+W23,Celbridge,10,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,322656.0
+W23,Celbridge,10,2017,Existing,Household Buyer - Former Owner-Occupier,321941.0
+W23,Celbridge,10,2017,Existing,Household Buyer - Non-Occupier,253667.0
+W23,Celbridge,11,2017,All Dwelling Statuses,All Buyer Types,373506.0
+W23,Celbridge,11,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,331795.0
+W23,Celbridge,11,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,400739.0
+W23,Celbridge,11,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,317500.0
+W23,Celbridge,11,2017,New,All Buyer Types,384599.0
+W23,Celbridge,11,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,366063.0
+W23,Celbridge,11,2017,New,Household Buyer - Former Owner-Occupier,404820.0
+W23,Celbridge,11,2017,New,Household Buyer - Non-Occupier,
+W23,Celbridge,11,2017,Existing,All Buyer Types,368781.0
+W23,Celbridge,11,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,306094.0
+W23,Celbridge,11,2017,Existing,Household Buyer - Former Owner-Occupier,399492.0
+W23,Celbridge,11,2017,Existing,Household Buyer - Non-Occupier,317500.0
+W23,Celbridge,12,2017,All Dwelling Statuses,All Buyer Types,358391.0
+W23,Celbridge,12,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,353553.0
+W23,Celbridge,12,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,370813.0
+W23,Celbridge,12,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,260300.0
+W23,Celbridge,12,2017,New,All Buyer Types,398424.0
+W23,Celbridge,12,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,410096.0
+W23,Celbridge,12,2017,New,Household Buyer - Former Owner-Occupier,388125.0
+W23,Celbridge,12,2017,New,Household Buyer - Non-Occupier,
+W23,Celbridge,12,2017,Existing,All Buyer Types,332770.0
+W23,Celbridge,12,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,282875.0
+W23,Celbridge,12,2017,Existing,Household Buyer - Former Owner-Occupier,361894.0
+W23,Celbridge,12,2017,Existing,Household Buyer - Non-Occupier,260300.0
+W23,Celbridge,1,2018,All Dwelling Statuses,All Buyer Types,380761.0
+W23,Celbridge,1,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,348841.0
+W23,Celbridge,1,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,367725.0
+W23,Celbridge,1,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,536650.0
+W23,Celbridge,1,2018,New,All Buyer Types,382525.0
+W23,Celbridge,1,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,432756.0
+W23,Celbridge,1,2018,New,Household Buyer - Former Owner-Occupier,
+W23,Celbridge,1,2018,New,Household Buyer - Non-Occupier,181600.0
+W23,Celbridge,1,2018,Existing,All Buyer Types,380447.0
+W23,Celbridge,1,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,311545.0
+W23,Celbridge,1,2018,Existing,Household Buyer - Former Owner-Occupier,367725.0
+W23,Celbridge,1,2018,Existing,Household Buyer - Non-Occupier,655000.0
+W23,Celbridge,2,2018,All Dwelling Statuses,All Buyer Types,395347.0
+W23,Celbridge,2,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,345782.0
+W23,Celbridge,2,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,421661.0
+W23,Celbridge,2,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,250000.0
+W23,Celbridge,2,2018,New,All Buyer Types,428417.0
+W23,Celbridge,2,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,424697.0
+W23,Celbridge,2,2018,New,Household Buyer - Former Owner-Occupier,429812.0
+W23,Celbridge,2,2018,New,Household Buyer - Non-Occupier,
+W23,Celbridge,2,2018,Existing,All Buyer Types,382355.0
+W23,Celbridge,2,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,306325.0
+W23,Celbridge,2,2018,Existing,Household Buyer - Former Owner-Occupier,418400.0
+W23,Celbridge,2,2018,Existing,Household Buyer - Non-Occupier,250000.0
+W23,Celbridge,3,2018,All Dwelling Statuses,All Buyer Types,369326.0
+W23,Celbridge,3,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,353072.0
+W23,Celbridge,3,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,393937.0
+W23,Celbridge,3,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,274250.0
+W23,Celbridge,3,2018,New,All Buyer Types,402100.0
+W23,Celbridge,3,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,365860.0
+W23,Celbridge,3,2018,New,Household Buyer - Former Owner-Occupier,438341.0
+W23,Celbridge,3,2018,New,Household Buyer - Non-Occupier,
+W23,Celbridge,3,2018,Existing,All Buyer Types,354343.0
+W23,Celbridge,3,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,343773.0
+W23,Celbridge,3,2018,Existing,Household Buyer - Former Owner-Occupier,376175.0
+W23,Celbridge,3,2018,Existing,Household Buyer - Non-Occupier,274250.0
+W23,Celbridge,4,2018,All Dwelling Statuses,All Buyer Types,355042.0
+W23,Celbridge,4,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,352361.0
+W23,Celbridge,4,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,357461.0
+W23,Celbridge,4,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,350167.0
+W23,Celbridge,4,2018,New,All Buyer Types,417249.0
+W23,Celbridge,4,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,439666.0
+W23,Celbridge,4,2018,New,Household Buyer - Former Owner-Occupier,394832.0
+W23,Celbridge,4,2018,New,Household Buyer - Non-Occupier,
+W23,Celbridge,4,2018,Existing,All Buyer Types,333714.0
+W23,Celbridge,4,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,308708.0
+W23,Celbridge,4,2018,Existing,Household Buyer - Former Owner-Occupier,346250.0
+W23,Celbridge,4,2018,Existing,Household Buyer - Non-Occupier,350167.0
+W23,Celbridge,5,2018,All Dwelling Statuses,All Buyer Types,361936.0
+W23,Celbridge,5,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,369496.0
+W23,Celbridge,5,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,372135.0
+W23,Celbridge,5,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,265300.0
+W23,Celbridge,5,2018,New,All Buyer Types,418024.0
+W23,Celbridge,5,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,415868.0
+W23,Celbridge,5,2018,New,Household Buyer - Former Owner-Occupier,419749.0
+W23,Celbridge,5,2018,New,Household Buyer - Non-Occupier,
+W23,Celbridge,5,2018,Existing,All Buyer Types,335368.0
+W23,Celbridge,5,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,307667.0
+W23,Celbridge,5,2018,Existing,Household Buyer - Former Owner-Occupier,354500.0
+W23,Celbridge,5,2018,Existing,Household Buyer - Non-Occupier,265300.0
+W23,Celbridge,6,2018,All Dwelling Statuses,All Buyer Types,365312.0
+W23,Celbridge,6,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,352097.0
+W23,Celbridge,6,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,382855.0
+W23,Celbridge,6,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,208000.0
+W23,Celbridge,6,2018,New,All Buyer Types,452592.0
+W23,Celbridge,6,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,430556.0
+W23,Celbridge,6,2018,New,Household Buyer - Former Owner-Occupier,470222.0
+W23,Celbridge,6,2018,New,Household Buyer - Non-Occupier,
+W23,Celbridge,6,2018,Existing,All Buyer Types,322851.0
+W23,Celbridge,6,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,299792.0
+W23,Celbridge,6,2018,Existing,Household Buyer - Former Owner-Occupier,344870.0
+W23,Celbridge,6,2018,Existing,Household Buyer - Non-Occupier,208000.0
+W23,Celbridge,7,2018,All Dwelling Statuses,All Buyer Types,346816.0
+W23,Celbridge,7,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,341761.0
+W23,Celbridge,7,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,357905.0
+W23,Celbridge,7,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,306800.0
+W23,Celbridge,7,2018,New,All Buyer Types,415188.0
+W23,Celbridge,7,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,412052.0
+W23,Celbridge,7,2018,New,Household Buyer - Former Owner-Occupier,418586.0
+W23,Celbridge,7,2018,New,Household Buyer - Non-Occupier,
+W23,Celbridge,7,2018,Existing,All Buyer Types,311933.0
+W23,Celbridge,7,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,300225.0
+W23,Celbridge,7,2018,Existing,Household Buyer - Former Owner-Occupier,324807.0
+W23,Celbridge,7,2018,Existing,Household Buyer - Non-Occupier,306800.0
+W23,Celbridge,8,2018,All Dwelling Statuses,All Buyer Types,350459.0
+W23,Celbridge,8,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,354553.0
+W23,Celbridge,8,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,361717.0
+W23,Celbridge,8,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,252000.0
+W23,Celbridge,8,2018,New,All Buyer Types,399693.0
+W23,Celbridge,8,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,401031.0
+W23,Celbridge,8,2018,New,Household Buyer - Former Owner-Occupier,398490.0
+W23,Celbridge,8,2018,New,Household Buyer - Non-Occupier,
+W23,Celbridge,8,2018,Existing,All Buyer Types,329671.0
+W23,Celbridge,8,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,326667.0
+W23,Celbridge,8,2018,Existing,Household Buyer - Former Owner-Occupier,347008.0
+W23,Celbridge,8,2018,Existing,Household Buyer - Non-Occupier,252000.0
+W23,Celbridge,9,2018,All Dwelling Statuses,All Buyer Types,373324.0
+W23,Celbridge,9,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,328859.0
+W23,Celbridge,9,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,409383.0
+W23,Celbridge,9,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,287710.0
+W23,Celbridge,9,2018,New,All Buyer Types,402424.0
+W23,Celbridge,9,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,370162.0
+W23,Celbridge,9,2018,New,Household Buyer - Former Owner-Occupier,443278.0
+W23,Celbridge,9,2018,New,Household Buyer - Non-Occupier,374550.0
+W23,Celbridge,9,2018,Existing,All Buyer Types,364012.0
+W23,Celbridge,9,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,305257.0
+W23,Celbridge,9,2018,Existing,Household Buyer - Former Owner-Occupier,401969.0
+W23,Celbridge,9,2018,Existing,Household Buyer - Non-Occupier,266000.0
+W23,Celbridge,10,2018,All Dwelling Statuses,All Buyer Types,367973.0
+W23,Celbridge,10,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,347187.0
+W23,Celbridge,10,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,395012.0
+W23,Celbridge,10,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,225000.0
+W23,Celbridge,10,2018,New,All Buyer Types,401986.0
+W23,Celbridge,10,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,396786.0
+W23,Celbridge,10,2018,New,Household Buyer - Former Owner-Occupier,407511.0
+W23,Celbridge,10,2018,New,Household Buyer - Non-Occupier,
+W23,Celbridge,10,2018,Existing,All Buyer Types,343572.0
+W23,Celbridge,10,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,297588.0
+W23,Celbridge,10,2018,Existing,Household Buyer - Former Owner-Occupier,387320.0
+W23,Celbridge,10,2018,Existing,Household Buyer - Non-Occupier,225000.0
+W23,Celbridge,11,2018,All Dwelling Statuses,All Buyer Types,362370.0
+W23,Celbridge,11,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,327082.0
+W23,Celbridge,11,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,381224.0
+W23,Celbridge,11,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,383125.0
+W23,Celbridge,11,2018,New,All Buyer Types,395617.0
+W23,Celbridge,11,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,380177.0
+W23,Celbridge,11,2018,New,Household Buyer - Former Owner-Occupier,406181.0
+W23,Celbridge,11,2018,New,Household Buyer - Non-Occupier,
+W23,Celbridge,11,2018,Existing,All Buyer Types,340205.0
+W23,Celbridge,11,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,281067.0
+W23,Celbridge,11,2018,Existing,Household Buyer - Former Owner-Occupier,364874.0
+W23,Celbridge,11,2018,Existing,Household Buyer - Non-Occupier,383125.0
+W23,Celbridge,12,2018,All Dwelling Statuses,All Buyer Types,370132.0
+W23,Celbridge,12,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,338716.0
+W23,Celbridge,12,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,400119.0
+W23,Celbridge,12,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,304857.0
+W23,Celbridge,12,2018,New,All Buyer Types,391864.0
+W23,Celbridge,12,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,379953.0
+W23,Celbridge,12,2018,New,Household Buyer - Former Owner-Occupier,405655.0
+W23,Celbridge,12,2018,New,Household Buyer - Non-Occupier,
+W23,Celbridge,12,2018,Existing,All Buyer Types,354500.0
+W23,Celbridge,12,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,278233.0
+W23,Celbridge,12,2018,Existing,Household Buyer - Former Owner-Occupier,397114.0
+W23,Celbridge,12,2018,Existing,Household Buyer - Non-Occupier,304857.0
+W23,Celbridge,1,2019,All Dwelling Statuses,All Buyer Types,384412.0
+W23,Celbridge,1,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,325662.0
+W23,Celbridge,1,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,446070.0
+W23,Celbridge,1,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,150000.0
+W23,Celbridge,1,2019,New,All Buyer Types,401618.0
+W23,Celbridge,1,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,359458.0
+W23,Celbridge,1,2019,New,Household Buyer - Former Owner-Occupier,433238.0
+W23,Celbridge,1,2019,New,Household Buyer - Non-Occupier,
+W23,Celbridge,1,2019,Existing,All Buyer Types,374375.0
+W23,Celbridge,1,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,307227.0
+W23,Celbridge,1,2019,Existing,Household Buyer - Former Owner-Occupier,454625.0
+W23,Celbridge,1,2019,Existing,Household Buyer - Non-Occupier,150000.0
+W23,Celbridge,2,2019,All Dwelling Statuses,All Buyer Types,330596.0
+W23,Celbridge,2,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,306634.0
+W23,Celbridge,2,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,365212.0
+W23,Celbridge,2,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,277714.0
+W23,Celbridge,2,2019,New,All Buyer Types,339671.0
+W23,Celbridge,2,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,370442.0
+W23,Celbridge,2,2019,New,Household Buyer - Former Owner-Occupier,382053.0
+W23,Celbridge,2,2019,New,Household Buyer - Non-Occupier,208750.0
+W23,Celbridge,2,2019,Existing,All Buyer Types,326707.0
+W23,Celbridge,2,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,286484.0
+W23,Celbridge,2,2019,Existing,Household Buyer - Former Owner-Occupier,358475.0
+W23,Celbridge,2,2019,Existing,Household Buyer - Non-Occupier,369667.0
+W23,Celbridge,3,2019,All Dwelling Statuses,All Buyer Types,347254.0
+W23,Celbridge,3,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,327240.0
+W23,Celbridge,3,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,382589.0
+W23,Celbridge,3,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,235000.0
+W23,Celbridge,3,2019,New,All Buyer Types,379749.0
+W23,Celbridge,3,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,367356.0
+W23,Celbridge,3,2019,New,Household Buyer - Former Owner-Occupier,397100.0
+W23,Celbridge,3,2019,New,Household Buyer - Non-Occupier,
+W23,Celbridge,3,2019,Existing,All Buyer Types,324971.0
+W23,Celbridge,3,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,284038.0
+W23,Celbridge,3,2019,Existing,Household Buyer - Former Owner-Occupier,374528.0
+W23,Celbridge,3,2019,Existing,Household Buyer - Non-Occupier,235000.0
+W23,Celbridge,4,2019,All Dwelling Statuses,All Buyer Types,351635.0
+W23,Celbridge,4,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,340760.0
+W23,Celbridge,4,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,365906.0
+W23,Celbridge,4,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,229000.0
+W23,Celbridge,4,2019,New,All Buyer Types,402494.0
+W23,Celbridge,4,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,387217.0
+W23,Celbridge,4,2019,New,Household Buyer - Former Owner-Occupier,421591.0
+W23,Celbridge,4,2019,New,Household Buyer - Non-Occupier,
+W23,Celbridge,4,2019,Existing,All Buyer Types,315499.0
+W23,Celbridge,4,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,277409.0
+W23,Celbridge,4,2019,Existing,Household Buyer - Former Owner-Occupier,339178.0
+W23,Celbridge,4,2019,Existing,Household Buyer - Non-Occupier,229000.0
+W23,Celbridge,5,2019,All Dwelling Statuses,All Buyer Types,370193.0
+W23,Celbridge,5,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,324836.0
+W23,Celbridge,5,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,418812.0
+W23,Celbridge,5,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,274250.0
+W23,Celbridge,5,2019,New,All Buyer Types,421373.0
+W23,Celbridge,5,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,363891.0
+W23,Celbridge,5,2019,New,Household Buyer - Former Owner-Occupier,498015.0
+W23,Celbridge,5,2019,New,Household Buyer - Non-Occupier,
+W23,Celbridge,5,2019,Existing,All Buyer Types,328044.0
+W23,Celbridge,5,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,276769.0
+W23,Celbridge,5,2019,Existing,Household Buyer - Former Owner-Occupier,368789.0
+W23,Celbridge,5,2019,Existing,Household Buyer - Non-Occupier,274250.0
+W23,Celbridge,6,2019,All Dwelling Statuses,All Buyer Types,369817.0
+W23,Celbridge,6,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,351907.0
+W23,Celbridge,6,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,389302.0
+W23,Celbridge,6,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,340714.0
+W23,Celbridge,6,2019,New,All Buyer Types,464583.0
+W23,Celbridge,6,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,441592.0
+W23,Celbridge,6,2019,New,Household Buyer - Former Owner-Occupier,487574.0
+W23,Celbridge,6,2019,New,Household Buyer - Non-Occupier,
+W23,Celbridge,6,2019,Existing,All Buyer Types,319647.0
+W23,Celbridge,6,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,262222.0
+W23,Celbridge,6,2019,Existing,Household Buyer - Former Owner-Occupier,340167.0
+W23,Celbridge,6,2019,Existing,Household Buyer - Non-Occupier,340714.0
+W23,Celbridge,7,2019,All Dwelling Statuses,All Buyer Types,409042.0
+W23,Celbridge,7,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,346571.0
+W23,Celbridge,7,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,465944.0
+W23,Celbridge,7,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,236500.0
+W23,Celbridge,7,2019,New,All Buyer Types,417188.0
+W23,Celbridge,7,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,419466.0
+W23,Celbridge,7,2019,New,Household Buyer - Former Owner-Occupier,414682.0
+W23,Celbridge,7,2019,New,Household Buyer - Non-Occupier,
+W23,Celbridge,7,2019,Existing,All Buyer Types,405620.0
+W23,Celbridge,7,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,304368.0
+W23,Celbridge,7,2019,Existing,Household Buyer - Former Owner-Occupier,483621.0
+W23,Celbridge,7,2019,Existing,Household Buyer - Non-Occupier,236500.0
+W23,Celbridge,8,2019,All Dwelling Statuses,All Buyer Types,361595.0
+W23,Celbridge,8,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,332707.0
+W23,Celbridge,8,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,371505.0
+W23,Celbridge,8,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,505000.0
+W23,Celbridge,8,2019,New,All Buyer Types,402822.0
+W23,Celbridge,8,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,398636.0
+W23,Celbridge,8,2019,New,Household Buyer - Former Owner-Occupier,405614.0
+W23,Celbridge,8,2019,New,Household Buyer - Non-Occupier,
+W23,Celbridge,8,2019,Existing,All Buyer Types,346871.0
+W23,Celbridge,8,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,299742.0
+W23,Celbridge,8,2019,Existing,Household Buyer - Former Owner-Occupier,360920.0
+W23,Celbridge,8,2019,Existing,Household Buyer - Non-Occupier,505000.0
+W23,Celbridge,9,2019,All Dwelling Statuses,All Buyer Types,347048.0
+W23,Celbridge,9,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,325441.0
+W23,Celbridge,9,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,368658.0
+W23,Celbridge,9,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,275000.0
+W23,Celbridge,9,2019,New,All Buyer Types,461820.0
+W23,Celbridge,9,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,421703.0
+W23,Celbridge,9,2019,New,Household Buyer - Former Owner-Occupier,508623.0
+W23,Celbridge,9,2019,New,Household Buyer - Non-Occupier,
+W23,Celbridge,9,2019,Existing,All Buyer Types,309748.0
+W23,Celbridge,9,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,273608.0
+W23,Celbridge,9,2019,Existing,Household Buyer - Former Owner-Occupier,333667.0
+W23,Celbridge,9,2019,Existing,Household Buyer - Non-Occupier,275000.0
+W23,Celbridge,10,2019,All Dwelling Statuses,All Buyer Types,340361.0
+W23,Celbridge,10,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,346084.0
+W23,Celbridge,10,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,345082.0
+W23,Celbridge,10,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,270833.0
+W23,Celbridge,10,2019,New,All Buyer Types,360319.0
+W23,Celbridge,10,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,375383.0
+W23,Celbridge,10,2019,New,Household Buyer - Former Owner-Occupier,349184.0
+W23,Celbridge,10,2019,New,Household Buyer - Non-Occupier,
+W23,Celbridge,10,2019,Existing,All Buyer Types,323729.0
+W23,Celbridge,10,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,307769.0
+W23,Celbridge,10,2019,Existing,Household Buyer - Former Owner-Occupier,341828.0
+W23,Celbridge,10,2019,Existing,Household Buyer - Non-Occupier,270833.0
+W23,Celbridge,11,2019,All Dwelling Statuses,All Buyer Types,355780.0
+W23,Celbridge,11,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,335597.0
+W23,Celbridge,11,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,374290.0
+W23,Celbridge,11,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,368750.0
+W23,Celbridge,11,2019,New,All Buyer Types,365884.0
+W23,Celbridge,11,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,352115.0
+W23,Celbridge,11,2019,New,Household Buyer - Former Owner-Occupier,364624.0
+W23,Celbridge,11,2019,New,Household Buyer - Non-Occupier,560000.0
+W23,Celbridge,11,2019,Existing,All Buyer Types,349213.0
+W23,Celbridge,11,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,323667.0
+W23,Celbridge,11,2019,Existing,Household Buyer - Former Owner-Occupier,380395.0
+W23,Celbridge,11,2019,Existing,Household Buyer - Non-Occupier,305000.0
+W23,Celbridge,12,2019,All Dwelling Statuses,All Buyer Types,365524.0
+W23,Celbridge,12,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,361783.0
+W23,Celbridge,12,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,375798.0
+W23,Celbridge,12,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,304625.0
+W23,Celbridge,12,2019,New,All Buyer Types,379010.0
+W23,Celbridge,12,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,373903.0
+W23,Celbridge,12,2019,New,Household Buyer - Former Owner-Occupier,384594.0
+W23,Celbridge,12,2019,New,Household Buyer - Non-Occupier,384999.0
+W23,Celbridge,12,2019,Existing,All Buyer Types,342702.0
+W23,Celbridge,12,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,326938.0
+W23,Celbridge,12,2019,Existing,Household Buyer - Former Owner-Occupier,363362.0
+W23,Celbridge,12,2019,Existing,Household Buyer - Non-Occupier,293143.0
+W23,Celbridge,1,2020,All Dwelling Statuses,All Buyer Types,354474.0
+W23,Celbridge,1,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,337878.0
+W23,Celbridge,1,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,377937.0
+W23,Celbridge,1,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,300929.0
+W23,Celbridge,1,2020,New,All Buyer Types,402980.0
+W23,Celbridge,1,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,358986.0
+W23,Celbridge,1,2020,New,Household Buyer - Former Owner-Occupier,426976.0
+W23,Celbridge,1,2020,New,Household Buyer - Non-Occupier,
+W23,Celbridge,1,2020,Existing,All Buyer Types,330914.0
+W23,Celbridge,1,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,326364.0
+W23,Celbridge,1,2020,Existing,Household Buyer - Former Owner-Occupier,346206.0
+W23,Celbridge,1,2020,Existing,Household Buyer - Non-Occupier,300929.0
+W23,Celbridge,2,2020,All Dwelling Statuses,All Buyer Types,347416.0
+W23,Celbridge,2,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,330196.0
+W23,Celbridge,2,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,366982.0
+W23,Celbridge,2,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,232000.0
+W23,Celbridge,2,2020,New,All Buyer Types,426295.0
+W23,Celbridge,2,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,399088.0
+W23,Celbridge,2,2020,New,Household Buyer - Former Owner-Occupier,445728.0
+W23,Celbridge,2,2020,New,Household Buyer - Non-Occupier,
+W23,Celbridge,2,2020,Existing,All Buyer Types,315865.0
+W23,Celbridge,2,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,295750.0
+W23,Celbridge,2,2020,Existing,Household Buyer - Former Owner-Occupier,336358.0
+W23,Celbridge,2,2020,Existing,Household Buyer - Non-Occupier,232000.0
+W23,Celbridge,3,2020,All Dwelling Statuses,All Buyer Types,358069.0
+W23,Celbridge,3,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,351747.0
+W23,Celbridge,3,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,377927.0
+W23,Celbridge,3,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,206000.0
+W23,Celbridge,3,2020,New,All Buyer Types,429224.0
+W23,Celbridge,3,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,429019.0
+W23,Celbridge,3,2020,New,Household Buyer - Former Owner-Occupier,429566.0
+W23,Celbridge,3,2020,New,Household Buyer - Non-Occupier,
+W23,Celbridge,3,2020,Existing,All Buyer Types,318810.0
+W23,Celbridge,3,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,281500.0
+W23,Celbridge,3,2020,Existing,Household Buyer - Former Owner-Occupier,358563.0
+W23,Celbridge,3,2020,Existing,Household Buyer - Non-Occupier,206000.0
+W23,Celbridge,4,2020,All Dwelling Statuses,All Buyer Types,357666.0
+W23,Celbridge,4,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,322300.0
+W23,Celbridge,4,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,381410.0
+W23,Celbridge,4,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,291750.0
+W23,Celbridge,4,2020,New,All Buyer Types,403114.0
+W23,Celbridge,4,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,408750.0
+W23,Celbridge,4,2020,New,Household Buyer - Former Owner-Occupier,376229.0
+W23,Celbridge,4,2020,New,Household Buyer - Non-Occupier,514998.0
+W23,Celbridge,4,2020,Existing,All Buyer Types,342517.0
+W23,Celbridge,4,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,264667.0
+W23,Celbridge,4,2020,Existing,Household Buyer - Former Owner-Occupier,382643.0
+W23,Celbridge,4,2020,Existing,Household Buyer - Non-Occupier,217333.0
+W23,Celbridge,5,2020,All Dwelling Statuses,All Buyer Types,333526.0
+W23,Celbridge,5,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,323385.0
+W23,Celbridge,5,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,355500.0
+W23,Celbridge,5,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+W23,Celbridge,5,2020,New,All Buyer Types,348500.0
+W23,Celbridge,5,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,348500.0
+W23,Celbridge,5,2020,New,Household Buyer - Former Owner-Occupier,
+W23,Celbridge,5,2020,New,Household Buyer - Non-Occupier,
+W23,Celbridge,5,2020,Existing,All Buyer Types,331765.0
+W23,Celbridge,5,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,318818.0
+W23,Celbridge,5,2020,Existing,Household Buyer - Former Owner-Occupier,355500.0
+W23,Celbridge,5,2020,Existing,Household Buyer - Non-Occupier,
+W23,Celbridge,6,2020,All Dwelling Statuses,All Buyer Types,370776.0
+W23,Celbridge,6,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,350776.0
+W23,Celbridge,6,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,404103.0
+W23,Celbridge,6,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,237500.0
+W23,Celbridge,6,2020,New,All Buyer Types,433492.0
+W23,Celbridge,6,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,403163.0
+W23,Celbridge,6,2020,New,Household Buyer - Former Owner-Occupier,463821.0
+W23,Celbridge,6,2020,New,Household Buyer - Non-Occupier,
+W23,Celbridge,6,2020,Existing,All Buyer Types,326875.0
+W23,Celbridge,6,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,304938.0
+W23,Celbridge,6,2020,Existing,Household Buyer - Former Owner-Occupier,362300.0
+W23,Celbridge,6,2020,Existing,Household Buyer - Non-Occupier,237500.0
+W23,Celbridge,7,2020,All Dwelling Statuses,All Buyer Types,365022.0
+W23,Celbridge,7,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,372956.0
+W23,Celbridge,7,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,364682.0
+W23,Celbridge,7,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,253500.0
+W23,Celbridge,7,2020,New,All Buyer Types,431834.0
+W23,Celbridge,7,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,444667.0
+W23,Celbridge,7,2020,New,Household Buyer - Former Owner-Occupier,419000.0
+W23,Celbridge,7,2020,New,Household Buyer - Non-Occupier,
+W23,Celbridge,7,2020,Existing,All Buyer Types,341161.0
+W23,Celbridge,7,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,337100.0
+W23,Celbridge,7,2020,Existing,Household Buyer - Former Owner-Occupier,348706.0
+W23,Celbridge,7,2020,Existing,Household Buyer - Non-Occupier,253500.0
+W23,Celbridge,8,2020,All Dwelling Statuses,All Buyer Types,401180.0
+W23,Celbridge,8,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,387296.0
+W23,Celbridge,8,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,423698.0
+W23,Celbridge,8,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,343750.0
+W23,Celbridge,8,2020,New,All Buyer Types,447831.0
+W23,Celbridge,8,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,425444.0
+W23,Celbridge,8,2020,New,Household Buyer - Former Owner-Occupier,474166.0
+W23,Celbridge,8,2020,New,Household Buyer - Non-Occupier,489999.0
+W23,Celbridge,8,2020,Existing,All Buyer Types,344810.0
+W23,Celbridge,8,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,311000.0
+W23,Celbridge,8,2020,Existing,Household Buyer - Former Owner-Occupier,377112.0
+W23,Celbridge,8,2020,Existing,Household Buyer - Non-Occupier,295000.0
+W23,Celbridge,9,2020,All Dwelling Statuses,All Buyer Types,384442.0
+W23,Celbridge,9,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,397875.0
+W23,Celbridge,9,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,377038.0
+W23,Celbridge,9,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,281667.0
+W23,Celbridge,9,2020,New,All Buyer Types,435529.0
+W23,Celbridge,9,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,430183.0
+W23,Celbridge,9,2020,New,Household Buyer - Former Owner-Occupier,446934.0
+W23,Celbridge,9,2020,New,Household Buyer - Non-Occupier,
+W23,Celbridge,9,2020,Existing,All Buyer Types,325878.0
+W23,Celbridge,9,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,318346.0
+W23,Celbridge,9,2020,Existing,Household Buyer - Former Owner-Occupier,335100.0
+W23,Celbridge,9,2020,Existing,Household Buyer - Non-Occupier,281667.0
+W23,Celbridge,10,2020,All Dwelling Statuses,All Buyer Types,385023.0
+W23,Celbridge,10,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,362265.0
+W23,Celbridge,10,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,420673.0
+W23,Celbridge,10,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,274833.0
+W23,Celbridge,10,2020,New,All Buyer Types,416949.0
+W23,Celbridge,10,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,408152.0
+W23,Celbridge,10,2020,New,Household Buyer - Former Owner-Occupier,431243.0
+W23,Celbridge,10,2020,New,Household Buyer - Non-Occupier,
+W23,Celbridge,10,2020,Existing,All Buyer Types,354549.0
+W23,Celbridge,10,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,299474.0
+W23,Celbridge,10,2020,Existing,Household Buyer - Former Owner-Occupier,412985.0
+W23,Celbridge,10,2020,Existing,Household Buyer - Non-Occupier,274833.0
+W23,Celbridge,11,2020,All Dwelling Statuses,All Buyer Types,398374.0
+W23,Celbridge,11,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,389504.0
+W23,Celbridge,11,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,417356.0
+W23,Celbridge,11,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,294500.0
+W23,Celbridge,11,2020,New,All Buyer Types,433170.0
+W23,Celbridge,11,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,429527.0
+W23,Celbridge,11,2020,New,Household Buyer - Former Owner-Occupier,436422.0
+W23,Celbridge,11,2020,New,Household Buyer - Non-Occupier,
+W23,Celbridge,11,2020,Existing,All Buyer Types,365442.0
+W23,Celbridge,11,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,318036.0
+W23,Celbridge,11,2020,Existing,Household Buyer - Former Owner-Occupier,401654.0
+W23,Celbridge,11,2020,Existing,Household Buyer - Non-Occupier,294500.0
+W23,Celbridge,12,2020,All Dwelling Statuses,All Buyer Types,390622.0
+W23,Celbridge,12,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,391226.0
+W23,Celbridge,12,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,392753.0
+W23,Celbridge,12,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,318333.0
+W23,Celbridge,12,2020,New,All Buyer Types,396115.0
+W23,Celbridge,12,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,395960.0
+W23,Celbridge,12,2020,New,Household Buyer - Former Owner-Occupier,394505.0
+W23,Celbridge,12,2020,New,Household Buyer - Non-Occupier,480000.0
+W23,Celbridge,12,2020,Existing,All Buyer Types,375217.0
+W23,Celbridge,12,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,362821.0
+W23,Celbridge,12,2020,Existing,Household Buyer - Former Owner-Occupier,390182.0
+W23,Celbridge,12,2020,Existing,Household Buyer - Non-Occupier,237500.0
+W23,Celbridge,1,2021,All Dwelling Statuses,All Buyer Types,387046.0
+W23,Celbridge,1,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,355646.0
+W23,Celbridge,1,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,407144.0
+W23,Celbridge,1,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,240000.0
+W23,Celbridge,1,2021,New,All Buyer Types,422964.0
+W23,Celbridge,1,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,373867.0
+W23,Celbridge,1,2021,New,Household Buyer - Former Owner-Occupier,476152.0
+W23,Celbridge,1,2021,New,Household Buyer - Non-Occupier,
+W23,Celbridge,1,2021,Existing,All Buyer Types,358984.0
+W23,Celbridge,1,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,316167.0
+W23,Celbridge,1,2021,Existing,Household Buyer - Former Owner-Occupier,374020.0
+W23,Celbridge,1,2021,Existing,Household Buyer - Non-Occupier,240000.0
+W23,Celbridge,2,2021,All Dwelling Statuses,All Buyer Types,379160.0
+W23,Celbridge,2,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,366914.0
+W23,Celbridge,2,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,387917.0
+W23,Celbridge,2,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,403333.0
+W23,Celbridge,2,2021,New,All Buyer Types,418902.0
+W23,Celbridge,2,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,406418.0
+W23,Celbridge,2,2021,New,Household Buyer - Former Owner-Occupier,442085.0
+W23,Celbridge,2,2021,New,Household Buyer - Non-Occupier,
+W23,Celbridge,2,2021,Existing,All Buyer Types,349723.0
+W23,Celbridge,2,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,320228.0
+W23,Celbridge,2,2021,Existing,Household Buyer - Former Owner-Occupier,350000.0
+W23,Celbridge,2,2021,Existing,Household Buyer - Non-Occupier,403333.0
+W23,Celbridge,3,2021,All Dwelling Statuses,All Buyer Types,404773.0
+W23,Celbridge,3,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,370752.0
+W23,Celbridge,3,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,468696.0
+W23,Celbridge,3,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,303285.0
+W23,Celbridge,3,2021,New,All Buyer Types,384374.0
+W23,Celbridge,3,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,407504.0
+W23,Celbridge,3,2021,New,Household Buyer - Former Owner-Occupier,441400.0
+W23,Celbridge,3,2021,New,Household Buyer - Non-Occupier,253571.0
+W23,Celbridge,3,2021,Existing,All Buyer Types,418217.0
+W23,Celbridge,3,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,344500.0
+W23,Celbridge,3,2021,Existing,Household Buyer - Former Owner-Occupier,482938.0
+W23,Celbridge,3,2021,Existing,Household Buyer - Non-Occupier,353000.0
+W23,Celbridge,4,2021,All Dwelling Statuses,All Buyer Types,383880.0
+W23,Celbridge,4,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,344233.0
+W23,Celbridge,4,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,428099.0
+W23,Celbridge,4,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,265000.0
+W23,Celbridge,4,2021,New,All Buyer Types,428032.0
+W23,Celbridge,4,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,411601.0
+W23,Celbridge,4,2021,New,Household Buyer - Former Owner-Occupier,450625.0
+W23,Celbridge,4,2021,New,Household Buyer - Non-Occupier,
+W23,Celbridge,4,2021,Existing,All Buyer Types,359207.0
+W23,Celbridge,4,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,294830.0
+W23,Celbridge,4,2021,Existing,Household Buyer - Former Owner-Occupier,418088.0
+W23,Celbridge,4,2021,Existing,Household Buyer - Non-Occupier,265000.0
+W23,Celbridge,5,2021,All Dwelling Statuses,All Buyer Types,400482.0
+W23,Celbridge,5,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,372773.0
+W23,Celbridge,5,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,430216.0
+W23,Celbridge,5,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,342562.0
+W23,Celbridge,5,2021,New,All Buyer Types,418556.0
+W23,Celbridge,5,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,383754.0
+W23,Celbridge,5,2021,New,Household Buyer - Former Owner-Occupier,458330.0
+W23,Celbridge,5,2021,New,Household Buyer - Non-Occupier,
+W23,Celbridge,5,2021,Existing,All Buyer Types,385827.0
+W23,Celbridge,5,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,350813.0
+W23,Celbridge,5,2021,Existing,Household Buyer - Former Owner-Occupier,412325.0
+W23,Celbridge,5,2021,Existing,Household Buyer - Non-Occupier,342562.0
+W23,Celbridge,6,2021,All Dwelling Statuses,All Buyer Types,416334.0
+W23,Celbridge,6,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,370415.0
+W23,Celbridge,6,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,489327.0
+W23,Celbridge,6,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,277500.0
+W23,Celbridge,6,2021,New,All Buyer Types,416320.0
+W23,Celbridge,6,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,405351.0
+W23,Celbridge,6,2021,New,Household Buyer - Former Owner-Occupier,438991.0
+W23,Celbridge,6,2021,New,Household Buyer - Non-Occupier,
+W23,Celbridge,6,2021,Existing,All Buyer Types,416350.0
+W23,Celbridge,6,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,306709.0
+W23,Celbridge,6,2021,Existing,Household Buyer - Former Owner-Occupier,529066.0
+W23,Celbridge,6,2021,Existing,Household Buyer - Non-Occupier,277500.0
+W23,Celbridge,7,2021,All Dwelling Statuses,All Buyer Types,384596.0
+W23,Celbridge,7,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,396383.0
+W23,Celbridge,7,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,381302.0
+W23,Celbridge,7,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,302800.0
+W23,Celbridge,7,2021,New,All Buyer Types,404105.0
+W23,Celbridge,7,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,413046.0
+W23,Celbridge,7,2021,New,Household Buyer - Former Owner-Occupier,388210.0
+W23,Celbridge,7,2021,New,Household Buyer - Non-Occupier,
+W23,Celbridge,7,2021,Existing,All Buyer Types,363391.0
+W23,Celbridge,7,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,360833.0
+W23,Celbridge,7,2021,Existing,Household Buyer - Former Owner-Occupier,376519.0
+W23,Celbridge,7,2021,Existing,Household Buyer - Non-Occupier,302800.0
+W23,Celbridge,8,2021,All Dwelling Statuses,All Buyer Types,363493.0
+W23,Celbridge,8,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,363803.0
+W23,Celbridge,8,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,383590.0
+W23,Celbridge,8,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,260833.0
+W23,Celbridge,8,2021,New,All Buyer Types,386126.0
+W23,Celbridge,8,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,385942.0
+W23,Celbridge,8,2021,New,Household Buyer - Former Owner-Occupier,386785.0
+W23,Celbridge,8,2021,New,Household Buyer - Non-Occupier,
+W23,Celbridge,8,2021,Existing,All Buyer Types,347748.0
+W23,Celbridge,8,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,331247.0
+W23,Celbridge,8,2021,Existing,Household Buyer - Former Owner-Occupier,382617.0
+W23,Celbridge,8,2021,Existing,Household Buyer - Non-Occupier,260833.0
+W23,Celbridge,9,2021,All Dwelling Statuses,All Buyer Types,386433.0
+W23,Celbridge,9,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,361081.0
+W23,Celbridge,9,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,411297.0
+W23,Celbridge,9,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,347917.0
+W23,Celbridge,9,2021,New,All Buyer Types,387617.0
+W23,Celbridge,9,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,384531.0
+W23,Celbridge,9,2021,New,Household Buyer - Former Owner-Occupier,386982.0
+W23,Celbridge,9,2021,New,Household Buyer - Non-Occupier,482500.0
+W23,Celbridge,9,2021,Existing,All Buyer Types,384874.0
+W23,Celbridge,9,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,300112.0
+W23,Celbridge,9,2021,Existing,Household Buyer - Former Owner-Occupier,435612.0
+W23,Celbridge,9,2021,Existing,Household Buyer - Non-Occupier,321000.0
+W23,Celbridge,10,2021,All Dwelling Statuses,All Buyer Types,373369.0
+W23,Celbridge,10,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,373897.0
+W23,Celbridge,10,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,376234.0
+W23,Celbridge,10,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,340400.0
+W23,Celbridge,10,2021,New,All Buyer Types,383729.0
+W23,Celbridge,10,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,388478.0
+W23,Celbridge,10,2021,New,Household Buyer - Former Owner-Occupier,371927.0
+W23,Celbridge,10,2021,New,Household Buyer - Non-Occupier,417500.0
+W23,Celbridge,10,2021,Existing,All Buyer Types,360049.0
+W23,Celbridge,10,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,313750.0
+W23,Celbridge,10,2021,Existing,Household Buyer - Former Owner-Occupier,378873.0
+W23,Celbridge,10,2021,Existing,Household Buyer - Non-Occupier,289000.0
+W23,Celbridge,11,2021,All Dwelling Statuses,All Buyer Types,404150.0
+W23,Celbridge,11,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,391836.0
+W23,Celbridge,11,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,435844.0
+W23,Celbridge,11,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,258250.0
+W23,Celbridge,11,2021,New,All Buyer Types,413111.0
+W23,Celbridge,11,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,405139.0
+W23,Celbridge,11,2021,New,Household Buyer - Former Owner-Occupier,429973.0
+W23,Celbridge,11,2021,New,Household Buyer - Non-Occupier,
+W23,Celbridge,11,2021,Existing,All Buyer Types,386005.0
+W23,Celbridge,11,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,346107.0
+W23,Celbridge,11,2021,Existing,Household Buyer - Former Owner-Occupier,443475.0
+W23,Celbridge,11,2021,Existing,Household Buyer - Non-Occupier,258250.0
+W23,Celbridge,12,2021,All Dwelling Statuses,All Buyer Types,416352.0
+W23,Celbridge,12,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,417618.0
+W23,Celbridge,12,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,418994.0
+W23,Celbridge,12,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,370386.0
+W23,Celbridge,12,2021,New,All Buyer Types,434247.0
+W23,Celbridge,12,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,427783.0
+W23,Celbridge,12,2021,New,Household Buyer - Former Owner-Occupier,448320.0
+W23,Celbridge,12,2021,New,Household Buyer - Non-Occupier,459030.0
+W23,Celbridge,12,2021,Existing,All Buyer Types,356583.0
+W23,Celbridge,12,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,352111.0
+W23,Celbridge,12,2021,Existing,Household Buyer - Former Owner-Occupier,366857.0
+W23,Celbridge,12,2021,Existing,Household Buyer - Non-Occupier,317200.0
+W23,Celbridge,1,2022,All Dwelling Statuses,All Buyer Types,417438.0
+W23,Celbridge,1,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,404986.0
+W23,Celbridge,1,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,440559.0
+W23,Celbridge,1,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,389000.0
+W23,Celbridge,1,2022,New,All Buyer Types,435555.0
+W23,Celbridge,1,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,434250.0
+W23,Celbridge,1,2022,New,Household Buyer - Former Owner-Occupier,439286.0
+W23,Celbridge,1,2022,New,Household Buyer - Non-Occupier,
+W23,Celbridge,1,2022,Existing,All Buyer Types,404565.0
+W23,Celbridge,1,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,365967.0
+W23,Celbridge,1,2022,Existing,Household Buyer - Former Owner-Occupier,441054.0
+W23,Celbridge,1,2022,Existing,Household Buyer - Non-Occupier,389000.0
+W23,Celbridge,2,2022,All Dwelling Statuses,All Buyer Types,391088.0
+W23,Celbridge,2,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,388120.0
+W23,Celbridge,2,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,413748.0
+W23,Celbridge,2,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,288250.0
+W23,Celbridge,2,2022,New,All Buyer Types,435676.0
+W23,Celbridge,2,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,434528.0
+W23,Celbridge,2,2022,New,Household Buyer - Former Owner-Occupier,438355.0
+W23,Celbridge,2,2022,New,Household Buyer - Non-Occupier,
+W23,Celbridge,2,2022,Existing,All Buyer Types,351746.0
+W23,Celbridge,2,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,327210.0
+W23,Celbridge,2,2022,Existing,Household Buyer - Former Owner-Occupier,397929.0
+W23,Celbridge,2,2022,Existing,Household Buyer - Non-Occupier,288250.0
+W23,Celbridge,3,2022,All Dwelling Statuses,All Buyer Types,413371.0
+W23,Celbridge,3,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,401569.0
+W23,Celbridge,3,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,470571.0
+W23,Celbridge,3,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,266500.0
+W23,Celbridge,3,2022,New,All Buyer Types,460736.0
+W23,Celbridge,3,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,456018.0
+W23,Celbridge,3,2022,New,Household Buyer - Former Owner-Occupier,480283.0
+W23,Celbridge,3,2022,New,Household Buyer - Non-Occupier,
+W23,Celbridge,3,2022,Existing,All Buyer Types,371782.0
+W23,Celbridge,3,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,332916.0
+W23,Celbridge,3,2022,Existing,Household Buyer - Former Owner-Occupier,465714.0
+W23,Celbridge,3,2022,Existing,Household Buyer - Non-Occupier,266500.0
+W23,Celbridge,4,2022,All Dwelling Statuses,All Buyer Types,418638.0
+W23,Celbridge,4,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,352555.0
+W23,Celbridge,4,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,483016.0
+W23,Celbridge,4,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,415779.0
+W23,Celbridge,4,2022,New,All Buyer Types,436469.0
+W23,Celbridge,4,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,405000.0
+W23,Celbridge,4,2022,New,Household Buyer - Former Owner-Occupier,489378.0
+W23,Celbridge,4,2022,New,Household Buyer - Non-Occupier,306450.0
+W23,Celbridge,4,2022,Existing,All Buyer Types,409037.0
+W23,Celbridge,4,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,314095.0
+W23,Celbridge,4,2022,Existing,Household Buyer - Former Owner-Occupier,479835.0
+W23,Celbridge,4,2022,Existing,Household Buyer - Non-Occupier,434000.0
+W23,Celbridge,5,2022,All Dwelling Statuses,All Buyer Types,416364.0
+W23,Celbridge,5,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,406231.0
+W23,Celbridge,5,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,415938.0
+W23,Celbridge,5,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,504926.0
+W23,Celbridge,5,2022,New,All Buyer Types,446998.0
+W23,Celbridge,5,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,428678.0
+W23,Celbridge,5,2022,New,Household Buyer - Former Owner-Occupier,477532.0
+W23,Celbridge,5,2022,New,Household Buyer - Non-Occupier,
+W23,Celbridge,5,2022,Existing,All Buyer Types,404409.0
+W23,Celbridge,5,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,391267.0
+W23,Celbridge,5,2022,Existing,Household Buyer - Former Owner-Occupier,399869.0
+W23,Celbridge,5,2022,Existing,Household Buyer - Non-Occupier,504926.0
+W23,Celbridge,6,2022,All Dwelling Statuses,All Buyer Types,464934.0
+W23,Celbridge,6,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,428087.0
+W23,Celbridge,6,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,517452.0
+W23,Celbridge,6,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,278250.0
+W23,Celbridge,6,2022,New,All Buyer Types,453132.0
+W23,Celbridge,6,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,451696.0
+W23,Celbridge,6,2022,New,Household Buyer - Former Owner-Occupier,456770.0
+W23,Celbridge,6,2022,New,Household Buyer - Non-Occupier,
+W23,Celbridge,6,2022,Existing,All Buyer Types,476962.0
+W23,Celbridge,6,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,359077.0
+W23,Celbridge,6,2022,Existing,Household Buyer - Former Owner-Occupier,543458.0
+W23,Celbridge,6,2022,Existing,Household Buyer - Non-Occupier,278250.0
+W23,Celbridge,7,2022,All Dwelling Statuses,All Buyer Types,424448.0
+W23,Celbridge,7,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,412055.0
+W23,Celbridge,7,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,443254.0
+W23,Celbridge,7,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,343018.0
+W23,Celbridge,7,2022,New,All Buyer Types,446760.0
+W23,Celbridge,7,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,446604.0
+W23,Celbridge,7,2022,New,Household Buyer - Former Owner-Occupier,449295.0
+W23,Celbridge,7,2022,New,Household Buyer - Non-Occupier,426036.0
+W23,Celbridge,7,2022,Existing,All Buyer Types,400616.0
+W23,Celbridge,7,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,349867.0
+W23,Celbridge,7,2022,Existing,Household Buyer - Former Owner-Occupier,439226.0
+W23,Celbridge,7,2022,Existing,Household Buyer - Non-Occupier,260000.0
+W23,Celbridge,8,2022,All Dwelling Statuses,All Buyer Types,441642.0
+W23,Celbridge,8,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,425367.0
+W23,Celbridge,8,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,471253.0
+W23,Celbridge,8,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,309200.0
+W23,Celbridge,8,2022,New,All Buyer Types,482231.0
+W23,Celbridge,8,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,466989.0
+W23,Celbridge,8,2022,New,Household Buyer - Former Owner-Occupier,507775.0
+W23,Celbridge,8,2022,New,Household Buyer - Non-Occupier,420000.0
+W23,Celbridge,8,2022,Existing,All Buyer Types,408859.0
+W23,Celbridge,8,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,381762.0
+W23,Celbridge,8,2022,Existing,Household Buyer - Former Owner-Occupier,447774.0
+W23,Celbridge,8,2022,Existing,Household Buyer - Non-Occupier,235333.0
+W23,Celbridge,9,2022,All Dwelling Statuses,All Buyer Types,445780.0
+W23,Celbridge,9,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,424220.0
+W23,Celbridge,9,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,463739.0
+W23,Celbridge,9,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,502425.0
+W23,Celbridge,9,2022,New,All Buyer Types,485398.0
+W23,Celbridge,9,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,479287.0
+W23,Celbridge,9,2022,New,Household Buyer - Former Owner-Occupier,492323.0
+W23,Celbridge,9,2022,New,Household Buyer - Non-Occupier,
+W23,Celbridge,9,2022,Existing,All Buyer Types,416297.0
+W23,Celbridge,9,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,379643.0
+W23,Celbridge,9,2022,Existing,Household Buyer - Former Owner-Occupier,439920.0
+W23,Celbridge,9,2022,Existing,Household Buyer - Non-Occupier,502425.0
+W23,Celbridge,10,2022,All Dwelling Statuses,All Buyer Types,451472.0
+W23,Celbridge,10,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,431673.0
+W23,Celbridge,10,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,481433.0
+W23,Celbridge,10,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,271875.0
+W23,Celbridge,10,2022,New,All Buyer Types,467974.0
+W23,Celbridge,10,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,451217.0
+W23,Celbridge,10,2022,New,Household Buyer - Former Owner-Occupier,492745.0
+W23,Celbridge,10,2022,New,Household Buyer - Non-Occupier,
+W23,Celbridge,10,2022,Existing,All Buyer Types,435529.0
+W23,Celbridge,10,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,396699.0
+W23,Celbridge,10,2022,Existing,Household Buyer - Former Owner-Occupier,474206.0
+W23,Celbridge,10,2022,Existing,Household Buyer - Non-Occupier,271875.0
+W23,Celbridge,11,2022,All Dwelling Statuses,All Buyer Types,417993.0
+W23,Celbridge,11,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,418340.0
+W23,Celbridge,11,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,435669.0
+W23,Celbridge,11,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,283167.0
+W23,Celbridge,11,2022,New,All Buyer Types,442319.0
+W23,Celbridge,11,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,456702.0
+W23,Celbridge,11,2022,New,Household Buyer - Former Owner-Occupier,425060.0
+W23,Celbridge,11,2022,New,Household Buyer - Non-Occupier,310000.0
+W23,Celbridge,11,2022,Existing,All Buyer Types,397638.0
+W23,Celbridge,11,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,341615.0
+W23,Celbridge,11,2022,Existing,Household Buyer - Former Owner-Occupier,440460.0
+W23,Celbridge,11,2022,Existing,Household Buyer - Non-Occupier,277800.0
+W23,Celbridge,12,2022,All Dwelling Statuses,All Buyer Types,434444.0
+W23,Celbridge,12,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,413248.0
+W23,Celbridge,12,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,457488.0
+W23,Celbridge,12,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,359667.0
+W23,Celbridge,12,2022,New,All Buyer Types,459034.0
+W23,Celbridge,12,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,442605.0
+W23,Celbridge,12,2022,New,Household Buyer - Former Owner-Occupier,481930.0
+W23,Celbridge,12,2022,New,Household Buyer - Non-Occupier,495000.0
+W23,Celbridge,12,2022,Existing,All Buyer Types,398281.0
+W23,Celbridge,12,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,327133.0
+W23,Celbridge,12,2022,Existing,Household Buyer - Former Owner-Occupier,435922.0
+W23,Celbridge,12,2022,Existing,Household Buyer - Non-Occupier,292000.0
+W23,Celbridge,1,2023,All Dwelling Statuses,All Buyer Types,425571.0
+W23,Celbridge,1,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,405410.0
+W23,Celbridge,1,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,445758.0
+W23,Celbridge,1,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,405000.0
+W23,Celbridge,1,2023,New,All Buyer Types,456207.0
+W23,Celbridge,1,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,440087.0
+W23,Celbridge,1,2023,New,Household Buyer - Former Owner-Occupier,481999.0
+W23,Celbridge,1,2023,New,Household Buyer - Non-Occupier,
+W23,Celbridge,1,2023,Existing,All Buyer Types,403444.0
+W23,Celbridge,1,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,362731.0
+W23,Celbridge,1,2023,Existing,Household Buyer - Former Owner-Occupier,428500.0
+W23,Celbridge,1,2023,Existing,Household Buyer - Non-Occupier,405000.0
+W23,Celbridge,2,2023,All Dwelling Statuses,All Buyer Types,445602.0
+W23,Celbridge,2,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,447612.0
+W23,Celbridge,2,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,446937.0
+W23,Celbridge,2,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,275000.0
+W23,Celbridge,2,2023,New,All Buyer Types,479495.0
+W23,Celbridge,2,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,473916.0
+W23,Celbridge,2,2023,New,Household Buyer - Former Owner-Occupier,491271.0
+W23,Celbridge,2,2023,New,Household Buyer - Non-Occupier,
+W23,Celbridge,2,2023,Existing,All Buyer Types,400413.0
+W23,Celbridge,2,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,404152.0
+W23,Celbridge,2,2023,Existing,Household Buyer - Former Owner-Occupier,402602.0
+W23,Celbridge,2,2023,Existing,Household Buyer - Non-Occupier,275000.0
+W23,Celbridge,3,2023,All Dwelling Statuses,All Buyer Types,451770.0
+W23,Celbridge,3,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,452156.0
+W23,Celbridge,3,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,452396.0
+W23,Celbridge,3,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,405000.0
+W23,Celbridge,3,2023,New,All Buyer Types,482675.0
+W23,Celbridge,3,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,474345.0
+W23,Celbridge,3,2023,New,Household Buyer - Former Owner-Occupier,502666.0
+W23,Celbridge,3,2023,New,Household Buyer - Non-Occupier,
+W23,Celbridge,3,2023,Existing,All Buyer Types,414243.0
+W23,Celbridge,3,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,363398.0
+W23,Celbridge,3,2023,Existing,Household Buyer - Former Owner-Occupier,428832.0
+W23,Celbridge,3,2023,Existing,Household Buyer - Non-Occupier,405000.0
+W23,Celbridge,4,2023,All Dwelling Statuses,All Buyer Types,436315.0
+W23,Celbridge,4,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,439650.0
+W23,Celbridge,4,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,428702.0
+W23,Celbridge,4,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,433626.0
+W23,Celbridge,4,2023,New,All Buyer Types,480998.0
+W23,Celbridge,4,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,472295.0
+W23,Celbridge,4,2023,New,Household Buyer - Former Owner-Occupier,501012.0
+W23,Celbridge,4,2023,New,Household Buyer - Non-Occupier,595001.0
+W23,Celbridge,4,2023,Existing,All Buyer Types,379873.0
+W23,Celbridge,4,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,367104.0
+W23,Celbridge,4,2023,Existing,Household Buyer - Former Owner-Occupier,404599.0
+W23,Celbridge,4,2023,Existing,Household Buyer - Non-Occupier,272250.0
+W23,Celbridge,5,2023,All Dwelling Statuses,All Buyer Types,433466.0
+W23,Celbridge,5,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,423450.0
+W23,Celbridge,5,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,450032.0
+W23,Celbridge,5,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,441670.0
+W23,Celbridge,5,2023,New,All Buyer Types,489065.0
+W23,Celbridge,5,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,483660.0
+W23,Celbridge,5,2023,New,Household Buyer - Former Owner-Occupier,495889.0
+W23,Celbridge,5,2023,New,Household Buyer - Non-Occupier,540006.0
+W23,Celbridge,5,2023,Existing,All Buyer Types,383113.0
+W23,Celbridge,5,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,350339.0
+W23,Celbridge,5,2023,Existing,Household Buyer - Former Owner-Occupier,427104.0
+W23,Celbridge,5,2023,Existing,Household Buyer - Non-Occupier,245000.0
+W23,Celbridge,6,2023,All Dwelling Statuses,All Buyer Types,454471.0
+W23,Celbridge,6,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,443189.0
+W23,Celbridge,6,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,486486.0
+W23,Celbridge,6,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,364900.0
+W23,Celbridge,6,2023,New,All Buyer Types,496395.0
+W23,Celbridge,6,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,480443.0
+W23,Celbridge,6,2023,New,Household Buyer - Former Owner-Occupier,514379.0
+W23,Celbridge,6,2023,New,Household Buyer - Non-Occupier,592500.0
+W23,Celbridge,6,2023,Existing,All Buyer Types,392363.0
+W23,Celbridge,6,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,370234.0
+W23,Celbridge,6,2023,Existing,Household Buyer - Former Owner-Occupier,447182.0
+W23,Celbridge,6,2023,Existing,Household Buyer - Non-Occupier,308000.0
+W23,Celbridge,7,2023,All Dwelling Statuses,All Buyer Types,451126.0
+W23,Celbridge,7,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,442997.0
+W23,Celbridge,7,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,459325.0
+W23,Celbridge,7,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,364000.0
+W23,Celbridge,7,2023,New,All Buyer Types,519130.0
+W23,Celbridge,7,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,509168.0
+W23,Celbridge,7,2023,New,Household Buyer - Former Owner-Occupier,529803.0
+W23,Celbridge,7,2023,New,Household Buyer - Non-Occupier,
+W23,Celbridge,7,2023,Existing,All Buyer Types,414606.0
+W23,Celbridge,7,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,376827.0
+W23,Celbridge,7,2023,Existing,Household Buyer - Former Owner-Occupier,432657.0
+W23,Celbridge,7,2023,Existing,Household Buyer - Non-Occupier,364000.0
+W23,Celbridge,8,2023,All Dwelling Statuses,All Buyer Types,448974.0
+W23,Celbridge,8,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,452158.0
+W23,Celbridge,8,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,454479.0
+W23,Celbridge,8,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,323667.0
+W23,Celbridge,8,2023,New,All Buyer Types,494384.0
+W23,Celbridge,8,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,482297.0
+W23,Celbridge,8,2023,New,Household Buyer - Former Owner-Occupier,507182.0
+W23,Celbridge,8,2023,New,Household Buyer - Non-Occupier,
+W23,Celbridge,8,2023,Existing,All Buyer Types,419542.0
+W23,Celbridge,8,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,429553.0
+W23,Celbridge,8,2023,Existing,Household Buyer - Former Owner-Occupier,421295.0
+W23,Celbridge,8,2023,Existing,Household Buyer - Non-Occupier,323667.0
+W23,Celbridge,9,2023,All Dwelling Statuses,All Buyer Types,456721.0
+W23,Celbridge,9,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,425839.0
+W23,Celbridge,9,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,476497.0
+W23,Celbridge,9,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,508727.0
+W23,Celbridge,9,2023,New,All Buyer Types,500722.0
+W23,Celbridge,9,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,481406.0
+W23,Celbridge,9,2023,New,Household Buyer - Former Owner-Occupier,516529.0
+W23,Celbridge,9,2023,New,Household Buyer - Non-Occupier,592000.0
+W23,Celbridge,9,2023,Existing,All Buyer Types,428797.0
+W23,Celbridge,9,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,378607.0
+W23,Celbridge,9,2023,Existing,Household Buyer - Former Owner-Occupier,454257.0
+W23,Celbridge,9,2023,Existing,Household Buyer - Non-Occupier,492072.0
+W23,Celbridge,10,2023,All Dwelling Statuses,All Buyer Types,466571.0
+W23,Celbridge,10,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,395780.0
+W23,Celbridge,10,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,502981.0
+W23,Celbridge,10,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,589907.0
+W23,Celbridge,10,2023,New,All Buyer Types,455234.0
+W23,Celbridge,10,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,417756.0
+W23,Celbridge,10,2023,New,Household Buyer - Former Owner-Occupier,482206.0
+W23,Celbridge,10,2023,New,Household Buyer - Non-Occupier,499000.0
+W23,Celbridge,10,2023,Existing,All Buyer Types,474526.0
+W23,Celbridge,10,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,377100.0
+W23,Celbridge,10,2023,Existing,Household Buyer - Former Owner-Occupier,516832.0
+W23,Celbridge,10,2023,Existing,Household Buyer - Non-Occupier,612634.0
+W23,Celbridge,11,2023,All Dwelling Statuses,All Buyer Types,426874.0
+W23,Celbridge,11,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,401150.0
+W23,Celbridge,11,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,478627.0
+W23,Celbridge,11,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,346765.0
+W23,Celbridge,11,2023,New,All Buyer Types,401531.0
+W23,Celbridge,11,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,394099.0
+W23,Celbridge,11,2023,New,Household Buyer - Former Owner-Occupier,437449.0
+W23,Celbridge,11,2023,New,Household Buyer - Non-Occupier,
+W23,Celbridge,11,2023,Existing,All Buyer Types,446158.0
+W23,Celbridge,11,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,411373.0
+W23,Celbridge,11,2023,Existing,Household Buyer - Former Owner-Occupier,489370.0
+W23,Celbridge,11,2023,Existing,Household Buyer - Non-Occupier,346765.0
+W23,Celbridge,12,2023,All Dwelling Statuses,All Buyer Types,442569.0
+W23,Celbridge,12,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,418132.0
+W23,Celbridge,12,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,490449.0
+W23,Celbridge,12,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,434068.0
+W23,Celbridge,12,2023,New,All Buyer Types,433659.0
+W23,Celbridge,12,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,421445.0
+W23,Celbridge,12,2023,New,Household Buyer - Former Owner-Occupier,467484.0
+W23,Celbridge,12,2023,New,Household Buyer - Non-Occupier,473595.0
+W23,Celbridge,12,2023,Existing,All Buyer Types,452469.0
+W23,Celbridge,12,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,412562.0
+W23,Celbridge,12,2023,Existing,Household Buyer - Former Owner-Occupier,503080.0
+W23,Celbridge,12,2023,Existing,Household Buyer - Non-Occupier,407717.0
+W23,Celbridge,1,2024,All Dwelling Statuses,All Buyer Types,474568.0
+W23,Celbridge,1,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,422516.0
+W23,Celbridge,1,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,503717.0
+W23,Celbridge,1,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+W23,Celbridge,1,2024,New,All Buyer Types,454166.0
+W23,Celbridge,1,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,442500.0
+W23,Celbridge,1,2024,New,Household Buyer - Former Owner-Occupier,470500.0
+W23,Celbridge,1,2024,New,Household Buyer - Non-Occupier,
+W23,Celbridge,1,2024,Existing,All Buyer Types,483635.0
+W23,Celbridge,1,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,402532.0
+W23,Celbridge,1,2024,Existing,Household Buyer - Former Owner-Occupier,512021.0
+W23,Celbridge,1,2024,Existing,Household Buyer - Non-Occupier,
+W23,Celbridge,2,2024,All Dwelling Statuses,All Buyer Types,444301.0
+W23,Celbridge,2,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,425105.0
+W23,Celbridge,2,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,457045.0
+W23,Celbridge,2,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,491667.0
+W23,Celbridge,2,2024,New,All Buyer Types,468127.0
+W23,Celbridge,2,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,451387.0
+W23,Celbridge,2,2024,New,Household Buyer - Former Owner-Occupier,515000.0
+W23,Celbridge,2,2024,New,Household Buyer - Non-Occupier,
+W23,Celbridge,2,2024,Existing,All Buyer Types,430583.0
+W23,Celbridge,2,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,388311.0
+W23,Celbridge,2,2024,Existing,Household Buyer - Former Owner-Occupier,442556.0
+W23,Celbridge,2,2024,Existing,Household Buyer - Non-Occupier,491667.0
+W23,Celbridge,3,2024,All Dwelling Statuses,All Buyer Types,468615.0
+W23,Celbridge,3,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,404525.0
+W23,Celbridge,3,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,511689.0
+W23,Celbridge,3,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,412168.0
+W23,Celbridge,3,2024,New,All Buyer Types,481500.0
+W23,Celbridge,3,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,414999.0
+W23,Celbridge,3,2024,New,Household Buyer - Former Owner-Occupier,510001.0
+W23,Celbridge,3,2024,New,Household Buyer - Non-Occupier,
+W23,Celbridge,3,2024,Existing,All Buyer Types,465986.0
+W23,Celbridge,3,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,402676.0
+W23,Celbridge,3,2024,Existing,Household Buyer - Former Owner-Occupier,512112.0
+W23,Celbridge,3,2024,Existing,Household Buyer - Non-Occupier,412168.0
+W23,Celbridge,4,2024,All Dwelling Statuses,All Buyer Types,445906.0
+W23,Celbridge,4,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,379772.0
+W23,Celbridge,4,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,545273.0
+W23,Celbridge,4,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,278750.0
+W23,Celbridge,4,2024,New,All Buyer Types,394954.0
+W23,Celbridge,4,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,356868.0
+W23,Celbridge,4,2024,New,Household Buyer - Former Owner-Occupier,509212.0
+W23,Celbridge,4,2024,New,Household Buyer - Non-Occupier,
+W23,Celbridge,4,2024,Existing,All Buyer Types,468551.0
+W23,Celbridge,4,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,396949.0
+W23,Celbridge,4,2024,Existing,Household Buyer - Former Owner-Occupier,553286.0
+W23,Celbridge,4,2024,Existing,Household Buyer - Non-Occupier,278750.0
+W23,Celbridge,5,2024,All Dwelling Statuses,All Buyer Types,415086.0
+W23,Celbridge,5,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,391947.0
+W23,Celbridge,5,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,448818.0
+W23,Celbridge,5,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,295043.0
+W23,Celbridge,5,2024,New,All Buyer Types,407375.0
+W23,Celbridge,5,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,387010.0
+W23,Celbridge,5,2024,New,Household Buyer - Former Owner-Occupier,458287.0
+W23,Celbridge,5,2024,New,Household Buyer - Non-Occupier,
+W23,Celbridge,5,2024,Existing,All Buyer Types,420108.0
+W23,Celbridge,5,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,399000.0
+W23,Celbridge,5,2024,Existing,Household Buyer - Former Owner-Occupier,445904.0
+W23,Celbridge,5,2024,Existing,Household Buyer - Non-Occupier,295043.0
+W23,Celbridge,6,2024,All Dwelling Statuses,All Buyer Types,454265.0
+W23,Celbridge,6,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,377554.0
+W23,Celbridge,6,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,572107.0
+W23,Celbridge,6,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,237500.0
+W23,Celbridge,6,2024,New,All Buyer Types,498657.0
+W23,Celbridge,6,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,440156.0
+W23,Celbridge,6,2024,New,Household Buyer - Former Owner-Occupier,576658.0
+W23,Celbridge,6,2024,New,Household Buyer - Non-Occupier,
+W23,Celbridge,6,2024,Existing,All Buyer Types,445386.0
+W23,Celbridge,6,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,363643.0
+W23,Celbridge,6,2024,Existing,Household Buyer - Former Owner-Occupier,571197.0
+W23,Celbridge,6,2024,Existing,Household Buyer - Non-Occupier,237500.0
+W23,Celbridge,7,2024,All Dwelling Statuses,All Buyer Types,466358.0
+W23,Celbridge,7,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,503871.0
+W23,Celbridge,7,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,462180.0
+W23,Celbridge,7,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,369167.0
+W23,Celbridge,7,2024,New,All Buyer Types,556701.0
+W23,Celbridge,7,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,543802.0
+W23,Celbridge,7,2024,New,Household Buyer - Former Owner-Occupier,582500.0
+W23,Celbridge,7,2024,New,Household Buyer - Non-Occupier,
+W23,Celbridge,7,2024,Existing,All Buyer Types,446281.0
+W23,Celbridge,7,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,477250.0
+W23,Celbridge,7,2024,Existing,Household Buyer - Former Owner-Occupier,448811.0
+W23,Celbridge,7,2024,Existing,Household Buyer - Non-Occupier,369167.0

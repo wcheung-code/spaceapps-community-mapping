@@ -1,0 +1,2101 @@
+Routing Key,City,Month,Year,Dwelling Status,Type of Buyer,VALUE
+P12,Macroom,1,2010,All Dwelling Statuses,All Buyer Types,241667.0
+P12,Macroom,1,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,227500.0
+P12,Macroom,1,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,270000.0
+P12,Macroom,1,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,1,2010,New,All Buyer Types,
+P12,Macroom,1,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,1,2010,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,1,2010,New,Household Buyer - Non-Occupier,
+P12,Macroom,1,2010,Existing,All Buyer Types,241667.0
+P12,Macroom,1,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,227500.0
+P12,Macroom,1,2010,Existing,Household Buyer - Former Owner-Occupier,270000.0
+P12,Macroom,1,2010,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,2,2010,All Dwelling Statuses,All Buyer Types,269583.0
+P12,Macroom,2,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,269583.0
+P12,Macroom,2,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P12,Macroom,2,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,2,2010,New,All Buyer Types,283750.0
+P12,Macroom,2,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,283750.0
+P12,Macroom,2,2010,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,2,2010,New,Household Buyer - Non-Occupier,
+P12,Macroom,2,2010,Existing,All Buyer Types,262500.0
+P12,Macroom,2,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,262500.0
+P12,Macroom,2,2010,Existing,Household Buyer - Former Owner-Occupier,
+P12,Macroom,2,2010,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,3,2010,All Dwelling Statuses,All Buyer Types,246667.0
+P12,Macroom,3,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+P12,Macroom,3,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,325000.0
+P12,Macroom,3,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,205000.0
+P12,Macroom,3,2010,New,All Buyer Types,210000.0
+P12,Macroom,3,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+P12,Macroom,3,2010,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,3,2010,New,Household Buyer - Non-Occupier,
+P12,Macroom,3,2010,Existing,All Buyer Types,265000.0
+P12,Macroom,3,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,3,2010,Existing,Household Buyer - Former Owner-Occupier,325000.0
+P12,Macroom,3,2010,Existing,Household Buyer - Non-Occupier,205000.0
+P12,Macroom,4,2010,All Dwelling Statuses,All Buyer Types,124750.0
+P12,Macroom,4,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+P12,Macroom,4,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,109667.0
+P12,Macroom,4,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,4,2010,New,All Buyer Types,
+P12,Macroom,4,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,4,2010,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,4,2010,New,Household Buyer - Non-Occupier,
+P12,Macroom,4,2010,Existing,All Buyer Types,124750.0
+P12,Macroom,4,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+P12,Macroom,4,2010,Existing,Household Buyer - Former Owner-Occupier,109667.0
+P12,Macroom,4,2010,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,5,2010,All Dwelling Statuses,All Buyer Types,154823.0
+P12,Macroom,5,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,166190.0
+P12,Macroom,5,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,159500.0
+P12,Macroom,5,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,100000.0
+P12,Macroom,5,2010,New,All Buyer Types,199760.0
+P12,Macroom,5,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,199760.0
+P12,Macroom,5,2010,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,5,2010,New,Household Buyer - Non-Occupier,
+P12,Macroom,5,2010,Existing,All Buyer Types,147333.0
+P12,Macroom,5,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,155000.0
+P12,Macroom,5,2010,Existing,Household Buyer - Former Owner-Occupier,159500.0
+P12,Macroom,5,2010,Existing,Household Buyer - Non-Occupier,100000.0
+P12,Macroom,6,2010,All Dwelling Statuses,All Buyer Types,275000.0
+P12,Macroom,6,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+P12,Macroom,6,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P12,Macroom,6,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,6,2010,New,All Buyer Types,
+P12,Macroom,6,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,6,2010,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,6,2010,New,Household Buyer - Non-Occupier,
+P12,Macroom,6,2010,Existing,All Buyer Types,275000.0
+P12,Macroom,6,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+P12,Macroom,6,2010,Existing,Household Buyer - Former Owner-Occupier,
+P12,Macroom,6,2010,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,7,2010,All Dwelling Statuses,All Buyer Types,202187.0
+P12,Macroom,7,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,215000.0
+P12,Macroom,7,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,283750.0
+P12,Macroom,7,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,95000.0
+P12,Macroom,7,2010,New,All Buyer Types,269375.0
+P12,Macroom,7,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,254999.0
+P12,Macroom,7,2010,New,Household Buyer - Former Owner-Occupier,283750.0
+P12,Macroom,7,2010,New,Household Buyer - Non-Occupier,
+P12,Macroom,7,2010,Existing,All Buyer Types,135000.0
+P12,Macroom,7,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+P12,Macroom,7,2010,Existing,Household Buyer - Former Owner-Occupier,
+P12,Macroom,7,2010,Existing,Household Buyer - Non-Occupier,95000.0
+P12,Macroom,8,2010,All Dwelling Statuses,All Buyer Types,162700.0
+P12,Macroom,8,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,173400.0
+P12,Macroom,8,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,177150.0
+P12,Macroom,8,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,121500.0
+P12,Macroom,8,2010,New,All Buyer Types,215650.0
+P12,Macroom,8,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,227000.0
+P12,Macroom,8,2010,New,Household Buyer - Former Owner-Occupier,204300.0
+P12,Macroom,8,2010,New,Household Buyer - Non-Occupier,
+P12,Macroom,8,2010,Existing,All Buyer Types,147571.0
+P12,Macroom,8,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+P12,Macroom,8,2010,Existing,Household Buyer - Former Owner-Occupier,150000.0
+P12,Macroom,8,2010,Existing,Household Buyer - Non-Occupier,121500.0
+P12,Macroom,9,2010,All Dwelling Statuses,All Buyer Types,163614.0
+P12,Macroom,9,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,173750.0
+P12,Macroom,9,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,150100.0
+P12,Macroom,9,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,9,2010,New,All Buyer Types,
+P12,Macroom,9,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,9,2010,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,9,2010,New,Household Buyer - Non-Occupier,
+P12,Macroom,9,2010,Existing,All Buyer Types,163614.0
+P12,Macroom,9,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,173750.0
+P12,Macroom,9,2010,Existing,Household Buyer - Former Owner-Occupier,150100.0
+P12,Macroom,9,2010,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,10,2010,All Dwelling Statuses,All Buyer Types,256250.0
+P12,Macroom,10,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,221875.0
+P12,Macroom,10,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P12,Macroom,10,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,325000.0
+P12,Macroom,10,2010,New,All Buyer Types,283750.0
+P12,Macroom,10,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,283750.0
+P12,Macroom,10,2010,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,10,2010,New,Household Buyer - Non-Occupier,
+P12,Macroom,10,2010,Existing,All Buyer Types,242500.0
+P12,Macroom,10,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+P12,Macroom,10,2010,Existing,Household Buyer - Former Owner-Occupier,
+P12,Macroom,10,2010,Existing,Household Buyer - Non-Occupier,325000.0
+P12,Macroom,11,2010,All Dwelling Statuses,All Buyer Types,174820.0
+P12,Macroom,11,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,215000.0
+P12,Macroom,11,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,148033.0
+P12,Macroom,11,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,11,2010,New,All Buyer Types,
+P12,Macroom,11,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,11,2010,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,11,2010,New,Household Buyer - Non-Occupier,
+P12,Macroom,11,2010,Existing,All Buyer Types,174820.0
+P12,Macroom,11,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,215000.0
+P12,Macroom,11,2010,Existing,Household Buyer - Former Owner-Occupier,148033.0
+P12,Macroom,11,2010,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,12,2010,All Dwelling Statuses,All Buyer Types,200965.0
+P12,Macroom,12,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210666.0
+P12,Macroom,12,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,186412.0
+P12,Macroom,12,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,12,2010,New,All Buyer Types,233912.0
+P12,Macroom,12,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,209999.0
+P12,Macroom,12,2010,New,Household Buyer - Former Owner-Occupier,257824.0
+P12,Macroom,12,2010,New,Household Buyer - Non-Occupier,
+P12,Macroom,12,2010,Existing,All Buyer Types,179000.0
+P12,Macroom,12,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,211000.0
+P12,Macroom,12,2010,Existing,Household Buyer - Former Owner-Occupier,115000.0
+P12,Macroom,12,2010,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,1,2011,All Dwelling Statuses,All Buyer Types,144600.0
+P12,Macroom,1,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,140706.0
+P12,Macroom,1,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,255000.0
+P12,Macroom,1,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,45882.0
+P12,Macroom,1,2011,New,All Buyer Types,133560.0
+P12,Macroom,1,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,133560.0
+P12,Macroom,1,2011,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,1,2011,New,Household Buyer - Non-Occupier,
+P12,Macroom,1,2011,Existing,All Buyer Types,151961.0
+P12,Macroom,1,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,155000.0
+P12,Macroom,1,2011,Existing,Household Buyer - Former Owner-Occupier,255000.0
+P12,Macroom,1,2011,Existing,Household Buyer - Non-Occupier,45882.0
+P12,Macroom,2,2011,All Dwelling Statuses,All Buyer Types,208536.0
+P12,Macroom,2,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225248.0
+P12,Macroom,2,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,158400.0
+P12,Macroom,2,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,2,2011,New,All Buyer Types,325745.0
+P12,Macroom,2,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,325745.0
+P12,Macroom,2,2011,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,2,2011,New,Household Buyer - Non-Occupier,
+P12,Macroom,2,2011,Existing,All Buyer Types,169467.0
+P12,Macroom,2,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+P12,Macroom,2,2011,Existing,Household Buyer - Former Owner-Occupier,158400.0
+P12,Macroom,2,2011,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,3,2011,All Dwelling Statuses,All Buyer Types,198000.0
+P12,Macroom,3,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,3,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,198000.0
+P12,Macroom,3,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,3,2011,New,All Buyer Types,
+P12,Macroom,3,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,3,2011,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,3,2011,New,Household Buyer - Non-Occupier,
+P12,Macroom,3,2011,Existing,All Buyer Types,198000.0
+P12,Macroom,3,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,3,2011,Existing,Household Buyer - Former Owner-Occupier,198000.0
+P12,Macroom,3,2011,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,4,2011,All Dwelling Statuses,All Buyer Types,139000.0
+P12,Macroom,4,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,137500.0
+P12,Macroom,4,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,142000.0
+P12,Macroom,4,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,4,2011,New,All Buyer Types,169000.0
+P12,Macroom,4,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,4,2011,New,Household Buyer - Former Owner-Occupier,169000.0
+P12,Macroom,4,2011,New,Household Buyer - Non-Occupier,
+P12,Macroom,4,2011,Existing,All Buyer Types,133000.0
+P12,Macroom,4,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,137500.0
+P12,Macroom,4,2011,Existing,Household Buyer - Former Owner-Occupier,115000.0
+P12,Macroom,4,2011,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,5,2011,All Dwelling Statuses,All Buyer Types,163000.0
+P12,Macroom,5,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+P12,Macroom,5,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,135000.0
+P12,Macroom,5,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,5,2011,New,All Buyer Types,194999.0
+P12,Macroom,5,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,169999.0
+P12,Macroom,5,2011,New,Household Buyer - Former Owner-Occupier,219999.0
+P12,Macroom,5,2011,New,Household Buyer - Non-Occupier,
+P12,Macroom,5,2011,Existing,All Buyer Types,141667.0
+P12,Macroom,5,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,240000.0
+P12,Macroom,5,2011,Existing,Household Buyer - Former Owner-Occupier,92500.0
+P12,Macroom,5,2011,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,6,2011,All Dwelling Statuses,All Buyer Types,83667.0
+P12,Macroom,6,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100500.0
+P12,Macroom,6,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P12,Macroom,6,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,50000.0
+P12,Macroom,6,2011,New,All Buyer Types,
+P12,Macroom,6,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,6,2011,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,6,2011,New,Household Buyer - Non-Occupier,
+P12,Macroom,6,2011,Existing,All Buyer Types,83667.0
+P12,Macroom,6,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100500.0
+P12,Macroom,6,2011,Existing,Household Buyer - Former Owner-Occupier,
+P12,Macroom,6,2011,Existing,Household Buyer - Non-Occupier,50000.0
+P12,Macroom,7,2011,All Dwelling Statuses,All Buyer Types,158400.0
+P12,Macroom,7,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,258499.0
+P12,Macroom,7,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,112500.0
+P12,Macroom,7,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,50000.0
+P12,Macroom,7,2011,New,All Buyer Types,258499.0
+P12,Macroom,7,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,258499.0
+P12,Macroom,7,2011,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,7,2011,New,Household Buyer - Non-Occupier,
+P12,Macroom,7,2011,Existing,All Buyer Types,91667.0
+P12,Macroom,7,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,7,2011,Existing,Household Buyer - Former Owner-Occupier,112500.0
+P12,Macroom,7,2011,Existing,Household Buyer - Non-Occupier,50000.0
+P12,Macroom,8,2011,All Dwelling Statuses,All Buyer Types,150653.0
+P12,Macroom,8,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+P12,Macroom,8,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178300.0
+P12,Macroom,8,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,96667.0
+P12,Macroom,8,2011,New,All Buyer Types,165800.0
+P12,Macroom,8,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,149999.0
+P12,Macroom,8,2011,New,Household Buyer - Former Owner-Occupier,181600.0
+P12,Macroom,8,2011,New,Household Buyer - Non-Occupier,
+P12,Macroom,8,2011,Existing,All Buyer Types,140556.0
+P12,Macroom,8,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+P12,Macroom,8,2011,Existing,Household Buyer - Former Owner-Occupier,175000.0
+P12,Macroom,8,2011,Existing,Household Buyer - Non-Occupier,96667.0
+P12,Macroom,9,2011,All Dwelling Statuses,All Buyer Types,200483.0
+P12,Macroom,9,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,147550.0
+P12,Macroom,9,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,295000.0
+P12,Macroom,9,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,158900.0
+P12,Macroom,9,2011,New,All Buyer Types,153225.0
+P12,Macroom,9,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,147550.0
+P12,Macroom,9,2011,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,9,2011,New,Household Buyer - Non-Occupier,158900.0
+P12,Macroom,9,2011,Existing,All Buyer Types,295000.0
+P12,Macroom,9,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,9,2011,Existing,Household Buyer - Former Owner-Occupier,295000.0
+P12,Macroom,9,2011,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,10,2011,All Dwelling Statuses,All Buyer Types,170000.0
+P12,Macroom,10,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,142500.0
+P12,Macroom,10,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P12,Macroom,10,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,225000.0
+P12,Macroom,10,2011,New,All Buyer Types,
+P12,Macroom,10,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,10,2011,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,10,2011,New,Household Buyer - Non-Occupier,
+P12,Macroom,10,2011,Existing,All Buyer Types,170000.0
+P12,Macroom,10,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,142500.0
+P12,Macroom,10,2011,Existing,Household Buyer - Former Owner-Occupier,
+P12,Macroom,10,2011,Existing,Household Buyer - Non-Occupier,225000.0
+P12,Macroom,11,2011,All Dwelling Statuses,All Buyer Types,151765.0
+P12,Macroom,11,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,142608.0
+P12,Macroom,11,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,185999.0
+P12,Macroom,11,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,145000.0
+P12,Macroom,11,2011,New,All Buyer Types,191912.0
+P12,Macroom,11,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,197825.0
+P12,Macroom,11,2011,New,Household Buyer - Former Owner-Occupier,185999.0
+P12,Macroom,11,2011,New,Household Buyer - Non-Occupier,
+P12,Macroom,11,2011,Existing,All Buyer Types,125000.0
+P12,Macroom,11,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+P12,Macroom,11,2011,Existing,Household Buyer - Former Owner-Occupier,
+P12,Macroom,11,2011,Existing,Household Buyer - Non-Occupier,145000.0
+P12,Macroom,12,2011,All Dwelling Statuses,All Buyer Types,90000.0
+P12,Macroom,12,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,90000.0
+P12,Macroom,12,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P12,Macroom,12,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,12,2011,New,All Buyer Types,
+P12,Macroom,12,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,12,2011,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,12,2011,New,Household Buyer - Non-Occupier,
+P12,Macroom,12,2011,Existing,All Buyer Types,90000.0
+P12,Macroom,12,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,90000.0
+P12,Macroom,12,2011,Existing,Household Buyer - Former Owner-Occupier,
+P12,Macroom,12,2011,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,1,2012,All Dwelling Statuses,All Buyer Types,73000.0
+P12,Macroom,1,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,1,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,76000.0
+P12,Macroom,1,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,70000.0
+P12,Macroom,1,2012,New,All Buyer Types,
+P12,Macroom,1,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,1,2012,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,1,2012,New,Household Buyer - Non-Occupier,
+P12,Macroom,1,2012,Existing,All Buyer Types,73000.0
+P12,Macroom,1,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,1,2012,Existing,Household Buyer - Former Owner-Occupier,76000.0
+P12,Macroom,1,2012,Existing,Household Buyer - Non-Occupier,70000.0
+P12,Macroom,2,2012,All Dwelling Statuses,All Buyer Types,105600.0
+P12,Macroom,2,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,85000.0
+P12,Macroom,2,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P12,Macroom,2,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,188000.0
+P12,Macroom,2,2012,New,All Buyer Types,
+P12,Macroom,2,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,2,2012,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,2,2012,New,Household Buyer - Non-Occupier,
+P12,Macroom,2,2012,Existing,All Buyer Types,105600.0
+P12,Macroom,2,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,85000.0
+P12,Macroom,2,2012,Existing,Household Buyer - Former Owner-Occupier,
+P12,Macroom,2,2012,Existing,Household Buyer - Non-Occupier,188000.0
+P12,Macroom,3,2012,All Dwelling Statuses,All Buyer Types,75750.0
+P12,Macroom,3,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,3,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P12,Macroom,3,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,75750.0
+P12,Macroom,3,2012,New,All Buyer Types,
+P12,Macroom,3,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,3,2012,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,3,2012,New,Household Buyer - Non-Occupier,
+P12,Macroom,3,2012,Existing,All Buyer Types,75750.0
+P12,Macroom,3,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,3,2012,Existing,Household Buyer - Former Owner-Occupier,
+P12,Macroom,3,2012,Existing,Household Buyer - Non-Occupier,75750.0
+P12,Macroom,4,2012,All Dwelling Statuses,All Buyer Types,68333.0
+P12,Macroom,4,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,95000.0
+P12,Macroom,4,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,40000.0
+P12,Macroom,4,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,70000.0
+P12,Macroom,4,2012,New,All Buyer Types,
+P12,Macroom,4,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,4,2012,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,4,2012,New,Household Buyer - Non-Occupier,
+P12,Macroom,4,2012,Existing,All Buyer Types,68333.0
+P12,Macroom,4,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,95000.0
+P12,Macroom,4,2012,Existing,Household Buyer - Former Owner-Occupier,40000.0
+P12,Macroom,4,2012,Existing,Household Buyer - Non-Occupier,70000.0
+P12,Macroom,5,2012,All Dwelling Statuses,All Buyer Types,109250.0
+P12,Macroom,5,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,185000.0
+P12,Macroom,5,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,140000.0
+P12,Macroom,5,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,56000.0
+P12,Macroom,5,2012,New,All Buyer Types,
+P12,Macroom,5,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,5,2012,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,5,2012,New,Household Buyer - Non-Occupier,
+P12,Macroom,5,2012,Existing,All Buyer Types,109250.0
+P12,Macroom,5,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,185000.0
+P12,Macroom,5,2012,Existing,Household Buyer - Former Owner-Occupier,140000.0
+P12,Macroom,5,2012,Existing,Household Buyer - Non-Occupier,56000.0
+P12,Macroom,6,2012,All Dwelling Statuses,All Buyer Types,198000.0
+P12,Macroom,6,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,192500.0
+P12,Macroom,6,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,285833.0
+P12,Macroom,6,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,74500.0
+P12,Macroom,6,2012,New,All Buyer Types,
+P12,Macroom,6,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,6,2012,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,6,2012,New,Household Buyer - Non-Occupier,
+P12,Macroom,6,2012,Existing,All Buyer Types,198000.0
+P12,Macroom,6,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,192500.0
+P12,Macroom,6,2012,Existing,Household Buyer - Former Owner-Occupier,285833.0
+P12,Macroom,6,2012,Existing,Household Buyer - Non-Occupier,74500.0
+P12,Macroom,7,2012,All Dwelling Statuses,All Buyer Types,140667.0
+P12,Macroom,7,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165833.0
+P12,Macroom,7,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,107500.0
+P12,Macroom,7,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,56000.0
+P12,Macroom,7,2012,New,All Buyer Types,122500.0
+P12,Macroom,7,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+P12,Macroom,7,2012,New,Household Buyer - Former Owner-Occupier,145000.0
+P12,Macroom,7,2012,New,Household Buyer - Non-Occupier,
+P12,Macroom,7,2012,Existing,All Buyer Types,145857.0
+P12,Macroom,7,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,179000.0
+P12,Macroom,7,2012,Existing,Household Buyer - Former Owner-Occupier,70000.0
+P12,Macroom,7,2012,Existing,Household Buyer - Non-Occupier,56000.0
+P12,Macroom,8,2012,All Dwelling Statuses,All Buyer Types,227025.0
+P12,Macroom,8,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,450000.0
+P12,Macroom,8,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,180000.0
+P12,Macroom,8,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,51075.0
+P12,Macroom,8,2012,New,All Buyer Types,51075.0
+P12,Macroom,8,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,8,2012,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,8,2012,New,Household Buyer - Non-Occupier,51075.0
+P12,Macroom,8,2012,Existing,All Buyer Types,315000.0
+P12,Macroom,8,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,450000.0
+P12,Macroom,8,2012,Existing,Household Buyer - Former Owner-Occupier,180000.0
+P12,Macroom,8,2012,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,9,2012,All Dwelling Statuses,All Buyer Types,162333.0
+P12,Macroom,9,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,189750.0
+P12,Macroom,9,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,148625.0
+P12,Macroom,9,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,9,2012,New,All Buyer Types,
+P12,Macroom,9,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,9,2012,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,9,2012,New,Household Buyer - Non-Occupier,
+P12,Macroom,9,2012,Existing,All Buyer Types,162333.0
+P12,Macroom,9,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,189750.0
+P12,Macroom,9,2012,Existing,Household Buyer - Former Owner-Occupier,148625.0
+P12,Macroom,9,2012,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,10,2012,All Dwelling Statuses,All Buyer Types,208750.0
+P12,Macroom,10,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+P12,Macroom,10,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,210000.0
+P12,Macroom,10,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,10,2012,New,All Buyer Types,
+P12,Macroom,10,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,10,2012,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,10,2012,New,Household Buyer - Non-Occupier,
+P12,Macroom,10,2012,Existing,All Buyer Types,208750.0
+P12,Macroom,10,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+P12,Macroom,10,2012,Existing,Household Buyer - Former Owner-Occupier,210000.0
+P12,Macroom,10,2012,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,11,2012,All Dwelling Statuses,All Buyer Types,108786.0
+P12,Macroom,11,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,131667.0
+P12,Macroom,11,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,102500.0
+P12,Macroom,11,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,59000.0
+P12,Macroom,11,2012,New,All Buyer Types,
+P12,Macroom,11,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,11,2012,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,11,2012,New,Household Buyer - Non-Occupier,
+P12,Macroom,11,2012,Existing,All Buyer Types,108786.0
+P12,Macroom,11,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,131667.0
+P12,Macroom,11,2012,Existing,Household Buyer - Former Owner-Occupier,102500.0
+P12,Macroom,11,2012,Existing,Household Buyer - Non-Occupier,59000.0
+P12,Macroom,12,2012,All Dwelling Statuses,All Buyer Types,132325.0
+P12,Macroom,12,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,141653.0
+P12,Macroom,12,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,175000.0
+P12,Macroom,12,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,79000.0
+P12,Macroom,12,2012,New,All Buyer Types,138145.0
+P12,Macroom,12,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,138145.0
+P12,Macroom,12,2012,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,12,2012,New,Household Buyer - Non-Occupier,
+P12,Macroom,12,2012,Existing,All Buyer Types,128688.0
+P12,Macroom,12,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,147500.0
+P12,Macroom,12,2012,Existing,Household Buyer - Former Owner-Occupier,175000.0
+P12,Macroom,12,2012,Existing,Household Buyer - Non-Occupier,79000.0
+P12,Macroom,1,2013,All Dwelling Statuses,All Buyer Types,125310.0
+P12,Macroom,1,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,158000.0
+P12,Macroom,1,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,103517.0
+P12,Macroom,1,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,1,2013,New,All Buyer Types,161275.0
+P12,Macroom,1,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+P12,Macroom,1,2013,New,Household Buyer - Former Owner-Occupier,147550.0
+P12,Macroom,1,2013,New,Household Buyer - Non-Occupier,
+P12,Macroom,1,2013,Existing,All Buyer Types,101333.0
+P12,Macroom,1,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,141000.0
+P12,Macroom,1,2013,Existing,Household Buyer - Former Owner-Occupier,81500.0
+P12,Macroom,1,2013,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,2,2013,All Dwelling Statuses,All Buyer Types,139666.0
+P12,Macroom,2,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,145995.0
+P12,Macroom,2,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,163000.0
+P12,Macroom,2,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,40000.0
+P12,Macroom,2,2013,New,All Buyer Types,
+P12,Macroom,2,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,2,2013,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,2,2013,New,Household Buyer - Non-Occupier,
+P12,Macroom,2,2013,Existing,All Buyer Types,139666.0
+P12,Macroom,2,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,145995.0
+P12,Macroom,2,2013,Existing,Household Buyer - Former Owner-Occupier,163000.0
+P12,Macroom,2,2013,Existing,Household Buyer - Non-Occupier,40000.0
+P12,Macroom,3,2013,All Dwelling Statuses,All Buyer Types,123017.0
+P12,Macroom,3,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,111667.0
+P12,Macroom,3,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,141550.0
+P12,Macroom,3,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,120000.0
+P12,Macroom,3,2013,New,All Buyer Types,94050.0
+P12,Macroom,3,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,3,2013,New,Household Buyer - Former Owner-Occupier,68100.0
+P12,Macroom,3,2013,New,Household Buyer - Non-Occupier,120000.0
+P12,Macroom,3,2013,Existing,All Buyer Types,137500.0
+P12,Macroom,3,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,111667.0
+P12,Macroom,3,2013,Existing,Household Buyer - Former Owner-Occupier,215000.0
+P12,Macroom,3,2013,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,4,2013,All Dwelling Statuses,All Buyer Types,84667.0
+P12,Macroom,4,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,60000.0
+P12,Macroom,4,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,97000.0
+P12,Macroom,4,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,4,2013,New,All Buyer Types,60000.0
+P12,Macroom,4,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,60000.0
+P12,Macroom,4,2013,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,4,2013,New,Household Buyer - Non-Occupier,
+P12,Macroom,4,2013,Existing,All Buyer Types,97000.0
+P12,Macroom,4,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,4,2013,Existing,Household Buyer - Former Owner-Occupier,97000.0
+P12,Macroom,4,2013,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,5,2013,All Dwelling Statuses,All Buyer Types,72400.0
+P12,Macroom,5,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,53500.0
+P12,Macroom,5,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,180000.0
+P12,Macroom,5,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,37500.0
+P12,Macroom,5,2013,New,All Buyer Types,60000.0
+P12,Macroom,5,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,60000.0
+P12,Macroom,5,2013,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,5,2013,New,Household Buyer - Non-Occupier,
+P12,Macroom,5,2013,Existing,All Buyer Types,75500.0
+P12,Macroom,5,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,47000.0
+P12,Macroom,5,2013,Existing,Household Buyer - Former Owner-Occupier,180000.0
+P12,Macroom,5,2013,Existing,Household Buyer - Non-Occupier,37500.0
+P12,Macroom,6,2013,All Dwelling Statuses,All Buyer Types,123400.0
+P12,Macroom,6,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,80000.0
+P12,Macroom,6,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,129000.0
+P12,Macroom,6,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,150000.0
+P12,Macroom,6,2013,New,All Buyer Types,
+P12,Macroom,6,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,6,2013,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,6,2013,New,Household Buyer - Non-Occupier,
+P12,Macroom,6,2013,Existing,All Buyer Types,123400.0
+P12,Macroom,6,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,80000.0
+P12,Macroom,6,2013,Existing,Household Buyer - Former Owner-Occupier,129000.0
+P12,Macroom,6,2013,Existing,Household Buyer - Non-Occupier,150000.0
+P12,Macroom,7,2013,All Dwelling Statuses,All Buyer Types,116667.0
+P12,Macroom,7,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+P12,Macroom,7,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,110000.0
+P12,Macroom,7,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,7,2013,New,All Buyer Types,145000.0
+P12,Macroom,7,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,7,2013,New,Household Buyer - Former Owner-Occupier,145000.0
+P12,Macroom,7,2013,New,Household Buyer - Non-Occupier,
+P12,Macroom,7,2013,Existing,All Buyer Types,102500.0
+P12,Macroom,7,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+P12,Macroom,7,2013,Existing,Household Buyer - Former Owner-Occupier,75000.0
+P12,Macroom,7,2013,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,8,2013,All Dwelling Statuses,All Buyer Types,136413.0
+P12,Macroom,8,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,137150.0
+P12,Macroom,8,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,134250.0
+P12,Macroom,8,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,140000.0
+P12,Macroom,8,2013,New,All Buyer Types,154825.0
+P12,Macroom,8,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,204300.0
+P12,Macroom,8,2013,New,Household Buyer - Former Owner-Occupier,135000.0
+P12,Macroom,8,2013,New,Household Buyer - Non-Occupier,140000.0
+P12,Macroom,8,2013,Existing,All Buyer Types,118000.0
+P12,Macroom,8,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,70000.0
+P12,Macroom,8,2013,Existing,Household Buyer - Former Owner-Occupier,134000.0
+P12,Macroom,8,2013,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,9,2013,All Dwelling Statuses,All Buyer Types,180283.0
+P12,Macroom,9,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,196000.0
+P12,Macroom,9,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,90000.0
+P12,Macroom,9,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,184183.0
+P12,Macroom,9,2013,New,All Buyer Types,101275.0
+P12,Macroom,9,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,9,2013,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,9,2013,New,Household Buyer - Non-Occupier,101275.0
+P12,Macroom,9,2013,Existing,All Buyer Types,202857.0
+P12,Macroom,9,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,196000.0
+P12,Macroom,9,2013,Existing,Household Buyer - Former Owner-Occupier,90000.0
+P12,Macroom,9,2013,Existing,Household Buyer - Non-Occupier,350000.0
+P12,Macroom,10,2013,All Dwelling Statuses,All Buyer Types,129778.0
+P12,Macroom,10,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,138750.0
+P12,Macroom,10,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,132700.0
+P12,Macroom,10,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,85125.0
+P12,Macroom,10,2013,New,All Buyer Types,103306.0
+P12,Macroom,10,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,129999.0
+P12,Macroom,10,2013,New,Household Buyer - Former Owner-Occupier,68100.0
+P12,Macroom,10,2013,New,Household Buyer - Non-Occupier,85125.0
+P12,Macroom,10,2013,Existing,All Buyer Types,156250.0
+P12,Macroom,10,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,147500.0
+P12,Macroom,10,2013,Existing,Household Buyer - Former Owner-Occupier,165000.0
+P12,Macroom,10,2013,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,11,2013,All Dwelling Statuses,All Buyer Types,102500.0
+P12,Macroom,11,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,106500.0
+P12,Macroom,11,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P12,Macroom,11,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,82500.0
+P12,Macroom,11,2013,New,All Buyer Types,56667.0
+P12,Macroom,11,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,56667.0
+P12,Macroom,11,2013,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,11,2013,New,Household Buyer - Non-Occupier,
+P12,Macroom,11,2013,Existing,All Buyer Types,148333.0
+P12,Macroom,11,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,181250.0
+P12,Macroom,11,2013,Existing,Household Buyer - Former Owner-Occupier,
+P12,Macroom,11,2013,Existing,Household Buyer - Non-Occupier,82500.0
+P12,Macroom,12,2013,All Dwelling Statuses,All Buyer Types,127308.0
+P12,Macroom,12,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+P12,Macroom,12,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,150714.0
+P12,Macroom,12,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,70000.0
+P12,Macroom,12,2013,New,All Buyer Types,
+P12,Macroom,12,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,12,2013,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,12,2013,New,Household Buyer - Non-Occupier,
+P12,Macroom,12,2013,Existing,All Buyer Types,127308.0
+P12,Macroom,12,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+P12,Macroom,12,2013,Existing,Household Buyer - Former Owner-Occupier,150714.0
+P12,Macroom,12,2013,Existing,Household Buyer - Non-Occupier,70000.0
+P12,Macroom,1,2014,All Dwelling Statuses,All Buyer Types,129975.0
+P12,Macroom,1,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,185400.0
+P12,Macroom,1,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,111500.0
+P12,Macroom,1,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,1,2014,New,All Buyer Types,185400.0
+P12,Macroom,1,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,185400.0
+P12,Macroom,1,2014,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,1,2014,New,Household Buyer - Non-Occupier,
+P12,Macroom,1,2014,Existing,All Buyer Types,111500.0
+P12,Macroom,1,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,1,2014,Existing,Household Buyer - Former Owner-Occupier,111500.0
+P12,Macroom,1,2014,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,2,2014,All Dwelling Statuses,All Buyer Types,108800.0
+P12,Macroom,2,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+P12,Macroom,2,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,55500.0
+P12,Macroom,2,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,124850.0
+P12,Macroom,2,2014,New,All Buyer Types,
+P12,Macroom,2,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,2,2014,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,2,2014,New,Household Buyer - Non-Occupier,
+P12,Macroom,2,2014,Existing,All Buyer Types,108800.0
+P12,Macroom,2,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+P12,Macroom,2,2014,Existing,Household Buyer - Former Owner-Occupier,55500.0
+P12,Macroom,2,2014,Existing,Household Buyer - Non-Occupier,124850.0
+P12,Macroom,3,2014,All Dwelling Statuses,All Buyer Types,77667.0
+P12,Macroom,3,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,81000.0
+P12,Macroom,3,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P12,Macroom,3,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,71000.0
+P12,Macroom,3,2014,New,All Buyer Types,
+P12,Macroom,3,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,3,2014,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,3,2014,New,Household Buyer - Non-Occupier,
+P12,Macroom,3,2014,Existing,All Buyer Types,77667.0
+P12,Macroom,3,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,81000.0
+P12,Macroom,3,2014,Existing,Household Buyer - Former Owner-Occupier,
+P12,Macroom,3,2014,Existing,Household Buyer - Non-Occupier,71000.0
+P12,Macroom,4,2014,All Dwelling Statuses,All Buyer Types,121300.0
+P12,Macroom,4,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,77500.0
+P12,Macroom,4,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,160525.0
+P12,Macroom,4,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,52000.0
+P12,Macroom,4,2014,New,All Buyer Types,147550.0
+P12,Macroom,4,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,4,2014,New,Household Buyer - Former Owner-Occupier,147550.0
+P12,Macroom,4,2014,New,Household Buyer - Non-Occupier,
+P12,Macroom,4,2014,Existing,All Buyer Types,110800.0
+P12,Macroom,4,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,77500.0
+P12,Macroom,4,2014,Existing,Household Buyer - Former Owner-Occupier,173500.0
+P12,Macroom,4,2014,Existing,Household Buyer - Non-Occupier,52000.0
+P12,Macroom,5,2014,All Dwelling Statuses,All Buyer Types,151850.0
+P12,Macroom,5,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,205400.0
+P12,Macroom,5,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,134000.0
+P12,Macroom,5,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,5,2014,New,All Buyer Types,205400.0
+P12,Macroom,5,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,205400.0
+P12,Macroom,5,2014,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,5,2014,New,Household Buyer - Non-Occupier,
+P12,Macroom,5,2014,Existing,All Buyer Types,134000.0
+P12,Macroom,5,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,5,2014,Existing,Household Buyer - Former Owner-Occupier,134000.0
+P12,Macroom,5,2014,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,6,2014,All Dwelling Statuses,All Buyer Types,146708.0
+P12,Macroom,6,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,147167.0
+P12,Macroom,6,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,146250.0
+P12,Macroom,6,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,6,2014,New,All Buyer Types,
+P12,Macroom,6,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,6,2014,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,6,2014,New,Household Buyer - Non-Occupier,
+P12,Macroom,6,2014,Existing,All Buyer Types,146708.0
+P12,Macroom,6,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,147167.0
+P12,Macroom,6,2014,Existing,Household Buyer - Former Owner-Occupier,146250.0
+P12,Macroom,6,2014,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,7,2014,All Dwelling Statuses,All Buyer Types,100750.0
+P12,Macroom,7,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+P12,Macroom,7,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,109000.0
+P12,Macroom,7,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,75000.0
+P12,Macroom,7,2014,New,All Buyer Types,
+P12,Macroom,7,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,7,2014,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,7,2014,New,Household Buyer - Non-Occupier,
+P12,Macroom,7,2014,Existing,All Buyer Types,100750.0
+P12,Macroom,7,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+P12,Macroom,7,2014,Existing,Household Buyer - Former Owner-Occupier,109000.0
+P12,Macroom,7,2014,Existing,Household Buyer - Non-Occupier,75000.0
+P12,Macroom,8,2014,All Dwelling Statuses,All Buyer Types,131125.0
+P12,Macroom,8,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,337500.0
+P12,Macroom,8,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,121250.0
+P12,Macroom,8,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,88667.0
+P12,Macroom,8,2014,New,All Buyer Types,
+P12,Macroom,8,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,8,2014,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,8,2014,New,Household Buyer - Non-Occupier,
+P12,Macroom,8,2014,Existing,All Buyer Types,131125.0
+P12,Macroom,8,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,337500.0
+P12,Macroom,8,2014,Existing,Household Buyer - Former Owner-Occupier,121250.0
+P12,Macroom,8,2014,Existing,Household Buyer - Non-Occupier,88667.0
+P12,Macroom,9,2014,All Dwelling Statuses,All Buyer Types,173455.0
+P12,Macroom,9,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,227667.0
+P12,Macroom,9,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,153125.0
+P12,Macroom,9,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,9,2014,New,All Buyer Types,
+P12,Macroom,9,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,9,2014,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,9,2014,New,Household Buyer - Non-Occupier,
+P12,Macroom,9,2014,Existing,All Buyer Types,173455.0
+P12,Macroom,9,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,227667.0
+P12,Macroom,9,2014,Existing,Household Buyer - Former Owner-Occupier,153125.0
+P12,Macroom,9,2014,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,10,2014,All Dwelling Statuses,All Buyer Types,133727.0
+P12,Macroom,10,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,126400.0
+P12,Macroom,10,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,133200.0
+P12,Macroom,10,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,173000.0
+P12,Macroom,10,2014,New,All Buyer Types,250000.0
+P12,Macroom,10,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,235000.0
+P12,Macroom,10,2014,New,Household Buyer - Former Owner-Occupier,265000.0
+P12,Macroom,10,2014,New,Household Buyer - Non-Occupier,
+P12,Macroom,10,2014,Existing,All Buyer Types,107889.0
+P12,Macroom,10,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,99250.0
+P12,Macroom,10,2014,Existing,Household Buyer - Former Owner-Occupier,100250.0
+P12,Macroom,10,2014,Existing,Household Buyer - Non-Occupier,173000.0
+P12,Macroom,11,2014,All Dwelling Statuses,All Buyer Types,171500.0
+P12,Macroom,11,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,175750.0
+P12,Macroom,11,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,280000.0
+P12,Macroom,11,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,108750.0
+P12,Macroom,11,2014,New,All Buyer Types,
+P12,Macroom,11,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,11,2014,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,11,2014,New,Household Buyer - Non-Occupier,
+P12,Macroom,11,2014,Existing,All Buyer Types,171500.0
+P12,Macroom,11,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,175750.0
+P12,Macroom,11,2014,Existing,Household Buyer - Former Owner-Occupier,280000.0
+P12,Macroom,11,2014,Existing,Household Buyer - Non-Occupier,108750.0
+P12,Macroom,12,2014,All Dwelling Statuses,All Buyer Types,160500.0
+P12,Macroom,12,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,187000.0
+P12,Macroom,12,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,175200.0
+P12,Macroom,12,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,84000.0
+P12,Macroom,12,2014,New,All Buyer Types,
+P12,Macroom,12,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,12,2014,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,12,2014,New,Household Buyer - Non-Occupier,
+P12,Macroom,12,2014,Existing,All Buyer Types,160500.0
+P12,Macroom,12,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,187000.0
+P12,Macroom,12,2014,Existing,Household Buyer - Former Owner-Occupier,175200.0
+P12,Macroom,12,2014,Existing,Household Buyer - Non-Occupier,84000.0
+P12,Macroom,1,2015,All Dwelling Statuses,All Buyer Types,132071.0
+P12,Macroom,1,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+P12,Macroom,1,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,110833.0
+P12,Macroom,1,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,166000.0
+P12,Macroom,1,2015,New,All Buyer Types,151999.0
+P12,Macroom,1,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,1,2015,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,1,2015,New,Household Buyer - Non-Occupier,151999.0
+P12,Macroom,1,2015,Existing,All Buyer Types,128750.0
+P12,Macroom,1,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+P12,Macroom,1,2015,Existing,Household Buyer - Former Owner-Occupier,110833.0
+P12,Macroom,1,2015,Existing,Household Buyer - Non-Occupier,180000.0
+P12,Macroom,2,2015,All Dwelling Statuses,All Buyer Types,139972.0
+P12,Macroom,2,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,147944.0
+P12,Macroom,2,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,159667.0
+P12,Macroom,2,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,49000.0
+P12,Macroom,2,2015,New,All Buyer Types,149888.0
+P12,Macroom,2,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,146776.0
+P12,Macroom,2,2015,New,Household Buyer - Former Owner-Occupier,153000.0
+P12,Macroom,2,2015,New,Household Buyer - Non-Occupier,
+P12,Macroom,2,2015,Existing,All Buyer Types,136667.0
+P12,Macroom,2,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,148333.0
+P12,Macroom,2,2015,Existing,Household Buyer - Former Owner-Occupier,163000.0
+P12,Macroom,2,2015,Existing,Household Buyer - Non-Occupier,49000.0
+P12,Macroom,3,2015,All Dwelling Statuses,All Buyer Types,176882.0
+P12,Macroom,3,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,172142.0
+P12,Macroom,3,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,212917.0
+P12,Macroom,3,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,83000.0
+P12,Macroom,3,2015,New,All Buyer Types,146850.0
+P12,Macroom,3,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,146850.0
+P12,Macroom,3,2015,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,3,2015,New,Household Buyer - Non-Occupier,
+P12,Macroom,3,2015,Existing,All Buyer Types,179192.0
+P12,Macroom,3,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,177200.0
+P12,Macroom,3,2015,Existing,Household Buyer - Former Owner-Occupier,212917.0
+P12,Macroom,3,2015,Existing,Household Buyer - Non-Occupier,83000.0
+P12,Macroom,4,2015,All Dwelling Statuses,All Buyer Types,106750.0
+P12,Macroom,4,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,107333.0
+P12,Macroom,4,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,105000.0
+P12,Macroom,4,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,4,2015,New,All Buyer Types,
+P12,Macroom,4,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,4,2015,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,4,2015,New,Household Buyer - Non-Occupier,
+P12,Macroom,4,2015,Existing,All Buyer Types,106750.0
+P12,Macroom,4,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,107333.0
+P12,Macroom,4,2015,Existing,Household Buyer - Former Owner-Occupier,105000.0
+P12,Macroom,4,2015,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,5,2015,All Dwelling Statuses,All Buyer Types,150214.0
+P12,Macroom,5,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,104000.0
+P12,Macroom,5,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,180875.0
+P12,Macroom,5,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,114667.0
+P12,Macroom,5,2015,New,All Buyer Types,220000.0
+P12,Macroom,5,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,5,2015,New,Household Buyer - Former Owner-Occupier,220000.0
+P12,Macroom,5,2015,New,Household Buyer - Non-Occupier,
+P12,Macroom,5,2015,Existing,All Buyer Types,144846.0
+P12,Macroom,5,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,104000.0
+P12,Macroom,5,2015,Existing,Household Buyer - Former Owner-Occupier,175286.0
+P12,Macroom,5,2015,Existing,Household Buyer - Non-Occupier,114667.0
+P12,Macroom,6,2015,All Dwelling Statuses,All Buyer Types,135875.0
+P12,Macroom,6,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,171750.0
+P12,Macroom,6,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,140000.0
+P12,Macroom,6,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,60000.0
+P12,Macroom,6,2015,New,All Buyer Types,140000.0
+P12,Macroom,6,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,6,2015,New,Household Buyer - Former Owner-Occupier,140000.0
+P12,Macroom,6,2015,New,Household Buyer - Non-Occupier,
+P12,Macroom,6,2015,Existing,All Buyer Types,134500.0
+P12,Macroom,6,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,171750.0
+P12,Macroom,6,2015,Existing,Household Buyer - Former Owner-Occupier,
+P12,Macroom,6,2015,Existing,Household Buyer - Non-Occupier,60000.0
+P12,Macroom,7,2015,All Dwelling Statuses,All Buyer Types,169608.0
+P12,Macroom,7,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,190333.0
+P12,Macroom,7,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,164878.0
+P12,Macroom,7,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,150000.0
+P12,Macroom,7,2015,New,All Buyer Types,171953.0
+P12,Macroom,7,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,7,2015,New,Household Buyer - Former Owner-Occupier,171953.0
+P12,Macroom,7,2015,New,Household Buyer - Non-Occupier,
+P12,Macroom,7,2015,Existing,All Buyer Types,169182.0
+P12,Macroom,7,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,190333.0
+P12,Macroom,7,2015,Existing,Household Buyer - Former Owner-Occupier,162857.0
+P12,Macroom,7,2015,Existing,Household Buyer - Non-Occupier,150000.0
+P12,Macroom,8,2015,All Dwelling Statuses,All Buyer Types,147500.0
+P12,Macroom,8,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+P12,Macroom,8,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,143333.0
+P12,Macroom,8,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,8,2015,New,All Buyer Types,
+P12,Macroom,8,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,8,2015,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,8,2015,New,Household Buyer - Non-Occupier,
+P12,Macroom,8,2015,Existing,All Buyer Types,147500.0
+P12,Macroom,8,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+P12,Macroom,8,2015,Existing,Household Buyer - Former Owner-Occupier,143333.0
+P12,Macroom,8,2015,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,9,2015,All Dwelling Statuses,All Buyer Types,176493.0
+P12,Macroom,9,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115100.0
+P12,Macroom,9,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,219556.0
+P12,Macroom,9,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,105500.0
+P12,Macroom,9,2015,New,All Buyer Types,225400.0
+P12,Macroom,9,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,225400.0
+P12,Macroom,9,2015,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,9,2015,New,Household Buyer - Non-Occupier,
+P12,Macroom,9,2015,Existing,All Buyer Types,173000.0
+P12,Macroom,9,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,78333.0
+P12,Macroom,9,2015,Existing,Household Buyer - Former Owner-Occupier,219556.0
+P12,Macroom,9,2015,Existing,Household Buyer - Non-Occupier,105500.0
+P12,Macroom,10,2015,All Dwelling Statuses,All Buyer Types,179028.0
+P12,Macroom,10,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,265000.0
+P12,Macroom,10,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,136042.0
+P12,Macroom,10,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,10,2015,New,All Buyer Types,
+P12,Macroom,10,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,10,2015,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,10,2015,New,Household Buyer - Non-Occupier,
+P12,Macroom,10,2015,Existing,All Buyer Types,179028.0
+P12,Macroom,10,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,265000.0
+P12,Macroom,10,2015,Existing,Household Buyer - Former Owner-Occupier,136042.0
+P12,Macroom,10,2015,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,11,2015,All Dwelling Statuses,All Buyer Types,169393.0
+P12,Macroom,11,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+P12,Macroom,11,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,221438.0
+P12,Macroom,11,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,11,2015,New,All Buyer Types,
+P12,Macroom,11,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,11,2015,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,11,2015,New,Household Buyer - Non-Occupier,
+P12,Macroom,11,2015,Existing,All Buyer Types,169393.0
+P12,Macroom,11,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+P12,Macroom,11,2015,Existing,Household Buyer - Former Owner-Occupier,221438.0
+P12,Macroom,11,2015,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,12,2015,All Dwelling Statuses,All Buyer Types,187250.0
+P12,Macroom,12,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,248500.0
+P12,Macroom,12,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,78333.0
+P12,Macroom,12,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,197500.0
+P12,Macroom,12,2015,New,All Buyer Types,225000.0
+P12,Macroom,12,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,225000.0
+P12,Macroom,12,2015,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,12,2015,New,Household Buyer - Non-Occupier,
+P12,Macroom,12,2015,Existing,All Buyer Types,183056.0
+P12,Macroom,12,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,254375.0
+P12,Macroom,12,2015,Existing,Household Buyer - Former Owner-Occupier,78333.0
+P12,Macroom,12,2015,Existing,Household Buyer - Non-Occupier,197500.0
+P12,Macroom,1,2016,All Dwelling Statuses,All Buyer Types,135452.0
+P12,Macroom,1,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,1,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,260000.0
+P12,Macroom,1,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,114695.0
+P12,Macroom,1,2016,New,All Buyer Types,
+P12,Macroom,1,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,1,2016,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,1,2016,New,Household Buyer - Non-Occupier,
+P12,Macroom,1,2016,Existing,All Buyer Types,135452.0
+P12,Macroom,1,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,1,2016,Existing,Household Buyer - Former Owner-Occupier,260000.0
+P12,Macroom,1,2016,Existing,Household Buyer - Non-Occupier,114695.0
+P12,Macroom,2,2016,All Dwelling Statuses,All Buyer Types,157333.0
+P12,Macroom,2,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,196000.0
+P12,Macroom,2,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,135667.0
+P12,Macroom,2,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,145000.0
+P12,Macroom,2,2016,New,All Buyer Types,
+P12,Macroom,2,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,2,2016,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,2,2016,New,Household Buyer - Non-Occupier,
+P12,Macroom,2,2016,Existing,All Buyer Types,157333.0
+P12,Macroom,2,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,196000.0
+P12,Macroom,2,2016,Existing,Household Buyer - Former Owner-Occupier,135667.0
+P12,Macroom,2,2016,Existing,Household Buyer - Non-Occupier,145000.0
+P12,Macroom,3,2016,All Dwelling Statuses,All Buyer Types,165100.0
+P12,Macroom,3,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,145000.0
+P12,Macroom,3,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,225400.0
+P12,Macroom,3,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,3,2016,New,All Buyer Types,225400.0
+P12,Macroom,3,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,3,2016,New,Household Buyer - Former Owner-Occupier,225400.0
+P12,Macroom,3,2016,New,Household Buyer - Non-Occupier,
+P12,Macroom,3,2016,Existing,All Buyer Types,145000.0
+P12,Macroom,3,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,145000.0
+P12,Macroom,3,2016,Existing,Household Buyer - Former Owner-Occupier,
+P12,Macroom,3,2016,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,4,2016,All Dwelling Statuses,All Buyer Types,160000.0
+P12,Macroom,4,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+P12,Macroom,4,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,100000.0
+P12,Macroom,4,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,4,2016,New,All Buyer Types,
+P12,Macroom,4,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,4,2016,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,4,2016,New,Household Buyer - Non-Occupier,
+P12,Macroom,4,2016,Existing,All Buyer Types,160000.0
+P12,Macroom,4,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+P12,Macroom,4,2016,Existing,Household Buyer - Former Owner-Occupier,100000.0
+P12,Macroom,4,2016,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,5,2016,All Dwelling Statuses,All Buyer Types,187250.0
+P12,Macroom,5,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+P12,Macroom,5,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197000.0
+P12,Macroom,5,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,225000.0
+P12,Macroom,5,2016,New,All Buyer Types,
+P12,Macroom,5,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,5,2016,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,5,2016,New,Household Buyer - Non-Occupier,
+P12,Macroom,5,2016,Existing,All Buyer Types,187250.0
+P12,Macroom,5,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+P12,Macroom,5,2016,Existing,Household Buyer - Former Owner-Occupier,197000.0
+P12,Macroom,5,2016,Existing,Household Buyer - Non-Occupier,225000.0
+P12,Macroom,6,2016,All Dwelling Statuses,All Buyer Types,144618.0
+P12,Macroom,6,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,96600.0
+P12,Macroom,6,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,224648.0
+P12,Macroom,6,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,6,2016,New,All Buyer Types,277944.0
+P12,Macroom,6,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,6,2016,New,Household Buyer - Former Owner-Occupier,277944.0
+P12,Macroom,6,2016,New,Household Buyer - Non-Occupier,
+P12,Macroom,6,2016,Existing,All Buyer Types,125571.0
+P12,Macroom,6,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,96600.0
+P12,Macroom,6,2016,Existing,Household Buyer - Former Owner-Occupier,198000.0
+P12,Macroom,6,2016,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,7,2016,All Dwelling Statuses,All Buyer Types,116771.0
+P12,Macroom,7,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+P12,Macroom,7,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,212700.0
+P12,Macroom,7,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,73000.0
+P12,Macroom,7,2016,New,All Buyer Types,235399.0
+P12,Macroom,7,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,7,2016,New,Household Buyer - Former Owner-Occupier,235399.0
+P12,Macroom,7,2016,New,Household Buyer - Non-Occupier,
+P12,Macroom,7,2016,Existing,All Buyer Types,97000.0
+P12,Macroom,7,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+P12,Macroom,7,2016,Existing,Household Buyer - Former Owner-Occupier,190000.0
+P12,Macroom,7,2016,Existing,Household Buyer - Non-Occupier,73000.0
+P12,Macroom,8,2016,All Dwelling Statuses,All Buyer Types,132556.0
+P12,Macroom,8,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,123400.0
+P12,Macroom,8,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,154000.0
+P12,Macroom,8,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,114000.0
+P12,Macroom,8,2016,New,All Buyer Types,
+P12,Macroom,8,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,8,2016,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,8,2016,New,Household Buyer - Non-Occupier,
+P12,Macroom,8,2016,Existing,All Buyer Types,132556.0
+P12,Macroom,8,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,123400.0
+P12,Macroom,8,2016,Existing,Household Buyer - Former Owner-Occupier,154000.0
+P12,Macroom,8,2016,Existing,Household Buyer - Non-Occupier,114000.0
+P12,Macroom,9,2016,All Dwelling Statuses,All Buyer Types,166904.0
+P12,Macroom,9,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,211500.0
+P12,Macroom,9,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,159375.0
+P12,Macroom,9,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,107825.0
+P12,Macroom,9,2016,New,All Buyer Types,107825.0
+P12,Macroom,9,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,9,2016,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,9,2016,New,Household Buyer - Non-Occupier,107825.0
+P12,Macroom,9,2016,Existing,All Buyer Types,176750.0
+P12,Macroom,9,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,211500.0
+P12,Macroom,9,2016,Existing,Household Buyer - Former Owner-Occupier,159375.0
+P12,Macroom,9,2016,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,10,2016,All Dwelling Statuses,All Buyer Types,265143.0
+P12,Macroom,10,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,141000.0
+P12,Macroom,10,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,233000.0
+P12,Macroom,10,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,550000.0
+P12,Macroom,10,2016,New,All Buyer Types,542500.0
+P12,Macroom,10,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,10,2016,New,Household Buyer - Former Owner-Occupier,535000.0
+P12,Macroom,10,2016,New,Household Buyer - Non-Occupier,550000.0
+P12,Macroom,10,2016,Existing,All Buyer Types,154200.0
+P12,Macroom,10,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,141000.0
+P12,Macroom,10,2016,Existing,Household Buyer - Former Owner-Occupier,157500.0
+P12,Macroom,10,2016,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,11,2016,All Dwelling Statuses,All Buyer Types,169250.0
+P12,Macroom,11,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,167000.0
+P12,Macroom,11,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,186000.0
+P12,Macroom,11,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,90000.0
+P12,Macroom,11,2016,New,All Buyer Types,
+P12,Macroom,11,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,11,2016,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,11,2016,New,Household Buyer - Non-Occupier,
+P12,Macroom,11,2016,Existing,All Buyer Types,169250.0
+P12,Macroom,11,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,167000.0
+P12,Macroom,11,2016,Existing,Household Buyer - Former Owner-Occupier,186000.0
+P12,Macroom,11,2016,Existing,Household Buyer - Non-Occupier,90000.0
+P12,Macroom,12,2016,All Dwelling Statuses,All Buyer Types,171615.0
+P12,Macroom,12,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,207800.0
+P12,Macroom,12,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,156833.0
+P12,Macroom,12,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,125500.0
+P12,Macroom,12,2016,New,All Buyer Types,
+P12,Macroom,12,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,12,2016,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,12,2016,New,Household Buyer - Non-Occupier,
+P12,Macroom,12,2016,Existing,All Buyer Types,171615.0
+P12,Macroom,12,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,207800.0
+P12,Macroom,12,2016,Existing,Household Buyer - Former Owner-Occupier,156833.0
+P12,Macroom,12,2016,Existing,Household Buyer - Non-Occupier,125500.0
+P12,Macroom,1,2017,All Dwelling Statuses,All Buyer Types,92500.0
+P12,Macroom,1,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,51000.0
+P12,Macroom,1,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,134000.0
+P12,Macroom,1,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,1,2017,New,All Buyer Types,
+P12,Macroom,1,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,1,2017,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,1,2017,New,Household Buyer - Non-Occupier,
+P12,Macroom,1,2017,Existing,All Buyer Types,92500.0
+P12,Macroom,1,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,51000.0
+P12,Macroom,1,2017,Existing,Household Buyer - Former Owner-Occupier,134000.0
+P12,Macroom,1,2017,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,2,2017,All Dwelling Statuses,All Buyer Types,135064.0
+P12,Macroom,2,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,102670.0
+P12,Macroom,2,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,170348.0
+P12,Macroom,2,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,74333.0
+P12,Macroom,2,2017,New,All Buyer Types,113682.0
+P12,Macroom,2,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,95340.0
+P12,Macroom,2,2017,New,Household Buyer - Former Owner-Occupier,136858.0
+P12,Macroom,2,2017,New,Household Buyer - Non-Occupier,76499.0
+P12,Macroom,2,2017,Existing,All Buyer Types,165000.0
+P12,Macroom,2,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+P12,Macroom,2,2017,Existing,Household Buyer - Former Owner-Occupier,215000.0
+P12,Macroom,2,2017,Existing,Household Buyer - Non-Occupier,70000.0
+P12,Macroom,3,2017,All Dwelling Statuses,All Buyer Types,235000.0
+P12,Macroom,3,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,3,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,235000.0
+P12,Macroom,3,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,3,2017,New,All Buyer Types,210000.0
+P12,Macroom,3,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,3,2017,New,Household Buyer - Former Owner-Occupier,210000.0
+P12,Macroom,3,2017,New,Household Buyer - Non-Occupier,
+P12,Macroom,3,2017,Existing,All Buyer Types,247500.0
+P12,Macroom,3,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,3,2017,Existing,Household Buyer - Former Owner-Occupier,247500.0
+P12,Macroom,3,2017,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,4,2017,All Dwelling Statuses,All Buyer Types,199419.0
+P12,Macroom,4,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,255952.0
+P12,Macroom,4,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,173125.0
+P12,Macroom,4,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,135000.0
+P12,Macroom,4,2017,New,All Buyer Types,281428.0
+P12,Macroom,4,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,281428.0
+P12,Macroom,4,2017,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,4,2017,New,Household Buyer - Non-Occupier,
+P12,Macroom,4,2017,Existing,All Buyer Types,172083.0
+P12,Macroom,4,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+P12,Macroom,4,2017,Existing,Household Buyer - Former Owner-Occupier,173125.0
+P12,Macroom,4,2017,Existing,Household Buyer - Non-Occupier,135000.0
+P12,Macroom,5,2017,All Dwelling Statuses,All Buyer Types,222492.0
+P12,Macroom,5,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+P12,Macroom,5,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,265925.0
+P12,Macroom,5,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,97500.0
+P12,Macroom,5,2017,New,All Buyer Types,530199.0
+P12,Macroom,5,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,5,2017,New,Household Buyer - Former Owner-Occupier,530199.0
+P12,Macroom,5,2017,New,Household Buyer - Non-Occupier,
+P12,Macroom,5,2017,Existing,All Buyer Types,166545.0
+P12,Macroom,5,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+P12,Macroom,5,2017,Existing,Household Buyer - Former Owner-Occupier,177833.0
+P12,Macroom,5,2017,Existing,Household Buyer - Non-Occupier,97500.0
+P12,Macroom,6,2017,All Dwelling Statuses,All Buyer Types,198322.0
+P12,Macroom,6,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,187610.0
+P12,Macroom,6,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,222571.0
+P12,Macroom,6,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,50000.0
+P12,Macroom,6,2017,New,All Buyer Types,223805.0
+P12,Macroom,6,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,187610.0
+P12,Macroom,6,2017,New,Household Buyer - Former Owner-Occupier,260000.0
+P12,Macroom,6,2017,New,Household Buyer - Non-Occupier,
+P12,Macroom,6,2017,Existing,All Buyer Types,181333.0
+P12,Macroom,6,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,6,2017,Existing,Household Buyer - Former Owner-Occupier,207600.0
+P12,Macroom,6,2017,Existing,Household Buyer - Non-Occupier,50000.0
+P12,Macroom,7,2017,All Dwelling Statuses,All Buyer Types,330526.0
+P12,Macroom,7,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,196000.0
+P12,Macroom,7,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,384337.0
+P12,Macroom,7,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,7,2017,New,All Buyer Types,320592.0
+P12,Macroom,7,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,151999.0
+P12,Macroom,7,2017,New,Household Buyer - Former Owner-Occupier,489185.0
+P12,Macroom,7,2017,New,Household Buyer - Non-Occupier,
+P12,Macroom,7,2017,Existing,All Buyer Types,334500.0
+P12,Macroom,7,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,240000.0
+P12,Macroom,7,2017,Existing,Household Buyer - Former Owner-Occupier,358125.0
+P12,Macroom,7,2017,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,8,2017,All Dwelling Statuses,All Buyer Types,180125.0
+P12,Macroom,8,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180333.0
+P12,Macroom,8,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,236667.0
+P12,Macroom,8,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,95000.0
+P12,Macroom,8,2017,New,All Buyer Types,
+P12,Macroom,8,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,8,2017,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,8,2017,New,Household Buyer - Non-Occupier,
+P12,Macroom,8,2017,Existing,All Buyer Types,180125.0
+P12,Macroom,8,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180333.0
+P12,Macroom,8,2017,Existing,Household Buyer - Former Owner-Occupier,236667.0
+P12,Macroom,8,2017,Existing,Household Buyer - Non-Occupier,95000.0
+P12,Macroom,9,2017,All Dwelling Statuses,All Buyer Types,198732.0
+P12,Macroom,9,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,157167.0
+P12,Macroom,9,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,229906.0
+P12,Macroom,9,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,9,2017,New,All Buyer Types,289624.0
+P12,Macroom,9,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,9,2017,New,Household Buyer - Former Owner-Occupier,289624.0
+P12,Macroom,9,2017,New,Household Buyer - Non-Occupier,
+P12,Macroom,9,2017,Existing,All Buyer Types,183583.0
+P12,Macroom,9,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,157167.0
+P12,Macroom,9,2017,Existing,Household Buyer - Former Owner-Occupier,210000.0
+P12,Macroom,9,2017,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,10,2017,All Dwelling Statuses,All Buyer Types,192625.0
+P12,Macroom,10,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,168667.0
+P12,Macroom,10,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,253333.0
+P12,Macroom,10,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,137500.0
+P12,Macroom,10,2017,New,All Buyer Types,
+P12,Macroom,10,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,10,2017,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,10,2017,New,Household Buyer - Non-Occupier,
+P12,Macroom,10,2017,Existing,All Buyer Types,192625.0
+P12,Macroom,10,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,168667.0
+P12,Macroom,10,2017,Existing,Household Buyer - Former Owner-Occupier,253333.0
+P12,Macroom,10,2017,Existing,Household Buyer - Non-Occupier,137500.0
+P12,Macroom,11,2017,All Dwelling Statuses,All Buyer Types,190667.0
+P12,Macroom,11,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,134000.0
+P12,Macroom,11,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,202000.0
+P12,Macroom,11,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,11,2017,New,All Buyer Types,
+P12,Macroom,11,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,11,2017,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,11,2017,New,Household Buyer - Non-Occupier,
+P12,Macroom,11,2017,Existing,All Buyer Types,190667.0
+P12,Macroom,11,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,134000.0
+P12,Macroom,11,2017,Existing,Household Buyer - Former Owner-Occupier,202000.0
+P12,Macroom,11,2017,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,12,2017,All Dwelling Statuses,All Buyer Types,214750.0
+P12,Macroom,12,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+P12,Macroom,12,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,241600.0
+P12,Macroom,12,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,152500.0
+P12,Macroom,12,2017,New,All Buyer Types,
+P12,Macroom,12,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,12,2017,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,12,2017,New,Household Buyer - Non-Occupier,
+P12,Macroom,12,2017,Existing,All Buyer Types,214750.0
+P12,Macroom,12,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+P12,Macroom,12,2017,Existing,Household Buyer - Former Owner-Occupier,241600.0
+P12,Macroom,12,2017,Existing,Household Buyer - Non-Occupier,152500.0
+P12,Macroom,1,2018,All Dwelling Statuses,All Buyer Types,35000.0
+P12,Macroom,1,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,1,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,35000.0
+P12,Macroom,1,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,1,2018,New,All Buyer Types,
+P12,Macroom,1,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,1,2018,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,1,2018,New,Household Buyer - Non-Occupier,
+P12,Macroom,1,2018,Existing,All Buyer Types,35000.0
+P12,Macroom,1,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,1,2018,Existing,Household Buyer - Former Owner-Occupier,35000.0
+P12,Macroom,1,2018,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,2,2018,All Dwelling Statuses,All Buyer Types,131000.0
+P12,Macroom,2,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+P12,Macroom,2,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,260000.0
+P12,Macroom,2,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,75000.0
+P12,Macroom,2,2018,New,All Buyer Types,
+P12,Macroom,2,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,2,2018,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,2,2018,New,Household Buyer - Non-Occupier,
+P12,Macroom,2,2018,Existing,All Buyer Types,131000.0
+P12,Macroom,2,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+P12,Macroom,2,2018,Existing,Household Buyer - Former Owner-Occupier,260000.0
+P12,Macroom,2,2018,Existing,Household Buyer - Non-Occupier,75000.0
+P12,Macroom,3,2018,All Dwelling Statuses,All Buyer Types,160000.0
+P12,Macroom,3,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,80000.0
+P12,Macroom,3,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,255000.0
+P12,Macroom,3,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,50000.0
+P12,Macroom,3,2018,New,All Buyer Types,
+P12,Macroom,3,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,3,2018,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,3,2018,New,Household Buyer - Non-Occupier,
+P12,Macroom,3,2018,Existing,All Buyer Types,160000.0
+P12,Macroom,3,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,80000.0
+P12,Macroom,3,2018,Existing,Household Buyer - Former Owner-Occupier,255000.0
+P12,Macroom,3,2018,Existing,Household Buyer - Non-Occupier,50000.0
+P12,Macroom,4,2018,All Dwelling Statuses,All Buyer Types,229417.0
+P12,Macroom,4,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,4,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,225300.0
+P12,Macroom,4,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,250000.0
+P12,Macroom,4,2018,New,All Buyer Types,
+P12,Macroom,4,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,4,2018,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,4,2018,New,Household Buyer - Non-Occupier,
+P12,Macroom,4,2018,Existing,All Buyer Types,229417.0
+P12,Macroom,4,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,4,2018,Existing,Household Buyer - Former Owner-Occupier,225300.0
+P12,Macroom,4,2018,Existing,Household Buyer - Non-Occupier,250000.0
+P12,Macroom,5,2018,All Dwelling Statuses,All Buyer Types,220500.0
+P12,Macroom,5,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,194999.0
+P12,Macroom,5,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,220500.0
+P12,Macroom,5,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,229000.0
+P12,Macroom,5,2018,New,All Buyer Types,194999.0
+P12,Macroom,5,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,194999.0
+P12,Macroom,5,2018,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,5,2018,New,Household Buyer - Non-Occupier,
+P12,Macroom,5,2018,Existing,All Buyer Types,223333.0
+P12,Macroom,5,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,5,2018,Existing,Household Buyer - Former Owner-Occupier,220500.0
+P12,Macroom,5,2018,Existing,Household Buyer - Non-Occupier,229000.0
+P12,Macroom,6,2018,All Dwelling Statuses,All Buyer Types,247094.0
+P12,Macroom,6,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,246875.0
+P12,Macroom,6,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,276400.0
+P12,Macroom,6,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,101000.0
+P12,Macroom,6,2018,New,All Buyer Types,
+P12,Macroom,6,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,6,2018,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,6,2018,New,Household Buyer - Non-Occupier,
+P12,Macroom,6,2018,Existing,All Buyer Types,247094.0
+P12,Macroom,6,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,246875.0
+P12,Macroom,6,2018,Existing,Household Buyer - Former Owner-Occupier,276400.0
+P12,Macroom,6,2018,Existing,Household Buyer - Non-Occupier,101000.0
+P12,Macroom,7,2018,All Dwelling Statuses,All Buyer Types,197265.0
+P12,Macroom,7,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,183666.0
+P12,Macroom,7,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,236875.0
+P12,Macroom,7,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,188250.0
+P12,Macroom,7,2018,New,All Buyer Types,209999.0
+P12,Macroom,7,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,209999.0
+P12,Macroom,7,2018,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,7,2018,New,Household Buyer - Non-Occupier,
+P12,Macroom,7,2018,Existing,All Buyer Types,195567.0
+P12,Macroom,7,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,176143.0
+P12,Macroom,7,2018,Existing,Household Buyer - Former Owner-Occupier,236875.0
+P12,Macroom,7,2018,Existing,Household Buyer - Non-Occupier,188250.0
+P12,Macroom,8,2018,All Dwelling Statuses,All Buyer Types,171500.0
+P12,Macroom,8,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,132125.0
+P12,Macroom,8,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,214500.0
+P12,Macroom,8,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,71000.0
+P12,Macroom,8,2018,New,All Buyer Types,165000.0
+P12,Macroom,8,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+P12,Macroom,8,2018,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,8,2018,New,Household Buyer - Non-Occupier,
+P12,Macroom,8,2018,Existing,All Buyer Types,172944.0
+P12,Macroom,8,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,99250.0
+P12,Macroom,8,2018,Existing,Household Buyer - Former Owner-Occupier,214500.0
+P12,Macroom,8,2018,Existing,Household Buyer - Non-Occupier,71000.0
+P12,Macroom,9,2018,All Dwelling Statuses,All Buyer Types,179311.0
+P12,Macroom,9,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,168710.0
+P12,Macroom,9,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,180500.0
+P12,Macroom,9,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,195000.0
+P12,Macroom,9,2018,New,All Buyer Types,229275.0
+P12,Macroom,9,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,229275.0
+P12,Macroom,9,2018,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,9,2018,New,Household Buyer - Non-Occupier,
+P12,Macroom,9,2018,Existing,All Buyer Types,170227.0
+P12,Macroom,9,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,128333.0
+P12,Macroom,9,2018,Existing,Household Buyer - Former Owner-Occupier,180500.0
+P12,Macroom,9,2018,Existing,Household Buyer - Non-Occupier,195000.0
+P12,Macroom,10,2018,All Dwelling Statuses,All Buyer Types,209184.0
+P12,Macroom,10,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+P12,Macroom,10,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,286040.0
+P12,Macroom,10,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,99250.0
+P12,Macroom,10,2018,New,All Buyer Types,144250.0
+P12,Macroom,10,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,174999.0
+P12,Macroom,10,2018,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,10,2018,New,Household Buyer - Non-Occupier,113500.0
+P12,Macroom,10,2018,Existing,All Buyer Types,227737.0
+P12,Macroom,10,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,182500.0
+P12,Macroom,10,2018,Existing,Household Buyer - Former Owner-Occupier,286040.0
+P12,Macroom,10,2018,Existing,Household Buyer - Non-Occupier,85000.0
+P12,Macroom,11,2018,All Dwelling Statuses,All Buyer Types,238077.0
+P12,Macroom,11,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,247286.0
+P12,Macroom,11,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,256975.0
+P12,Macroom,11,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,177500.0
+P12,Macroom,11,2018,New,All Buyer Types,244999.0
+P12,Macroom,11,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,244999.0
+P12,Macroom,11,2018,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,11,2018,New,Household Buyer - Non-Occupier,
+P12,Macroom,11,2018,Existing,All Buyer Types,237448.0
+P12,Macroom,11,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,247667.0
+P12,Macroom,11,2018,Existing,Household Buyer - Former Owner-Occupier,256975.0
+P12,Macroom,11,2018,Existing,Household Buyer - Non-Occupier,177500.0
+P12,Macroom,12,2018,All Dwelling Statuses,All Buyer Types,199460.0
+P12,Macroom,12,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,187500.0
+P12,Macroom,12,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,249997.0
+P12,Macroom,12,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,114333.0
+P12,Macroom,12,2018,New,All Buyer Types,200327.0
+P12,Macroom,12,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,12,2018,New,Household Buyer - Former Owner-Occupier,207991.0
+P12,Macroom,12,2018,New,Household Buyer - Non-Occupier,184999.0
+P12,Macroom,12,2018,Existing,All Buyer Types,199200.0
+P12,Macroom,12,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,187500.0
+P12,Macroom,12,2018,Existing,Household Buyer - Former Owner-Occupier,271000.0
+P12,Macroom,12,2018,Existing,Household Buyer - Non-Occupier,79000.0
+P12,Macroom,1,2019,All Dwelling Statuses,All Buyer Types,246000.0
+P12,Macroom,1,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,222500.0
+P12,Macroom,1,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,261667.0
+P12,Macroom,1,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,1,2019,New,All Buyer Types,195000.0
+P12,Macroom,1,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+P12,Macroom,1,2019,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,1,2019,New,Household Buyer - Non-Occupier,
+P12,Macroom,1,2019,Existing,All Buyer Types,258750.0
+P12,Macroom,1,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,250000.0
+P12,Macroom,1,2019,Existing,Household Buyer - Former Owner-Occupier,261667.0
+P12,Macroom,1,2019,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,2,2019,All Dwelling Statuses,All Buyer Types,169800.0
+P12,Macroom,2,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,181667.0
+P12,Macroom,2,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,170850.0
+P12,Macroom,2,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,130000.0
+P12,Macroom,2,2019,New,All Buyer Types,202500.0
+P12,Macroom,2,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,202500.0
+P12,Macroom,2,2019,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,2,2019,New,Household Buyer - Non-Occupier,
+P12,Macroom,2,2019,Existing,All Buyer Types,158900.0
+P12,Macroom,2,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+P12,Macroom,2,2019,Existing,Household Buyer - Former Owner-Occupier,170850.0
+P12,Macroom,2,2019,Existing,Household Buyer - Non-Occupier,130000.0
+P12,Macroom,3,2019,All Dwelling Statuses,All Buyer Types,256217.0
+P12,Macroom,3,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+P12,Macroom,3,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,337433.0
+P12,Macroom,3,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,3,2019,New,All Buyer Types,184999.0
+P12,Macroom,3,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,184999.0
+P12,Macroom,3,2019,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,3,2019,New,Household Buyer - Non-Occupier,
+P12,Macroom,3,2019,Existing,All Buyer Types,270460.0
+P12,Macroom,3,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+P12,Macroom,3,2019,Existing,Household Buyer - Former Owner-Occupier,337433.0
+P12,Macroom,3,2019,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,4,2019,All Dwelling Statuses,All Buyer Types,233857.0
+P12,Macroom,4,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,223667.0
+P12,Macroom,4,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,241500.0
+P12,Macroom,4,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,4,2019,New,All Buyer Types,
+P12,Macroom,4,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,4,2019,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,4,2019,New,Household Buyer - Non-Occupier,
+P12,Macroom,4,2019,Existing,All Buyer Types,233857.0
+P12,Macroom,4,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,223667.0
+P12,Macroom,4,2019,Existing,Household Buyer - Former Owner-Occupier,241500.0
+P12,Macroom,4,2019,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,5,2019,All Dwelling Statuses,All Buyer Types,199786.0
+P12,Macroom,5,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,169250.0
+P12,Macroom,5,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,240500.0
+P12,Macroom,5,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,5,2019,New,All Buyer Types,220500.0
+P12,Macroom,5,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,220500.0
+P12,Macroom,5,2019,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,5,2019,New,Household Buyer - Non-Occupier,
+P12,Macroom,5,2019,Existing,All Buyer Types,191500.0
+P12,Macroom,5,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,118000.0
+P12,Macroom,5,2019,Existing,Household Buyer - Former Owner-Occupier,240500.0
+P12,Macroom,5,2019,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,6,2019,All Dwelling Statuses,All Buyer Types,158000.0
+P12,Macroom,6,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,167500.0
+P12,Macroom,6,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,151667.0
+P12,Macroom,6,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,6,2019,New,All Buyer Types,245000.0
+P12,Macroom,6,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,6,2019,New,Household Buyer - Former Owner-Occupier,245000.0
+P12,Macroom,6,2019,New,Household Buyer - Non-Occupier,
+P12,Macroom,6,2019,Existing,All Buyer Types,136250.0
+P12,Macroom,6,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,167500.0
+P12,Macroom,6,2019,Existing,Household Buyer - Former Owner-Occupier,105000.0
+P12,Macroom,6,2019,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,7,2019,All Dwelling Statuses,All Buyer Types,179000.0
+P12,Macroom,7,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,156500.0
+P12,Macroom,7,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,183400.0
+P12,Macroom,7,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,247000.0
+P12,Macroom,7,2019,New,All Buyer Types,215000.0
+P12,Macroom,7,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,215000.0
+P12,Macroom,7,2019,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,7,2019,New,Household Buyer - Non-Occupier,
+P12,Macroom,7,2019,Existing,All Buyer Types,175000.0
+P12,Macroom,7,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,137000.0
+P12,Macroom,7,2019,Existing,Household Buyer - Former Owner-Occupier,183400.0
+P12,Macroom,7,2019,Existing,Household Buyer - Non-Occupier,247000.0
+P12,Macroom,8,2019,All Dwelling Statuses,All Buyer Types,221663.0
+P12,Macroom,8,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,152500.0
+P12,Macroom,8,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,238953.0
+P12,Macroom,8,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,8,2019,New,All Buyer Types,278314.0
+P12,Macroom,8,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,8,2019,New,Household Buyer - Former Owner-Occupier,278314.0
+P12,Macroom,8,2019,New,Household Buyer - Non-Occupier,
+P12,Macroom,8,2019,Existing,All Buyer Types,207500.0
+P12,Macroom,8,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,152500.0
+P12,Macroom,8,2019,Existing,Household Buyer - Former Owner-Occupier,225833.0
+P12,Macroom,8,2019,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,9,2019,All Dwelling Statuses,All Buyer Types,198556.0
+P12,Macroom,9,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,247000.0
+P12,Macroom,9,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,240000.0
+P12,Macroom,9,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,50000.0
+P12,Macroom,9,2019,New,All Buyer Types,
+P12,Macroom,9,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,9,2019,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,9,2019,New,Household Buyer - Non-Occupier,
+P12,Macroom,9,2019,Existing,All Buyer Types,198556.0
+P12,Macroom,9,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,247000.0
+P12,Macroom,9,2019,Existing,Household Buyer - Former Owner-Occupier,240000.0
+P12,Macroom,9,2019,Existing,Household Buyer - Non-Occupier,50000.0
+P12,Macroom,10,2019,All Dwelling Statuses,All Buyer Types,209744.0
+P12,Macroom,10,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,208650.0
+P12,Macroom,10,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,271136.0
+P12,Macroom,10,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,36500.0
+P12,Macroom,10,2019,New,All Buyer Types,437501.0
+P12,Macroom,10,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,437501.0
+P12,Macroom,10,2019,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,10,2019,New,Household Buyer - Non-Occupier,
+P12,Macroom,10,2019,Existing,All Buyer Types,192224.0
+P12,Macroom,10,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,183222.0
+P12,Macroom,10,2019,Existing,Household Buyer - Former Owner-Occupier,271136.0
+P12,Macroom,10,2019,Existing,Household Buyer - Non-Occupier,36500.0
+P12,Macroom,11,2019,All Dwelling Statuses,All Buyer Types,215031.0
+P12,Macroom,11,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,285800.0
+P12,Macroom,11,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,223500.0
+P12,Macroom,11,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,75000.0
+P12,Macroom,11,2019,New,All Buyer Types,310800.0
+P12,Macroom,11,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,256200.0
+P12,Macroom,11,2019,New,Household Buyer - Former Owner-Occupier,420000.0
+P12,Macroom,11,2019,New,Household Buyer - Non-Occupier,
+P12,Macroom,11,2019,Existing,All Buyer Types,186300.0
+P12,Macroom,11,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,345000.0
+P12,Macroom,11,2019,Existing,Household Buyer - Former Owner-Occupier,195429.0
+P12,Macroom,11,2019,Existing,Household Buyer - Non-Occupier,75000.0
+P12,Macroom,12,2019,All Dwelling Statuses,All Buyer Types,212821.0
+P12,Macroom,12,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,217400.0
+P12,Macroom,12,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,227857.0
+P12,Macroom,12,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,148750.0
+P12,Macroom,12,2019,New,All Buyer Types,257000.0
+P12,Macroom,12,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,241000.0
+P12,Macroom,12,2019,New,Household Buyer - Former Owner-Occupier,289001.0
+P12,Macroom,12,2019,New,Household Buyer - Non-Occupier,
+P12,Macroom,12,2019,Existing,All Buyer Types,200773.0
+P12,Macroom,12,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,201667.0
+P12,Macroom,12,2019,Existing,Household Buyer - Former Owner-Occupier,217667.0
+P12,Macroom,12,2019,Existing,Household Buyer - Non-Occupier,148750.0
+P12,Macroom,1,2020,All Dwelling Statuses,All Buyer Types,170000.0
+P12,Macroom,1,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,193750.0
+P12,Macroom,1,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,180000.0
+P12,Macroom,1,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,117500.0
+P12,Macroom,1,2020,New,All Buyer Types,
+P12,Macroom,1,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,1,2020,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,1,2020,New,Household Buyer - Non-Occupier,
+P12,Macroom,1,2020,Existing,All Buyer Types,170000.0
+P12,Macroom,1,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,193750.0
+P12,Macroom,1,2020,Existing,Household Buyer - Former Owner-Occupier,180000.0
+P12,Macroom,1,2020,Existing,Household Buyer - Non-Occupier,117500.0
+P12,Macroom,2,2020,All Dwelling Statuses,All Buyer Types,220500.0
+P12,Macroom,2,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,287000.0
+P12,Macroom,2,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,244833.0
+P12,Macroom,2,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,117500.0
+P12,Macroom,2,2020,New,All Buyer Types,289001.0
+P12,Macroom,2,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,289001.0
+P12,Macroom,2,2020,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,2,2020,New,Household Buyer - Non-Occupier,
+P12,Macroom,2,2020,Existing,All Buyer Types,209083.0
+P12,Macroom,2,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,285000.0
+P12,Macroom,2,2020,Existing,Household Buyer - Former Owner-Occupier,244833.0
+P12,Macroom,2,2020,Existing,Household Buyer - Non-Occupier,117500.0
+P12,Macroom,3,2020,All Dwelling Statuses,All Buyer Types,220078.0
+P12,Macroom,3,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,211667.0
+P12,Macroom,3,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,226386.0
+P12,Macroom,3,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,3,2020,New,All Buyer Types,
+P12,Macroom,3,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,3,2020,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,3,2020,New,Household Buyer - Non-Occupier,
+P12,Macroom,3,2020,Existing,All Buyer Types,220078.0
+P12,Macroom,3,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,211667.0
+P12,Macroom,3,2020,Existing,Household Buyer - Former Owner-Occupier,226386.0
+P12,Macroom,3,2020,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,4,2020,All Dwelling Statuses,All Buyer Types,243390.0
+P12,Macroom,4,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,387500.0
+P12,Macroom,4,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,234238.0
+P12,Macroom,4,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,172500.0
+P12,Macroom,4,2020,New,All Buyer Types,158900.0
+P12,Macroom,4,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,4,2020,New,Household Buyer - Former Owner-Occupier,158900.0
+P12,Macroom,4,2020,New,Household Buyer - Non-Occupier,
+P12,Macroom,4,2020,Existing,All Buyer Types,252778.0
+P12,Macroom,4,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,387500.0
+P12,Macroom,4,2020,Existing,Household Buyer - Former Owner-Occupier,245000.0
+P12,Macroom,4,2020,Existing,Household Buyer - Non-Occupier,172500.0
+P12,Macroom,5,2020,All Dwelling Statuses,All Buyer Types,123600.0
+P12,Macroom,5,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,82500.0
+P12,Macroom,5,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,151000.0
+P12,Macroom,5,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,5,2020,New,All Buyer Types,
+P12,Macroom,5,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,5,2020,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,5,2020,New,Household Buyer - Non-Occupier,
+P12,Macroom,5,2020,Existing,All Buyer Types,123600.0
+P12,Macroom,5,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,82500.0
+P12,Macroom,5,2020,Existing,Household Buyer - Former Owner-Occupier,151000.0
+P12,Macroom,5,2020,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,6,2020,All Dwelling Statuses,All Buyer Types,179999.0
+P12,Macroom,6,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,6,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,179999.0
+P12,Macroom,6,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,6,2020,New,All Buyer Types,244999.0
+P12,Macroom,6,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,6,2020,New,Household Buyer - Former Owner-Occupier,244999.0
+P12,Macroom,6,2020,New,Household Buyer - Non-Occupier,
+P12,Macroom,6,2020,Existing,All Buyer Types,115000.0
+P12,Macroom,6,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,6,2020,Existing,Household Buyer - Former Owner-Occupier,115000.0
+P12,Macroom,6,2020,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,7,2020,All Dwelling Statuses,All Buyer Types,201143.0
+P12,Macroom,7,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,244600.0
+P12,Macroom,7,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,140000.0
+P12,Macroom,7,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,45000.0
+P12,Macroom,7,2020,New,All Buyer Types,444999.0
+P12,Macroom,7,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,444999.0
+P12,Macroom,7,2020,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,7,2020,New,Household Buyer - Non-Occupier,
+P12,Macroom,7,2020,Existing,All Buyer Types,160500.0
+P12,Macroom,7,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,194500.0
+P12,Macroom,7,2020,Existing,Household Buyer - Former Owner-Occupier,140000.0
+P12,Macroom,7,2020,Existing,Household Buyer - Non-Occupier,45000.0
+P12,Macroom,8,2020,All Dwelling Statuses,All Buyer Types,167875.0
+P12,Macroom,8,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,208000.0
+P12,Macroom,8,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,139250.0
+P12,Macroom,8,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,185000.0
+P12,Macroom,8,2020,New,All Buyer Types,
+P12,Macroom,8,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,8,2020,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,8,2020,New,Household Buyer - Non-Occupier,
+P12,Macroom,8,2020,Existing,All Buyer Types,167875.0
+P12,Macroom,8,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,208000.0
+P12,Macroom,8,2020,Existing,Household Buyer - Former Owner-Occupier,139250.0
+P12,Macroom,8,2020,Existing,Household Buyer - Non-Occupier,185000.0
+P12,Macroom,9,2020,All Dwelling Statuses,All Buyer Types,234708.0
+P12,Macroom,9,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,243750.0
+P12,Macroom,9,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,239740.0
+P12,Macroom,9,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,195000.0
+P12,Macroom,9,2020,New,All Buyer Types,245175.0
+P12,Macroom,9,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,242833.0
+P12,Macroom,9,2020,New,Household Buyer - Former Owner-Occupier,252200.0
+P12,Macroom,9,2020,New,Household Buyer - Non-Occupier,
+P12,Macroom,9,2020,Existing,All Buyer Types,230056.0
+P12,Macroom,9,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,244667.0
+P12,Macroom,9,2020,Existing,Household Buyer - Former Owner-Occupier,236625.0
+P12,Macroom,9,2020,Existing,Household Buyer - Non-Occupier,195000.0
+P12,Macroom,10,2020,All Dwelling Statuses,All Buyer Types,241460.0
+P12,Macroom,10,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,247125.0
+P12,Macroom,10,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,231575.0
+P12,Macroom,10,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,288000.0
+P12,Macroom,10,2020,New,All Buyer Types,223842.0
+P12,Macroom,10,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,245500.0
+P12,Macroom,10,2020,New,Household Buyer - Former Owner-Occupier,213013.0
+P12,Macroom,10,2020,New,Household Buyer - Non-Occupier,
+P12,Macroom,10,2020,Existing,All Buyer Types,247333.0
+P12,Macroom,10,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,247667.0
+P12,Macroom,10,2020,Existing,Household Buyer - Former Owner-Occupier,239000.0
+P12,Macroom,10,2020,Existing,Household Buyer - Non-Occupier,288000.0
+P12,Macroom,11,2020,All Dwelling Statuses,All Buyer Types,223555.0
+P12,Macroom,11,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,227833.0
+P12,Macroom,11,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,215000.0
+P12,Macroom,11,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,11,2020,New,All Buyer Types,239000.0
+P12,Macroom,11,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,239000.0
+P12,Macroom,11,2020,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,11,2020,New,Household Buyer - Non-Occupier,
+P12,Macroom,11,2020,Existing,All Buyer Types,215833.0
+P12,Macroom,11,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,216667.0
+P12,Macroom,11,2020,Existing,Household Buyer - Former Owner-Occupier,215000.0
+P12,Macroom,11,2020,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,12,2020,All Dwelling Statuses,All Buyer Types,206597.0
+P12,Macroom,12,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,192167.0
+P12,Macroom,12,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,227163.0
+P12,Macroom,12,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,74000.0
+P12,Macroom,12,2020,New,All Buyer Types,323483.0
+P12,Macroom,12,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,238500.0
+P12,Macroom,12,2020,New,Household Buyer - Former Owner-Occupier,365975.0
+P12,Macroom,12,2020,New,Household Buyer - Non-Occupier,
+P12,Macroom,12,2020,Existing,All Buyer Types,185971.0
+P12,Macroom,12,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,169000.0
+P12,Macroom,12,2020,Existing,Household Buyer - Former Owner-Occupier,205808.0
+P12,Macroom,12,2020,Existing,Household Buyer - Non-Occupier,74000.0
+P12,Macroom,1,2021,All Dwelling Statuses,All Buyer Types,227200.0
+P12,Macroom,1,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225750.0
+P12,Macroom,1,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,228167.0
+P12,Macroom,1,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,1,2021,New,All Buyer Types,239500.0
+P12,Macroom,1,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,239500.0
+P12,Macroom,1,2021,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,1,2021,New,Household Buyer - Non-Occupier,
+P12,Macroom,1,2021,Existing,All Buyer Types,224125.0
+P12,Macroom,1,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,212000.0
+P12,Macroom,1,2021,Existing,Household Buyer - Former Owner-Occupier,228167.0
+P12,Macroom,1,2021,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,2,2021,All Dwelling Statuses,All Buyer Types,222742.0
+P12,Macroom,2,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,324075.0
+P12,Macroom,2,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,213611.0
+P12,Macroom,2,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,162500.0
+P12,Macroom,2,2021,New,All Buyer Types,299217.0
+P12,Macroom,2,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,324075.0
+P12,Macroom,2,2021,New,Household Buyer - Former Owner-Occupier,249501.0
+P12,Macroom,2,2021,New,Household Buyer - Non-Occupier,
+P12,Macroom,2,2021,Existing,All Buyer Types,199800.0
+P12,Macroom,2,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,2,2021,Existing,Household Buyer - Former Owner-Occupier,209125.0
+P12,Macroom,2,2021,Existing,Household Buyer - Non-Occupier,162500.0
+P12,Macroom,3,2021,All Dwelling Statuses,All Buyer Types,228833.0
+P12,Macroom,3,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,236199.0
+P12,Macroom,3,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,219625.0
+P12,Macroom,3,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,3,2021,New,All Buyer Types,252498.0
+P12,Macroom,3,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,252498.0
+P12,Macroom,3,2021,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,3,2021,New,Household Buyer - Non-Occupier,
+P12,Macroom,3,2021,Existing,All Buyer Types,222071.0
+P12,Macroom,3,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,225333.0
+P12,Macroom,3,2021,Existing,Household Buyer - Former Owner-Occupier,219625.0
+P12,Macroom,3,2021,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,4,2021,All Dwelling Statuses,All Buyer Types,286000.0
+P12,Macroom,4,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,307500.0
+P12,Macroom,4,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,278833.0
+P12,Macroom,4,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,4,2021,New,All Buyer Types,
+P12,Macroom,4,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,4,2021,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,4,2021,New,Household Buyer - Non-Occupier,
+P12,Macroom,4,2021,Existing,All Buyer Types,286000.0
+P12,Macroom,4,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,307500.0
+P12,Macroom,4,2021,Existing,Household Buyer - Former Owner-Occupier,278833.0
+P12,Macroom,4,2021,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,5,2021,All Dwelling Statuses,All Buyer Types,296667.0
+P12,Macroom,5,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,315000.0
+P12,Macroom,5,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,260000.0
+P12,Macroom,5,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,5,2021,New,All Buyer Types,
+P12,Macroom,5,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,5,2021,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,5,2021,New,Household Buyer - Non-Occupier,
+P12,Macroom,5,2021,Existing,All Buyer Types,296667.0
+P12,Macroom,5,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,315000.0
+P12,Macroom,5,2021,Existing,Household Buyer - Former Owner-Occupier,260000.0
+P12,Macroom,5,2021,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,6,2021,All Dwelling Statuses,All Buyer Types,208667.0
+P12,Macroom,6,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,88000.0
+P12,Macroom,6,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,230000.0
+P12,Macroom,6,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,205000.0
+P12,Macroom,6,2021,New,All Buyer Types,239999.0
+P12,Macroom,6,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,6,2021,New,Household Buyer - Former Owner-Occupier,239999.0
+P12,Macroom,6,2021,New,Household Buyer - Non-Occupier,
+P12,Macroom,6,2021,Existing,All Buyer Types,204750.0
+P12,Macroom,6,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,88000.0
+P12,Macroom,6,2021,Existing,Household Buyer - Former Owner-Occupier,228000.0
+P12,Macroom,6,2021,Existing,Household Buyer - Non-Occupier,205000.0
+P12,Macroom,7,2021,All Dwelling Statuses,All Buyer Types,186667.0
+P12,Macroom,7,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,7,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,232500.0
+P12,Macroom,7,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,95000.0
+P12,Macroom,7,2021,New,All Buyer Types,
+P12,Macroom,7,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,7,2021,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,7,2021,New,Household Buyer - Non-Occupier,
+P12,Macroom,7,2021,Existing,All Buyer Types,186667.0
+P12,Macroom,7,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,7,2021,Existing,Household Buyer - Former Owner-Occupier,232500.0
+P12,Macroom,7,2021,Existing,Household Buyer - Non-Occupier,95000.0
+P12,Macroom,8,2021,All Dwelling Statuses,All Buyer Types,197036.0
+P12,Macroom,8,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,208300.0
+P12,Macroom,8,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,207125.0
+P12,Macroom,8,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,60000.0
+P12,Macroom,8,2021,New,All Buyer Types,
+P12,Macroom,8,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,8,2021,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,8,2021,New,Household Buyer - Non-Occupier,
+P12,Macroom,8,2021,Existing,All Buyer Types,197036.0
+P12,Macroom,8,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,208300.0
+P12,Macroom,8,2021,Existing,Household Buyer - Former Owner-Occupier,207125.0
+P12,Macroom,8,2021,Existing,Household Buyer - Non-Occupier,60000.0
+P12,Macroom,9,2021,All Dwelling Statuses,All Buyer Types,221656.0
+P12,Macroom,9,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,129375.0
+P12,Macroom,9,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,250714.0
+P12,Macroom,9,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,254800.0
+P12,Macroom,9,2021,New,All Buyer Types,279333.0
+P12,Macroom,9,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,240000.0
+P12,Macroom,9,2021,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,9,2021,New,Household Buyer - Non-Occupier,298999.0
+P12,Macroom,9,2021,Existing,All Buyer Types,208346.0
+P12,Macroom,9,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,92500.0
+P12,Macroom,9,2021,Existing,Household Buyer - Former Owner-Occupier,250714.0
+P12,Macroom,9,2021,Existing,Household Buyer - Non-Occupier,225333.0
+P12,Macroom,10,2021,All Dwelling Statuses,All Buyer Types,211448.0
+P12,Macroom,10,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,269758.0
+P12,Macroom,10,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178500.0
+P12,Macroom,10,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,110000.0
+P12,Macroom,10,2021,New,All Buyer Types,275677.0
+P12,Macroom,10,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,275677.0
+P12,Macroom,10,2021,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,10,2021,New,Household Buyer - Non-Occupier,
+P12,Macroom,10,2021,Existing,All Buyer Types,179333.0
+P12,Macroom,10,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,252000.0
+P12,Macroom,10,2021,Existing,Household Buyer - Former Owner-Occupier,178500.0
+P12,Macroom,10,2021,Existing,Household Buyer - Non-Occupier,110000.0
+P12,Macroom,11,2021,All Dwelling Statuses,All Buyer Types,254766.0
+P12,Macroom,11,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,256323.0
+P12,Macroom,11,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,259336.0
+P12,Macroom,11,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,216500.0
+P12,Macroom,11,2021,New,All Buyer Types,288052.0
+P12,Macroom,11,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,311410.0
+P12,Macroom,11,2021,New,Household Buyer - Former Owner-Occupier,249123.0
+P12,Macroom,11,2021,New,Household Buyer - Non-Occupier,
+P12,Macroom,11,2021,Existing,All Buyer Types,239972.0
+P12,Macroom,11,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210417.0
+P12,Macroom,11,2021,Existing,Household Buyer - Former Owner-Occupier,262400.0
+P12,Macroom,11,2021,Existing,Household Buyer - Non-Occupier,216500.0
+P12,Macroom,12,2021,All Dwelling Statuses,All Buyer Types,263795.0
+P12,Macroom,12,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,302901.0
+P12,Macroom,12,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,242837.0
+P12,Macroom,12,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,250000.0
+P12,Macroom,12,2021,New,All Buyer Types,292254.0
+P12,Macroom,12,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,319251.0
+P12,Macroom,12,2021,New,Household Buyer - Former Owner-Occupier,270656.0
+P12,Macroom,12,2021,New,Household Buyer - Non-Occupier,
+P12,Macroom,12,2021,Existing,All Buyer Types,217227.0
+P12,Macroom,12,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,237500.0
+P12,Macroom,12,2021,Existing,Household Buyer - Former Owner-Occupier,208063.0
+P12,Macroom,12,2021,Existing,Household Buyer - Non-Occupier,250000.0
+P12,Macroom,1,2022,All Dwelling Statuses,All Buyer Types,216645.0
+P12,Macroom,1,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,230637.0
+P12,Macroom,1,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,238729.0
+P12,Macroom,1,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,130500.0
+P12,Macroom,1,2022,New,All Buyer Types,302518.0
+P12,Macroom,1,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,251934.0
+P12,Macroom,1,2022,New,Household Buyer - Former Owner-Occupier,403688.0
+P12,Macroom,1,2022,New,Household Buyer - Non-Occupier,
+P12,Macroom,1,2022,Existing,All Buyer Types,173708.0
+P12,Macroom,1,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,213600.0
+P12,Macroom,1,2022,Existing,Household Buyer - Former Owner-Occupier,156250.0
+P12,Macroom,1,2022,Existing,Household Buyer - Non-Occupier,130500.0
+P12,Macroom,2,2022,All Dwelling Statuses,All Buyer Types,309748.0
+P12,Macroom,2,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,292122.0
+P12,Macroom,2,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,387500.0
+P12,Macroom,2,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,260000.0
+P12,Macroom,2,2022,New,All Buyer Types,309547.0
+P12,Macroom,2,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,309547.0
+P12,Macroom,2,2022,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,2,2022,New,Household Buyer - Non-Occupier,
+P12,Macroom,2,2022,Existing,All Buyer Types,310000.0
+P12,Macroom,2,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+P12,Macroom,2,2022,Existing,Household Buyer - Former Owner-Occupier,387500.0
+P12,Macroom,2,2022,Existing,Household Buyer - Non-Occupier,260000.0
+P12,Macroom,3,2022,All Dwelling Statuses,All Buyer Types,227800.0
+P12,Macroom,3,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,220500.0
+P12,Macroom,3,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,248333.0
+P12,Macroom,3,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,210000.0
+P12,Macroom,3,2022,New,All Buyer Types,
+P12,Macroom,3,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,3,2022,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,3,2022,New,Household Buyer - Non-Occupier,
+P12,Macroom,3,2022,Existing,All Buyer Types,227800.0
+P12,Macroom,3,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220500.0
+P12,Macroom,3,2022,Existing,Household Buyer - Former Owner-Occupier,248333.0
+P12,Macroom,3,2022,Existing,Household Buyer - Non-Occupier,210000.0
+P12,Macroom,4,2022,All Dwelling Statuses,All Buyer Types,262200.0
+P12,Macroom,4,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,242000.0
+P12,Macroom,4,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,292500.0
+P12,Macroom,4,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,4,2022,New,All Buyer Types,397501.0
+P12,Macroom,4,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,397501.0
+P12,Macroom,4,2022,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,4,2022,New,Household Buyer - Non-Occupier,
+P12,Macroom,4,2022,Existing,All Buyer Types,228375.0
+P12,Macroom,4,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,164250.0
+P12,Macroom,4,2022,Existing,Household Buyer - Former Owner-Occupier,292500.0
+P12,Macroom,4,2022,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,5,2022,All Dwelling Statuses,All Buyer Types,349668.0
+P12,Macroom,5,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,353878.0
+P12,Macroom,5,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,412250.0
+P12,Macroom,5,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,82500.0
+P12,Macroom,5,2022,New,All Buyer Types,393505.0
+P12,Macroom,5,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,393505.0
+P12,Macroom,5,2022,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,5,2022,New,Household Buyer - Non-Occupier,
+P12,Macroom,5,2022,Existing,All Buyer Types,327750.0
+P12,Macroom,5,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,235000.0
+P12,Macroom,5,2022,Existing,Household Buyer - Former Owner-Occupier,412250.0
+P12,Macroom,5,2022,Existing,Household Buyer - Non-Occupier,82500.0
+P12,Macroom,6,2022,All Dwelling Statuses,All Buyer Types,249783.0
+P12,Macroom,6,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,289667.0
+P12,Macroom,6,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,237425.0
+P12,Macroom,6,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,229000.0
+P12,Macroom,6,2022,New,All Buyer Types,414500.0
+P12,Macroom,6,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,375000.0
+P12,Macroom,6,2022,New,Household Buyer - Former Owner-Occupier,454000.0
+P12,Macroom,6,2022,New,Household Buyer - Non-Occupier,
+P12,Macroom,6,2022,Existing,All Buyer Types,216840.0
+P12,Macroom,6,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,247000.0
+P12,Macroom,6,2022,Existing,Household Buyer - Former Owner-Occupier,206485.0
+P12,Macroom,6,2022,Existing,Household Buyer - Non-Occupier,229000.0
+P12,Macroom,7,2022,All Dwelling Statuses,All Buyer Types,321060.0
+P12,Macroom,7,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,154950.0
+P12,Macroom,7,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,337671.0
+P12,Macroom,7,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,7,2022,New,All Buyer Types,392710.0
+P12,Macroom,7,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,7,2022,New,Household Buyer - Former Owner-Occupier,392710.0
+P12,Macroom,7,2022,New,Household Buyer - Non-Occupier,
+P12,Macroom,7,2022,Existing,All Buyer Types,313895.0
+P12,Macroom,7,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,154950.0
+P12,Macroom,7,2022,Existing,Household Buyer - Former Owner-Occupier,331556.0
+P12,Macroom,7,2022,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,8,2022,All Dwelling Statuses,All Buyer Types,236020.0
+P12,Macroom,8,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,223462.0
+P12,Macroom,8,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,256267.0
+P12,Macroom,8,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,215000.0
+P12,Macroom,8,2022,New,All Buyer Types,312340.0
+P12,Macroom,8,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,276925.0
+P12,Macroom,8,2022,New,Household Buyer - Former Owner-Occupier,454000.0
+P12,Macroom,8,2022,New,Household Buyer - Non-Occupier,
+P12,Macroom,8,2022,Existing,All Buyer Types,197860.0
+P12,Macroom,8,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+P12,Macroom,8,2022,Existing,Household Buyer - Former Owner-Occupier,216720.0
+P12,Macroom,8,2022,Existing,Household Buyer - Non-Occupier,215000.0
+P12,Macroom,9,2022,All Dwelling Statuses,All Buyer Types,264455.0
+P12,Macroom,9,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,272842.0
+P12,Macroom,9,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,280666.0
+P12,Macroom,9,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,85000.0
+P12,Macroom,9,2022,New,All Buyer Types,266237.0
+P12,Macroom,9,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,272842.0
+P12,Macroom,9,2022,New,Household Buyer - Former Owner-Occupier,297200.0
+P12,Macroom,9,2022,New,Household Buyer - Non-Occupier,85000.0
+P12,Macroom,9,2022,Existing,All Buyer Types,260000.0
+P12,Macroom,9,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,9,2022,Existing,Household Buyer - Former Owner-Occupier,260000.0
+P12,Macroom,9,2022,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,10,2022,All Dwelling Statuses,All Buyer Types,248552.0
+P12,Macroom,10,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,290090.0
+P12,Macroom,10,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,217026.0
+P12,Macroom,10,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,220000.0
+P12,Macroom,10,2022,New,All Buyer Types,282181.0
+P12,Macroom,10,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,294771.0
+P12,Macroom,10,2022,New,Household Buyer - Former Owner-Occupier,269590.0
+P12,Macroom,10,2022,New,Household Buyer - Non-Occupier,
+P12,Macroom,10,2022,Existing,All Buyer Types,235100.0
+P12,Macroom,10,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,287750.0
+P12,Macroom,10,2022,Existing,Household Buyer - Former Owner-Occupier,196000.0
+P12,Macroom,10,2022,Existing,Household Buyer - Non-Occupier,220000.0
+P12,Macroom,11,2022,All Dwelling Statuses,All Buyer Types,272967.0
+P12,Macroom,11,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,311250.0
+P12,Macroom,11,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,208400.0
+P12,Macroom,11,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,281250.0
+P12,Macroom,11,2022,New,All Buyer Types,322812.0
+P12,Macroom,11,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,322857.0
+P12,Macroom,11,2022,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,11,2022,New,Household Buyer - Non-Occupier,322500.0
+P12,Macroom,11,2022,Existing,All Buyer Types,216000.0
+P12,Macroom,11,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,230000.0
+P12,Macroom,11,2022,Existing,Household Buyer - Former Owner-Occupier,208400.0
+P12,Macroom,11,2022,Existing,Household Buyer - Non-Occupier,240000.0
+P12,Macroom,12,2022,All Dwelling Statuses,All Buyer Types,205500.0
+P12,Macroom,12,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,213750.0
+P12,Macroom,12,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,224375.0
+P12,Macroom,12,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,151250.0
+P12,Macroom,12,2022,New,All Buyer Types,
+P12,Macroom,12,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,12,2022,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,12,2022,New,Household Buyer - Non-Occupier,
+P12,Macroom,12,2022,Existing,All Buyer Types,205500.0
+P12,Macroom,12,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,213750.0
+P12,Macroom,12,2022,Existing,Household Buyer - Former Owner-Occupier,224375.0
+P12,Macroom,12,2022,Existing,Household Buyer - Non-Occupier,151250.0
+P12,Macroom,1,2023,All Dwelling Statuses,All Buyer Types,240750.0
+P12,Macroom,1,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,302214.0
+P12,Macroom,1,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,209500.0
+P12,Macroom,1,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,139000.0
+P12,Macroom,1,2023,New,All Buyer Types,321375.0
+P12,Macroom,1,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,321375.0
+P12,Macroom,1,2023,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,1,2023,New,Household Buyer - Non-Occupier,
+P12,Macroom,1,2023,Existing,All Buyer Types,208500.0
+P12,Macroom,1,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,276667.0
+P12,Macroom,1,2023,Existing,Household Buyer - Former Owner-Occupier,209500.0
+P12,Macroom,1,2023,Existing,Household Buyer - Non-Occupier,139000.0
+P12,Macroom,2,2023,All Dwelling Statuses,All Buyer Types,292857.0
+P12,Macroom,2,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,355000.0
+P12,Macroom,2,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,267500.0
+P12,Macroom,2,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,95000.0
+P12,Macroom,2,2023,New,All Buyer Types,336000.0
+P12,Macroom,2,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,355000.0
+P12,Macroom,2,2023,New,Household Buyer - Former Owner-Occupier,260000.0
+P12,Macroom,2,2023,New,Household Buyer - Non-Occupier,
+P12,Macroom,2,2023,Existing,All Buyer Types,185000.0
+P12,Macroom,2,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P12,Macroom,2,2023,Existing,Household Buyer - Former Owner-Occupier,275000.0
+P12,Macroom,2,2023,Existing,Household Buyer - Non-Occupier,95000.0
+P12,Macroom,3,2023,All Dwelling Statuses,All Buyer Types,275185.0
+P12,Macroom,3,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,282174.0
+P12,Macroom,3,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,284250.0
+P12,Macroom,3,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,190000.0
+P12,Macroom,3,2023,New,All Buyer Types,328703.0
+P12,Macroom,3,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,333044.0
+P12,Macroom,3,2023,New,Household Buyer - Former Owner-Occupier,306999.0
+P12,Macroom,3,2023,New,Household Buyer - Non-Occupier,
+P12,Macroom,3,2023,Existing,All Buyer Types,221667.0
+P12,Macroom,3,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,155000.0
+P12,Macroom,3,2023,Existing,Household Buyer - Former Owner-Occupier,276667.0
+P12,Macroom,3,2023,Existing,Household Buyer - Non-Occupier,190000.0
+P12,Macroom,4,2023,All Dwelling Statuses,All Buyer Types,240804.0
+P12,Macroom,4,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,301162.0
+P12,Macroom,4,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,208000.0
+P12,Macroom,4,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,215000.0
+P12,Macroom,4,2023,New,All Buyer Types,472150.0
+P12,Macroom,4,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,472150.0
+P12,Macroom,4,2023,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,4,2023,New,Household Buyer - Non-Occupier,
+P12,Macroom,4,2023,Existing,All Buyer Types,219773.0
+P12,Macroom,4,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,244167.0
+P12,Macroom,4,2023,Existing,Household Buyer - Former Owner-Occupier,208000.0
+P12,Macroom,4,2023,Existing,Household Buyer - Non-Occupier,215000.0
+P12,Macroom,5,2023,All Dwelling Statuses,All Buyer Types,265750.0
+P12,Macroom,5,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,305250.0
+P12,Macroom,5,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,221571.0
+P12,Macroom,5,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,180000.0
+P12,Macroom,5,2023,New,All Buyer Types,362143.0
+P12,Macroom,5,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,367500.0
+P12,Macroom,5,2023,New,Household Buyer - Former Owner-Occupier,330000.0
+P12,Macroom,5,2023,New,Household Buyer - Non-Occupier,
+P12,Macroom,5,2023,Existing,All Buyer Types,204409.0
+P12,Macroom,5,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,211875.0
+P12,Macroom,5,2023,Existing,Household Buyer - Former Owner-Occupier,203500.0
+P12,Macroom,5,2023,Existing,Household Buyer - Non-Occupier,180000.0
+P12,Macroom,6,2023,All Dwelling Statuses,All Buyer Types,308529.0
+P12,Macroom,6,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,342571.0
+P12,Macroom,6,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,304428.0
+P12,Macroom,6,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,238667.0
+P12,Macroom,6,2023,New,All Buyer Types,355833.0
+P12,Macroom,6,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,371250.0
+P12,Macroom,6,2023,New,Household Buyer - Former Owner-Occupier,324999.0
+P12,Macroom,6,2023,New,Household Buyer - Non-Occupier,
+P12,Macroom,6,2023,Existing,All Buyer Types,282727.0
+P12,Macroom,6,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,304333.0
+P12,Macroom,6,2023,Existing,Household Buyer - Former Owner-Occupier,296200.0
+P12,Macroom,6,2023,Existing,Household Buyer - Non-Occupier,238667.0
+P12,Macroom,7,2023,All Dwelling Statuses,All Buyer Types,339497.0
+P12,Macroom,7,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,322359.0
+P12,Macroom,7,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,359492.0
+P12,Macroom,7,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,7,2023,New,All Buyer Types,354076.0
+P12,Macroom,7,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,331377.0
+P12,Macroom,7,2023,New,Household Buyer - Former Owner-Occupier,399475.0
+P12,Macroom,7,2023,New,Household Buyer - Non-Occupier,
+P12,Macroom,7,2023,Existing,All Buyer Types,327000.0
+P12,Macroom,7,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,310333.0
+P12,Macroom,7,2023,Existing,Household Buyer - Former Owner-Occupier,339500.0
+P12,Macroom,7,2023,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,8,2023,All Dwelling Statuses,All Buyer Types,339727.0
+P12,Macroom,8,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,303667.0
+P12,Macroom,8,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,383000.0
+P12,Macroom,8,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,8,2023,New,All Buyer Types,330000.0
+P12,Macroom,8,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,330000.0
+P12,Macroom,8,2023,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,8,2023,New,Household Buyer - Non-Occupier,
+P12,Macroom,8,2023,Existing,All Buyer Types,343375.0
+P12,Macroom,8,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,277333.0
+P12,Macroom,8,2023,Existing,Household Buyer - Former Owner-Occupier,383000.0
+P12,Macroom,8,2023,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,9,2023,All Dwelling Statuses,All Buyer Types,328437.0
+P12,Macroom,9,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,290667.0
+P12,Macroom,9,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,351100.0
+P12,Macroom,9,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,9,2023,New,All Buyer Types,387500.0
+P12,Macroom,9,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+P12,Macroom,9,2023,New,Household Buyer - Former Owner-Occupier,475000.0
+P12,Macroom,9,2023,New,Household Buyer - Non-Occupier,
+P12,Macroom,9,2023,Existing,All Buyer Types,308750.0
+P12,Macroom,9,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,286000.0
+P12,Macroom,9,2023,Existing,Household Buyer - Former Owner-Occupier,320125.0
+P12,Macroom,9,2023,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,10,2023,All Dwelling Statuses,All Buyer Types,265750.0
+P12,Macroom,10,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,277600.0
+P12,Macroom,10,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,246000.0
+P12,Macroom,10,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,10,2023,New,All Buyer Types,320333.0
+P12,Macroom,10,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,321500.0
+P12,Macroom,10,2023,New,Household Buyer - Former Owner-Occupier,318000.0
+P12,Macroom,10,2023,New,Household Buyer - Non-Occupier,
+P12,Macroom,10,2023,Existing,All Buyer Types,233000.0
+P12,Macroom,10,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,248333.0
+P12,Macroom,10,2023,Existing,Household Buyer - Former Owner-Occupier,210000.0
+P12,Macroom,10,2023,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,11,2023,All Dwelling Statuses,All Buyer Types,286610.0
+P12,Macroom,11,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,285042.0
+P12,Macroom,11,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,288178.0
+P12,Macroom,11,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,11,2023,New,All Buyer Types,320928.0
+P12,Macroom,11,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,332000.0
+P12,Macroom,11,2023,New,Household Buyer - Former Owner-Occupier,315392.0
+P12,Macroom,11,2023,New,Household Buyer - Non-Occupier,
+P12,Macroom,11,2023,Existing,All Buyer Types,252292.0
+P12,Macroom,11,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,261563.0
+P12,Macroom,11,2023,Existing,Household Buyer - Former Owner-Occupier,233750.0
+P12,Macroom,11,2023,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,12,2023,All Dwelling Statuses,All Buyer Types,289323.0
+P12,Macroom,12,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,294000.0
+P12,Macroom,12,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,290150.0
+P12,Macroom,12,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,280333.0
+P12,Macroom,12,2023,New,All Buyer Types,354916.0
+P12,Macroom,12,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,315000.0
+P12,Macroom,12,2023,New,Household Buyer - Former Owner-Occupier,393166.0
+P12,Macroom,12,2023,New,Household Buyer - Non-Occupier,320000.0
+P12,Macroom,12,2023,Existing,All Buyer Types,253545.0
+P12,Macroom,12,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,273000.0
+P12,Macroom,12,2023,Existing,Household Buyer - Former Owner-Occupier,246000.0
+P12,Macroom,12,2023,Existing,Household Buyer - Non-Occupier,260500.0
+P12,Macroom,1,2024,All Dwelling Statuses,All Buyer Types,303389.0
+P12,Macroom,1,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,282100.0
+P12,Macroom,1,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,330000.0
+P12,Macroom,1,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,1,2024,New,All Buyer Types,327499.0
+P12,Macroom,1,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,309999.0
+P12,Macroom,1,2024,New,Household Buyer - Former Owner-Occupier,344999.0
+P12,Macroom,1,2024,New,Household Buyer - Non-Occupier,
+P12,Macroom,1,2024,Existing,All Buyer Types,296500.0
+P12,Macroom,1,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,275125.0
+P12,Macroom,1,2024,Existing,Household Buyer - Former Owner-Occupier,325000.0
+P12,Macroom,1,2024,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,2,2024,All Dwelling Statuses,All Buyer Types,325900.0
+P12,Macroom,2,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,343889.0
+P12,Macroom,2,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,335900.0
+P12,Macroom,2,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,114000.0
+P12,Macroom,2,2024,New,All Buyer Types,387778.0
+P12,Macroom,2,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,357857.0
+P12,Macroom,2,2024,New,Household Buyer - Former Owner-Occupier,492500.0
+P12,Macroom,2,2024,New,Household Buyer - Non-Occupier,
+P12,Macroom,2,2024,Existing,All Buyer Types,233083.0
+P12,Macroom,2,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+P12,Macroom,2,2024,Existing,Household Buyer - Former Owner-Occupier,231500.0
+P12,Macroom,2,2024,Existing,Household Buyer - Non-Occupier,114000.0
+P12,Macroom,3,2024,All Dwelling Statuses,All Buyer Types,274145.0
+P12,Macroom,3,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,275420.0
+P12,Macroom,3,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,272125.0
+P12,Macroom,3,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,3,2024,New,All Buyer Types,344040.0
+P12,Macroom,3,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,344332.0
+P12,Macroom,3,2024,New,Household Buyer - Former Owner-Occupier,343166.0
+P12,Macroom,3,2024,New,Household Buyer - Non-Occupier,
+P12,Macroom,3,2024,Existing,All Buyer Types,230000.0
+P12,Macroom,3,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,213400.0
+P12,Macroom,3,2024,Existing,Household Buyer - Former Owner-Occupier,248444.0
+P12,Macroom,3,2024,Existing,Household Buyer - Non-Occupier,
+P12,Macroom,4,2024,All Dwelling Statuses,All Buyer Types,265109.0
+P12,Macroom,4,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,323000.0
+P12,Macroom,4,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,252552.0
+P12,Macroom,4,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,134000.0
+P12,Macroom,4,2024,New,All Buyer Types,333349.0
+P12,Macroom,4,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,336667.0
+P12,Macroom,4,2024,New,Household Buyer - Former Owner-Occupier,328374.0
+P12,Macroom,4,2024,New,Household Buyer - Non-Occupier,
+P12,Macroom,4,2024,Existing,All Buyer Types,222458.0
+P12,Macroom,4,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,282000.0
+P12,Macroom,4,2024,Existing,Household Buyer - Former Owner-Occupier,227278.0
+P12,Macroom,4,2024,Existing,Household Buyer - Non-Occupier,134000.0
+P12,Macroom,5,2024,All Dwelling Statuses,All Buyer Types,338870.0
+P12,Macroom,5,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,405107.0
+P12,Macroom,5,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,343487.0
+P12,Macroom,5,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,152500.0
+P12,Macroom,5,2024,New,All Buyer Types,439184.0
+P12,Macroom,5,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,440178.0
+P12,Macroom,5,2024,New,Household Buyer - Former Owner-Occupier,437693.0
+P12,Macroom,5,2024,New,Household Buyer - Non-Occupier,
+P12,Macroom,5,2024,Existing,All Buyer Types,293273.0
+P12,Macroom,5,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,352500.0
+P12,Macroom,5,2024,Existing,Household Buyer - Former Owner-Occupier,316571.0
+P12,Macroom,5,2024,Existing,Household Buyer - Non-Occupier,152500.0
+P12,Macroom,6,2024,All Dwelling Statuses,All Buyer Types,292611.0
+P12,Macroom,6,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,328229.0
+P12,Macroom,6,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,314778.0
+P12,Macroom,6,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,143000.0
+P12,Macroom,6,2024,New,All Buyer Types,397500.0
+P12,Macroom,6,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,397500.0
+P12,Macroom,6,2024,New,Household Buyer - Former Owner-Occupier,
+P12,Macroom,6,2024,New,Household Buyer - Non-Occupier,
+P12,Macroom,6,2024,Existing,All Buyer Types,264640.0
+P12,Macroom,6,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,235867.0
+P12,Macroom,6,2024,Existing,Household Buyer - Former Owner-Occupier,314778.0
+P12,Macroom,6,2024,Existing,Household Buyer - Non-Occupier,143000.0
+P12,Macroom,7,2024,All Dwelling Statuses,All Buyer Types,333222.0
+P12,Macroom,7,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,333000.0
+P12,Macroom,7,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,333499.0
+P12,Macroom,7,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P12,Macroom,7,2024,New,All Buyer Types,347800.0
+P12,Macroom,7,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,365000.0
+P12,Macroom,7,2024,New,Household Buyer - Former Owner-Occupier,336333.0
+P12,Macroom,7,2024,New,Household Buyer - Non-Occupier,
+P12,Macroom,7,2024,Existing,All Buyer Types,315000.0
+P12,Macroom,7,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,311667.0
+P12,Macroom,7,2024,Existing,Household Buyer - Former Owner-Occupier,325000.0
+P12,Macroom,7,2024,Existing,Household Buyer - Non-Occupier,

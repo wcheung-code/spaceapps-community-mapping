@@ -1,0 +1,2101 @@
+Routing Key,City,Month,Year,Dwelling Status,Type of Buyer,VALUE
+P17,Kinsale,1,2010,All Dwelling Statuses,All Buyer Types,445812.0
+P17,Kinsale,1,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+P17,Kinsale,1,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,362500.0
+P17,Kinsale,1,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,758250.0
+P17,Kinsale,1,2010,New,All Buyer Types,249999.0
+P17,Kinsale,1,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,1,2010,New,Household Buyer - Former Owner-Occupier,249999.0
+P17,Kinsale,1,2010,New,Household Buyer - Non-Occupier,
+P17,Kinsale,1,2010,Existing,All Buyer Types,511083.0
+P17,Kinsale,1,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+P17,Kinsale,1,2010,Existing,Household Buyer - Former Owner-Occupier,475000.0
+P17,Kinsale,1,2010,Existing,Household Buyer - Non-Occupier,758250.0
+P17,Kinsale,2,2010,All Dwelling Statuses,All Buyer Types,390290.0
+P17,Kinsale,2,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,390290.0
+P17,Kinsale,2,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,2,2010,New,All Buyer Types,345725.0
+P17,Kinsale,2,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2010,New,Household Buyer - Former Owner-Occupier,345725.0
+P17,Kinsale,2,2010,New,Household Buyer - Non-Occupier,
+P17,Kinsale,2,2010,Existing,All Buyer Types,420000.0
+P17,Kinsale,2,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2010,Existing,Household Buyer - Former Owner-Occupier,420000.0
+P17,Kinsale,2,2010,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2010,All Dwelling Statuses,All Buyer Types,430000.0
+P17,Kinsale,3,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,515000.0
+P17,Kinsale,3,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,345000.0
+P17,Kinsale,3,2010,New,All Buyer Types,345000.0
+P17,Kinsale,3,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2010,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,3,2010,New,Household Buyer - Non-Occupier,345000.0
+P17,Kinsale,3,2010,Existing,All Buyer Types,515000.0
+P17,Kinsale,3,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2010,Existing,Household Buyer - Former Owner-Occupier,515000.0
+P17,Kinsale,3,2010,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2010,All Dwelling Statuses,All Buyer Types,392326.0
+P17,Kinsale,4,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,265408.0
+P17,Kinsale,4,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,4,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,900000.0
+P17,Kinsale,4,2010,New,All Buyer Types,328316.0
+P17,Kinsale,4,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,328316.0
+P17,Kinsale,4,2010,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,4,2010,New,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2010,Existing,All Buyer Types,435000.0
+P17,Kinsale,4,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,202500.0
+P17,Kinsale,4,2010,Existing,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,4,2010,Existing,Household Buyer - Non-Occupier,900000.0
+P17,Kinsale,5,2010,All Dwelling Statuses,All Buyer Types,420125.0
+P17,Kinsale,5,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,415000.0
+P17,Kinsale,5,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,700000.0
+P17,Kinsale,5,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,150500.0
+P17,Kinsale,5,2010,New,All Buyer Types,
+P17,Kinsale,5,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2010,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,5,2010,New,Household Buyer - Non-Occupier,
+P17,Kinsale,5,2010,Existing,All Buyer Types,420125.0
+P17,Kinsale,5,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,415000.0
+P17,Kinsale,5,2010,Existing,Household Buyer - Former Owner-Occupier,700000.0
+P17,Kinsale,5,2010,Existing,Household Buyer - Non-Occupier,150500.0
+P17,Kinsale,6,2010,All Dwelling Statuses,All Buyer Types,285014.0
+P17,Kinsale,6,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,307517.0
+P17,Kinsale,6,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,6,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,150000.0
+P17,Kinsale,6,2010,New,All Buyer Types,256700.0
+P17,Kinsale,6,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,256700.0
+P17,Kinsale,6,2010,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,6,2010,New,Household Buyer - Non-Occupier,
+P17,Kinsale,6,2010,Existing,All Buyer Types,306250.0
+P17,Kinsale,6,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,358333.0
+P17,Kinsale,6,2010,Existing,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,6,2010,Existing,Household Buyer - Non-Occupier,150000.0
+P17,Kinsale,7,2010,All Dwelling Statuses,All Buyer Types,255667.0
+P17,Kinsale,7,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+P17,Kinsale,7,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,466000.0
+P17,Kinsale,7,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,127333.0
+P17,Kinsale,7,2010,New,All Buyer Types,
+P17,Kinsale,7,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,7,2010,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,7,2010,New,Household Buyer - Non-Occupier,
+P17,Kinsale,7,2010,Existing,All Buyer Types,255667.0
+P17,Kinsale,7,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+P17,Kinsale,7,2010,Existing,Household Buyer - Former Owner-Occupier,466000.0
+P17,Kinsale,7,2010,Existing,Household Buyer - Non-Occupier,127333.0
+P17,Kinsale,8,2010,All Dwelling Statuses,All Buyer Types,260000.0
+P17,Kinsale,8,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,8,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,285000.0
+P17,Kinsale,8,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,235000.0
+P17,Kinsale,8,2010,New,All Buyer Types,
+P17,Kinsale,8,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,8,2010,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,8,2010,New,Household Buyer - Non-Occupier,
+P17,Kinsale,8,2010,Existing,All Buyer Types,260000.0
+P17,Kinsale,8,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,8,2010,Existing,Household Buyer - Former Owner-Occupier,285000.0
+P17,Kinsale,8,2010,Existing,Household Buyer - Non-Occupier,235000.0
+P17,Kinsale,9,2010,All Dwelling Statuses,All Buyer Types,213203.0
+P17,Kinsale,9,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,235156.0
+P17,Kinsale,9,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,191250.0
+P17,Kinsale,9,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,9,2010,New,All Buyer Types,312125.0
+P17,Kinsale,9,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,312125.0
+P17,Kinsale,9,2010,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,9,2010,New,Household Buyer - Non-Occupier,
+P17,Kinsale,9,2010,Existing,All Buyer Types,199071.0
+P17,Kinsale,9,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,209500.0
+P17,Kinsale,9,2010,Existing,Household Buyer - Former Owner-Occupier,191250.0
+P17,Kinsale,9,2010,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,10,2010,All Dwelling Statuses,All Buyer Types,492429.0
+P17,Kinsale,10,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,451667.0
+P17,Kinsale,10,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,532333.0
+P17,Kinsale,10,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,495000.0
+P17,Kinsale,10,2010,New,All Buyer Types,
+P17,Kinsale,10,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,10,2010,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,10,2010,New,Household Buyer - Non-Occupier,
+P17,Kinsale,10,2010,Existing,All Buyer Types,492429.0
+P17,Kinsale,10,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,451667.0
+P17,Kinsale,10,2010,Existing,Household Buyer - Former Owner-Occupier,532333.0
+P17,Kinsale,10,2010,Existing,Household Buyer - Non-Occupier,495000.0
+P17,Kinsale,11,2010,All Dwelling Statuses,All Buyer Types,1277500.0
+P17,Kinsale,11,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+P17,Kinsale,11,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,11,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,2350000.0
+P17,Kinsale,11,2010,New,All Buyer Types,
+P17,Kinsale,11,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,11,2010,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,11,2010,New,Household Buyer - Non-Occupier,
+P17,Kinsale,11,2010,Existing,All Buyer Types,1277500.0
+P17,Kinsale,11,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+P17,Kinsale,11,2010,Existing,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,11,2010,Existing,Household Buyer - Non-Occupier,2350000.0
+P17,Kinsale,12,2010,All Dwelling Statuses,All Buyer Types,318100.0
+P17,Kinsale,12,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,206000.0
+P17,Kinsale,12,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,285833.0
+P17,Kinsale,12,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,420000.0
+P17,Kinsale,12,2010,New,All Buyer Types,
+P17,Kinsale,12,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,12,2010,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,12,2010,New,Household Buyer - Non-Occupier,
+P17,Kinsale,12,2010,Existing,All Buyer Types,318100.0
+P17,Kinsale,12,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,206000.0
+P17,Kinsale,12,2010,Existing,Household Buyer - Former Owner-Occupier,285833.0
+P17,Kinsale,12,2010,Existing,Household Buyer - Non-Occupier,420000.0
+P17,Kinsale,1,2011,All Dwelling Statuses,All Buyer Types,412500.0
+P17,Kinsale,1,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,374999.0
+P17,Kinsale,1,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,450000.0
+P17,Kinsale,1,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,1,2011,New,All Buyer Types,374999.0
+P17,Kinsale,1,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,374999.0
+P17,Kinsale,1,2011,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,1,2011,New,Household Buyer - Non-Occupier,
+P17,Kinsale,1,2011,Existing,All Buyer Types,450000.0
+P17,Kinsale,1,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,1,2011,Existing,Household Buyer - Former Owner-Occupier,450000.0
+P17,Kinsale,1,2011,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,2,2011,All Dwelling Statuses,All Buyer Types,221250.0
+P17,Kinsale,2,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,372499.0
+P17,Kinsale,2,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,2,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,70000.0
+P17,Kinsale,2,2011,New,All Buyer Types,372499.0
+P17,Kinsale,2,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,372499.0
+P17,Kinsale,2,2011,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,2,2011,New,Household Buyer - Non-Occupier,
+P17,Kinsale,2,2011,Existing,All Buyer Types,70000.0
+P17,Kinsale,2,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2011,Existing,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,2,2011,Existing,Household Buyer - Non-Occupier,70000.0
+P17,Kinsale,3,2011,All Dwelling Statuses,All Buyer Types,170000.0
+P17,Kinsale,3,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,170000.0
+P17,Kinsale,3,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2011,New,All Buyer Types,
+P17,Kinsale,3,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2011,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,3,2011,New,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2011,Existing,All Buyer Types,170000.0
+P17,Kinsale,3,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2011,Existing,Household Buyer - Former Owner-Occupier,170000.0
+P17,Kinsale,3,2011,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2011,All Dwelling Statuses,All Buyer Types,120000.0
+P17,Kinsale,4,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,4,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,120000.0
+P17,Kinsale,4,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2011,New,All Buyer Types,
+P17,Kinsale,4,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,4,2011,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,4,2011,New,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2011,Existing,All Buyer Types,120000.0
+P17,Kinsale,4,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,4,2011,Existing,Household Buyer - Former Owner-Occupier,120000.0
+P17,Kinsale,4,2011,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,5,2011,All Dwelling Statuses,All Buyer Types,406667.0
+P17,Kinsale,5,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,406667.0
+P17,Kinsale,5,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,5,2011,New,All Buyer Types,
+P17,Kinsale,5,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2011,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,5,2011,New,Household Buyer - Non-Occupier,
+P17,Kinsale,5,2011,Existing,All Buyer Types,406667.0
+P17,Kinsale,5,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2011,Existing,Household Buyer - Former Owner-Occupier,406667.0
+P17,Kinsale,5,2011,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,6,2011,All Dwelling Statuses,All Buyer Types,231875.0
+P17,Kinsale,6,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,6,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,222500.0
+P17,Kinsale,6,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,241250.0
+P17,Kinsale,6,2011,New,All Buyer Types,
+P17,Kinsale,6,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,6,2011,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,6,2011,New,Household Buyer - Non-Occupier,
+P17,Kinsale,6,2011,Existing,All Buyer Types,231875.0
+P17,Kinsale,6,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,6,2011,Existing,Household Buyer - Former Owner-Occupier,222500.0
+P17,Kinsale,6,2011,Existing,Household Buyer - Non-Occupier,241250.0
+P17,Kinsale,7,2011,All Dwelling Statuses,All Buyer Types,231500.0
+P17,Kinsale,7,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,7,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,231500.0
+P17,Kinsale,7,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,7,2011,New,All Buyer Types,
+P17,Kinsale,7,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,7,2011,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,7,2011,New,Household Buyer - Non-Occupier,
+P17,Kinsale,7,2011,Existing,All Buyer Types,231500.0
+P17,Kinsale,7,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,7,2011,Existing,Household Buyer - Former Owner-Occupier,231500.0
+P17,Kinsale,7,2011,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,8,2011,All Dwelling Statuses,All Buyer Types,387682.0
+P17,Kinsale,8,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,229000.0
+P17,Kinsale,8,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,463944.0
+P17,Kinsale,8,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,400000.0
+P17,Kinsale,8,2011,New,All Buyer Types,300775.0
+P17,Kinsale,8,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,8,2011,New,Household Buyer - Former Owner-Occupier,300775.0
+P17,Kinsale,8,2011,New,Household Buyer - Non-Occupier,
+P17,Kinsale,8,2011,Existing,All Buyer Types,402167.0
+P17,Kinsale,8,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,229000.0
+P17,Kinsale,8,2011,Existing,Household Buyer - Former Owner-Occupier,518333.0
+P17,Kinsale,8,2011,Existing,Household Buyer - Non-Occupier,400000.0
+P17,Kinsale,9,2011,All Dwelling Statuses,All Buyer Types,302021.0
+P17,Kinsale,9,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,241063.0
+P17,Kinsale,9,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,290000.0
+P17,Kinsale,9,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,460000.0
+P17,Kinsale,9,2011,New,All Buyer Types,312125.0
+P17,Kinsale,9,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,312125.0
+P17,Kinsale,9,2011,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,9,2011,New,Household Buyer - Non-Occupier,
+P17,Kinsale,9,2011,Existing,All Buyer Types,300000.0
+P17,Kinsale,9,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+P17,Kinsale,9,2011,Existing,Household Buyer - Former Owner-Occupier,290000.0
+P17,Kinsale,9,2011,Existing,Household Buyer - Non-Occupier,460000.0
+P17,Kinsale,10,2011,All Dwelling Statuses,All Buyer Types,255000.0
+P17,Kinsale,10,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225000.0
+P17,Kinsale,10,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,262500.0
+P17,Kinsale,10,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,10,2011,New,All Buyer Types,
+P17,Kinsale,10,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,10,2011,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,10,2011,New,Household Buyer - Non-Occupier,
+P17,Kinsale,10,2011,Existing,All Buyer Types,255000.0
+P17,Kinsale,10,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,225000.0
+P17,Kinsale,10,2011,Existing,Household Buyer - Former Owner-Occupier,262500.0
+P17,Kinsale,10,2011,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,11,2011,All Dwelling Statuses,All Buyer Types,378167.0
+P17,Kinsale,11,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,108183.0
+P17,Kinsale,11,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,407686.0
+P17,Kinsale,11,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,461500.0
+P17,Kinsale,11,2011,New,All Buyer Types,112365.0
+P17,Kinsale,11,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,112365.0
+P17,Kinsale,11,2011,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,11,2011,New,Household Buyer - Non-Occupier,
+P17,Kinsale,11,2011,Existing,All Buyer Types,400317.0
+P17,Kinsale,11,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,104000.0
+P17,Kinsale,11,2011,Existing,Household Buyer - Former Owner-Occupier,407686.0
+P17,Kinsale,11,2011,Existing,Household Buyer - Non-Occupier,461500.0
+P17,Kinsale,12,2011,All Dwelling Statuses,All Buyer Types,220073.0
+P17,Kinsale,12,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,147455.0
+P17,Kinsale,12,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,329000.0
+P17,Kinsale,12,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,12,2011,New,All Buyer Types,112365.0
+P17,Kinsale,12,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,112365.0
+P17,Kinsale,12,2011,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,12,2011,New,Household Buyer - Non-Occupier,
+P17,Kinsale,12,2011,Existing,All Buyer Types,247000.0
+P17,Kinsale,12,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+P17,Kinsale,12,2011,Existing,Household Buyer - Former Owner-Occupier,329000.0
+P17,Kinsale,12,2011,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,1,2012,All Dwelling Statuses,All Buyer Types,
+P17,Kinsale,1,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,1,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,1,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,1,2012,New,All Buyer Types,
+P17,Kinsale,1,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,1,2012,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,1,2012,New,Household Buyer - Non-Occupier,
+P17,Kinsale,1,2012,Existing,All Buyer Types,
+P17,Kinsale,1,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,1,2012,Existing,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,1,2012,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,2,2012,All Dwelling Statuses,All Buyer Types,154144.0
+P17,Kinsale,2,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,131183.0
+P17,Kinsale,2,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,275000.0
+P17,Kinsale,2,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,129167.0
+P17,Kinsale,2,2012,New,All Buyer Types,112365.0
+P17,Kinsale,2,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,112365.0
+P17,Kinsale,2,2012,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,2,2012,New,Household Buyer - Non-Occupier,
+P17,Kinsale,2,2012,Existing,All Buyer Types,162500.0
+P17,Kinsale,2,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+P17,Kinsale,2,2012,Existing,Household Buyer - Former Owner-Occupier,275000.0
+P17,Kinsale,2,2012,Existing,Household Buyer - Non-Occupier,129167.0
+P17,Kinsale,3,2012,All Dwelling Statuses,All Buyer Types,449000.0
+P17,Kinsale,3,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,637500.0
+P17,Kinsale,3,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,72000.0
+P17,Kinsale,3,2012,New,All Buyer Types,
+P17,Kinsale,3,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2012,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,3,2012,New,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2012,Existing,All Buyer Types,449000.0
+P17,Kinsale,3,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2012,Existing,Household Buyer - Former Owner-Occupier,637500.0
+P17,Kinsale,3,2012,Existing,Household Buyer - Non-Occupier,72000.0
+P17,Kinsale,4,2012,All Dwelling Statuses,All Buyer Types,179786.0
+P17,Kinsale,4,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225000.0
+P17,Kinsale,4,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,174700.0
+P17,Kinsale,4,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,160000.0
+P17,Kinsale,4,2012,New,All Buyer Types,
+P17,Kinsale,4,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,4,2012,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,4,2012,New,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2012,Existing,All Buyer Types,179786.0
+P17,Kinsale,4,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,225000.0
+P17,Kinsale,4,2012,Existing,Household Buyer - Former Owner-Occupier,174700.0
+P17,Kinsale,4,2012,Existing,Household Buyer - Non-Occupier,160000.0
+P17,Kinsale,5,2012,All Dwelling Statuses,All Buyer Types,228963.0
+P17,Kinsale,5,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,230456.0
+P17,Kinsale,5,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,220000.0
+P17,Kinsale,5,2012,New,All Buyer Types,275238.0
+P17,Kinsale,5,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2012,New,Household Buyer - Former Owner-Occupier,275238.0
+P17,Kinsale,5,2012,New,Household Buyer - Non-Occupier,
+P17,Kinsale,5,2012,Existing,All Buyer Types,221250.0
+P17,Kinsale,5,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2012,Existing,Household Buyer - Former Owner-Occupier,221500.0
+P17,Kinsale,5,2012,Existing,Household Buyer - Non-Occupier,220000.0
+P17,Kinsale,6,2012,All Dwelling Statuses,All Buyer Types,185087.0
+P17,Kinsale,6,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,6,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,185087.0
+P17,Kinsale,6,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,6,2012,New,All Buyer Types,290174.0
+P17,Kinsale,6,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,6,2012,New,Household Buyer - Former Owner-Occupier,290174.0
+P17,Kinsale,6,2012,New,Household Buyer - Non-Occupier,
+P17,Kinsale,6,2012,Existing,All Buyer Types,80000.0
+P17,Kinsale,6,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,6,2012,Existing,Household Buyer - Former Owner-Occupier,80000.0
+P17,Kinsale,6,2012,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,7,2012,All Dwelling Statuses,All Buyer Types,243921.0
+P17,Kinsale,7,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+P17,Kinsale,7,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,318591.0
+P17,Kinsale,7,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,148500.0
+P17,Kinsale,7,2012,New,All Buyer Types,112365.0
+P17,Kinsale,7,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,7,2012,New,Household Buyer - Former Owner-Occupier,112365.0
+P17,Kinsale,7,2012,New,Household Buyer - Non-Occupier,
+P17,Kinsale,7,2012,Existing,All Buyer Types,262714.0
+P17,Kinsale,7,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+P17,Kinsale,7,2012,Existing,Household Buyer - Former Owner-Occupier,387333.0
+P17,Kinsale,7,2012,Existing,Household Buyer - Non-Occupier,148500.0
+P17,Kinsale,8,2012,All Dwelling Statuses,All Buyer Types,290307.0
+P17,Kinsale,8,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,8,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,318769.0
+P17,Kinsale,8,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,148000.0
+P17,Kinsale,8,2012,New,All Buyer Types,226812.0
+P17,Kinsale,8,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,8,2012,New,Household Buyer - Former Owner-Occupier,226812.0
+P17,Kinsale,8,2012,New,Household Buyer - Non-Occupier,
+P17,Kinsale,8,2012,Existing,All Buyer Types,322055.0
+P17,Kinsale,8,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,8,2012,Existing,Household Buyer - Former Owner-Occupier,380073.0
+P17,Kinsale,8,2012,Existing,Household Buyer - Non-Occupier,148000.0
+P17,Kinsale,9,2012,All Dwelling Statuses,All Buyer Types,227000.0
+P17,Kinsale,9,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,9,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,9,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,227000.0
+P17,Kinsale,9,2012,New,All Buyer Types,227000.0
+P17,Kinsale,9,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,9,2012,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,9,2012,New,Household Buyer - Non-Occupier,227000.0
+P17,Kinsale,9,2012,Existing,All Buyer Types,
+P17,Kinsale,9,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,9,2012,Existing,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,9,2012,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,10,2012,All Dwelling Statuses,All Buyer Types,429014.0
+P17,Kinsale,10,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,10,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,456816.0
+P17,Kinsale,10,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,290000.0
+P17,Kinsale,10,2012,New,All Buyer Types,
+P17,Kinsale,10,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,10,2012,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,10,2012,New,Household Buyer - Non-Occupier,
+P17,Kinsale,10,2012,Existing,All Buyer Types,429014.0
+P17,Kinsale,10,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,10,2012,Existing,Household Buyer - Former Owner-Occupier,456816.0
+P17,Kinsale,10,2012,Existing,Household Buyer - Non-Occupier,290000.0
+P17,Kinsale,11,2012,All Dwelling Statuses,All Buyer Types,237250.0
+P17,Kinsale,11,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,344000.0
+P17,Kinsale,11,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,252500.0
+P17,Kinsale,11,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,100000.0
+P17,Kinsale,11,2012,New,All Buyer Types,
+P17,Kinsale,11,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,11,2012,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,11,2012,New,Household Buyer - Non-Occupier,
+P17,Kinsale,11,2012,Existing,All Buyer Types,237250.0
+P17,Kinsale,11,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,344000.0
+P17,Kinsale,11,2012,Existing,Household Buyer - Former Owner-Occupier,252500.0
+P17,Kinsale,11,2012,Existing,Household Buyer - Non-Occupier,100000.0
+P17,Kinsale,12,2012,All Dwelling Statuses,All Buyer Types,291185.0
+P17,Kinsale,12,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,250000.0
+P17,Kinsale,12,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,370357.0
+P17,Kinsale,12,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,173225.0
+P17,Kinsale,12,2012,New,All Buyer Types,192950.0
+P17,Kinsale,12,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,12,2012,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,12,2012,New,Household Buyer - Non-Occupier,192950.0
+P17,Kinsale,12,2012,Existing,All Buyer Types,309045.0
+P17,Kinsale,12,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,250000.0
+P17,Kinsale,12,2012,Existing,Household Buyer - Former Owner-Occupier,370357.0
+P17,Kinsale,12,2012,Existing,Household Buyer - Non-Occupier,153500.0
+P17,Kinsale,1,2013,All Dwelling Statuses,All Buyer Types,225667.0
+P17,Kinsale,1,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,345000.0
+P17,Kinsale,1,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,166000.0
+P17,Kinsale,1,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,1,2013,New,All Buyer Types,
+P17,Kinsale,1,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,1,2013,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,1,2013,New,Household Buyer - Non-Occupier,
+P17,Kinsale,1,2013,Existing,All Buyer Types,225667.0
+P17,Kinsale,1,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,345000.0
+P17,Kinsale,1,2013,Existing,Household Buyer - Former Owner-Occupier,166000.0
+P17,Kinsale,1,2013,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,2,2013,All Dwelling Statuses,All Buyer Types,216426.0
+P17,Kinsale,2,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,177496.0
+P17,Kinsale,2,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,227500.0
+P17,Kinsale,2,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,350000.0
+P17,Kinsale,2,2013,New,All Buyer Types,189994.0
+P17,Kinsale,2,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,189994.0
+P17,Kinsale,2,2013,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,2,2013,New,Household Buyer - Non-Occupier,
+P17,Kinsale,2,2013,Existing,All Buyer Types,236250.0
+P17,Kinsale,2,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+P17,Kinsale,2,2013,Existing,Household Buyer - Former Owner-Occupier,227500.0
+P17,Kinsale,2,2013,Existing,Household Buyer - Non-Occupier,350000.0
+P17,Kinsale,3,2013,All Dwelling Statuses,All Buyer Types,240761.0
+P17,Kinsale,3,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,158500.0
+P17,Kinsale,3,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,273665.0
+P17,Kinsale,3,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2013,New,All Buyer Types,
+P17,Kinsale,3,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2013,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,3,2013,New,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2013,Existing,All Buyer Types,240761.0
+P17,Kinsale,3,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,158500.0
+P17,Kinsale,3,2013,Existing,Household Buyer - Former Owner-Occupier,273665.0
+P17,Kinsale,3,2013,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2013,All Dwelling Statuses,All Buyer Types,279750.0
+P17,Kinsale,4,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,4,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,301857.0
+P17,Kinsale,4,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,125000.0
+P17,Kinsale,4,2013,New,All Buyer Types,
+P17,Kinsale,4,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,4,2013,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,4,2013,New,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2013,Existing,All Buyer Types,279750.0
+P17,Kinsale,4,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,4,2013,Existing,Household Buyer - Former Owner-Occupier,301857.0
+P17,Kinsale,4,2013,Existing,Household Buyer - Non-Occupier,125000.0
+P17,Kinsale,5,2013,All Dwelling Statuses,All Buyer Types,143333.0
+P17,Kinsale,5,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+P17,Kinsale,5,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,140000.0
+P17,Kinsale,5,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,5,2013,New,All Buyer Types,
+P17,Kinsale,5,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2013,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,5,2013,New,Household Buyer - Non-Occupier,
+P17,Kinsale,5,2013,Existing,All Buyer Types,143333.0
+P17,Kinsale,5,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+P17,Kinsale,5,2013,Existing,Household Buyer - Former Owner-Occupier,140000.0
+P17,Kinsale,5,2013,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,6,2013,All Dwelling Statuses,All Buyer Types,267162.0
+P17,Kinsale,6,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,6,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,316365.0
+P17,Kinsale,6,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,107250.0
+P17,Kinsale,6,2013,New,All Buyer Types,50000.0
+P17,Kinsale,6,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,6,2013,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,6,2013,New,Household Buyer - Non-Occupier,50000.0
+P17,Kinsale,6,2013,Existing,All Buyer Types,280734.0
+P17,Kinsale,6,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,6,2013,Existing,Household Buyer - Former Owner-Occupier,316365.0
+P17,Kinsale,6,2013,Existing,Household Buyer - Non-Occupier,126333.0
+P17,Kinsale,7,2013,All Dwelling Statuses,All Buyer Types,280625.0
+P17,Kinsale,7,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,7,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,328333.0
+P17,Kinsale,7,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,137500.0
+P17,Kinsale,7,2013,New,All Buyer Types,
+P17,Kinsale,7,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,7,2013,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,7,2013,New,Household Buyer - Non-Occupier,
+P17,Kinsale,7,2013,Existing,All Buyer Types,280625.0
+P17,Kinsale,7,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,7,2013,Existing,Household Buyer - Former Owner-Occupier,328333.0
+P17,Kinsale,7,2013,Existing,Household Buyer - Non-Occupier,137500.0
+P17,Kinsale,8,2013,All Dwelling Statuses,All Buyer Types,439286.0
+P17,Kinsale,8,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+P17,Kinsale,8,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,585000.0
+P17,Kinsale,8,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,285000.0
+P17,Kinsale,8,2013,New,All Buyer Types,
+P17,Kinsale,8,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,8,2013,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,8,2013,New,Household Buyer - Non-Occupier,
+P17,Kinsale,8,2013,Existing,All Buyer Types,439286.0
+P17,Kinsale,8,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+P17,Kinsale,8,2013,Existing,Household Buyer - Former Owner-Occupier,585000.0
+P17,Kinsale,8,2013,Existing,Household Buyer - Non-Occupier,285000.0
+P17,Kinsale,9,2013,All Dwelling Statuses,All Buyer Types,243571.0
+P17,Kinsale,9,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,9,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,273000.0
+P17,Kinsale,9,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,170000.0
+P17,Kinsale,9,2013,New,All Buyer Types,
+P17,Kinsale,9,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,9,2013,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,9,2013,New,Household Buyer - Non-Occupier,
+P17,Kinsale,9,2013,Existing,All Buyer Types,243571.0
+P17,Kinsale,9,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,9,2013,Existing,Household Buyer - Former Owner-Occupier,273000.0
+P17,Kinsale,9,2013,Existing,Household Buyer - Non-Occupier,170000.0
+P17,Kinsale,10,2013,All Dwelling Statuses,All Buyer Types,184417.0
+P17,Kinsale,10,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,10,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,218750.0
+P17,Kinsale,10,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,115750.0
+P17,Kinsale,10,2013,New,All Buyer Types,
+P17,Kinsale,10,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,10,2013,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,10,2013,New,Household Buyer - Non-Occupier,
+P17,Kinsale,10,2013,Existing,All Buyer Types,184417.0
+P17,Kinsale,10,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,10,2013,Existing,Household Buyer - Former Owner-Occupier,218750.0
+P17,Kinsale,10,2013,Existing,Household Buyer - Non-Occupier,115750.0
+P17,Kinsale,11,2013,All Dwelling Statuses,All Buyer Types,306855.0
+P17,Kinsale,11,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,246000.0
+P17,Kinsale,11,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,338758.0
+P17,Kinsale,11,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,272000.0
+P17,Kinsale,11,2013,New,All Buyer Types,374550.0
+P17,Kinsale,11,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,11,2013,New,Household Buyer - Former Owner-Occupier,374550.0
+P17,Kinsale,11,2013,New,Household Buyer - Non-Occupier,
+P17,Kinsale,11,2013,Existing,All Buyer Types,299333.0
+P17,Kinsale,11,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,246000.0
+P17,Kinsale,11,2013,Existing,Household Buyer - Former Owner-Occupier,331600.0
+P17,Kinsale,11,2013,Existing,Household Buyer - Non-Occupier,272000.0
+P17,Kinsale,12,2013,All Dwelling Statuses,All Buyer Types,190650.0
+P17,Kinsale,12,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,267000.0
+P17,Kinsale,12,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,171563.0
+P17,Kinsale,12,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,12,2013,New,All Buyer Types,
+P17,Kinsale,12,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,12,2013,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,12,2013,New,Household Buyer - Non-Occupier,
+P17,Kinsale,12,2013,Existing,All Buyer Types,190650.0
+P17,Kinsale,12,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,267000.0
+P17,Kinsale,12,2013,Existing,Household Buyer - Former Owner-Occupier,171563.0
+P17,Kinsale,12,2013,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,1,2014,All Dwelling Statuses,All Buyer Types,221833.0
+P17,Kinsale,1,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,1,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,219625.0
+P17,Kinsale,1,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,226250.0
+P17,Kinsale,1,2014,New,All Buyer Types,
+P17,Kinsale,1,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,1,2014,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,1,2014,New,Household Buyer - Non-Occupier,
+P17,Kinsale,1,2014,Existing,All Buyer Types,221833.0
+P17,Kinsale,1,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,1,2014,Existing,Household Buyer - Former Owner-Occupier,219625.0
+P17,Kinsale,1,2014,Existing,Household Buyer - Non-Occupier,226250.0
+P17,Kinsale,2,2014,All Dwelling Statuses,All Buyer Types,372500.0
+P17,Kinsale,2,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,373750.0
+P17,Kinsale,2,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,370000.0
+P17,Kinsale,2,2014,New,All Buyer Types,
+P17,Kinsale,2,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2014,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,2,2014,New,Household Buyer - Non-Occupier,
+P17,Kinsale,2,2014,Existing,All Buyer Types,372500.0
+P17,Kinsale,2,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2014,Existing,Household Buyer - Former Owner-Occupier,373750.0
+P17,Kinsale,2,2014,Existing,Household Buyer - Non-Occupier,370000.0
+P17,Kinsale,3,2014,All Dwelling Statuses,All Buyer Types,196625.0
+P17,Kinsale,3,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,196625.0
+P17,Kinsale,3,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2014,New,All Buyer Types,
+P17,Kinsale,3,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2014,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,3,2014,New,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2014,Existing,All Buyer Types,196625.0
+P17,Kinsale,3,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2014,Existing,Household Buyer - Former Owner-Occupier,196625.0
+P17,Kinsale,3,2014,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2014,All Dwelling Statuses,All Buyer Types,268075.0
+P17,Kinsale,4,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+P17,Kinsale,4,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,277738.0
+P17,Kinsale,4,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,307500.0
+P17,Kinsale,4,2014,New,All Buyer Types,158900.0
+P17,Kinsale,4,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,4,2014,New,Household Buyer - Former Owner-Occupier,158900.0
+P17,Kinsale,4,2014,New,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2014,Existing,All Buyer Types,278000.0
+P17,Kinsale,4,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+P17,Kinsale,4,2014,Existing,Household Buyer - Former Owner-Occupier,294714.0
+P17,Kinsale,4,2014,Existing,Household Buyer - Non-Occupier,307500.0
+P17,Kinsale,5,2014,All Dwelling Statuses,All Buyer Types,228077.0
+P17,Kinsale,5,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,234583.0
+P17,Kinsale,5,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,150000.0
+P17,Kinsale,5,2014,New,All Buyer Types,
+P17,Kinsale,5,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2014,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,5,2014,New,Household Buyer - Non-Occupier,
+P17,Kinsale,5,2014,Existing,All Buyer Types,228077.0
+P17,Kinsale,5,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2014,Existing,Household Buyer - Former Owner-Occupier,234583.0
+P17,Kinsale,5,2014,Existing,Household Buyer - Non-Occupier,150000.0
+P17,Kinsale,6,2014,All Dwelling Statuses,All Buyer Types,302636.0
+P17,Kinsale,6,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,6,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,302636.0
+P17,Kinsale,6,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,6,2014,New,All Buyer Types,
+P17,Kinsale,6,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,6,2014,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,6,2014,New,Household Buyer - Non-Occupier,
+P17,Kinsale,6,2014,Existing,All Buyer Types,302636.0
+P17,Kinsale,6,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,6,2014,Existing,Household Buyer - Former Owner-Occupier,302636.0
+P17,Kinsale,6,2014,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,7,2014,All Dwelling Statuses,All Buyer Types,486125.0
+P17,Kinsale,7,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,1350000.0
+P17,Kinsale,7,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,396500.0
+P17,Kinsale,7,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,160000.0
+P17,Kinsale,7,2014,New,All Buyer Types,
+P17,Kinsale,7,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,7,2014,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,7,2014,New,Household Buyer - Non-Occupier,
+P17,Kinsale,7,2014,Existing,All Buyer Types,486125.0
+P17,Kinsale,7,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,1350000.0
+P17,Kinsale,7,2014,Existing,Household Buyer - Former Owner-Occupier,396500.0
+P17,Kinsale,7,2014,Existing,Household Buyer - Non-Occupier,160000.0
+P17,Kinsale,8,2014,All Dwelling Statuses,All Buyer Types,255946.0
+P17,Kinsale,8,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,322500.0
+P17,Kinsale,8,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,280965.0
+P17,Kinsale,8,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,164250.0
+P17,Kinsale,8,2014,New,All Buyer Types,
+P17,Kinsale,8,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,8,2014,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,8,2014,New,Household Buyer - Non-Occupier,
+P17,Kinsale,8,2014,Existing,All Buyer Types,255946.0
+P17,Kinsale,8,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,322500.0
+P17,Kinsale,8,2014,Existing,Household Buyer - Former Owner-Occupier,280965.0
+P17,Kinsale,8,2014,Existing,Household Buyer - Non-Occupier,164250.0
+P17,Kinsale,9,2014,All Dwelling Statuses,All Buyer Types,371667.0
+P17,Kinsale,9,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,152500.0
+P17,Kinsale,9,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,176000.0
+P17,Kinsale,9,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,1080000.0
+P17,Kinsale,9,2014,New,All Buyer Types,
+P17,Kinsale,9,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,9,2014,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,9,2014,New,Household Buyer - Non-Occupier,
+P17,Kinsale,9,2014,Existing,All Buyer Types,371667.0
+P17,Kinsale,9,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,152500.0
+P17,Kinsale,9,2014,Existing,Household Buyer - Former Owner-Occupier,176000.0
+P17,Kinsale,9,2014,Existing,Household Buyer - Non-Occupier,1080000.0
+P17,Kinsale,10,2014,All Dwelling Statuses,All Buyer Types,202222.0
+P17,Kinsale,10,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+P17,Kinsale,10,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,251000.0
+P17,Kinsale,10,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,167500.0
+P17,Kinsale,10,2014,New,All Buyer Types,
+P17,Kinsale,10,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,10,2014,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,10,2014,New,Household Buyer - Non-Occupier,
+P17,Kinsale,10,2014,Existing,All Buyer Types,202222.0
+P17,Kinsale,10,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+P17,Kinsale,10,2014,Existing,Household Buyer - Former Owner-Occupier,251000.0
+P17,Kinsale,10,2014,Existing,Household Buyer - Non-Occupier,167500.0
+P17,Kinsale,11,2014,All Dwelling Statuses,All Buyer Types,243636.0
+P17,Kinsale,11,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,186667.0
+P17,Kinsale,11,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,274286.0
+P17,Kinsale,11,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,200000.0
+P17,Kinsale,11,2014,New,All Buyer Types,
+P17,Kinsale,11,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,11,2014,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,11,2014,New,Household Buyer - Non-Occupier,
+P17,Kinsale,11,2014,Existing,All Buyer Types,243636.0
+P17,Kinsale,11,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,186667.0
+P17,Kinsale,11,2014,Existing,Household Buyer - Former Owner-Occupier,274286.0
+P17,Kinsale,11,2014,Existing,Household Buyer - Non-Occupier,200000.0
+P17,Kinsale,12,2014,All Dwelling Statuses,All Buyer Types,230997.0
+P17,Kinsale,12,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,238000.0
+P17,Kinsale,12,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,231806.0
+P17,Kinsale,12,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,229313.0
+P17,Kinsale,12,2014,New,All Buyer Types,
+P17,Kinsale,12,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,12,2014,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,12,2014,New,Household Buyer - Non-Occupier,
+P17,Kinsale,12,2014,Existing,All Buyer Types,230997.0
+P17,Kinsale,12,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,238000.0
+P17,Kinsale,12,2014,Existing,Household Buyer - Former Owner-Occupier,231806.0
+P17,Kinsale,12,2014,Existing,Household Buyer - Non-Occupier,229313.0
+P17,Kinsale,1,2015,All Dwelling Statuses,All Buyer Types,236800.0
+P17,Kinsale,1,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,338000.0
+P17,Kinsale,1,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,242000.0
+P17,Kinsale,1,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,205000.0
+P17,Kinsale,1,2015,New,All Buyer Types,
+P17,Kinsale,1,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,1,2015,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,1,2015,New,Household Buyer - Non-Occupier,
+P17,Kinsale,1,2015,Existing,All Buyer Types,236800.0
+P17,Kinsale,1,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,338000.0
+P17,Kinsale,1,2015,Existing,Household Buyer - Former Owner-Occupier,242000.0
+P17,Kinsale,1,2015,Existing,Household Buyer - Non-Occupier,205000.0
+P17,Kinsale,2,2015,All Dwelling Statuses,All Buyer Types,262497.0
+P17,Kinsale,2,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,314993.0
+P17,Kinsale,2,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,221667.0
+P17,Kinsale,2,2015,New,All Buyer Types,134750.0
+P17,Kinsale,2,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2015,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,2,2015,New,Household Buyer - Non-Occupier,134750.0
+P17,Kinsale,2,2015,Existing,All Buyer Types,305079.0
+P17,Kinsale,2,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2015,Existing,Household Buyer - Former Owner-Occupier,314993.0
+P17,Kinsale,2,2015,Existing,Household Buyer - Non-Occupier,291200.0
+P17,Kinsale,3,2015,All Dwelling Statuses,All Buyer Types,204063.0
+P17,Kinsale,3,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+P17,Kinsale,3,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,220000.0
+P17,Kinsale,3,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,251250.0
+P17,Kinsale,3,2015,New,All Buyer Types,
+P17,Kinsale,3,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2015,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,3,2015,New,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2015,Existing,All Buyer Types,204063.0
+P17,Kinsale,3,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+P17,Kinsale,3,2015,Existing,Household Buyer - Former Owner-Occupier,220000.0
+P17,Kinsale,3,2015,Existing,Household Buyer - Non-Occupier,251250.0
+P17,Kinsale,4,2015,All Dwelling Statuses,All Buyer Types,180409.0
+P17,Kinsale,4,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+P17,Kinsale,4,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,214583.0
+P17,Kinsale,4,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,115667.0
+P17,Kinsale,4,2015,New,All Buyer Types,
+P17,Kinsale,4,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,4,2015,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,4,2015,New,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2015,Existing,All Buyer Types,180409.0
+P17,Kinsale,4,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+P17,Kinsale,4,2015,Existing,Household Buyer - Former Owner-Occupier,214583.0
+P17,Kinsale,4,2015,Existing,Household Buyer - Non-Occupier,115667.0
+P17,Kinsale,5,2015,All Dwelling Statuses,All Buyer Types,316556.0
+P17,Kinsale,5,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,329667.0
+P17,Kinsale,5,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,217500.0
+P17,Kinsale,5,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,356250.0
+P17,Kinsale,5,2015,New,All Buyer Types,
+P17,Kinsale,5,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2015,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,5,2015,New,Household Buyer - Non-Occupier,
+P17,Kinsale,5,2015,Existing,All Buyer Types,316556.0
+P17,Kinsale,5,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,329667.0
+P17,Kinsale,5,2015,Existing,Household Buyer - Former Owner-Occupier,217500.0
+P17,Kinsale,5,2015,Existing,Household Buyer - Non-Occupier,356250.0
+P17,Kinsale,6,2015,All Dwelling Statuses,All Buyer Types,353885.0
+P17,Kinsale,6,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,6,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,386979.0
+P17,Kinsale,6,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,276667.0
+P17,Kinsale,6,2015,New,All Buyer Types,380000.0
+P17,Kinsale,6,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,6,2015,New,Household Buyer - Former Owner-Occupier,380000.0
+P17,Kinsale,6,2015,New,Household Buyer - Non-Occupier,
+P17,Kinsale,6,2015,Existing,All Buyer Types,350983.0
+P17,Kinsale,6,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,6,2015,Existing,Household Buyer - Former Owner-Occupier,388142.0
+P17,Kinsale,6,2015,Existing,Household Buyer - Non-Occupier,276667.0
+P17,Kinsale,7,2015,All Dwelling Statuses,All Buyer Types,358333.0
+P17,Kinsale,7,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+P17,Kinsale,7,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,449143.0
+P17,Kinsale,7,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,265333.0
+P17,Kinsale,7,2015,New,All Buyer Types,
+P17,Kinsale,7,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,7,2015,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,7,2015,New,Household Buyer - Non-Occupier,
+P17,Kinsale,7,2015,Existing,All Buyer Types,358333.0
+P17,Kinsale,7,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+P17,Kinsale,7,2015,Existing,Household Buyer - Former Owner-Occupier,449143.0
+P17,Kinsale,7,2015,Existing,Household Buyer - Non-Occupier,265333.0
+P17,Kinsale,8,2015,All Dwelling Statuses,All Buyer Types,263995.0
+P17,Kinsale,8,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,299650.0
+P17,Kinsale,8,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,298333.0
+P17,Kinsale,8,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,211500.0
+P17,Kinsale,8,2015,New,All Buyer Types,306450.0
+P17,Kinsale,8,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,306450.0
+P17,Kinsale,8,2015,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,8,2015,New,Household Buyer - Non-Occupier,
+P17,Kinsale,8,2015,Existing,All Buyer Types,259278.0
+P17,Kinsale,8,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,296250.0
+P17,Kinsale,8,2015,Existing,Household Buyer - Former Owner-Occupier,298333.0
+P17,Kinsale,8,2015,Existing,Household Buyer - Non-Occupier,211500.0
+P17,Kinsale,9,2015,All Dwelling Statuses,All Buyer Types,274000.0
+P17,Kinsale,9,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,229000.0
+P17,Kinsale,9,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,207200.0
+P17,Kinsale,9,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,391250.0
+P17,Kinsale,9,2015,New,All Buyer Types,230000.0
+P17,Kinsale,9,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,230000.0
+P17,Kinsale,9,2015,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,9,2015,New,Household Buyer - Non-Occupier,
+P17,Kinsale,9,2015,Existing,All Buyer Types,278000.0
+P17,Kinsale,9,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,228500.0
+P17,Kinsale,9,2015,Existing,Household Buyer - Former Owner-Occupier,207200.0
+P17,Kinsale,9,2015,Existing,Household Buyer - Non-Occupier,391250.0
+P17,Kinsale,10,2015,All Dwelling Statuses,All Buyer Types,393521.0
+P17,Kinsale,10,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,313739.0
+P17,Kinsale,10,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,444950.0
+P17,Kinsale,10,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,207750.0
+P17,Kinsale,10,2015,New,All Buyer Types,240311.0
+P17,Kinsale,10,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,313739.0
+P17,Kinsale,10,2015,New,Household Buyer - Former Owner-Occupier,271195.0
+P17,Kinsale,10,2015,New,Household Buyer - Non-Occupier,135999.0
+P17,Kinsale,10,2015,Existing,All Buyer Types,419056.0
+P17,Kinsale,10,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,10,2015,Existing,Household Buyer - Former Owner-Occupier,456533.0
+P17,Kinsale,10,2015,Existing,Household Buyer - Non-Occupier,231667.0
+P17,Kinsale,11,2015,All Dwelling Statuses,All Buyer Types,434364.0
+P17,Kinsale,11,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,253500.0
+P17,Kinsale,11,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,564333.0
+P17,Kinsale,11,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,295000.0
+P17,Kinsale,11,2015,New,All Buyer Types,
+P17,Kinsale,11,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,11,2015,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,11,2015,New,Household Buyer - Non-Occupier,
+P17,Kinsale,11,2015,Existing,All Buyer Types,434364.0
+P17,Kinsale,11,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,253500.0
+P17,Kinsale,11,2015,Existing,Household Buyer - Former Owner-Occupier,564333.0
+P17,Kinsale,11,2015,Existing,Household Buyer - Non-Occupier,295000.0
+P17,Kinsale,12,2015,All Dwelling Statuses,All Buyer Types,326375.0
+P17,Kinsale,12,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,12,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,354231.0
+P17,Kinsale,12,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,205667.0
+P17,Kinsale,12,2015,New,All Buyer Types,
+P17,Kinsale,12,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,12,2015,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,12,2015,New,Household Buyer - Non-Occupier,
+P17,Kinsale,12,2015,Existing,All Buyer Types,326375.0
+P17,Kinsale,12,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,12,2015,Existing,Household Buyer - Former Owner-Occupier,354231.0
+P17,Kinsale,12,2015,Existing,Household Buyer - Non-Occupier,205667.0
+P17,Kinsale,1,2016,All Dwelling Statuses,All Buyer Types,344308.0
+P17,Kinsale,1,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,251667.0
+P17,Kinsale,1,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,431375.0
+P17,Kinsale,1,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,135000.0
+P17,Kinsale,1,2016,New,All Buyer Types,
+P17,Kinsale,1,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,1,2016,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,1,2016,New,Household Buyer - Non-Occupier,
+P17,Kinsale,1,2016,Existing,All Buyer Types,344308.0
+P17,Kinsale,1,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,251667.0
+P17,Kinsale,1,2016,Existing,Household Buyer - Former Owner-Occupier,431375.0
+P17,Kinsale,1,2016,Existing,Household Buyer - Non-Occupier,135000.0
+P17,Kinsale,2,2016,All Dwelling Statuses,All Buyer Types,449444.0
+P17,Kinsale,2,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,315000.0
+P17,Kinsale,2,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,613000.0
+P17,Kinsale,2,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,175000.0
+P17,Kinsale,2,2016,New,All Buyer Types,
+P17,Kinsale,2,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2016,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,2,2016,New,Household Buyer - Non-Occupier,
+P17,Kinsale,2,2016,Existing,All Buyer Types,449444.0
+P17,Kinsale,2,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,315000.0
+P17,Kinsale,2,2016,Existing,Household Buyer - Former Owner-Occupier,613000.0
+P17,Kinsale,2,2016,Existing,Household Buyer - Non-Occupier,175000.0
+P17,Kinsale,3,2016,All Dwelling Statuses,All Buyer Types,312625.0
+P17,Kinsale,3,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,330656.0
+P17,Kinsale,3,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,240500.0
+P17,Kinsale,3,2016,New,All Buyer Types,624250.0
+P17,Kinsale,3,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2016,New,Household Buyer - Former Owner-Occupier,624250.0
+P17,Kinsale,3,2016,New,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2016,Existing,All Buyer Types,278000.0
+P17,Kinsale,3,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2016,Existing,Household Buyer - Former Owner-Occupier,288714.0
+P17,Kinsale,3,2016,Existing,Household Buyer - Non-Occupier,240500.0
+P17,Kinsale,4,2016,All Dwelling Statuses,All Buyer Types,317675.0
+P17,Kinsale,4,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,260233.0
+P17,Kinsale,4,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,366916.0
+P17,Kinsale,4,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,112496.0
+P17,Kinsale,4,2016,New,All Buyer Types,260139.0
+P17,Kinsale,4,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,260233.0
+P17,Kinsale,4,2016,New,Household Buyer - Former Owner-Occupier,259952.0
+P17,Kinsale,4,2016,New,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2016,Existing,All Buyer Types,344230.0
+P17,Kinsale,4,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,4,2016,Existing,Household Buyer - Former Owner-Occupier,386364.0
+P17,Kinsale,4,2016,Existing,Household Buyer - Non-Occupier,112496.0
+P17,Kinsale,5,2016,All Dwelling Statuses,All Buyer Types,348312.0
+P17,Kinsale,5,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,262611.0
+P17,Kinsale,5,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,425833.0
+P17,Kinsale,5,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,330000.0
+P17,Kinsale,5,2016,New,All Buyer Types,276514.0
+P17,Kinsale,5,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,276514.0
+P17,Kinsale,5,2016,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,5,2016,New,Household Buyer - Non-Occupier,
+P17,Kinsale,5,2016,Existing,All Buyer Types,380222.0
+P17,Kinsale,5,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,207000.0
+P17,Kinsale,5,2016,Existing,Household Buyer - Former Owner-Occupier,425833.0
+P17,Kinsale,5,2016,Existing,Household Buyer - Non-Occupier,330000.0
+P17,Kinsale,6,2016,All Dwelling Statuses,All Buyer Types,270400.0
+P17,Kinsale,6,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,260000.0
+P17,Kinsale,6,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,272333.0
+P17,Kinsale,6,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,275000.0
+P17,Kinsale,6,2016,New,All Buyer Types,260000.0
+P17,Kinsale,6,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,260000.0
+P17,Kinsale,6,2016,New,Household Buyer - Former Owner-Occupier,259999.0
+P17,Kinsale,6,2016,New,Household Buyer - Non-Occupier,
+P17,Kinsale,6,2016,Existing,All Buyer Types,277333.0
+P17,Kinsale,6,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,6,2016,Existing,Household Buyer - Former Owner-Occupier,278500.0
+P17,Kinsale,6,2016,Existing,Household Buyer - Non-Occupier,275000.0
+P17,Kinsale,7,2016,All Dwelling Statuses,All Buyer Types,279231.0
+P17,Kinsale,7,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,300021.0
+P17,Kinsale,7,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,292929.0
+P17,Kinsale,7,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,210500.0
+P17,Kinsale,7,2016,New,All Buyer Types,251771.0
+P17,Kinsale,7,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,250041.0
+P17,Kinsale,7,2016,New,Household Buyer - Former Owner-Occupier,253500.0
+P17,Kinsale,7,2016,New,Household Buyer - Non-Occupier,
+P17,Kinsale,7,2016,Existing,All Buyer Types,285333.0
+P17,Kinsale,7,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,350000.0
+P17,Kinsale,7,2016,Existing,Household Buyer - Former Owner-Occupier,299500.0
+P17,Kinsale,7,2016,Existing,Household Buyer - Non-Occupier,210500.0
+P17,Kinsale,8,2016,All Dwelling Statuses,All Buyer Types,452464.0
+P17,Kinsale,8,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,381666.0
+P17,Kinsale,8,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,507650.0
+P17,Kinsale,8,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,113000.0
+P17,Kinsale,8,2016,New,All Buyer Types,284500.0
+P17,Kinsale,8,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,270000.0
+P17,Kinsale,8,2016,New,Household Buyer - Former Owner-Occupier,313500.0
+P17,Kinsale,8,2016,New,Household Buyer - Non-Occupier,
+P17,Kinsale,8,2016,Existing,All Buyer Types,498273.0
+P17,Kinsale,8,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,605000.0
+P17,Kinsale,8,2016,Existing,Household Buyer - Former Owner-Occupier,529222.0
+P17,Kinsale,8,2016,Existing,Household Buyer - Non-Occupier,113000.0
+P17,Kinsale,9,2016,All Dwelling Statuses,All Buyer Types,279811.0
+P17,Kinsale,9,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,314774.0
+P17,Kinsale,9,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,293303.0
+P17,Kinsale,9,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,40000.0
+P17,Kinsale,9,2016,New,All Buyer Types,261464.0
+P17,Kinsale,9,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,279662.0
+P17,Kinsale,9,2016,New,Household Buyer - Former Owner-Occupier,243266.0
+P17,Kinsale,9,2016,New,Household Buyer - Non-Occupier,
+P17,Kinsale,9,2016,Existing,All Buyer Types,287150.0
+P17,Kinsale,9,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,385000.0
+P17,Kinsale,9,2016,Existing,Household Buyer - Former Owner-Occupier,305813.0
+P17,Kinsale,9,2016,Existing,Household Buyer - Non-Occupier,40000.0
+P17,Kinsale,10,2016,All Dwelling Statuses,All Buyer Types,309672.0
+P17,Kinsale,10,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,289332.0
+P17,Kinsale,10,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,327341.0
+P17,Kinsale,10,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,231667.0
+P17,Kinsale,10,2016,New,All Buyer Types,270429.0
+P17,Kinsale,10,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,302221.0
+P17,Kinsale,10,2016,New,Household Buyer - Former Owner-Occupier,259811.0
+P17,Kinsale,10,2016,New,Household Buyer - Non-Occupier,260000.0
+P17,Kinsale,10,2016,Existing,All Buyer Types,341067.0
+P17,Kinsale,10,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,270000.0
+P17,Kinsale,10,2016,Existing,Household Buyer - Former Owner-Occupier,376455.0
+P17,Kinsale,10,2016,Existing,Household Buyer - Non-Occupier,217500.0
+P17,Kinsale,11,2016,All Dwelling Statuses,All Buyer Types,311651.0
+P17,Kinsale,11,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,298337.0
+P17,Kinsale,11,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,344000.0
+P17,Kinsale,11,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,250750.0
+P17,Kinsale,11,2016,New,All Buyer Types,255837.0
+P17,Kinsale,11,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,243341.0
+P17,Kinsale,11,2016,New,Household Buyer - Former Owner-Occupier,265000.0
+P17,Kinsale,11,2016,New,Household Buyer - Non-Occupier,270000.0
+P17,Kinsale,11,2016,Existing,All Buyer Types,335571.0
+P17,Kinsale,11,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,353333.0
+P17,Kinsale,11,2016,Existing,Household Buyer - Former Owner-Occupier,352778.0
+P17,Kinsale,11,2016,Existing,Household Buyer - Non-Occupier,231500.0
+P17,Kinsale,12,2016,All Dwelling Statuses,All Buyer Types,351423.0
+P17,Kinsale,12,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,326667.0
+P17,Kinsale,12,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,358175.0
+P17,Kinsale,12,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,12,2016,New,All Buyer Types,327973.0
+P17,Kinsale,12,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,12,2016,New,Household Buyer - Former Owner-Occupier,327973.0
+P17,Kinsale,12,2016,New,Household Buyer - Non-Occupier,
+P17,Kinsale,12,2016,Existing,All Buyer Types,357818.0
+P17,Kinsale,12,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,326667.0
+P17,Kinsale,12,2016,Existing,Household Buyer - Former Owner-Occupier,369500.0
+P17,Kinsale,12,2016,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,1,2017,All Dwelling Statuses,All Buyer Types,448250.0
+P17,Kinsale,1,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,395500.0
+P17,Kinsale,1,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,510000.0
+P17,Kinsale,1,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,245000.0
+P17,Kinsale,1,2017,New,All Buyer Types,245000.0
+P17,Kinsale,1,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,1,2017,New,Household Buyer - Former Owner-Occupier,245000.0
+P17,Kinsale,1,2017,New,Household Buyer - Non-Occupier,
+P17,Kinsale,1,2017,Existing,All Buyer Types,477286.0
+P17,Kinsale,1,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,395500.0
+P17,Kinsale,1,2017,Existing,Household Buyer - Former Owner-Occupier,576250.0
+P17,Kinsale,1,2017,Existing,Household Buyer - Non-Occupier,245000.0
+P17,Kinsale,2,2017,All Dwelling Statuses,All Buyer Types,288286.0
+P17,Kinsale,2,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,350000.0
+P17,Kinsale,2,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,206000.0
+P17,Kinsale,2,2017,New,All Buyer Types,
+P17,Kinsale,2,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2017,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,2,2017,New,Household Buyer - Non-Occupier,
+P17,Kinsale,2,2017,Existing,All Buyer Types,288286.0
+P17,Kinsale,2,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2017,Existing,Household Buyer - Former Owner-Occupier,350000.0
+P17,Kinsale,2,2017,Existing,Household Buyer - Non-Occupier,206000.0
+P17,Kinsale,3,2017,All Dwelling Statuses,All Buyer Types,335175.0
+P17,Kinsale,3,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,342072.0
+P17,Kinsale,3,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,280000.0
+P17,Kinsale,3,2017,New,All Buyer Types,502573.0
+P17,Kinsale,3,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2017,New,Household Buyer - Former Owner-Occupier,502573.0
+P17,Kinsale,3,2017,New,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2017,Existing,All Buyer Types,314250.0
+P17,Kinsale,3,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2017,Existing,Household Buyer - Former Owner-Occupier,319143.0
+P17,Kinsale,3,2017,Existing,Household Buyer - Non-Occupier,280000.0
+P17,Kinsale,4,2017,All Dwelling Statuses,All Buyer Types,425350.0
+P17,Kinsale,4,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+P17,Kinsale,4,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,460854.0
+P17,Kinsale,4,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,287500.0
+P17,Kinsale,4,2017,New,All Buyer Types,382499.0
+P17,Kinsale,4,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,4,2017,New,Household Buyer - Former Owner-Occupier,382499.0
+P17,Kinsale,4,2017,New,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2017,Existing,All Buyer Types,431942.0
+P17,Kinsale,4,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+P17,Kinsale,4,2017,Existing,Household Buyer - Former Owner-Occupier,476525.0
+P17,Kinsale,4,2017,Existing,Household Buyer - Non-Occupier,287500.0
+P17,Kinsale,5,2017,All Dwelling Statuses,All Buyer Types,316029.0
+P17,Kinsale,5,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,379999.0
+P17,Kinsale,5,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,308033.0
+P17,Kinsale,5,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,5,2017,New,All Buyer Types,333211.0
+P17,Kinsale,5,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,379999.0
+P17,Kinsale,5,2017,New,Household Buyer - Former Owner-Occupier,323853.0
+P17,Kinsale,5,2017,New,Household Buyer - Non-Occupier,
+P17,Kinsale,5,2017,Existing,All Buyer Types,281667.0
+P17,Kinsale,5,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2017,Existing,Household Buyer - Former Owner-Occupier,281667.0
+P17,Kinsale,5,2017,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,6,2017,All Dwelling Statuses,All Buyer Types,329530.0
+P17,Kinsale,6,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,301873.0
+P17,Kinsale,6,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,365981.0
+P17,Kinsale,6,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,185000.0
+P17,Kinsale,6,2017,New,All Buyer Types,333051.0
+P17,Kinsale,6,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,323164.0
+P17,Kinsale,6,2017,New,Household Buyer - Former Owner-Occupier,340466.0
+P17,Kinsale,6,2017,New,Household Buyer - Non-Occupier,
+P17,Kinsale,6,2017,Existing,All Buyer Types,324600.0
+P17,Kinsale,6,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,238000.0
+P17,Kinsale,6,2017,Existing,Household Buyer - Former Owner-Occupier,400000.0
+P17,Kinsale,6,2017,Existing,Household Buyer - Non-Occupier,185000.0
+P17,Kinsale,7,2017,All Dwelling Statuses,All Buyer Types,341468.0
+P17,Kinsale,7,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,404750.0
+P17,Kinsale,7,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,348709.0
+P17,Kinsale,7,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,270000.0
+P17,Kinsale,7,2017,New,All Buyer Types,433275.0
+P17,Kinsale,7,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,404750.0
+P17,Kinsale,7,2017,New,Household Buyer - Former Owner-Occupier,461799.0
+P17,Kinsale,7,2017,New,Household Buyer - Non-Occupier,
+P17,Kinsale,7,2017,Existing,All Buyer Types,326167.0
+P17,Kinsale,7,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,7,2017,Existing,Household Buyer - Former Owner-Occupier,337400.0
+P17,Kinsale,7,2017,Existing,Household Buyer - Non-Occupier,270000.0
+P17,Kinsale,8,2017,All Dwelling Statuses,All Buyer Types,403556.0
+P17,Kinsale,8,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,216625.0
+P17,Kinsale,8,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,530000.0
+P17,Kinsale,8,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,189167.0
+P17,Kinsale,8,2017,New,All Buyer Types,442500.0
+P17,Kinsale,8,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,395000.0
+P17,Kinsale,8,2017,New,Household Buyer - Former Owner-Occupier,489999.0
+P17,Kinsale,8,2017,New,Household Buyer - Non-Occupier,
+P17,Kinsale,8,2017,Existing,All Buyer Types,398688.0
+P17,Kinsale,8,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,157167.0
+P17,Kinsale,8,2017,Existing,Household Buyer - Former Owner-Occupier,534000.0
+P17,Kinsale,8,2017,Existing,Household Buyer - Non-Occupier,189167.0
+P17,Kinsale,9,2017,All Dwelling Statuses,All Buyer Types,303625.0
+P17,Kinsale,9,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,235000.0
+P17,Kinsale,9,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,380643.0
+P17,Kinsale,9,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,186000.0
+P17,Kinsale,9,2017,New,All Buyer Types,
+P17,Kinsale,9,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,9,2017,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,9,2017,New,Household Buyer - Non-Occupier,
+P17,Kinsale,9,2017,Existing,All Buyer Types,303625.0
+P17,Kinsale,9,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,235000.0
+P17,Kinsale,9,2017,Existing,Household Buyer - Former Owner-Occupier,380643.0
+P17,Kinsale,9,2017,Existing,Household Buyer - Non-Occupier,186000.0
+P17,Kinsale,10,2017,All Dwelling Statuses,All Buyer Types,284091.0
+P17,Kinsale,10,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,250000.0
+P17,Kinsale,10,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,248333.0
+P17,Kinsale,10,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,304286.0
+P17,Kinsale,10,2017,New,All Buyer Types,324999.0
+P17,Kinsale,10,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,10,2017,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,10,2017,New,Household Buyer - Non-Occupier,324999.0
+P17,Kinsale,10,2017,Existing,All Buyer Types,280000.0
+P17,Kinsale,10,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,250000.0
+P17,Kinsale,10,2017,Existing,Household Buyer - Former Owner-Occupier,248333.0
+P17,Kinsale,10,2017,Existing,Household Buyer - Non-Occupier,300833.0
+P17,Kinsale,11,2017,All Dwelling Statuses,All Buyer Types,356615.0
+P17,Kinsale,11,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,394000.0
+P17,Kinsale,11,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,364444.0
+P17,Kinsale,11,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,174000.0
+P17,Kinsale,11,2017,New,All Buyer Types,
+P17,Kinsale,11,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,11,2017,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,11,2017,New,Household Buyer - Non-Occupier,
+P17,Kinsale,11,2017,Existing,All Buyer Types,356615.0
+P17,Kinsale,11,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,394000.0
+P17,Kinsale,11,2017,Existing,Household Buyer - Former Owner-Occupier,364444.0
+P17,Kinsale,11,2017,Existing,Household Buyer - Non-Occupier,174000.0
+P17,Kinsale,12,2017,All Dwelling Statuses,All Buyer Types,490872.0
+P17,Kinsale,12,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,288137.0
+P17,Kinsale,12,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,637500.0
+P17,Kinsale,12,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,538375.0
+P17,Kinsale,12,2017,New,All Buyer Types,377464.0
+P17,Kinsale,12,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,349106.0
+P17,Kinsale,12,2017,New,Household Buyer - Former Owner-Occupier,485000.0
+P17,Kinsale,12,2017,New,Household Buyer - Non-Occupier,355000.0
+P17,Kinsale,12,2017,Existing,All Buyer Types,538125.0
+P17,Kinsale,12,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,227167.0
+P17,Kinsale,12,2017,Existing,Household Buyer - Former Owner-Occupier,662917.0
+P17,Kinsale,12,2017,Existing,Household Buyer - Non-Occupier,599500.0
+P17,Kinsale,1,2018,All Dwelling Statuses,All Buyer Types,389300.0
+P17,Kinsale,1,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+P17,Kinsale,1,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,391428.0
+P17,Kinsale,1,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,501500.0
+P17,Kinsale,1,2018,New,All Buyer Types,319999.0
+P17,Kinsale,1,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,1,2018,New,Household Buyer - Former Owner-Occupier,319999.0
+P17,Kinsale,1,2018,New,Household Buyer - Non-Occupier,
+P17,Kinsale,1,2018,Existing,All Buyer Types,397000.0
+P17,Kinsale,1,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+P17,Kinsale,1,2018,Existing,Household Buyer - Former Owner-Occupier,403333.0
+P17,Kinsale,1,2018,Existing,Household Buyer - Non-Occupier,501500.0
+P17,Kinsale,2,2018,All Dwelling Statuses,All Buyer Types,519122.0
+P17,Kinsale,2,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,650000.0
+P17,Kinsale,2,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,504580.0
+P17,Kinsale,2,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,2,2018,New,All Buyer Types,448554.0
+P17,Kinsale,2,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2018,New,Household Buyer - Former Owner-Occupier,448554.0
+P17,Kinsale,2,2018,New,Household Buyer - Non-Occupier,
+P17,Kinsale,2,2018,Existing,All Buyer Types,566167.0
+P17,Kinsale,2,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,650000.0
+P17,Kinsale,2,2018,Existing,Household Buyer - Former Owner-Occupier,549400.0
+P17,Kinsale,2,2018,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2018,All Dwelling Statuses,All Buyer Types,355833.0
+P17,Kinsale,3,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,329998.0
+P17,Kinsale,3,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,360999.0
+P17,Kinsale,3,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2018,New,All Buyer Types,328749.0
+P17,Kinsale,3,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,329998.0
+P17,Kinsale,3,2018,New,Household Buyer - Former Owner-Occupier,328332.0
+P17,Kinsale,3,2018,New,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2018,Existing,All Buyer Types,410000.0
+P17,Kinsale,3,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2018,Existing,Household Buyer - Former Owner-Occupier,410000.0
+P17,Kinsale,3,2018,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2018,All Dwelling Statuses,All Buyer Types,344646.0
+P17,Kinsale,4,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,238500.0
+P17,Kinsale,4,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,304167.0
+P17,Kinsale,4,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,455888.0
+P17,Kinsale,4,2018,New,All Buyer Types,
+P17,Kinsale,4,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,4,2018,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,4,2018,New,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2018,Existing,All Buyer Types,344646.0
+P17,Kinsale,4,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,238500.0
+P17,Kinsale,4,2018,Existing,Household Buyer - Former Owner-Occupier,304167.0
+P17,Kinsale,4,2018,Existing,Household Buyer - Non-Occupier,455888.0
+P17,Kinsale,5,2018,All Dwelling Statuses,All Buyer Types,393750.0
+P17,Kinsale,5,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,490000.0
+P17,Kinsale,5,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,615000.0
+P17,Kinsale,5,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,66667.0
+P17,Kinsale,5,2018,New,All Buyer Types,
+P17,Kinsale,5,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2018,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,5,2018,New,Household Buyer - Non-Occupier,
+P17,Kinsale,5,2018,Existing,All Buyer Types,393750.0
+P17,Kinsale,5,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,490000.0
+P17,Kinsale,5,2018,Existing,Household Buyer - Former Owner-Occupier,615000.0
+P17,Kinsale,5,2018,Existing,Household Buyer - Non-Occupier,66667.0
+P17,Kinsale,6,2018,All Dwelling Statuses,All Buyer Types,495119.0
+P17,Kinsale,6,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,255000.0
+P17,Kinsale,6,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,580575.0
+P17,Kinsale,6,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,233333.0
+P17,Kinsale,6,2018,New,All Buyer Types,601949.0
+P17,Kinsale,6,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,6,2018,New,Household Buyer - Former Owner-Occupier,601949.0
+P17,Kinsale,6,2018,New,Household Buyer - Non-Occupier,
+P17,Kinsale,6,2018,Existing,All Buyer Types,479857.0
+P17,Kinsale,6,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,255000.0
+P17,Kinsale,6,2018,Existing,Household Buyer - Former Owner-Occupier,576300.0
+P17,Kinsale,6,2018,Existing,Household Buyer - Non-Occupier,233333.0
+P17,Kinsale,7,2018,All Dwelling Statuses,All Buyer Types,347707.0
+P17,Kinsale,7,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+P17,Kinsale,7,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,371231.0
+P17,Kinsale,7,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,242509.0
+P17,Kinsale,7,2018,New,All Buyer Types,412501.0
+P17,Kinsale,7,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,324999.0
+P17,Kinsale,7,2018,New,Household Buyer - Former Owner-Occupier,430002.0
+P17,Kinsale,7,2018,New,Household Buyer - Non-Occupier,
+P17,Kinsale,7,2018,Existing,All Buyer Types,312365.0
+P17,Kinsale,7,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+P17,Kinsale,7,2018,Existing,Household Buyer - Former Owner-Occupier,334500.0
+P17,Kinsale,7,2018,Existing,Household Buyer - Non-Occupier,242509.0
+P17,Kinsale,8,2018,All Dwelling Statuses,All Buyer Types,404318.0
+P17,Kinsale,8,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,367999.0
+P17,Kinsale,8,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,415000.0
+P17,Kinsale,8,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,8,2018,New,All Buyer Types,326071.0
+P17,Kinsale,8,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,328749.0
+P17,Kinsale,8,2018,New,Household Buyer - Former Owner-Occupier,324999.0
+P17,Kinsale,8,2018,New,Household Buyer - Non-Occupier,
+P17,Kinsale,8,2018,Existing,All Buyer Types,541250.0
+P17,Kinsale,8,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,525000.0
+P17,Kinsale,8,2018,Existing,Household Buyer - Former Owner-Occupier,543571.0
+P17,Kinsale,8,2018,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,9,2018,All Dwelling Statuses,All Buyer Types,419898.0
+P17,Kinsale,9,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,312398.0
+P17,Kinsale,9,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,528597.0
+P17,Kinsale,9,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,309999.0
+P17,Kinsale,9,2018,New,All Buyer Types,332838.0
+P17,Kinsale,9,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,327097.0
+P17,Kinsale,9,2018,New,Household Buyer - Former Owner-Occupier,334999.0
+P17,Kinsale,9,2018,New,Household Buyer - Non-Occupier,337499.0
+P17,Kinsale,9,2018,Existing,All Buyer Types,482083.0
+P17,Kinsale,9,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,283000.0
+P17,Kinsale,9,2018,Existing,Household Buyer - Former Owner-Occupier,567317.0
+P17,Kinsale,9,2018,Existing,Household Buyer - Non-Occupier,255000.0
+P17,Kinsale,10,2018,All Dwelling Statuses,All Buyer Types,296125.0
+P17,Kinsale,10,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,283333.0
+P17,Kinsale,10,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,324071.0
+P17,Kinsale,10,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,217500.0
+P17,Kinsale,10,2018,New,All Buyer Types,479999.0
+P17,Kinsale,10,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,374999.0
+P17,Kinsale,10,2018,New,Household Buyer - Former Owner-Occupier,584999.0
+P17,Kinsale,10,2018,New,Household Buyer - Non-Occupier,
+P17,Kinsale,10,2018,Existing,All Buyer Types,259350.0
+P17,Kinsale,10,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,237500.0
+P17,Kinsale,10,2018,Existing,Household Buyer - Former Owner-Occupier,280583.0
+P17,Kinsale,10,2018,Existing,Household Buyer - Non-Occupier,217500.0
+P17,Kinsale,11,2018,All Dwelling Statuses,All Buyer Types,387901.0
+P17,Kinsale,11,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,329375.0
+P17,Kinsale,11,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,548579.0
+P17,Kinsale,11,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,263935.0
+P17,Kinsale,11,2018,New,All Buyer Types,356421.0
+P17,Kinsale,11,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,341666.0
+P17,Kinsale,11,2018,New,Household Buyer - Former Owner-Occupier,445237.0
+P17,Kinsale,11,2018,New,Household Buyer - Non-Occupier,311869.0
+P17,Kinsale,11,2018,Existing,All Buyer Types,427250.0
+P17,Kinsale,11,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,292500.0
+P17,Kinsale,11,2018,Existing,Household Buyer - Former Owner-Occupier,600250.0
+P17,Kinsale,11,2018,Existing,Household Buyer - Non-Occupier,216000.0
+P17,Kinsale,12,2018,All Dwelling Statuses,All Buyer Types,565656.0
+P17,Kinsale,12,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,334999.0
+P17,Kinsale,12,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,758944.0
+P17,Kinsale,12,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,293333.0
+P17,Kinsale,12,2018,New,All Buyer Types,450624.0
+P17,Kinsale,12,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,334999.0
+P17,Kinsale,12,2018,New,Household Buyer - Former Owner-Occupier,566249.0
+P17,Kinsale,12,2018,New,Household Buyer - Non-Occupier,
+P17,Kinsale,12,2018,Existing,All Buyer Types,680688.0
+P17,Kinsale,12,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,12,2018,Existing,Household Buyer - Former Owner-Occupier,913100.0
+P17,Kinsale,12,2018,Existing,Household Buyer - Non-Occupier,293333.0
+P17,Kinsale,1,2019,All Dwelling Statuses,All Buyer Types,459445.0
+P17,Kinsale,1,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,307567.0
+P17,Kinsale,1,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,615085.0
+P17,Kinsale,1,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,285000.0
+P17,Kinsale,1,2019,New,All Buyer Types,385808.0
+P17,Kinsale,1,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,342458.0
+P17,Kinsale,1,2019,New,Household Buyer - Former Owner-Occupier,472506.0
+P17,Kinsale,1,2019,New,Household Buyer - Non-Occupier,
+P17,Kinsale,1,2019,Existing,All Buyer Types,533083.0
+P17,Kinsale,1,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,168000.0
+P17,Kinsale,1,2019,Existing,Household Buyer - Former Owner-Occupier,686375.0
+P17,Kinsale,1,2019,Existing,Household Buyer - Non-Occupier,285000.0
+P17,Kinsale,2,2019,All Dwelling Statuses,All Buyer Types,490346.0
+P17,Kinsale,2,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,502833.0
+P17,Kinsale,2,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,340500.0
+P17,Kinsale,2,2019,New,All Buyer Types,335166.0
+P17,Kinsale,2,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2019,New,Household Buyer - Former Owner-Occupier,332499.0
+P17,Kinsale,2,2019,New,Household Buyer - Non-Occupier,340500.0
+P17,Kinsale,2,2019,Existing,All Buyer Types,536900.0
+P17,Kinsale,2,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2019,Existing,Household Buyer - Former Owner-Occupier,536900.0
+P17,Kinsale,2,2019,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2019,All Dwelling Statuses,All Buyer Types,503997.0
+P17,Kinsale,3,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,630995.0
+P17,Kinsale,3,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,250000.0
+P17,Kinsale,3,2019,New,All Buyer Types,
+P17,Kinsale,3,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2019,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,3,2019,New,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2019,Existing,All Buyer Types,503997.0
+P17,Kinsale,3,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2019,Existing,Household Buyer - Former Owner-Occupier,630995.0
+P17,Kinsale,3,2019,Existing,Household Buyer - Non-Occupier,250000.0
+P17,Kinsale,4,2019,All Dwelling Statuses,All Buyer Types,344667.0
+P17,Kinsale,4,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,257500.0
+P17,Kinsale,4,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,306250.0
+P17,Kinsale,4,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,454000.0
+P17,Kinsale,4,2019,New,All Buyer Types,
+P17,Kinsale,4,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,4,2019,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,4,2019,New,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2019,Existing,All Buyer Types,344667.0
+P17,Kinsale,4,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,257500.0
+P17,Kinsale,4,2019,Existing,Household Buyer - Former Owner-Occupier,306250.0
+P17,Kinsale,4,2019,Existing,Household Buyer - Non-Occupier,454000.0
+P17,Kinsale,5,2019,All Dwelling Statuses,All Buyer Types,464349.0
+P17,Kinsale,5,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,288500.0
+P17,Kinsale,5,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,524393.0
+P17,Kinsale,5,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,370000.0
+P17,Kinsale,5,2019,New,All Buyer Types,536038.0
+P17,Kinsale,5,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2019,New,Household Buyer - Former Owner-Occupier,536038.0
+P17,Kinsale,5,2019,New,Household Buyer - Non-Occupier,
+P17,Kinsale,5,2019,Existing,All Buyer Types,432488.0
+P17,Kinsale,5,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,288500.0
+P17,Kinsale,5,2019,Existing,Household Buyer - Former Owner-Occupier,515078.0
+P17,Kinsale,5,2019,Existing,Household Buyer - Non-Occupier,370000.0
+P17,Kinsale,6,2019,All Dwelling Statuses,All Buyer Types,360457.0
+P17,Kinsale,6,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,338451.0
+P17,Kinsale,6,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,366449.0
+P17,Kinsale,6,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,377500.0
+P17,Kinsale,6,2019,New,All Buyer Types,339121.0
+P17,Kinsale,6,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,338451.0
+P17,Kinsale,6,2019,New,Household Buyer - Former Owner-Occupier,340015.0
+P17,Kinsale,6,2019,New,Household Buyer - Non-Occupier,
+P17,Kinsale,6,2019,Existing,All Buyer Types,379125.0
+P17,Kinsale,6,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,6,2019,Existing,Household Buyer - Former Owner-Occupier,379667.0
+P17,Kinsale,6,2019,Existing,Household Buyer - Non-Occupier,377500.0
+P17,Kinsale,7,2019,All Dwelling Statuses,All Buyer Types,532002.0
+P17,Kinsale,7,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,302009.0
+P17,Kinsale,7,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,576235.0
+P17,Kinsale,7,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,930001.0
+P17,Kinsale,7,2019,New,All Buyer Types,687505.0
+P17,Kinsale,7,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,340016.0
+P17,Kinsale,7,2019,New,Household Buyer - Former Owner-Occupier,820833.0
+P17,Kinsale,7,2019,New,Household Buyer - Non-Occupier,930001.0
+P17,Kinsale,7,2019,Existing,All Buyer Types,412385.0
+P17,Kinsale,7,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+P17,Kinsale,7,2019,Existing,Household Buyer - Former Owner-Occupier,442818.0
+P17,Kinsale,7,2019,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,8,2019,All Dwelling Statuses,All Buyer Types,433637.0
+P17,Kinsale,8,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,378000.0
+P17,Kinsale,8,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,467909.0
+P17,Kinsale,8,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,380000.0
+P17,Kinsale,8,2019,New,All Buyer Types,340000.0
+P17,Kinsale,8,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,8,2019,New,Household Buyer - Former Owner-Occupier,340000.0
+P17,Kinsale,8,2019,New,Household Buyer - Non-Occupier,
+P17,Kinsale,8,2019,Existing,All Buyer Types,441440.0
+P17,Kinsale,8,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,378000.0
+P17,Kinsale,8,2019,Existing,Household Buyer - Former Owner-Occupier,486182.0
+P17,Kinsale,8,2019,Existing,Household Buyer - Non-Occupier,380000.0
+P17,Kinsale,9,2019,All Dwelling Statuses,All Buyer Types,432679.0
+P17,Kinsale,9,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,370000.0
+P17,Kinsale,9,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,496563.0
+P17,Kinsale,9,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,336250.0
+P17,Kinsale,9,2019,New,All Buyer Types,449286.0
+P17,Kinsale,9,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,370000.0
+P17,Kinsale,9,2019,New,Household Buyer - Former Owner-Occupier,503750.0
+P17,Kinsale,9,2019,New,Household Buyer - Non-Occupier,390000.0
+P17,Kinsale,9,2019,Existing,All Buyer Types,416071.0
+P17,Kinsale,9,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,9,2019,Existing,Household Buyer - Former Owner-Occupier,489375.0
+P17,Kinsale,9,2019,Existing,Household Buyer - Non-Occupier,318333.0
+P17,Kinsale,10,2019,All Dwelling Statuses,All Buyer Types,441105.0
+P17,Kinsale,10,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,565833.0
+P17,Kinsale,10,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,396750.0
+P17,Kinsale,10,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,225000.0
+P17,Kinsale,10,2019,New,All Buyer Types,360000.0
+P17,Kinsale,10,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,360000.0
+P17,Kinsale,10,2019,New,Household Buyer - Former Owner-Occupier,360000.0
+P17,Kinsale,10,2019,New,Household Buyer - Non-Occupier,
+P17,Kinsale,10,2019,Existing,All Buyer Types,478538.0
+P17,Kinsale,10,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,771667.0
+P17,Kinsale,10,2019,Existing,Household Buyer - Former Owner-Occupier,409000.0
+P17,Kinsale,10,2019,Existing,Household Buyer - Non-Occupier,225000.0
+P17,Kinsale,11,2019,All Dwelling Statuses,All Buyer Types,399500.0
+P17,Kinsale,11,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,498000.0
+P17,Kinsale,11,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,407400.0
+P17,Kinsale,11,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,163000.0
+P17,Kinsale,11,2019,New,All Buyer Types,384285.0
+P17,Kinsale,11,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,342500.0
+P17,Kinsale,11,2019,New,Household Buyer - Former Owner-Occupier,400999.0
+P17,Kinsale,11,2019,New,Household Buyer - Non-Occupier,
+P17,Kinsale,11,2019,Existing,All Buyer Types,411333.0
+P17,Kinsale,11,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,653500.0
+P17,Kinsale,11,2019,Existing,Household Buyer - Former Owner-Occupier,413800.0
+P17,Kinsale,11,2019,Existing,Household Buyer - Non-Occupier,163000.0
+P17,Kinsale,12,2019,All Dwelling Statuses,All Buyer Types,347333.0
+P17,Kinsale,12,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,372018.0
+P17,Kinsale,12,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,354000.0
+P17,Kinsale,12,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,309315.0
+P17,Kinsale,12,2019,New,All Buyer Types,379666.0
+P17,Kinsale,12,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,372018.0
+P17,Kinsale,12,2019,New,Household Buyer - Former Owner-Occupier,398333.0
+P17,Kinsale,12,2019,New,Household Buyer - Non-Occupier,370787.0
+P17,Kinsale,12,2019,Existing,All Buyer Types,315000.0
+P17,Kinsale,12,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,12,2019,Existing,Household Buyer - Former Owner-Occupier,335000.0
+P17,Kinsale,12,2019,Existing,Household Buyer - Non-Occupier,268333.0
+P17,Kinsale,1,2020,All Dwelling Statuses,All Buyer Types,448333.0
+P17,Kinsale,1,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,425000.0
+P17,Kinsale,1,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,495000.0
+P17,Kinsale,1,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,1,2020,New,All Buyer Types,452500.0
+P17,Kinsale,1,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,410000.0
+P17,Kinsale,1,2020,New,Household Buyer - Former Owner-Occupier,495000.0
+P17,Kinsale,1,2020,New,Household Buyer - Non-Occupier,
+P17,Kinsale,1,2020,Existing,All Buyer Types,440000.0
+P17,Kinsale,1,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,440000.0
+P17,Kinsale,1,2020,Existing,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,1,2020,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,2,2020,All Dwelling Statuses,All Buyer Types,257328.0
+P17,Kinsale,2,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,290023.0
+P17,Kinsale,2,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,244250.0
+P17,Kinsale,2,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,2,2020,New,All Buyer Types,340046.0
+P17,Kinsale,2,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,340046.0
+P17,Kinsale,2,2020,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,2,2020,New,Household Buyer - Non-Occupier,
+P17,Kinsale,2,2020,Existing,All Buyer Types,243542.0
+P17,Kinsale,2,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,240000.0
+P17,Kinsale,2,2020,Existing,Household Buyer - Former Owner-Occupier,244250.0
+P17,Kinsale,2,2020,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2020,All Dwelling Statuses,All Buyer Types,388416.0
+P17,Kinsale,3,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,349106.0
+P17,Kinsale,3,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,325329.0
+P17,Kinsale,3,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,707500.0
+P17,Kinsale,3,2020,New,All Buyer Types,406264.0
+P17,Kinsale,3,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,406264.0
+P17,Kinsale,3,2020,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,3,2020,New,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2020,Existing,All Buyer Types,385442.0
+P17,Kinsale,3,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,311000.0
+P17,Kinsale,3,2020,Existing,Household Buyer - Former Owner-Occupier,325329.0
+P17,Kinsale,3,2020,Existing,Household Buyer - Non-Occupier,707500.0
+P17,Kinsale,4,2020,All Dwelling Statuses,All Buyer Types,362400.0
+P17,Kinsale,4,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,405000.0
+P17,Kinsale,4,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,351750.0
+P17,Kinsale,4,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2020,New,All Buyer Types,405000.0
+P17,Kinsale,4,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,405000.0
+P17,Kinsale,4,2020,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,4,2020,New,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2020,Existing,All Buyer Types,357667.0
+P17,Kinsale,4,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,405000.0
+P17,Kinsale,4,2020,Existing,Household Buyer - Former Owner-Occupier,351750.0
+P17,Kinsale,4,2020,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,5,2020,All Dwelling Statuses,All Buyer Types,276724.0
+P17,Kinsale,5,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,276724.0
+P17,Kinsale,5,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,5,2020,New,All Buyer Types,397619.0
+P17,Kinsale,5,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2020,New,Household Buyer - Former Owner-Occupier,397619.0
+P17,Kinsale,5,2020,New,Household Buyer - Non-Occupier,
+P17,Kinsale,5,2020,Existing,All Buyer Types,246500.0
+P17,Kinsale,5,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2020,Existing,Household Buyer - Former Owner-Occupier,246500.0
+P17,Kinsale,5,2020,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,6,2020,All Dwelling Statuses,All Buyer Types,367746.0
+P17,Kinsale,6,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,336000.0
+P17,Kinsale,6,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,339687.0
+P17,Kinsale,6,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,444387.0
+P17,Kinsale,6,2020,New,All Buyer Types,393398.0
+P17,Kinsale,6,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,372500.0
+P17,Kinsale,6,2020,New,Household Buyer - Former Owner-Occupier,400000.0
+P17,Kinsale,6,2020,New,Household Buyer - Non-Occupier,407693.0
+P17,Kinsale,6,2020,Existing,All Buyer Types,354921.0
+P17,Kinsale,6,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,311667.0
+P17,Kinsale,6,2020,Existing,Household Buyer - Former Owner-Occupier,319583.0
+P17,Kinsale,6,2020,Existing,Household Buyer - Non-Occupier,468850.0
+P17,Kinsale,7,2020,All Dwelling Statuses,All Buyer Types,358000.0
+P17,Kinsale,7,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,339999.0
+P17,Kinsale,7,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,364000.0
+P17,Kinsale,7,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,7,2020,New,All Buyer Types,339999.0
+P17,Kinsale,7,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,339999.0
+P17,Kinsale,7,2020,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,7,2020,New,Household Buyer - Non-Occupier,
+P17,Kinsale,7,2020,Existing,All Buyer Types,364000.0
+P17,Kinsale,7,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,7,2020,Existing,Household Buyer - Former Owner-Occupier,364000.0
+P17,Kinsale,7,2020,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,8,2020,All Dwelling Statuses,All Buyer Types,530000.0
+P17,Kinsale,8,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,8,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,595000.0
+P17,Kinsale,8,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,399999.0
+P17,Kinsale,8,2020,New,All Buyer Types,399999.0
+P17,Kinsale,8,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,8,2020,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,8,2020,New,Household Buyer - Non-Occupier,399999.0
+P17,Kinsale,8,2020,Existing,All Buyer Types,595000.0
+P17,Kinsale,8,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,8,2020,Existing,Household Buyer - Former Owner-Occupier,595000.0
+P17,Kinsale,8,2020,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,9,2020,All Dwelling Statuses,All Buyer Types,387364.0
+P17,Kinsale,9,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,490000.0
+P17,Kinsale,9,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,406750.0
+P17,Kinsale,9,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,258500.0
+P17,Kinsale,9,2020,New,All Buyer Types,
+P17,Kinsale,9,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,9,2020,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,9,2020,New,Household Buyer - Non-Occupier,
+P17,Kinsale,9,2020,Existing,All Buyer Types,387364.0
+P17,Kinsale,9,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,490000.0
+P17,Kinsale,9,2020,Existing,Household Buyer - Former Owner-Occupier,406750.0
+P17,Kinsale,9,2020,Existing,Household Buyer - Non-Occupier,258500.0
+P17,Kinsale,10,2020,All Dwelling Statuses,All Buyer Types,343570.0
+P17,Kinsale,10,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,345570.0
+P17,Kinsale,10,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,346391.0
+P17,Kinsale,10,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,315000.0
+P17,Kinsale,10,2020,New,All Buyer Types,386278.0
+P17,Kinsale,10,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,392710.0
+P17,Kinsale,10,2020,New,Household Buyer - Former Owner-Occupier,383063.0
+P17,Kinsale,10,2020,New,Household Buyer - Non-Occupier,
+P17,Kinsale,10,2020,Existing,All Buyer Types,329333.0
+P17,Kinsale,10,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,322000.0
+P17,Kinsale,10,2020,Existing,Household Buyer - Former Owner-Occupier,334167.0
+P17,Kinsale,10,2020,Existing,Household Buyer - Non-Occupier,315000.0
+P17,Kinsale,11,2020,All Dwelling Statuses,All Buyer Types,383278.0
+P17,Kinsale,11,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,478750.0
+P17,Kinsale,11,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,387611.0
+P17,Kinsale,11,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,299100.0
+P17,Kinsale,11,2020,New,All Buyer Types,455000.0
+P17,Kinsale,11,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,400000.0
+P17,Kinsale,11,2020,New,Household Buyer - Former Owner-Occupier,510000.0
+P17,Kinsale,11,2020,New,Household Buyer - Non-Occupier,
+P17,Kinsale,11,2020,Existing,All Buyer Types,374313.0
+P17,Kinsale,11,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,505000.0
+P17,Kinsale,11,2020,Existing,Household Buyer - Former Owner-Occupier,372313.0
+P17,Kinsale,11,2020,Existing,Household Buyer - Non-Occupier,299100.0
+P17,Kinsale,12,2020,All Dwelling Statuses,All Buyer Types,423143.0
+P17,Kinsale,12,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,368142.0
+P17,Kinsale,12,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,503778.0
+P17,Kinsale,12,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,322000.0
+P17,Kinsale,12,2020,New,All Buyer Types,332523.0
+P17,Kinsale,12,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,408784.0
+P17,Kinsale,12,2020,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,12,2020,New,Household Buyer - Non-Occupier,180000.0
+P17,Kinsale,12,2020,Existing,All Buyer Types,441267.0
+P17,Kinsale,12,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,327500.0
+P17,Kinsale,12,2020,Existing,Household Buyer - Former Owner-Occupier,503778.0
+P17,Kinsale,12,2020,Existing,Household Buyer - Non-Occupier,357500.0
+P17,Kinsale,1,2021,All Dwelling Statuses,All Buyer Types,443759.0
+P17,Kinsale,1,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,340000.0
+P17,Kinsale,1,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,653278.0
+P17,Kinsale,1,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,338667.0
+P17,Kinsale,1,2021,New,All Buyer Types,
+P17,Kinsale,1,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,1,2021,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,1,2021,New,Household Buyer - Non-Occupier,
+P17,Kinsale,1,2021,Existing,All Buyer Types,443759.0
+P17,Kinsale,1,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,340000.0
+P17,Kinsale,1,2021,Existing,Household Buyer - Former Owner-Occupier,653278.0
+P17,Kinsale,1,2021,Existing,Household Buyer - Non-Occupier,338667.0
+P17,Kinsale,2,2021,All Dwelling Statuses,All Buyer Types,310250.0
+P17,Kinsale,2,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,452500.0
+P17,Kinsale,2,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,168000.0
+P17,Kinsale,2,2021,New,All Buyer Types,
+P17,Kinsale,2,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2021,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,2,2021,New,Household Buyer - Non-Occupier,
+P17,Kinsale,2,2021,Existing,All Buyer Types,310250.0
+P17,Kinsale,2,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2021,Existing,Household Buyer - Former Owner-Occupier,452500.0
+P17,Kinsale,2,2021,Existing,Household Buyer - Non-Occupier,168000.0
+P17,Kinsale,3,2021,All Dwelling Statuses,All Buyer Types,440474.0
+P17,Kinsale,3,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,427500.0
+P17,Kinsale,3,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,448111.0
+P17,Kinsale,3,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,450000.0
+P17,Kinsale,3,2021,New,All Buyer Types,
+P17,Kinsale,3,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2021,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,3,2021,New,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2021,Existing,All Buyer Types,440474.0
+P17,Kinsale,3,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,427500.0
+P17,Kinsale,3,2021,Existing,Household Buyer - Former Owner-Occupier,448111.0
+P17,Kinsale,3,2021,Existing,Household Buyer - Non-Occupier,450000.0
+P17,Kinsale,4,2021,All Dwelling Statuses,All Buyer Types,385125.0
+P17,Kinsale,4,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,259950.0
+P17,Kinsale,4,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,420000.0
+P17,Kinsale,4,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,357100.0
+P17,Kinsale,4,2021,New,All Buyer Types,
+P17,Kinsale,4,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,4,2021,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,4,2021,New,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2021,Existing,All Buyer Types,385125.0
+P17,Kinsale,4,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,259950.0
+P17,Kinsale,4,2021,Existing,Household Buyer - Former Owner-Occupier,420000.0
+P17,Kinsale,4,2021,Existing,Household Buyer - Non-Occupier,357100.0
+P17,Kinsale,5,2021,All Dwelling Statuses,All Buyer Types,316429.0
+P17,Kinsale,5,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,335000.0
+P17,Kinsale,5,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,337500.0
+P17,Kinsale,5,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,195000.0
+P17,Kinsale,5,2021,New,All Buyer Types,
+P17,Kinsale,5,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2021,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,5,2021,New,Household Buyer - Non-Occupier,
+P17,Kinsale,5,2021,Existing,All Buyer Types,316429.0
+P17,Kinsale,5,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,335000.0
+P17,Kinsale,5,2021,Existing,Household Buyer - Former Owner-Occupier,337500.0
+P17,Kinsale,5,2021,Existing,Household Buyer - Non-Occupier,195000.0
+P17,Kinsale,6,2021,All Dwelling Statuses,All Buyer Types,479223.0
+P17,Kinsale,6,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,238000.0
+P17,Kinsale,6,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,633739.0
+P17,Kinsale,6,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,279500.0
+P17,Kinsale,6,2021,New,All Buyer Types,543085.0
+P17,Kinsale,6,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,6,2021,New,Household Buyer - Former Owner-Occupier,543085.0
+P17,Kinsale,6,2021,New,Household Buyer - Non-Occupier,
+P17,Kinsale,6,2021,Existing,All Buyer Types,466450.0
+P17,Kinsale,6,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,238000.0
+P17,Kinsale,6,2021,Existing,Household Buyer - Former Owner-Occupier,670000.0
+P17,Kinsale,6,2021,Existing,Household Buyer - Non-Occupier,279500.0
+P17,Kinsale,7,2021,All Dwelling Statuses,All Buyer Types,369625.0
+P17,Kinsale,7,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,456000.0
+P17,Kinsale,7,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,324250.0
+P17,Kinsale,7,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,210000.0
+P17,Kinsale,7,2021,New,All Buyer Types,441000.0
+P17,Kinsale,7,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,438750.0
+P17,Kinsale,7,2021,New,Household Buyer - Former Owner-Occupier,449999.0
+P17,Kinsale,7,2021,New,Household Buyer - Non-Occupier,
+P17,Kinsale,7,2021,Existing,All Buyer Types,318643.0
+P17,Kinsale,7,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,525000.0
+P17,Kinsale,7,2021,Existing,Household Buyer - Former Owner-Occupier,299100.0
+P17,Kinsale,7,2021,Existing,Household Buyer - Non-Occupier,210000.0
+P17,Kinsale,8,2021,All Dwelling Statuses,All Buyer Types,389000.0
+P17,Kinsale,8,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,355000.0
+P17,Kinsale,8,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,394667.0
+P17,Kinsale,8,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,8,2021,New,All Buyer Types,415000.0
+P17,Kinsale,8,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,355000.0
+P17,Kinsale,8,2021,New,Household Buyer - Former Owner-Occupier,475000.0
+P17,Kinsale,8,2021,New,Household Buyer - Non-Occupier,
+P17,Kinsale,8,2021,Existing,All Buyer Types,378600.0
+P17,Kinsale,8,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,8,2021,Existing,Household Buyer - Former Owner-Occupier,378600.0
+P17,Kinsale,8,2021,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,9,2021,All Dwelling Statuses,All Buyer Types,502754.0
+P17,Kinsale,9,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,370000.0
+P17,Kinsale,9,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,592200.0
+P17,Kinsale,9,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,431868.0
+P17,Kinsale,9,2021,New,All Buyer Types,367585.0
+P17,Kinsale,9,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,402500.0
+P17,Kinsale,9,2021,New,Household Buyer - Former Owner-Occupier,315000.0
+P17,Kinsale,9,2021,New,Household Buyer - Non-Occupier,402925.0
+P17,Kinsale,9,2021,Existing,All Buyer Types,547810.0
+P17,Kinsale,9,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,305000.0
+P17,Kinsale,9,2021,Existing,Household Buyer - Former Owner-Occupier,661500.0
+P17,Kinsale,9,2021,Existing,Household Buyer - Non-Occupier,436692.0
+P17,Kinsale,10,2021,All Dwelling Statuses,All Buyer Types,511281.0
+P17,Kinsale,10,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,630000.0
+P17,Kinsale,10,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,523529.0
+P17,Kinsale,10,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,379375.0
+P17,Kinsale,10,2021,New,All Buyer Types,337700.0
+P17,Kinsale,10,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,315001.0
+P17,Kinsale,10,2021,New,Household Buyer - Former Owner-Occupier,360400.0
+P17,Kinsale,10,2021,New,Household Buyer - Non-Occupier,
+P17,Kinsale,10,2021,Existing,All Buyer Types,529553.0
+P17,Kinsale,10,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,787500.0
+P17,Kinsale,10,2021,Existing,Household Buyer - Former Owner-Occupier,536077.0
+P17,Kinsale,10,2021,Existing,Household Buyer - Non-Occupier,379375.0
+P17,Kinsale,11,2021,All Dwelling Statuses,All Buyer Types,414321.0
+P17,Kinsale,11,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,355000.0
+P17,Kinsale,11,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,442667.0
+P17,Kinsale,11,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,188875.0
+P17,Kinsale,11,2021,New,All Buyer Types,355000.0
+P17,Kinsale,11,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,355000.0
+P17,Kinsale,11,2021,New,Household Buyer - Former Owner-Occupier,355000.0
+P17,Kinsale,11,2021,New,Household Buyer - Non-Occupier,
+P17,Kinsale,11,2021,Existing,All Buyer Types,420566.0
+P17,Kinsale,11,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,11,2021,Existing,Household Buyer - Former Owner-Occupier,447824.0
+P17,Kinsale,11,2021,Existing,Household Buyer - Non-Occupier,188875.0
+P17,Kinsale,12,2021,All Dwelling Statuses,All Buyer Types,357500.0
+P17,Kinsale,12,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,405500.0
+P17,Kinsale,12,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,386591.0
+P17,Kinsale,12,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,245500.0
+P17,Kinsale,12,2021,New,All Buyer Types,398750.0
+P17,Kinsale,12,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,425000.0
+P17,Kinsale,12,2021,New,Household Buyer - Former Owner-Occupier,372500.0
+P17,Kinsale,12,2021,New,Household Buyer - Non-Occupier,
+P17,Kinsale,12,2021,Existing,All Buyer Types,347794.0
+P17,Kinsale,12,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,392500.0
+P17,Kinsale,12,2021,Existing,Household Buyer - Former Owner-Occupier,389722.0
+P17,Kinsale,12,2021,Existing,Household Buyer - Non-Occupier,245500.0
+P17,Kinsale,1,2022,All Dwelling Statuses,All Buyer Types,750425.0
+P17,Kinsale,1,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+P17,Kinsale,1,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,925336.0
+P17,Kinsale,1,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,415833.0
+P17,Kinsale,1,2022,New,All Buyer Types,307175.0
+P17,Kinsale,1,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,1,2022,New,Household Buyer - Former Owner-Occupier,307175.0
+P17,Kinsale,1,2022,New,Household Buyer - Non-Occupier,
+P17,Kinsale,1,2022,Existing,All Buyer Types,883400.0
+P17,Kinsale,1,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+P17,Kinsale,1,2022,Existing,Household Buyer - Former Owner-Occupier,1234417.0
+P17,Kinsale,1,2022,Existing,Household Buyer - Non-Occupier,415833.0
+P17,Kinsale,2,2022,All Dwelling Statuses,All Buyer Types,470560.0
+P17,Kinsale,2,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,353760.0
+P17,Kinsale,2,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,564000.0
+P17,Kinsale,2,2022,New,All Buyer Types,345040.0
+P17,Kinsale,2,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2022,New,Household Buyer - Former Owner-Occupier,345040.0
+P17,Kinsale,2,2022,New,Household Buyer - Non-Occupier,
+P17,Kinsale,2,2022,Existing,All Buyer Types,486250.0
+P17,Kinsale,2,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2022,Existing,Household Buyer - Former Owner-Occupier,356667.0
+P17,Kinsale,2,2022,Existing,Household Buyer - Non-Occupier,564000.0
+P17,Kinsale,3,2022,All Dwelling Statuses,All Buyer Types,702857.0
+P17,Kinsale,3,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,552500.0
+P17,Kinsale,3,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,763000.0
+P17,Kinsale,3,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2022,New,All Buyer Types,499999.0
+P17,Kinsale,3,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2022,New,Household Buyer - Former Owner-Occupier,499999.0
+P17,Kinsale,3,2022,New,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2022,Existing,All Buyer Types,736667.0
+P17,Kinsale,3,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,552500.0
+P17,Kinsale,3,2022,Existing,Household Buyer - Former Owner-Occupier,828750.0
+P17,Kinsale,3,2022,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2022,All Dwelling Statuses,All Buyer Types,457598.0
+P17,Kinsale,4,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,467989.0
+P17,Kinsale,4,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,555000.0
+P17,Kinsale,4,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,355000.0
+P17,Kinsale,4,2022,New,All Buyer Types,461993.0
+P17,Kinsale,4,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,467989.0
+P17,Kinsale,4,2022,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,4,2022,New,Household Buyer - Non-Occupier,450000.0
+P17,Kinsale,4,2022,Existing,All Buyer Types,455714.0
+P17,Kinsale,4,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,4,2022,Existing,Household Buyer - Former Owner-Occupier,555000.0
+P17,Kinsale,4,2022,Existing,Household Buyer - Non-Occupier,323333.0
+P17,Kinsale,5,2022,All Dwelling Statuses,All Buyer Types,586856.0
+P17,Kinsale,5,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,441667.0
+P17,Kinsale,5,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,673093.0
+P17,Kinsale,5,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,505000.0
+P17,Kinsale,5,2022,New,All Buyer Types,
+P17,Kinsale,5,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2022,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,5,2022,New,Household Buyer - Non-Occupier,
+P17,Kinsale,5,2022,Existing,All Buyer Types,586856.0
+P17,Kinsale,5,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,441667.0
+P17,Kinsale,5,2022,Existing,Household Buyer - Former Owner-Occupier,673093.0
+P17,Kinsale,5,2022,Existing,Household Buyer - Non-Occupier,505000.0
+P17,Kinsale,6,2022,All Dwelling Statuses,All Buyer Types,517083.0
+P17,Kinsale,6,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+P17,Kinsale,6,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,546364.0
+P17,Kinsale,6,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,6,2022,New,All Buyer Types,390000.0
+P17,Kinsale,6,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,6,2022,New,Household Buyer - Former Owner-Occupier,390000.0
+P17,Kinsale,6,2022,New,Household Buyer - Non-Occupier,
+P17,Kinsale,6,2022,Existing,All Buyer Types,542500.0
+P17,Kinsale,6,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+P17,Kinsale,6,2022,Existing,Household Buyer - Former Owner-Occupier,581111.0
+P17,Kinsale,6,2022,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,7,2022,All Dwelling Statuses,All Buyer Types,429040.0
+P17,Kinsale,7,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,7,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,435050.0
+P17,Kinsale,7,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,405000.0
+P17,Kinsale,7,2022,New,All Buyer Types,
+P17,Kinsale,7,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,7,2022,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,7,2022,New,Household Buyer - Non-Occupier,
+P17,Kinsale,7,2022,Existing,All Buyer Types,429040.0
+P17,Kinsale,7,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,7,2022,Existing,Household Buyer - Former Owner-Occupier,435050.0
+P17,Kinsale,7,2022,Existing,Household Buyer - Non-Occupier,405000.0
+P17,Kinsale,8,2022,All Dwelling Statuses,All Buyer Types,570500.0
+P17,Kinsale,8,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,194000.0
+P17,Kinsale,8,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,646200.0
+P17,Kinsale,8,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,190000.0
+P17,Kinsale,8,2022,New,All Buyer Types,512500.0
+P17,Kinsale,8,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,8,2022,New,Household Buyer - Former Owner-Occupier,512500.0
+P17,Kinsale,8,2022,New,Household Buyer - Non-Occupier,
+P17,Kinsale,8,2022,Existing,All Buyer Types,582100.0
+P17,Kinsale,8,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,194000.0
+P17,Kinsale,8,2022,Existing,Household Buyer - Former Owner-Occupier,679625.0
+P17,Kinsale,8,2022,Existing,Household Buyer - Non-Occupier,190000.0
+P17,Kinsale,9,2022,All Dwelling Statuses,All Buyer Types,635846.0
+P17,Kinsale,9,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,330000.0
+P17,Kinsale,9,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,699636.0
+P17,Kinsale,9,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,240000.0
+P17,Kinsale,9,2022,New,All Buyer Types,
+P17,Kinsale,9,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,9,2022,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,9,2022,New,Household Buyer - Non-Occupier,
+P17,Kinsale,9,2022,Existing,All Buyer Types,635846.0
+P17,Kinsale,9,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,330000.0
+P17,Kinsale,9,2022,Existing,Household Buyer - Former Owner-Occupier,699636.0
+P17,Kinsale,9,2022,Existing,Household Buyer - Non-Occupier,240000.0
+P17,Kinsale,10,2022,All Dwelling Statuses,All Buyer Types,451807.0
+P17,Kinsale,10,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,373075.0
+P17,Kinsale,10,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,462143.0
+P17,Kinsale,10,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,455000.0
+P17,Kinsale,10,2022,New,All Buyer Types,373075.0
+P17,Kinsale,10,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,373075.0
+P17,Kinsale,10,2022,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,10,2022,New,Household Buyer - Non-Occupier,
+P17,Kinsale,10,2022,Existing,All Buyer Types,460556.0
+P17,Kinsale,10,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,10,2022,Existing,Household Buyer - Former Owner-Occupier,462143.0
+P17,Kinsale,10,2022,Existing,Household Buyer - Non-Occupier,455000.0
+P17,Kinsale,11,2022,All Dwelling Statuses,All Buyer Types,434563.0
+P17,Kinsale,11,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,431953.0
+P17,Kinsale,11,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,462415.0
+P17,Kinsale,11,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,116000.0
+P17,Kinsale,11,2022,New,All Buyer Types,361572.0
+P17,Kinsale,11,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,365143.0
+P17,Kinsale,11,2022,New,Household Buyer - Former Owner-Occupier,358000.0
+P17,Kinsale,11,2022,New,Household Buyer - Non-Occupier,
+P17,Kinsale,11,2022,Existing,All Buyer Types,515665.0
+P17,Kinsale,11,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,766000.0
+P17,Kinsale,11,2022,Existing,Household Buyer - Former Owner-Occupier,536998.0
+P17,Kinsale,11,2022,Existing,Household Buyer - Non-Occupier,116000.0
+P17,Kinsale,12,2022,All Dwelling Statuses,All Buyer Types,416698.0
+P17,Kinsale,12,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+P17,Kinsale,12,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,469131.0
+P17,Kinsale,12,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,83333.0
+P17,Kinsale,12,2022,New,All Buyer Types,463688.0
+P17,Kinsale,12,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,320000.0
+P17,Kinsale,12,2022,New,Household Buyer - Former Owner-Occupier,499609.0
+P17,Kinsale,12,2022,New,Household Buyer - Non-Occupier,
+P17,Kinsale,12,2022,Existing,All Buyer Types,390593.0
+P17,Kinsale,12,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,270000.0
+P17,Kinsale,12,2022,Existing,Household Buyer - Former Owner-Occupier,451714.0
+P17,Kinsale,12,2022,Existing,Household Buyer - Non-Occupier,83333.0
+P17,Kinsale,1,2023,All Dwelling Statuses,All Buyer Types,460000.0
+P17,Kinsale,1,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,655000.0
+P17,Kinsale,1,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,456667.0
+P17,Kinsale,1,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,270000.0
+P17,Kinsale,1,2023,New,All Buyer Types,365000.0
+P17,Kinsale,1,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,1,2023,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,1,2023,New,Household Buyer - Non-Occupier,365000.0
+P17,Kinsale,1,2023,Existing,All Buyer Types,475833.0
+P17,Kinsale,1,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,655000.0
+P17,Kinsale,1,2023,Existing,Household Buyer - Former Owner-Occupier,456667.0
+P17,Kinsale,1,2023,Existing,Household Buyer - Non-Occupier,175000.0
+P17,Kinsale,2,2023,All Dwelling Statuses,All Buyer Types,426500.0
+P17,Kinsale,2,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,301000.0
+P17,Kinsale,2,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,445000.0
+P17,Kinsale,2,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,585000.0
+P17,Kinsale,2,2023,New,All Buyer Types,650000.0
+P17,Kinsale,2,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,2,2023,New,Household Buyer - Former Owner-Occupier,650000.0
+P17,Kinsale,2,2023,New,Household Buyer - Non-Occupier,
+P17,Kinsale,2,2023,Existing,All Buyer Types,394571.0
+P17,Kinsale,2,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,301000.0
+P17,Kinsale,2,2023,Existing,Household Buyer - Former Owner-Occupier,393750.0
+P17,Kinsale,2,2023,Existing,Household Buyer - Non-Occupier,585000.0
+P17,Kinsale,3,2023,All Dwelling Statuses,All Buyer Types,275667.0
+P17,Kinsale,3,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,310000.0
+P17,Kinsale,3,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,241333.0
+P17,Kinsale,3,2023,New,All Buyer Types,
+P17,Kinsale,3,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2023,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,3,2023,New,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2023,Existing,All Buyer Types,275667.0
+P17,Kinsale,3,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,3,2023,Existing,Household Buyer - Former Owner-Occupier,310000.0
+P17,Kinsale,3,2023,Existing,Household Buyer - Non-Occupier,241333.0
+P17,Kinsale,4,2023,All Dwelling Statuses,All Buyer Types,502000.0
+P17,Kinsale,4,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,330000.0
+P17,Kinsale,4,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,570800.0
+P17,Kinsale,4,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2023,New,All Buyer Types,
+P17,Kinsale,4,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,4,2023,New,Household Buyer - Former Owner-Occupier,
+P17,Kinsale,4,2023,New,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2023,Existing,All Buyer Types,502000.0
+P17,Kinsale,4,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,330000.0
+P17,Kinsale,4,2023,Existing,Household Buyer - Former Owner-Occupier,570800.0
+P17,Kinsale,4,2023,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,5,2023,All Dwelling Statuses,All Buyer Types,538077.0
+P17,Kinsale,5,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,549999.0
+P17,Kinsale,5,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,507500.0
+P17,Kinsale,5,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,685000.0
+P17,Kinsale,5,2023,New,All Buyer Types,680000.0
+P17,Kinsale,5,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,549999.0
+P17,Kinsale,5,2023,New,Household Buyer - Former Owner-Occupier,550000.0
+P17,Kinsale,5,2023,New,Household Buyer - Non-Occupier,1200000.0
+P17,Kinsale,5,2023,Existing,All Buyer Types,449375.0
+P17,Kinsale,5,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2023,Existing,Household Buyer - Former Owner-Occupier,489286.0
+P17,Kinsale,5,2023,Existing,Household Buyer - Non-Occupier,170000.0
+P17,Kinsale,6,2023,All Dwelling Statuses,All Buyer Types,629888.0
+P17,Kinsale,6,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,564643.0
+P17,Kinsale,6,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,716153.0
+P17,Kinsale,6,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,523334.0
+P17,Kinsale,6,2023,New,All Buyer Types,588409.0
+P17,Kinsale,6,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,433500.0
+P17,Kinsale,6,2023,New,Household Buyer - Former Owner-Occupier,732000.0
+P17,Kinsale,6,2023,New,Household Buyer - Non-Occupier,645001.0
+P17,Kinsale,6,2023,Existing,All Buyer Types,686922.0
+P17,Kinsale,6,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,892500.0
+P17,Kinsale,6,2023,Existing,Household Buyer - Former Owner-Occupier,696344.0
+P17,Kinsale,6,2023,Existing,Household Buyer - Non-Occupier,462500.0
+P17,Kinsale,7,2023,All Dwelling Statuses,All Buyer Types,464412.0
+P17,Kinsale,7,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,413452.0
+P17,Kinsale,7,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,459429.0
+P17,Kinsale,7,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,527000.0
+P17,Kinsale,7,2023,New,All Buyer Types,478265.0
+P17,Kinsale,7,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,413452.0
+P17,Kinsale,7,2023,New,Household Buyer - Former Owner-Occupier,526875.0
+P17,Kinsale,7,2023,New,Household Buyer - Non-Occupier,
+P17,Kinsale,7,2023,Existing,All Buyer Types,448250.0
+P17,Kinsale,7,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,7,2023,Existing,Household Buyer - Former Owner-Occupier,369500.0
+P17,Kinsale,7,2023,Existing,Household Buyer - Non-Occupier,527000.0
+P17,Kinsale,8,2023,All Dwelling Statuses,All Buyer Types,457508.0
+P17,Kinsale,8,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,406667.0
+P17,Kinsale,8,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,548265.0
+P17,Kinsale,8,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,256667.0
+P17,Kinsale,8,2023,New,All Buyer Types,483571.0
+P17,Kinsale,8,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,466666.0
+P17,Kinsale,8,2023,New,Household Buyer - Former Owner-Occupier,545000.0
+P17,Kinsale,8,2023,New,Household Buyer - Non-Occupier,350000.0
+P17,Kinsale,8,2023,Existing,All Buyer Types,442304.0
+P17,Kinsale,8,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,346667.0
+P17,Kinsale,8,2023,Existing,Household Buyer - Former Owner-Occupier,549664.0
+P17,Kinsale,8,2023,Existing,Household Buyer - Non-Occupier,210000.0
+P17,Kinsale,9,2023,All Dwelling Statuses,All Buyer Types,438527.0
+P17,Kinsale,9,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,380917.0
+P17,Kinsale,9,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,475773.0
+P17,Kinsale,9,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,300000.0
+P17,Kinsale,9,2023,New,All Buyer Types,463105.0
+P17,Kinsale,9,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,371667.0
+P17,Kinsale,9,2023,New,Household Buyer - Former Owner-Occupier,502293.0
+P17,Kinsale,9,2023,New,Household Buyer - Non-Occupier,
+P17,Kinsale,9,2023,Existing,All Buyer Types,413950.0
+P17,Kinsale,9,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,390167.0
+P17,Kinsale,9,2023,Existing,Household Buyer - Former Owner-Occupier,444833.0
+P17,Kinsale,9,2023,Existing,Household Buyer - Non-Occupier,300000.0
+P17,Kinsale,10,2023,All Dwelling Statuses,All Buyer Types,698571.0
+P17,Kinsale,10,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,422500.0
+P17,Kinsale,10,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,915714.0
+P17,Kinsale,10,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,560000.0
+P17,Kinsale,10,2023,New,All Buyer Types,454167.0
+P17,Kinsale,10,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,470000.0
+P17,Kinsale,10,2023,New,Household Buyer - Former Owner-Occupier,425000.0
+P17,Kinsale,10,2023,New,Household Buyer - Non-Occupier,465000.0
+P17,Kinsale,10,2023,Existing,All Buyer Types,881875.0
+P17,Kinsale,10,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,280000.0
+P17,Kinsale,10,2023,Existing,Household Buyer - Former Owner-Occupier,1112000.0
+P17,Kinsale,10,2023,Existing,Household Buyer - Non-Occupier,607500.0
+P17,Kinsale,11,2023,All Dwelling Statuses,All Buyer Types,531707.0
+P17,Kinsale,11,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,427500.0
+P17,Kinsale,11,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,580056.0
+P17,Kinsale,11,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,391667.0
+P17,Kinsale,11,2023,New,All Buyer Types,489286.0
+P17,Kinsale,11,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,427500.0
+P17,Kinsale,11,2023,New,Household Buyer - Former Owner-Occupier,514000.0
+P17,Kinsale,11,2023,New,Household Buyer - Non-Occupier,
+P17,Kinsale,11,2023,Existing,All Buyer Types,558702.0
+P17,Kinsale,11,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,11,2023,Existing,Household Buyer - Former Owner-Occupier,621341.0
+P17,Kinsale,11,2023,Existing,Household Buyer - Non-Occupier,391667.0
+P17,Kinsale,12,2023,All Dwelling Statuses,All Buyer Types,540546.0
+P17,Kinsale,12,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,541250.0
+P17,Kinsale,12,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,538357.0
+P17,Kinsale,12,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,547500.0
+P17,Kinsale,12,2023,New,All Buyer Types,541875.0
+P17,Kinsale,12,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,515001.0
+P17,Kinsale,12,2023,New,Household Buyer - Former Owner-Occupier,558000.0
+P17,Kinsale,12,2023,New,Household Buyer - Non-Occupier,
+P17,Kinsale,12,2023,Existing,All Buyer Types,539786.0
+P17,Kinsale,12,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,620000.0
+P17,Kinsale,12,2023,Existing,Household Buyer - Former Owner-Occupier,527444.0
+P17,Kinsale,12,2023,Existing,Household Buyer - Non-Occupier,547500.0
+P17,Kinsale,1,2024,All Dwelling Statuses,All Buyer Types,407545.0
+P17,Kinsale,1,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,437500.0
+P17,Kinsale,1,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,450600.0
+P17,Kinsale,1,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,240000.0
+P17,Kinsale,1,2024,New,All Buyer Types,496000.0
+P17,Kinsale,1,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,471666.0
+P17,Kinsale,1,2024,New,Household Buyer - Former Owner-Occupier,532500.0
+P17,Kinsale,1,2024,New,Household Buyer - Non-Occupier,
+P17,Kinsale,1,2024,Existing,All Buyer Types,333833.0
+P17,Kinsale,1,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,335000.0
+P17,Kinsale,1,2024,Existing,Household Buyer - Former Owner-Occupier,396000.0
+P17,Kinsale,1,2024,Existing,Household Buyer - Non-Occupier,240000.0
+P17,Kinsale,2,2024,All Dwelling Statuses,All Buyer Types,720864.0
+P17,Kinsale,2,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,680000.0
+P17,Kinsale,2,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,810797.0
+P17,Kinsale,2,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,332500.0
+P17,Kinsale,2,2024,New,All Buyer Types,470993.0
+P17,Kinsale,2,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,445000.0
+P17,Kinsale,2,2024,New,Household Buyer - Former Owner-Occupier,499984.0
+P17,Kinsale,2,2024,New,Household Buyer - Non-Occupier,464999.0
+P17,Kinsale,2,2024,Existing,All Buyer Types,845800.0
+P17,Kinsale,2,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,1150000.0
+P17,Kinsale,2,2024,Existing,Household Buyer - Former Owner-Occupier,888500.0
+P17,Kinsale,2,2024,Existing,Household Buyer - Non-Occupier,200000.0
+P17,Kinsale,3,2024,All Dwelling Statuses,All Buyer Types,406456.0
+P17,Kinsale,3,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,389085.0
+P17,Kinsale,3,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,491250.0
+P17,Kinsale,3,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,207500.0
+P17,Kinsale,3,2024,New,All Buyer Types,446814.0
+P17,Kinsale,3,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,426127.0
+P17,Kinsale,3,2024,New,Household Buyer - Former Owner-Occupier,467500.0
+P17,Kinsale,3,2024,New,Household Buyer - Non-Occupier,
+P17,Kinsale,3,2024,Existing,All Buyer Types,394038.0
+P17,Kinsale,3,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,315000.0
+P17,Kinsale,3,2024,Existing,Household Buyer - Former Owner-Occupier,497188.0
+P17,Kinsale,3,2024,Existing,Household Buyer - Non-Occupier,207500.0
+P17,Kinsale,4,2024,All Dwelling Statuses,All Buyer Types,547737.0
+P17,Kinsale,4,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,270000.0
+P17,Kinsale,4,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,612062.0
+P17,Kinsale,4,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,632500.0
+P17,Kinsale,4,2024,New,All Buyer Types,430685.0
+P17,Kinsale,4,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,4,2024,New,Household Buyer - Former Owner-Occupier,430685.0
+P17,Kinsale,4,2024,New,Household Buyer - Non-Occupier,
+P17,Kinsale,4,2024,Existing,All Buyer Types,577000.0
+P17,Kinsale,4,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,270000.0
+P17,Kinsale,4,2024,Existing,Household Buyer - Former Owner-Occupier,702750.0
+P17,Kinsale,4,2024,Existing,Household Buyer - Non-Occupier,632500.0
+P17,Kinsale,5,2024,All Dwelling Statuses,All Buyer Types,491050.0
+P17,Kinsale,5,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,445000.0
+P17,Kinsale,5,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,498710.0
+P17,Kinsale,5,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,498797.0
+P17,Kinsale,5,2024,New,All Buyer Types,508282.0
+P17,Kinsale,5,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,445000.0
+P17,Kinsale,5,2024,New,Household Buyer - Former Owner-Occupier,455700.0
+P17,Kinsale,5,2024,New,Household Buyer - Non-Occupier,792594.0
+P17,Kinsale,5,2024,Existing,All Buyer Types,478125.0
+P17,Kinsale,5,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+P17,Kinsale,5,2024,Existing,Household Buyer - Former Owner-Occupier,517143.0
+P17,Kinsale,5,2024,Existing,Household Buyer - Non-Occupier,205000.0
+P17,Kinsale,6,2024,All Dwelling Statuses,All Buyer Types,541745.0
+P17,Kinsale,6,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,453047.0
+P17,Kinsale,6,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,581167.0
+P17,Kinsale,6,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+P17,Kinsale,6,2024,New,All Buyer Types,446538.0
+P17,Kinsale,6,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,480730.0
+P17,Kinsale,6,2024,New,Household Buyer - Former Owner-Occupier,395250.0
+P17,Kinsale,6,2024,New,Household Buyer - Non-Occupier,
+P17,Kinsale,6,2024,Existing,All Buyer Types,601250.0
+P17,Kinsale,6,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,370000.0
+P17,Kinsale,6,2024,Existing,Household Buyer - Former Owner-Occupier,634286.0
+P17,Kinsale,6,2024,Existing,Household Buyer - Non-Occupier,
+P17,Kinsale,7,2024,All Dwelling Statuses,All Buyer Types,442367.0
+P17,Kinsale,7,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,480700.0
+P17,Kinsale,7,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,565000.0
+P17,Kinsale,7,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,181750.0
+P17,Kinsale,7,2024,New,All Buyer Types,447600.0
+P17,Kinsale,7,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,423900.0
+P17,Kinsale,7,2024,New,Household Buyer - Former Owner-Occupier,495000.0
+P17,Kinsale,7,2024,New,Household Buyer - Non-Occupier,
+P17,Kinsale,7,2024,Existing,All Buyer Types,439750.0
+P17,Kinsale,7,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,537500.0
+P17,Kinsale,7,2024,Existing,Household Buyer - Former Owner-Occupier,600000.0
+P17,Kinsale,7,2024,Existing,Household Buyer - Non-Occupier,181750.0

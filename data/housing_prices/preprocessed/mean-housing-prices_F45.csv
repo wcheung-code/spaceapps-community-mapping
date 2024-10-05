@@ -1,0 +1,2101 @@
+Routing Key,City,Month,Year,Dwelling Status,Type of Buyer,VALUE
+F45,Castlerea,1,2010,All Dwelling Statuses,All Buyer Types,148638.0
+F45,Castlerea,1,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+F45,Castlerea,1,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,187275.0
+F45,Castlerea,1,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+F45,Castlerea,1,2010,New,All Buyer Types,187275.0
+F45,Castlerea,1,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,1,2010,New,Household Buyer - Former Owner-Occupier,187275.0
+F45,Castlerea,1,2010,New,Household Buyer - Non-Occupier,
+F45,Castlerea,1,2010,Existing,All Buyer Types,110000.0
+F45,Castlerea,1,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+F45,Castlerea,1,2010,Existing,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,1,2010,Existing,Household Buyer - Non-Occupier,
+F45,Castlerea,2,2010,All Dwelling Statuses,All Buyer Types,103100.0
+F45,Castlerea,2,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,181600.0
+F45,Castlerea,2,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,102333.0
+F45,Castlerea,2,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,65000.0
+F45,Castlerea,2,2010,New,All Buyer Types,136200.0
+F45,Castlerea,2,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,181600.0
+F45,Castlerea,2,2010,New,Household Buyer - Former Owner-Occupier,113500.0
+F45,Castlerea,2,2010,New,Household Buyer - Non-Occupier,
+F45,Castlerea,2,2010,Existing,All Buyer Types,70000.0
+F45,Castlerea,2,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,2,2010,Existing,Household Buyer - Former Owner-Occupier,80000.0
+F45,Castlerea,2,2010,Existing,Household Buyer - Non-Occupier,65000.0
+F45,Castlerea,3,2010,All Dwelling Statuses,All Buyer Types,146731.0
+F45,Castlerea,3,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180051.0
+F45,Castlerea,3,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,80000.0
+F45,Castlerea,3,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,113500.0
+F45,Castlerea,3,2010,New,All Buyer Types,138827.0
+F45,Castlerea,3,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,164153.0
+F45,Castlerea,3,2010,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,3,2010,New,Household Buyer - Non-Occupier,113500.0
+F45,Castlerea,3,2010,Existing,All Buyer Types,152000.0
+F45,Castlerea,3,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,188000.0
+F45,Castlerea,3,2010,Existing,Household Buyer - Former Owner-Occupier,80000.0
+F45,Castlerea,3,2010,Existing,Household Buyer - Non-Occupier,
+F45,Castlerea,4,2010,All Dwelling Statuses,All Buyer Types,118169.0
+F45,Castlerea,4,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+F45,Castlerea,4,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,76338.0
+F45,Castlerea,4,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+F45,Castlerea,4,2010,New,All Buyer Types,160000.0
+F45,Castlerea,4,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+F45,Castlerea,4,2010,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,4,2010,New,Household Buyer - Non-Occupier,
+F45,Castlerea,4,2010,Existing,All Buyer Types,76338.0
+F45,Castlerea,4,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,4,2010,Existing,Household Buyer - Former Owner-Occupier,76338.0
+F45,Castlerea,4,2010,Existing,Household Buyer - Non-Occupier,
+F45,Castlerea,5,2010,All Dwelling Statuses,All Buyer Types,57500.0
+F45,Castlerea,5,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,5,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,45000.0
+F45,Castlerea,5,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,70000.0
+F45,Castlerea,5,2010,New,All Buyer Types,
+F45,Castlerea,5,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,5,2010,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,5,2010,New,Household Buyer - Non-Occupier,
+F45,Castlerea,5,2010,Existing,All Buyer Types,57500.0
+F45,Castlerea,5,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,5,2010,Existing,Household Buyer - Former Owner-Occupier,45000.0
+F45,Castlerea,5,2010,Existing,Household Buyer - Non-Occupier,70000.0
+F45,Castlerea,6,2010,All Dwelling Statuses,All Buyer Types,106333.0
+F45,Castlerea,6,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,59500.0
+F45,Castlerea,6,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,200000.0
+F45,Castlerea,6,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+F45,Castlerea,6,2010,New,All Buyer Types,
+F45,Castlerea,6,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,6,2010,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,6,2010,New,Household Buyer - Non-Occupier,
+F45,Castlerea,6,2010,Existing,All Buyer Types,106333.0
+F45,Castlerea,6,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,59500.0
+F45,Castlerea,6,2010,Existing,Household Buyer - Former Owner-Occupier,200000.0
+F45,Castlerea,6,2010,Existing,Household Buyer - Non-Occupier,
+F45,Castlerea,7,2010,All Dwelling Statuses,All Buyer Types,155000.0
+F45,Castlerea,7,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+F45,Castlerea,7,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,105000.0
+F45,Castlerea,7,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+F45,Castlerea,7,2010,New,All Buyer Types,140000.0
+F45,Castlerea,7,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,7,2010,New,Household Buyer - Former Owner-Occupier,140000.0
+F45,Castlerea,7,2010,New,Household Buyer - Non-Occupier,
+F45,Castlerea,7,2010,Existing,All Buyer Types,157143.0
+F45,Castlerea,7,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+F45,Castlerea,7,2010,Existing,Household Buyer - Former Owner-Occupier,93333.0
+F45,Castlerea,7,2010,Existing,Household Buyer - Non-Occupier,
+F45,Castlerea,8,2010,All Dwelling Statuses,All Buyer Types,95000.0
+F45,Castlerea,8,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,112500.0
+F45,Castlerea,8,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,86250.0
+F45,Castlerea,8,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+F45,Castlerea,8,2010,New,All Buyer Types,
+F45,Castlerea,8,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,8,2010,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,8,2010,New,Household Buyer - Non-Occupier,
+F45,Castlerea,8,2010,Existing,All Buyer Types,95000.0
+F45,Castlerea,8,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,112500.0
+F45,Castlerea,8,2010,Existing,Household Buyer - Former Owner-Occupier,86250.0
+F45,Castlerea,8,2010,Existing,Household Buyer - Non-Occupier,
+F45,Castlerea,9,2010,All Dwelling Statuses,All Buyer Types,98500.0
+F45,Castlerea,9,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,9,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,81000.0
+F45,Castlerea,9,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,116000.0
+F45,Castlerea,9,2010,New,All Buyer Types,
+F45,Castlerea,9,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,9,2010,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,9,2010,New,Household Buyer - Non-Occupier,
+F45,Castlerea,9,2010,Existing,All Buyer Types,98500.0
+F45,Castlerea,9,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,9,2010,Existing,Household Buyer - Former Owner-Occupier,81000.0
+F45,Castlerea,9,2010,Existing,Household Buyer - Non-Occupier,116000.0
+F45,Castlerea,10,2010,All Dwelling Statuses,All Buyer Types,149000.0
+F45,Castlerea,10,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+F45,Castlerea,10,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,128500.0
+F45,Castlerea,10,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+F45,Castlerea,10,2010,New,All Buyer Types,182000.0
+F45,Castlerea,10,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,10,2010,New,Household Buyer - Former Owner-Occupier,182000.0
+F45,Castlerea,10,2010,New,Household Buyer - Non-Occupier,
+F45,Castlerea,10,2010,Existing,All Buyer Types,132500.0
+F45,Castlerea,10,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+F45,Castlerea,10,2010,Existing,Household Buyer - Former Owner-Occupier,75000.0
+F45,Castlerea,10,2010,Existing,Household Buyer - Non-Occupier,
+F45,Castlerea,11,2010,All Dwelling Statuses,All Buyer Types,105000.0
+F45,Castlerea,11,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,105000.0
+F45,Castlerea,11,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,11,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+F45,Castlerea,11,2010,New,All Buyer Types,
+F45,Castlerea,11,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,11,2010,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,11,2010,New,Household Buyer - Non-Occupier,
+F45,Castlerea,11,2010,Existing,All Buyer Types,105000.0
+F45,Castlerea,11,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,105000.0
+F45,Castlerea,11,2010,Existing,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,11,2010,Existing,Household Buyer - Non-Occupier,
+F45,Castlerea,12,2010,All Dwelling Statuses,All Buyer Types,101546.0
+F45,Castlerea,12,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,157500.0
+F45,Castlerea,12,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,89956.0
+F45,Castlerea,12,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,36000.0
+F45,Castlerea,12,2010,New,All Buyer Types,107825.0
+F45,Castlerea,12,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,12,2010,New,Household Buyer - Former Owner-Occupier,107825.0
+F45,Castlerea,12,2010,New,Household Buyer - Non-Occupier,
+F45,Castlerea,12,2010,Existing,All Buyer Types,100500.0
+F45,Castlerea,12,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,157500.0
+F45,Castlerea,12,2010,Existing,Household Buyer - Former Owner-Occupier,84000.0
+F45,Castlerea,12,2010,Existing,Household Buyer - Non-Occupier,36000.0
+F45,Castlerea,1,2011,All Dwelling Statuses,All Buyer Types,70000.0
+F45,Castlerea,1,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+F45,Castlerea,1,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,30000.0
+F45,Castlerea,1,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+F45,Castlerea,1,2011,New,All Buyer Types,
+F45,Castlerea,1,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,1,2011,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,1,2011,New,Household Buyer - Non-Occupier,
+F45,Castlerea,1,2011,Existing,All Buyer Types,70000.0
+F45,Castlerea,1,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+F45,Castlerea,1,2011,Existing,Household Buyer - Former Owner-Occupier,30000.0
+F45,Castlerea,1,2011,Existing,Household Buyer - Non-Occupier,
+F45,Castlerea,2,2011,All Dwelling Statuses,All Buyer Types,69167.0
+F45,Castlerea,2,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,2,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,68750.0
+F45,Castlerea,2,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,70000.0
+F45,Castlerea,2,2011,New,All Buyer Types,
+F45,Castlerea,2,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,2,2011,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,2,2011,New,Household Buyer - Non-Occupier,
+F45,Castlerea,2,2011,Existing,All Buyer Types,69167.0
+F45,Castlerea,2,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,2,2011,Existing,Household Buyer - Former Owner-Occupier,68750.0
+F45,Castlerea,2,2011,Existing,Household Buyer - Non-Occupier,70000.0
+F45,Castlerea,3,2011,All Dwelling Statuses,All Buyer Types,67500.0
+F45,Castlerea,3,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,3,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,67500.0
+F45,Castlerea,3,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+F45,Castlerea,3,2011,New,All Buyer Types,
+F45,Castlerea,3,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,3,2011,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,3,2011,New,Household Buyer - Non-Occupier,
+F45,Castlerea,3,2011,Existing,All Buyer Types,67500.0
+F45,Castlerea,3,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,3,2011,Existing,Household Buyer - Former Owner-Occupier,67500.0
+F45,Castlerea,3,2011,Existing,Household Buyer - Non-Occupier,
+F45,Castlerea,4,2011,All Dwelling Statuses,All Buyer Types,113400.0
+F45,Castlerea,4,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,95000.0
+F45,Castlerea,4,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,118000.0
+F45,Castlerea,4,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+F45,Castlerea,4,2011,New,All Buyer Types,
+F45,Castlerea,4,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,4,2011,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,4,2011,New,Household Buyer - Non-Occupier,
+F45,Castlerea,4,2011,Existing,All Buyer Types,113400.0
+F45,Castlerea,4,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,95000.0
+F45,Castlerea,4,2011,Existing,Household Buyer - Former Owner-Occupier,118000.0
+F45,Castlerea,4,2011,Existing,Household Buyer - Non-Occupier,
+F45,Castlerea,5,2011,All Dwelling Statuses,All Buyer Types,90543.0
+F45,Castlerea,5,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,191815.0
+F45,Castlerea,5,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,100381.0
+F45,Castlerea,5,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,43667.0
+F45,Castlerea,5,2011,New,All Buyer Types,161170.0
+F45,Castlerea,5,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,191815.0
+F45,Castlerea,5,2011,New,Household Buyer - Former Owner-Occupier,130525.0
+F45,Castlerea,5,2011,New,Household Buyer - Non-Occupier,
+F45,Castlerea,5,2011,Existing,All Buyer Types,67000.0
+F45,Castlerea,5,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,5,2011,Existing,Household Buyer - Former Owner-Occupier,90333.0
+F45,Castlerea,5,2011,Existing,Household Buyer - Non-Occupier,43667.0
+F45,Castlerea,6,2011,All Dwelling Statuses,All Buyer Types,96929.0
+F45,Castlerea,6,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,240000.0
+F45,Castlerea,6,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,70750.0
+F45,Castlerea,6,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,77750.0
+F45,Castlerea,6,2011,New,All Buyer Types,117500.0
+F45,Castlerea,6,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,6,2011,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,6,2011,New,Household Buyer - Non-Occupier,117500.0
+F45,Castlerea,6,2011,Existing,All Buyer Types,93500.0
+F45,Castlerea,6,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,240000.0
+F45,Castlerea,6,2011,Existing,Household Buyer - Former Owner-Occupier,70750.0
+F45,Castlerea,6,2011,Existing,Household Buyer - Non-Occupier,38000.0
+F45,Castlerea,7,2011,All Dwelling Statuses,All Buyer Types,103979.0
+F45,Castlerea,7,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,124850.0
+F45,Castlerea,7,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,106600.0
+F45,Castlerea,7,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,70000.0
+F45,Castlerea,7,2011,New,All Buyer Types,124850.0
+F45,Castlerea,7,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,124850.0
+F45,Castlerea,7,2011,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,7,2011,New,Household Buyer - Non-Occupier,
+F45,Castlerea,7,2011,Existing,All Buyer Types,100500.0
+F45,Castlerea,7,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,7,2011,Existing,Household Buyer - Former Owner-Occupier,106600.0
+F45,Castlerea,7,2011,Existing,Household Buyer - Non-Occupier,70000.0
+F45,Castlerea,8,2011,All Dwelling Statuses,All Buyer Types,122143.0
+F45,Castlerea,8,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+F45,Castlerea,8,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,111000.0
+F45,Castlerea,8,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+F45,Castlerea,8,2011,New,All Buyer Types,
+F45,Castlerea,8,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,8,2011,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,8,2011,New,Household Buyer - Non-Occupier,
+F45,Castlerea,8,2011,Existing,All Buyer Types,122143.0
+F45,Castlerea,8,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+F45,Castlerea,8,2011,Existing,Household Buyer - Former Owner-Occupier,111000.0
+F45,Castlerea,8,2011,Existing,Household Buyer - Non-Occupier,
+F45,Castlerea,9,2011,All Dwelling Statuses,All Buyer Types,67000.0
+F45,Castlerea,9,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,9,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,78000.0
+F45,Castlerea,9,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,45000.0
+F45,Castlerea,9,2011,New,All Buyer Types,
+F45,Castlerea,9,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,9,2011,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,9,2011,New,Household Buyer - Non-Occupier,
+F45,Castlerea,9,2011,Existing,All Buyer Types,67000.0
+F45,Castlerea,9,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,9,2011,Existing,Household Buyer - Former Owner-Occupier,78000.0
+F45,Castlerea,9,2011,Existing,Household Buyer - Non-Occupier,45000.0
+F45,Castlerea,10,2011,All Dwelling Statuses,All Buyer Types,71000.0
+F45,Castlerea,10,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+F45,Castlerea,10,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,62500.0
+F45,Castlerea,10,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,65000.0
+F45,Castlerea,10,2011,New,All Buyer Types,
+F45,Castlerea,10,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,10,2011,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,10,2011,New,Household Buyer - Non-Occupier,
+F45,Castlerea,10,2011,Existing,All Buyer Types,71000.0
+F45,Castlerea,10,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+F45,Castlerea,10,2011,Existing,Household Buyer - Former Owner-Occupier,62500.0
+F45,Castlerea,10,2011,Existing,Household Buyer - Non-Occupier,65000.0
+F45,Castlerea,11,2011,All Dwelling Statuses,All Buyer Types,87576.0
+F45,Castlerea,11,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,45000.0
+F45,Castlerea,11,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,104389.0
+F45,Castlerea,11,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,81406.0
+F45,Castlerea,11,2011,New,All Buyer Types,198625.0
+F45,Castlerea,11,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,11,2011,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,11,2011,New,Household Buyer - Non-Occupier,198625.0
+F45,Castlerea,11,2011,Existing,All Buyer Types,73695.0
+F45,Castlerea,11,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,45000.0
+F45,Castlerea,11,2011,Existing,Household Buyer - Former Owner-Occupier,104389.0
+F45,Castlerea,11,2011,Existing,Household Buyer - Non-Occupier,42333.0
+F45,Castlerea,12,2011,All Dwelling Statuses,All Buyer Types,58357.0
+F45,Castlerea,12,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,45000.0
+F45,Castlerea,12,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,50700.0
+F45,Castlerea,12,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,110000.0
+F45,Castlerea,12,2011,New,All Buyer Types,
+F45,Castlerea,12,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,12,2011,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,12,2011,New,Household Buyer - Non-Occupier,
+F45,Castlerea,12,2011,Existing,All Buyer Types,58357.0
+F45,Castlerea,12,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,45000.0
+F45,Castlerea,12,2011,Existing,Household Buyer - Former Owner-Occupier,50700.0
+F45,Castlerea,12,2011,Existing,Household Buyer - Non-Occupier,110000.0
+F45,Castlerea,1,2012,All Dwelling Statuses,All Buyer Types,81250.0
+F45,Castlerea,1,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,55000.0
+F45,Castlerea,1,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,100000.0
+F45,Castlerea,1,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,40000.0
+F45,Castlerea,1,2012,New,All Buyer Types,113500.0
+F45,Castlerea,1,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,1,2012,New,Household Buyer - Former Owner-Occupier,113500.0
+F45,Castlerea,1,2012,New,Household Buyer - Non-Occupier,
+F45,Castlerea,1,2012,Existing,All Buyer Types,76643.0
+F45,Castlerea,1,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,55000.0
+F45,Castlerea,1,2012,Existing,Household Buyer - Former Owner-Occupier,96625.0
+F45,Castlerea,1,2012,Existing,Household Buyer - Non-Occupier,40000.0
+F45,Castlerea,2,2012,All Dwelling Statuses,All Buyer Types,67300.0
+F45,Castlerea,2,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,67500.0
+F45,Castlerea,2,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,72500.0
+F45,Castlerea,2,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,51500.0
+F45,Castlerea,2,2012,New,All Buyer Types,
+F45,Castlerea,2,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,2,2012,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,2,2012,New,Household Buyer - Non-Occupier,
+F45,Castlerea,2,2012,Existing,All Buyer Types,67300.0
+F45,Castlerea,2,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,67500.0
+F45,Castlerea,2,2012,Existing,Household Buyer - Former Owner-Occupier,72500.0
+F45,Castlerea,2,2012,Existing,Household Buyer - Non-Occupier,51500.0
+F45,Castlerea,3,2012,All Dwelling Statuses,All Buyer Types,107000.0
+F45,Castlerea,3,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,3,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,120000.0
+F45,Castlerea,3,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,87500.0
+F45,Castlerea,3,2012,New,All Buyer Types,
+F45,Castlerea,3,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,3,2012,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,3,2012,New,Household Buyer - Non-Occupier,
+F45,Castlerea,3,2012,Existing,All Buyer Types,107000.0
+F45,Castlerea,3,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,3,2012,Existing,Household Buyer - Former Owner-Occupier,120000.0
+F45,Castlerea,3,2012,Existing,Household Buyer - Non-Occupier,87500.0
+F45,Castlerea,4,2012,All Dwelling Statuses,All Buyer Types,87657.0
+F45,Castlerea,4,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,4,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,95822.0
+F45,Castlerea,4,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,55000.0
+F45,Castlerea,4,2012,New,All Buyer Types,
+F45,Castlerea,4,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,4,2012,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,4,2012,New,Household Buyer - Non-Occupier,
+F45,Castlerea,4,2012,Existing,All Buyer Types,87657.0
+F45,Castlerea,4,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,4,2012,Existing,Household Buyer - Former Owner-Occupier,95822.0
+F45,Castlerea,4,2012,Existing,Household Buyer - Non-Occupier,55000.0
+F45,Castlerea,5,2012,All Dwelling Statuses,All Buyer Types,75444.0
+F45,Castlerea,5,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,114000.0
+F45,Castlerea,5,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,55625.0
+F45,Castlerea,5,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,57250.0
+F45,Castlerea,5,2012,New,All Buyer Types,
+F45,Castlerea,5,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,5,2012,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,5,2012,New,Household Buyer - Non-Occupier,
+F45,Castlerea,5,2012,Existing,All Buyer Types,75444.0
+F45,Castlerea,5,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,114000.0
+F45,Castlerea,5,2012,Existing,Household Buyer - Former Owner-Occupier,55625.0
+F45,Castlerea,5,2012,Existing,Household Buyer - Non-Occupier,57250.0
+F45,Castlerea,6,2012,All Dwelling Statuses,All Buyer Types,119908.0
+F45,Castlerea,6,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,102500.0
+F45,Castlerea,6,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,124794.0
+F45,Castlerea,6,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,125000.0
+F45,Castlerea,6,2012,New,All Buyer Types,189588.0
+F45,Castlerea,6,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,6,2012,New,Household Buyer - Former Owner-Occupier,189588.0
+F45,Castlerea,6,2012,New,Household Buyer - Non-Occupier,
+F45,Castlerea,6,2012,Existing,All Buyer Types,100000.0
+F45,Castlerea,6,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,102500.0
+F45,Castlerea,6,2012,Existing,Household Buyer - Former Owner-Occupier,60000.0
+F45,Castlerea,6,2012,Existing,Household Buyer - Non-Occupier,125000.0
+F45,Castlerea,7,2012,All Dwelling Statuses,All Buyer Types,63008.0
+F45,Castlerea,7,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,72379.0
+F45,Castlerea,7,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,57653.0
+F45,Castlerea,7,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+F45,Castlerea,7,2012,New,All Buyer Types,105045.0
+F45,Castlerea,7,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,101015.0
+F45,Castlerea,7,2012,New,Household Buyer - Former Owner-Occupier,109074.0
+F45,Castlerea,7,2012,New,Household Buyer - Non-Occupier,
+F45,Castlerea,7,2012,Existing,All Buyer Types,53667.0
+F45,Castlerea,7,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,62833.0
+F45,Castlerea,7,2012,Existing,Household Buyer - Former Owner-Occupier,49083.0
+F45,Castlerea,7,2012,Existing,Household Buyer - Non-Occupier,
+F45,Castlerea,8,2012,All Dwelling Statuses,All Buyer Types,66000.0
+F45,Castlerea,8,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,50000.0
+F45,Castlerea,8,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,71333.0
+F45,Castlerea,8,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,66000.0
+F45,Castlerea,8,2012,New,All Buyer Types,64500.0
+F45,Castlerea,8,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,8,2012,New,Household Buyer - Former Owner-Occupier,66000.0
+F45,Castlerea,8,2012,New,Household Buyer - Non-Occupier,62999.0
+F45,Castlerea,8,2012,Existing,All Buyer Types,66273.0
+F45,Castlerea,8,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,50000.0
+F45,Castlerea,8,2012,Existing,Household Buyer - Former Owner-Occupier,72400.0
+F45,Castlerea,8,2012,Existing,Household Buyer - Non-Occupier,66750.0
+F45,Castlerea,9,2012,All Dwelling Statuses,All Buyer Types,289667.0
+F45,Castlerea,9,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,84000.0
+F45,Castlerea,9,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,725000.0
+F45,Castlerea,9,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,36000.0
+F45,Castlerea,9,2012,New,All Buyer Types,
+F45,Castlerea,9,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,9,2012,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,9,2012,New,Household Buyer - Non-Occupier,
+F45,Castlerea,9,2012,Existing,All Buyer Types,289667.0
+F45,Castlerea,9,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,84000.0
+F45,Castlerea,9,2012,Existing,Household Buyer - Former Owner-Occupier,725000.0
+F45,Castlerea,9,2012,Existing,Household Buyer - Non-Occupier,36000.0
+F45,Castlerea,10,2012,All Dwelling Statuses,All Buyer Types,51972.0
+F45,Castlerea,10,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,10,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,56792.0
+F45,Castlerea,10,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,42334.0
+F45,Castlerea,10,2012,New,All Buyer Types,48376.0
+F45,Castlerea,10,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,10,2012,New,Household Buyer - Former Owner-Occupier,56750.0
+F45,Castlerea,10,2012,New,Household Buyer - Non-Occupier,40001.0
+F45,Castlerea,10,2012,Existing,All Buyer Types,53000.0
+F45,Castlerea,10,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,10,2012,Existing,Household Buyer - Former Owner-Occupier,56800.0
+F45,Castlerea,10,2012,Existing,Household Buyer - Non-Occupier,43500.0
+F45,Castlerea,11,2012,All Dwelling Statuses,All Buyer Types,59252.0
+F45,Castlerea,11,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,63583.0
+F45,Castlerea,11,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,59754.0
+F45,Castlerea,11,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,51750.0
+F45,Castlerea,11,2012,New,All Buyer Types,60344.0
+F45,Castlerea,11,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,67249.0
+F45,Castlerea,11,2012,New,Household Buyer - Former Owner-Occupier,46535.0
+F45,Castlerea,11,2012,New,Household Buyer - Non-Occupier,
+F45,Castlerea,11,2012,Existing,All Buyer Types,59033.0
+F45,Castlerea,11,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,61750.0
+F45,Castlerea,11,2012,Existing,Household Buyer - Former Owner-Occupier,61643.0
+F45,Castlerea,11,2012,Existing,Household Buyer - Non-Occupier,51750.0
+F45,Castlerea,12,2012,All Dwelling Statuses,All Buyer Types,77959.0
+F45,Castlerea,12,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,77591.0
+F45,Castlerea,12,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,78400.0
+F45,Castlerea,12,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+F45,Castlerea,12,2012,New,All Buyer Types,84274.0
+F45,Castlerea,12,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,84274.0
+F45,Castlerea,12,2012,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,12,2012,New,Household Buyer - Non-Occupier,
+F45,Castlerea,12,2012,Existing,All Buyer Types,76556.0
+F45,Castlerea,12,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,74250.0
+F45,Castlerea,12,2012,Existing,Household Buyer - Former Owner-Occupier,78400.0
+F45,Castlerea,12,2012,Existing,Household Buyer - Non-Occupier,
+F45,Castlerea,1,2013,All Dwelling Statuses,All Buyer Types,66253.0
+F45,Castlerea,1,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,68441.0
+F45,Castlerea,1,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,64429.0
+F45,Castlerea,1,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+F45,Castlerea,1,2013,New,All Buyer Types,63560.0
+F45,Castlerea,1,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,69803.0
+F45,Castlerea,1,2013,New,Household Buyer - Former Owner-Occupier,51075.0
+F45,Castlerea,1,2013,New,Household Buyer - Non-Occupier,
+F45,Castlerea,1,2013,Existing,All Buyer Types,67263.0
+F45,Castlerea,1,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,67533.0
+F45,Castlerea,1,2013,Existing,Household Buyer - Former Owner-Occupier,67100.0
+F45,Castlerea,1,2013,Existing,Household Buyer - Non-Occupier,
+F45,Castlerea,2,2013,All Dwelling Statuses,All Buyer Types,80059.0
+F45,Castlerea,2,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,132583.0
+F45,Castlerea,2,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,70860.0
+F45,Castlerea,2,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,49000.0
+F45,Castlerea,2,2013,New,All Buyer Types,38023.0
+F45,Castlerea,2,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,2,2013,New,Household Buyer - Former Owner-Occupier,38023.0
+F45,Castlerea,2,2013,New,Household Buyer - Non-Occupier,
+F45,Castlerea,2,2013,Existing,All Buyer Types,83563.0
+F45,Castlerea,2,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,132583.0
+F45,Castlerea,2,2013,Existing,Household Buyer - Former Owner-Occupier,76333.0
+F45,Castlerea,2,2013,Existing,Household Buyer - Non-Occupier,49000.0
+F45,Castlerea,3,2013,All Dwelling Statuses,All Buyer Types,59809.0
+F45,Castlerea,3,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,69463.0
+F45,Castlerea,3,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,52854.0
+F45,Castlerea,3,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,63167.0
+F45,Castlerea,3,2013,New,All Buyer Types,54439.0
+F45,Castlerea,3,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,59283.0
+F45,Castlerea,3,2013,New,Household Buyer - Former Owner-Occupier,50806.0
+F45,Castlerea,3,2013,New,Household Buyer - Non-Occupier,
+F45,Castlerea,3,2013,Existing,All Buyer Types,65179.0
+F45,Castlerea,3,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+F45,Castlerea,3,2013,Existing,Household Buyer - Former Owner-Occupier,55583.0
+F45,Castlerea,3,2013,Existing,Household Buyer - Non-Occupier,63167.0
+F45,Castlerea,4,2013,All Dwelling Statuses,All Buyer Types,67018.0
+F45,Castlerea,4,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,76325.0
+F45,Castlerea,4,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,70845.0
+F45,Castlerea,4,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,40750.0
+F45,Castlerea,4,2013,New,All Buyer Types,93590.0
+F45,Castlerea,4,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,87300.0
+F45,Castlerea,4,2013,New,Household Buyer - Former Owner-Occupier,99880.0
+F45,Castlerea,4,2013,New,Household Buyer - Non-Occupier,
+F45,Castlerea,4,2013,Existing,All Buyer Types,60375.0
+F45,Castlerea,4,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,72667.0
+F45,Castlerea,4,2013,Existing,Household Buyer - Former Owner-Occupier,61167.0
+F45,Castlerea,4,2013,Existing,Household Buyer - Non-Occupier,40750.0
+F45,Castlerea,5,2013,All Dwelling Statuses,All Buyer Types,72250.0
+F45,Castlerea,5,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,84875.0
+F45,Castlerea,5,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,71650.0
+F45,Castlerea,5,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,50000.0
+F45,Castlerea,5,2013,New,All Buyer Types,35000.0
+F45,Castlerea,5,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,5,2013,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,5,2013,New,Household Buyer - Non-Occupier,35000.0
+F45,Castlerea,5,2013,Existing,All Buyer Types,74733.0
+F45,Castlerea,5,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,84875.0
+F45,Castlerea,5,2013,Existing,Household Buyer - Former Owner-Occupier,71650.0
+F45,Castlerea,5,2013,Existing,Household Buyer - Non-Occupier,65000.0
+F45,Castlerea,6,2013,All Dwelling Statuses,All Buyer Types,58696.0
+F45,Castlerea,6,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,64975.0
+F45,Castlerea,6,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,56603.0
+F45,Castlerea,6,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+F45,Castlerea,6,2013,New,All Buyer Types,66398.0
+F45,Castlerea,6,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,79450.0
+F45,Castlerea,6,2013,New,Household Buyer - Former Owner-Occupier,53345.0
+F45,Castlerea,6,2013,New,Household Buyer - Non-Occupier,
+F45,Castlerea,6,2013,Existing,All Buyer Types,56129.0
+F45,Castlerea,6,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,50500.0
+F45,Castlerea,6,2013,Existing,Household Buyer - Former Owner-Occupier,57255.0
+F45,Castlerea,6,2013,Existing,Household Buyer - Non-Occupier,
+F45,Castlerea,7,2013,All Dwelling Statuses,All Buyer Types,53340.0
+F45,Castlerea,7,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,79845.0
+F45,Castlerea,7,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,41033.0
+F45,Castlerea,7,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,37250.0
+F45,Castlerea,7,2013,New,All Buyer Types,66440.0
+F45,Castlerea,7,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,66440.0
+F45,Castlerea,7,2013,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,7,2013,New,Household Buyer - Non-Occupier,
+F45,Castlerea,7,2013,Existing,All Buyer Types,50720.0
+F45,Castlerea,7,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,93250.0
+F45,Castlerea,7,2013,Existing,Household Buyer - Former Owner-Occupier,41033.0
+F45,Castlerea,7,2013,Existing,Household Buyer - Non-Occupier,37250.0
+F45,Castlerea,8,2013,All Dwelling Statuses,All Buyer Types,56865.0
+F45,Castlerea,8,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,68610.0
+F45,Castlerea,8,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,59038.0
+F45,Castlerea,8,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,43713.0
+F45,Castlerea,8,2013,New,All Buyer Types,52280.0
+F45,Castlerea,8,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,62915.0
+F45,Castlerea,8,2013,New,Household Buyer - Former Owner-Occupier,63000.0
+F45,Castlerea,8,2013,New,Household Buyer - Non-Occupier,41617.0
+F45,Castlerea,8,2013,Existing,All Buyer Types,59922.0
+F45,Castlerea,8,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,80000.0
+F45,Castlerea,8,2013,Existing,Household Buyer - Former Owner-Occupier,58471.0
+F45,Castlerea,8,2013,Existing,Household Buyer - Non-Occupier,50000.0
+F45,Castlerea,9,2013,All Dwelling Statuses,All Buyer Types,65568.0
+F45,Castlerea,9,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,74694.0
+F45,Castlerea,9,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,60675.0
+F45,Castlerea,9,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,78000.0
+F45,Castlerea,9,2013,New,All Buyer Types,48105.0
+F45,Castlerea,9,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,51258.0
+F45,Castlerea,9,2013,New,Household Buyer - Former Owner-Occupier,43375.0
+F45,Castlerea,9,2013,New,Household Buyer - Non-Occupier,
+F45,Castlerea,9,2013,Existing,All Buyer Types,74300.0
+F45,Castlerea,9,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,145000.0
+F45,Castlerea,9,2013,Existing,Household Buyer - Former Owner-Occupier,65000.0
+F45,Castlerea,9,2013,Existing,Household Buyer - Non-Occupier,78000.0
+F45,Castlerea,10,2013,All Dwelling Statuses,All Buyer Types,66500.0
+F45,Castlerea,10,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,72900.0
+F45,Castlerea,10,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,108400.0
+F45,Castlerea,10,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,26250.0
+F45,Castlerea,10,2013,New,All Buyer Types,21500.0
+F45,Castlerea,10,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,10,2013,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,10,2013,New,Household Buyer - Non-Occupier,21500.0
+F45,Castlerea,10,2013,Existing,All Buyer Types,86955.0
+F45,Castlerea,10,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,72900.0
+F45,Castlerea,10,2013,Existing,Household Buyer - Former Owner-Occupier,108400.0
+F45,Castlerea,10,2013,Existing,Household Buyer - Non-Occupier,50000.0
+F45,Castlerea,11,2013,All Dwelling Statuses,All Buyer Types,53482.0
+F45,Castlerea,11,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,60500.0
+F45,Castlerea,11,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,53463.0
+F45,Castlerea,11,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,48853.0
+F45,Castlerea,11,2013,New,All Buyer Types,63560.0
+F45,Castlerea,11,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,11,2013,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,11,2013,New,Household Buyer - Non-Occupier,63560.0
+F45,Castlerea,11,2013,Existing,All Buyer Types,52642.0
+F45,Castlerea,11,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,60500.0
+F45,Castlerea,11,2013,Existing,Household Buyer - Former Owner-Occupier,53463.0
+F45,Castlerea,11,2013,Existing,Household Buyer - Non-Occupier,41500.0
+F45,Castlerea,12,2013,All Dwelling Statuses,All Buyer Types,64925.0
+F45,Castlerea,12,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,67645.0
+F45,Castlerea,12,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,68833.0
+F45,Castlerea,12,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,51667.0
+F45,Castlerea,12,2013,New,All Buyer Types,91436.0
+F45,Castlerea,12,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,91436.0
+F45,Castlerea,12,2013,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,12,2013,New,Household Buyer - Non-Occupier,
+F45,Castlerea,12,2013,Existing,All Buyer Types,60846.0
+F45,Castlerea,12,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,55750.0
+F45,Castlerea,12,2013,Existing,Household Buyer - Former Owner-Occupier,68833.0
+F45,Castlerea,12,2013,Existing,Household Buyer - Non-Occupier,51667.0
+F45,Castlerea,1,2014,All Dwelling Statuses,All Buyer Types,64298.0
+F45,Castlerea,1,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,41000.0
+F45,Castlerea,1,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,48750.0
+F45,Castlerea,1,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,173088.0
+F45,Castlerea,1,2014,New,All Buyer Types,173088.0
+F45,Castlerea,1,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,1,2014,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,1,2014,New,Household Buyer - Non-Occupier,173088.0
+F45,Castlerea,1,2014,Existing,All Buyer Types,46167.0
+F45,Castlerea,1,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,41000.0
+F45,Castlerea,1,2014,Existing,Household Buyer - Former Owner-Occupier,48750.0
+F45,Castlerea,1,2014,Existing,Household Buyer - Non-Occupier,
+F45,Castlerea,2,2014,All Dwelling Statuses,All Buyer Types,55925.0
+F45,Castlerea,2,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,65375.0
+F45,Castlerea,2,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,51688.0
+F45,Castlerea,2,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,45500.0
+F45,Castlerea,2,2014,New,All Buyer Types,56750.0
+F45,Castlerea,2,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,2,2014,New,Household Buyer - Former Owner-Occupier,56750.0
+F45,Castlerea,2,2014,New,Household Buyer - Non-Occupier,
+F45,Castlerea,2,2014,Existing,All Buyer Types,55833.0
+F45,Castlerea,2,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,65375.0
+F45,Castlerea,2,2014,Existing,Household Buyer - Former Owner-Occupier,50000.0
+F45,Castlerea,2,2014,Existing,Household Buyer - Non-Occupier,45500.0
+F45,Castlerea,3,2014,All Dwelling Statuses,All Buyer Types,62185.0
+F45,Castlerea,3,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,91250.0
+F45,Castlerea,3,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,61667.0
+F45,Castlerea,3,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,43845.0
+F45,Castlerea,3,2014,New,All Buyer Types,46535.0
+F45,Castlerea,3,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,3,2014,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,3,2014,New,Household Buyer - Non-Occupier,46535.0
+F45,Castlerea,3,2014,Existing,All Buyer Types,63750.0
+F45,Castlerea,3,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,91250.0
+F45,Castlerea,3,2014,Existing,Household Buyer - Former Owner-Occupier,61667.0
+F45,Castlerea,3,2014,Existing,Household Buyer - Non-Occupier,42500.0
+F45,Castlerea,4,2014,All Dwelling Statuses,All Buyer Types,59259.0
+F45,Castlerea,4,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,68590.0
+F45,Castlerea,4,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,60813.0
+F45,Castlerea,4,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,50966.0
+F45,Castlerea,4,2014,New,All Buyer Types,50886.0
+F45,Castlerea,4,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,40860.0
+F45,Castlerea,4,2014,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,4,2014,New,Household Buyer - Non-Occupier,55899.0
+F45,Castlerea,4,2014,Existing,All Buyer Types,60933.0
+F45,Castlerea,4,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,77833.0
+F45,Castlerea,4,2014,Existing,Household Buyer - Former Owner-Occupier,60813.0
+F45,Castlerea,4,2014,Existing,Household Buyer - Non-Occupier,48500.0
+F45,Castlerea,5,2014,All Dwelling Statuses,All Buyer Types,54723.0
+F45,Castlerea,5,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,61862.0
+F45,Castlerea,5,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,48071.0
+F45,Castlerea,5,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,60155.0
+F45,Castlerea,5,2014,New,All Buyer Types,60155.0
+F45,Castlerea,5,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,60155.0
+F45,Castlerea,5,2014,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,5,2014,New,Household Buyer - Non-Occupier,60155.0
+F45,Castlerea,5,2014,Existing,All Buyer Types,52550.0
+F45,Castlerea,5,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,63000.0
+F45,Castlerea,5,2014,Existing,Household Buyer - Former Owner-Occupier,48071.0
+F45,Castlerea,5,2014,Existing,Household Buyer - Non-Occupier,
+F45,Castlerea,6,2014,All Dwelling Statuses,All Buyer Types,72154.0
+F45,Castlerea,6,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,102500.0
+F45,Castlerea,6,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,43200.0
+F45,Castlerea,6,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,86167.0
+F45,Castlerea,6,2014,New,All Buyer Types,
+F45,Castlerea,6,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,6,2014,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,6,2014,New,Household Buyer - Non-Occupier,
+F45,Castlerea,6,2014,Existing,All Buyer Types,72154.0
+F45,Castlerea,6,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,102500.0
+F45,Castlerea,6,2014,Existing,Household Buyer - Former Owner-Occupier,43200.0
+F45,Castlerea,6,2014,Existing,Household Buyer - Non-Occupier,86167.0
+F45,Castlerea,7,2014,All Dwelling Statuses,All Buyer Types,80397.0
+F45,Castlerea,7,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,110820.0
+F45,Castlerea,7,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,79349.0
+F45,Castlerea,7,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,40000.0
+F45,Castlerea,7,2014,New,All Buyer Types,175925.0
+F45,Castlerea,7,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,222460.0
+F45,Castlerea,7,2014,New,Household Buyer - Former Owner-Occupier,129390.0
+F45,Castlerea,7,2014,New,Household Buyer - Non-Occupier,
+F45,Castlerea,7,2014,Existing,All Buyer Types,65700.0
+F45,Castlerea,7,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,55000.0
+F45,Castlerea,7,2014,Existing,Household Buyer - Former Owner-Occupier,73789.0
+F45,Castlerea,7,2014,Existing,Household Buyer - Non-Occupier,40000.0
+F45,Castlerea,8,2014,All Dwelling Statuses,All Buyer Types,66538.0
+F45,Castlerea,8,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,45430.0
+F45,Castlerea,8,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,57449.0
+F45,Castlerea,8,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,124000.0
+F45,Castlerea,8,2014,New,All Buyer Types,39725.0
+F45,Castlerea,8,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,40860.0
+F45,Castlerea,8,2014,New,Household Buyer - Former Owner-Occupier,38590.0
+F45,Castlerea,8,2014,New,Household Buyer - Non-Occupier,
+F45,Castlerea,8,2014,Existing,All Buyer Types,71900.0
+F45,Castlerea,8,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,50000.0
+F45,Castlerea,8,2014,Existing,Household Buyer - Former Owner-Occupier,60143.0
+F45,Castlerea,8,2014,Existing,Household Buyer - Non-Occupier,124000.0
+F45,Castlerea,9,2014,All Dwelling Statuses,All Buyer Types,53925.0
+F45,Castlerea,9,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,36333.0
+F45,Castlerea,9,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,59483.0
+F45,Castlerea,9,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,40000.0
+F45,Castlerea,9,2014,New,All Buyer Types,
+F45,Castlerea,9,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,9,2014,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,9,2014,New,Household Buyer - Non-Occupier,
+F45,Castlerea,9,2014,Existing,All Buyer Types,53925.0
+F45,Castlerea,9,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,36333.0
+F45,Castlerea,9,2014,Existing,Household Buyer - Former Owner-Occupier,59483.0
+F45,Castlerea,9,2014,Existing,Household Buyer - Non-Occupier,40000.0
+F45,Castlerea,10,2014,All Dwelling Statuses,All Buyer Types,57062.0
+F45,Castlerea,10,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,57587.0
+F45,Castlerea,10,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,69988.0
+F45,Castlerea,10,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,41916.0
+F45,Castlerea,10,2014,New,All Buyer Types,37050.0
+F45,Castlerea,10,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,45968.0
+F45,Castlerea,10,2014,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,10,2014,New,Household Buyer - Non-Occupier,33483.0
+F45,Castlerea,10,2014,Existing,All Buyer Types,67838.0
+F45,Castlerea,10,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,65333.0
+F45,Castlerea,10,2014,Existing,Household Buyer - Former Owner-Occupier,69988.0
+F45,Castlerea,10,2014,Existing,Household Buyer - Non-Occupier,63000.0
+F45,Castlerea,11,2014,All Dwelling Statuses,All Buyer Types,64625.0
+F45,Castlerea,11,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,48000.0
+F45,Castlerea,11,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,54833.0
+F45,Castlerea,11,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,140000.0
+F45,Castlerea,11,2014,New,All Buyer Types,
+F45,Castlerea,11,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,11,2014,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,11,2014,New,Household Buyer - Non-Occupier,
+F45,Castlerea,11,2014,Existing,All Buyer Types,64625.0
+F45,Castlerea,11,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,48000.0
+F45,Castlerea,11,2014,Existing,Household Buyer - Former Owner-Occupier,54833.0
+F45,Castlerea,11,2014,Existing,Household Buyer - Non-Occupier,140000.0
+F45,Castlerea,12,2014,All Dwelling Statuses,All Buyer Types,78650.0
+F45,Castlerea,12,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,108071.0
+F45,Castlerea,12,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,55881.0
+F45,Castlerea,12,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,66750.0
+F45,Castlerea,12,2014,New,All Buyer Types,53345.0
+F45,Castlerea,12,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,12,2014,New,Household Buyer - Former Owner-Occupier,53345.0
+F45,Castlerea,12,2014,New,Household Buyer - Non-Occupier,
+F45,Castlerea,12,2014,Existing,All Buyer Types,80231.0
+F45,Castlerea,12,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,108071.0
+F45,Castlerea,12,2014,Existing,Household Buyer - Former Owner-Occupier,56243.0
+F45,Castlerea,12,2014,Existing,Household Buyer - Non-Occupier,66750.0
+F45,Castlerea,1,2015,All Dwelling Statuses,All Buyer Types,63385.0
+F45,Castlerea,1,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,82000.0
+F45,Castlerea,1,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,49400.0
+F45,Castlerea,1,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,55667.0
+F45,Castlerea,1,2015,New,All Buyer Types,
+F45,Castlerea,1,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,1,2015,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,1,2015,New,Household Buyer - Non-Occupier,
+F45,Castlerea,1,2015,Existing,All Buyer Types,63385.0
+F45,Castlerea,1,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,82000.0
+F45,Castlerea,1,2015,Existing,Household Buyer - Former Owner-Occupier,49400.0
+F45,Castlerea,1,2015,Existing,Household Buyer - Non-Occupier,55667.0
+F45,Castlerea,2,2015,All Dwelling Statuses,All Buyer Types,60127.0
+F45,Castlerea,2,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,46175.0
+F45,Castlerea,2,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,73286.0
+F45,Castlerea,2,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,35000.0
+F45,Castlerea,2,2015,New,All Buyer Types,46263.0
+F45,Castlerea,2,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,37525.0
+F45,Castlerea,2,2015,New,Household Buyer - Former Owner-Occupier,55000.0
+F45,Castlerea,2,2015,New,Household Buyer - Non-Occupier,
+F45,Castlerea,2,2015,Existing,All Buyer Types,62900.0
+F45,Castlerea,2,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,50500.0
+F45,Castlerea,2,2015,Existing,Household Buyer - Former Owner-Occupier,76333.0
+F45,Castlerea,2,2015,Existing,Household Buyer - Non-Occupier,35000.0
+F45,Castlerea,3,2015,All Dwelling Statuses,All Buyer Types,73150.0
+F45,Castlerea,3,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,183500.0
+F45,Castlerea,3,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,70286.0
+F45,Castlerea,3,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,28000.0
+F45,Castlerea,3,2015,New,All Buyer Types,
+F45,Castlerea,3,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,3,2015,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,3,2015,New,Household Buyer - Non-Occupier,
+F45,Castlerea,3,2015,Existing,All Buyer Types,73150.0
+F45,Castlerea,3,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,183500.0
+F45,Castlerea,3,2015,Existing,Household Buyer - Former Owner-Occupier,70286.0
+F45,Castlerea,3,2015,Existing,Household Buyer - Non-Occupier,28000.0
+F45,Castlerea,4,2015,All Dwelling Statuses,All Buyer Types,73287.0
+F45,Castlerea,4,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,69500.0
+F45,Castlerea,4,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,81986.0
+F45,Castlerea,4,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,63583.0
+F45,Castlerea,4,2015,New,All Buyer Types,57885.0
+F45,Castlerea,4,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,4,2015,New,Household Buyer - Former Owner-Occupier,57885.0
+F45,Castlerea,4,2015,New,Household Buyer - Non-Occupier,
+F45,Castlerea,4,2015,Existing,All Buyer Types,74250.0
+F45,Castlerea,4,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,69500.0
+F45,Castlerea,4,2015,Existing,Household Buyer - Former Owner-Occupier,85429.0
+F45,Castlerea,4,2015,Existing,Household Buyer - Non-Occupier,63583.0
+F45,Castlerea,5,2015,All Dwelling Statuses,All Buyer Types,92238.0
+F45,Castlerea,5,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,134600.0
+F45,Castlerea,5,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,81077.0
+F45,Castlerea,5,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,70000.0
+F45,Castlerea,5,2015,New,All Buyer Types,
+F45,Castlerea,5,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,5,2015,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,5,2015,New,Household Buyer - Non-Occupier,
+F45,Castlerea,5,2015,Existing,All Buyer Types,92238.0
+F45,Castlerea,5,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,134600.0
+F45,Castlerea,5,2015,Existing,Household Buyer - Former Owner-Occupier,81077.0
+F45,Castlerea,5,2015,Existing,Household Buyer - Non-Occupier,70000.0
+F45,Castlerea,6,2015,All Dwelling Statuses,All Buyer Types,89212.0
+F45,Castlerea,6,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,113285.0
+F45,Castlerea,6,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,97643.0
+F45,Castlerea,6,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,53335.0
+F45,Castlerea,6,2015,New,All Buyer Types,147550.0
+F45,Castlerea,6,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,175925.0
+F45,Castlerea,6,2015,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,6,2015,New,Household Buyer - Non-Occupier,119175.0
+F45,Castlerea,6,2015,Existing,All Buyer Types,81433.0
+F45,Castlerea,6,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,97625.0
+F45,Castlerea,6,2015,Existing,Household Buyer - Former Owner-Occupier,97643.0
+F45,Castlerea,6,2015,Existing,Household Buyer - Non-Occupier,36875.0
+F45,Castlerea,7,2015,All Dwelling Statuses,All Buyer Types,53753.0
+F45,Castlerea,7,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,48875.0
+F45,Castlerea,7,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,56750.0
+F45,Castlerea,7,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,51593.0
+F45,Castlerea,7,2015,New,All Buyer Types,137335.0
+F45,Castlerea,7,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,7,2015,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,7,2015,New,Household Buyer - Non-Occupier,137335.0
+F45,Castlerea,7,2015,Existing,All Buyer Types,50410.0
+F45,Castlerea,7,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,48875.0
+F45,Castlerea,7,2015,Existing,Household Buyer - Former Owner-Occupier,56750.0
+F45,Castlerea,7,2015,Existing,Household Buyer - Non-Occupier,40875.0
+F45,Castlerea,8,2015,All Dwelling Statuses,All Buyer Types,84769.0
+F45,Castlerea,8,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,62600.0
+F45,Castlerea,8,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,119400.0
+F45,Castlerea,8,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,64000.0
+F45,Castlerea,8,2015,New,All Buyer Types,
+F45,Castlerea,8,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,8,2015,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,8,2015,New,Household Buyer - Non-Occupier,
+F45,Castlerea,8,2015,Existing,All Buyer Types,84769.0
+F45,Castlerea,8,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,62600.0
+F45,Castlerea,8,2015,Existing,Household Buyer - Former Owner-Occupier,119400.0
+F45,Castlerea,8,2015,Existing,Household Buyer - Non-Occupier,64000.0
+F45,Castlerea,9,2015,All Dwelling Statuses,All Buyer Types,92167.0
+F45,Castlerea,9,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,9,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,92167.0
+F45,Castlerea,9,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+F45,Castlerea,9,2015,New,All Buyer Types,
+F45,Castlerea,9,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,9,2015,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,9,2015,New,Household Buyer - Non-Occupier,
+F45,Castlerea,9,2015,Existing,All Buyer Types,92167.0
+F45,Castlerea,9,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,9,2015,Existing,Household Buyer - Former Owner-Occupier,92167.0
+F45,Castlerea,9,2015,Existing,Household Buyer - Non-Occupier,
+F45,Castlerea,10,2015,All Dwelling Statuses,All Buyer Types,70382.0
+F45,Castlerea,10,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,70167.0
+F45,Castlerea,10,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,85563.0
+F45,Castlerea,10,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,30333.0
+F45,Castlerea,10,2015,New,All Buyer Types,69683.0
+F45,Castlerea,10,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,69683.0
+F45,Castlerea,10,2015,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,10,2015,New,Household Buyer - Non-Occupier,
+F45,Castlerea,10,2015,Existing,All Buyer Types,70532.0
+F45,Castlerea,10,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,70650.0
+F45,Castlerea,10,2015,Existing,Household Buyer - Former Owner-Occupier,85563.0
+F45,Castlerea,10,2015,Existing,Household Buyer - Non-Occupier,30333.0
+F45,Castlerea,11,2015,All Dwelling Statuses,All Buyer Types,70209.0
+F45,Castlerea,11,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,69136.0
+F45,Castlerea,11,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,68508.0
+F45,Castlerea,11,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,75970.0
+F45,Castlerea,11,2015,New,All Buyer Types,87963.0
+F45,Castlerea,11,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,11,2015,New,Household Buyer - Former Owner-Occupier,51075.0
+F45,Castlerea,11,2015,New,Household Buyer - Non-Occupier,124850.0
+F45,Castlerea,11,2015,Existing,All Buyer Types,68729.0
+F45,Castlerea,11,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,69136.0
+F45,Castlerea,11,2015,Existing,Household Buyer - Former Owner-Occupier,70444.0
+F45,Castlerea,11,2015,Existing,Household Buyer - Non-Occupier,63750.0
+F45,Castlerea,12,2015,All Dwelling Statuses,All Buyer Types,72790.0
+F45,Castlerea,12,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,94129.0
+F45,Castlerea,12,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,71098.0
+F45,Castlerea,12,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,57500.0
+F45,Castlerea,12,2015,New,All Buyer Types,164575.0
+F45,Castlerea,12,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,12,2015,New,Household Buyer - Former Owner-Occupier,164575.0
+F45,Castlerea,12,2015,New,Household Buyer - Non-Occupier,
+F45,Castlerea,12,2015,Existing,All Buyer Types,69730.0
+F45,Castlerea,12,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,94129.0
+F45,Castlerea,12,2015,Existing,Household Buyer - Former Owner-Occupier,64867.0
+F45,Castlerea,12,2015,Existing,Household Buyer - Non-Occupier,57500.0
+F45,Castlerea,1,2016,All Dwelling Statuses,All Buyer Types,69656.0
+F45,Castlerea,1,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,62667.0
+F45,Castlerea,1,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,72165.0
+F45,Castlerea,1,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,69250.0
+F45,Castlerea,1,2016,New,All Buyer Types,73000.0
+F45,Castlerea,1,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,1,2016,New,Household Buyer - Former Owner-Occupier,73000.0
+F45,Castlerea,1,2016,New,Household Buyer - Non-Occupier,
+F45,Castlerea,1,2016,Existing,All Buyer Types,69433.0
+F45,Castlerea,1,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,62667.0
+F45,Castlerea,1,2016,Existing,Household Buyer - Former Owner-Occupier,72061.0
+F45,Castlerea,1,2016,Existing,Household Buyer - Non-Occupier,69250.0
+F45,Castlerea,2,2016,All Dwelling Statuses,All Buyer Types,93028.0
+F45,Castlerea,2,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,103346.0
+F45,Castlerea,2,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,97755.0
+F45,Castlerea,2,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,58500.0
+F45,Castlerea,2,2016,New,All Buyer Types,73764.0
+F45,Castlerea,2,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,51728.0
+F45,Castlerea,2,2016,New,Household Buyer - Former Owner-Occupier,95800.0
+F45,Castlerea,2,2016,New,Household Buyer - Non-Occupier,
+F45,Castlerea,2,2016,Existing,All Buyer Types,95294.0
+F45,Castlerea,2,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,116250.0
+F45,Castlerea,2,2016,Existing,Household Buyer - Former Owner-Occupier,97950.0
+F45,Castlerea,2,2016,Existing,Household Buyer - Non-Occupier,58500.0
+F45,Castlerea,3,2016,All Dwelling Statuses,All Buyer Types,67362.0
+F45,Castlerea,3,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,77441.0
+F45,Castlerea,3,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,59000.0
+F45,Castlerea,3,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,63125.0
+F45,Castlerea,3,2016,New,All Buyer Types,94205.0
+F45,Castlerea,3,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,94205.0
+F45,Castlerea,3,2016,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,3,2016,New,Household Buyer - Non-Occupier,
+F45,Castlerea,3,2016,Existing,All Buyer Types,65125.0
+F45,Castlerea,3,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,73250.0
+F45,Castlerea,3,2016,Existing,Household Buyer - Former Owner-Occupier,59000.0
+F45,Castlerea,3,2016,Existing,Household Buyer - Non-Occupier,63125.0
+F45,Castlerea,4,2016,All Dwelling Statuses,All Buyer Types,71097.0
+F45,Castlerea,4,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+F45,Castlerea,4,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,76773.0
+F45,Castlerea,4,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,53375.0
+F45,Castlerea,4,2016,New,All Buyer Types,
+F45,Castlerea,4,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,4,2016,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,4,2016,New,Household Buyer - Non-Occupier,
+F45,Castlerea,4,2016,Existing,All Buyer Types,71097.0
+F45,Castlerea,4,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+F45,Castlerea,4,2016,Existing,Household Buyer - Former Owner-Occupier,76773.0
+F45,Castlerea,4,2016,Existing,Household Buyer - Non-Occupier,53375.0
+F45,Castlerea,5,2016,All Dwelling Statuses,All Buyer Types,60200.0
+F45,Castlerea,5,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,37667.0
+F45,Castlerea,5,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,72000.0
+F45,Castlerea,5,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,35533.0
+F45,Castlerea,5,2016,New,All Buyer Types,
+F45,Castlerea,5,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,5,2016,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,5,2016,New,Household Buyer - Non-Occupier,
+F45,Castlerea,5,2016,Existing,All Buyer Types,60200.0
+F45,Castlerea,5,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,37667.0
+F45,Castlerea,5,2016,Existing,Household Buyer - Former Owner-Occupier,72000.0
+F45,Castlerea,5,2016,Existing,Household Buyer - Non-Occupier,35533.0
+F45,Castlerea,6,2016,All Dwelling Statuses,All Buyer Types,64480.0
+F45,Castlerea,6,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,6,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,62950.0
+F45,Castlerea,6,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,65500.0
+F45,Castlerea,6,2016,New,All Buyer Types,136200.0
+F45,Castlerea,6,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,6,2016,New,Household Buyer - Former Owner-Occupier,136200.0
+F45,Castlerea,6,2016,New,Household Buyer - Non-Occupier,
+F45,Castlerea,6,2016,Existing,All Buyer Types,59357.0
+F45,Castlerea,6,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,6,2016,Existing,Household Buyer - Former Owner-Occupier,48300.0
+F45,Castlerea,6,2016,Existing,Household Buyer - Non-Occupier,65500.0
+F45,Castlerea,7,2016,All Dwelling Statuses,All Buyer Types,67180.0
+F45,Castlerea,7,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+F45,Castlerea,7,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,76591.0
+F45,Castlerea,7,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,43939.0
+F45,Castlerea,7,2016,New,All Buyer Types,37455.0
+F45,Castlerea,7,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,7,2016,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,7,2016,New,Household Buyer - Non-Occupier,37455.0
+F45,Castlerea,7,2016,Existing,All Buyer Types,68595.0
+F45,Castlerea,7,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+F45,Castlerea,7,2016,Existing,Household Buyer - Former Owner-Occupier,76591.0
+F45,Castlerea,7,2016,Existing,Household Buyer - Non-Occupier,44750.0
+F45,Castlerea,8,2016,All Dwelling Statuses,All Buyer Types,52138.0
+F45,Castlerea,8,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,46500.0
+F45,Castlerea,8,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,48643.0
+F45,Castlerea,8,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,77000.0
+F45,Castlerea,8,2016,New,All Buyer Types,61688.0
+F45,Castlerea,8,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,8,2016,New,Household Buyer - Former Owner-Occupier,28375.0
+F45,Castlerea,8,2016,New,Household Buyer - Non-Occupier,95000.0
+F45,Castlerea,8,2016,Existing,All Buyer Types,50669.0
+F45,Castlerea,8,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,46500.0
+F45,Castlerea,8,2016,Existing,Household Buyer - Former Owner-Occupier,50670.0
+F45,Castlerea,8,2016,Existing,Household Buyer - Non-Occupier,59000.0
+F45,Castlerea,9,2016,All Dwelling Statuses,All Buyer Types,86106.0
+F45,Castlerea,9,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,87017.0
+F45,Castlerea,9,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,88791.0
+F45,Castlerea,9,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,35000.0
+F45,Castlerea,9,2016,New,All Buyer Types,73775.0
+F45,Castlerea,9,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,68100.0
+F45,Castlerea,9,2016,New,Household Buyer - Former Owner-Occupier,79450.0
+F45,Castlerea,9,2016,New,Household Buyer - Non-Occupier,
+F45,Castlerea,9,2016,Existing,All Buyer Types,87227.0
+F45,Castlerea,9,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,90800.0
+F45,Castlerea,9,2016,Existing,Household Buyer - Former Owner-Occupier,89375.0
+F45,Castlerea,9,2016,Existing,Household Buyer - Non-Occupier,35000.0
+F45,Castlerea,10,2016,All Dwelling Statuses,All Buyer Types,71850.0
+F45,Castlerea,10,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,78485.0
+F45,Castlerea,10,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,71764.0
+F45,Castlerea,10,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,63750.0
+F45,Castlerea,10,2016,New,All Buyer Types,105933.0
+F45,Castlerea,10,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,62425.0
+F45,Castlerea,10,2016,New,Household Buyer - Former Owner-Occupier,127688.0
+F45,Castlerea,10,2016,New,Household Buyer - Non-Occupier,
+F45,Castlerea,10,2016,Existing,All Buyer Types,65033.0
+F45,Castlerea,10,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,82500.0
+F45,Castlerea,10,2016,Existing,Household Buyer - Former Owner-Occupier,55786.0
+F45,Castlerea,10,2016,Existing,Household Buyer - Non-Occupier,63750.0
+F45,Castlerea,11,2016,All Dwelling Statuses,All Buyer Types,75476.0
+F45,Castlerea,11,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,105214.0
+F45,Castlerea,11,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,69954.0
+F45,Castlerea,11,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,48200.0
+F45,Castlerea,11,2016,New,All Buyer Types,70000.0
+F45,Castlerea,11,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,11,2016,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,11,2016,New,Household Buyer - Non-Occupier,70000.0
+F45,Castlerea,11,2016,Existing,All Buyer Types,75704.0
+F45,Castlerea,11,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,105214.0
+F45,Castlerea,11,2016,Existing,Household Buyer - Former Owner-Occupier,69954.0
+F45,Castlerea,11,2016,Existing,Household Buyer - Non-Occupier,42750.0
+F45,Castlerea,12,2016,All Dwelling Statuses,All Buyer Types,73035.0
+F45,Castlerea,12,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,99400.0
+F45,Castlerea,12,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,65171.0
+F45,Castlerea,12,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,74250.0
+F45,Castlerea,12,2016,New,All Buyer Types,66263.0
+F45,Castlerea,12,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,55000.0
+F45,Castlerea,12,2016,New,Household Buyer - Former Owner-Occupier,68515.0
+F45,Castlerea,12,2016,New,Household Buyer - Non-Occupier,
+F45,Castlerea,12,2016,Existing,All Buyer Types,74660.0
+F45,Castlerea,12,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,110500.0
+F45,Castlerea,12,2016,Existing,Household Buyer - Former Owner-Occupier,63885.0
+F45,Castlerea,12,2016,Existing,Household Buyer - Non-Occupier,74250.0
+F45,Castlerea,1,2017,All Dwelling Statuses,All Buyer Types,63947.0
+F45,Castlerea,1,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,1,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,53152.0
+F45,Castlerea,1,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,74742.0
+F45,Castlerea,1,2017,New,All Buyer Types,95340.0
+F45,Castlerea,1,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,1,2017,New,Household Buyer - Former Owner-Occupier,37455.0
+F45,Castlerea,1,2017,New,Household Buyer - Non-Occupier,153225.0
+F45,Castlerea,1,2017,Existing,All Buyer Types,48250.0
+F45,Castlerea,1,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,1,2017,Existing,Household Buyer - Former Owner-Occupier,61000.0
+F45,Castlerea,1,2017,Existing,Household Buyer - Non-Occupier,35500.0
+F45,Castlerea,2,2017,All Dwelling Statuses,All Buyer Types,70069.0
+F45,Castlerea,2,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,78765.0
+F45,Castlerea,2,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,73600.0
+F45,Castlerea,2,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,39500.0
+F45,Castlerea,2,2017,New,All Buyer Types,107825.0
+F45,Castlerea,2,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,107825.0
+F45,Castlerea,2,2017,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,2,2017,New,Household Buyer - Non-Occupier,
+F45,Castlerea,2,2017,Existing,All Buyer Types,66636.0
+F45,Castlerea,2,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,71500.0
+F45,Castlerea,2,2017,Existing,Household Buyer - Former Owner-Occupier,73600.0
+F45,Castlerea,2,2017,Existing,Household Buyer - Non-Occupier,39500.0
+F45,Castlerea,3,2017,All Dwelling Statuses,All Buyer Types,60033.0
+F45,Castlerea,3,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,3,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,64250.0
+F45,Castlerea,3,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,51600.0
+F45,Castlerea,3,2017,New,All Buyer Types,
+F45,Castlerea,3,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,3,2017,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,3,2017,New,Household Buyer - Non-Occupier,
+F45,Castlerea,3,2017,Existing,All Buyer Types,60033.0
+F45,Castlerea,3,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,3,2017,Existing,Household Buyer - Former Owner-Occupier,64250.0
+F45,Castlerea,3,2017,Existing,Household Buyer - Non-Occupier,51600.0
+F45,Castlerea,4,2017,All Dwelling Statuses,All Buyer Types,58333.0
+F45,Castlerea,4,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,75000.0
+F45,Castlerea,4,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,51000.0
+F45,Castlerea,4,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,61500.0
+F45,Castlerea,4,2017,New,All Buyer Types,
+F45,Castlerea,4,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,4,2017,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,4,2017,New,Household Buyer - Non-Occupier,
+F45,Castlerea,4,2017,Existing,All Buyer Types,58333.0
+F45,Castlerea,4,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,75000.0
+F45,Castlerea,4,2017,Existing,Household Buyer - Former Owner-Occupier,51000.0
+F45,Castlerea,4,2017,Existing,Household Buyer - Non-Occupier,61500.0
+F45,Castlerea,5,2017,All Dwelling Statuses,All Buyer Types,59000.0
+F45,Castlerea,5,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,45000.0
+F45,Castlerea,5,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,70000.0
+F45,Castlerea,5,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,54250.0
+F45,Castlerea,5,2017,New,All Buyer Types,65667.0
+F45,Castlerea,5,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,5,2017,New,Household Buyer - Former Owner-Occupier,73000.0
+F45,Castlerea,5,2017,New,Household Buyer - Non-Occupier,51000.0
+F45,Castlerea,5,2017,Existing,All Buyer Types,55000.0
+F45,Castlerea,5,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,45000.0
+F45,Castlerea,5,2017,Existing,Household Buyer - Former Owner-Occupier,64000.0
+F45,Castlerea,5,2017,Existing,Household Buyer - Non-Occupier,55333.0
+F45,Castlerea,6,2017,All Dwelling Statuses,All Buyer Types,81850.0
+F45,Castlerea,6,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,85000.0
+F45,Castlerea,6,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,82200.0
+F45,Castlerea,6,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,76250.0
+F45,Castlerea,6,2017,New,All Buyer Types,
+F45,Castlerea,6,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,6,2017,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,6,2017,New,Household Buyer - Non-Occupier,
+F45,Castlerea,6,2017,Existing,All Buyer Types,81850.0
+F45,Castlerea,6,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,85000.0
+F45,Castlerea,6,2017,Existing,Household Buyer - Former Owner-Occupier,82200.0
+F45,Castlerea,6,2017,Existing,Household Buyer - Non-Occupier,76250.0
+F45,Castlerea,7,2017,All Dwelling Statuses,All Buyer Types,88247.0
+F45,Castlerea,7,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,106909.0
+F45,Castlerea,7,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,100400.0
+F45,Castlerea,7,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,53700.0
+F45,Castlerea,7,2017,New,All Buyer Types,85976.0
+F45,Castlerea,7,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,85976.0
+F45,Castlerea,7,2017,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,7,2017,New,Household Buyer - Non-Occupier,
+F45,Castlerea,7,2017,Existing,All Buyer Types,88571.0
+F45,Castlerea,7,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,117375.0
+F45,Castlerea,7,2017,Existing,Household Buyer - Former Owner-Occupier,100400.0
+F45,Castlerea,7,2017,Existing,Household Buyer - Non-Occupier,53700.0
+F45,Castlerea,8,2017,All Dwelling Statuses,All Buyer Types,98280.0
+F45,Castlerea,8,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100286.0
+F45,Castlerea,8,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,105110.0
+F45,Castlerea,8,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,64000.0
+F45,Castlerea,8,2017,New,All Buyer Types,111660.0
+F45,Castlerea,8,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,115999.0
+F45,Castlerea,8,2017,New,Household Buyer - Former Owner-Occupier,109491.0
+F45,Castlerea,8,2017,New,Household Buyer - Non-Occupier,
+F45,Castlerea,8,2017,Existing,All Buyer Types,96273.0
+F45,Castlerea,8,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,97667.0
+F45,Castlerea,8,2017,Existing,Household Buyer - Former Owner-Occupier,104314.0
+F45,Castlerea,8,2017,Existing,Household Buyer - Non-Occupier,64000.0
+F45,Castlerea,9,2017,All Dwelling Statuses,All Buyer Types,67816.0
+F45,Castlerea,9,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,85505.0
+F45,Castlerea,9,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,74450.0
+F45,Castlerea,9,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,54917.0
+F45,Castlerea,9,2017,New,All Buyer Types,117562.0
+F45,Castlerea,9,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,117562.0
+F45,Castlerea,9,2017,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,9,2017,New,Household Buyer - Non-Occupier,
+F45,Castlerea,9,2017,Existing,All Buyer Types,63836.0
+F45,Castlerea,9,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,64133.0
+F45,Castlerea,9,2017,Existing,Household Buyer - Former Owner-Occupier,74450.0
+F45,Castlerea,9,2017,Existing,Household Buyer - Non-Occupier,54917.0
+F45,Castlerea,10,2017,All Dwelling Statuses,All Buyer Types,86559.0
+F45,Castlerea,10,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,122500.0
+F45,Castlerea,10,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,83227.0
+F45,Castlerea,10,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,77750.0
+F45,Castlerea,10,2017,New,All Buyer Types,
+F45,Castlerea,10,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,10,2017,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,10,2017,New,Household Buyer - Non-Occupier,
+F45,Castlerea,10,2017,Existing,All Buyer Types,86559.0
+F45,Castlerea,10,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,122500.0
+F45,Castlerea,10,2017,Existing,Household Buyer - Former Owner-Occupier,83227.0
+F45,Castlerea,10,2017,Existing,Household Buyer - Non-Occupier,77750.0
+F45,Castlerea,11,2017,All Dwelling Statuses,All Buyer Types,74311.0
+F45,Castlerea,11,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,54250.0
+F45,Castlerea,11,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,83464.0
+F45,Castlerea,11,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,44967.0
+F45,Castlerea,11,2017,New,All Buyer Types,
+F45,Castlerea,11,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,11,2017,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,11,2017,New,Household Buyer - Non-Occupier,
+F45,Castlerea,11,2017,Existing,All Buyer Types,74311.0
+F45,Castlerea,11,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,54250.0
+F45,Castlerea,11,2017,Existing,Household Buyer - Former Owner-Occupier,83464.0
+F45,Castlerea,11,2017,Existing,Household Buyer - Non-Occupier,44967.0
+F45,Castlerea,12,2017,All Dwelling Statuses,All Buyer Types,67319.0
+F45,Castlerea,12,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,64540.0
+F45,Castlerea,12,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,76500.0
+F45,Castlerea,12,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,43071.0
+F45,Castlerea,12,2017,New,All Buyer Types,170000.0
+F45,Castlerea,12,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,12,2017,New,Household Buyer - Former Owner-Occupier,170000.0
+F45,Castlerea,12,2017,New,Household Buyer - Non-Occupier,
+F45,Castlerea,12,2017,Existing,All Buyer Types,64006.0
+F45,Castlerea,12,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,64540.0
+F45,Castlerea,12,2017,Existing,Household Buyer - Former Owner-Occupier,71579.0
+F45,Castlerea,12,2017,Existing,Household Buyer - Non-Occupier,43071.0
+F45,Castlerea,1,2018,All Dwelling Statuses,All Buyer Types,70703.0
+F45,Castlerea,1,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,119175.0
+F45,Castlerea,1,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,80200.0
+F45,Castlerea,1,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,57521.0
+F45,Castlerea,1,2018,New,All Buyer Types,119175.0
+F45,Castlerea,1,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,119175.0
+F45,Castlerea,1,2018,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,1,2018,New,Household Buyer - Non-Occupier,
+F45,Castlerea,1,2018,Existing,All Buyer Types,67240.0
+F45,Castlerea,1,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,1,2018,Existing,Household Buyer - Former Owner-Occupier,80200.0
+F45,Castlerea,1,2018,Existing,Household Buyer - Non-Occupier,57521.0
+F45,Castlerea,2,2018,All Dwelling Statuses,All Buyer Types,59500.0
+F45,Castlerea,2,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,2,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,66750.0
+F45,Castlerea,2,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,52250.0
+F45,Castlerea,2,2018,New,All Buyer Types,
+F45,Castlerea,2,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,2,2018,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,2,2018,New,Household Buyer - Non-Occupier,
+F45,Castlerea,2,2018,Existing,All Buyer Types,59500.0
+F45,Castlerea,2,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,2,2018,Existing,Household Buyer - Former Owner-Occupier,66750.0
+F45,Castlerea,2,2018,Existing,Household Buyer - Non-Occupier,52250.0
+F45,Castlerea,3,2018,All Dwelling Statuses,All Buyer Types,90223.0
+F45,Castlerea,3,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,83000.0
+F45,Castlerea,3,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,106322.0
+F45,Castlerea,3,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,44333.0
+F45,Castlerea,3,2018,New,All Buyer Types,101400.0
+F45,Castlerea,3,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,3,2018,New,Household Buyer - Former Owner-Occupier,101400.0
+F45,Castlerea,3,2018,New,Household Buyer - Non-Occupier,
+F45,Castlerea,3,2018,Existing,All Buyer Types,89292.0
+F45,Castlerea,3,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,83000.0
+F45,Castlerea,3,2018,Existing,Household Buyer - Former Owner-Occupier,106938.0
+F45,Castlerea,3,2018,Existing,Household Buyer - Non-Occupier,44333.0
+F45,Castlerea,4,2018,All Dwelling Statuses,All Buyer Types,80667.0
+F45,Castlerea,4,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,81750.0
+F45,Castlerea,4,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,97350.0
+F45,Castlerea,4,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,63550.0
+F45,Castlerea,4,2018,New,All Buyer Types,
+F45,Castlerea,4,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,4,2018,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,4,2018,New,Household Buyer - Non-Occupier,
+F45,Castlerea,4,2018,Existing,All Buyer Types,80667.0
+F45,Castlerea,4,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,81750.0
+F45,Castlerea,4,2018,Existing,Household Buyer - Former Owner-Occupier,97350.0
+F45,Castlerea,4,2018,Existing,Household Buyer - Non-Occupier,63550.0
+F45,Castlerea,5,2018,All Dwelling Statuses,All Buyer Types,74601.0
+F45,Castlerea,5,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,79935.0
+F45,Castlerea,5,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,82770.0
+F45,Castlerea,5,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,53286.0
+F45,Castlerea,5,2018,New,All Buyer Types,134775.0
+F45,Castlerea,5,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,127675.0
+F45,Castlerea,5,2018,New,Household Buyer - Former Owner-Occupier,141875.0
+F45,Castlerea,5,2018,New,Household Buyer - Non-Occupier,
+F45,Castlerea,5,2018,Existing,All Buyer Types,69787.0
+F45,Castlerea,5,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,68000.0
+F45,Castlerea,5,2018,Existing,Household Buyer - Former Owner-Occupier,78548.0
+F45,Castlerea,5,2018,Existing,Household Buyer - Non-Occupier,53286.0
+F45,Castlerea,6,2018,All Dwelling Statuses,All Buyer Types,76850.0
+F45,Castlerea,6,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,141875.0
+F45,Castlerea,6,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,80041.0
+F45,Castlerea,6,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,46667.0
+F45,Castlerea,6,2018,New,All Buyer Types,98102.0
+F45,Castlerea,6,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,141875.0
+F45,Castlerea,6,2018,New,Household Buyer - Former Owner-Occupier,76215.0
+F45,Castlerea,6,2018,New,Household Buyer - Non-Occupier,
+F45,Castlerea,6,2018,Existing,All Buyer Types,69767.0
+F45,Castlerea,6,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,6,2018,Existing,Household Buyer - Former Owner-Occupier,81317.0
+F45,Castlerea,6,2018,Existing,Household Buyer - Non-Occupier,46667.0
+F45,Castlerea,7,2018,All Dwelling Statuses,All Buyer Types,79250.0
+F45,Castlerea,7,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,118714.0
+F45,Castlerea,7,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,60222.0
+F45,Castlerea,7,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,53000.0
+F45,Castlerea,7,2018,New,All Buyer Types,
+F45,Castlerea,7,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,7,2018,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,7,2018,New,Household Buyer - Non-Occupier,
+F45,Castlerea,7,2018,Existing,All Buyer Types,79250.0
+F45,Castlerea,7,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,118714.0
+F45,Castlerea,7,2018,Existing,Household Buyer - Former Owner-Occupier,60222.0
+F45,Castlerea,7,2018,Existing,Household Buyer - Non-Occupier,53000.0
+F45,Castlerea,8,2018,All Dwelling Statuses,All Buyer Types,77405.0
+F45,Castlerea,8,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,70833.0
+F45,Castlerea,8,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,96455.0
+F45,Castlerea,8,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,50286.0
+F45,Castlerea,8,2018,New,All Buyer Types,
+F45,Castlerea,8,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,8,2018,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,8,2018,New,Household Buyer - Non-Occupier,
+F45,Castlerea,8,2018,Existing,All Buyer Types,77405.0
+F45,Castlerea,8,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,70833.0
+F45,Castlerea,8,2018,Existing,Household Buyer - Former Owner-Occupier,96455.0
+F45,Castlerea,8,2018,Existing,Household Buyer - Non-Occupier,50286.0
+F45,Castlerea,9,2018,All Dwelling Statuses,All Buyer Types,94563.0
+F45,Castlerea,9,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,76000.0
+F45,Castlerea,9,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,107469.0
+F45,Castlerea,9,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,56667.0
+F45,Castlerea,9,2018,New,All Buyer Types,
+F45,Castlerea,9,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,9,2018,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,9,2018,New,Household Buyer - Non-Occupier,
+F45,Castlerea,9,2018,Existing,All Buyer Types,94563.0
+F45,Castlerea,9,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,76000.0
+F45,Castlerea,9,2018,Existing,Household Buyer - Former Owner-Occupier,107469.0
+F45,Castlerea,9,2018,Existing,Household Buyer - Non-Occupier,56667.0
+F45,Castlerea,10,2018,All Dwelling Statuses,All Buyer Types,91742.0
+F45,Castlerea,10,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,101069.0
+F45,Castlerea,10,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,87938.0
+F45,Castlerea,10,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,78000.0
+F45,Castlerea,10,2018,New,All Buyer Types,113500.0
+F45,Castlerea,10,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,10,2018,New,Household Buyer - Former Owner-Occupier,113500.0
+F45,Castlerea,10,2018,New,Household Buyer - Non-Occupier,
+F45,Castlerea,10,2018,Existing,All Buyer Types,90835.0
+F45,Castlerea,10,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,101069.0
+F45,Castlerea,10,2018,Existing,Household Buyer - Former Owner-Occupier,86233.0
+F45,Castlerea,10,2018,Existing,Household Buyer - Non-Occupier,78000.0
+F45,Castlerea,11,2018,All Dwelling Statuses,All Buyer Types,94051.0
+F45,Castlerea,11,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,117821.0
+F45,Castlerea,11,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,107500.0
+F45,Castlerea,11,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,50200.0
+F45,Castlerea,11,2018,New,All Buyer Types,
+F45,Castlerea,11,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,11,2018,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,11,2018,New,Household Buyer - Non-Occupier,
+F45,Castlerea,11,2018,Existing,All Buyer Types,94051.0
+F45,Castlerea,11,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,117821.0
+F45,Castlerea,11,2018,Existing,Household Buyer - Former Owner-Occupier,107500.0
+F45,Castlerea,11,2018,Existing,Household Buyer - Non-Occupier,50200.0
+F45,Castlerea,12,2018,All Dwelling Statuses,All Buyer Types,86652.0
+F45,Castlerea,12,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,134250.0
+F45,Castlerea,12,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,78533.0
+F45,Castlerea,12,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,69500.0
+F45,Castlerea,12,2018,New,All Buyer Types,
+F45,Castlerea,12,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,12,2018,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,12,2018,New,Household Buyer - Non-Occupier,
+F45,Castlerea,12,2018,Existing,All Buyer Types,86652.0
+F45,Castlerea,12,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,134250.0
+F45,Castlerea,12,2018,Existing,Household Buyer - Former Owner-Occupier,78533.0
+F45,Castlerea,12,2018,Existing,Household Buyer - Non-Occupier,69500.0
+F45,Castlerea,1,2019,All Dwelling Statuses,All Buyer Types,77000.0
+F45,Castlerea,1,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,61667.0
+F45,Castlerea,1,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,88500.0
+F45,Castlerea,1,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,59750.0
+F45,Castlerea,1,2019,New,All Buyer Types,
+F45,Castlerea,1,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,1,2019,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,1,2019,New,Household Buyer - Non-Occupier,
+F45,Castlerea,1,2019,Existing,All Buyer Types,77000.0
+F45,Castlerea,1,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,61667.0
+F45,Castlerea,1,2019,Existing,Household Buyer - Former Owner-Occupier,88500.0
+F45,Castlerea,1,2019,Existing,Household Buyer - Non-Occupier,59750.0
+F45,Castlerea,2,2019,All Dwelling Statuses,All Buyer Types,82925.0
+F45,Castlerea,2,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,121400.0
+F45,Castlerea,2,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,76233.0
+F45,Castlerea,2,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,43333.0
+F45,Castlerea,2,2019,New,All Buyer Types,
+F45,Castlerea,2,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,2,2019,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,2,2019,New,Household Buyer - Non-Occupier,
+F45,Castlerea,2,2019,Existing,All Buyer Types,82925.0
+F45,Castlerea,2,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,121400.0
+F45,Castlerea,2,2019,Existing,Household Buyer - Former Owner-Occupier,76233.0
+F45,Castlerea,2,2019,Existing,Household Buyer - Non-Occupier,43333.0
+F45,Castlerea,3,2019,All Dwelling Statuses,All Buyer Types,85296.0
+F45,Castlerea,3,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,90500.0
+F45,Castlerea,3,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,84856.0
+F45,Castlerea,3,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,81000.0
+F45,Castlerea,3,2019,New,All Buyer Types,
+F45,Castlerea,3,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,3,2019,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,3,2019,New,Household Buyer - Non-Occupier,
+F45,Castlerea,3,2019,Existing,All Buyer Types,85296.0
+F45,Castlerea,3,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,90500.0
+F45,Castlerea,3,2019,Existing,Household Buyer - Former Owner-Occupier,84856.0
+F45,Castlerea,3,2019,Existing,Household Buyer - Non-Occupier,81000.0
+F45,Castlerea,4,2019,All Dwelling Statuses,All Buyer Types,93625.0
+F45,Castlerea,4,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,103800.0
+F45,Castlerea,4,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,99143.0
+F45,Castlerea,4,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,71250.0
+F45,Castlerea,4,2019,New,All Buyer Types,
+F45,Castlerea,4,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,4,2019,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,4,2019,New,Household Buyer - Non-Occupier,
+F45,Castlerea,4,2019,Existing,All Buyer Types,93625.0
+F45,Castlerea,4,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,103800.0
+F45,Castlerea,4,2019,Existing,Household Buyer - Former Owner-Occupier,99143.0
+F45,Castlerea,4,2019,Existing,Household Buyer - Non-Occupier,71250.0
+F45,Castlerea,5,2019,All Dwelling Statuses,All Buyer Types,105058.0
+F45,Castlerea,5,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,91935.0
+F45,Castlerea,5,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,111131.0
+F45,Castlerea,5,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,60000.0
+F45,Castlerea,5,2019,New,All Buyer Types,122580.0
+F45,Castlerea,5,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,91935.0
+F45,Castlerea,5,2019,New,Household Buyer - Former Owner-Occupier,153225.0
+F45,Castlerea,5,2019,New,Household Buyer - Non-Occupier,
+F45,Castlerea,5,2019,Existing,All Buyer Types,103111.0
+F45,Castlerea,5,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,5,2019,Existing,Household Buyer - Former Owner-Occupier,108500.0
+F45,Castlerea,5,2019,Existing,Household Buyer - Non-Occupier,60000.0
+F45,Castlerea,6,2019,All Dwelling Statuses,All Buyer Types,71200.0
+F45,Castlerea,6,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,68750.0
+F45,Castlerea,6,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,69000.0
+F45,Castlerea,6,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,74667.0
+F45,Castlerea,6,2019,New,All Buyer Types,
+F45,Castlerea,6,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,6,2019,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,6,2019,New,Household Buyer - Non-Occupier,
+F45,Castlerea,6,2019,Existing,All Buyer Types,71200.0
+F45,Castlerea,6,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,68750.0
+F45,Castlerea,6,2019,Existing,Household Buyer - Former Owner-Occupier,69000.0
+F45,Castlerea,6,2019,Existing,Household Buyer - Non-Occupier,74667.0
+F45,Castlerea,7,2019,All Dwelling Statuses,All Buyer Types,102865.0
+F45,Castlerea,7,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,95797.0
+F45,Castlerea,7,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,113125.0
+F45,Castlerea,7,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,80329.0
+F45,Castlerea,7,2019,New,All Buyer Types,160603.0
+F45,Castlerea,7,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,143578.0
+F45,Castlerea,7,2019,New,Household Buyer - Former Owner-Occupier,128255.0
+F45,Castlerea,7,2019,New,Household Buyer - Non-Occupier,209975.0
+F45,Castlerea,7,2019,Existing,All Buyer Types,96679.0
+F45,Castlerea,7,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,87833.0
+F45,Castlerea,7,2019,Existing,Household Buyer - Former Owner-Occupier,112235.0
+F45,Castlerea,7,2019,Existing,Household Buyer - Non-Occupier,54400.0
+F45,Castlerea,8,2019,All Dwelling Statuses,All Buyer Types,103375.0
+F45,Castlerea,8,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,129500.0
+F45,Castlerea,8,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,105000.0
+F45,Castlerea,8,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,64250.0
+F45,Castlerea,8,2019,New,All Buyer Types,
+F45,Castlerea,8,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,8,2019,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,8,2019,New,Household Buyer - Non-Occupier,
+F45,Castlerea,8,2019,Existing,All Buyer Types,103375.0
+F45,Castlerea,8,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,129500.0
+F45,Castlerea,8,2019,Existing,Household Buyer - Former Owner-Occupier,105000.0
+F45,Castlerea,8,2019,Existing,Household Buyer - Non-Occupier,64250.0
+F45,Castlerea,9,2019,All Dwelling Statuses,All Buyer Types,126232.0
+F45,Castlerea,9,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,162624.0
+F45,Castlerea,9,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,121650.0
+F45,Castlerea,9,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,74000.0
+F45,Castlerea,9,2019,New,All Buyer Types,106750.0
+F45,Castlerea,9,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,106750.0
+F45,Castlerea,9,2019,New,Household Buyer - Former Owner-Occupier,106750.0
+F45,Castlerea,9,2019,New,Household Buyer - Non-Occupier,
+F45,Castlerea,9,2019,Existing,All Buyer Types,130816.0
+F45,Castlerea,9,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,184974.0
+F45,Castlerea,9,2019,Existing,Household Buyer - Former Owner-Occupier,125375.0
+F45,Castlerea,9,2019,Existing,Household Buyer - Non-Occupier,74000.0
+F45,Castlerea,10,2019,All Dwelling Statuses,All Buyer Types,88061.0
+F45,Castlerea,10,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,92250.0
+F45,Castlerea,10,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,97071.0
+F45,Castlerea,10,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,59480.0
+F45,Castlerea,10,2019,New,All Buyer Types,98249.0
+F45,Castlerea,10,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,10,2019,New,Household Buyer - Former Owner-Occupier,98249.0
+F45,Castlerea,10,2019,New,Household Buyer - Non-Occupier,
+F45,Castlerea,10,2019,Existing,All Buyer Types,87090.0
+F45,Castlerea,10,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,92250.0
+F45,Castlerea,10,2019,Existing,Household Buyer - Former Owner-Occupier,96875.0
+F45,Castlerea,10,2019,Existing,Household Buyer - Non-Occupier,59480.0
+F45,Castlerea,11,2019,All Dwelling Statuses,All Buyer Types,65500.0
+F45,Castlerea,11,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,11,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,73286.0
+F45,Castlerea,11,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,47333.0
+F45,Castlerea,11,2019,New,All Buyer Types,
+F45,Castlerea,11,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,11,2019,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,11,2019,New,Household Buyer - Non-Occupier,
+F45,Castlerea,11,2019,Existing,All Buyer Types,65500.0
+F45,Castlerea,11,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,11,2019,Existing,Household Buyer - Former Owner-Occupier,73286.0
+F45,Castlerea,11,2019,Existing,Household Buyer - Non-Occupier,47333.0
+F45,Castlerea,12,2019,All Dwelling Statuses,All Buyer Types,75285.0
+F45,Castlerea,12,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,90736.0
+F45,Castlerea,12,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,83029.0
+F45,Castlerea,12,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,49857.0
+F45,Castlerea,12,2019,New,All Buyer Types,73208.0
+F45,Castlerea,12,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,73208.0
+F45,Castlerea,12,2019,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,12,2019,New,Household Buyer - Non-Occupier,
+F45,Castlerea,12,2019,Existing,All Buyer Types,75365.0
+F45,Castlerea,12,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,99500.0
+F45,Castlerea,12,2019,Existing,Household Buyer - Former Owner-Occupier,83029.0
+F45,Castlerea,12,2019,Existing,Household Buyer - Non-Occupier,49857.0
+F45,Castlerea,1,2020,All Dwelling Statuses,All Buyer Types,93608.0
+F45,Castlerea,1,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,1,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,102136.0
+F45,Castlerea,1,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,62338.0
+F45,Castlerea,1,2020,New,All Buyer Types,101015.0
+F45,Castlerea,1,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,1,2020,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,1,2020,New,Household Buyer - Non-Occupier,101015.0
+F45,Castlerea,1,2020,Existing,All Buyer Types,93038.0
+F45,Castlerea,1,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,1,2020,Existing,Household Buyer - Former Owner-Occupier,102136.0
+F45,Castlerea,1,2020,Existing,Household Buyer - Non-Occupier,43000.0
+F45,Castlerea,2,2020,All Dwelling Statuses,All Buyer Types,68304.0
+F45,Castlerea,2,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,88000.0
+F45,Castlerea,2,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,66300.0
+F45,Castlerea,2,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,62500.0
+F45,Castlerea,2,2020,New,All Buyer Types,101250.0
+F45,Castlerea,2,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,89000.0
+F45,Castlerea,2,2020,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,2,2020,New,Household Buyer - Non-Occupier,113500.0
+F45,Castlerea,2,2020,Existing,All Buyer Types,65167.0
+F45,Castlerea,2,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,87500.0
+F45,Castlerea,2,2020,Existing,Household Buyer - Former Owner-Occupier,66300.0
+F45,Castlerea,2,2020,Existing,Household Buyer - Non-Occupier,49750.0
+F45,Castlerea,3,2020,All Dwelling Statuses,All Buyer Types,104395.0
+F45,Castlerea,3,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,96071.0
+F45,Castlerea,3,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,132778.0
+F45,Castlerea,3,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,38667.0
+F45,Castlerea,3,2020,New,All Buyer Types,161000.0
+F45,Castlerea,3,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,3,2020,New,Household Buyer - Former Owner-Occupier,197000.0
+F45,Castlerea,3,2020,New,Household Buyer - Non-Occupier,53000.0
+F45,Castlerea,3,2020,Existing,All Buyer Types,89300.0
+F45,Castlerea,3,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,96071.0
+F45,Castlerea,3,2020,Existing,Household Buyer - Former Owner-Occupier,100667.0
+F45,Castlerea,3,2020,Existing,Household Buyer - Non-Occupier,31500.0
+F45,Castlerea,4,2020,All Dwelling Statuses,All Buyer Types,95487.0
+F45,Castlerea,4,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,205375.0
+F45,Castlerea,4,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,89605.0
+F45,Castlerea,4,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,55250.0
+F45,Castlerea,4,2020,New,All Buyer Types,187098.0
+F45,Castlerea,4,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,371750.0
+F45,Castlerea,4,2020,New,Household Buyer - Former Owner-Occupier,94773.0
+F45,Castlerea,4,2020,New,Household Buyer - Non-Occupier,
+F45,Castlerea,4,2020,Existing,All Buyer Types,74346.0
+F45,Castlerea,4,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,39000.0
+F45,Castlerea,4,2020,Existing,Household Buyer - Former Owner-Occupier,88313.0
+F45,Castlerea,4,2020,Existing,Household Buyer - Non-Occupier,55250.0
+F45,Castlerea,5,2020,All Dwelling Statuses,All Buyer Types,82490.0
+F45,Castlerea,5,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,158500.0
+F45,Castlerea,5,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,73063.0
+F45,Castlerea,5,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,63400.0
+F45,Castlerea,5,2020,New,All Buyer Types,28375.0
+F45,Castlerea,5,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,5,2020,New,Household Buyer - Former Owner-Occupier,28375.0
+F45,Castlerea,5,2020,New,Household Buyer - Non-Occupier,
+F45,Castlerea,5,2020,Existing,All Buyer Types,87000.0
+F45,Castlerea,5,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,158500.0
+F45,Castlerea,5,2020,Existing,Household Buyer - Former Owner-Occupier,82000.0
+F45,Castlerea,5,2020,Existing,Household Buyer - Non-Occupier,63400.0
+F45,Castlerea,6,2020,All Dwelling Statuses,All Buyer Types,78714.0
+F45,Castlerea,6,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,80000.0
+F45,Castlerea,6,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,81000.0
+F45,Castlerea,6,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,50000.0
+F45,Castlerea,6,2020,New,All Buyer Types,
+F45,Castlerea,6,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,6,2020,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,6,2020,New,Household Buyer - Non-Occupier,
+F45,Castlerea,6,2020,Existing,All Buyer Types,78714.0
+F45,Castlerea,6,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,80000.0
+F45,Castlerea,6,2020,Existing,Household Buyer - Former Owner-Occupier,81000.0
+F45,Castlerea,6,2020,Existing,Household Buyer - Non-Occupier,50000.0
+F45,Castlerea,7,2020,All Dwelling Statuses,All Buyer Types,88874.0
+F45,Castlerea,7,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,217500.0
+F45,Castlerea,7,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,84181.0
+F45,Castlerea,7,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,56167.0
+F45,Castlerea,7,2020,New,All Buyer Types,238350.0
+F45,Castlerea,7,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,7,2020,New,Household Buyer - Former Owner-Occupier,238350.0
+F45,Castlerea,7,2020,New,Household Buyer - Non-Occupier,
+F45,Castlerea,7,2020,Existing,All Buyer Types,81400.0
+F45,Castlerea,7,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,217500.0
+F45,Castlerea,7,2020,Existing,Household Buyer - Former Owner-Occupier,71333.0
+F45,Castlerea,7,2020,Existing,Household Buyer - Non-Occupier,56167.0
+F45,Castlerea,8,2020,All Dwelling Statuses,All Buyer Types,85318.0
+F45,Castlerea,8,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,110875.0
+F45,Castlerea,8,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,83726.0
+F45,Castlerea,8,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,61750.0
+F45,Castlerea,8,2020,New,All Buyer Types,43130.0
+F45,Castlerea,8,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,8,2020,New,Household Buyer - Former Owner-Occupier,43130.0
+F45,Castlerea,8,2020,New,Household Buyer - Non-Occupier,
+F45,Castlerea,8,2020,Existing,All Buyer Types,88833.0
+F45,Castlerea,8,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,110875.0
+F45,Castlerea,8,2020,Existing,Household Buyer - Former Owner-Occupier,93875.0
+F45,Castlerea,8,2020,Existing,Household Buyer - Non-Occupier,61750.0
+F45,Castlerea,9,2020,All Dwelling Statuses,All Buyer Types,75934.0
+F45,Castlerea,9,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,82590.0
+F45,Castlerea,9,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,70250.0
+F45,Castlerea,9,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+F45,Castlerea,9,2020,New,All Buyer Types,136200.0
+F45,Castlerea,9,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,136200.0
+F45,Castlerea,9,2020,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,9,2020,New,Household Buyer - Non-Occupier,
+F45,Castlerea,9,2020,Existing,All Buyer Types,71917.0
+F45,Castlerea,9,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,69188.0
+F45,Castlerea,9,2020,Existing,Household Buyer - Former Owner-Occupier,70250.0
+F45,Castlerea,9,2020,Existing,Household Buyer - Non-Occupier,80000.0
+F45,Castlerea,10,2020,All Dwelling Statuses,All Buyer Types,110145.0
+F45,Castlerea,10,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,119831.0
+F45,Castlerea,10,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,126000.0
+F45,Castlerea,10,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,68750.0
+F45,Castlerea,10,2020,New,All Buyer Types,304575.0
+F45,Castlerea,10,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,329150.0
+F45,Castlerea,10,2020,New,Household Buyer - Former Owner-Occupier,280000.0
+F45,Castlerea,10,2020,New,Household Buyer - Non-Occupier,
+F45,Castlerea,10,2020,Existing,All Buyer Types,97183.0
+F45,Castlerea,10,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,89929.0
+F45,Castlerea,10,2020,Existing,Household Buyer - Former Owner-Occupier,115733.0
+F45,Castlerea,10,2020,Existing,Household Buyer - Non-Occupier,68750.0
+F45,Castlerea,11,2020,All Dwelling Statuses,All Buyer Types,91119.0
+F45,Castlerea,11,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,147500.0
+F45,Castlerea,11,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,118503.0
+F45,Castlerea,11,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,54813.0
+F45,Castlerea,11,2020,New,All Buyer Types,67905.0
+F45,Castlerea,11,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,11,2020,New,Household Buyer - Former Owner-Occupier,120263.0
+F45,Castlerea,11,2020,New,Household Buyer - Non-Occupier,33000.0
+F45,Castlerea,11,2020,Existing,All Buyer Types,96646.0
+F45,Castlerea,11,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,147500.0
+F45,Castlerea,11,2020,Existing,Household Buyer - Former Owner-Occupier,118000.0
+F45,Castlerea,11,2020,Existing,Household Buyer - Non-Occupier,61357.0
+F45,Castlerea,12,2020,All Dwelling Statuses,All Buyer Types,101837.0
+F45,Castlerea,12,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,105542.0
+F45,Castlerea,12,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,106250.0
+F45,Castlerea,12,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,78625.0
+F45,Castlerea,12,2020,New,All Buyer Types,70000.0
+F45,Castlerea,12,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,12,2020,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,12,2020,New,Household Buyer - Non-Occupier,70000.0
+F45,Castlerea,12,2020,Existing,All Buyer Types,104490.0
+F45,Castlerea,12,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,105542.0
+F45,Castlerea,12,2020,Existing,Household Buyer - Former Owner-Occupier,106250.0
+F45,Castlerea,12,2020,Existing,Household Buyer - Non-Occupier,87250.0
+F45,Castlerea,1,2021,All Dwelling Statuses,All Buyer Types,135161.0
+F45,Castlerea,1,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,145833.0
+F45,Castlerea,1,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,155100.0
+F45,Castlerea,1,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,54000.0
+F45,Castlerea,1,2021,New,All Buyer Types,
+F45,Castlerea,1,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,1,2021,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,1,2021,New,Household Buyer - Non-Occupier,
+F45,Castlerea,1,2021,Existing,All Buyer Types,135161.0
+F45,Castlerea,1,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,145833.0
+F45,Castlerea,1,2021,Existing,Household Buyer - Former Owner-Occupier,155100.0
+F45,Castlerea,1,2021,Existing,Household Buyer - Non-Occupier,54000.0
+F45,Castlerea,2,2021,All Dwelling Statuses,All Buyer Types,105183.0
+F45,Castlerea,2,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,119000.0
+F45,Castlerea,2,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,106713.0
+F45,Castlerea,2,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,74500.0
+F45,Castlerea,2,2021,New,All Buyer Types,97062.0
+F45,Castlerea,2,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,2,2021,New,Household Buyer - Former Owner-Occupier,85125.0
+F45,Castlerea,2,2021,New,Household Buyer - Non-Occupier,109000.0
+F45,Castlerea,2,2021,Existing,All Buyer Types,105808.0
+F45,Castlerea,2,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,119000.0
+F45,Castlerea,2,2021,Existing,Household Buyer - Former Owner-Occupier,108063.0
+F45,Castlerea,2,2021,Existing,Household Buyer - Non-Occupier,63000.0
+F45,Castlerea,3,2021,All Dwelling Statuses,All Buyer Types,90607.0
+F45,Castlerea,3,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,91733.0
+F45,Castlerea,3,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,104617.0
+F45,Castlerea,3,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,59500.0
+F45,Castlerea,3,2021,New,All Buyer Types,141152.0
+F45,Castlerea,3,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,112933.0
+F45,Castlerea,3,2021,New,Household Buyer - Former Owner-Occupier,155262.0
+F45,Castlerea,3,2021,New,Household Buyer - Non-Occupier,
+F45,Castlerea,3,2021,Existing,All Buyer Types,83025.0
+F45,Castlerea,3,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,84667.0
+F45,Castlerea,3,2021,Existing,Household Buyer - Former Owner-Occupier,95409.0
+F45,Castlerea,3,2021,Existing,Household Buyer - Non-Occupier,59500.0
+F45,Castlerea,4,2021,All Dwelling Statuses,All Buyer Types,70875.0
+F45,Castlerea,4,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,63667.0
+F45,Castlerea,4,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,74125.0
+F45,Castlerea,4,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,70000.0
+F45,Castlerea,4,2021,New,All Buyer Types,139000.0
+F45,Castlerea,4,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,4,2021,New,Household Buyer - Former Owner-Occupier,139000.0
+F45,Castlerea,4,2021,New,Household Buyer - Non-Occupier,
+F45,Castlerea,4,2021,Existing,All Buyer Types,66333.0
+F45,Castlerea,4,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,63667.0
+F45,Castlerea,4,2021,Existing,Household Buyer - Former Owner-Occupier,64857.0
+F45,Castlerea,4,2021,Existing,Household Buyer - Non-Occupier,70000.0
+F45,Castlerea,5,2021,All Dwelling Statuses,All Buyer Types,115467.0
+F45,Castlerea,5,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,107500.0
+F45,Castlerea,5,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,121182.0
+F45,Castlerea,5,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,92000.0
+F45,Castlerea,5,2021,New,All Buyer Types,
+F45,Castlerea,5,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,5,2021,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,5,2021,New,Household Buyer - Non-Occupier,
+F45,Castlerea,5,2021,Existing,All Buyer Types,115467.0
+F45,Castlerea,5,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,107500.0
+F45,Castlerea,5,2021,Existing,Household Buyer - Former Owner-Occupier,121182.0
+F45,Castlerea,5,2021,Existing,Household Buyer - Non-Occupier,92000.0
+F45,Castlerea,6,2021,All Dwelling Statuses,All Buyer Types,103024.0
+F45,Castlerea,6,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,163775.0
+F45,Castlerea,6,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,122308.0
+F45,Castlerea,6,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,56500.0
+F45,Castlerea,6,2021,New,All Buyer Types,147550.0
+F45,Castlerea,6,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,147550.0
+F45,Castlerea,6,2021,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,6,2021,New,Household Buyer - Non-Occupier,
+F45,Castlerea,6,2021,Existing,All Buyer Types,101000.0
+F45,Castlerea,6,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+F45,Castlerea,6,2021,Existing,Household Buyer - Former Owner-Occupier,122308.0
+F45,Castlerea,6,2021,Existing,Household Buyer - Non-Occupier,56500.0
+F45,Castlerea,7,2021,All Dwelling Statuses,All Buyer Types,110655.0
+F45,Castlerea,7,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,102814.0
+F45,Castlerea,7,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,122245.0
+F45,Castlerea,7,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,77250.0
+F45,Castlerea,7,2021,New,All Buyer Types,196257.0
+F45,Castlerea,7,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,196257.0
+F45,Castlerea,7,2021,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,7,2021,New,Household Buyer - Non-Occupier,
+F45,Castlerea,7,2021,Existing,All Buyer Types,107703.0
+F45,Castlerea,7,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,71667.0
+F45,Castlerea,7,2021,Existing,Household Buyer - Former Owner-Occupier,122245.0
+F45,Castlerea,7,2021,Existing,Household Buyer - Non-Occupier,77250.0
+F45,Castlerea,8,2021,All Dwelling Statuses,All Buyer Types,131950.0
+F45,Castlerea,8,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,227333.0
+F45,Castlerea,8,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,150656.0
+F45,Castlerea,8,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,78728.0
+F45,Castlerea,8,2021,New,All Buyer Types,116834.0
+F45,Castlerea,8,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,8,2021,New,Household Buyer - Former Owner-Occupier,134250.0
+F45,Castlerea,8,2021,New,Household Buyer - Non-Occupier,82004.0
+F45,Castlerea,8,2021,Existing,All Buyer Types,133630.0
+F45,Castlerea,8,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,227333.0
+F45,Castlerea,8,2021,Existing,Household Buyer - Former Owner-Occupier,153000.0
+F45,Castlerea,8,2021,Existing,Household Buyer - Non-Occupier,78400.0
+F45,Castlerea,9,2021,All Dwelling Statuses,All Buyer Types,115622.0
+F45,Castlerea,9,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,145361.0
+F45,Castlerea,9,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,137107.0
+F45,Castlerea,9,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,59438.0
+F45,Castlerea,9,2021,New,All Buyer Types,158768.0
+F45,Castlerea,9,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,158402.0
+F45,Castlerea,9,2021,New,Household Buyer - Former Owner-Occupier,159499.0
+F45,Castlerea,9,2021,New,Household Buyer - Non-Occupier,
+F45,Castlerea,9,2021,Existing,All Buyer Types,110229.0
+F45,Castlerea,9,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,136667.0
+F45,Castlerea,9,2021,Existing,Household Buyer - Former Owner-Occupier,135385.0
+F45,Castlerea,9,2021,Existing,Household Buyer - Non-Occupier,59438.0
+F45,Castlerea,10,2021,All Dwelling Statuses,All Buyer Types,125888.0
+F45,Castlerea,10,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,120050.0
+F45,Castlerea,10,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,131891.0
+F45,Castlerea,10,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,113333.0
+F45,Castlerea,10,2021,New,All Buyer Types,175000.0
+F45,Castlerea,10,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,10,2021,New,Household Buyer - Former Owner-Occupier,175000.0
+F45,Castlerea,10,2021,New,Household Buyer - Non-Occupier,
+F45,Castlerea,10,2021,Existing,All Buyer Types,124134.0
+F45,Castlerea,10,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,120050.0
+F45,Castlerea,10,2021,Existing,Household Buyer - Former Owner-Occupier,129017.0
+F45,Castlerea,10,2021,Existing,Household Buyer - Non-Occupier,113333.0
+F45,Castlerea,11,2021,All Dwelling Statuses,All Buyer Types,126005.0
+F45,Castlerea,11,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,151250.0
+F45,Castlerea,11,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,146114.0
+F45,Castlerea,11,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,65625.0
+F45,Castlerea,11,2021,New,All Buyer Types,274670.0
+F45,Castlerea,11,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,11,2021,New,Household Buyer - Former Owner-Occupier,274670.0
+F45,Castlerea,11,2021,New,Household Buyer - Non-Occupier,
+F45,Castlerea,11,2021,Existing,All Buyer Types,121050.0
+F45,Castlerea,11,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,151250.0
+F45,Castlerea,11,2021,Existing,Household Buyer - Former Owner-Occupier,138972.0
+F45,Castlerea,11,2021,Existing,Household Buyer - Non-Occupier,65625.0
+F45,Castlerea,12,2021,All Dwelling Statuses,All Buyer Types,135132.0
+F45,Castlerea,12,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,163500.0
+F45,Castlerea,12,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,131237.0
+F45,Castlerea,12,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,114000.0
+F45,Castlerea,12,2021,New,All Buyer Types,278075.0
+F45,Castlerea,12,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,12,2021,New,Household Buyer - Former Owner-Occupier,278075.0
+F45,Castlerea,12,2021,New,Household Buyer - Non-Occupier,
+F45,Castlerea,12,2021,Existing,All Buyer Types,129635.0
+F45,Castlerea,12,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,163500.0
+F45,Castlerea,12,2021,Existing,Household Buyer - Former Owner-Occupier,119000.0
+F45,Castlerea,12,2021,Existing,Household Buyer - Non-Occupier,114000.0
+F45,Castlerea,1,2022,All Dwelling Statuses,All Buyer Types,120372.0
+F45,Castlerea,1,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160615.0
+F45,Castlerea,1,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,102143.0
+F45,Castlerea,1,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,87000.0
+F45,Castlerea,1,2022,New,All Buyer Types,222460.0
+F45,Castlerea,1,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,222460.0
+F45,Castlerea,1,2022,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,1,2022,New,Household Buyer - Non-Occupier,
+F45,Castlerea,1,2022,Existing,All Buyer Types,111091.0
+F45,Castlerea,1,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+F45,Castlerea,1,2022,Existing,Household Buyer - Former Owner-Occupier,102143.0
+F45,Castlerea,1,2022,Existing,Household Buyer - Non-Occupier,87000.0
+F45,Castlerea,2,2022,All Dwelling Statuses,All Buyer Types,126143.0
+F45,Castlerea,2,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,131000.0
+F45,Castlerea,2,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,143050.0
+F45,Castlerea,2,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,103188.0
+F45,Castlerea,2,2022,New,All Buyer Types,
+F45,Castlerea,2,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,2,2022,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,2,2022,New,Household Buyer - Non-Occupier,
+F45,Castlerea,2,2022,Existing,All Buyer Types,126143.0
+F45,Castlerea,2,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,131000.0
+F45,Castlerea,2,2022,Existing,Household Buyer - Former Owner-Occupier,143050.0
+F45,Castlerea,2,2022,Existing,Household Buyer - Non-Occupier,103188.0
+F45,Castlerea,3,2022,All Dwelling Statuses,All Buyer Types,132101.0
+F45,Castlerea,3,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,163250.0
+F45,Castlerea,3,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,143055.0
+F45,Castlerea,3,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,59875.0
+F45,Castlerea,3,2022,New,All Buyer Types,221325.0
+F45,Castlerea,3,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,3,2022,New,Household Buyer - Former Owner-Occupier,221325.0
+F45,Castlerea,3,2022,New,Household Buyer - Non-Occupier,
+F45,Castlerea,3,2022,Existing,All Buyer Types,128045.0
+F45,Castlerea,3,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,163250.0
+F45,Castlerea,3,2022,Existing,Household Buyer - Former Owner-Occupier,137464.0
+F45,Castlerea,3,2022,Existing,Household Buyer - Non-Occupier,59875.0
+F45,Castlerea,4,2022,All Dwelling Statuses,All Buyer Types,124367.0
+F45,Castlerea,4,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,135000.0
+F45,Castlerea,4,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,127625.0
+F45,Castlerea,4,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,99500.0
+F45,Castlerea,4,2022,New,All Buyer Types,
+F45,Castlerea,4,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,4,2022,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,4,2022,New,Household Buyer - Non-Occupier,
+F45,Castlerea,4,2022,Existing,All Buyer Types,124367.0
+F45,Castlerea,4,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,135000.0
+F45,Castlerea,4,2022,Existing,Household Buyer - Former Owner-Occupier,127625.0
+F45,Castlerea,4,2022,Existing,Household Buyer - Non-Occupier,99500.0
+F45,Castlerea,5,2022,All Dwelling Statuses,All Buyer Types,144089.0
+F45,Castlerea,5,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,178500.0
+F45,Castlerea,5,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,145838.0
+F45,Castlerea,5,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,120429.0
+F45,Castlerea,5,2022,New,All Buyer Types,
+F45,Castlerea,5,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,5,2022,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,5,2022,New,Household Buyer - Non-Occupier,
+F45,Castlerea,5,2022,Existing,All Buyer Types,144089.0
+F45,Castlerea,5,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,178500.0
+F45,Castlerea,5,2022,Existing,Household Buyer - Former Owner-Occupier,145838.0
+F45,Castlerea,5,2022,Existing,Household Buyer - Non-Occupier,120429.0
+F45,Castlerea,6,2022,All Dwelling Statuses,All Buyer Types,115462.0
+F45,Castlerea,6,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,141429.0
+F45,Castlerea,6,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,114000.0
+F45,Castlerea,6,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,75500.0
+F45,Castlerea,6,2022,New,All Buyer Types,
+F45,Castlerea,6,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,6,2022,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,6,2022,New,Household Buyer - Non-Occupier,
+F45,Castlerea,6,2022,Existing,All Buyer Types,115462.0
+F45,Castlerea,6,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,141429.0
+F45,Castlerea,6,2022,Existing,Household Buyer - Former Owner-Occupier,114000.0
+F45,Castlerea,6,2022,Existing,Household Buyer - Non-Occupier,75500.0
+F45,Castlerea,7,2022,All Dwelling Statuses,All Buyer Types,132796.0
+F45,Castlerea,7,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,135625.0
+F45,Castlerea,7,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,142729.0
+F45,Castlerea,7,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,87750.0
+F45,Castlerea,7,2022,New,All Buyer Types,98950.0
+F45,Castlerea,7,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,152500.0
+F45,Castlerea,7,2022,New,Household Buyer - Former Owner-Occupier,45400.0
+F45,Castlerea,7,2022,New,Household Buyer - Non-Occupier,
+F45,Castlerea,7,2022,Existing,All Buyer Types,135739.0
+F45,Castlerea,7,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+F45,Castlerea,7,2022,Existing,Household Buyer - Former Owner-Occupier,148813.0
+F45,Castlerea,7,2022,Existing,Household Buyer - Non-Occupier,87750.0
+F45,Castlerea,8,2022,All Dwelling Statuses,All Buyer Types,170600.0
+F45,Castlerea,8,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,148667.0
+F45,Castlerea,8,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178500.0
+F45,Castlerea,8,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,110000.0
+F45,Castlerea,8,2022,New,All Buyer Types,
+F45,Castlerea,8,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,8,2022,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,8,2022,New,Household Buyer - Non-Occupier,
+F45,Castlerea,8,2022,Existing,All Buyer Types,170600.0
+F45,Castlerea,8,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,148667.0
+F45,Castlerea,8,2022,Existing,Household Buyer - Former Owner-Occupier,178500.0
+F45,Castlerea,8,2022,Existing,Household Buyer - Non-Occupier,110000.0
+F45,Castlerea,9,2022,All Dwelling Statuses,All Buyer Types,148300.0
+F45,Castlerea,9,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,182333.0
+F45,Castlerea,9,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,155857.0
+F45,Castlerea,9,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,79000.0
+F45,Castlerea,9,2022,New,All Buyer Types,
+F45,Castlerea,9,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,9,2022,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,9,2022,New,Household Buyer - Non-Occupier,
+F45,Castlerea,9,2022,Existing,All Buyer Types,148300.0
+F45,Castlerea,9,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,182333.0
+F45,Castlerea,9,2022,Existing,Household Buyer - Former Owner-Occupier,155857.0
+F45,Castlerea,9,2022,Existing,Household Buyer - Non-Occupier,79000.0
+F45,Castlerea,10,2022,All Dwelling Statuses,All Buyer Types,146750.0
+F45,Castlerea,10,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,136500.0
+F45,Castlerea,10,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,172571.0
+F45,Castlerea,10,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,93333.0
+F45,Castlerea,10,2022,New,All Buyer Types,
+F45,Castlerea,10,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,10,2022,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,10,2022,New,Household Buyer - Non-Occupier,
+F45,Castlerea,10,2022,Existing,All Buyer Types,146750.0
+F45,Castlerea,10,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,136500.0
+F45,Castlerea,10,2022,Existing,Household Buyer - Former Owner-Occupier,172571.0
+F45,Castlerea,10,2022,Existing,Household Buyer - Non-Occupier,93333.0
+F45,Castlerea,11,2022,All Dwelling Statuses,All Buyer Types,123737.0
+F45,Castlerea,11,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,136000.0
+F45,Castlerea,11,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,137727.0
+F45,Castlerea,11,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,52000.0
+F45,Castlerea,11,2022,New,All Buyer Types,
+F45,Castlerea,11,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,11,2022,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,11,2022,New,Household Buyer - Non-Occupier,
+F45,Castlerea,11,2022,Existing,All Buyer Types,123737.0
+F45,Castlerea,11,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,136000.0
+F45,Castlerea,11,2022,Existing,Household Buyer - Former Owner-Occupier,137727.0
+F45,Castlerea,11,2022,Existing,Household Buyer - Non-Occupier,52000.0
+F45,Castlerea,12,2022,All Dwelling Statuses,All Buyer Types,144094.0
+F45,Castlerea,12,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,155750.0
+F45,Castlerea,12,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,158273.0
+F45,Castlerea,12,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,84333.0
+F45,Castlerea,12,2022,New,All Buyer Types,
+F45,Castlerea,12,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,12,2022,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,12,2022,New,Household Buyer - Non-Occupier,
+F45,Castlerea,12,2022,Existing,All Buyer Types,144094.0
+F45,Castlerea,12,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,155750.0
+F45,Castlerea,12,2022,Existing,Household Buyer - Former Owner-Occupier,158273.0
+F45,Castlerea,12,2022,Existing,Household Buyer - Non-Occupier,84333.0
+F45,Castlerea,1,2023,All Dwelling Statuses,All Buyer Types,136800.0
+F45,Castlerea,1,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,151000.0
+F45,Castlerea,1,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,144300.0
+F45,Castlerea,1,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,107600.0
+F45,Castlerea,1,2023,New,All Buyer Types,
+F45,Castlerea,1,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,1,2023,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,1,2023,New,Household Buyer - Non-Occupier,
+F45,Castlerea,1,2023,Existing,All Buyer Types,136800.0
+F45,Castlerea,1,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,151000.0
+F45,Castlerea,1,2023,Existing,Household Buyer - Former Owner-Occupier,144300.0
+F45,Castlerea,1,2023,Existing,Household Buyer - Non-Occupier,107600.0
+F45,Castlerea,2,2023,All Dwelling Statuses,All Buyer Types,100083.0
+F45,Castlerea,2,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+F45,Castlerea,2,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,115700.0
+F45,Castlerea,2,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,77786.0
+F45,Castlerea,2,2023,New,All Buyer Types,
+F45,Castlerea,2,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,2,2023,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,2,2023,New,Household Buyer - Non-Occupier,
+F45,Castlerea,2,2023,Existing,All Buyer Types,100083.0
+F45,Castlerea,2,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+F45,Castlerea,2,2023,Existing,Household Buyer - Former Owner-Occupier,115700.0
+F45,Castlerea,2,2023,Existing,Household Buyer - Non-Occupier,77786.0
+F45,Castlerea,3,2023,All Dwelling Statuses,All Buyer Types,150912.0
+F45,Castlerea,3,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,197400.0
+F45,Castlerea,3,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,156833.0
+F45,Castlerea,3,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,97367.0
+F45,Castlerea,3,2023,New,All Buyer Types,205000.0
+F45,Castlerea,3,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+F45,Castlerea,3,2023,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,3,2023,New,Household Buyer - Non-Occupier,
+F45,Castlerea,3,2023,Existing,All Buyer Types,148748.0
+F45,Castlerea,3,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,195500.0
+F45,Castlerea,3,2023,Existing,Household Buyer - Former Owner-Occupier,156833.0
+F45,Castlerea,3,2023,Existing,Household Buyer - Non-Occupier,97367.0
+F45,Castlerea,4,2023,All Dwelling Statuses,All Buyer Types,121750.0
+F45,Castlerea,4,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,196167.0
+F45,Castlerea,4,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,113182.0
+F45,Castlerea,4,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,71429.0
+F45,Castlerea,4,2023,New,All Buyer Types,
+F45,Castlerea,4,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,4,2023,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,4,2023,New,Household Buyer - Non-Occupier,
+F45,Castlerea,4,2023,Existing,All Buyer Types,121750.0
+F45,Castlerea,4,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,196167.0
+F45,Castlerea,4,2023,Existing,Household Buyer - Former Owner-Occupier,113182.0
+F45,Castlerea,4,2023,Existing,Household Buyer - Non-Occupier,71429.0
+F45,Castlerea,5,2023,All Dwelling Statuses,All Buyer Types,128055.0
+F45,Castlerea,5,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,137786.0
+F45,Castlerea,5,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,135200.0
+F45,Castlerea,5,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,103000.0
+F45,Castlerea,5,2023,New,All Buyer Types,204999.0
+F45,Castlerea,5,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,5,2023,New,Household Buyer - Former Owner-Occupier,204999.0
+F45,Castlerea,5,2023,New,Household Buyer - Non-Occupier,
+F45,Castlerea,5,2023,Existing,All Buyer Types,124005.0
+F45,Castlerea,5,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,137786.0
+F45,Castlerea,5,2023,Existing,Household Buyer - Former Owner-Occupier,125229.0
+F45,Castlerea,5,2023,Existing,Household Buyer - Non-Occupier,103000.0
+F45,Castlerea,6,2023,All Dwelling Statuses,All Buyer Types,143080.0
+F45,Castlerea,6,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,149875.0
+F45,Castlerea,6,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,145521.0
+F45,Castlerea,6,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,101250.0
+F45,Castlerea,6,2023,New,All Buyer Types,56750.0
+F45,Castlerea,6,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,6,2023,New,Household Buyer - Former Owner-Occupier,56750.0
+F45,Castlerea,6,2023,New,Household Buyer - Non-Occupier,
+F45,Castlerea,6,2023,Existing,All Buyer Types,147190.0
+F45,Castlerea,6,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,149875.0
+F45,Castlerea,6,2023,Existing,Household Buyer - Former Owner-Occupier,153591.0
+F45,Castlerea,6,2023,Existing,Household Buyer - Non-Occupier,101250.0
+F45,Castlerea,7,2023,All Dwelling Statuses,All Buyer Types,156524.0
+F45,Castlerea,7,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,213750.0
+F45,Castlerea,7,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,142750.0
+F45,Castlerea,7,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,143800.0
+F45,Castlerea,7,2023,New,All Buyer Types,230000.0
+F45,Castlerea,7,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,7,2023,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,7,2023,New,Household Buyer - Non-Occupier,230000.0
+F45,Castlerea,7,2023,Existing,All Buyer Types,152850.0
+F45,Castlerea,7,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,213750.0
+F45,Castlerea,7,2023,Existing,Household Buyer - Former Owner-Occupier,142750.0
+F45,Castlerea,7,2023,Existing,Household Buyer - Non-Occupier,122250.0
+F45,Castlerea,8,2023,All Dwelling Statuses,All Buyer Types,128270.0
+F45,Castlerea,8,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,166333.0
+F45,Castlerea,8,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,110979.0
+F45,Castlerea,8,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,138625.0
+F45,Castlerea,8,2023,New,All Buyer Types,78315.0
+F45,Castlerea,8,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,8,2023,New,Household Buyer - Former Owner-Occupier,78315.0
+F45,Castlerea,8,2023,New,Household Buyer - Non-Occupier,
+F45,Castlerea,8,2023,Existing,All Buyer Types,131600.0
+F45,Castlerea,8,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,166333.0
+F45,Castlerea,8,2023,Existing,Household Buyer - Former Owner-Occupier,115063.0
+F45,Castlerea,8,2023,Existing,Household Buyer - Non-Occupier,138625.0
+F45,Castlerea,9,2023,All Dwelling Statuses,All Buyer Types,140000.0
+F45,Castlerea,9,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,132722.0
+F45,Castlerea,9,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,142233.0
+F45,Castlerea,9,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,143200.0
+F45,Castlerea,9,2023,New,All Buyer Types,
+F45,Castlerea,9,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,9,2023,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,9,2023,New,Household Buyer - Non-Occupier,
+F45,Castlerea,9,2023,Existing,All Buyer Types,140000.0
+F45,Castlerea,9,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,132722.0
+F45,Castlerea,9,2023,Existing,Household Buyer - Former Owner-Occupier,142233.0
+F45,Castlerea,9,2023,Existing,Household Buyer - Non-Occupier,143200.0
+F45,Castlerea,10,2023,All Dwelling Statuses,All Buyer Types,141958.0
+F45,Castlerea,10,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,196333.0
+F45,Castlerea,10,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,152583.0
+F45,Castlerea,10,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,66333.0
+F45,Castlerea,10,2023,New,All Buyer Types,
+F45,Castlerea,10,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,10,2023,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,10,2023,New,Household Buyer - Non-Occupier,
+F45,Castlerea,10,2023,Existing,All Buyer Types,141958.0
+F45,Castlerea,10,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,196333.0
+F45,Castlerea,10,2023,Existing,Household Buyer - Former Owner-Occupier,152583.0
+F45,Castlerea,10,2023,Existing,Household Buyer - Non-Occupier,66333.0
+F45,Castlerea,11,2023,All Dwelling Statuses,All Buyer Types,148816.0
+F45,Castlerea,11,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,241669.0
+F45,Castlerea,11,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,145350.0
+F45,Castlerea,11,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,88400.0
+F45,Castlerea,11,2023,New,All Buyer Types,248675.0
+F45,Castlerea,11,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,248675.0
+F45,Castlerea,11,2023,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,11,2023,New,Household Buyer - Non-Occupier,
+F45,Castlerea,11,2023,Existing,All Buyer Types,145250.0
+F45,Castlerea,11,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,239333.0
+F45,Castlerea,11,2023,Existing,Household Buyer - Former Owner-Occupier,145350.0
+F45,Castlerea,11,2023,Existing,Household Buyer - Non-Occupier,88400.0
+F45,Castlerea,12,2023,All Dwelling Statuses,All Buyer Types,154387.0
+F45,Castlerea,12,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,186262.0
+F45,Castlerea,12,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,193250.0
+F45,Castlerea,12,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,84860.0
+F45,Castlerea,12,2023,New,All Buyer Types,225808.0
+F45,Castlerea,12,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,225808.0
+F45,Castlerea,12,2023,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,12,2023,New,Household Buyer - Non-Occupier,
+F45,Castlerea,12,2023,Existing,All Buyer Types,151530.0
+F45,Castlerea,12,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,176375.0
+F45,Castlerea,12,2023,Existing,Household Buyer - Former Owner-Occupier,193250.0
+F45,Castlerea,12,2023,Existing,Household Buyer - Non-Occupier,84860.0
+F45,Castlerea,1,2024,All Dwelling Statuses,All Buyer Types,156786.0
+F45,Castlerea,1,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,157667.0
+F45,Castlerea,1,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197833.0
+F45,Castlerea,1,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,107000.0
+F45,Castlerea,1,2024,New,All Buyer Types,
+F45,Castlerea,1,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,1,2024,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,1,2024,New,Household Buyer - Non-Occupier,
+F45,Castlerea,1,2024,Existing,All Buyer Types,156786.0
+F45,Castlerea,1,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,157667.0
+F45,Castlerea,1,2024,Existing,Household Buyer - Former Owner-Occupier,197833.0
+F45,Castlerea,1,2024,Existing,Household Buyer - Non-Occupier,107000.0
+F45,Castlerea,2,2024,All Dwelling Statuses,All Buyer Types,139136.0
+F45,Castlerea,2,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+F45,Castlerea,2,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,127833.0
+F45,Castlerea,2,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+F45,Castlerea,2,2024,New,All Buyer Types,
+F45,Castlerea,2,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,2,2024,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,2,2024,New,Household Buyer - Non-Occupier,
+F45,Castlerea,2,2024,Existing,All Buyer Types,139136.0
+F45,Castlerea,2,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+F45,Castlerea,2,2024,Existing,Household Buyer - Former Owner-Occupier,127833.0
+F45,Castlerea,2,2024,Existing,Household Buyer - Non-Occupier,
+F45,Castlerea,3,2024,All Dwelling Statuses,All Buyer Types,133604.0
+F45,Castlerea,3,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,132000.0
+F45,Castlerea,3,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,126583.0
+F45,Castlerea,3,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,200000.0
+F45,Castlerea,3,2024,New,All Buyer Types,
+F45,Castlerea,3,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,3,2024,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,3,2024,New,Household Buyer - Non-Occupier,
+F45,Castlerea,3,2024,Existing,All Buyer Types,133604.0
+F45,Castlerea,3,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,132000.0
+F45,Castlerea,3,2024,Existing,Household Buyer - Former Owner-Occupier,126583.0
+F45,Castlerea,3,2024,Existing,Household Buyer - Non-Occupier,200000.0
+F45,Castlerea,4,2024,All Dwelling Statuses,All Buyer Types,141706.0
+F45,Castlerea,4,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,162500.0
+F45,Castlerea,4,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,151000.0
+F45,Castlerea,4,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,94250.0
+F45,Castlerea,4,2024,New,All Buyer Types,
+F45,Castlerea,4,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,4,2024,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,4,2024,New,Household Buyer - Non-Occupier,
+F45,Castlerea,4,2024,Existing,All Buyer Types,141706.0
+F45,Castlerea,4,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,162500.0
+F45,Castlerea,4,2024,Existing,Household Buyer - Former Owner-Occupier,151000.0
+F45,Castlerea,4,2024,Existing,Household Buyer - Non-Occupier,94250.0
+F45,Castlerea,5,2024,All Dwelling Statuses,All Buyer Types,151020.0
+F45,Castlerea,5,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,175800.0
+F45,Castlerea,5,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,154250.0
+F45,Castlerea,5,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,60000.0
+F45,Castlerea,5,2024,New,All Buyer Types,
+F45,Castlerea,5,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,5,2024,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,5,2024,New,Household Buyer - Non-Occupier,
+F45,Castlerea,5,2024,Existing,All Buyer Types,151020.0
+F45,Castlerea,5,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,175800.0
+F45,Castlerea,5,2024,Existing,Household Buyer - Former Owner-Occupier,154250.0
+F45,Castlerea,5,2024,Existing,Household Buyer - Non-Occupier,60000.0
+F45,Castlerea,6,2024,All Dwelling Statuses,All Buyer Types,149000.0
+F45,Castlerea,6,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,36000.0
+F45,Castlerea,6,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,156250.0
+F45,Castlerea,6,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,147500.0
+F45,Castlerea,6,2024,New,All Buyer Types,
+F45,Castlerea,6,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,6,2024,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,6,2024,New,Household Buyer - Non-Occupier,
+F45,Castlerea,6,2024,Existing,All Buyer Types,149000.0
+F45,Castlerea,6,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,36000.0
+F45,Castlerea,6,2024,Existing,Household Buyer - Former Owner-Occupier,156250.0
+F45,Castlerea,6,2024,Existing,Household Buyer - Non-Occupier,147500.0
+F45,Castlerea,7,2024,All Dwelling Statuses,All Buyer Types,181557.0
+F45,Castlerea,7,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,229000.0
+F45,Castlerea,7,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,181083.0
+F45,Castlerea,7,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,153660.0
+F45,Castlerea,7,2024,New,All Buyer Types,102150.0
+F45,Castlerea,7,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+F45,Castlerea,7,2024,New,Household Buyer - Former Owner-Occupier,
+F45,Castlerea,7,2024,New,Household Buyer - Non-Occupier,102150.0
+F45,Castlerea,7,2024,Existing,All Buyer Types,194792.0
+F45,Castlerea,7,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,229000.0
+F45,Castlerea,7,2024,Existing,Household Buyer - Former Owner-Occupier,181083.0
+F45,Castlerea,7,2024,Existing,Household Buyer - Non-Occupier,188000.0

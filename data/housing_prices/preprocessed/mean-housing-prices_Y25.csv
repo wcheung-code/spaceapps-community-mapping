@@ -1,0 +1,2101 @@
+Routing Key,City,Month,Year,Dwelling Status,Type of Buyer,VALUE
+Y25,Gorey,1,2010,All Dwelling Statuses,All Buyer Types,205679.0
+Y25,Gorey,1,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,189675.0
+Y25,Gorey,1,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,265650.0
+Y25,Gorey,1,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,149750.0
+Y25,Gorey,1,2010,New,All Buyer Types,240308.0
+Y25,Gorey,1,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,230480.0
+Y25,Gorey,1,2010,New,Household Buyer - Former Owner-Occupier,289450.0
+Y25,Gorey,1,2010,New,Household Buyer - Non-Occupier,
+Y25,Gorey,1,2010,Existing,All Buyer Types,179706.0
+Y25,Gorey,1,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,121667.0
+Y25,Gorey,1,2010,Existing,Household Buyer - Former Owner-Occupier,257717.0
+Y25,Gorey,1,2010,Existing,Household Buyer - Non-Occupier,149750.0
+Y25,Gorey,2,2010,All Dwelling Statuses,All Buyer Types,189085.0
+Y25,Gorey,2,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,188981.0
+Y25,Gorey,2,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,240700.0
+Y25,Gorey,2,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,137575.0
+Y25,Gorey,2,2010,New,All Buyer Types,231338.0
+Y25,Gorey,2,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,195463.0
+Y25,Gorey,2,2010,New,Household Buyer - Former Owner-Occupier,264267.0
+Y25,Gorey,2,2010,New,Household Buyer - Non-Occupier,204300.0
+Y25,Gorey,2,2010,Existing,All Buyer Types,146833.0
+Y25,Gorey,2,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,182500.0
+Y25,Gorey,2,2010,Existing,Household Buyer - Former Owner-Occupier,170000.0
+Y25,Gorey,2,2010,Existing,Household Buyer - Non-Occupier,115333.0
+Y25,Gorey,3,2010,All Dwelling Statuses,All Buyer Types,211367.0
+Y25,Gorey,3,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,179380.0
+Y25,Gorey,3,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,240750.0
+Y25,Gorey,3,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,195000.0
+Y25,Gorey,3,2010,New,All Buyer Types,177300.0
+Y25,Gorey,3,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,177300.0
+Y25,Gorey,3,2010,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,3,2010,New,Household Buyer - Non-Occupier,
+Y25,Gorey,3,2010,Existing,All Buyer Types,222722.0
+Y25,Gorey,3,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,182500.0
+Y25,Gorey,3,2010,Existing,Household Buyer - Former Owner-Occupier,240750.0
+Y25,Gorey,3,2010,Existing,Household Buyer - Non-Occupier,195000.0
+Y25,Gorey,4,2010,All Dwelling Statuses,All Buyer Types,203782.0
+Y25,Gorey,4,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,213272.0
+Y25,Gorey,4,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,207046.0
+Y25,Gorey,4,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,124000.0
+Y25,Gorey,4,2010,New,All Buyer Types,208314.0
+Y25,Gorey,4,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,213272.0
+Y25,Gorey,4,2010,New,Household Buyer - Former Owner-Occupier,202365.0
+Y25,Gorey,4,2010,New,Household Buyer - Non-Occupier,
+Y25,Gorey,4,2010,Existing,All Buyer Types,187167.0
+Y25,Gorey,4,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,4,2010,Existing,Household Buyer - Former Owner-Occupier,218750.0
+Y25,Gorey,4,2010,Existing,Household Buyer - Non-Occupier,124000.0
+Y25,Gorey,5,2010,All Dwelling Statuses,All Buyer Types,235776.0
+Y25,Gorey,5,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,253061.0
+Y25,Gorey,5,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,168165.0
+Y25,Gorey,5,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,250000.0
+Y25,Gorey,5,2010,New,All Buyer Types,237452.0
+Y25,Gorey,5,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,283643.0
+Y25,Gorey,5,2010,New,Household Buyer - Former Owner-Occupier,168165.0
+Y25,Gorey,5,2010,New,Household Buyer - Non-Occupier,
+Y25,Gorey,5,2010,Existing,All Buyer Types,234100.0
+Y25,Gorey,5,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,230125.0
+Y25,Gorey,5,2010,Existing,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,5,2010,Existing,Household Buyer - Non-Occupier,250000.0
+Y25,Gorey,6,2010,All Dwelling Statuses,All Buyer Types,146333.0
+Y25,Gorey,6,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,187850.0
+Y25,Gorey,6,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,122200.0
+Y25,Gorey,6,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,122917.0
+Y25,Gorey,6,2010,New,All Buyer Types,179450.0
+Y25,Gorey,6,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,158900.0
+Y25,Gorey,6,2010,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,6,2010,New,Household Buyer - Non-Occupier,200000.0
+Y25,Gorey,6,2010,Existing,All Buyer Types,138974.0
+Y25,Gorey,6,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,197500.0
+Y25,Gorey,6,2010,Existing,Household Buyer - Former Owner-Occupier,122200.0
+Y25,Gorey,6,2010,Existing,Household Buyer - Non-Occupier,97222.0
+Y25,Gorey,7,2010,All Dwelling Statuses,All Buyer Types,211784.0
+Y25,Gorey,7,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,230263.0
+Y25,Gorey,7,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,212054.0
+Y25,Gorey,7,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,173833.0
+Y25,Gorey,7,2010,New,All Buyer Types,212035.0
+Y25,Gorey,7,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,164575.0
+Y25,Gorey,7,2010,New,Household Buyer - Former Owner-Occupier,223900.0
+Y25,Gorey,7,2010,New,Household Buyer - Non-Occupier,
+Y25,Gorey,7,2010,Existing,All Buyer Types,211700.0
+Y25,Gorey,7,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,243400.0
+Y25,Gorey,7,2010,Existing,Household Buyer - Former Owner-Occupier,205286.0
+Y25,Gorey,7,2010,Existing,Household Buyer - Non-Occupier,173833.0
+Y25,Gorey,8,2010,All Dwelling Statuses,All Buyer Types,201396.0
+Y25,Gorey,8,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,195006.0
+Y25,Gorey,8,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,218301.0
+Y25,Gorey,8,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,196672.0
+Y25,Gorey,8,2010,New,All Buyer Types,213768.0
+Y25,Gorey,8,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,200011.0
+Y25,Gorey,8,2010,New,Household Buyer - Former Owner-Occupier,247201.0
+Y25,Gorey,8,2010,New,Household Buyer - Non-Occupier,135065.0
+Y25,Gorey,8,2010,Existing,All Buyer Types,194438.0
+Y25,Gorey,8,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,188333.0
+Y25,Gorey,8,2010,Existing,Household Buyer - Former Owner-Occupier,160500.0
+Y25,Gorey,8,2010,Existing,Household Buyer - Non-Occupier,202273.0
+Y25,Gorey,9,2010,All Dwelling Statuses,All Buyer Types,167454.0
+Y25,Gorey,9,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165992.0
+Y25,Gorey,9,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,174199.0
+Y25,Gorey,9,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,151100.0
+Y25,Gorey,9,2010,New,All Buyer Types,177484.0
+Y25,Gorey,9,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,165190.0
+Y25,Gorey,9,2010,New,Household Buyer - Former Owner-Occupier,204000.0
+Y25,Gorey,9,2010,New,Household Buyer - Non-Occupier,159400.0
+Y25,Gorey,9,2010,Existing,All Buyer Types,159933.0
+Y25,Gorey,9,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+Y25,Gorey,9,2010,Existing,Household Buyer - Former Owner-Occupier,163024.0
+Y25,Gorey,9,2010,Existing,Household Buyer - Non-Occupier,148333.0
+Y25,Gorey,10,2010,All Dwelling Statuses,All Buyer Types,219657.0
+Y25,Gorey,10,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,178713.0
+Y25,Gorey,10,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,240022.0
+Y25,Gorey,10,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,180000.0
+Y25,Gorey,10,2010,New,All Buyer Types,227471.0
+Y25,Gorey,10,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,156063.0
+Y25,Gorey,10,2010,New,Household Buyer - Former Owner-Occupier,241753.0
+Y25,Gorey,10,2010,New,Household Buyer - Non-Occupier,
+Y25,Gorey,10,2010,Existing,All Buyer Types,215750.0
+Y25,Gorey,10,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,184375.0
+Y25,Gorey,10,2010,Existing,Household Buyer - Former Owner-Occupier,238786.0
+Y25,Gorey,10,2010,Existing,Household Buyer - Non-Occupier,180000.0
+Y25,Gorey,11,2010,All Dwelling Statuses,All Buyer Types,235278.0
+Y25,Gorey,11,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,176006.0
+Y25,Gorey,11,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,206944.0
+Y25,Gorey,11,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,296261.0
+Y25,Gorey,11,2010,New,All Buyer Types,376504.0
+Y25,Gorey,11,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,217350.0
+Y25,Gorey,11,2010,New,Household Buyer - Former Owner-Occupier,183303.0
+Y25,Gorey,11,2010,New,Household Buyer - Non-Occupier,592470.0
+Y25,Gorey,11,2010,Existing,All Buyer Types,168382.0
+Y25,Gorey,11,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,155333.0
+Y25,Gorey,11,2010,Existing,Household Buyer - Former Owner-Occupier,216400.0
+Y25,Gorey,11,2010,Existing,Household Buyer - Non-Occupier,148156.0
+Y25,Gorey,12,2010,All Dwelling Statuses,All Buyer Types,198690.0
+Y25,Gorey,12,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,179174.0
+Y25,Gorey,12,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,200786.0
+Y25,Gorey,12,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,232833.0
+Y25,Gorey,12,2010,New,All Buyer Types,205542.0
+Y25,Gorey,12,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,200073.0
+Y25,Gorey,12,2010,New,Household Buyer - Former Owner-Occupier,212833.0
+Y25,Gorey,12,2010,New,Household Buyer - Non-Occupier,
+Y25,Gorey,12,2010,Existing,All Buyer Types,193361.0
+Y25,Gorey,12,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,137375.0
+Y25,Gorey,12,2010,Existing,Household Buyer - Former Owner-Occupier,191750.0
+Y25,Gorey,12,2010,Existing,Household Buyer - Non-Occupier,232833.0
+Y25,Gorey,1,2011,All Dwelling Statuses,All Buyer Types,170176.0
+Y25,Gorey,1,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,171522.0
+Y25,Gorey,1,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,135625.0
+Y25,Gorey,1,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,303000.0
+Y25,Gorey,1,2011,New,All Buyer Types,188544.0
+Y25,Gorey,1,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,188544.0
+Y25,Gorey,1,2011,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,1,2011,New,Household Buyer - Non-Occupier,
+Y25,Gorey,1,2011,Existing,All Buyer Types,164929.0
+Y25,Gorey,1,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,154500.0
+Y25,Gorey,1,2011,Existing,Household Buyer - Former Owner-Occupier,135625.0
+Y25,Gorey,1,2011,Existing,Household Buyer - Non-Occupier,303000.0
+Y25,Gorey,2,2011,All Dwelling Statuses,All Buyer Types,159500.0
+Y25,Gorey,2,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,90000.0
+Y25,Gorey,2,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,216667.0
+Y25,Gorey,2,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,127000.0
+Y25,Gorey,2,2011,New,All Buyer Types,
+Y25,Gorey,2,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,2,2011,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,2,2011,New,Household Buyer - Non-Occupier,
+Y25,Gorey,2,2011,Existing,All Buyer Types,159500.0
+Y25,Gorey,2,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,90000.0
+Y25,Gorey,2,2011,Existing,Household Buyer - Former Owner-Occupier,216667.0
+Y25,Gorey,2,2011,Existing,Household Buyer - Non-Occupier,127000.0
+Y25,Gorey,3,2011,All Dwelling Statuses,All Buyer Types,108000.0
+Y25,Gorey,3,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,3,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,134000.0
+Y25,Gorey,3,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,95000.0
+Y25,Gorey,3,2011,New,All Buyer Types,
+Y25,Gorey,3,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,3,2011,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,3,2011,New,Household Buyer - Non-Occupier,
+Y25,Gorey,3,2011,Existing,All Buyer Types,108000.0
+Y25,Gorey,3,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,3,2011,Existing,Household Buyer - Former Owner-Occupier,134000.0
+Y25,Gorey,3,2011,Existing,Household Buyer - Non-Occupier,95000.0
+Y25,Gorey,4,2011,All Dwelling Statuses,All Buyer Types,192123.0
+Y25,Gorey,4,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,114000.0
+Y25,Gorey,4,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,204859.0
+Y25,Gorey,4,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,167500.0
+Y25,Gorey,4,2011,New,All Buyer Types,221297.0
+Y25,Gorey,4,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,4,2011,New,Household Buyer - Former Owner-Occupier,221297.0
+Y25,Gorey,4,2011,New,Household Buyer - Non-Occupier,
+Y25,Gorey,4,2011,Existing,All Buyer Types,186818.0
+Y25,Gorey,4,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,114000.0
+Y25,Gorey,4,2011,Existing,Household Buyer - Former Owner-Occupier,200750.0
+Y25,Gorey,4,2011,Existing,Household Buyer - Non-Occupier,167500.0
+Y25,Gorey,5,2011,All Dwelling Statuses,All Buyer Types,173733.0
+Y25,Gorey,5,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+Y25,Gorey,5,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,188429.0
+Y25,Gorey,5,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,148906.0
+Y25,Gorey,5,2011,New,All Buyer Types,222676.0
+Y25,Gorey,5,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+Y25,Gorey,5,2011,New,Household Buyer - Former Owner-Occupier,280000.0
+Y25,Gorey,5,2011,New,Household Buyer - Non-Occupier,193029.0
+Y25,Gorey,5,2011,Existing,All Buyer Types,159050.0
+Y25,Gorey,5,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,5,2011,Existing,Household Buyer - Former Owner-Occupier,173167.0
+Y25,Gorey,5,2011,Existing,Household Buyer - Non-Occupier,137875.0
+Y25,Gorey,6,2011,All Dwelling Statuses,All Buyer Types,146513.0
+Y25,Gorey,6,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,110750.0
+Y25,Gorey,6,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,180123.0
+Y25,Gorey,6,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,102417.0
+Y25,Gorey,6,2011,New,All Buyer Types,264988.0
+Y25,Gorey,6,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,6,2011,New,Household Buyer - Former Owner-Occupier,264988.0
+Y25,Gorey,6,2011,New,Household Buyer - Non-Occupier,
+Y25,Gorey,6,2011,Existing,All Buyer Types,131703.0
+Y25,Gorey,6,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,110750.0
+Y25,Gorey,6,2011,Existing,Household Buyer - Former Owner-Occupier,158906.0
+Y25,Gorey,6,2011,Existing,Household Buyer - Non-Occupier,102417.0
+Y25,Gorey,7,2011,All Dwelling Statuses,All Buyer Types,159339.0
+Y25,Gorey,7,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,156438.0
+Y25,Gorey,7,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,158839.0
+Y25,Gorey,7,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,161600.0
+Y25,Gorey,7,2011,New,All Buyer Types,193200.0
+Y25,Gorey,7,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,156438.0
+Y25,Gorey,7,2011,New,Household Buyer - Former Owner-Occupier,266725.0
+Y25,Gorey,7,2011,New,Household Buyer - Non-Occupier,
+Y25,Gorey,7,2011,Existing,All Buyer Types,152567.0
+Y25,Gorey,7,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,7,2011,Existing,Household Buyer - Former Owner-Occupier,148050.0
+Y25,Gorey,7,2011,Existing,Household Buyer - Non-Occupier,161600.0
+Y25,Gorey,8,2011,All Dwelling Statuses,All Buyer Types,135318.0
+Y25,Gorey,8,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+Y25,Gorey,8,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,163300.0
+Y25,Gorey,8,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,101400.0
+Y25,Gorey,8,2011,New,All Buyer Types,182000.0
+Y25,Gorey,8,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,8,2011,New,Household Buyer - Former Owner-Occupier,182000.0
+Y25,Gorey,8,2011,New,Household Buyer - Non-Occupier,
+Y25,Gorey,8,2011,Existing,All Buyer Types,130650.0
+Y25,Gorey,8,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+Y25,Gorey,8,2011,Existing,Household Buyer - Former Owner-Occupier,158625.0
+Y25,Gorey,8,2011,Existing,Household Buyer - Non-Occupier,101400.0
+Y25,Gorey,9,2011,All Dwelling Statuses,All Buyer Types,119709.0
+Y25,Gorey,9,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,178753.0
+Y25,Gorey,9,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,121400.0
+Y25,Gorey,9,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,92714.0
+Y25,Gorey,9,2011,New,All Buyer Types,130686.0
+Y25,Gorey,9,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,171258.0
+Y25,Gorey,9,2011,New,Household Buyer - Former Owner-Occupier,110401.0
+Y25,Gorey,9,2011,New,Household Buyer - Non-Occupier,
+Y25,Gorey,9,2011,Existing,All Buyer Types,117357.0
+Y25,Gorey,9,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,182500.0
+Y25,Gorey,9,2011,Existing,Household Buyer - Former Owner-Occupier,125800.0
+Y25,Gorey,9,2011,Existing,Household Buyer - Non-Occupier,92714.0
+Y25,Gorey,10,2011,All Dwelling Statuses,All Buyer Types,139626.0
+Y25,Gorey,10,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,10,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,166899.0
+Y25,Gorey,10,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,64625.0
+Y25,Gorey,10,2011,New,All Buyer Types,221893.0
+Y25,Gorey,10,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,10,2011,New,Household Buyer - Former Owner-Occupier,221893.0
+Y25,Gorey,10,2011,New,Household Buyer - Non-Occupier,
+Y25,Gorey,10,2011,Existing,All Buyer Types,133750.0
+Y25,Gorey,10,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,10,2011,Existing,Household Buyer - Former Owner-Occupier,161400.0
+Y25,Gorey,10,2011,Existing,Household Buyer - Non-Occupier,64625.0
+Y25,Gorey,11,2011,All Dwelling Statuses,All Buyer Types,144823.0
+Y25,Gorey,11,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,187667.0
+Y25,Gorey,11,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,133688.0
+Y25,Gorey,11,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,134961.0
+Y25,Gorey,11,2011,New,All Buyer Types,166845.0
+Y25,Gorey,11,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,11,2011,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,11,2011,New,Household Buyer - Non-Occupier,166845.0
+Y25,Gorey,11,2011,Existing,All Buyer Types,143250.0
+Y25,Gorey,11,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,187667.0
+Y25,Gorey,11,2011,Existing,Household Buyer - Former Owner-Occupier,133688.0
+Y25,Gorey,11,2011,Existing,Household Buyer - Non-Occupier,124333.0
+Y25,Gorey,12,2011,All Dwelling Statuses,All Buyer Types,128795.0
+Y25,Gorey,12,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100055.0
+Y25,Gorey,12,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,133000.0
+Y25,Gorey,12,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,151649.0
+Y25,Gorey,12,2011,New,All Buyer Types,113104.0
+Y25,Gorey,12,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,104758.0
+Y25,Gorey,12,2011,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,12,2011,New,Household Buyer - Non-Occupier,125623.0
+Y25,Gorey,12,2011,Existing,All Buyer Types,135333.0
+Y25,Gorey,12,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,93000.0
+Y25,Gorey,12,2011,Existing,Household Buyer - Former Owner-Occupier,133000.0
+Y25,Gorey,12,2011,Existing,Household Buyer - Non-Occupier,169000.0
+Y25,Gorey,1,2012,All Dwelling Statuses,All Buyer Types,98415.0
+Y25,Gorey,1,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+Y25,Gorey,1,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,101426.0
+Y25,Gorey,1,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,77000.0
+Y25,Gorey,1,2012,New,All Buyer Types,78994.0
+Y25,Gorey,1,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,1,2012,New,Household Buyer - Former Owner-Occupier,78994.0
+Y25,Gorey,1,2012,New,Household Buyer - Non-Occupier,
+Y25,Gorey,1,2012,Existing,All Buyer Types,104889.0
+Y25,Gorey,1,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+Y25,Gorey,1,2012,Existing,Household Buyer - Former Owner-Occupier,118250.0
+Y25,Gorey,1,2012,Existing,Household Buyer - Non-Occupier,77000.0
+Y25,Gorey,2,2012,All Dwelling Statuses,All Buyer Types,138008.0
+Y25,Gorey,2,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,128802.0
+Y25,Gorey,2,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,172218.0
+Y25,Gorey,2,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,98000.0
+Y25,Gorey,2,2012,New,All Buyer Types,122296.0
+Y25,Gorey,2,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,135986.0
+Y25,Gorey,2,2012,New,Household Buyer - Former Owner-Occupier,96374.0
+Y25,Gorey,2,2012,New,Household Buyer - Non-Occupier,92000.0
+Y25,Gorey,2,2012,Existing,All Buyer Types,149792.0
+Y25,Gorey,2,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,107250.0
+Y25,Gorey,2,2012,Existing,Household Buyer - Former Owner-Occupier,197500.0
+Y25,Gorey,2,2012,Existing,Household Buyer - Non-Occupier,99500.0
+Y25,Gorey,3,2012,All Dwelling Statuses,All Buyer Types,141447.0
+Y25,Gorey,3,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,106250.0
+Y25,Gorey,3,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,167298.0
+Y25,Gorey,3,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,104591.0
+Y25,Gorey,3,2012,New,All Buyer Types,167621.0
+Y25,Gorey,3,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,3,2012,New,Household Buyer - Former Owner-Occupier,204045.0
+Y25,Gorey,3,2012,New,Household Buyer - Non-Occupier,94773.0
+Y25,Gorey,3,2012,Existing,All Buyer Types,132722.0
+Y25,Gorey,3,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,106250.0
+Y25,Gorey,3,2012,Existing,Household Buyer - Former Owner-Occupier,152600.0
+Y25,Gorey,3,2012,Existing,Household Buyer - Non-Occupier,109500.0
+Y25,Gorey,4,2012,All Dwelling Statuses,All Buyer Types,122308.0
+Y25,Gorey,4,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,118547.0
+Y25,Gorey,4,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,111517.0
+Y25,Gorey,4,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,150160.0
+Y25,Gorey,4,2012,New,All Buyer Types,83612.0
+Y25,Gorey,4,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,91368.0
+Y25,Gorey,4,2012,New,Household Buyer - Former Owner-Occupier,68100.0
+Y25,Gorey,4,2012,New,Household Buyer - Non-Occupier,
+Y25,Gorey,4,2012,Existing,All Buyer Types,132862.0
+Y25,Gorey,4,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,136667.0
+Y25,Gorey,4,2012,Existing,Household Buyer - Former Owner-Occupier,120200.0
+Y25,Gorey,4,2012,Existing,Household Buyer - Non-Occupier,150160.0
+Y25,Gorey,5,2012,All Dwelling Statuses,All Buyer Types,136985.0
+Y25,Gorey,5,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,91000.0
+Y25,Gorey,5,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178440.0
+Y25,Gorey,5,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,79333.0
+Y25,Gorey,5,2012,New,All Buyer Types,197100.0
+Y25,Gorey,5,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,5,2012,New,Household Buyer - Former Owner-Occupier,197100.0
+Y25,Gorey,5,2012,New,Household Buyer - Non-Occupier,
+Y25,Gorey,5,2012,Existing,All Buyer Types,119809.0
+Y25,Gorey,5,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,91000.0
+Y25,Gorey,5,2012,Existing,Household Buyer - Former Owner-Occupier,166000.0
+Y25,Gorey,5,2012,Existing,Household Buyer - Non-Occupier,79333.0
+Y25,Gorey,6,2012,All Dwelling Statuses,All Buyer Types,165930.0
+Y25,Gorey,6,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,155833.0
+Y25,Gorey,6,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,189936.0
+Y25,Gorey,6,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,119488.0
+Y25,Gorey,6,2012,New,All Buyer Types,126469.0
+Y25,Gorey,6,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,6,2012,New,Household Buyer - Former Owner-Occupier,167963.0
+Y25,Gorey,6,2012,New,Household Buyer - Non-Occupier,84975.0
+Y25,Gorey,6,2012,Existing,All Buyer Types,179083.0
+Y25,Gorey,6,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,155833.0
+Y25,Gorey,6,2012,Existing,Household Buyer - Former Owner-Occupier,196214.0
+Y25,Gorey,6,2012,Existing,Household Buyer - Non-Occupier,154000.0
+Y25,Gorey,7,2012,All Dwelling Statuses,All Buyer Types,124513.0
+Y25,Gorey,7,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,89993.0
+Y25,Gorey,7,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,158910.0
+Y25,Gorey,7,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,67247.0
+Y25,Gorey,7,2012,New,All Buyer Types,118307.0
+Y25,Gorey,7,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,97489.0
+Y25,Gorey,7,2012,New,Household Buyer - Former Owner-Occupier,184000.0
+Y25,Gorey,7,2012,New,Household Buyer - Non-Occupier,66493.0
+Y25,Gorey,7,2012,Existing,All Buyer Types,128059.0
+Y25,Gorey,7,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,75000.0
+Y25,Gorey,7,2012,Existing,Household Buyer - Former Owner-Occupier,151383.0
+Y25,Gorey,7,2012,Existing,Household Buyer - Non-Occupier,68000.0
+Y25,Gorey,8,2012,All Dwelling Statuses,All Buyer Types,134562.0
+Y25,Gorey,8,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,163474.0
+Y25,Gorey,8,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,134877.0
+Y25,Gorey,8,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,113191.0
+Y25,Gorey,8,2012,New,All Buyer Types,128823.0
+Y25,Gorey,8,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,70370.0
+Y25,Gorey,8,2012,New,Household Buyer - Former Owner-Occupier,187275.0
+Y25,Gorey,8,2012,New,Household Buyer - Non-Occupier,
+Y25,Gorey,8,2012,Existing,All Buyer Types,135003.0
+Y25,Gorey,8,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,186750.0
+Y25,Gorey,8,2012,Existing,Household Buyer - Former Owner-Occupier,131383.0
+Y25,Gorey,8,2012,Existing,Household Buyer - Non-Occupier,113191.0
+Y25,Gorey,9,2012,All Dwelling Statuses,All Buyer Types,120602.0
+Y25,Gorey,9,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,104113.0
+Y25,Gorey,9,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,134629.0
+Y25,Gorey,9,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,88000.0
+Y25,Gorey,9,2012,New,All Buyer Types,122875.0
+Y25,Gorey,9,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,129725.0
+Y25,Gorey,9,2012,New,Household Buyer - Former Owner-Occupier,119450.0
+Y25,Gorey,9,2012,New,Household Buyer - Non-Occupier,
+Y25,Gorey,9,2012,Existing,All Buyer Types,119750.0
+Y25,Gorey,9,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,78500.0
+Y25,Gorey,9,2012,Existing,Household Buyer - Former Owner-Occupier,140700.0
+Y25,Gorey,9,2012,Existing,Household Buyer - Non-Occupier,88000.0
+Y25,Gorey,10,2012,All Dwelling Statuses,All Buyer Types,138695.0
+Y25,Gorey,10,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,149333.0
+Y25,Gorey,10,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,152731.0
+Y25,Gorey,10,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,114874.0
+Y25,Gorey,10,2012,New,All Buyer Types,70370.0
+Y25,Gorey,10,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,10,2012,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,10,2012,New,Household Buyer - Non-Occupier,70370.0
+Y25,Gorey,10,2012,Existing,All Buyer Types,141542.0
+Y25,Gorey,10,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,149333.0
+Y25,Gorey,10,2012,Existing,Household Buyer - Former Owner-Occupier,152731.0
+Y25,Gorey,10,2012,Existing,Household Buyer - Non-Occupier,120438.0
+Y25,Gorey,11,2012,All Dwelling Statuses,All Buyer Types,134652.0
+Y25,Gorey,11,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180833.0
+Y25,Gorey,11,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,137989.0
+Y25,Gorey,11,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,97600.0
+Y25,Gorey,11,2012,New,All Buyer Types,80000.0
+Y25,Gorey,11,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,11,2012,New,Household Buyer - Former Owner-Occupier,80000.0
+Y25,Gorey,11,2012,New,Household Buyer - Non-Occupier,
+Y25,Gorey,11,2012,Existing,All Buyer Types,137255.0
+Y25,Gorey,11,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180833.0
+Y25,Gorey,11,2012,Existing,Household Buyer - Former Owner-Occupier,142450.0
+Y25,Gorey,11,2012,Existing,Household Buyer - Non-Occupier,97600.0
+Y25,Gorey,12,2012,All Dwelling Statuses,All Buyer Types,144584.0
+Y25,Gorey,12,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,144729.0
+Y25,Gorey,12,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,158030.0
+Y25,Gorey,12,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,90600.0
+Y25,Gorey,12,2012,New,All Buyer Types,168867.0
+Y25,Gorey,12,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,181600.0
+Y25,Gorey,12,2012,New,Household Buyer - Former Owner-Occupier,162500.0
+Y25,Gorey,12,2012,New,Household Buyer - Non-Occupier,
+Y25,Gorey,12,2012,Existing,All Buyer Types,142072.0
+Y25,Gorey,12,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,138583.0
+Y25,Gorey,12,2012,Existing,Household Buyer - Former Owner-Occupier,157533.0
+Y25,Gorey,12,2012,Existing,Household Buyer - Non-Occupier,90600.0
+Y25,Gorey,1,2013,All Dwelling Statuses,All Buyer Types,140014.0
+Y25,Gorey,1,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,156000.0
+Y25,Gorey,1,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,145163.0
+Y25,Gorey,1,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,125244.0
+Y25,Gorey,1,2013,New,All Buyer Types,76577.0
+Y25,Gorey,1,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,1,2013,New,Household Buyer - Former Owner-Occupier,74999.0
+Y25,Gorey,1,2013,New,Household Buyer - Non-Occupier,77366.0
+Y25,Gorey,1,2013,Existing,All Buyer Types,169292.0
+Y25,Gorey,1,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,156000.0
+Y25,Gorey,1,2013,Existing,Household Buyer - Former Owner-Occupier,160756.0
+Y25,Gorey,1,2013,Existing,Household Buyer - Non-Occupier,221000.0
+Y25,Gorey,2,2013,All Dwelling Statuses,All Buyer Types,131293.0
+Y25,Gorey,2,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,96000.0
+Y25,Gorey,2,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,120910.0
+Y25,Gorey,2,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,218500.0
+Y25,Gorey,2,2013,New,All Buyer Types,181600.0
+Y25,Gorey,2,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,2,2013,New,Household Buyer - Former Owner-Occupier,181600.0
+Y25,Gorey,2,2013,New,Household Buyer - Non-Occupier,
+Y25,Gorey,2,2013,Existing,All Buyer Types,127423.0
+Y25,Gorey,2,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,96000.0
+Y25,Gorey,2,2013,Existing,Household Buyer - Former Owner-Occupier,114167.0
+Y25,Gorey,2,2013,Existing,Household Buyer - Non-Occupier,218500.0
+Y25,Gorey,3,2013,All Dwelling Statuses,All Buyer Types,125840.0
+Y25,Gorey,3,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,148279.0
+Y25,Gorey,3,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,113475.0
+Y25,Gorey,3,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,120000.0
+Y25,Gorey,3,2013,New,All Buyer Types,105370.0
+Y25,Gorey,3,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,164575.0
+Y25,Gorey,3,2013,New,Household Buyer - Former Owner-Occupier,83638.0
+Y25,Gorey,3,2013,New,Household Buyer - Non-Occupier,97500.0
+Y25,Gorey,3,2013,Existing,All Buyer Types,133150.0
+Y25,Gorey,3,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,145020.0
+Y25,Gorey,3,2013,Existing,Household Buyer - Former Owner-Occupier,122000.0
+Y25,Gorey,3,2013,Existing,Household Buyer - Non-Occupier,142500.0
+Y25,Gorey,4,2013,All Dwelling Statuses,All Buyer Types,171539.0
+Y25,Gorey,4,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,131045.0
+Y25,Gorey,4,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,236938.0
+Y25,Gorey,4,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,83100.0
+Y25,Gorey,4,2013,New,All Buyer Types,112363.0
+Y25,Gorey,4,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,131045.0
+Y25,Gorey,4,2013,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,4,2013,New,Household Buyer - Non-Occupier,75000.0
+Y25,Gorey,4,2013,Existing,All Buyer Types,186333.0
+Y25,Gorey,4,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,4,2013,Existing,Household Buyer - Former Owner-Occupier,236938.0
+Y25,Gorey,4,2013,Existing,Household Buyer - Non-Occupier,85125.0
+Y25,Gorey,5,2013,All Dwelling Statuses,All Buyer Types,146577.0
+Y25,Gorey,5,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,130250.0
+Y25,Gorey,5,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,155750.0
+Y25,Gorey,5,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,87500.0
+Y25,Gorey,5,2013,New,All Buyer Types,82500.0
+Y25,Gorey,5,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,5,2013,New,Household Buyer - Former Owner-Occupier,77499.0
+Y25,Gorey,5,2013,New,Household Buyer - Non-Occupier,87500.0
+Y25,Gorey,5,2013,Existing,All Buyer Types,158227.0
+Y25,Gorey,5,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,130250.0
+Y25,Gorey,5,2013,Existing,Household Buyer - Former Owner-Occupier,164444.0
+Y25,Gorey,5,2013,Existing,Household Buyer - Non-Occupier,
+Y25,Gorey,6,2013,All Dwelling Statuses,All Buyer Types,121286.0
+Y25,Gorey,6,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+Y25,Gorey,6,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,126300.0
+Y25,Gorey,6,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,102500.0
+Y25,Gorey,6,2013,New,All Buyer Types,400000.0
+Y25,Gorey,6,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,6,2013,New,Household Buyer - Former Owner-Occupier,400000.0
+Y25,Gorey,6,2013,New,Household Buyer - Non-Occupier,
+Y25,Gorey,6,2013,Existing,All Buyer Types,99846.0
+Y25,Gorey,6,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+Y25,Gorey,6,2013,Existing,Household Buyer - Former Owner-Occupier,95889.0
+Y25,Gorey,6,2013,Existing,Household Buyer - Non-Occupier,102500.0
+Y25,Gorey,7,2013,All Dwelling Statuses,All Buyer Types,119295.0
+Y25,Gorey,7,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,80000.0
+Y25,Gorey,7,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,134292.0
+Y25,Gorey,7,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,110429.0
+Y25,Gorey,7,2013,New,All Buyer Types,
+Y25,Gorey,7,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,7,2013,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,7,2013,New,Household Buyer - Non-Occupier,
+Y25,Gorey,7,2013,Existing,All Buyer Types,119295.0
+Y25,Gorey,7,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,80000.0
+Y25,Gorey,7,2013,Existing,Household Buyer - Former Owner-Occupier,134292.0
+Y25,Gorey,7,2013,Existing,Household Buyer - Non-Occupier,110429.0
+Y25,Gorey,8,2013,All Dwelling Statuses,All Buyer Types,154955.0
+Y25,Gorey,8,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,130166.0
+Y25,Gorey,8,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,175344.0
+Y25,Gorey,8,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+Y25,Gorey,8,2013,New,All Buyer Types,161445.0
+Y25,Gorey,8,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,159999.0
+Y25,Gorey,8,2013,New,Household Buyer - Former Owner-Occupier,161927.0
+Y25,Gorey,8,2013,New,Household Buyer - Non-Occupier,
+Y25,Gorey,8,2013,Existing,All Buyer Types,152792.0
+Y25,Gorey,8,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115250.0
+Y25,Gorey,8,2013,Existing,Household Buyer - Former Owner-Occupier,180375.0
+Y25,Gorey,8,2013,Existing,Household Buyer - Non-Occupier,80000.0
+Y25,Gorey,9,2013,All Dwelling Statuses,All Buyer Types,124943.0
+Y25,Gorey,9,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,124333.0
+Y25,Gorey,9,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,121821.0
+Y25,Gorey,9,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,136328.0
+Y25,Gorey,9,2013,New,All Buyer Types,86312.0
+Y25,Gorey,9,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,9,2013,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,9,2013,New,Household Buyer - Non-Occupier,86312.0
+Y25,Gorey,9,2013,Existing,All Buyer Types,126875.0
+Y25,Gorey,9,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,124333.0
+Y25,Gorey,9,2013,Existing,Household Buyer - Former Owner-Occupier,121821.0
+Y25,Gorey,9,2013,Existing,Household Buyer - Non-Occupier,153000.0
+Y25,Gorey,10,2013,All Dwelling Statuses,All Buyer Types,171831.0
+Y25,Gorey,10,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,162855.0
+Y25,Gorey,10,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178604.0
+Y25,Gorey,10,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,34000.0
+Y25,Gorey,10,2013,New,All Buyer Types,175403.0
+Y25,Gorey,10,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,165710.0
+Y25,Gorey,10,2013,New,Household Buyer - Former Owner-Occupier,178633.0
+Y25,Gorey,10,2013,New,Household Buyer - Non-Occupier,
+Y25,Gorey,10,2013,Existing,All Buyer Types,171182.0
+Y25,Gorey,10,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+Y25,Gorey,10,2013,Existing,Household Buyer - Former Owner-Occupier,178600.0
+Y25,Gorey,10,2013,Existing,Household Buyer - Non-Occupier,34000.0
+Y25,Gorey,11,2013,All Dwelling Statuses,All Buyer Types,123967.0
+Y25,Gorey,11,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,149494.0
+Y25,Gorey,11,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,125967.0
+Y25,Gorey,11,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,112866.0
+Y25,Gorey,11,2013,New,All Buyer Types,127546.0
+Y25,Gorey,11,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,323475.0
+Y25,Gorey,11,2013,New,Household Buyer - Former Owner-Occupier,56183.0
+Y25,Gorey,11,2013,New,Household Buyer - Non-Occupier,65263.0
+Y25,Gorey,11,2013,Existing,All Buyer Types,123285.0
+Y25,Gorey,11,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,91500.0
+Y25,Gorey,11,2013,Existing,Household Buyer - Former Owner-Occupier,133721.0
+Y25,Gorey,11,2013,Existing,Household Buyer - Non-Occupier,123444.0
+Y25,Gorey,12,2013,All Dwelling Statuses,All Buyer Types,136347.0
+Y25,Gorey,12,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,144804.0
+Y25,Gorey,12,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,139801.0
+Y25,Gorey,12,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,97375.0
+Y25,Gorey,12,2013,New,All Buyer Types,128304.0
+Y25,Gorey,12,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,125563.0
+Y25,Gorey,12,2013,New,Household Buyer - Former Owner-Occupier,130132.0
+Y25,Gorey,12,2013,New,Household Buyer - Non-Occupier,
+Y25,Gorey,12,2013,Existing,All Buyer Types,137530.0
+Y25,Gorey,12,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,152500.0
+Y25,Gorey,12,2013,Existing,Household Buyer - Former Owner-Occupier,140961.0
+Y25,Gorey,12,2013,Existing,Household Buyer - Non-Occupier,97375.0
+Y25,Gorey,1,2014,All Dwelling Statuses,All Buyer Types,152278.0
+Y25,Gorey,1,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+Y25,Gorey,1,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,161561.0
+Y25,Gorey,1,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,114600.0
+Y25,Gorey,1,2014,New,All Buyer Types,
+Y25,Gorey,1,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,1,2014,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,1,2014,New,Household Buyer - Non-Occupier,
+Y25,Gorey,1,2014,Existing,All Buyer Types,152278.0
+Y25,Gorey,1,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+Y25,Gorey,1,2014,Existing,Household Buyer - Former Owner-Occupier,161561.0
+Y25,Gorey,1,2014,Existing,Household Buyer - Non-Occupier,114600.0
+Y25,Gorey,2,2014,All Dwelling Statuses,All Buyer Types,103846.0
+Y25,Gorey,2,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,108000.0
+Y25,Gorey,2,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,117625.0
+Y25,Gorey,2,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,89500.0
+Y25,Gorey,2,2014,New,All Buyer Types,
+Y25,Gorey,2,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,2,2014,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,2,2014,New,Household Buyer - Non-Occupier,
+Y25,Gorey,2,2014,Existing,All Buyer Types,103846.0
+Y25,Gorey,2,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,108000.0
+Y25,Gorey,2,2014,Existing,Household Buyer - Former Owner-Occupier,117625.0
+Y25,Gorey,2,2014,Existing,Household Buyer - Non-Occupier,89500.0
+Y25,Gorey,3,2014,All Dwelling Statuses,All Buyer Types,126126.0
+Y25,Gorey,3,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,143375.0
+Y25,Gorey,3,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,136963.0
+Y25,Gorey,3,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,96143.0
+Y25,Gorey,3,2014,New,All Buyer Types,212813.0
+Y25,Gorey,3,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,3,2014,New,Household Buyer - Former Owner-Occupier,212813.0
+Y25,Gorey,3,2014,New,Household Buyer - Non-Occupier,
+Y25,Gorey,3,2014,Existing,All Buyer Types,122357.0
+Y25,Gorey,3,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,143375.0
+Y25,Gorey,3,2014,Existing,Household Buyer - Former Owner-Occupier,130642.0
+Y25,Gorey,3,2014,Existing,Household Buyer - Non-Occupier,96143.0
+Y25,Gorey,4,2014,All Dwelling Statuses,All Buyer Types,128456.0
+Y25,Gorey,4,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,161811.0
+Y25,Gorey,4,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,129806.0
+Y25,Gorey,4,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,76900.0
+Y25,Gorey,4,2014,New,All Buyer Types,229838.0
+Y25,Gorey,4,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,229838.0
+Y25,Gorey,4,2014,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,4,2014,New,Household Buyer - Non-Occupier,
+Y25,Gorey,4,2014,Existing,All Buyer Types,121214.0
+Y25,Gorey,4,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,134600.0
+Y25,Gorey,4,2014,Existing,Household Buyer - Former Owner-Occupier,129806.0
+Y25,Gorey,4,2014,Existing,Household Buyer - Non-Occupier,76900.0
+Y25,Gorey,5,2014,All Dwelling Statuses,All Buyer Types,159181.0
+Y25,Gorey,5,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,237833.0
+Y25,Gorey,5,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,129096.0
+Y25,Gorey,5,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,144567.0
+Y25,Gorey,5,2014,New,All Buyer Types,175713.0
+Y25,Gorey,5,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,243333.0
+Y25,Gorey,5,2014,New,Household Buyer - Former Owner-Occupier,144996.0
+Y25,Gorey,5,2014,New,Household Buyer - Non-Occupier,123451.0
+Y25,Gorey,5,2014,Existing,All Buyer Types,156119.0
+Y25,Gorey,5,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,236000.0
+Y25,Gorey,5,2014,Existing,Household Buyer - Former Owner-Occupier,128160.0
+Y25,Gorey,5,2014,Existing,Household Buyer - Non-Occupier,155125.0
+Y25,Gorey,6,2014,All Dwelling Statuses,All Buyer Types,127591.0
+Y25,Gorey,6,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,95000.0
+Y25,Gorey,6,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,145951.0
+Y25,Gorey,6,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,102214.0
+Y25,Gorey,6,2014,New,All Buyer Types,147266.0
+Y25,Gorey,6,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,6,2014,New,Household Buyer - Former Owner-Occupier,147266.0
+Y25,Gorey,6,2014,New,Household Buyer - Non-Occupier,
+Y25,Gorey,6,2014,Existing,All Buyer Types,126771.0
+Y25,Gorey,6,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,95000.0
+Y25,Gorey,6,2014,Existing,Household Buyer - Former Owner-Occupier,145857.0
+Y25,Gorey,6,2014,Existing,Household Buyer - Non-Occupier,102214.0
+Y25,Gorey,7,2014,All Dwelling Statuses,All Buyer Types,125907.0
+Y25,Gorey,7,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,130136.0
+Y25,Gorey,7,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,129550.0
+Y25,Gorey,7,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,114936.0
+Y25,Gorey,7,2014,New,All Buyer Types,88295.0
+Y25,Gorey,7,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,98477.0
+Y25,Gorey,7,2014,New,Household Buyer - Former Owner-Occupier,103535.0
+Y25,Gorey,7,2014,New,Household Buyer - Non-Occupier,66267.0
+Y25,Gorey,7,2014,Existing,All Buyer Types,134504.0
+Y25,Gorey,7,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,142800.0
+Y25,Gorey,7,2014,Existing,Household Buyer - Former Owner-Occupier,133098.0
+Y25,Gorey,7,2014,Existing,Household Buyer - Non-Occupier,133188.0
+Y25,Gorey,8,2014,All Dwelling Statuses,All Buyer Types,135000.0
+Y25,Gorey,8,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,123333.0
+Y25,Gorey,8,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,139313.0
+Y25,Gorey,8,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,135250.0
+Y25,Gorey,8,2014,New,All Buyer Types,95667.0
+Y25,Gorey,8,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,152000.0
+Y25,Gorey,8,2014,New,Household Buyer - Former Owner-Occupier,67500.0
+Y25,Gorey,8,2014,New,Household Buyer - Non-Occupier,
+Y25,Gorey,8,2014,Existing,All Buyer Types,138278.0
+Y25,Gorey,8,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,119750.0
+Y25,Gorey,8,2014,Existing,Household Buyer - Former Owner-Occupier,145841.0
+Y25,Gorey,8,2014,Existing,Household Buyer - Non-Occupier,135250.0
+Y25,Gorey,9,2014,All Dwelling Statuses,All Buyer Types,168254.0
+Y25,Gorey,9,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,132667.0
+Y25,Gorey,9,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,188571.0
+Y25,Gorey,9,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,95250.0
+Y25,Gorey,9,2014,New,All Buyer Types,131982.0
+Y25,Gorey,9,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,155000.0
+Y25,Gorey,9,2014,New,Household Buyer - Former Owner-Occupier,124309.0
+Y25,Gorey,9,2014,New,Household Buyer - Non-Occupier,
+Y25,Gorey,9,2014,Existing,All Buyer Types,171793.0
+Y25,Gorey,9,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,121500.0
+Y25,Gorey,9,2014,Existing,Household Buyer - Former Owner-Occupier,194790.0
+Y25,Gorey,9,2014,Existing,Household Buyer - Non-Occupier,95250.0
+Y25,Gorey,10,2014,All Dwelling Statuses,All Buyer Types,154665.0
+Y25,Gorey,10,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,155001.0
+Y25,Gorey,10,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,176398.0
+Y25,Gorey,10,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,100250.0
+Y25,Gorey,10,2014,New,All Buyer Types,202933.0
+Y25,Gorey,10,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,180001.0
+Y25,Gorey,10,2014,New,Household Buyer - Former Owner-Occupier,225865.0
+Y25,Gorey,10,2014,New,Household Buyer - Non-Occupier,
+Y25,Gorey,10,2014,Existing,All Buyer Types,151218.0
+Y25,Gorey,10,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+Y25,Gorey,10,2014,Existing,Household Buyer - Former Owner-Occupier,173794.0
+Y25,Gorey,10,2014,Existing,Household Buyer - Non-Occupier,100250.0
+Y25,Gorey,11,2014,All Dwelling Statuses,All Buyer Types,168281.0
+Y25,Gorey,11,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,187036.0
+Y25,Gorey,11,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,171362.0
+Y25,Gorey,11,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,106057.0
+Y25,Gorey,11,2014,New,All Buyer Types,178965.0
+Y25,Gorey,11,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,195107.0
+Y25,Gorey,11,2014,New,Household Buyer - Former Owner-Occupier,189544.0
+Y25,Gorey,11,2014,New,Household Buyer - Non-Occupier,88228.0
+Y25,Gorey,11,2014,Existing,All Buyer Types,165523.0
+Y25,Gorey,11,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,183000.0
+Y25,Gorey,11,2014,Existing,Household Buyer - Former Owner-Occupier,168056.0
+Y25,Gorey,11,2014,Existing,Household Buyer - Non-Occupier,112000.0
+Y25,Gorey,12,2014,All Dwelling Statuses,All Buyer Types,132126.0
+Y25,Gorey,12,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,146389.0
+Y25,Gorey,12,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,137540.0
+Y25,Gorey,12,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,109150.0
+Y25,Gorey,12,2014,New,All Buyer Types,137645.0
+Y25,Gorey,12,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,169726.0
+Y25,Gorey,12,2014,New,Household Buyer - Former Owner-Occupier,151833.0
+Y25,Gorey,12,2014,New,Household Buyer - Non-Occupier,63000.0
+Y25,Gorey,12,2014,Existing,All Buyer Types,131360.0
+Y25,Gorey,12,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,142500.0
+Y25,Gorey,12,2014,Existing,Household Buyer - Former Owner-Occupier,135498.0
+Y25,Gorey,12,2014,Existing,Household Buyer - Non-Occupier,114278.0
+Y25,Gorey,1,2015,All Dwelling Statuses,All Buyer Types,140711.0
+Y25,Gorey,1,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,192834.0
+Y25,Gorey,1,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,139797.0
+Y25,Gorey,1,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,108400.0
+Y25,Gorey,1,2015,New,All Buyer Types,162031.0
+Y25,Gorey,1,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,130006.0
+Y25,Gorey,1,2015,New,Household Buyer - Former Owner-Occupier,170037.0
+Y25,Gorey,1,2015,New,Household Buyer - Non-Occupier,
+Y25,Gorey,1,2015,Existing,All Buyer Types,137576.0
+Y25,Gorey,1,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,205400.0
+Y25,Gorey,1,2015,Existing,Household Buyer - Former Owner-Occupier,133749.0
+Y25,Gorey,1,2015,Existing,Household Buyer - Non-Occupier,108400.0
+Y25,Gorey,2,2015,All Dwelling Statuses,All Buyer Types,166833.0
+Y25,Gorey,2,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,103307.0
+Y25,Gorey,2,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,190105.0
+Y25,Gorey,2,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,129219.0
+Y25,Gorey,2,2015,New,All Buyer Types,132037.0
+Y25,Gorey,2,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,97228.0
+Y25,Gorey,2,2015,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,2,2015,New,Household Buyer - Non-Occupier,166845.0
+Y25,Gorey,2,2015,Existing,All Buyer Types,169510.0
+Y25,Gorey,2,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,105333.0
+Y25,Gorey,2,2015,Existing,Household Buyer - Former Owner-Occupier,190105.0
+Y25,Gorey,2,2015,Existing,Household Buyer - Non-Occupier,119813.0
+Y25,Gorey,3,2015,All Dwelling Statuses,All Buyer Types,145353.0
+Y25,Gorey,3,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,109100.0
+Y25,Gorey,3,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,164173.0
+Y25,Gorey,3,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,112833.0
+Y25,Gorey,3,2015,New,All Buyer Types,144728.0
+Y25,Gorey,3,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,3,2015,New,Household Buyer - Former Owner-Occupier,144728.0
+Y25,Gorey,3,2015,New,Household Buyer - Non-Occupier,
+Y25,Gorey,3,2015,Existing,All Buyer Types,145397.0
+Y25,Gorey,3,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,109100.0
+Y25,Gorey,3,2015,Existing,Household Buyer - Former Owner-Occupier,166333.0
+Y25,Gorey,3,2015,Existing,Household Buyer - Non-Occupier,112833.0
+Y25,Gorey,4,2015,All Dwelling Statuses,All Buyer Types,138476.0
+Y25,Gorey,4,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,138000.0
+Y25,Gorey,4,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,142875.0
+Y25,Gorey,4,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,70000.0
+Y25,Gorey,4,2015,New,All Buyer Types,127499.0
+Y25,Gorey,4,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,4,2015,New,Household Buyer - Former Owner-Occupier,127499.0
+Y25,Gorey,4,2015,New,Household Buyer - Non-Occupier,
+Y25,Gorey,4,2015,Existing,All Buyer Types,139632.0
+Y25,Gorey,4,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,138000.0
+Y25,Gorey,4,2015,Existing,Household Buyer - Former Owner-Occupier,145071.0
+Y25,Gorey,4,2015,Existing,Household Buyer - Non-Occupier,70000.0
+Y25,Gorey,5,2015,All Dwelling Statuses,All Buyer Types,137758.0
+Y25,Gorey,5,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,158385.0
+Y25,Gorey,5,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,137533.0
+Y25,Gorey,5,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,118300.0
+Y25,Gorey,5,2015,New,All Buyer Types,153427.0
+Y25,Gorey,5,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,188713.0
+Y25,Gorey,5,2015,New,Household Buyer - Former Owner-Occupier,82855.0
+Y25,Gorey,5,2015,New,Household Buyer - Non-Occupier,
+Y25,Gorey,5,2015,Existing,All Buyer Types,136333.0
+Y25,Gorey,5,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,138167.0
+Y25,Gorey,5,2015,Existing,Household Buyer - Former Owner-Occupier,139720.0
+Y25,Gorey,5,2015,Existing,Household Buyer - Non-Occupier,118300.0
+Y25,Gorey,6,2015,All Dwelling Statuses,All Buyer Types,163025.0
+Y25,Gorey,6,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,178864.0
+Y25,Gorey,6,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,179614.0
+Y25,Gorey,6,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,95054.0
+Y25,Gorey,6,2015,New,All Buyer Types,151283.0
+Y25,Gorey,6,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,208273.0
+Y25,Gorey,6,2015,New,Household Buyer - Former Owner-Occupier,197997.0
+Y25,Gorey,6,2015,New,Household Buyer - Non-Occupier,70938.0
+Y25,Gorey,6,2015,Existing,All Buyer Types,164919.0
+Y25,Gorey,6,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,167100.0
+Y25,Gorey,6,2015,Existing,Household Buyer - Former Owner-Occupier,178738.0
+Y25,Gorey,6,2015,Existing,Household Buyer - Non-Occupier,104700.0
+Y25,Gorey,7,2015,All Dwelling Statuses,All Buyer Types,158432.0
+Y25,Gorey,7,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,156537.0
+Y25,Gorey,7,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178349.0
+Y25,Gorey,7,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,119679.0
+Y25,Gorey,7,2015,New,All Buyer Types,157899.0
+Y25,Gorey,7,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,123148.0
+Y25,Gorey,7,2015,New,Household Buyer - Former Owner-Occupier,192651.0
+Y25,Gorey,7,2015,New,Household Buyer - Non-Occupier,
+Y25,Gorey,7,2015,Existing,All Buyer Types,158478.0
+Y25,Gorey,7,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,167667.0
+Y25,Gorey,7,2015,Existing,Household Buyer - Former Owner-Occupier,177249.0
+Y25,Gorey,7,2015,Existing,Household Buyer - Non-Occupier,119679.0
+Y25,Gorey,8,2015,All Dwelling Statuses,All Buyer Types,187668.0
+Y25,Gorey,8,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,202908.0
+Y25,Gorey,8,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,199038.0
+Y25,Gorey,8,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,142125.0
+Y25,Gorey,8,2015,New,All Buyer Types,217645.0
+Y25,Gorey,8,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,245725.0
+Y25,Gorey,8,2015,New,Household Buyer - Former Owner-Occupier,203606.0
+Y25,Gorey,8,2015,New,Household Buyer - Non-Occupier,
+Y25,Gorey,8,2015,Existing,All Buyer Types,182047.0
+Y25,Gorey,8,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,181500.0
+Y25,Gorey,8,2015,Existing,Household Buyer - Former Owner-Occupier,198125.0
+Y25,Gorey,8,2015,Existing,Household Buyer - Non-Occupier,142125.0
+Y25,Gorey,9,2015,All Dwelling Statuses,All Buyer Types,143898.0
+Y25,Gorey,9,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,185000.0
+Y25,Gorey,9,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,158110.0
+Y25,Gorey,9,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,109808.0
+Y25,Gorey,9,2015,New,All Buyer Types,234371.0
+Y25,Gorey,9,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+Y25,Gorey,9,2015,New,Household Buyer - Former Owner-Occupier,242806.0
+Y25,Gorey,9,2015,New,Household Buyer - Non-Occupier,235001.0
+Y25,Gorey,9,2015,Existing,All Buyer Types,126387.0
+Y25,Gorey,9,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+Y25,Gorey,9,2015,Existing,Household Buyer - Former Owner-Occupier,140279.0
+Y25,Gorey,9,2015,Existing,Household Buyer - Non-Occupier,98427.0
+Y25,Gorey,10,2015,All Dwelling Statuses,All Buyer Types,145458.0
+Y25,Gorey,10,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,119500.0
+Y25,Gorey,10,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,157500.0
+Y25,Gorey,10,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,124500.0
+Y25,Gorey,10,2015,New,All Buyer Types,137700.0
+Y25,Gorey,10,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+Y25,Gorey,10,2015,New,Household Buyer - Former Owner-Occupier,118334.0
+Y25,Gorey,10,2015,New,Household Buyer - Non-Occupier,113500.0
+Y25,Gorey,10,2015,Existing,All Buyer Types,147500.0
+Y25,Gorey,10,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,94375.0
+Y25,Gorey,10,2015,Existing,Household Buyer - Former Owner-Occupier,166538.0
+Y25,Gorey,10,2015,Existing,Household Buyer - Non-Occupier,130000.0
+Y25,Gorey,11,2015,All Dwelling Statuses,All Buyer Types,129642.0
+Y25,Gorey,11,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,95750.0
+Y25,Gorey,11,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,146412.0
+Y25,Gorey,11,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,110951.0
+Y25,Gorey,11,2015,New,All Buyer Types,97610.0
+Y25,Gorey,11,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,11,2015,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,11,2015,New,Household Buyer - Non-Occupier,97610.0
+Y25,Gorey,11,2015,Existing,All Buyer Types,130786.0
+Y25,Gorey,11,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,95750.0
+Y25,Gorey,11,2015,Existing,Household Buyer - Former Owner-Occupier,146412.0
+Y25,Gorey,11,2015,Existing,Household Buyer - Non-Occupier,112857.0
+Y25,Gorey,12,2015,All Dwelling Statuses,All Buyer Types,173006.0
+Y25,Gorey,12,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115500.0
+Y25,Gorey,12,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,203843.0
+Y25,Gorey,12,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,129111.0
+Y25,Gorey,12,2015,New,All Buyer Types,193244.0
+Y25,Gorey,12,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,49999.0
+Y25,Gorey,12,2015,New,Household Buyer - Former Owner-Occupier,229055.0
+Y25,Gorey,12,2015,New,Household Buyer - Non-Occupier,
+Y25,Gorey,12,2015,Existing,All Buyer Types,170029.0
+Y25,Gorey,12,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,128600.0
+Y25,Gorey,12,2015,Existing,Household Buyer - Former Owner-Occupier,198800.0
+Y25,Gorey,12,2015,Existing,Household Buyer - Non-Occupier,129111.0
+Y25,Gorey,1,2016,All Dwelling Statuses,All Buyer Types,183191.0
+Y25,Gorey,1,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,149000.0
+Y25,Gorey,1,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,188120.0
+Y25,Gorey,1,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,151000.0
+Y25,Gorey,1,2016,New,All Buyer Types,249700.0
+Y25,Gorey,1,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,1,2016,New,Household Buyer - Former Owner-Occupier,249700.0
+Y25,Gorey,1,2016,New,Household Buyer - Non-Occupier,
+Y25,Gorey,1,2016,Existing,All Buyer Types,176857.0
+Y25,Gorey,1,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,149000.0
+Y25,Gorey,1,2016,Existing,Household Buyer - Former Owner-Occupier,181278.0
+Y25,Gorey,1,2016,Existing,Household Buyer - Non-Occupier,151000.0
+Y25,Gorey,2,2016,All Dwelling Statuses,All Buyer Types,176692.0
+Y25,Gorey,2,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,135469.0
+Y25,Gorey,2,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,195906.0
+Y25,Gorey,2,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,134250.0
+Y25,Gorey,2,2016,New,All Buyer Types,144549.0
+Y25,Gorey,2,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,141875.0
+Y25,Gorey,2,2016,New,Household Buyer - Former Owner-Occupier,145887.0
+Y25,Gorey,2,2016,New,Household Buyer - Non-Occupier,
+Y25,Gorey,2,2016,Existing,All Buyer Types,182719.0
+Y25,Gorey,2,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,133333.0
+Y25,Gorey,2,2016,Existing,Household Buyer - Former Owner-Occupier,205000.0
+Y25,Gorey,2,2016,Existing,Household Buyer - Non-Occupier,134250.0
+Y25,Gorey,3,2016,All Dwelling Statuses,All Buyer Types,173942.0
+Y25,Gorey,3,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,132714.0
+Y25,Gorey,3,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,199500.0
+Y25,Gorey,3,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,150250.0
+Y25,Gorey,3,2016,New,All Buyer Types,250000.0
+Y25,Gorey,3,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,3,2016,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,3,2016,New,Household Buyer - Non-Occupier,250000.0
+Y25,Gorey,3,2016,Existing,All Buyer Types,170900.0
+Y25,Gorey,3,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,132714.0
+Y25,Gorey,3,2016,Existing,Household Buyer - Former Owner-Occupier,199500.0
+Y25,Gorey,3,2016,Existing,Household Buyer - Non-Occupier,117000.0
+Y25,Gorey,4,2016,All Dwelling Statuses,All Buyer Types,160158.0
+Y25,Gorey,4,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,132500.0
+Y25,Gorey,4,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,164568.0
+Y25,Gorey,4,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,166512.0
+Y25,Gorey,4,2016,New,All Buyer Types,181622.0
+Y25,Gorey,4,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,4,2016,New,Household Buyer - Former Owner-Occupier,206881.0
+Y25,Gorey,4,2016,New,Household Buyer - Non-Occupier,80585.0
+Y25,Gorey,4,2016,Existing,All Buyer Types,155048.0
+Y25,Gorey,4,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,132500.0
+Y25,Gorey,4,2016,Existing,Household Buyer - Former Owner-Occupier,149182.0
+Y25,Gorey,4,2016,Existing,Household Buyer - Non-Occupier,180833.0
+Y25,Gorey,5,2016,All Dwelling Statuses,All Buyer Types,162172.0
+Y25,Gorey,5,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,142786.0
+Y25,Gorey,5,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,185269.0
+Y25,Gorey,5,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,143889.0
+Y25,Gorey,5,2016,New,All Buyer Types,
+Y25,Gorey,5,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,5,2016,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,5,2016,New,Household Buyer - Non-Occupier,
+Y25,Gorey,5,2016,Existing,All Buyer Types,162172.0
+Y25,Gorey,5,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,142786.0
+Y25,Gorey,5,2016,Existing,Household Buyer - Former Owner-Occupier,185269.0
+Y25,Gorey,5,2016,Existing,Household Buyer - Non-Occupier,143889.0
+Y25,Gorey,6,2016,All Dwelling Statuses,All Buyer Types,164020.0
+Y25,Gorey,6,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,151667.0
+Y25,Gorey,6,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,173163.0
+Y25,Gorey,6,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,123000.0
+Y25,Gorey,6,2016,New,All Buyer Types,193030.0
+Y25,Gorey,6,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+Y25,Gorey,6,2016,New,Household Buyer - Former Owner-Occupier,189545.0
+Y25,Gorey,6,2016,New,Household Buyer - Non-Occupier,
+Y25,Gorey,6,2016,Existing,All Buyer Types,160673.0
+Y25,Gorey,6,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,127500.0
+Y25,Gorey,6,2016,Existing,Household Buyer - Former Owner-Occupier,171525.0
+Y25,Gorey,6,2016,Existing,Household Buyer - Non-Occupier,123000.0
+Y25,Gorey,7,2016,All Dwelling Statuses,All Buyer Types,172133.0
+Y25,Gorey,7,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,105750.0
+Y25,Gorey,7,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,185350.0
+Y25,Gorey,7,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,167861.0
+Y25,Gorey,7,2016,New,All Buyer Types,241960.0
+Y25,Gorey,7,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,7,2016,New,Household Buyer - Former Owner-Occupier,245350.0
+Y25,Gorey,7,2016,New,Household Buyer - Non-Occupier,236875.0
+Y25,Gorey,7,2016,Existing,All Buyer Types,160871.0
+Y25,Gorey,7,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,105750.0
+Y25,Gorey,7,2016,Existing,Household Buyer - Former Owner-Occupier,176350.0
+Y25,Gorey,7,2016,Existing,Household Buyer - Non-Occupier,148143.0
+Y25,Gorey,8,2016,All Dwelling Statuses,All Buyer Types,209019.0
+Y25,Gorey,8,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,182633.0
+Y25,Gorey,8,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,225003.0
+Y25,Gorey,8,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,196417.0
+Y25,Gorey,8,2016,New,All Buyer Types,220352.0
+Y25,Gorey,8,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,8,2016,New,Household Buyer - Former Owner-Occupier,223028.0
+Y25,Gorey,8,2016,New,Household Buyer - Non-Occupier,215000.0
+Y25,Gorey,8,2016,Existing,All Buyer Types,207847.0
+Y25,Gorey,8,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,182633.0
+Y25,Gorey,8,2016,Existing,Household Buyer - Former Owner-Occupier,225267.0
+Y25,Gorey,8,2016,Existing,Household Buyer - Non-Occupier,194094.0
+Y25,Gorey,9,2016,All Dwelling Statuses,All Buyer Types,161095.0
+Y25,Gorey,9,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,173813.0
+Y25,Gorey,9,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,168681.0
+Y25,Gorey,9,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,101300.0
+Y25,Gorey,9,2016,New,All Buyer Types,233738.0
+Y25,Gorey,9,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,257500.0
+Y25,Gorey,9,2016,New,Household Buyer - Former Owner-Occupier,209975.0
+Y25,Gorey,9,2016,New,Household Buyer - Non-Occupier,
+Y25,Gorey,9,2016,Existing,All Buyer Types,152793.0
+Y25,Gorey,9,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,145917.0
+Y25,Gorey,9,2016,Existing,Household Buyer - Former Owner-Occupier,165240.0
+Y25,Gorey,9,2016,Existing,Household Buyer - Non-Occupier,101300.0
+Y25,Gorey,10,2016,All Dwelling Statuses,All Buyer Types,167272.0
+Y25,Gorey,10,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,146818.0
+Y25,Gorey,10,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,163065.0
+Y25,Gorey,10,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,202556.0
+Y25,Gorey,10,2016,New,All Buyer Types,111979.0
+Y25,Gorey,10,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+Y25,Gorey,10,2016,New,Household Buyer - Former Owner-Occupier,107969.0
+Y25,Gorey,10,2016,New,Household Buyer - Non-Occupier,
+Y25,Gorey,10,2016,Existing,All Buyer Types,171526.0
+Y25,Gorey,10,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,149500.0
+Y25,Gorey,10,2016,Existing,Household Buyer - Former Owner-Occupier,168575.0
+Y25,Gorey,10,2016,Existing,Household Buyer - Non-Occupier,202556.0
+Y25,Gorey,11,2016,All Dwelling Statuses,All Buyer Types,166779.0
+Y25,Gorey,11,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,195908.0
+Y25,Gorey,11,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,158788.0
+Y25,Gorey,11,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,170444.0
+Y25,Gorey,11,2016,New,All Buyer Types,144117.0
+Y25,Gorey,11,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,196850.0
+Y25,Gorey,11,2016,New,Household Buyer - Former Owner-Occupier,117750.0
+Y25,Gorey,11,2016,New,Household Buyer - Non-Occupier,
+Y25,Gorey,11,2016,Existing,All Buyer Types,170664.0
+Y25,Gorey,11,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,195438.0
+Y25,Gorey,11,2016,Existing,Household Buyer - Former Owner-Occupier,166250.0
+Y25,Gorey,11,2016,Existing,Household Buyer - Non-Occupier,170444.0
+Y25,Gorey,12,2016,All Dwelling Statuses,All Buyer Types,178512.0
+Y25,Gorey,12,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,227417.0
+Y25,Gorey,12,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178085.0
+Y25,Gorey,12,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,147000.0
+Y25,Gorey,12,2016,New,All Buyer Types,213017.0
+Y25,Gorey,12,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,352000.0
+Y25,Gorey,12,2016,New,Household Buyer - Former Owner-Occupier,143526.0
+Y25,Gorey,12,2016,New,Household Buyer - Non-Occupier,
+Y25,Gorey,12,2016,Existing,All Buyer Types,175554.0
+Y25,Gorey,12,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,202500.0
+Y25,Gorey,12,2016,Existing,Household Buyer - Former Owner-Occupier,181376.0
+Y25,Gorey,12,2016,Existing,Household Buyer - Non-Occupier,147000.0
+Y25,Gorey,1,2017,All Dwelling Statuses,All Buyer Types,198275.0
+Y25,Gorey,1,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,142500.0
+Y25,Gorey,1,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,201211.0
+Y25,Gorey,1,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+Y25,Gorey,1,2017,New,All Buyer Types,
+Y25,Gorey,1,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,1,2017,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,1,2017,New,Household Buyer - Non-Occupier,
+Y25,Gorey,1,2017,Existing,All Buyer Types,198275.0
+Y25,Gorey,1,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,142500.0
+Y25,Gorey,1,2017,Existing,Household Buyer - Former Owner-Occupier,201211.0
+Y25,Gorey,1,2017,Existing,Household Buyer - Non-Occupier,
+Y25,Gorey,2,2017,All Dwelling Statuses,All Buyer Types,178429.0
+Y25,Gorey,2,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,151306.0
+Y25,Gorey,2,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,199977.0
+Y25,Gorey,2,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,135583.0
+Y25,Gorey,2,2017,New,All Buyer Types,151489.0
+Y25,Gorey,2,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,142475.0
+Y25,Gorey,2,2017,New,Household Buyer - Former Owner-Occupier,168749.0
+Y25,Gorey,2,2017,New,Household Buyer - Non-Occupier,134999.0
+Y25,Gorey,2,2017,Existing,All Buyer Types,182774.0
+Y25,Gorey,2,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,154250.0
+Y25,Gorey,2,2017,Existing,Household Buyer - Former Owner-Occupier,203100.0
+Y25,Gorey,2,2017,Existing,Household Buyer - Non-Occupier,135700.0
+Y25,Gorey,3,2017,All Dwelling Statuses,All Buyer Types,195881.0
+Y25,Gorey,3,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,222687.0
+Y25,Gorey,3,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,199332.0
+Y25,Gorey,3,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,162700.0
+Y25,Gorey,3,2017,New,All Buyer Types,221730.0
+Y25,Gorey,3,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,236999.0
+Y25,Gorey,3,2017,New,Household Buyer - Former Owner-Occupier,251383.0
+Y25,Gorey,3,2017,New,Household Buyer - Non-Occupier,117500.0
+Y25,Gorey,3,2017,Existing,All Buyer Types,189726.0
+Y25,Gorey,3,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,217917.0
+Y25,Gorey,3,2017,Existing,Household Buyer - Former Owner-Occupier,188179.0
+Y25,Gorey,3,2017,Existing,Household Buyer - Non-Occupier,174000.0
+Y25,Gorey,4,2017,All Dwelling Statuses,All Buyer Types,181096.0
+Y25,Gorey,4,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,159500.0
+Y25,Gorey,4,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,207964.0
+Y25,Gorey,4,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,140000.0
+Y25,Gorey,4,2017,New,All Buyer Types,197999.0
+Y25,Gorey,4,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,4,2017,New,Household Buyer - Former Owner-Occupier,189499.0
+Y25,Gorey,4,2017,New,Household Buyer - Non-Occupier,215000.0
+Y25,Gorey,4,2017,Existing,All Buyer Types,178891.0
+Y25,Gorey,4,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,159500.0
+Y25,Gorey,4,2017,Existing,Household Buyer - Former Owner-Occupier,211042.0
+Y25,Gorey,4,2017,Existing,Household Buyer - Non-Occupier,125000.0
+Y25,Gorey,5,2017,All Dwelling Statuses,All Buyer Types,173581.0
+Y25,Gorey,5,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,151375.0
+Y25,Gorey,5,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,191662.0
+Y25,Gorey,5,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,144714.0
+Y25,Gorey,5,2017,New,All Buyer Types,197844.0
+Y25,Gorey,5,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,150501.0
+Y25,Gorey,5,2017,New,Household Buyer - Former Owner-Occupier,245188.0
+Y25,Gorey,5,2017,New,Household Buyer - Non-Occupier,
+Y25,Gorey,5,2017,Existing,All Buyer Types,170548.0
+Y25,Gorey,5,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,151667.0
+Y25,Gorey,5,2017,Existing,Household Buyer - Former Owner-Occupier,186028.0
+Y25,Gorey,5,2017,Existing,Household Buyer - Non-Occupier,144714.0
+Y25,Gorey,6,2017,All Dwelling Statuses,All Buyer Types,170796.0
+Y25,Gorey,6,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,135583.0
+Y25,Gorey,6,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178746.0
+Y25,Gorey,6,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,174857.0
+Y25,Gorey,6,2017,New,All Buyer Types,236275.0
+Y25,Gorey,6,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,182000.0
+Y25,Gorey,6,2017,New,Household Buyer - Former Owner-Occupier,247130.0
+Y25,Gorey,6,2017,New,Household Buyer - Non-Occupier,
+Y25,Gorey,6,2017,Existing,All Buyer Types,157700.0
+Y25,Gorey,6,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,126300.0
+Y25,Gorey,6,2017,Existing,Household Buyer - Former Owner-Occupier,159750.0
+Y25,Gorey,6,2017,Existing,Household Buyer - Non-Occupier,174857.0
+Y25,Gorey,7,2017,All Dwelling Statuses,All Buyer Types,165771.0
+Y25,Gorey,7,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,145750.0
+Y25,Gorey,7,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,182000.0
+Y25,Gorey,7,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,165417.0
+Y25,Gorey,7,2017,New,All Buyer Types,158999.0
+Y25,Gorey,7,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,158999.0
+Y25,Gorey,7,2017,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,7,2017,New,Household Buyer - Non-Occupier,
+Y25,Gorey,7,2017,Existing,All Buyer Types,166065.0
+Y25,Gorey,7,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,143857.0
+Y25,Gorey,7,2017,Existing,Household Buyer - Former Owner-Occupier,182000.0
+Y25,Gorey,7,2017,Existing,Household Buyer - Non-Occupier,165417.0
+Y25,Gorey,8,2017,All Dwelling Statuses,All Buyer Types,199688.0
+Y25,Gorey,8,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,255175.0
+Y25,Gorey,8,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,194517.0
+Y25,Gorey,8,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,174290.0
+Y25,Gorey,8,2017,New,All Buyer Types,209050.0
+Y25,Gorey,8,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,261050.0
+Y25,Gorey,8,2017,New,Household Buyer - Former Owner-Occupier,226315.0
+Y25,Gorey,8,2017,New,Household Buyer - Non-Occupier,145677.0
+Y25,Gorey,8,2017,Existing,All Buyer Types,196065.0
+Y25,Gorey,8,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,254000.0
+Y25,Gorey,8,2017,Existing,Household Buyer - Former Owner-Occupier,182955.0
+Y25,Gorey,8,2017,Existing,Household Buyer - Non-Occupier,195750.0
+Y25,Gorey,9,2017,All Dwelling Statuses,All Buyer Types,187320.0
+Y25,Gorey,9,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+Y25,Gorey,9,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197564.0
+Y25,Gorey,9,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,157635.0
+Y25,Gorey,9,2017,New,All Buyer Types,242681.0
+Y25,Gorey,9,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,9,2017,New,Household Buyer - Former Owner-Occupier,290999.0
+Y25,Gorey,9,2017,New,Household Buyer - Non-Occupier,162149.0
+Y25,Gorey,9,2017,Existing,All Buyer Types,173480.0
+Y25,Gorey,9,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+Y25,Gorey,9,2017,Existing,Household Buyer - Former Owner-Occupier,178098.0
+Y25,Gorey,9,2017,Existing,Household Buyer - Non-Occupier,154250.0
+Y25,Gorey,10,2017,All Dwelling Statuses,All Buyer Types,201047.0
+Y25,Gorey,10,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,196666.0
+Y25,Gorey,10,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,211978.0
+Y25,Gorey,10,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,138750.0
+Y25,Gorey,10,2017,New,All Buyer Types,264493.0
+Y25,Gorey,10,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,236999.0
+Y25,Gorey,10,2017,New,Household Buyer - Former Owner-Occupier,273658.0
+Y25,Gorey,10,2017,New,Household Buyer - Non-Occupier,
+Y25,Gorey,10,2017,Existing,All Buyer Types,191648.0
+Y25,Gorey,10,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,176500.0
+Y25,Gorey,10,2017,Existing,Household Buyer - Former Owner-Occupier,203167.0
+Y25,Gorey,10,2017,Existing,Household Buyer - Non-Occupier,138750.0
+Y25,Gorey,11,2017,All Dwelling Statuses,All Buyer Types,211129.0
+Y25,Gorey,11,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,161263.0
+Y25,Gorey,11,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,233394.0
+Y25,Gorey,11,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,192750.0
+Y25,Gorey,11,2017,New,All Buyer Types,251212.0
+Y25,Gorey,11,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,235626.0
+Y25,Gorey,11,2017,New,Household Buyer - Former Owner-Occupier,256408.0
+Y25,Gorey,11,2017,New,Household Buyer - Non-Occupier,
+Y25,Gorey,11,2017,Existing,All Buyer Types,207400.0
+Y25,Gorey,11,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,153000.0
+Y25,Gorey,11,2017,Existing,Household Buyer - Former Owner-Occupier,230738.0
+Y25,Gorey,11,2017,Existing,Household Buyer - Non-Occupier,192750.0
+Y25,Gorey,12,2017,All Dwelling Statuses,All Buyer Types,227650.0
+Y25,Gorey,12,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,255643.0
+Y25,Gorey,12,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,238177.0
+Y25,Gorey,12,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,167625.0
+Y25,Gorey,12,2017,New,All Buyer Types,204198.0
+Y25,Gorey,12,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,12,2017,New,Household Buyer - Former Owner-Occupier,204198.0
+Y25,Gorey,12,2017,New,Household Buyer - Non-Occupier,
+Y25,Gorey,12,2017,Existing,All Buyer Types,230118.0
+Y25,Gorey,12,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,255643.0
+Y25,Gorey,12,2017,Existing,Household Buyer - Former Owner-Occupier,244087.0
+Y25,Gorey,12,2017,Existing,Household Buyer - Non-Occupier,167625.0
+Y25,Gorey,1,2018,All Dwelling Statuses,All Buyer Types,167391.0
+Y25,Gorey,1,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,148667.0
+Y25,Gorey,1,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,162100.0
+Y25,Gorey,1,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,194500.0
+Y25,Gorey,1,2018,New,All Buyer Types,324999.0
+Y25,Gorey,1,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,1,2018,New,Household Buyer - Former Owner-Occupier,384999.0
+Y25,Gorey,1,2018,New,Household Buyer - Non-Occupier,265000.0
+Y25,Gorey,1,2018,Existing,All Buyer Types,152381.0
+Y25,Gorey,1,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,148667.0
+Y25,Gorey,1,2018,Existing,Household Buyer - Former Owner-Occupier,146179.0
+Y25,Gorey,1,2018,Existing,Household Buyer - Non-Occupier,176875.0
+Y25,Gorey,2,2018,All Dwelling Statuses,All Buyer Types,217489.0
+Y25,Gorey,2,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,206000.0
+Y25,Gorey,2,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,221455.0
+Y25,Gorey,2,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,110000.0
+Y25,Gorey,2,2018,New,All Buyer Types,308332.0
+Y25,Gorey,2,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,2,2018,New,Household Buyer - Former Owner-Occupier,308332.0
+Y25,Gorey,2,2018,New,Household Buyer - Non-Occupier,
+Y25,Gorey,2,2018,Existing,All Buyer Types,196525.0
+Y25,Gorey,2,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,206000.0
+Y25,Gorey,2,2018,Existing,Household Buyer - Former Owner-Occupier,199735.0
+Y25,Gorey,2,2018,Existing,Household Buyer - Non-Occupier,110000.0
+Y25,Gorey,3,2018,All Dwelling Statuses,All Buyer Types,195967.0
+Y25,Gorey,3,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,189167.0
+Y25,Gorey,3,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,203500.0
+Y25,Gorey,3,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,168500.0
+Y25,Gorey,3,2018,New,All Buyer Types,250000.0
+Y25,Gorey,3,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,250000.0
+Y25,Gorey,3,2018,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,3,2018,New,Household Buyer - Non-Occupier,
+Y25,Gorey,3,2018,Existing,All Buyer Types,194103.0
+Y25,Gorey,3,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,177000.0
+Y25,Gorey,3,2018,Existing,Household Buyer - Former Owner-Occupier,203500.0
+Y25,Gorey,3,2018,Existing,Household Buyer - Non-Occupier,168500.0
+Y25,Gorey,4,2018,All Dwelling Statuses,All Buyer Types,202387.0
+Y25,Gorey,4,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,179500.0
+Y25,Gorey,4,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,207896.0
+Y25,Gorey,4,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,208749.0
+Y25,Gorey,4,2018,New,All Buyer Types,259874.0
+Y25,Gorey,4,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,240000.0
+Y25,Gorey,4,2018,New,Household Buyer - Former Owner-Occupier,263042.0
+Y25,Gorey,4,2018,New,Household Buyer - Non-Occupier,263332.0
+Y25,Gorey,4,2018,Existing,All Buyer Types,184891.0
+Y25,Gorey,4,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,167400.0
+Y25,Gorey,4,2018,Existing,Household Buyer - Former Owner-Occupier,196867.0
+Y25,Gorey,4,2018,Existing,Household Buyer - Non-Occupier,154167.0
+Y25,Gorey,5,2018,All Dwelling Statuses,All Buyer Types,211833.0
+Y25,Gorey,5,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+Y25,Gorey,5,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,231349.0
+Y25,Gorey,5,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,146611.0
+Y25,Gorey,5,2018,New,All Buyer Types,272570.0
+Y25,Gorey,5,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,5,2018,New,Household Buyer - Former Owner-Occupier,371967.0
+Y25,Gorey,5,2018,New,Household Buyer - Non-Occupier,73775.0
+Y25,Gorey,5,2018,Existing,All Buyer Types,205550.0
+Y25,Gorey,5,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+Y25,Gorey,5,2018,Existing,Household Buyer - Former Owner-Occupier,218566.0
+Y25,Gorey,5,2018,Existing,Household Buyer - Non-Occupier,158750.0
+Y25,Gorey,6,2018,All Dwelling Statuses,All Buyer Types,208626.0
+Y25,Gorey,6,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,171778.0
+Y25,Gorey,6,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,225752.0
+Y25,Gorey,6,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,185900.0
+Y25,Gorey,6,2018,New,All Buyer Types,270765.0
+Y25,Gorey,6,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,250000.0
+Y25,Gorey,6,2018,New,Household Buyer - Former Owner-Occupier,277686.0
+Y25,Gorey,6,2018,New,Household Buyer - Non-Occupier,
+Y25,Gorey,6,2018,Existing,All Buyer Types,201722.0
+Y25,Gorey,6,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,162000.0
+Y25,Gorey,6,2018,Existing,Household Buyer - Former Owner-Occupier,218978.0
+Y25,Gorey,6,2018,Existing,Household Buyer - Non-Occupier,185900.0
+Y25,Gorey,7,2018,All Dwelling Statuses,All Buyer Types,223430.0
+Y25,Gorey,7,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,224888.0
+Y25,Gorey,7,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,218601.0
+Y25,Gorey,7,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,252500.0
+Y25,Gorey,7,2018,New,All Buyer Types,271873.0
+Y25,Gorey,7,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,265635.0
+Y25,Gorey,7,2018,New,Household Buyer - Former Owner-Occupier,276864.0
+Y25,Gorey,7,2018,New,Household Buyer - Non-Occupier,
+Y25,Gorey,7,2018,Existing,All Buyer Types,211319.0
+Y25,Gorey,7,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,206778.0
+Y25,Gorey,7,2018,Existing,Household Buyer - Former Owner-Occupier,205935.0
+Y25,Gorey,7,2018,Existing,Household Buyer - Non-Occupier,252500.0
+Y25,Gorey,8,2018,All Dwelling Statuses,All Buyer Types,191865.0
+Y25,Gorey,8,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,172500.0
+Y25,Gorey,8,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,198919.0
+Y25,Gorey,8,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,153054.0
+Y25,Gorey,8,2018,New,All Buyer Types,265557.0
+Y25,Gorey,8,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,8,2018,New,Household Buyer - Former Owner-Occupier,272814.0
+Y25,Gorey,8,2018,New,Household Buyer - Non-Occupier,229270.0
+Y25,Gorey,8,2018,Existing,All Buyer Types,178860.0
+Y25,Gorey,8,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,172500.0
+Y25,Gorey,8,2018,Existing,Household Buyer - Former Owner-Occupier,185723.0
+Y25,Gorey,8,2018,Existing,Household Buyer - Non-Occupier,134000.0
+Y25,Gorey,9,2018,All Dwelling Statuses,All Buyer Types,237846.0
+Y25,Gorey,9,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,187357.0
+Y25,Gorey,9,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,266286.0
+Y25,Gorey,9,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,228900.0
+Y25,Gorey,9,2018,New,All Buyer Types,450000.0
+Y25,Gorey,9,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,9,2018,New,Household Buyer - Former Owner-Occupier,450000.0
+Y25,Gorey,9,2018,New,Household Buyer - Non-Occupier,
+Y25,Gorey,9,2018,Existing,All Buyer Types,229360.0
+Y25,Gorey,9,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,187357.0
+Y25,Gorey,9,2018,Existing,Household Buyer - Former Owner-Occupier,252154.0
+Y25,Gorey,9,2018,Existing,Household Buyer - Non-Occupier,228900.0
+Y25,Gorey,10,2018,All Dwelling Statuses,All Buyer Types,206624.0
+Y25,Gorey,10,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,239980.0
+Y25,Gorey,10,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,221972.0
+Y25,Gorey,10,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,99600.0
+Y25,Gorey,10,2018,New,All Buyer Types,342909.0
+Y25,Gorey,10,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,385900.0
+Y25,Gorey,10,2018,New,Household Buyer - Former Owner-Occupier,321414.0
+Y25,Gorey,10,2018,New,Household Buyer - Non-Occupier,
+Y25,Gorey,10,2018,Existing,All Buyer Types,193435.0
+Y25,Gorey,10,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,203500.0
+Y25,Gorey,10,2018,Existing,Household Buyer - Former Owner-Occupier,212932.0
+Y25,Gorey,10,2018,Existing,Household Buyer - Non-Occupier,99600.0
+Y25,Gorey,11,2018,All Dwelling Statuses,All Buyer Types,244565.0
+Y25,Gorey,11,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,251500.0
+Y25,Gorey,11,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,245966.0
+Y25,Gorey,11,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,235729.0
+Y25,Gorey,11,2018,New,All Buyer Types,398763.0
+Y25,Gorey,11,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,11,2018,New,Household Buyer - Former Owner-Occupier,259915.0
+Y25,Gorey,11,2018,New,Household Buyer - Non-Occupier,468188.0
+Y25,Gorey,11,2018,Existing,All Buyer Types,228614.0
+Y25,Gorey,11,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,251500.0
+Y25,Gorey,11,2018,Existing,Household Buyer - Former Owner-Occupier,245332.0
+Y25,Gorey,11,2018,Existing,Household Buyer - Non-Occupier,119500.0
+Y25,Gorey,12,2018,All Dwelling Statuses,All Buyer Types,197759.0
+Y25,Gorey,12,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,220719.0
+Y25,Gorey,12,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,211908.0
+Y25,Gorey,12,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,136475.0
+Y25,Gorey,12,2018,New,All Buyer Types,182374.0
+Y25,Gorey,12,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,199999.0
+Y25,Gorey,12,2018,New,Household Buyer - Former Owner-Occupier,174866.0
+Y25,Gorey,12,2018,New,Household Buyer - Non-Occupier,187275.0
+Y25,Gorey,12,2018,Existing,All Buyer Types,199783.0
+Y25,Gorey,12,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,223679.0
+Y25,Gorey,12,2018,Existing,Household Buyer - Former Owner-Occupier,216739.0
+Y25,Gorey,12,2018,Existing,Household Buyer - Non-Occupier,130125.0
+Y25,Gorey,1,2019,All Dwelling Statuses,All Buyer Types,187654.0
+Y25,Gorey,1,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+Y25,Gorey,1,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197650.0
+Y25,Gorey,1,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,161500.0
+Y25,Gorey,1,2019,New,All Buyer Types,199999.0
+Y25,Gorey,1,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,1,2019,New,Household Buyer - Former Owner-Occupier,199999.0
+Y25,Gorey,1,2019,New,Household Buyer - Non-Occupier,
+Y25,Gorey,1,2019,Existing,All Buyer Types,187160.0
+Y25,Gorey,1,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+Y25,Gorey,1,2019,Existing,Household Buyer - Former Owner-Occupier,197526.0
+Y25,Gorey,1,2019,Existing,Household Buyer - Non-Occupier,161500.0
+Y25,Gorey,2,2019,All Dwelling Statuses,All Buyer Types,209098.0
+Y25,Gorey,2,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,211759.0
+Y25,Gorey,2,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,210647.0
+Y25,Gorey,2,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,197750.0
+Y25,Gorey,2,2019,New,All Buyer Types,305350.0
+Y25,Gorey,2,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,298051.0
+Y25,Gorey,2,2019,New,Household Buyer - Former Owner-Occupier,308999.0
+Y25,Gorey,2,2019,New,Household Buyer - Non-Occupier,
+Y25,Gorey,2,2019,Existing,All Buyer Types,197992.0
+Y25,Gorey,2,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,194500.0
+Y25,Gorey,2,2019,Existing,Household Buyer - Former Owner-Occupier,199076.0
+Y25,Gorey,2,2019,Existing,Household Buyer - Non-Occupier,197750.0
+Y25,Gorey,3,2019,All Dwelling Statuses,All Buyer Types,214760.0
+Y25,Gorey,3,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,205500.0
+Y25,Gorey,3,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,258335.0
+Y25,Gorey,3,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,126849.0
+Y25,Gorey,3,2019,New,All Buyer Types,248940.0
+Y25,Gorey,3,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,288999.0
+Y25,Gorey,3,2019,New,Household Buyer - Former Owner-Occupier,304007.0
+Y25,Gorey,3,2019,New,Household Buyer - Non-Occupier,98745.0
+Y25,Gorey,3,2019,Existing,All Buyer Types,208545.0
+Y25,Gorey,3,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,195063.0
+Y25,Gorey,3,2019,Existing,Household Buyer - Former Owner-Occupier,249200.0
+Y25,Gorey,3,2019,Existing,Household Buyer - Non-Occupier,133875.0
+Y25,Gorey,4,2019,All Dwelling Statuses,All Buyer Types,212903.0
+Y25,Gorey,4,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,190485.0
+Y25,Gorey,4,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,225684.0
+Y25,Gorey,4,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,127000.0
+Y25,Gorey,4,2019,New,All Buyer Types,261964.0
+Y25,Gorey,4,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,200895.0
+Y25,Gorey,4,2019,New,Household Buyer - Former Owner-Occupier,292499.0
+Y25,Gorey,4,2019,New,Household Buyer - Non-Occupier,
+Y25,Gorey,4,2019,Existing,All Buyer Types,206771.0
+Y25,Gorey,4,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,188750.0
+Y25,Gorey,4,2019,Existing,Household Buyer - Former Owner-Occupier,217824.0
+Y25,Gorey,4,2019,Existing,Household Buyer - Non-Occupier,127000.0
+Y25,Gorey,5,2019,All Dwelling Statuses,All Buyer Types,223684.0
+Y25,Gorey,5,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,237813.0
+Y25,Gorey,5,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,237783.0
+Y25,Gorey,5,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,175318.0
+Y25,Gorey,5,2019,New,All Buyer Types,277792.0
+Y25,Gorey,5,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,270130.0
+Y25,Gorey,5,2019,New,Household Buyer - Former Owner-Occupier,339300.0
+Y25,Gorey,5,2019,New,Household Buyer - Non-Occupier,220114.0
+Y25,Gorey,5,2019,Existing,All Buyer Types,213279.0
+Y25,Gorey,5,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,231350.0
+Y25,Gorey,5,2019,Existing,Household Buyer - Former Owner-Occupier,225094.0
+Y25,Gorey,5,2019,Existing,Household Buyer - Non-Occupier,157400.0
+Y25,Gorey,6,2019,All Dwelling Statuses,All Buyer Types,226189.0
+Y25,Gorey,6,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225177.0
+Y25,Gorey,6,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,233498.0
+Y25,Gorey,6,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,154000.0
+Y25,Gorey,6,2019,New,All Buyer Types,269792.0
+Y25,Gorey,6,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,250523.0
+Y25,Gorey,6,2019,New,Household Buyer - Former Owner-Occupier,295483.0
+Y25,Gorey,6,2019,New,Household Buyer - Non-Occupier,
+Y25,Gorey,6,2019,Existing,All Buyer Types,213980.0
+Y25,Gorey,6,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,204900.0
+Y25,Gorey,6,2019,Existing,Household Buyer - Former Owner-Occupier,223167.0
+Y25,Gorey,6,2019,Existing,Household Buyer - Non-Occupier,154000.0
+Y25,Gorey,7,2019,All Dwelling Statuses,All Buyer Types,225396.0
+Y25,Gorey,7,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,259750.0
+Y25,Gorey,7,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,230183.0
+Y25,Gorey,7,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,190036.0
+Y25,Gorey,7,2019,New,All Buyer Types,278244.0
+Y25,Gorey,7,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,7,2019,New,Household Buyer - Former Owner-Occupier,273200.0
+Y25,Gorey,7,2019,New,Household Buyer - Non-Occupier,293375.0
+Y25,Gorey,7,2019,Existing,All Buyer Types,209135.0
+Y25,Gorey,7,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,259750.0
+Y25,Gorey,7,2019,Existing,Household Buyer - Former Owner-Occupier,215000.0
+Y25,Gorey,7,2019,Existing,Household Buyer - Non-Occupier,148700.0
+Y25,Gorey,8,2019,All Dwelling Statuses,All Buyer Types,215159.0
+Y25,Gorey,8,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,327384.0
+Y25,Gorey,8,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,204792.0
+Y25,Gorey,8,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,152700.0
+Y25,Gorey,8,2019,New,All Buyer Types,254961.0
+Y25,Gorey,8,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,254961.0
+Y25,Gorey,8,2019,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,8,2019,New,Household Buyer - Non-Occupier,
+Y25,Gorey,8,2019,Existing,All Buyer Types,212672.0
+Y25,Gorey,8,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,375667.0
+Y25,Gorey,8,2019,Existing,Household Buyer - Former Owner-Occupier,204792.0
+Y25,Gorey,8,2019,Existing,Household Buyer - Non-Occupier,152700.0
+Y25,Gorey,9,2019,All Dwelling Statuses,All Buyer Types,251156.0
+Y25,Gorey,9,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225398.0
+Y25,Gorey,9,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,267088.0
+Y25,Gorey,9,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,217083.0
+Y25,Gorey,9,2019,New,All Buyer Types,287228.0
+Y25,Gorey,9,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,281327.0
+Y25,Gorey,9,2019,New,Household Buyer - Former Owner-Occupier,290414.0
+Y25,Gorey,9,2019,New,Household Buyer - Non-Occupier,289001.0
+Y25,Gorey,9,2019,Existing,All Buyer Types,242138.0
+Y25,Gorey,9,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,201429.0
+Y25,Gorey,9,2019,Existing,Household Buyer - Former Owner-Occupier,262229.0
+Y25,Gorey,9,2019,Existing,Household Buyer - Non-Occupier,202700.0
+Y25,Gorey,10,2019,All Dwelling Statuses,All Buyer Types,230107.0
+Y25,Gorey,10,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,250216.0
+Y25,Gorey,10,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,230653.0
+Y25,Gorey,10,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,179000.0
+Y25,Gorey,10,2019,New,All Buyer Types,295677.0
+Y25,Gorey,10,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,328015.0
+Y25,Gorey,10,2019,New,Household Buyer - Former Owner-Occupier,279508.0
+Y25,Gorey,10,2019,New,Household Buyer - Non-Occupier,
+Y25,Gorey,10,2019,Existing,All Buyer Types,223550.0
+Y25,Gorey,10,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,237250.0
+Y25,Gorey,10,2019,Existing,Household Buyer - Former Owner-Occupier,226000.0
+Y25,Gorey,10,2019,Existing,Household Buyer - Non-Occupier,179000.0
+Y25,Gorey,11,2019,All Dwelling Statuses,All Buyer Types,243015.0
+Y25,Gorey,11,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,269996.0
+Y25,Gorey,11,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,248749.0
+Y25,Gorey,11,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,201417.0
+Y25,Gorey,11,2019,New,All Buyer Types,310828.0
+Y25,Gorey,11,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,309993.0
+Y25,Gorey,11,2019,New,Household Buyer - Former Owner-Occupier,342493.0
+Y25,Gorey,11,2019,New,Household Buyer - Non-Occupier,250000.0
+Y25,Gorey,11,2019,Existing,All Buyer Types,226740.0
+Y25,Gorey,11,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+Y25,Gorey,11,2019,Existing,Household Buyer - Former Owner-Occupier,238333.0
+Y25,Gorey,11,2019,Existing,Household Buyer - Non-Occupier,191700.0
+Y25,Gorey,12,2019,All Dwelling Statuses,All Buyer Types,234136.0
+Y25,Gorey,12,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,247491.0
+Y25,Gorey,12,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,238764.0
+Y25,Gorey,12,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,164750.0
+Y25,Gorey,12,2019,New,All Buyer Types,270059.0
+Y25,Gorey,12,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,301141.0
+Y25,Gorey,12,2019,New,Household Buyer - Former Owner-Occupier,246747.0
+Y25,Gorey,12,2019,New,Household Buyer - Non-Occupier,
+Y25,Gorey,12,2019,Existing,All Buyer Types,227850.0
+Y25,Gorey,12,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220667.0
+Y25,Gorey,12,2019,Existing,Household Buyer - Former Owner-Occupier,237700.0
+Y25,Gorey,12,2019,Existing,Household Buyer - Non-Occupier,164750.0
+Y25,Gorey,1,2020,All Dwelling Statuses,All Buyer Types,221561.0
+Y25,Gorey,1,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,248657.0
+Y25,Gorey,1,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,210658.0
+Y25,Gorey,1,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,236425.0
+Y25,Gorey,1,2020,New,All Buyer Types,286036.0
+Y25,Gorey,1,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,268314.0
+Y25,Gorey,1,2020,New,Household Buyer - Former Owner-Occupier,280001.0
+Y25,Gorey,1,2020,New,Household Buyer - Non-Occupier,351275.0
+Y25,Gorey,1,2020,Existing,All Buyer Types,203977.0
+Y25,Gorey,1,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,229000.0
+Y25,Gorey,1,2020,Existing,Household Buyer - Former Owner-Occupier,202500.0
+Y25,Gorey,1,2020,Existing,Household Buyer - Non-Occupier,179000.0
+Y25,Gorey,2,2020,All Dwelling Statuses,All Buyer Types,229855.0
+Y25,Gorey,2,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,232227.0
+Y25,Gorey,2,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,240006.0
+Y25,Gorey,2,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,167500.0
+Y25,Gorey,2,2020,New,All Buyer Types,240713.0
+Y25,Gorey,2,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,280000.0
+Y25,Gorey,2,2020,New,Household Buyer - Former Owner-Occupier,221070.0
+Y25,Gorey,2,2020,New,Household Buyer - Non-Occupier,
+Y25,Gorey,2,2020,Existing,All Buyer Types,228897.0
+Y25,Gorey,2,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,227450.0
+Y25,Gorey,2,2020,Existing,Household Buyer - Former Owner-Occupier,241900.0
+Y25,Gorey,2,2020,Existing,Household Buyer - Non-Occupier,167500.0
+Y25,Gorey,3,2020,All Dwelling Statuses,All Buyer Types,236901.0
+Y25,Gorey,3,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,268083.0
+Y25,Gorey,3,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,239423.0
+Y25,Gorey,3,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,189900.0
+Y25,Gorey,3,2020,New,All Buyer Types,332924.0
+Y25,Gorey,3,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,327499.0
+Y25,Gorey,3,2020,New,Household Buyer - Former Owner-Occupier,335637.0
+Y25,Gorey,3,2020,New,Household Buyer - Non-Occupier,
+Y25,Gorey,3,2020,Existing,All Buyer Types,212896.0
+Y25,Gorey,3,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,238375.0
+Y25,Gorey,3,2020,Existing,Household Buyer - Former Owner-Occupier,213767.0
+Y25,Gorey,3,2020,Existing,Household Buyer - Non-Occupier,189900.0
+Y25,Gorey,4,2020,All Dwelling Statuses,All Buyer Types,242667.0
+Y25,Gorey,4,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,271500.0
+Y25,Gorey,4,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,236900.0
+Y25,Gorey,4,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+Y25,Gorey,4,2020,New,All Buyer Types,294500.0
+Y25,Gorey,4,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,271500.0
+Y25,Gorey,4,2020,New,Household Buyer - Former Owner-Occupier,317499.0
+Y25,Gorey,4,2020,New,Household Buyer - Non-Occupier,
+Y25,Gorey,4,2020,Existing,All Buyer Types,216750.0
+Y25,Gorey,4,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,4,2020,Existing,Household Buyer - Former Owner-Occupier,216750.0
+Y25,Gorey,4,2020,Existing,Household Buyer - Non-Occupier,
+Y25,Gorey,5,2020,All Dwelling Statuses,All Buyer Types,240325.0
+Y25,Gorey,5,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,252659.0
+Y25,Gorey,5,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,254189.0
+Y25,Gorey,5,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,187167.0
+Y25,Gorey,5,2020,New,All Buyer Types,293282.0
+Y25,Gorey,5,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,294107.0
+Y25,Gorey,5,2020,New,Household Buyer - Former Owner-Occupier,292457.0
+Y25,Gorey,5,2020,New,Household Buyer - Non-Occupier,
+Y25,Gorey,5,2020,Existing,All Buyer Types,221068.0
+Y25,Gorey,5,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,219500.0
+Y25,Gorey,5,2020,Existing,Household Buyer - Former Owner-Occupier,240273.0
+Y25,Gorey,5,2020,Existing,Household Buyer - Non-Occupier,187167.0
+Y25,Gorey,6,2020,All Dwelling Statuses,All Buyer Types,227706.0
+Y25,Gorey,6,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,203412.0
+Y25,Gorey,6,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,246870.0
+Y25,Gorey,6,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,86000.0
+Y25,Gorey,6,2020,New,All Buyer Types,245756.0
+Y25,Gorey,6,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,288971.0
+Y25,Gorey,6,2020,New,Household Buyer - Former Owner-Occupier,231351.0
+Y25,Gorey,6,2020,New,Household Buyer - Non-Occupier,
+Y25,Gorey,6,2020,Existing,All Buyer Types,223694.0
+Y25,Gorey,6,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,186300.0
+Y25,Gorey,6,2020,Existing,Household Buyer - Former Owner-Occupier,250750.0
+Y25,Gorey,6,2020,Existing,Household Buyer - Non-Occupier,86000.0
+Y25,Gorey,7,2020,All Dwelling Statuses,All Buyer Types,259063.0
+Y25,Gorey,7,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,201000.0
+Y25,Gorey,7,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,254879.0
+Y25,Gorey,7,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,575000.0
+Y25,Gorey,7,2020,New,All Buyer Types,378999.0
+Y25,Gorey,7,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,7,2020,New,Household Buyer - Former Owner-Occupier,378999.0
+Y25,Gorey,7,2020,New,Household Buyer - Non-Occupier,
+Y25,Gorey,7,2020,Existing,All Buyer Types,248634.0
+Y25,Gorey,7,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,201000.0
+Y25,Gorey,7,2020,Existing,Household Buyer - Former Owner-Occupier,241088.0
+Y25,Gorey,7,2020,Existing,Household Buyer - Non-Occupier,575000.0
+Y25,Gorey,8,2020,All Dwelling Statuses,All Buyer Types,191305.0
+Y25,Gorey,8,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,174000.0
+Y25,Gorey,8,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,214885.0
+Y25,Gorey,8,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,89950.0
+Y25,Gorey,8,2020,New,All Buyer Types,
+Y25,Gorey,8,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,8,2020,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,8,2020,New,Household Buyer - Non-Occupier,
+Y25,Gorey,8,2020,Existing,All Buyer Types,191305.0
+Y25,Gorey,8,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,174000.0
+Y25,Gorey,8,2020,Existing,Household Buyer - Former Owner-Occupier,214885.0
+Y25,Gorey,8,2020,Existing,Household Buyer - Non-Occupier,89950.0
+Y25,Gorey,9,2020,All Dwelling Statuses,All Buyer Types,238821.0
+Y25,Gorey,9,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,156000.0
+Y25,Gorey,9,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,260809.0
+Y25,Gorey,9,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,180000.0
+Y25,Gorey,9,2020,New,All Buyer Types,452367.0
+Y25,Gorey,9,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,9,2020,New,Household Buyer - Former Owner-Occupier,452367.0
+Y25,Gorey,9,2020,New,Household Buyer - Non-Occupier,
+Y25,Gorey,9,2020,Existing,All Buyer Types,214181.0
+Y25,Gorey,9,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,156000.0
+Y25,Gorey,9,2020,Existing,Household Buyer - Former Owner-Occupier,230563.0
+Y25,Gorey,9,2020,Existing,Household Buyer - Non-Occupier,180000.0
+Y25,Gorey,10,2020,All Dwelling Statuses,All Buyer Types,229993.0
+Y25,Gorey,10,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,244500.0
+Y25,Gorey,10,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,228723.0
+Y25,Gorey,10,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,212915.0
+Y25,Gorey,10,2020,New,All Buyer Types,271368.0
+Y25,Gorey,10,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+Y25,Gorey,10,2020,New,Household Buyer - Former Owner-Occupier,287001.0
+Y25,Gorey,10,2020,New,Household Buyer - Non-Occupier,164575.0
+Y25,Gorey,10,2020,Existing,All Buyer Types,224727.0
+Y25,Gorey,10,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,238333.0
+Y25,Gorey,10,2020,Existing,Household Buyer - Former Owner-Occupier,221786.0
+Y25,Gorey,10,2020,Existing,Household Buyer - Non-Occupier,225000.0
+Y25,Gorey,11,2020,All Dwelling Statuses,All Buyer Types,258508.0
+Y25,Gorey,11,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,251570.0
+Y25,Gorey,11,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,276967.0
+Y25,Gorey,11,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,188000.0
+Y25,Gorey,11,2020,New,All Buyer Types,297456.0
+Y25,Gorey,11,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,289110.0
+Y25,Gorey,11,2020,New,Household Buyer - Former Owner-Occupier,316234.0
+Y25,Gorey,11,2020,New,Household Buyer - Non-Occupier,
+Y25,Gorey,11,2020,Existing,All Buyer Types,245850.0
+Y25,Gorey,11,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,184000.0
+Y25,Gorey,11,2020,Existing,Household Buyer - Former Owner-Occupier,271357.0
+Y25,Gorey,11,2020,Existing,Household Buyer - Non-Occupier,188000.0
+Y25,Gorey,12,2020,All Dwelling Statuses,All Buyer Types,244912.0
+Y25,Gorey,12,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,251839.0
+Y25,Gorey,12,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,249441.0
+Y25,Gorey,12,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,184700.0
+Y25,Gorey,12,2020,New,All Buyer Types,279281.0
+Y25,Gorey,12,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,279274.0
+Y25,Gorey,12,2020,New,Household Buyer - Former Owner-Occupier,279287.0
+Y25,Gorey,12,2020,New,Household Buyer - Non-Occupier,
+Y25,Gorey,12,2020,Existing,All Buyer Types,235092.0
+Y25,Gorey,12,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,230500.0
+Y25,Gorey,12,2020,Existing,Household Buyer - Former Owner-Occupier,243471.0
+Y25,Gorey,12,2020,Existing,Household Buyer - Non-Occupier,184700.0
+Y25,Gorey,1,2021,All Dwelling Statuses,All Buyer Types,242668.0
+Y25,Gorey,1,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225487.0
+Y25,Gorey,1,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,252898.0
+Y25,Gorey,1,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,237333.0
+Y25,Gorey,1,2021,New,All Buyer Types,278978.0
+Y25,Gorey,1,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,281225.0
+Y25,Gorey,1,2021,New,Household Buyer - Former Owner-Occupier,274486.0
+Y25,Gorey,1,2021,New,Household Buyer - Non-Occupier,
+Y25,Gorey,1,2021,Existing,All Buyer Types,231775.0
+Y25,Gorey,1,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,169750.0
+Y25,Gorey,1,2021,Existing,Household Buyer - Former Owner-Occupier,249577.0
+Y25,Gorey,1,2021,Existing,Household Buyer - Non-Occupier,237333.0
+Y25,Gorey,2,2021,All Dwelling Statuses,All Buyer Types,252663.0
+Y25,Gorey,2,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,272889.0
+Y25,Gorey,2,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,253856.0
+Y25,Gorey,2,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,200000.0
+Y25,Gorey,2,2021,New,All Buyer Types,301260.0
+Y25,Gorey,2,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,309999.0
+Y25,Gorey,2,2021,New,Household Buyer - Former Owner-Occupier,272520.0
+Y25,Gorey,2,2021,New,Household Buyer - Non-Occupier,350000.0
+Y25,Gorey,2,2021,Existing,All Buyer Types,246773.0
+Y25,Gorey,2,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,268250.0
+Y25,Gorey,2,2021,Existing,Household Buyer - Former Owner-Occupier,252159.0
+Y25,Gorey,2,2021,Existing,Household Buyer - Non-Occupier,150000.0
+Y25,Gorey,3,2021,All Dwelling Statuses,All Buyer Types,246805.0
+Y25,Gorey,3,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,172917.0
+Y25,Gorey,3,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,262648.0
+Y25,Gorey,3,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,252000.0
+Y25,Gorey,3,2021,New,All Buyer Types,375000.0
+Y25,Gorey,3,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,3,2021,New,Household Buyer - Former Owner-Occupier,375000.0
+Y25,Gorey,3,2021,New,Household Buyer - Non-Occupier,
+Y25,Gorey,3,2021,Existing,All Buyer Types,243143.0
+Y25,Gorey,3,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,172917.0
+Y25,Gorey,3,2021,Existing,Household Buyer - Former Owner-Occupier,258327.0
+Y25,Gorey,3,2021,Existing,Household Buyer - Non-Occupier,252000.0
+Y25,Gorey,4,2021,All Dwelling Statuses,All Buyer Types,190800.0
+Y25,Gorey,4,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,234167.0
+Y25,Gorey,4,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,284831.0
+Y25,Gorey,4,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,73176.0
+Y25,Gorey,4,2021,New,All Buyer Types,245444.0
+Y25,Gorey,4,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,4,2021,New,Household Buyer - Former Owner-Occupier,245444.0
+Y25,Gorey,4,2021,New,Household Buyer - Non-Occupier,
+Y25,Gorey,4,2021,Existing,All Buyer Types,189586.0
+Y25,Gorey,4,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,234167.0
+Y25,Gorey,4,2021,Existing,Household Buyer - Former Owner-Occupier,286800.0
+Y25,Gorey,4,2021,Existing,Household Buyer - Non-Occupier,73176.0
+Y25,Gorey,5,2021,All Dwelling Statuses,All Buyer Types,252115.0
+Y25,Gorey,5,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,270400.0
+Y25,Gorey,5,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,255824.0
+Y25,Gorey,5,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,213500.0
+Y25,Gorey,5,2021,New,All Buyer Types,370000.0
+Y25,Gorey,5,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,5,2021,New,Household Buyer - Former Owner-Occupier,370000.0
+Y25,Gorey,5,2021,New,Household Buyer - Non-Occupier,
+Y25,Gorey,5,2021,Existing,All Buyer Types,242292.0
+Y25,Gorey,5,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,270400.0
+Y25,Gorey,5,2021,Existing,Household Buyer - Former Owner-Occupier,240600.0
+Y25,Gorey,5,2021,Existing,Household Buyer - Non-Occupier,213500.0
+Y25,Gorey,6,2021,All Dwelling Statuses,All Buyer Types,247714.0
+Y25,Gorey,6,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,228100.0
+Y25,Gorey,6,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,277056.0
+Y25,Gorey,6,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,161700.0
+Y25,Gorey,6,2021,New,All Buyer Types,
+Y25,Gorey,6,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,6,2021,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,6,2021,New,Household Buyer - Non-Occupier,
+Y25,Gorey,6,2021,Existing,All Buyer Types,247714.0
+Y25,Gorey,6,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,228100.0
+Y25,Gorey,6,2021,Existing,Household Buyer - Former Owner-Occupier,277056.0
+Y25,Gorey,6,2021,Existing,Household Buyer - Non-Occupier,161700.0
+Y25,Gorey,7,2021,All Dwelling Statuses,All Buyer Types,241258.0
+Y25,Gorey,7,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,224889.0
+Y25,Gorey,7,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,249190.0
+Y25,Gorey,7,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,234833.0
+Y25,Gorey,7,2021,New,All Buyer Types,
+Y25,Gorey,7,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,7,2021,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,7,2021,New,Household Buyer - Non-Occupier,
+Y25,Gorey,7,2021,Existing,All Buyer Types,241258.0
+Y25,Gorey,7,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,224889.0
+Y25,Gorey,7,2021,Existing,Household Buyer - Former Owner-Occupier,249190.0
+Y25,Gorey,7,2021,Existing,Household Buyer - Non-Occupier,234833.0
+Y25,Gorey,8,2021,All Dwelling Statuses,All Buyer Types,277617.0
+Y25,Gorey,8,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,243500.0
+Y25,Gorey,8,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,293280.0
+Y25,Gorey,8,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,268750.0
+Y25,Gorey,8,2021,New,All Buyer Types,124850.0
+Y25,Gorey,8,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,8,2021,New,Household Buyer - Former Owner-Occupier,124850.0
+Y25,Gorey,8,2021,New,Household Buyer - Non-Occupier,
+Y25,Gorey,8,2021,Existing,All Buyer Types,281746.0
+Y25,Gorey,8,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,243500.0
+Y25,Gorey,8,2021,Existing,Household Buyer - Former Owner-Occupier,300936.0
+Y25,Gorey,8,2021,Existing,Household Buyer - Non-Occupier,268750.0
+Y25,Gorey,9,2021,All Dwelling Statuses,All Buyer Types,309727.0
+Y25,Gorey,9,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,366500.0
+Y25,Gorey,9,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,318478.0
+Y25,Gorey,9,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,238333.0
+Y25,Gorey,9,2021,New,All Buyer Types,304999.0
+Y25,Gorey,9,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,9,2021,New,Household Buyer - Former Owner-Occupier,304999.0
+Y25,Gorey,9,2021,New,Household Buyer - Non-Occupier,
+Y25,Gorey,9,2021,Existing,All Buyer Types,309875.0
+Y25,Gorey,9,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,366500.0
+Y25,Gorey,9,2021,Existing,Household Buyer - Former Owner-Occupier,319091.0
+Y25,Gorey,9,2021,Existing,Household Buyer - Non-Occupier,238333.0
+Y25,Gorey,10,2021,All Dwelling Statuses,All Buyer Types,253197.0
+Y25,Gorey,10,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,259039.0
+Y25,Gorey,10,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,257780.0
+Y25,Gorey,10,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,224500.0
+Y25,Gorey,10,2021,New,All Buyer Types,300543.0
+Y25,Gorey,10,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,290000.0
+Y25,Gorey,10,2021,New,Household Buyer - Former Owner-Occupier,336222.0
+Y25,Gorey,10,2021,New,Household Buyer - Non-Occupier,199998.0
+Y25,Gorey,10,2021,Existing,All Buyer Types,239452.0
+Y25,Gorey,10,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,245278.0
+Y25,Gorey,10,2021,Existing,Household Buyer - Former Owner-Occupier,239324.0
+Y25,Gorey,10,2021,Existing,Household Buyer - Non-Occupier,229400.0
+Y25,Gorey,11,2021,All Dwelling Statuses,All Buyer Types,263349.0
+Y25,Gorey,11,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,277975.0
+Y25,Gorey,11,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,277409.0
+Y25,Gorey,11,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,198429.0
+Y25,Gorey,11,2021,New,All Buyer Types,275562.0
+Y25,Gorey,11,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,301260.0
+Y25,Gorey,11,2021,New,Household Buyer - Former Owner-Occupier,263107.0
+Y25,Gorey,11,2021,New,Household Buyer - Non-Occupier,230000.0
+Y25,Gorey,11,2021,Existing,All Buyer Types,259138.0
+Y25,Gorey,11,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,239167.0
+Y25,Gorey,11,2021,Existing,Household Buyer - Former Owner-Occupier,279452.0
+Y25,Gorey,11,2021,Existing,Household Buyer - Non-Occupier,185800.0
+Y25,Gorey,12,2021,All Dwelling Statuses,All Buyer Types,273778.0
+Y25,Gorey,12,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,285937.0
+Y25,Gorey,12,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,282124.0
+Y25,Gorey,12,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,237625.0
+Y25,Gorey,12,2021,New,All Buyer Types,311669.0
+Y25,Gorey,12,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,319999.0
+Y25,Gorey,12,2021,New,Household Buyer - Former Owner-Occupier,312920.0
+Y25,Gorey,12,2021,New,Household Buyer - Non-Occupier,284999.0
+Y25,Gorey,12,2021,Existing,All Buyer Types,258893.0
+Y25,Gorey,12,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,274583.0
+Y25,Gorey,12,2021,Existing,Household Buyer - Former Owner-Occupier,265700.0
+Y25,Gorey,12,2021,Existing,Household Buyer - Non-Occupier,230857.0
+Y25,Gorey,1,2022,All Dwelling Statuses,All Buyer Types,256265.0
+Y25,Gorey,1,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,338333.0
+Y25,Gorey,1,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,267269.0
+Y25,Gorey,1,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,191389.0
+Y25,Gorey,1,2022,New,All Buyer Types,360000.0
+Y25,Gorey,1,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,1,2022,New,Household Buyer - Former Owner-Occupier,360000.0
+Y25,Gorey,1,2022,New,Household Buyer - Non-Occupier,
+Y25,Gorey,1,2022,Existing,All Buyer Types,251325.0
+Y25,Gorey,1,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,338333.0
+Y25,Gorey,1,2022,Existing,Household Buyer - Former Owner-Occupier,259542.0
+Y25,Gorey,1,2022,Existing,Household Buyer - Non-Occupier,191389.0
+Y25,Gorey,2,2022,All Dwelling Statuses,All Buyer Types,297159.0
+Y25,Gorey,2,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,263161.0
+Y25,Gorey,2,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,316743.0
+Y25,Gorey,2,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,278000.0
+Y25,Gorey,2,2022,New,All Buyer Types,275878.0
+Y25,Gorey,2,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,279300.0
+Y25,Gorey,2,2022,New,Household Buyer - Former Owner-Occupier,272457.0
+Y25,Gorey,2,2022,New,Household Buyer - Non-Occupier,
+Y25,Gorey,2,2022,Existing,All Buyer Types,300094.0
+Y25,Gorey,2,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,256705.0
+Y25,Gorey,2,2022,Existing,Household Buyer - Former Owner-Occupier,321953.0
+Y25,Gorey,2,2022,Existing,Household Buyer - Non-Occupier,278000.0
+Y25,Gorey,3,2022,All Dwelling Statuses,All Buyer Types,277372.0
+Y25,Gorey,3,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,250937.0
+Y25,Gorey,3,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,324255.0
+Y25,Gorey,3,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,226666.0
+Y25,Gorey,3,2022,New,All Buyer Types,249999.0
+Y25,Gorey,3,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,239999.0
+Y25,Gorey,3,2022,New,Household Buyer - Former Owner-Occupier,
+Y25,Gorey,3,2022,New,Household Buyer - Non-Occupier,269998.0
+Y25,Gorey,3,2022,Existing,All Buyer Types,281105.0
+Y25,Gorey,3,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,254583.0
+Y25,Gorey,3,2022,Existing,Household Buyer - Former Owner-Occupier,324255.0
+Y25,Gorey,3,2022,Existing,Household Buyer - Non-Occupier,218000.0
+Y25,Gorey,4,2022,All Dwelling Statuses,All Buyer Types,311778.0
+Y25,Gorey,4,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,262747.0
+Y25,Gorey,4,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,335210.0
+Y25,Gorey,4,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,228250.0
+Y25,Gorey,4,2022,New,All Buyer Types,324043.0
+Y25,Gorey,4,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,304619.0
+Y25,Gorey,4,2022,New,Household Buyer - Former Owner-Occupier,341833.0
+Y25,Gorey,4,2022,New,Household Buyer - Non-Occupier,295000.0
+Y25,Gorey,4,2022,Existing,All Buyer Types,307563.0
+Y25,Gorey,4,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220875.0
+Y25,Gorey,4,2022,Existing,Household Buyer - Former Owner-Occupier,333620.0
+Y25,Gorey,4,2022,Existing,Household Buyer - Non-Occupier,206000.0
+Y25,Gorey,5,2022,All Dwelling Statuses,All Buyer Types,300297.0
+Y25,Gorey,5,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,315520.0
+Y25,Gorey,5,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,294693.0
+Y25,Gorey,5,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,292900.0
+Y25,Gorey,5,2022,New,All Buyer Types,287452.0
+Y25,Gorey,5,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,282035.0
+Y25,Gorey,5,2022,New,Household Buyer - Former Owner-Occupier,285290.0
+Y25,Gorey,5,2022,New,Household Buyer - Non-Occupier,340500.0
+Y25,Gorey,5,2022,Existing,All Buyer Types,307179.0
+Y25,Gorey,5,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,362400.0
+Y25,Gorey,5,2022,Existing,Household Buyer - Former Owner-Occupier,298158.0
+Y25,Gorey,5,2022,Existing,Household Buyer - Non-Occupier,281000.0
+Y25,Gorey,6,2022,All Dwelling Statuses,All Buyer Types,308987.0
+Y25,Gorey,6,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,261585.0
+Y25,Gorey,6,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,359598.0
+Y25,Gorey,6,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,248750.0
+Y25,Gorey,6,2022,New,All Buyer Types,285885.0
+Y25,Gorey,6,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,274752.0
+Y25,Gorey,6,2022,New,Household Buyer - Former Owner-Occupier,319283.0
+Y25,Gorey,6,2022,New,Household Buyer - Non-Occupier,
+Y25,Gorey,6,2022,Existing,All Buyer Types,316688.0
+Y25,Gorey,6,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,248417.0
+Y25,Gorey,6,2022,Existing,Household Buyer - Former Owner-Occupier,365357.0
+Y25,Gorey,6,2022,Existing,Household Buyer - Non-Occupier,248750.0
+Y25,Gorey,7,2022,All Dwelling Statuses,All Buyer Types,275386.0
+Y25,Gorey,7,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,304112.0
+Y25,Gorey,7,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,286057.0
+Y25,Gorey,7,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,229273.0
+Y25,Gorey,7,2022,New,All Buyer Types,323975.0
+Y25,Gorey,7,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,304480.0
+Y25,Gorey,7,2022,New,Household Buyer - Former Owner-Occupier,343471.0
+Y25,Gorey,7,2022,New,Household Buyer - Non-Occupier,
+Y25,Gorey,7,2022,Existing,All Buyer Types,261504.0
+Y25,Gorey,7,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,303500.0
+Y25,Gorey,7,2022,Existing,Household Buyer - Former Owner-Occupier,272387.0
+Y25,Gorey,7,2022,Existing,Household Buyer - Non-Occupier,229273.0
+Y25,Gorey,8,2022,All Dwelling Statuses,All Buyer Types,312040.0
+Y25,Gorey,8,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,296579.0
+Y25,Gorey,8,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,343346.0
+Y25,Gorey,8,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,230750.0
+Y25,Gorey,8,2022,New,All Buyer Types,299814.0
+Y25,Gorey,8,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,293304.0
+Y25,Gorey,8,2022,New,Household Buyer - Former Owner-Occupier,306324.0
+Y25,Gorey,8,2022,New,Household Buyer - Non-Occupier,
+Y25,Gorey,8,2022,Existing,All Buyer Types,315984.0
+Y25,Gorey,8,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,298625.0
+Y25,Gorey,8,2022,Existing,Household Buyer - Former Owner-Occupier,354235.0
+Y25,Gorey,8,2022,Existing,Household Buyer - Non-Occupier,230750.0
+Y25,Gorey,9,2022,All Dwelling Statuses,All Buyer Types,294056.0
+Y25,Gorey,9,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,275683.0
+Y25,Gorey,9,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,303851.0
+Y25,Gorey,9,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,255500.0
+Y25,Gorey,9,2022,New,All Buyer Types,340439.0
+Y25,Gorey,9,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,326033.0
+Y25,Gorey,9,2022,New,Household Buyer - Former Owner-Occupier,351244.0
+Y25,Gorey,9,2022,New,Household Buyer - Non-Occupier,
+Y25,Gorey,9,2022,Existing,All Buyer Types,283233.0
+Y25,Gorey,9,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,225333.0
+Y25,Gorey,9,2022,Existing,Household Buyer - Former Owner-Occupier,295609.0
+Y25,Gorey,9,2022,Existing,Household Buyer - Non-Occupier,255500.0
+Y25,Gorey,10,2022,All Dwelling Statuses,All Buyer Types,304063.0
+Y25,Gorey,10,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,340789.0
+Y25,Gorey,10,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,309182.0
+Y25,Gorey,10,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,239167.0
+Y25,Gorey,10,2022,New,All Buyer Types,326286.0
+Y25,Gorey,10,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,340868.0
+Y25,Gorey,10,2022,New,Household Buyer - Former Owner-Occupier,314620.0
+Y25,Gorey,10,2022,New,Household Buyer - Non-Occupier,
+Y25,Gorey,10,2022,Existing,All Buyer Types,299063.0
+Y25,Gorey,10,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,340750.0
+Y25,Gorey,10,2022,Existing,Household Buyer - Former Owner-Occupier,308000.0
+Y25,Gorey,10,2022,Existing,Household Buyer - Non-Occupier,239167.0
+Y25,Gorey,11,2022,All Dwelling Statuses,All Buyer Types,296704.0
+Y25,Gorey,11,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,252192.0
+Y25,Gorey,11,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,311247.0
+Y25,Gorey,11,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,357750.0
+Y25,Gorey,11,2022,New,All Buyer Types,300599.0
+Y25,Gorey,11,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,301666.0
+Y25,Gorey,11,2022,New,Household Buyer - Former Owner-Occupier,274298.0
+Y25,Gorey,11,2022,New,Household Buyer - Non-Occupier,350000.0
+Y25,Gorey,11,2022,Existing,All Buyer Types,296017.0
+Y25,Gorey,11,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,237350.0
+Y25,Gorey,11,2022,Existing,Household Buyer - Former Owner-Occupier,314766.0
+Y25,Gorey,11,2022,Existing,Household Buyer - Non-Occupier,360333.0
+Y25,Gorey,12,2022,All Dwelling Statuses,All Buyer Types,307019.0
+Y25,Gorey,12,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,284951.0
+Y25,Gorey,12,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,324770.0
+Y25,Gorey,12,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,244714.0
+Y25,Gorey,12,2022,New,All Buyer Types,324864.0
+Y25,Gorey,12,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,361170.0
+Y25,Gorey,12,2022,New,Household Buyer - Former Owner-Occupier,311249.0
+Y25,Gorey,12,2022,New,Household Buyer - Non-Occupier,
+Y25,Gorey,12,2022,Existing,All Buyer Types,302453.0
+Y25,Gorey,12,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,252286.0
+Y25,Gorey,12,2022,Existing,Household Buyer - Former Owner-Occupier,328500.0
+Y25,Gorey,12,2022,Existing,Household Buyer - Non-Occupier,244714.0
+Y25,Gorey,1,2023,All Dwelling Statuses,All Buyer Types,278243.0
+Y25,Gorey,1,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,278098.0
+Y25,Gorey,1,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,287429.0
+Y25,Gorey,1,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,247300.0
+Y25,Gorey,1,2023,New,All Buyer Types,301109.0
+Y25,Gorey,1,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,303330.0
+Y25,Gorey,1,2023,New,Household Buyer - Former Owner-Occupier,296667.0
+Y25,Gorey,1,2023,New,Household Buyer - Non-Occupier,
+Y25,Gorey,1,2023,Existing,All Buyer Types,269296.0
+Y25,Gorey,1,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,240250.0
+Y25,Gorey,1,2023,Existing,Household Buyer - Former Owner-Occupier,285450.0
+Y25,Gorey,1,2023,Existing,Household Buyer - Non-Occupier,247300.0
+Y25,Gorey,2,2023,All Dwelling Statuses,All Buyer Types,320827.0
+Y25,Gorey,2,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,335833.0
+Y25,Gorey,2,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,338199.0
+Y25,Gorey,2,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,175000.0
+Y25,Gorey,2,2023,New,All Buyer Types,367854.0
+Y25,Gorey,2,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,405000.0
+Y25,Gorey,2,2023,New,Household Buyer - Former Owner-Occupier,352995.0
+Y25,Gorey,2,2023,New,Household Buyer - Non-Occupier,
+Y25,Gorey,2,2023,Existing,All Buyer Types,305864.0
+Y25,Gorey,2,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,301250.0
+Y25,Gorey,2,2023,Existing,Household Buyer - Former Owner-Occupier,333267.0
+Y25,Gorey,2,2023,Existing,Household Buyer - Non-Occupier,175000.0
+Y25,Gorey,3,2023,All Dwelling Statuses,All Buyer Types,284963.0
+Y25,Gorey,3,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,280545.0
+Y25,Gorey,3,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,294778.0
+Y25,Gorey,3,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,239000.0
+Y25,Gorey,3,2023,New,All Buyer Types,380755.0
+Y25,Gorey,3,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+Y25,Gorey,3,2023,New,Household Buyer - Former Owner-Occupier,501887.0
+Y25,Gorey,3,2023,New,Household Buyer - Non-Occupier,
+Y25,Gorey,3,2023,Existing,All Buyer Types,267857.0
+Y25,Gorey,3,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,273250.0
+Y25,Gorey,3,2023,Existing,Household Buyer - Former Owner-Occupier,270412.0
+Y25,Gorey,3,2023,Existing,Household Buyer - Non-Occupier,239000.0
+Y25,Gorey,4,2023,All Dwelling Statuses,All Buyer Types,327684.0
+Y25,Gorey,4,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,355722.0
+Y25,Gorey,4,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,302246.0
+Y25,Gorey,4,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,370417.0
+Y25,Gorey,4,2023,New,All Buyer Types,357994.0
+Y25,Gorey,4,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,369143.0
+Y25,Gorey,4,2023,New,Household Buyer - Former Owner-Occupier,344988.0
+Y25,Gorey,4,2023,New,Household Buyer - Non-Occupier,
+Y25,Gorey,4,2023,Existing,All Buyer Types,309773.0
+Y25,Gorey,4,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,308750.0
+Y25,Gorey,4,2023,Existing,Household Buyer - Former Owner-Occupier,283929.0
+Y25,Gorey,4,2023,Existing,Household Buyer - Non-Occupier,370417.0
+Y25,Gorey,5,2023,All Dwelling Statuses,All Buyer Types,300791.0
+Y25,Gorey,5,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,300552.0
+Y25,Gorey,5,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,318231.0
+Y25,Gorey,5,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,236357.0
+Y25,Gorey,5,2023,New,All Buyer Types,385890.0
+Y25,Gorey,5,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,359338.0
+Y25,Gorey,5,2023,New,Household Buyer - Former Owner-Occupier,394000.0
+Y25,Gorey,5,2023,New,Household Buyer - Non-Occupier,425000.0
+Y25,Gorey,5,2023,Existing,All Buyer Types,278265.0
+Y25,Gorey,5,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,275357.0
+Y25,Gorey,5,2023,Existing,Household Buyer - Former Owner-Occupier,300190.0
+Y25,Gorey,5,2023,Existing,Household Buyer - Non-Occupier,204917.0
+Y25,Gorey,6,2023,All Dwelling Statuses,All Buyer Types,300123.0
+Y25,Gorey,6,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,240750.0
+Y25,Gorey,6,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,308846.0
+Y25,Gorey,6,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,304815.0
+Y25,Gorey,6,2023,New,All Buyer Types,349120.0
+Y25,Gorey,6,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,6,2023,New,Household Buyer - Former Owner-Occupier,354497.0
+Y25,Gorey,6,2023,New,Household Buyer - Non-Occupier,314168.0
+Y25,Gorey,6,2023,Existing,All Buyer Types,279708.0
+Y25,Gorey,6,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,240750.0
+Y25,Gorey,6,2023,Existing,Household Buyer - Former Owner-Occupier,283043.0
+Y25,Gorey,6,2023,Existing,Household Buyer - Non-Occupier,302143.0
+Y25,Gorey,7,2023,All Dwelling Statuses,All Buyer Types,307019.0
+Y25,Gorey,7,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,352124.0
+Y25,Gorey,7,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,279497.0
+Y25,Gorey,7,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,330829.0
+Y25,Gorey,7,2023,New,All Buyer Types,356519.0
+Y25,Gorey,7,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,370183.0
+Y25,Gorey,7,2023,New,Household Buyer - Former Owner-Occupier,338301.0
+Y25,Gorey,7,2023,New,Household Buyer - Non-Occupier,
+Y25,Gorey,7,2023,Existing,All Buyer Types,298960.0
+Y25,Gorey,7,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,344900.0
+Y25,Gorey,7,2023,Existing,Household Buyer - Former Owner-Occupier,272712.0
+Y25,Gorey,7,2023,Existing,Household Buyer - Non-Occupier,330829.0
+Y25,Gorey,8,2023,All Dwelling Statuses,All Buyer Types,305829.0
+Y25,Gorey,8,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,336667.0
+Y25,Gorey,8,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,298677.0
+Y25,Gorey,8,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,326166.0
+Y25,Gorey,8,2023,New,All Buyer Types,358603.0
+Y25,Gorey,8,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,360000.0
+Y25,Gorey,8,2023,New,Household Buyer - Former Owner-Occupier,354706.0
+Y25,Gorey,8,2023,New,Household Buyer - Non-Occupier,364999.0
+Y25,Gorey,8,2023,Existing,All Buyer Types,292210.0
+Y25,Gorey,8,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,290000.0
+Y25,Gorey,8,2023,Existing,Household Buyer - Former Owner-Occupier,290058.0
+Y25,Gorey,8,2023,Existing,Household Buyer - Non-Occupier,306750.0
+Y25,Gorey,9,2023,All Dwelling Statuses,All Buyer Types,311809.0
+Y25,Gorey,9,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,304800.0
+Y25,Gorey,9,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,309212.0
+Y25,Gorey,9,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,331497.0
+Y25,Gorey,9,2023,New,All Buyer Types,339661.0
+Y25,Gorey,9,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,369500.0
+Y25,Gorey,9,2023,New,Household Buyer - Former Owner-Occupier,323232.0
+Y25,Gorey,9,2023,New,Household Buyer - Non-Occupier,394980.0
+Y25,Gorey,9,2023,Existing,All Buyer Types,303369.0
+Y25,Gorey,9,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,261667.0
+Y25,Gorey,9,2023,Existing,Household Buyer - Former Owner-Occupier,305286.0
+Y25,Gorey,9,2023,Existing,Household Buyer - Non-Occupier,318800.0
+Y25,Gorey,10,2023,All Dwelling Statuses,All Buyer Types,312273.0
+Y25,Gorey,10,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,322105.0
+Y25,Gorey,10,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,319169.0
+Y25,Gorey,10,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,257000.0
+Y25,Gorey,10,2023,New,All Buyer Types,319235.0
+Y25,Gorey,10,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,321000.0
+Y25,Gorey,10,2023,New,Household Buyer - Former Owner-Occupier,313351.0
+Y25,Gorey,10,2023,New,Household Buyer - Non-Occupier,
+Y25,Gorey,10,2023,Existing,All Buyer Types,309530.0
+Y25,Gorey,10,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,323333.0
+Y25,Gorey,10,2023,Existing,Household Buyer - Former Owner-Occupier,320139.0
+Y25,Gorey,10,2023,Existing,Household Buyer - Non-Occupier,257000.0
+Y25,Gorey,11,2023,All Dwelling Statuses,All Buyer Types,289327.0
+Y25,Gorey,11,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,263161.0
+Y25,Gorey,11,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,302908.0
+Y25,Gorey,11,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,291929.0
+Y25,Gorey,11,2023,New,All Buyer Types,303648.0
+Y25,Gorey,11,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,286655.0
+Y25,Gorey,11,2023,New,Household Buyer - Former Owner-Occupier,328132.0
+Y25,Gorey,11,2023,New,Household Buyer - Non-Occupier,289333.0
+Y25,Gorey,11,2023,Existing,All Buyer Types,282818.0
+Y25,Gorey,11,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,239667.0
+Y25,Gorey,11,2023,Existing,Household Buyer - Former Owner-Occupier,294500.0
+Y25,Gorey,11,2023,Existing,Household Buyer - Non-Occupier,292636.0
+Y25,Gorey,12,2023,All Dwelling Statuses,All Buyer Types,299328.0
+Y25,Gorey,12,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,293014.0
+Y25,Gorey,12,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,300859.0
+Y25,Gorey,12,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,316667.0
+Y25,Gorey,12,2023,New,All Buyer Types,328631.0
+Y25,Gorey,12,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,338341.0
+Y25,Gorey,12,2023,New,Household Buyer - Former Owner-Occupier,331625.0
+Y25,Gorey,12,2023,New,Household Buyer - Non-Occupier,227000.0
+Y25,Gorey,12,2023,Existing,All Buyer Types,284676.0
+Y25,Gorey,12,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,247688.0
+Y25,Gorey,12,2023,Existing,Household Buyer - Former Owner-Occupier,290604.0
+Y25,Gorey,12,2023,Existing,Household Buyer - Non-Occupier,361500.0
+Y25,Gorey,1,2024,All Dwelling Statuses,All Buyer Types,316541.0
+Y25,Gorey,1,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,301417.0
+Y25,Gorey,1,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,321878.0
+Y25,Gorey,1,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+Y25,Gorey,1,2024,New,All Buyer Types,349644.0
+Y25,Gorey,1,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,1,2024,New,Household Buyer - Former Owner-Occupier,349644.0
+Y25,Gorey,1,2024,New,Household Buyer - Non-Occupier,
+Y25,Gorey,1,2024,Existing,All Buyer Types,311575.0
+Y25,Gorey,1,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,301417.0
+Y25,Gorey,1,2024,Existing,Household Buyer - Former Owner-Occupier,315929.0
+Y25,Gorey,1,2024,Existing,Household Buyer - Non-Occupier,
+Y25,Gorey,2,2024,All Dwelling Statuses,All Buyer Types,323462.0
+Y25,Gorey,2,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,318100.0
+Y25,Gorey,2,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,339753.0
+Y25,Gorey,2,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,207500.0
+Y25,Gorey,2,2024,New,All Buyer Types,343635.0
+Y25,Gorey,2,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+Y25,Gorey,2,2024,New,Household Buyer - Former Owner-Occupier,343635.0
+Y25,Gorey,2,2024,New,Household Buyer - Non-Occupier,
+Y25,Gorey,2,2024,Existing,All Buyer Types,318620.0
+Y25,Gorey,2,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,318100.0
+Y25,Gorey,2,2024,Existing,Household Buyer - Former Owner-Occupier,338382.0
+Y25,Gorey,2,2024,Existing,Household Buyer - Non-Occupier,207500.0
+Y25,Gorey,3,2024,All Dwelling Statuses,All Buyer Types,303608.0
+Y25,Gorey,3,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,341777.0
+Y25,Gorey,3,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,303440.0
+Y25,Gorey,3,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,241000.0
+Y25,Gorey,3,2024,New,All Buyer Types,345953.0
+Y25,Gorey,3,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,376944.0
+Y25,Gorey,3,2024,New,Household Buyer - Former Owner-Occupier,314963.0
+Y25,Gorey,3,2024,New,Household Buyer - Non-Occupier,
+Y25,Gorey,3,2024,Existing,All Buyer Types,295909.0
+Y25,Gorey,3,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,318333.0
+Y25,Gorey,3,2024,Existing,Household Buyer - Former Owner-Occupier,302000.0
+Y25,Gorey,3,2024,Existing,Household Buyer - Non-Occupier,241000.0
+Y25,Gorey,4,2024,All Dwelling Statuses,All Buyer Types,290737.0
+Y25,Gorey,4,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,282326.0
+Y25,Gorey,4,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,300940.0
+Y25,Gorey,4,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,145000.0
+Y25,Gorey,4,2024,New,All Buyer Types,329486.0
+Y25,Gorey,4,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,320027.0
+Y25,Gorey,4,2024,New,Household Buyer - Former Owner-Occupier,337999.0
+Y25,Gorey,4,2024,New,Household Buyer - Non-Occupier,
+Y25,Gorey,4,2024,Existing,All Buyer Types,253925.0
+Y25,Gorey,4,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,197500.0
+Y25,Gorey,4,2024,Existing,Household Buyer - Former Owner-Occupier,276233.0
+Y25,Gorey,4,2024,Existing,Household Buyer - Non-Occupier,145000.0
+Y25,Gorey,5,2024,All Dwelling Statuses,All Buyer Types,289377.0
+Y25,Gorey,5,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,296003.0
+Y25,Gorey,5,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,296598.0
+Y25,Gorey,5,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,239900.0
+Y25,Gorey,5,2024,New,All Buyer Types,315572.0
+Y25,Gorey,5,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,323756.0
+Y25,Gorey,5,2024,New,Household Buyer - Former Owner-Occupier,307387.0
+Y25,Gorey,5,2024,New,Household Buyer - Non-Occupier,
+Y25,Gorey,5,2024,Existing,All Buyer Types,282828.0
+Y25,Gorey,5,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,273800.0
+Y25,Gorey,5,2024,Existing,Household Buyer - Former Owner-Occupier,294636.0
+Y25,Gorey,5,2024,Existing,Household Buyer - Non-Occupier,239900.0
+Y25,Gorey,6,2024,All Dwelling Statuses,All Buyer Types,308851.0
+Y25,Gorey,6,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,288000.0
+Y25,Gorey,6,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,321767.0
+Y25,Gorey,6,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,121000.0
+Y25,Gorey,6,2024,New,All Buyer Types,369123.0
+Y25,Gorey,6,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,340000.0
+Y25,Gorey,6,2024,New,Household Buyer - Former Owner-Occupier,376404.0
+Y25,Gorey,6,2024,New,Household Buyer - Non-Occupier,
+Y25,Gorey,6,2024,Existing,All Buyer Types,294500.0
+Y25,Gorey,6,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,270667.0
+Y25,Gorey,6,2024,Existing,Household Buyer - Former Owner-Occupier,308912.0
+Y25,Gorey,6,2024,Existing,Household Buyer - Non-Occupier,121000.0
+Y25,Gorey,7,2024,All Dwelling Statuses,All Buyer Types,321097.0
+Y25,Gorey,7,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,302414.0
+Y25,Gorey,7,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,331901.0
+Y25,Gorey,7,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,225000.0
+Y25,Gorey,7,2024,New,All Buyer Types,362387.0
+Y25,Gorey,7,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,342600.0
+Y25,Gorey,7,2024,New,Household Buyer - Former Owner-Occupier,401960.0
+Y25,Gorey,7,2024,New,Household Buyer - Non-Occupier,
+Y25,Gorey,7,2024,Existing,All Buyer Types,310326.0
+Y25,Gorey,7,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,248833.0
+Y25,Gorey,7,2024,Existing,Household Buyer - Former Owner-Occupier,324526.0
+Y25,Gorey,7,2024,Existing,Household Buyer - Non-Occupier,225000.0

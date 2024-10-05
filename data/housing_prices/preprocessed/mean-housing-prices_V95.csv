@@ -1,0 +1,2101 @@
+Routing Key,City,Month,Year,Dwelling Status,Type of Buyer,VALUE
+V95,Ennis,1,2010,All Dwelling Statuses,All Buyer Types,201553.0
+V95,Ennis,1,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,198410.0
+V95,Ennis,1,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,203044.0
+V95,Ennis,1,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,208000.0
+V95,Ennis,1,2010,New,All Buyer Types,239409.0
+V95,Ennis,1,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,277730.0
+V95,Ennis,1,2010,New,Household Buyer - Former Owner-Occupier,152175.0
+V95,Ennis,1,2010,New,Household Buyer - Non-Occupier,250000.0
+V95,Ennis,1,2010,Existing,All Buyer Types,182625.0
+V95,Ennis,1,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,158750.0
+V95,Ennis,1,2010,Existing,Household Buyer - Former Owner-Occupier,220000.0
+V95,Ennis,1,2010,Existing,Household Buyer - Non-Occupier,166000.0
+V95,Ennis,2,2010,All Dwelling Statuses,All Buyer Types,242892.0
+V95,Ennis,2,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,194664.0
+V95,Ennis,2,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,202875.0
+V95,Ennis,2,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,367307.0
+V95,Ennis,2,2010,New,All Buyer Types,240720.0
+V95,Ennis,2,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,195883.0
+V95,Ennis,2,2010,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,2,2010,New,Household Buyer - Non-Occupier,375229.0
+V95,Ennis,2,2010,Existing,All Buyer Types,243682.0
+V95,Ennis,2,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,193750.0
+V95,Ennis,2,2010,Existing,Household Buyer - Former Owner-Occupier,202875.0
+V95,Ennis,2,2010,Existing,Household Buyer - Non-Occupier,364667.0
+V95,Ennis,3,2010,All Dwelling Statuses,All Buyer Types,182160.0
+V95,Ennis,3,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,189846.0
+V95,Ennis,3,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,190625.0
+V95,Ennis,3,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,155500.0
+V95,Ennis,3,2010,New,All Buyer Types,242039.0
+V95,Ennis,3,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,242039.0
+V95,Ennis,3,2010,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,3,2010,New,Household Buyer - Non-Occupier,
+V95,Ennis,3,2010,Existing,All Buyer Types,171273.0
+V95,Ennis,3,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,163750.0
+V95,Ennis,3,2010,Existing,Household Buyer - Former Owner-Occupier,190625.0
+V95,Ennis,3,2010,Existing,Household Buyer - Non-Occupier,155500.0
+V95,Ennis,4,2010,All Dwelling Statuses,All Buyer Types,210387.0
+V95,Ennis,4,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,196498.0
+V95,Ennis,4,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,356988.0
+V95,Ennis,4,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,164865.0
+V95,Ennis,4,2010,New,All Buyer Types,187690.0
+V95,Ennis,4,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,208992.0
+V95,Ennis,4,2010,New,Household Buyer - Former Owner-Occupier,182982.0
+V95,Ennis,4,2010,New,Household Buyer - Non-Occupier,169527.0
+V95,Ennis,4,2010,Existing,All Buyer Types,224355.0
+V95,Ennis,4,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,192333.0
+V95,Ennis,4,2010,Existing,Household Buyer - Former Owner-Occupier,705000.0
+V95,Ennis,4,2010,Existing,Household Buyer - Non-Occupier,160204.0
+V95,Ennis,5,2010,All Dwelling Statuses,All Buyer Types,183295.0
+V95,Ennis,5,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,173270.0
+V95,Ennis,5,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,205015.0
+V95,Ennis,5,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,190542.0
+V95,Ennis,5,2010,New,All Buyer Types,189860.0
+V95,Ennis,5,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,192503.0
+V95,Ennis,5,2010,New,Household Buyer - Former Owner-Occupier,184574.0
+V95,Ennis,5,2010,New,Household Buyer - Non-Occupier,
+V95,Ennis,5,2010,Existing,All Buyer Types,182201.0
+V95,Ennis,5,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,169773.0
+V95,Ennis,5,2010,Existing,Household Buyer - Former Owner-Occupier,210125.0
+V95,Ennis,5,2010,Existing,Household Buyer - Non-Occupier,190542.0
+V95,Ennis,6,2010,All Dwelling Statuses,All Buyer Types,196986.0
+V95,Ennis,6,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,181659.0
+V95,Ennis,6,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,207863.0
+V95,Ennis,6,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,240000.0
+V95,Ennis,6,2010,New,All Buyer Types,197179.0
+V95,Ennis,6,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,169727.0
+V95,Ennis,6,2010,New,Household Buyer - Former Owner-Occupier,252084.0
+V95,Ennis,6,2010,New,Household Buyer - Non-Occupier,
+V95,Ennis,6,2010,Existing,All Buyer Types,196918.0
+V95,Ennis,6,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,187625.0
+V95,Ennis,6,2010,Existing,Household Buyer - Former Owner-Occupier,195229.0
+V95,Ennis,6,2010,Existing,Household Buyer - Non-Occupier,240000.0
+V95,Ennis,7,2010,All Dwelling Statuses,All Buyer Types,163643.0
+V95,Ennis,7,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,170128.0
+V95,Ennis,7,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,181229.0
+V95,Ennis,7,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,92900.0
+V95,Ennis,7,2010,New,All Buyer Types,196133.0
+V95,Ennis,7,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,193064.0
+V95,Ennis,7,2010,New,Household Buyer - Former Owner-Occupier,201248.0
+V95,Ennis,7,2010,New,Household Buyer - Non-Occupier,
+V95,Ennis,7,2010,Existing,All Buyer Types,155258.0
+V95,Ennis,7,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,163382.0
+V95,Ennis,7,2010,Existing,Household Buyer - Former Owner-Occupier,174556.0
+V95,Ennis,7,2010,Existing,Household Buyer - Non-Occupier,92900.0
+V95,Ennis,8,2010,All Dwelling Statuses,All Buyer Types,204716.0
+V95,Ennis,8,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,192973.0
+V95,Ennis,8,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,225133.0
+V95,Ennis,8,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,177000.0
+V95,Ennis,8,2010,New,All Buyer Types,243284.0
+V95,Ennis,8,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,222665.0
+V95,Ennis,8,2010,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,8,2010,New,Household Buyer - Non-Occupier,367000.0
+V95,Ennis,8,2010,Existing,All Buyer Types,195717.0
+V95,Ennis,8,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,179269.0
+V95,Ennis,8,2010,Existing,Household Buyer - Former Owner-Occupier,225133.0
+V95,Ennis,8,2010,Existing,Household Buyer - Non-Occupier,82000.0
+V95,Ennis,9,2010,All Dwelling Statuses,All Buyer Types,208675.0
+V95,Ennis,9,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,198220.0
+V95,Ennis,9,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,235259.0
+V95,Ennis,9,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,140667.0
+V95,Ennis,9,2010,New,All Buyer Types,277791.0
+V95,Ennis,9,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,144713.0
+V95,Ennis,9,2010,New,Household Buyer - Former Owner-Occupier,331023.0
+V95,Ennis,9,2010,New,Household Buyer - Non-Occupier,
+V95,Ennis,9,2010,Existing,All Buyer Types,183211.0
+V95,Ennis,9,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210111.0
+V95,Ennis,9,2010,Existing,Household Buyer - Former Owner-Occupier,166857.0
+V95,Ennis,9,2010,Existing,Household Buyer - Non-Occupier,140667.0
+V95,Ennis,10,2010,All Dwelling Statuses,All Buyer Types,167397.0
+V95,Ennis,10,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,183257.0
+V95,Ennis,10,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,146500.0
+V95,Ennis,10,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,145000.0
+V95,Ennis,10,2010,New,All Buyer Types,219055.0
+V95,Ennis,10,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,219055.0
+V95,Ennis,10,2010,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,10,2010,New,Household Buyer - Non-Occupier,
+V95,Ennis,10,2010,Existing,All Buyer Types,163423.0
+V95,Ennis,10,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,178143.0
+V95,Ennis,10,2010,Existing,Household Buyer - Former Owner-Occupier,146500.0
+V95,Ennis,10,2010,Existing,Household Buyer - Non-Occupier,145000.0
+V95,Ennis,11,2010,All Dwelling Statuses,All Buyer Types,163409.0
+V95,Ennis,11,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,197395.0
+V95,Ennis,11,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,143000.0
+V95,Ennis,11,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,84135.0
+V95,Ennis,11,2010,New,All Buyer Types,153928.0
+V95,Ennis,11,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,192950.0
+V95,Ennis,11,2010,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,11,2010,New,Household Buyer - Non-Occupier,114906.0
+V95,Ennis,11,2010,Existing,All Buyer Types,164594.0
+V95,Ennis,11,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,197889.0
+V95,Ennis,11,2010,Existing,Household Buyer - Former Owner-Occupier,143000.0
+V95,Ennis,11,2010,Existing,Household Buyer - Non-Occupier,68750.0
+V95,Ennis,12,2010,All Dwelling Statuses,All Buyer Types,211728.0
+V95,Ennis,12,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,183770.0
+V95,Ennis,12,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,302902.0
+V95,Ennis,12,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,209593.0
+V95,Ennis,12,2010,New,All Buyer Types,239257.0
+V95,Ennis,12,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,221332.0
+V95,Ennis,12,2010,New,Household Buyer - Former Owner-Occupier,359754.0
+V95,Ennis,12,2010,New,Household Buyer - Non-Occupier,181500.0
+V95,Ennis,12,2010,Existing,All Buyer Types,190098.0
+V95,Ennis,12,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,154556.0
+V95,Ennis,12,2010,Existing,Household Buyer - Former Owner-Occupier,265000.0
+V95,Ennis,12,2010,Existing,Household Buyer - Non-Occupier,237687.0
+V95,Ennis,1,2011,All Dwelling Statuses,All Buyer Types,157813.0
+V95,Ennis,1,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,146720.0
+V95,Ennis,1,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,151000.0
+V95,Ennis,1,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,188951.0
+V95,Ennis,1,2011,New,All Buyer Types,180967.0
+V95,Ennis,1,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,164999.0
+V95,Ennis,1,2011,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,1,2011,New,Household Buyer - Non-Occupier,188951.0
+V95,Ennis,1,2011,Existing,All Buyer Types,143920.0
+V95,Ennis,1,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,142150.0
+V95,Ennis,1,2011,Existing,Household Buyer - Former Owner-Occupier,151000.0
+V95,Ennis,1,2011,Existing,Household Buyer - Non-Occupier,
+V95,Ennis,2,2011,All Dwelling Statuses,All Buyer Types,163400.0
+V95,Ennis,2,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,185375.0
+V95,Ennis,2,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,243750.0
+V95,Ennis,2,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,101250.0
+V95,Ennis,2,2011,New,All Buyer Types,220000.0
+V95,Ennis,2,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,2,2011,New,Household Buyer - Former Owner-Occupier,220000.0
+V95,Ennis,2,2011,New,Household Buyer - Non-Occupier,
+V95,Ennis,2,2011,Existing,All Buyer Types,157111.0
+V95,Ennis,2,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,185375.0
+V95,Ennis,2,2011,Existing,Household Buyer - Former Owner-Occupier,267500.0
+V95,Ennis,2,2011,Existing,Household Buyer - Non-Occupier,101250.0
+V95,Ennis,3,2011,All Dwelling Statuses,All Buyer Types,209423.0
+V95,Ennis,3,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,148833.0
+V95,Ennis,3,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,294117.0
+V95,Ennis,3,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,137112.0
+V95,Ennis,3,2011,New,All Buyer Types,163074.0
+V95,Ennis,3,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,157500.0
+V95,Ennis,3,2011,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,3,2011,New,Household Buyer - Non-Occupier,174223.0
+V95,Ennis,3,2011,Existing,All Buyer Types,222064.0
+V95,Ennis,3,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,144500.0
+V95,Ennis,3,2011,Existing,Household Buyer - Former Owner-Occupier,294117.0
+V95,Ennis,3,2011,Existing,Household Buyer - Non-Occupier,100000.0
+V95,Ennis,4,2011,All Dwelling Statuses,All Buyer Types,181278.0
+V95,Ennis,4,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+V95,Ennis,4,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197430.0
+V95,Ennis,4,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,155000.0
+V95,Ennis,4,2011,New,All Buyer Types,282244.0
+V95,Ennis,4,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+V95,Ennis,4,2011,New,Household Buyer - Former Owner-Occupier,317992.0
+V95,Ennis,4,2011,New,Household Buyer - Non-Occupier,
+V95,Ennis,4,2011,Existing,All Buyer Types,150212.0
+V95,Ennis,4,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,141667.0
+V95,Ennis,4,2011,Existing,Household Buyer - Former Owner-Occupier,152219.0
+V95,Ennis,4,2011,Existing,Household Buyer - Non-Occupier,155000.0
+V95,Ennis,5,2011,All Dwelling Statuses,All Buyer Types,159000.0
+V95,Ennis,5,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,177800.0
+V95,Ennis,5,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,154300.0
+V95,Ennis,5,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,123750.0
+V95,Ennis,5,2011,New,All Buyer Types,
+V95,Ennis,5,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,5,2011,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,5,2011,New,Household Buyer - Non-Occupier,
+V95,Ennis,5,2011,Existing,All Buyer Types,159000.0
+V95,Ennis,5,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,177800.0
+V95,Ennis,5,2011,Existing,Household Buyer - Former Owner-Occupier,154300.0
+V95,Ennis,5,2011,Existing,Household Buyer - Non-Occupier,123750.0
+V95,Ennis,6,2011,All Dwelling Statuses,All Buyer Types,162303.0
+V95,Ennis,6,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,155314.0
+V95,Ennis,6,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,191982.0
+V95,Ennis,6,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,123333.0
+V95,Ennis,6,2011,New,All Buyer Types,164652.0
+V95,Ennis,6,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,153328.0
+V95,Ennis,6,2011,New,Household Buyer - Former Owner-Occupier,198625.0
+V95,Ennis,6,2011,New,Household Buyer - Non-Occupier,
+V95,Ennis,6,2011,Existing,All Buyer Types,161808.0
+V95,Ennis,6,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,155910.0
+V95,Ennis,6,2011,Existing,Household Buyer - Former Owner-Occupier,190875.0
+V95,Ennis,6,2011,Existing,Household Buyer - Non-Occupier,123333.0
+V95,Ennis,7,2011,All Dwelling Statuses,All Buyer Types,177934.0
+V95,Ennis,7,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,139756.0
+V95,Ennis,7,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,209272.0
+V95,Ennis,7,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,124950.0
+V95,Ennis,7,2011,New,All Buyer Types,287329.0
+V95,Ennis,7,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,176269.0
+V95,Ennis,7,2011,New,Household Buyer - Former Owner-Occupier,509450.0
+V95,Ennis,7,2011,New,Household Buyer - Non-Occupier,
+V95,Ennis,7,2011,Existing,All Buyer Types,152688.0
+V95,Ennis,7,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,121500.0
+V95,Ennis,7,2011,Existing,Household Buyer - Former Owner-Occupier,171750.0
+V95,Ennis,7,2011,Existing,Household Buyer - Non-Occupier,124950.0
+V95,Ennis,8,2011,All Dwelling Statuses,All Buyer Types,185443.0
+V95,Ennis,8,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,209169.0
+V95,Ennis,8,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,196613.0
+V95,Ennis,8,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,151161.0
+V95,Ennis,8,2011,New,All Buyer Types,220258.0
+V95,Ennis,8,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,290345.0
+V95,Ennis,8,2011,New,Household Buyer - Former Owner-Occupier,280429.0
+V95,Ennis,8,2011,New,Household Buyer - Non-Occupier,90001.0
+V95,Ennis,8,2011,Existing,All Buyer Types,181713.0
+V95,Ennis,8,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,188875.0
+V95,Ennis,8,2011,Existing,Household Buyer - Former Owner-Occupier,191375.0
+V95,Ennis,8,2011,Existing,Household Buyer - Non-Occupier,158806.0
+V95,Ennis,9,2011,All Dwelling Statuses,All Buyer Types,151789.0
+V95,Ennis,9,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,158700.0
+V95,Ennis,9,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,177563.0
+V95,Ennis,9,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,111667.0
+V95,Ennis,9,2011,New,All Buyer Types,110000.0
+V95,Ennis,9,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,9,2011,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,9,2011,New,Household Buyer - Non-Occupier,110000.0
+V95,Ennis,9,2011,Existing,All Buyer Types,154111.0
+V95,Ennis,9,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,158700.0
+V95,Ennis,9,2011,Existing,Household Buyer - Former Owner-Occupier,177563.0
+V95,Ennis,9,2011,Existing,Household Buyer - Non-Occupier,112000.0
+V95,Ennis,10,2011,All Dwelling Statuses,All Buyer Types,199270.0
+V95,Ennis,10,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,166069.0
+V95,Ennis,10,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,223186.0
+V95,Ennis,10,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,69000.0
+V95,Ennis,10,2011,New,All Buyer Types,261532.0
+V95,Ennis,10,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,278075.0
+V95,Ennis,10,2011,New,Household Buyer - Former Owner-Occupier,244989.0
+V95,Ennis,10,2011,New,Household Buyer - Non-Occupier,
+V95,Ennis,10,2011,Existing,All Buyer Types,190376.0
+V95,Ennis,10,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,128733.0
+V95,Ennis,10,2011,Existing,Household Buyer - Former Owner-Occupier,221006.0
+V95,Ennis,10,2011,Existing,Household Buyer - Non-Occupier,69000.0
+V95,Ennis,11,2011,All Dwelling Statuses,All Buyer Types,167119.0
+V95,Ennis,11,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,119500.0
+V95,Ennis,11,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,169500.0
+V95,Ennis,11,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,180452.0
+V95,Ennis,11,2011,New,All Buyer Types,269999.0
+V95,Ennis,11,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,11,2011,New,Household Buyer - Former Owner-Occupier,269999.0
+V95,Ennis,11,2011,New,Household Buyer - Non-Occupier,
+V95,Ennis,11,2011,Existing,All Buyer Types,161403.0
+V95,Ennis,11,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,119500.0
+V95,Ennis,11,2011,Existing,Household Buyer - Former Owner-Occupier,160364.0
+V95,Ennis,11,2011,Existing,Household Buyer - Non-Occupier,180452.0
+V95,Ennis,12,2011,All Dwelling Statuses,All Buyer Types,203641.0
+V95,Ennis,12,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,154389.0
+V95,Ennis,12,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,269091.0
+V95,Ennis,12,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,148305.0
+V95,Ennis,12,2011,New,All Buyer Types,204174.0
+V95,Ennis,12,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,177000.0
+V95,Ennis,12,2011,New,Household Buyer - Former Owner-Occupier,304998.0
+V95,Ennis,12,2011,New,Household Buyer - Non-Occupier,130525.0
+V95,Ennis,12,2011,Existing,All Buyer Types,203568.0
+V95,Ennis,12,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,151563.0
+V95,Ennis,12,2011,Existing,Household Buyer - Former Owner-Occupier,265500.0
+V95,Ennis,12,2011,Existing,Household Buyer - Non-Occupier,152750.0
+V95,Ennis,1,2012,All Dwelling Statuses,All Buyer Types,162716.0
+V95,Ennis,1,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,129600.0
+V95,Ennis,1,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,239000.0
+V95,Ennis,1,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,141625.0
+V95,Ennis,1,2012,New,All Buyer Types,276375.0
+V95,Ennis,1,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,1,2012,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,1,2012,New,Household Buyer - Non-Occupier,276375.0
+V95,Ennis,1,2012,Existing,All Buyer Types,151350.0
+V95,Ennis,1,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,129600.0
+V95,Ennis,1,2012,Existing,Household Buyer - Former Owner-Occupier,239000.0
+V95,Ennis,1,2012,Existing,Household Buyer - Non-Occupier,74250.0
+V95,Ennis,2,2012,All Dwelling Statuses,All Buyer Types,172526.0
+V95,Ennis,2,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,99100.0
+V95,Ennis,2,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,213660.0
+V95,Ennis,2,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,130625.0
+V95,Ennis,2,2012,New,All Buyer Types,296025.0
+V95,Ennis,2,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,2,2012,New,Household Buyer - Former Owner-Occupier,296025.0
+V95,Ennis,2,2012,New,Household Buyer - Non-Occupier,
+V95,Ennis,2,2012,Existing,All Buyer Types,153026.0
+V95,Ennis,2,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,99100.0
+V95,Ennis,2,2012,Existing,Household Buyer - Former Owner-Occupier,188950.0
+V95,Ennis,2,2012,Existing,Household Buyer - Non-Occupier,130625.0
+V95,Ennis,3,2012,All Dwelling Statuses,All Buyer Types,156925.0
+V95,Ennis,3,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,125756.0
+V95,Ennis,3,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,184393.0
+V95,Ennis,3,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,131571.0
+V95,Ennis,3,2012,New,All Buyer Types,130525.0
+V95,Ennis,3,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,130525.0
+V95,Ennis,3,2012,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,3,2012,New,Household Buyer - Non-Occupier,
+V95,Ennis,3,2012,Existing,All Buyer Types,158182.0
+V95,Ennis,3,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,124167.0
+V95,Ennis,3,2012,Existing,Household Buyer - Former Owner-Occupier,184393.0
+V95,Ennis,3,2012,Existing,Household Buyer - Non-Occupier,131571.0
+V95,Ennis,4,2012,All Dwelling Statuses,All Buyer Types,145389.0
+V95,Ennis,4,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+V95,Ennis,4,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,154923.0
+V95,Ennis,4,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,108250.0
+V95,Ennis,4,2012,New,All Buyer Types,113500.0
+V95,Ennis,4,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,4,2012,New,Household Buyer - Former Owner-Occupier,113500.0
+V95,Ennis,4,2012,New,Household Buyer - Non-Occupier,
+V95,Ennis,4,2012,Existing,All Buyer Types,147265.0
+V95,Ennis,4,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+V95,Ennis,4,2012,Existing,Household Buyer - Former Owner-Occupier,158375.0
+V95,Ennis,4,2012,Existing,Household Buyer - Non-Occupier,108250.0
+V95,Ennis,5,2012,All Dwelling Statuses,All Buyer Types,168474.0
+V95,Ennis,5,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,129083.0
+V95,Ennis,5,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,208050.0
+V95,Ennis,5,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,115333.0
+V95,Ennis,5,2012,New,All Buyer Types,
+V95,Ennis,5,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,5,2012,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,5,2012,New,Household Buyer - Non-Occupier,
+V95,Ennis,5,2012,Existing,All Buyer Types,168474.0
+V95,Ennis,5,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,129083.0
+V95,Ennis,5,2012,Existing,Household Buyer - Former Owner-Occupier,208050.0
+V95,Ennis,5,2012,Existing,Household Buyer - Non-Occupier,115333.0
+V95,Ennis,6,2012,All Dwelling Statuses,All Buyer Types,147943.0
+V95,Ennis,6,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,139231.0
+V95,Ennis,6,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,181070.0
+V95,Ennis,6,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,84000.0
+V95,Ennis,6,2012,New,All Buyer Types,245688.0
+V95,Ennis,6,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,292750.0
+V95,Ennis,6,2012,New,Household Buyer - Former Owner-Occupier,283750.0
+V95,Ennis,6,2012,New,Household Buyer - Non-Occupier,113500.0
+V95,Ennis,6,2012,Existing,All Buyer Types,134910.0
+V95,Ennis,6,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,111318.0
+V95,Ennis,6,2012,Existing,Household Buyer - Former Owner-Occupier,173736.0
+V95,Ennis,6,2012,Existing,Household Buyer - Non-Occupier,78100.0
+V95,Ennis,7,2012,All Dwelling Statuses,All Buyer Types,145930.0
+V95,Ennis,7,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,162935.0
+V95,Ennis,7,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,145657.0
+V95,Ennis,7,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,65000.0
+V95,Ennis,7,2012,New,All Buyer Types,223979.0
+V95,Ennis,7,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,237559.0
+V95,Ennis,7,2012,New,Household Buyer - Former Owner-Occupier,210400.0
+V95,Ennis,7,2012,New,Household Buyer - Non-Occupier,
+V95,Ennis,7,2012,Existing,All Buyer Types,114710.0
+V95,Ennis,7,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,51000.0
+V95,Ennis,7,2012,Existing,Household Buyer - Former Owner-Occupier,129471.0
+V95,Ennis,7,2012,Existing,Household Buyer - Non-Occupier,65000.0
+V95,Ennis,8,2012,All Dwelling Statuses,All Buyer Types,145476.0
+V95,Ennis,8,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150096.0
+V95,Ennis,8,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,165644.0
+V95,Ennis,8,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,98000.0
+V95,Ennis,8,2012,New,All Buyer Types,195655.0
+V95,Ennis,8,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,85383.0
+V95,Ennis,8,2012,New,Household Buyer - Former Owner-Occupier,416200.0
+V95,Ennis,8,2012,New,Household Buyer - Non-Occupier,
+V95,Ennis,8,2012,Existing,All Buyer Types,140458.0
+V95,Ennis,8,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,171667.0
+V95,Ennis,8,2012,Existing,Household Buyer - Former Owner-Occupier,149984.0
+V95,Ennis,8,2012,Existing,Household Buyer - Non-Occupier,98000.0
+V95,Ennis,9,2012,All Dwelling Statuses,All Buyer Types,145132.0
+V95,Ennis,9,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,177580.0
+V95,Ennis,9,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,139448.0
+V95,Ennis,9,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,110000.0
+V95,Ennis,9,2012,New,All Buyer Types,222595.0
+V95,Ennis,9,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,272400.0
+V95,Ennis,9,2012,New,Household Buyer - Former Owner-Occupier,258990.0
+V95,Ennis,9,2012,New,Household Buyer - Non-Occupier,100000.0
+V95,Ennis,9,2012,Existing,All Buyer Types,123000.0
+V95,Ennis,9,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,153875.0
+V95,Ennis,9,2012,Existing,Household Buyer - Former Owner-Occupier,109563.0
+V95,Ennis,9,2012,Existing,Household Buyer - Non-Occupier,115000.0
+V95,Ennis,10,2012,All Dwelling Statuses,All Buyer Types,134048.0
+V95,Ennis,10,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,133280.0
+V95,Ennis,10,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,145689.0
+V95,Ennis,10,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,107800.0
+V95,Ennis,10,2012,New,All Buyer Types,125280.0
+V95,Ennis,10,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,138038.0
+V95,Ennis,10,2012,New,Household Buyer - Former Owner-Occupier,99766.0
+V95,Ennis,10,2012,New,Household Buyer - Non-Occupier,
+V95,Ennis,10,2012,Existing,All Buyer Types,135100.0
+V95,Ennis,10,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,132222.0
+V95,Ennis,10,2012,Existing,Household Buyer - Former Owner-Occupier,149864.0
+V95,Ennis,10,2012,Existing,Household Buyer - Non-Occupier,107800.0
+V95,Ennis,11,2012,All Dwelling Statuses,All Buyer Types,131042.0
+V95,Ennis,11,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,146305.0
+V95,Ennis,11,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,137342.0
+V95,Ennis,11,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,97389.0
+V95,Ennis,11,2012,New,All Buyer Types,189541.0
+V95,Ennis,11,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,215083.0
+V95,Ennis,11,2012,New,Household Buyer - Former Owner-Occupier,164000.0
+V95,Ennis,11,2012,New,Household Buyer - Non-Occupier,
+V95,Ennis,11,2012,Existing,All Buyer Types,124542.0
+V95,Ennis,11,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,132550.0
+V95,Ennis,11,2012,Existing,Household Buyer - Former Owner-Occupier,134206.0
+V95,Ennis,11,2012,Existing,Household Buyer - Non-Occupier,97389.0
+V95,Ennis,12,2012,All Dwelling Statuses,All Buyer Types,132252.0
+V95,Ennis,12,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,149933.0
+V95,Ennis,12,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,155155.0
+V95,Ennis,12,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,59403.0
+V95,Ennis,12,2012,New,All Buyer Types,71468.0
+V95,Ennis,12,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,155495.0
+V95,Ennis,12,2012,New,Household Buyer - Former Owner-Occupier,141875.0
+V95,Ennis,12,2012,New,Household Buyer - Non-Occupier,15259.0
+V95,Ennis,12,2012,Existing,All Buyer Types,143449.0
+V95,Ennis,12,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,149505.0
+V95,Ennis,12,2012,Existing,Household Buyer - Former Owner-Occupier,156553.0
+V95,Ennis,12,2012,Existing,Household Buyer - Non-Occupier,88833.0
+V95,Ennis,1,2013,All Dwelling Statuses,All Buyer Types,115472.0
+V95,Ennis,1,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,95400.0
+V95,Ennis,1,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,98688.0
+V95,Ennis,1,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,162400.0
+V95,Ennis,1,2013,New,All Buyer Types,
+V95,Ennis,1,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,1,2013,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,1,2013,New,Household Buyer - Non-Occupier,
+V95,Ennis,1,2013,Existing,All Buyer Types,115472.0
+V95,Ennis,1,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,95400.0
+V95,Ennis,1,2013,Existing,Household Buyer - Former Owner-Occupier,98688.0
+V95,Ennis,1,2013,Existing,Household Buyer - Non-Occupier,162400.0
+V95,Ennis,2,2013,All Dwelling Statuses,All Buyer Types,133795.0
+V95,Ennis,2,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,137650.0
+V95,Ennis,2,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,229500.0
+V95,Ennis,2,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,93200.0
+V95,Ennis,2,2013,New,All Buyer Types,190950.0
+V95,Ennis,2,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,190950.0
+V95,Ennis,2,2013,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,2,2013,New,Household Buyer - Non-Occupier,
+V95,Ennis,2,2013,Existing,All Buyer Types,127444.0
+V95,Ennis,2,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,111000.0
+V95,Ennis,2,2013,Existing,Household Buyer - Former Owner-Occupier,229500.0
+V95,Ennis,2,2013,Existing,Household Buyer - Non-Occupier,93200.0
+V95,Ennis,3,2013,All Dwelling Statuses,All Buyer Types,114422.0
+V95,Ennis,3,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,89708.0
+V95,Ennis,3,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,137778.0
+V95,Ennis,3,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,52500.0
+V95,Ennis,3,2013,New,All Buyer Types,
+V95,Ennis,3,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,3,2013,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,3,2013,New,Household Buyer - Non-Occupier,
+V95,Ennis,3,2013,Existing,All Buyer Types,114422.0
+V95,Ennis,3,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,89708.0
+V95,Ennis,3,2013,Existing,Household Buyer - Former Owner-Occupier,137778.0
+V95,Ennis,3,2013,Existing,Household Buyer - Non-Occupier,52500.0
+V95,Ennis,4,2013,All Dwelling Statuses,All Buyer Types,114341.0
+V95,Ennis,4,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,142954.0
+V95,Ennis,4,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,99357.0
+V95,Ennis,4,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,73000.0
+V95,Ennis,4,2013,New,All Buyer Types,148317.0
+V95,Ennis,4,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,133634.0
+V95,Ennis,4,2013,New,Household Buyer - Former Owner-Occupier,163000.0
+V95,Ennis,4,2013,New,Household Buyer - Non-Occupier,
+V95,Ennis,4,2013,Existing,All Buyer Types,110094.0
+V95,Ennis,4,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,144286.0
+V95,Ennis,4,2013,Existing,Household Buyer - Former Owner-Occupier,88750.0
+V95,Ennis,4,2013,Existing,Household Buyer - Non-Occupier,73000.0
+V95,Ennis,5,2013,All Dwelling Statuses,All Buyer Types,125967.0
+V95,Ennis,5,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,136333.0
+V95,Ennis,5,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,114833.0
+V95,Ennis,5,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,127500.0
+V95,Ennis,5,2013,New,All Buyer Types,280000.0
+V95,Ennis,5,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,280000.0
+V95,Ennis,5,2013,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,5,2013,New,Household Buyer - Non-Occupier,
+V95,Ennis,5,2013,Existing,All Buyer Types,114964.0
+V95,Ennis,5,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,107600.0
+V95,Ennis,5,2013,Existing,Household Buyer - Former Owner-Occupier,114833.0
+V95,Ennis,5,2013,Existing,Household Buyer - Non-Occupier,127500.0
+V95,Ennis,6,2013,All Dwelling Statuses,All Buyer Types,136325.0
+V95,Ennis,6,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115928.0
+V95,Ennis,6,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,199143.0
+V95,Ennis,6,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,86833.0
+V95,Ennis,6,2013,New,All Buyer Types,124999.0
+V95,Ennis,6,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,124999.0
+V95,Ennis,6,2013,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,6,2013,New,Household Buyer - Non-Occupier,
+V95,Ennis,6,2013,Existing,All Buyer Types,136921.0
+V95,Ennis,6,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,114417.0
+V95,Ennis,6,2013,Existing,Household Buyer - Former Owner-Occupier,199143.0
+V95,Ennis,6,2013,Existing,Household Buyer - Non-Occupier,86833.0
+V95,Ennis,7,2013,All Dwelling Statuses,All Buyer Types,134921.0
+V95,Ennis,7,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,145536.0
+V95,Ennis,7,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,152631.0
+V95,Ennis,7,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,94882.0
+V95,Ennis,7,2013,New,All Buyer Types,120001.0
+V95,Ennis,7,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,140001.0
+V95,Ennis,7,2013,New,Household Buyer - Former Owner-Occupier,100000.0
+V95,Ennis,7,2013,New,Household Buyer - Non-Occupier,
+V95,Ennis,7,2013,Existing,All Buyer Types,135570.0
+V95,Ennis,7,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,145962.0
+V95,Ennis,7,2013,Existing,Household Buyer - Former Owner-Occupier,155263.0
+V95,Ennis,7,2013,Existing,Household Buyer - Non-Occupier,94882.0
+V95,Ennis,8,2013,All Dwelling Statuses,All Buyer Types,121879.0
+V95,Ennis,8,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,166592.0
+V95,Ennis,8,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,167062.0
+V95,Ennis,8,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,71833.0
+V95,Ennis,8,2013,New,All Buyer Types,236570.0
+V95,Ennis,8,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,195388.0
+V95,Ennis,8,2013,New,Household Buyer - Former Owner-Occupier,318935.0
+V95,Ennis,8,2013,New,Household Buyer - Non-Occupier,
+V95,Ennis,8,2013,Existing,All Buyer Types,100375.0
+V95,Ennis,8,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,109000.0
+V95,Ennis,8,2013,Existing,Household Buyer - Former Owner-Occupier,141750.0
+V95,Ennis,8,2013,Existing,Household Buyer - Non-Occupier,71833.0
+V95,Ennis,9,2013,All Dwelling Statuses,All Buyer Types,136515.0
+V95,Ennis,9,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,129490.0
+V95,Ennis,9,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,151728.0
+V95,Ennis,9,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,95800.0
+V95,Ennis,9,2013,New,All Buyer Types,107699.0
+V95,Ennis,9,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,107699.0
+V95,Ennis,9,2013,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,9,2013,New,Household Buyer - Non-Occupier,
+V95,Ennis,9,2013,Existing,All Buyer Types,138374.0
+V95,Ennis,9,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,134938.0
+V95,Ennis,9,2013,Existing,Household Buyer - Former Owner-Occupier,151728.0
+V95,Ennis,9,2013,Existing,Household Buyer - Non-Occupier,95800.0
+V95,Ennis,10,2013,All Dwelling Statuses,All Buyer Types,125985.0
+V95,Ennis,10,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,124143.0
+V95,Ennis,10,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,126697.0
+V95,Ennis,10,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,127250.0
+V95,Ennis,10,2013,New,All Buyer Types,110663.0
+V95,Ennis,10,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,10,2013,New,Household Buyer - Former Owner-Occupier,110663.0
+V95,Ennis,10,2013,New,Household Buyer - Non-Occupier,
+V95,Ennis,10,2013,Existing,All Buyer Types,126714.0
+V95,Ennis,10,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,124143.0
+V95,Ennis,10,2013,Existing,Household Buyer - Former Owner-Occupier,128300.0
+V95,Ennis,10,2013,Existing,Household Buyer - Non-Occupier,127250.0
+V95,Ennis,11,2013,All Dwelling Statuses,All Buyer Types,123291.0
+V95,Ennis,11,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100585.0
+V95,Ennis,11,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,157230.0
+V95,Ennis,11,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,80182.0
+V95,Ennis,11,2013,New,All Buyer Types,165425.0
+V95,Ennis,11,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,165425.0
+V95,Ennis,11,2013,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,11,2013,New,Household Buyer - Non-Occupier,
+V95,Ennis,11,2013,Existing,All Buyer Types,122333.0
+V95,Ennis,11,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,94691.0
+V95,Ennis,11,2013,Existing,Household Buyer - Former Owner-Occupier,157230.0
+V95,Ennis,11,2013,Existing,Household Buyer - Non-Occupier,80182.0
+V95,Ennis,12,2013,All Dwelling Statuses,All Buyer Types,133091.0
+V95,Ennis,12,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,118562.0
+V95,Ennis,12,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,171456.0
+V95,Ennis,12,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,96467.0
+V95,Ennis,12,2013,New,All Buyer Types,253910.0
+V95,Ennis,12,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,225865.0
+V95,Ennis,12,2013,New,Household Buyer - Former Owner-Occupier,310000.0
+V95,Ennis,12,2013,New,Household Buyer - Non-Occupier,
+V95,Ennis,12,2013,Existing,All Buyer Types,125379.0
+V95,Ennis,12,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,102054.0
+V95,Ennis,12,2013,Existing,Household Buyer - Former Owner-Occupier,164164.0
+V95,Ennis,12,2013,Existing,Household Buyer - Non-Occupier,96467.0
+V95,Ennis,1,2014,All Dwelling Statuses,All Buyer Types,123028.0
+V95,Ennis,1,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,151250.0
+V95,Ennis,1,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,151700.0
+V95,Ennis,1,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,104864.0
+V95,Ennis,1,2014,New,All Buyer Types,
+V95,Ennis,1,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,1,2014,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,1,2014,New,Household Buyer - Non-Occupier,
+V95,Ennis,1,2014,Existing,All Buyer Types,123028.0
+V95,Ennis,1,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,151250.0
+V95,Ennis,1,2014,Existing,Household Buyer - Former Owner-Occupier,151700.0
+V95,Ennis,1,2014,Existing,Household Buyer - Non-Occupier,104864.0
+V95,Ennis,2,2014,All Dwelling Statuses,All Buyer Types,128511.0
+V95,Ennis,2,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,128375.0
+V95,Ennis,2,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,150945.0
+V95,Ennis,2,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,88400.0
+V95,Ennis,2,2014,New,All Buyer Types,156750.0
+V95,Ennis,2,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,156750.0
+V95,Ennis,2,2014,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,2,2014,New,Household Buyer - Non-Occupier,
+V95,Ennis,2,2014,Existing,All Buyer Types,127283.0
+V95,Ennis,2,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,125222.0
+V95,Ennis,2,2014,Existing,Household Buyer - Former Owner-Occupier,150945.0
+V95,Ennis,2,2014,Existing,Household Buyer - Non-Occupier,88400.0
+V95,Ennis,3,2014,All Dwelling Statuses,All Buyer Types,119644.0
+V95,Ennis,3,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,130286.0
+V95,Ennis,3,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,125008.0
+V95,Ennis,3,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,82250.0
+V95,Ennis,3,2014,New,All Buyer Types,167702.0
+V95,Ennis,3,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,3,2014,New,Household Buyer - Former Owner-Occupier,167702.0
+V95,Ennis,3,2014,New,Household Buyer - Non-Occupier,
+V95,Ennis,3,2014,Existing,All Buyer Types,113091.0
+V95,Ennis,3,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,130286.0
+V95,Ennis,3,2014,Existing,Household Buyer - Former Owner-Occupier,113364.0
+V95,Ennis,3,2014,Existing,Household Buyer - Non-Occupier,82250.0
+V95,Ennis,4,2014,All Dwelling Statuses,All Buyer Types,122421.0
+V95,Ennis,4,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,82333.0
+V95,Ennis,4,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,127105.0
+V95,Ennis,4,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,130550.0
+V95,Ennis,4,2014,New,All Buyer Types,144999.0
+V95,Ennis,4,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,4,2014,New,Household Buyer - Former Owner-Occupier,144999.0
+V95,Ennis,4,2014,New,Household Buyer - Non-Occupier,
+V95,Ennis,4,2014,Existing,All Buyer Types,121480.0
+V95,Ennis,4,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,82333.0
+V95,Ennis,4,2014,Existing,Household Buyer - Former Owner-Occupier,125986.0
+V95,Ennis,4,2014,Existing,Household Buyer - Non-Occupier,130550.0
+V95,Ennis,5,2014,All Dwelling Statuses,All Buyer Types,126209.0
+V95,Ennis,5,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,144551.0
+V95,Ennis,5,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,119143.0
+V95,Ennis,5,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,116822.0
+V95,Ennis,5,2014,New,All Buyer Types,201455.0
+V95,Ennis,5,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,165511.0
+V95,Ennis,5,2014,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,5,2014,New,Household Buyer - Non-Occupier,237399.0
+V95,Ennis,5,2014,Existing,All Buyer Types,121355.0
+V95,Ennis,5,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,142222.0
+V95,Ennis,5,2014,Existing,Household Buyer - Former Owner-Occupier,119143.0
+V95,Ennis,5,2014,Existing,Household Buyer - Non-Occupier,101750.0
+V95,Ennis,6,2014,All Dwelling Statuses,All Buyer Types,147144.0
+V95,Ennis,6,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,111904.0
+V95,Ennis,6,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,181098.0
+V95,Ennis,6,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,119143.0
+V95,Ennis,6,2014,New,All Buyer Types,147200.0
+V95,Ennis,6,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,107425.0
+V95,Ennis,6,2014,New,Household Buyer - Former Owner-Occupier,167088.0
+V95,Ennis,6,2014,New,Household Buyer - Non-Occupier,
+V95,Ennis,6,2014,Existing,All Buyer Types,147136.0
+V95,Ennis,6,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,112800.0
+V95,Ennis,6,2014,Existing,Household Buyer - Former Owner-Occupier,183900.0
+V95,Ennis,6,2014,Existing,Household Buyer - Non-Occupier,119143.0
+V95,Ennis,7,2014,All Dwelling Statuses,All Buyer Types,117930.0
+V95,Ennis,7,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,95107.0
+V95,Ennis,7,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,146591.0
+V95,Ennis,7,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,73500.0
+V95,Ennis,7,2014,New,All Buyer Types,121000.0
+V95,Ennis,7,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,135999.0
+V95,Ennis,7,2014,New,Household Buyer - Former Owner-Occupier,113500.0
+V95,Ennis,7,2014,New,Household Buyer - Non-Occupier,
+V95,Ennis,7,2014,Existing,All Buyer Types,117700.0
+V95,Ennis,7,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,91962.0
+V95,Ennis,7,2014,Existing,Household Buyer - Former Owner-Occupier,149900.0
+V95,Ennis,7,2014,Existing,Household Buyer - Non-Occupier,73500.0
+V95,Ennis,8,2014,All Dwelling Statuses,All Buyer Types,122416.0
+V95,Ennis,8,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,139304.0
+V95,Ennis,8,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,122900.0
+V95,Ennis,8,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,95875.0
+V95,Ennis,8,2014,New,All Buyer Types,63645.0
+V95,Ennis,8,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,63645.0
+V95,Ennis,8,2014,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,8,2014,New,Household Buyer - Non-Occupier,
+V95,Ennis,8,2014,Existing,All Buyer Types,123923.0
+V95,Ennis,8,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,146182.0
+V95,Ennis,8,2014,Existing,Household Buyer - Former Owner-Occupier,122900.0
+V95,Ennis,8,2014,Existing,Household Buyer - Non-Occupier,95875.0
+V95,Ennis,9,2014,All Dwelling Statuses,All Buyer Types,114375.0
+V95,Ennis,9,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,124039.0
+V95,Ennis,9,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,134905.0
+V95,Ennis,9,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,77766.0
+V95,Ennis,9,2014,New,All Buyer Types,81862.0
+V95,Ennis,9,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,65830.0
+V95,Ennis,9,2014,New,Household Buyer - Former Owner-Occupier,125000.0
+V95,Ennis,9,2014,New,Household Buyer - Non-Occupier,54755.0
+V95,Ennis,9,2014,Existing,All Buyer Types,116326.0
+V95,Ennis,9,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,127920.0
+V95,Ennis,9,2014,Existing,Household Buyer - Former Owner-Occupier,135400.0
+V95,Ennis,9,2014,Existing,Household Buyer - Non-Occupier,79300.0
+V95,Ennis,10,2014,All Dwelling Statuses,All Buyer Types,141002.0
+V95,Ennis,10,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,118147.0
+V95,Ennis,10,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,171542.0
+V95,Ennis,10,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,76571.0
+V95,Ennis,10,2014,New,All Buyer Types,205734.0
+V95,Ennis,10,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,190113.0
+V95,Ennis,10,2014,New,Household Buyer - Former Owner-Occupier,210941.0
+V95,Ennis,10,2014,New,Household Buyer - Non-Occupier,
+V95,Ennis,10,2014,Existing,All Buyer Types,134004.0
+V95,Ennis,10,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,110950.0
+V95,Ennis,10,2014,Existing,Household Buyer - Former Owner-Occupier,165633.0
+V95,Ennis,10,2014,Existing,Household Buyer - Non-Occupier,76571.0
+V95,Ennis,11,2014,All Dwelling Statuses,All Buyer Types,127308.0
+V95,Ennis,11,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,134793.0
+V95,Ennis,11,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,193444.0
+V95,Ennis,11,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,79293.0
+V95,Ennis,11,2014,New,All Buyer Types,82199.0
+V95,Ennis,11,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,125633.0
+V95,Ennis,11,2014,New,Household Buyer - Former Owner-Occupier,160268.0
+V95,Ennis,11,2014,New,Household Buyer - Non-Occupier,56159.0
+V95,Ennis,11,2014,Existing,All Buyer Types,146814.0
+V95,Ennis,11,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,137083.0
+V95,Ennis,11,2014,Existing,Household Buyer - Former Owner-Occupier,198548.0
+V95,Ennis,11,2014,Existing,Household Buyer - Non-Occupier,100500.0
+V95,Ennis,12,2014,All Dwelling Statuses,All Buyer Types,112528.0
+V95,Ennis,12,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,151615.0
+V95,Ennis,12,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,161174.0
+V95,Ennis,12,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,61100.0
+V95,Ennis,12,2014,New,All Buyer Types,202227.0
+V95,Ennis,12,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,180268.0
+V95,Ennis,12,2014,New,Household Buyer - Former Owner-Occupier,248447.0
+V95,Ennis,12,2014,New,Household Buyer - Non-Occupier,80926.0
+V95,Ennis,12,2014,Existing,All Buyer Types,103131.0
+V95,Ennis,12,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,144451.0
+V95,Ennis,12,2014,Existing,Household Buyer - Former Owner-Occupier,147538.0
+V95,Ennis,12,2014,Existing,Household Buyer - Non-Occupier,60726.0
+V95,Ennis,1,2015,All Dwelling Statuses,All Buyer Types,124268.0
+V95,Ennis,1,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,120164.0
+V95,Ennis,1,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,142447.0
+V95,Ennis,1,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,80786.0
+V95,Ennis,1,2015,New,All Buyer Types,119035.0
+V95,Ennis,1,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,120879.0
+V95,Ennis,1,2015,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,1,2015,New,Household Buyer - Non-Occupier,113500.0
+V95,Ennis,1,2015,Existing,All Buyer Types,124922.0
+V95,Ennis,1,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,119857.0
+V95,Ennis,1,2015,Existing,Household Buyer - Former Owner-Occupier,142447.0
+V95,Ennis,1,2015,Existing,Household Buyer - Non-Occupier,75333.0
+V95,Ennis,2,2015,All Dwelling Statuses,All Buyer Types,131442.0
+V95,Ennis,2,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,149645.0
+V95,Ennis,2,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,152085.0
+V95,Ennis,2,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,92350.0
+V95,Ennis,2,2015,New,All Buyer Types,112663.0
+V95,Ennis,2,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,149050.0
+V95,Ennis,2,2015,New,Household Buyer - Former Owner-Occupier,94470.0
+V95,Ennis,2,2015,New,Household Buyer - Non-Occupier,
+V95,Ennis,2,2015,Existing,All Buyer Types,133528.0
+V95,Ennis,2,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,149720.0
+V95,Ennis,2,2015,Existing,Household Buyer - Former Owner-Occupier,164889.0
+V95,Ennis,2,2015,Existing,Household Buyer - Non-Occupier,92350.0
+V95,Ennis,3,2015,All Dwelling Statuses,All Buyer Types,120429.0
+V95,Ennis,3,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,138324.0
+V95,Ennis,3,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,109705.0
+V95,Ennis,3,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,113600.0
+V95,Ennis,3,2015,New,All Buyer Types,250000.0
+V95,Ennis,3,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,250000.0
+V95,Ennis,3,2015,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,3,2015,New,Household Buyer - Non-Occupier,
+V95,Ennis,3,2015,Existing,All Buyer Types,117729.0
+V95,Ennis,3,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,131344.0
+V95,Ennis,3,2015,Existing,Household Buyer - Former Owner-Occupier,109705.0
+V95,Ennis,3,2015,Existing,Household Buyer - Non-Occupier,113600.0
+V95,Ennis,4,2015,All Dwelling Statuses,All Buyer Types,118247.0
+V95,Ennis,4,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,130333.0
+V95,Ennis,4,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,126313.0
+V95,Ennis,4,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,85556.0
+V95,Ennis,4,2015,New,All Buyer Types,153062.0
+V95,Ennis,4,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,196666.0
+V95,Ennis,4,2015,New,Household Buyer - Former Owner-Occupier,109458.0
+V95,Ennis,4,2015,New,Household Buyer - Non-Occupier,
+V95,Ennis,4,2015,Existing,All Buyer Types,111719.0
+V95,Ennis,4,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,113750.0
+V95,Ennis,4,2015,Existing,Household Buyer - Former Owner-Occupier,130909.0
+V95,Ennis,4,2015,Existing,Household Buyer - Non-Occupier,85556.0
+V95,Ennis,5,2015,All Dwelling Statuses,All Buyer Types,128307.0
+V95,Ennis,5,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,124393.0
+V95,Ennis,5,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,165918.0
+V95,Ennis,5,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,69850.0
+V95,Ennis,5,2015,New,All Buyer Types,124283.0
+V95,Ennis,5,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,5,2015,New,Household Buyer - Former Owner-Occupier,124283.0
+V95,Ennis,5,2015,New,Household Buyer - Non-Occupier,
+V95,Ennis,5,2015,Existing,All Buyer Types,128408.0
+V95,Ennis,5,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,124393.0
+V95,Ennis,5,2015,Existing,Household Buyer - Former Owner-Occupier,168520.0
+V95,Ennis,5,2015,Existing,Household Buyer - Non-Occupier,69850.0
+V95,Ennis,6,2015,All Dwelling Statuses,All Buyer Types,127937.0
+V95,Ennis,6,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,141491.0
+V95,Ennis,6,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,145385.0
+V95,Ennis,6,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,99020.0
+V95,Ennis,6,2015,New,All Buyer Types,91760.0
+V95,Ennis,6,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,6,2015,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,6,2015,New,Household Buyer - Non-Occupier,91760.0
+V95,Ennis,6,2015,Existing,All Buyer Types,128942.0
+V95,Ennis,6,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,141491.0
+V95,Ennis,6,2015,Existing,Household Buyer - Former Owner-Occupier,145385.0
+V95,Ennis,6,2015,Existing,Household Buyer - Non-Occupier,99625.0
+V95,Ennis,7,2015,All Dwelling Statuses,All Buyer Types,138372.0
+V95,Ennis,7,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115529.0
+V95,Ennis,7,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,166552.0
+V95,Ennis,7,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,87607.0
+V95,Ennis,7,2015,New,All Buyer Types,130525.0
+V95,Ennis,7,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,7,2015,New,Household Buyer - Former Owner-Occupier,130525.0
+V95,Ennis,7,2015,New,Household Buyer - Non-Occupier,
+V95,Ennis,7,2015,Existing,All Buyer Types,138486.0
+V95,Ennis,7,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115529.0
+V95,Ennis,7,2015,Existing,Household Buyer - Former Owner-Occupier,167500.0
+V95,Ennis,7,2015,Existing,Household Buyer - Non-Occupier,87607.0
+V95,Ennis,8,2015,All Dwelling Statuses,All Buyer Types,131518.0
+V95,Ennis,8,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,133319.0
+V95,Ennis,8,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,136961.0
+V95,Ennis,8,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,116563.0
+V95,Ennis,8,2015,New,All Buyer Types,141875.0
+V95,Ennis,8,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,141875.0
+V95,Ennis,8,2015,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,8,2015,New,Household Buyer - Non-Occupier,
+V95,Ennis,8,2015,Existing,All Buyer Types,131222.0
+V95,Ennis,8,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,132250.0
+V95,Ennis,8,2015,Existing,Household Buyer - Former Owner-Occupier,136961.0
+V95,Ennis,8,2015,Existing,Household Buyer - Non-Occupier,116563.0
+V95,Ennis,9,2015,All Dwelling Statuses,All Buyer Types,122731.0
+V95,Ennis,9,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,128571.0
+V95,Ennis,9,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,155312.0
+V95,Ennis,9,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,80354.0
+V95,Ennis,9,2015,New,All Buyer Types,171059.0
+V95,Ennis,9,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,415000.0
+V95,Ennis,9,2015,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,9,2015,New,Household Buyer - Non-Occupier,49089.0
+V95,Ennis,9,2015,Existing,All Buyer Types,119359.0
+V95,Ennis,9,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,106538.0
+V95,Ennis,9,2015,Existing,Household Buyer - Former Owner-Occupier,155312.0
+V95,Ennis,9,2015,Existing,Household Buyer - Non-Occupier,85164.0
+V95,Ennis,10,2015,All Dwelling Statuses,All Buyer Types,131538.0
+V95,Ennis,10,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,151615.0
+V95,Ennis,10,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,152264.0
+V95,Ennis,10,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,91354.0
+V95,Ennis,10,2015,New,All Buyer Types,126342.0
+V95,Ennis,10,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,10,2015,New,Household Buyer - Former Owner-Occupier,158900.0
+V95,Ennis,10,2015,New,Household Buyer - Non-Occupier,110063.0
+V95,Ennis,10,2015,Existing,All Buyer Types,131778.0
+V95,Ennis,10,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,151615.0
+V95,Ennis,10,2015,Existing,Household Buyer - Former Owner-Occupier,152050.0
+V95,Ennis,10,2015,Existing,Household Buyer - Non-Occupier,89572.0
+V95,Ennis,11,2015,All Dwelling Statuses,All Buyer Types,141633.0
+V95,Ennis,11,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160315.0
+V95,Ennis,11,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,159902.0
+V95,Ennis,11,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,84750.0
+V95,Ennis,11,2015,New,All Buyer Types,159243.0
+V95,Ennis,11,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,146983.0
+V95,Ennis,11,2015,New,Household Buyer - Former Owner-Occupier,198625.0
+V95,Ennis,11,2015,New,Household Buyer - Non-Occupier,104999.0
+V95,Ennis,11,2015,Existing,All Buyer Types,139431.0
+V95,Ennis,11,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,163278.0
+V95,Ennis,11,2015,Existing,Household Buyer - Former Owner-Occupier,156214.0
+V95,Ennis,11,2015,Existing,Household Buyer - Non-Occupier,82725.0
+V95,Ennis,12,2015,All Dwelling Statuses,All Buyer Types,142169.0
+V95,Ennis,12,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,141433.0
+V95,Ennis,12,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,164183.0
+V95,Ennis,12,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,107594.0
+V95,Ennis,12,2015,New,All Buyer Types,159752.0
+V95,Ennis,12,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,135653.0
+V95,Ennis,12,2015,New,Household Buyer - Former Owner-Occupier,220001.0
+V95,Ennis,12,2015,New,Household Buyer - Non-Occupier,
+V95,Ennis,12,2015,Existing,All Buyer Types,140152.0
+V95,Ennis,12,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,142810.0
+V95,Ennis,12,2015,Existing,Household Buyer - Former Owner-Occupier,159531.0
+V95,Ennis,12,2015,Existing,Household Buyer - Non-Occupier,107594.0
+V95,Ennis,1,2016,All Dwelling Statuses,All Buyer Types,179808.0
+V95,Ennis,1,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,135750.0
+V95,Ennis,1,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,134000.0
+V95,Ennis,1,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,370100.0
+V95,Ennis,1,2016,New,All Buyer Types,
+V95,Ennis,1,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,1,2016,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,1,2016,New,Household Buyer - Non-Occupier,
+V95,Ennis,1,2016,Existing,All Buyer Types,179808.0
+V95,Ennis,1,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,135750.0
+V95,Ennis,1,2016,Existing,Household Buyer - Former Owner-Occupier,134000.0
+V95,Ennis,1,2016,Existing,Household Buyer - Non-Occupier,370100.0
+V95,Ennis,2,2016,All Dwelling Statuses,All Buyer Types,140439.0
+V95,Ennis,2,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,153967.0
+V95,Ennis,2,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,166085.0
+V95,Ennis,2,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,85058.0
+V95,Ennis,2,2016,New,All Buyer Types,155246.0
+V95,Ennis,2,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,230000.0
+V95,Ennis,2,2016,New,Household Buyer - Former Owner-Occupier,117869.0
+V95,Ennis,2,2016,New,Household Buyer - Non-Occupier,
+V95,Ennis,2,2016,Existing,All Buyer Types,139381.0
+V95,Ennis,2,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,148536.0
+V95,Ennis,2,2016,Existing,Household Buyer - Former Owner-Occupier,172113.0
+V95,Ennis,2,2016,Existing,Household Buyer - Non-Occupier,85058.0
+V95,Ennis,3,2016,All Dwelling Statuses,All Buyer Types,145836.0
+V95,Ennis,3,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,171402.0
+V95,Ennis,3,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,140107.0
+V95,Ennis,3,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,98857.0
+V95,Ennis,3,2016,New,All Buyer Types,119491.0
+V95,Ennis,3,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,192606.0
+V95,Ennis,3,2016,New,Household Buyer - Former Owner-Occupier,56249.0
+V95,Ennis,3,2016,New,Household Buyer - Non-Occupier,80002.0
+V95,Ennis,3,2016,Existing,All Buyer Types,154304.0
+V95,Ennis,3,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,164333.0
+V95,Ennis,3,2016,Existing,Household Buyer - Former Owner-Occupier,173650.0
+V95,Ennis,3,2016,Existing,Household Buyer - Non-Occupier,102000.0
+V95,Ennis,4,2016,All Dwelling Statuses,All Buyer Types,134238.0
+V95,Ennis,4,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,117162.0
+V95,Ennis,4,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,183693.0
+V95,Ennis,4,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,106306.0
+V95,Ennis,4,2016,New,All Buyer Types,97134.0
+V95,Ennis,4,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,79756.0
+V95,Ennis,4,2016,New,Household Buyer - Former Owner-Occupier,123201.0
+V95,Ennis,4,2016,New,Household Buyer - Non-Occupier,
+V95,Ennis,4,2016,Existing,All Buyer Types,138655.0
+V95,Ennis,4,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,127364.0
+V95,Ennis,4,2016,Existing,Household Buyer - Former Owner-Occupier,193000.0
+V95,Ennis,4,2016,Existing,Household Buyer - Non-Occupier,106306.0
+V95,Ennis,5,2016,All Dwelling Statuses,All Buyer Types,140696.0
+V95,Ennis,5,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,117950.0
+V95,Ennis,5,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,181132.0
+V95,Ennis,5,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,116027.0
+V95,Ennis,5,2016,New,All Buyer Types,120502.0
+V95,Ennis,5,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,117225.0
+V95,Ennis,5,2016,New,Household Buyer - Former Owner-Occupier,138000.0
+V95,Ennis,5,2016,New,Household Buyer - Non-Occupier,113391.0
+V95,Ennis,5,2016,Existing,All Buyer Types,144453.0
+V95,Ennis,5,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,118111.0
+V95,Ennis,5,2016,Existing,Household Buyer - Former Owner-Occupier,186206.0
+V95,Ennis,5,2016,Existing,Household Buyer - Non-Occupier,116647.0
+V95,Ennis,6,2016,All Dwelling Statuses,All Buyer Types,155799.0
+V95,Ennis,6,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,146972.0
+V95,Ennis,6,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,174308.0
+V95,Ennis,6,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,114889.0
+V95,Ennis,6,2016,New,All Buyer Types,173269.0
+V95,Ennis,6,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,126105.0
+V95,Ennis,6,2016,New,Household Buyer - Former Owner-Occupier,251875.0
+V95,Ennis,6,2016,New,Household Buyer - Non-Occupier,
+V95,Ennis,6,2016,Existing,All Buyer Types,152761.0
+V95,Ennis,6,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,155667.0
+V95,Ennis,6,2016,Existing,Household Buyer - Former Owner-Occupier,165000.0
+V95,Ennis,6,2016,Existing,Household Buyer - Non-Occupier,114889.0
+V95,Ennis,7,2016,All Dwelling Statuses,All Buyer Types,161379.0
+V95,Ennis,7,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,156860.0
+V95,Ennis,7,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197196.0
+V95,Ennis,7,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,106433.0
+V95,Ennis,7,2016,New,All Buyer Types,115331.0
+V95,Ennis,7,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,139899.0
+V95,Ennis,7,2016,New,Household Buyer - Former Owner-Occupier,101867.0
+V95,Ennis,7,2016,New,Household Buyer - Non-Occupier,68555.0
+V95,Ennis,7,2016,Existing,All Buyer Types,166692.0
+V95,Ennis,7,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,159853.0
+V95,Ennis,7,2016,Existing,Household Buyer - Former Owner-Occupier,205862.0
+V95,Ennis,7,2016,Existing,Household Buyer - Non-Occupier,109346.0
+V95,Ennis,8,2016,All Dwelling Statuses,All Buyer Types,145174.0
+V95,Ennis,8,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,158545.0
+V95,Ennis,8,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,159998.0
+V95,Ennis,8,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,110521.0
+V95,Ennis,8,2016,New,All Buyer Types,81335.0
+V95,Ennis,8,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,76088.0
+V95,Ennis,8,2016,New,Household Buyer - Former Owner-Occupier,61955.0
+V95,Ennis,8,2016,New,Household Buyer - Non-Occupier,93649.0
+V95,Ennis,8,2016,Existing,All Buyer Types,150977.0
+V95,Ennis,8,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165417.0
+V95,Ennis,8,2016,Existing,Household Buyer - Former Owner-Occupier,164900.0
+V95,Ennis,8,2016,Existing,Household Buyer - Non-Occupier,113333.0
+V95,Ennis,9,2016,All Dwelling Statuses,All Buyer Types,151234.0
+V95,Ennis,9,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165473.0
+V95,Ennis,9,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,152987.0
+V95,Ennis,9,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,125522.0
+V95,Ennis,9,2016,New,All Buyer Types,117117.0
+V95,Ennis,9,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,9,2016,New,Household Buyer - Former Owner-Occupier,131728.0
+V95,Ennis,9,2016,New,Household Buyer - Non-Occupier,80590.0
+V95,Ennis,9,2016,Existing,All Buyer Types,157205.0
+V95,Ennis,9,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165473.0
+V95,Ennis,9,2016,Existing,Household Buyer - Former Owner-Occupier,157609.0
+V95,Ennis,9,2016,Existing,Household Buyer - Non-Occupier,140500.0
+V95,Ennis,10,2016,All Dwelling Statuses,All Buyer Types,141941.0
+V95,Ennis,10,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,139683.0
+V95,Ennis,10,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,144711.0
+V95,Ennis,10,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,137854.0
+V95,Ennis,10,2016,New,All Buyer Types,148457.0
+V95,Ennis,10,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,98871.0
+V95,Ennis,10,2016,New,Household Buyer - Former Owner-Occupier,138675.0
+V95,Ennis,10,2016,New,Household Buyer - Non-Occupier,195429.0
+V95,Ennis,10,2016,Existing,All Buyer Types,140684.0
+V95,Ennis,10,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,148429.0
+V95,Ennis,10,2016,Existing,Household Buyer - Former Owner-Occupier,145465.0
+V95,Ennis,10,2016,Existing,Household Buyer - Non-Occupier,116918.0
+V95,Ennis,11,2016,All Dwelling Statuses,All Buyer Types,169642.0
+V95,Ennis,11,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,164429.0
+V95,Ennis,11,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,188397.0
+V95,Ennis,11,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,104583.0
+V95,Ennis,11,2016,New,All Buyer Types,175098.0
+V95,Ennis,11,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,155429.0
+V95,Ennis,11,2016,New,Household Buyer - Former Owner-Occupier,209875.0
+V95,Ennis,11,2016,New,Household Buyer - Non-Occupier,95000.0
+V95,Ennis,11,2016,Existing,All Buyer Types,168672.0
+V95,Ennis,11,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,168286.0
+V95,Ennis,11,2016,Existing,Household Buyer - Former Owner-Occupier,185533.0
+V95,Ennis,11,2016,Existing,Household Buyer - Non-Occupier,105781.0
+V95,Ennis,12,2016,All Dwelling Statuses,All Buyer Types,163161.0
+V95,Ennis,12,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,144756.0
+V95,Ennis,12,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,175816.0
+V95,Ennis,12,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,156254.0
+V95,Ennis,12,2016,New,All Buyer Types,200781.0
+V95,Ennis,12,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,177171.0
+V95,Ennis,12,2016,New,Household Buyer - Former Owner-Occupier,232317.0
+V95,Ennis,12,2016,New,Household Buyer - Non-Occupier,133663.0
+V95,Ennis,12,2016,Existing,All Buyer Types,152513.0
+V95,Ennis,12,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,131250.0
+V95,Ennis,12,2016,Existing,Household Buyer - Former Owner-Occupier,158431.0
+V95,Ennis,12,2016,Existing,Household Buyer - Non-Occupier,159267.0
+V95,Ennis,1,2017,All Dwelling Statuses,All Buyer Types,168521.0
+V95,Ennis,1,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,179192.0
+V95,Ennis,1,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,201399.0
+V95,Ennis,1,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,116339.0
+V95,Ennis,1,2017,New,All Buyer Types,144113.0
+V95,Ennis,1,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,135000.0
+V95,Ennis,1,2017,New,Household Buyer - Former Owner-Occupier,153225.0
+V95,Ennis,1,2017,New,Household Buyer - Non-Occupier,
+V95,Ennis,1,2017,Existing,All Buyer Types,169656.0
+V95,Ennis,1,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,182875.0
+V95,Ennis,1,2017,Existing,Household Buyer - Former Owner-Occupier,204232.0
+V95,Ennis,1,2017,Existing,Household Buyer - Non-Occupier,116339.0
+V95,Ennis,2,2017,All Dwelling Statuses,All Buyer Types,151428.0
+V95,Ennis,2,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,152499.0
+V95,Ennis,2,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,171279.0
+V95,Ennis,2,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,115776.0
+V95,Ennis,2,2017,New,All Buyer Types,135704.0
+V95,Ennis,2,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,129622.0
+V95,Ennis,2,2017,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,2,2017,New,Household Buyer - Non-Occupier,160035.0
+V95,Ennis,2,2017,Existing,All Buyer Types,153444.0
+V95,Ennis,2,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,161650.0
+V95,Ennis,2,2017,Existing,Household Buyer - Former Owner-Occupier,171279.0
+V95,Ennis,2,2017,Existing,Household Buyer - Non-Occupier,111350.0
+V95,Ennis,3,2017,All Dwelling Statuses,All Buyer Types,180179.0
+V95,Ennis,3,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,162958.0
+V95,Ennis,3,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,192625.0
+V95,Ennis,3,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,164208.0
+V95,Ennis,3,2017,New,All Buyer Types,148083.0
+V95,Ennis,3,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,119750.0
+V95,Ennis,3,2017,New,Household Buyer - Former Owner-Occupier,162250.0
+V95,Ennis,3,2017,New,Household Buyer - Non-Occupier,
+V95,Ennis,3,2017,Existing,All Buyer Types,184030.0
+V95,Ennis,3,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,171600.0
+V95,Ennis,3,2017,Existing,Household Buyer - Former Owner-Occupier,196964.0
+V95,Ennis,3,2017,Existing,Household Buyer - Non-Occupier,164208.0
+V95,Ennis,4,2017,All Dwelling Statuses,All Buyer Types,164211.0
+V95,Ennis,4,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165305.0
+V95,Ennis,4,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,176335.0
+V95,Ennis,4,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,142288.0
+V95,Ennis,4,2017,New,All Buyer Types,160934.0
+V95,Ennis,4,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,125583.0
+V95,Ennis,4,2017,New,Household Buyer - Former Owner-Occupier,238331.0
+V95,Ennis,4,2017,New,Household Buyer - Non-Occupier,80188.0
+V95,Ennis,4,2017,Existing,All Buyer Types,164928.0
+V95,Ennis,4,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,173250.0
+V95,Ennis,4,2017,Existing,Household Buyer - Former Owner-Occupier,163050.0
+V95,Ennis,4,2017,Existing,Household Buyer - Non-Occupier,157813.0
+V95,Ennis,5,2017,All Dwelling Statuses,All Buyer Types,175058.0
+V95,Ennis,5,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,171736.0
+V95,Ennis,5,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,196191.0
+V95,Ennis,5,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,145110.0
+V95,Ennis,5,2017,New,All Buyer Types,156083.0
+V95,Ennis,5,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,169300.0
+V95,Ennis,5,2017,New,Household Buyer - Former Owner-Occupier,89999.0
+V95,Ennis,5,2017,New,Household Buyer - Non-Occupier,
+V95,Ennis,5,2017,Existing,All Buyer Types,177977.0
+V95,Ennis,5,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,172673.0
+V95,Ennis,5,2017,Existing,Household Buyer - Former Owner-Occupier,202828.0
+V95,Ennis,5,2017,Existing,Household Buyer - Non-Occupier,145110.0
+V95,Ennis,6,2017,All Dwelling Statuses,All Buyer Types,156483.0
+V95,Ennis,6,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165301.0
+V95,Ennis,6,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,181959.0
+V95,Ennis,6,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,104206.0
+V95,Ennis,6,2017,New,All Buyer Types,173734.0
+V95,Ennis,6,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,140556.0
+V95,Ennis,6,2017,New,Household Buyer - Former Owner-Occupier,206912.0
+V95,Ennis,6,2017,New,Household Buyer - Non-Occupier,
+V95,Ennis,6,2017,Existing,All Buyer Types,155314.0
+V95,Ennis,6,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,168600.0
+V95,Ennis,6,2017,Existing,Household Buyer - Former Owner-Occupier,180111.0
+V95,Ennis,6,2017,Existing,Household Buyer - Non-Occupier,104206.0
+V95,Ennis,7,2017,All Dwelling Statuses,All Buyer Types,174816.0
+V95,Ennis,7,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,194359.0
+V95,Ennis,7,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,170741.0
+V95,Ennis,7,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,154654.0
+V95,Ennis,7,2017,New,All Buyer Types,188868.0
+V95,Ennis,7,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,204615.0
+V95,Ennis,7,2017,New,Household Buyer - Former Owner-Occupier,180337.0
+V95,Ennis,7,2017,New,Household Buyer - Non-Occupier,160000.0
+V95,Ennis,7,2017,Existing,All Buyer Types,171942.0
+V95,Ennis,7,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,191429.0
+V95,Ennis,7,2017,Existing,Household Buyer - Former Owner-Occupier,168608.0
+V95,Ennis,7,2017,Existing,Household Buyer - Non-Occupier,154208.0
+V95,Ennis,8,2017,All Dwelling Statuses,All Buyer Types,204186.0
+V95,Ennis,8,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210333.0
+V95,Ennis,8,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,220776.0
+V95,Ennis,8,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,147500.0
+V95,Ennis,8,2017,New,All Buyer Types,227804.0
+V95,Ennis,8,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,8,2017,New,Household Buyer - Former Owner-Occupier,227804.0
+V95,Ennis,8,2017,New,Household Buyer - Non-Occupier,
+V95,Ennis,8,2017,Existing,All Buyer Types,199324.0
+V95,Ennis,8,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210333.0
+V95,Ennis,8,2017,Existing,Household Buyer - Former Owner-Occupier,217882.0
+V95,Ennis,8,2017,Existing,Household Buyer - Non-Occupier,147500.0
+V95,Ennis,9,2017,All Dwelling Statuses,All Buyer Types,165672.0
+V95,Ennis,9,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,141122.0
+V95,Ennis,9,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,195836.0
+V95,Ennis,9,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,108608.0
+V95,Ennis,9,2017,New,All Buyer Types,154641.0
+V95,Ennis,9,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,125649.0
+V95,Ennis,9,2017,New,Household Buyer - Former Owner-Occupier,224374.0
+V95,Ennis,9,2017,New,Household Buyer - Non-Occupier,102150.0
+V95,Ennis,9,2017,Existing,All Buyer Types,167176.0
+V95,Ennis,9,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,144217.0
+V95,Ennis,9,2017,Existing,Household Buyer - Former Owner-Occupier,193458.0
+V95,Ennis,9,2017,Existing,Household Buyer - Non-Occupier,109900.0
+V95,Ennis,10,2017,All Dwelling Statuses,All Buyer Types,179134.0
+V95,Ennis,10,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,161250.0
+V95,Ennis,10,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,200228.0
+V95,Ennis,10,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,124412.0
+V95,Ennis,10,2017,New,All Buyer Types,170148.0
+V95,Ennis,10,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,10,2017,New,Household Buyer - Former Owner-Occupier,137749.0
+V95,Ennis,10,2017,New,Household Buyer - Non-Occupier,234945.0
+V95,Ennis,10,2017,Existing,All Buyer Types,179542.0
+V95,Ennis,10,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,161250.0
+V95,Ennis,10,2017,Existing,Household Buyer - Former Owner-Occupier,203276.0
+V95,Ennis,10,2017,Existing,Household Buyer - Non-Occupier,114364.0
+V95,Ennis,11,2017,All Dwelling Statuses,All Buyer Types,167796.0
+V95,Ennis,11,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,157536.0
+V95,Ennis,11,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,188870.0
+V95,Ennis,11,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,119071.0
+V95,Ennis,11,2017,New,All Buyer Types,209720.0
+V95,Ennis,11,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,89999.0
+V95,Ennis,11,2017,New,Household Buyer - Former Owner-Occupier,249627.0
+V95,Ennis,11,2017,New,Household Buyer - Non-Occupier,
+V95,Ennis,11,2017,Existing,All Buyer Types,163604.0
+V95,Ennis,11,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,162731.0
+V95,Ennis,11,2017,Existing,Household Buyer - Former Owner-Occupier,179757.0
+V95,Ennis,11,2017,Existing,Household Buyer - Non-Occupier,119071.0
+V95,Ennis,12,2017,All Dwelling Statuses,All Buyer Types,176037.0
+V95,Ennis,12,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,207553.0
+V95,Ennis,12,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,201323.0
+V95,Ennis,12,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,129574.0
+V95,Ennis,12,2017,New,All Buyer Types,243218.0
+V95,Ennis,12,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,228937.0
+V95,Ennis,12,2017,New,Household Buyer - Former Owner-Occupier,344999.0
+V95,Ennis,12,2017,New,Household Buyer - Non-Occupier,170000.0
+V95,Ennis,12,2017,Existing,All Buyer Types,168133.0
+V95,Ennis,12,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,199000.0
+V95,Ennis,12,2017,Existing,Household Buyer - Former Owner-Occupier,192344.0
+V95,Ennis,12,2017,Existing,Household Buyer - Non-Occupier,126464.0
+V95,Ennis,1,2018,All Dwelling Statuses,All Buyer Types,167568.0
+V95,Ennis,1,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,149742.0
+V95,Ennis,1,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,190411.0
+V95,Ennis,1,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,145430.0
+V95,Ennis,1,2018,New,All Buyer Types,232483.0
+V95,Ennis,1,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,188000.0
+V95,Ennis,1,2018,New,Household Buyer - Former Owner-Occupier,270733.0
+V95,Ennis,1,2018,New,Household Buyer - Non-Occupier,216475.0
+V95,Ennis,1,2018,Existing,All Buyer Types,158796.0
+V95,Ennis,1,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,143366.0
+V95,Ennis,1,2018,Existing,Household Buyer - Former Owner-Occupier,181486.0
+V95,Ennis,1,2018,Existing,Household Buyer - Non-Occupier,134500.0
+V95,Ennis,2,2018,All Dwelling Statuses,All Buyer Types,167080.0
+V95,Ennis,2,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,166507.0
+V95,Ennis,2,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,172593.0
+V95,Ennis,2,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,150525.0
+V95,Ennis,2,2018,New,All Buyer Types,205802.0
+V95,Ennis,2,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,260000.0
+V95,Ennis,2,2018,New,Household Buyer - Former Owner-Occupier,221207.0
+V95,Ennis,2,2018,New,Household Buyer - Non-Occupier,136200.0
+V95,Ennis,2,2018,Existing,All Buyer Types,164757.0
+V95,Ennis,2,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,161313.0
+V95,Ennis,2,2018,Existing,Household Buyer - Former Owner-Occupier,170648.0
+V95,Ennis,2,2018,Existing,Household Buyer - Non-Occupier,152571.0
+V95,Ennis,3,2018,All Dwelling Statuses,All Buyer Types,204327.0
+V95,Ennis,3,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,218708.0
+V95,Ennis,3,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,212982.0
+V95,Ennis,3,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,139502.0
+V95,Ennis,3,2018,New,All Buyer Types,231862.0
+V95,Ennis,3,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,202499.0
+V95,Ennis,3,2018,New,Household Buyer - Former Owner-Occupier,247544.0
+V95,Ennis,3,2018,New,Household Buyer - Non-Occupier,198500.0
+V95,Ennis,3,2018,Existing,All Buyer Types,199862.0
+V95,Ennis,3,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220182.0
+V95,Ennis,3,2018,Existing,Household Buyer - Former Owner-Occupier,206399.0
+V95,Ennis,3,2018,Existing,Household Buyer - Non-Occupier,127702.0
+V95,Ennis,4,2018,All Dwelling Statuses,All Buyer Types,159306.0
+V95,Ennis,4,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,166850.0
+V95,Ennis,4,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,169752.0
+V95,Ennis,4,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,131594.0
+V95,Ennis,4,2018,New,All Buyer Types,217306.0
+V95,Ennis,4,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,204999.0
+V95,Ennis,4,2018,New,Household Buyer - Former Owner-Occupier,220383.0
+V95,Ennis,4,2018,New,Household Buyer - Non-Occupier,
+V95,Ennis,4,2018,Existing,All Buyer Types,148565.0
+V95,Ennis,4,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,162611.0
+V95,Ennis,4,2018,Existing,Household Buyer - Former Owner-Occupier,149500.0
+V95,Ennis,4,2018,Existing,Household Buyer - Non-Occupier,131594.0
+V95,Ennis,5,2018,All Dwelling Statuses,All Buyer Types,182987.0
+V95,Ennis,5,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,178737.0
+V95,Ennis,5,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,192726.0
+V95,Ennis,5,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,135000.0
+V95,Ennis,5,2018,New,All Buyer Types,250191.0
+V95,Ennis,5,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,236249.0
+V95,Ennis,5,2018,New,Household Buyer - Former Owner-Occupier,278075.0
+V95,Ennis,5,2018,New,Household Buyer - Non-Occupier,
+V95,Ennis,5,2018,Existing,All Buyer Types,178786.0
+V95,Ennis,5,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,171971.0
+V95,Ennis,5,2018,Existing,Household Buyer - Former Owner-Occupier,189565.0
+V95,Ennis,5,2018,Existing,Household Buyer - Non-Occupier,135000.0
+V95,Ennis,6,2018,All Dwelling Statuses,All Buyer Types,183314.0
+V95,Ennis,6,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,195592.0
+V95,Ennis,6,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,193191.0
+V95,Ennis,6,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,99550.0
+V95,Ennis,6,2018,New,All Buyer Types,332225.0
+V95,Ennis,6,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,322097.0
+V95,Ennis,6,2018,New,Household Buyer - Former Owner-Occupier,347418.0
+V95,Ennis,6,2018,New,Household Buyer - Non-Occupier,
+V95,Ennis,6,2018,Existing,All Buyer Types,164223.0
+V95,Ennis,6,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,161091.0
+V95,Ennis,6,2018,Existing,Household Buyer - Former Owner-Occupier,179780.0
+V95,Ennis,6,2018,Existing,Household Buyer - Non-Occupier,99550.0
+V95,Ennis,7,2018,All Dwelling Statuses,All Buyer Types,186218.0
+V95,Ennis,7,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,168598.0
+V95,Ennis,7,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,209297.0
+V95,Ennis,7,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,143286.0
+V95,Ennis,7,2018,New,All Buyer Types,301147.0
+V95,Ennis,7,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,216890.0
+V95,Ennis,7,2018,New,Household Buyer - Former Owner-Occupier,385404.0
+V95,Ennis,7,2018,New,Household Buyer - Non-Occupier,
+V95,Ennis,7,2018,Existing,All Buyer Types,170545.0
+V95,Ennis,7,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,158250.0
+V95,Ennis,7,2018,Existing,Household Buyer - Former Owner-Occupier,186326.0
+V95,Ennis,7,2018,Existing,Household Buyer - Non-Occupier,143286.0
+V95,Ennis,8,2018,All Dwelling Statuses,All Buyer Types,189583.0
+V95,Ennis,8,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,204666.0
+V95,Ennis,8,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197130.0
+V95,Ennis,8,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,147750.0
+V95,Ennis,8,2018,New,All Buyer Types,243891.0
+V95,Ennis,8,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,216599.0
+V95,Ennis,8,2018,New,Household Buyer - Former Owner-Occupier,312122.0
+V95,Ennis,8,2018,New,Household Buyer - Non-Occupier,
+V95,Ennis,8,2018,Existing,All Buyer Types,181495.0
+V95,Ennis,8,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,200077.0
+V95,Ennis,8,2018,Existing,Household Buyer - Former Owner-Occupier,187130.0
+V95,Ennis,8,2018,Existing,Household Buyer - Non-Occupier,147750.0
+V95,Ennis,9,2018,All Dwelling Statuses,All Buyer Types,195298.0
+V95,Ennis,9,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,188541.0
+V95,Ennis,9,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,217175.0
+V95,Ennis,9,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,159444.0
+V95,Ennis,9,2018,New,All Buyer Types,249138.0
+V95,Ennis,9,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,256897.0
+V95,Ennis,9,2018,New,Household Buyer - Former Owner-Occupier,237500.0
+V95,Ennis,9,2018,New,Household Buyer - Non-Occupier,
+V95,Ennis,9,2018,Existing,All Buyer Types,188732.0
+V95,Ennis,9,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,173893.0
+V95,Ennis,9,2018,Existing,Household Buyer - Former Owner-Occupier,214917.0
+V95,Ennis,9,2018,Existing,Household Buyer - Non-Occupier,159444.0
+V95,Ennis,10,2018,All Dwelling Statuses,All Buyer Types,192510.0
+V95,Ennis,10,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,200169.0
+V95,Ennis,10,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,185527.0
+V95,Ennis,10,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,204900.0
+V95,Ennis,10,2018,New,All Buyer Types,239727.0
+V95,Ennis,10,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,211654.0
+V95,Ennis,10,2018,New,Household Buyer - Former Owner-Occupier,323948.0
+V95,Ennis,10,2018,New,Household Buyer - Non-Occupier,
+V95,Ennis,10,2018,Existing,All Buyer Types,185246.0
+V95,Ennis,10,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,195863.0
+V95,Ennis,10,2018,Existing,Household Buyer - Former Owner-Occupier,176597.0
+V95,Ennis,10,2018,Existing,Household Buyer - Non-Occupier,204900.0
+V95,Ennis,11,2018,All Dwelling Statuses,All Buyer Types,210612.0
+V95,Ennis,11,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,206531.0
+V95,Ennis,11,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,235577.0
+V95,Ennis,11,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,152231.0
+V95,Ennis,11,2018,New,All Buyer Types,214218.0
+V95,Ennis,11,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,243000.0
+V95,Ennis,11,2018,New,Household Buyer - Former Owner-Occupier,213999.0
+V95,Ennis,11,2018,New,Household Buyer - Non-Occupier,99313.0
+V95,Ennis,11,2018,Existing,All Buyer Types,210141.0
+V95,Ennis,11,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,194375.0
+V95,Ennis,11,2018,Existing,Household Buyer - Former Owner-Occupier,236440.0
+V95,Ennis,11,2018,Existing,Household Buyer - Non-Occupier,158111.0
+V95,Ennis,12,2018,All Dwelling Statuses,All Buyer Types,226746.0
+V95,Ennis,12,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,223313.0
+V95,Ennis,12,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,252485.0
+V95,Ennis,12,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,152182.0
+V95,Ennis,12,2018,New,All Buyer Types,295333.0
+V95,Ennis,12,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,218001.0
+V95,Ennis,12,2018,New,Household Buyer - Former Owner-Occupier,449999.0
+V95,Ennis,12,2018,New,Household Buyer - Non-Occupier,
+V95,Ennis,12,2018,Existing,All Buyer Types,223198.0
+V95,Ennis,12,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,224071.0
+V95,Ennis,12,2018,Existing,Household Buyer - Former Owner-Occupier,246500.0
+V95,Ennis,12,2018,Existing,Household Buyer - Non-Occupier,152182.0
+V95,Ennis,1,2019,All Dwelling Statuses,All Buyer Types,193624.0
+V95,Ennis,1,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,209700.0
+V95,Ennis,1,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,195587.0
+V95,Ennis,1,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,174905.0
+V95,Ennis,1,2019,New,All Buyer Types,325612.0
+V95,Ennis,1,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,469998.0
+V95,Ennis,1,2019,New,Household Buyer - Former Owner-Occupier,376499.0
+V95,Ennis,1,2019,New,Household Buyer - Non-Occupier,79450.0
+V95,Ennis,1,2019,Existing,All Buyer Types,180425.0
+V95,Ennis,1,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180778.0
+V95,Ennis,1,2019,Existing,Household Buyer - Former Owner-Occupier,178357.0
+V95,Ennis,1,2019,Existing,Household Buyer - Non-Occupier,184450.0
+V95,Ennis,2,2019,All Dwelling Statuses,All Buyer Types,184419.0
+V95,Ennis,2,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210726.0
+V95,Ennis,2,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,190958.0
+V95,Ennis,2,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,116200.0
+V95,Ennis,2,2019,New,All Buyer Types,263615.0
+V95,Ennis,2,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,290579.0
+V95,Ennis,2,2019,New,Household Buyer - Former Owner-Occupier,256874.0
+V95,Ennis,2,2019,New,Household Buyer - Non-Occupier,
+V95,Ennis,2,2019,Existing,All Buyer Types,171645.0
+V95,Ennis,2,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,197417.0
+V95,Ennis,2,2019,Existing,Household Buyer - Former Owner-Occupier,177775.0
+V95,Ennis,2,2019,Existing,Household Buyer - Non-Occupier,116200.0
+V95,Ennis,3,2019,All Dwelling Statuses,All Buyer Types,191254.0
+V95,Ennis,3,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,168647.0
+V95,Ennis,3,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,231408.0
+V95,Ennis,3,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,138582.0
+V95,Ennis,3,2019,New,All Buyer Types,334080.0
+V95,Ennis,3,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,3,2019,New,Household Buyer - Former Owner-Occupier,344833.0
+V95,Ennis,3,2019,New,Household Buyer - Non-Occupier,317950.0
+V95,Ennis,3,2019,Existing,All Buyer Types,176060.0
+V95,Ennis,3,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,168647.0
+V95,Ennis,3,2019,Existing,Household Buyer - Former Owner-Occupier,215205.0
+V95,Ennis,3,2019,Existing,Household Buyer - Non-Occupier,98722.0
+V95,Ennis,4,2019,All Dwelling Statuses,All Buyer Types,188162.0
+V95,Ennis,4,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+V95,Ennis,4,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,190204.0
+V95,Ennis,4,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,212946.0
+V95,Ennis,4,2019,New,All Buyer Types,229010.0
+V95,Ennis,4,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,4,2019,New,Household Buyer - Former Owner-Occupier,265621.0
+V95,Ennis,4,2019,New,Household Buyer - Non-Occupier,119175.0
+V95,Ennis,4,2019,Existing,All Buyer Types,183862.0
+V95,Ennis,4,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+V95,Ennis,4,2019,Existing,Household Buyer - Former Owner-Occupier,179920.0
+V95,Ennis,4,2019,Existing,Household Buyer - Non-Occupier,231700.0
+V95,Ennis,5,2019,All Dwelling Statuses,All Buyer Types,210480.0
+V95,Ennis,5,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225231.0
+V95,Ennis,5,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,221630.0
+V95,Ennis,5,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,153063.0
+V95,Ennis,5,2019,New,All Buyer Types,301045.0
+V95,Ennis,5,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,257166.0
+V95,Ennis,5,2019,New,Household Buyer - Former Owner-Occupier,344924.0
+V95,Ennis,5,2019,New,Household Buyer - Non-Occupier,
+V95,Ennis,5,2019,Existing,All Buyer Types,196547.0
+V95,Ennis,5,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,215650.0
+V95,Ennis,5,2019,Existing,Household Buyer - Former Owner-Occupier,204017.0
+V95,Ennis,5,2019,Existing,Household Buyer - Non-Occupier,153063.0
+V95,Ennis,6,2019,All Dwelling Statuses,All Buyer Types,203788.0
+V95,Ennis,6,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,205500.0
+V95,Ennis,6,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,233740.0
+V95,Ennis,6,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,155813.0
+V95,Ennis,6,2019,New,All Buyer Types,245375.0
+V95,Ennis,6,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,227500.0
+V95,Ennis,6,2019,New,Household Buyer - Former Owner-Occupier,251334.0
+V95,Ennis,6,2019,New,Household Buyer - Non-Occupier,
+V95,Ennis,6,2019,Existing,All Buyer Types,200323.0
+V95,Ennis,6,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,203300.0
+V95,Ennis,6,2019,Existing,Household Buyer - Former Owner-Occupier,231341.0
+V95,Ennis,6,2019,Existing,Household Buyer - Non-Occupier,155813.0
+V95,Ennis,7,2019,All Dwelling Statuses,All Buyer Types,207495.0
+V95,Ennis,7,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,175133.0
+V95,Ennis,7,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,254279.0
+V95,Ennis,7,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,146583.0
+V95,Ennis,7,2019,New,All Buyer Types,352500.0
+V95,Ennis,7,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,7,2019,New,Household Buyer - Former Owner-Occupier,352500.0
+V95,Ennis,7,2019,New,Household Buyer - Non-Occupier,
+V95,Ennis,7,2019,Existing,All Buyer Types,201809.0
+V95,Ennis,7,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,175133.0
+V95,Ennis,7,2019,Existing,Household Buyer - Former Owner-Occupier,246094.0
+V95,Ennis,7,2019,Existing,Household Buyer - Non-Occupier,146583.0
+V95,Ennis,8,2019,All Dwelling Statuses,All Buyer Types,193609.0
+V95,Ennis,8,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,212915.0
+V95,Ennis,8,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,236926.0
+V95,Ennis,8,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,103250.0
+V95,Ennis,8,2019,New,All Buyer Types,302463.0
+V95,Ennis,8,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,284285.0
+V95,Ennis,8,2019,New,Household Buyer - Former Owner-Occupier,314581.0
+V95,Ennis,8,2019,New,Household Buyer - Non-Occupier,
+V95,Ennis,8,2019,Existing,All Buyer Types,177362.0
+V95,Ennis,8,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,197056.0
+V95,Ennis,8,2019,Existing,Household Buyer - Former Owner-Occupier,220286.0
+V95,Ennis,8,2019,Existing,Household Buyer - Non-Occupier,103250.0
+V95,Ennis,9,2019,All Dwelling Statuses,All Buyer Types,204815.0
+V95,Ennis,9,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,196469.0
+V95,Ennis,9,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,230750.0
+V95,Ennis,9,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,160370.0
+V95,Ennis,9,2019,New,All Buyer Types,233647.0
+V95,Ennis,9,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,197166.0
+V95,Ennis,9,2019,New,Household Buyer - Former Owner-Occupier,355409.0
+V95,Ennis,9,2019,New,Household Buyer - Non-Occupier,221325.0
+V95,Ennis,9,2019,Existing,All Buyer Types,201681.0
+V95,Ennis,9,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,196308.0
+V95,Ennis,9,2019,Existing,Household Buyer - Former Owner-Occupier,225330.0
+V95,Ennis,9,2019,Existing,Household Buyer - Non-Occupier,154275.0
+V95,Ennis,10,2019,All Dwelling Statuses,All Buyer Types,212075.0
+V95,Ennis,10,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,191530.0
+V95,Ennis,10,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,225009.0
+V95,Ennis,10,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,206000.0
+V95,Ennis,10,2019,New,All Buyer Types,284173.0
+V95,Ennis,10,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,237855.0
+V95,Ennis,10,2019,New,Household Buyer - Former Owner-Occupier,353649.0
+V95,Ennis,10,2019,New,Household Buyer - Non-Occupier,
+V95,Ennis,10,2019,Existing,All Buyer Types,205274.0
+V95,Ennis,10,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,182844.0
+V95,Ennis,10,2019,Existing,Household Buyer - Former Owner-Occupier,216710.0
+V95,Ennis,10,2019,Existing,Household Buyer - Non-Occupier,206000.0
+V95,Ennis,11,2019,All Dwelling Statuses,All Buyer Types,231749.0
+V95,Ennis,11,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210346.0
+V95,Ennis,11,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,250261.0
+V95,Ennis,11,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,211117.0
+V95,Ennis,11,2019,New,All Buyer Types,277975.0
+V95,Ennis,11,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,285438.0
+V95,Ennis,11,2019,New,Household Buyer - Former Owner-Occupier,273000.0
+V95,Ennis,11,2019,New,Household Buyer - Non-Occupier,
+V95,Ennis,11,2019,Existing,All Buyer Types,225667.0
+V95,Ennis,11,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,200333.0
+V95,Ennis,11,2019,Existing,Household Buyer - Former Owner-Occupier,246850.0
+V95,Ennis,11,2019,Existing,Household Buyer - Non-Occupier,211117.0
+V95,Ennis,12,2019,All Dwelling Statuses,All Buyer Types,199745.0
+V95,Ennis,12,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,183819.0
+V95,Ennis,12,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,213062.0
+V95,Ennis,12,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,116250.0
+V95,Ennis,12,2019,New,All Buyer Types,248659.0
+V95,Ennis,12,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,236897.0
+V95,Ennis,12,2019,New,Household Buyer - Former Owner-Occupier,260420.0
+V95,Ennis,12,2019,New,Household Buyer - Non-Occupier,
+V95,Ennis,12,2019,Existing,All Buyer Types,190123.0
+V95,Ennis,12,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,161071.0
+V95,Ennis,12,2019,Existing,Household Buyer - Former Owner-Occupier,206453.0
+V95,Ennis,12,2019,Existing,Household Buyer - Non-Occupier,116250.0
+V95,Ennis,1,2020,All Dwelling Statuses,All Buyer Types,216522.0
+V95,Ennis,1,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,192962.0
+V95,Ennis,1,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,234020.0
+V95,Ennis,1,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,204500.0
+V95,Ennis,1,2020,New,All Buyer Types,304291.0
+V95,Ennis,1,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,231250.0
+V95,Ennis,1,2020,New,Household Buyer - Former Owner-Occupier,352984.0
+V95,Ennis,1,2020,New,Household Buyer - Non-Occupier,
+V95,Ennis,1,2020,Existing,All Buyer Types,205269.0
+V95,Ennis,1,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,186000.0
+V95,Ennis,1,2020,Existing,Household Buyer - Former Owner-Occupier,216175.0
+V95,Ennis,1,2020,Existing,Household Buyer - Non-Occupier,204500.0
+V95,Ennis,2,2020,All Dwelling Statuses,All Buyer Types,161914.0
+V95,Ennis,2,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,184794.0
+V95,Ennis,2,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,174979.0
+V95,Ennis,2,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,58286.0
+V95,Ennis,2,2020,New,All Buyer Types,116167.0
+V95,Ennis,2,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,269999.0
+V95,Ennis,2,2020,New,Household Buyer - Former Owner-Occupier,141000.0
+V95,Ennis,2,2020,New,Household Buyer - Non-Occupier,48333.0
+V95,Ennis,2,2020,Existing,All Buyer Types,168298.0
+V95,Ennis,2,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,179782.0
+V95,Ennis,2,2020,Existing,Household Buyer - Former Owner-Occupier,178068.0
+V95,Ennis,2,2020,Existing,Household Buyer - Non-Occupier,65750.0
+V95,Ennis,3,2020,All Dwelling Statuses,All Buyer Types,205671.0
+V95,Ennis,3,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,189053.0
+V95,Ennis,3,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,227907.0
+V95,Ennis,3,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,164167.0
+V95,Ennis,3,2020,New,All Buyer Types,305158.0
+V95,Ennis,3,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,302498.0
+V95,Ennis,3,2020,New,Household Buyer - Former Owner-Occupier,305601.0
+V95,Ennis,3,2020,New,Household Buyer - Non-Occupier,
+V95,Ennis,3,2020,Existing,All Buyer Types,192279.0
+V95,Ennis,3,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,182750.0
+V95,Ennis,3,2020,Existing,Household Buyer - Former Owner-Occupier,209260.0
+V95,Ennis,3,2020,Existing,Household Buyer - Non-Occupier,164167.0
+V95,Ennis,4,2020,All Dwelling Statuses,All Buyer Types,198278.0
+V95,Ennis,4,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,206944.0
+V95,Ennis,4,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178867.0
+V95,Ennis,4,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,269333.0
+V95,Ennis,4,2020,New,All Buyer Types,225000.0
+V95,Ennis,4,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,225000.0
+V95,Ennis,4,2020,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,4,2020,New,Household Buyer - Non-Occupier,
+V95,Ennis,4,2020,Existing,All Buyer Types,197250.0
+V95,Ennis,4,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,204688.0
+V95,Ennis,4,2020,Existing,Household Buyer - Former Owner-Occupier,178867.0
+V95,Ennis,4,2020,Existing,Household Buyer - Non-Occupier,269333.0
+V95,Ennis,5,2020,All Dwelling Statuses,All Buyer Types,184037.0
+V95,Ennis,5,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,190085.0
+V95,Ennis,5,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,199800.0
+V95,Ennis,5,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,91618.0
+V95,Ennis,5,2020,New,All Buyer Types,178763.0
+V95,Ennis,5,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,178763.0
+V95,Ennis,5,2020,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,5,2020,New,Household Buyer - Non-Occupier,
+V95,Ennis,5,2020,Existing,All Buyer Types,184202.0
+V95,Ennis,5,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,191500.0
+V95,Ennis,5,2020,Existing,Household Buyer - Former Owner-Occupier,199800.0
+V95,Ennis,5,2020,Existing,Household Buyer - Non-Occupier,91618.0
+V95,Ennis,6,2020,All Dwelling Statuses,All Buyer Types,243047.0
+V95,Ennis,6,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,218545.0
+V95,Ennis,6,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,279016.0
+V95,Ennis,6,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,96917.0
+V95,Ennis,6,2020,New,All Buyer Types,305700.0
+V95,Ennis,6,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,336251.0
+V95,Ennis,6,2020,New,Household Buyer - Former Owner-Occupier,275150.0
+V95,Ennis,6,2020,New,Household Buyer - Non-Occupier,
+V95,Ennis,6,2020,Existing,All Buyer Types,234096.0
+V95,Ennis,6,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,189119.0
+V95,Ennis,6,2020,Existing,Household Buyer - Former Owner-Occupier,279471.0
+V95,Ennis,6,2020,Existing,Household Buyer - Non-Occupier,96917.0
+V95,Ennis,7,2020,All Dwelling Statuses,All Buyer Types,219689.0
+V95,Ennis,7,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,170536.0
+V95,Ennis,7,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,256492.0
+V95,Ennis,7,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,152500.0
+V95,Ennis,7,2020,New,All Buyer Types,347967.0
+V95,Ennis,7,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,232500.0
+V95,Ennis,7,2020,New,Household Buyer - Former Owner-Occupier,371060.0
+V95,Ennis,7,2020,New,Household Buyer - Non-Occupier,
+V95,Ennis,7,2020,Existing,All Buyer Types,199434.0
+V95,Ennis,7,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165769.0
+V95,Ennis,7,2020,Existing,Household Buyer - Former Owner-Occupier,229214.0
+V95,Ennis,7,2020,Existing,Household Buyer - Non-Occupier,152500.0
+V95,Ennis,8,2020,All Dwelling Statuses,All Buyer Types,213127.0
+V95,Ennis,8,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,205833.0
+V95,Ennis,8,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,217340.0
+V95,Ennis,8,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,203000.0
+V95,Ennis,8,2020,New,All Buyer Types,347900.0
+V95,Ennis,8,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,310000.0
+V95,Ennis,8,2020,New,Household Buyer - Former Owner-Occupier,385800.0
+V95,Ennis,8,2020,New,Household Buyer - Non-Occupier,
+V95,Ennis,8,2020,Existing,All Buyer Types,203500.0
+V95,Ennis,8,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,185000.0
+V95,Ennis,8,2020,Existing,Household Buyer - Former Owner-Occupier,208474.0
+V95,Ennis,8,2020,Existing,Household Buyer - Non-Occupier,203000.0
+V95,Ennis,9,2020,All Dwelling Statuses,All Buyer Types,193348.0
+V95,Ennis,9,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,195906.0
+V95,Ennis,9,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,202407.0
+V95,Ennis,9,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,169864.0
+V95,Ennis,9,2020,New,All Buyer Types,253314.0
+V95,Ennis,9,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,277500.0
+V95,Ennis,9,2020,New,Household Buyer - Former Owner-Occupier,252472.0
+V95,Ennis,9,2020,New,Household Buyer - Non-Occupier,232499.0
+V95,Ennis,9,2020,Existing,All Buyer Types,185353.0
+V95,Ennis,9,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,190467.0
+V95,Ennis,9,2020,Existing,Household Buyer - Former Owner-Occupier,192394.0
+V95,Ennis,9,2020,Existing,Household Buyer - Non-Occupier,163600.0
+V95,Ennis,10,2020,All Dwelling Statuses,All Buyer Types,222954.0
+V95,Ennis,10,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210175.0
+V95,Ennis,10,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,250156.0
+V95,Ennis,10,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,172864.0
+V95,Ennis,10,2020,New,All Buyer Types,306288.0
+V95,Ennis,10,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,288982.0
+V95,Ennis,10,2020,New,Household Buyer - Former Owner-Occupier,346667.0
+V95,Ennis,10,2020,New,Household Buyer - Non-Occupier,
+V95,Ennis,10,2020,Existing,All Buyer Types,208586.0
+V95,Ennis,10,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,179528.0
+V95,Ennis,10,2020,Existing,Household Buyer - Former Owner-Occupier,240172.0
+V95,Ennis,10,2020,Existing,Household Buyer - Non-Occupier,172864.0
+V95,Ennis,11,2020,All Dwelling Statuses,All Buyer Types,214293.0
+V95,Ennis,11,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,208833.0
+V95,Ennis,11,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,231202.0
+V95,Ennis,11,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,134853.0
+V95,Ennis,11,2020,New,All Buyer Types,278125.0
+V95,Ennis,11,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,254167.0
+V95,Ennis,11,2020,New,Household Buyer - Former Owner-Occupier,350000.0
+V95,Ennis,11,2020,New,Household Buyer - Non-Occupier,
+V95,Ennis,11,2020,Existing,All Buyer Types,209565.0
+V95,Ennis,11,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,199767.0
+V95,Ennis,11,2020,Existing,Household Buyer - Former Owner-Occupier,227602.0
+V95,Ennis,11,2020,Existing,Household Buyer - Non-Occupier,134853.0
+V95,Ennis,12,2020,All Dwelling Statuses,All Buyer Types,212980.0
+V95,Ennis,12,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,215472.0
+V95,Ennis,12,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,213329.0
+V95,Ennis,12,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,205938.0
+V95,Ennis,12,2020,New,All Buyer Types,326149.0
+V95,Ennis,12,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,314999.0
+V95,Ennis,12,2020,New,Household Buyer - Former Owner-Occupier,335069.0
+V95,Ennis,12,2020,New,Household Buyer - Non-Occupier,
+V95,Ennis,12,2020,Existing,All Buyer Types,192610.0
+V95,Ennis,12,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,187036.0
+V95,Ennis,12,2020,Existing,Household Buyer - Former Owner-Occupier,191589.0
+V95,Ennis,12,2020,Existing,Household Buyer - Non-Occupier,205938.0
+V95,Ennis,1,2021,All Dwelling Statuses,All Buyer Types,228875.0
+V95,Ennis,1,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,240818.0
+V95,Ennis,1,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,260886.0
+V95,Ennis,1,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,136425.0
+V95,Ennis,1,2021,New,All Buyer Types,267446.0
+V95,Ennis,1,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,267499.0
+V95,Ennis,1,2021,New,Household Buyer - Former Owner-Occupier,267420.0
+V95,Ennis,1,2021,New,Household Buyer - Non-Occupier,
+V95,Ennis,1,2021,Existing,All Buyer Types,225569.0
+V95,Ennis,1,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,238150.0
+V95,Ennis,1,2021,Existing,Household Buyer - Former Owner-Occupier,260118.0
+V95,Ennis,1,2021,Existing,Household Buyer - Non-Occupier,136425.0
+V95,Ennis,2,2021,All Dwelling Statuses,All Buyer Types,202988.0
+V95,Ennis,2,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,245360.0
+V95,Ennis,2,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,231418.0
+V95,Ennis,2,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,104696.0
+V95,Ennis,2,2021,New,All Buyer Types,262293.0
+V95,Ennis,2,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,266691.0
+V95,Ennis,2,2021,New,Household Buyer - Former Owner-Occupier,242933.0
+V95,Ennis,2,2021,New,Household Buyer - Non-Occupier,289588.0
+V95,Ennis,2,2021,Existing,All Buyer Types,190197.0
+V95,Ennis,2,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,232917.0
+V95,Ennis,2,2021,Existing,Household Buyer - Former Owner-Occupier,229978.0
+V95,Ennis,2,2021,Existing,Household Buyer - Non-Occupier,92370.0
+V95,Ennis,3,2021,All Dwelling Statuses,All Buyer Types,204836.0
+V95,Ennis,3,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,234692.0
+V95,Ennis,3,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,224717.0
+V95,Ennis,3,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,145923.0
+V95,Ennis,3,2021,New,All Buyer Types,235072.0
+V95,Ennis,3,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,234795.0
+V95,Ennis,3,2021,New,Household Buyer - Former Owner-Occupier,235626.0
+V95,Ennis,3,2021,New,Household Buyer - Non-Occupier,
+V95,Ennis,3,2021,Existing,All Buyer Types,202676.0
+V95,Ennis,3,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,234673.0
+V95,Ennis,3,2021,Existing,Household Buyer - Former Owner-Occupier,224111.0
+V95,Ennis,3,2021,Existing,Household Buyer - Non-Occupier,145923.0
+V95,Ennis,4,2021,All Dwelling Statuses,All Buyer Types,248304.0
+V95,Ennis,4,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,254800.0
+V95,Ennis,4,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,258889.0
+V95,Ennis,4,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,207166.0
+V95,Ennis,4,2021,New,All Buyer Types,346312.0
+V95,Ennis,4,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,319357.0
+V95,Ennis,4,2021,New,Household Buyer - Former Owner-Occupier,534999.0
+V95,Ennis,4,2021,New,Household Buyer - Non-Occupier,
+V95,Ennis,4,2021,Existing,All Buyer Types,223802.0
+V95,Ennis,4,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,198313.0
+V95,Ennis,4,2021,Existing,Household Buyer - Former Owner-Occupier,242647.0
+V95,Ennis,4,2021,Existing,Household Buyer - Non-Occupier,207166.0
+V95,Ennis,5,2021,All Dwelling Statuses,All Buyer Types,195497.0
+V95,Ennis,5,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,198153.0
+V95,Ennis,5,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,213912.0
+V95,Ennis,5,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,149208.0
+V95,Ennis,5,2021,New,All Buyer Types,264408.0
+V95,Ennis,5,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,267500.0
+V95,Ennis,5,2021,New,Household Buyer - Former Owner-Occupier,257714.0
+V95,Ennis,5,2021,New,Household Buyer - Non-Occupier,285000.0
+V95,Ennis,5,2021,Existing,All Buyer Types,185447.0
+V95,Ennis,5,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,187485.0
+V95,Ennis,5,2021,Existing,Household Buyer - Former Owner-Occupier,206611.0
+V95,Ennis,5,2021,Existing,Household Buyer - Non-Occupier,136864.0
+V95,Ennis,6,2021,All Dwelling Statuses,All Buyer Types,217148.0
+V95,Ennis,6,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,231002.0
+V95,Ennis,6,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,222523.0
+V95,Ennis,6,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,160500.0
+V95,Ennis,6,2021,New,All Buyer Types,341262.0
+V95,Ennis,6,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,341262.0
+V95,Ennis,6,2021,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,6,2021,New,Household Buyer - Non-Occupier,
+V95,Ennis,6,2021,Existing,All Buyer Types,211238.0
+V95,Ennis,6,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,215250.0
+V95,Ennis,6,2021,Existing,Household Buyer - Former Owner-Occupier,222523.0
+V95,Ennis,6,2021,Existing,Household Buyer - Non-Occupier,160500.0
+V95,Ennis,7,2021,All Dwelling Statuses,All Buyer Types,221819.0
+V95,Ennis,7,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,179000.0
+V95,Ennis,7,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,258063.0
+V95,Ennis,7,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,200857.0
+V95,Ennis,7,2021,New,All Buyer Types,249999.0
+V95,Ennis,7,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,249999.0
+V95,Ennis,7,2021,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,7,2021,New,Household Buyer - Non-Occupier,
+V95,Ennis,7,2021,Existing,All Buyer Types,221316.0
+V95,Ennis,7,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,174267.0
+V95,Ennis,7,2021,Existing,Household Buyer - Former Owner-Occupier,258063.0
+V95,Ennis,7,2021,Existing,Household Buyer - Non-Occupier,200857.0
+V95,Ennis,8,2021,All Dwelling Statuses,All Buyer Types,217656.0
+V95,Ennis,8,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,213059.0
+V95,Ennis,8,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,238882.0
+V95,Ennis,8,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,137216.0
+V95,Ennis,8,2021,New,All Buyer Types,282181.0
+V95,Ennis,8,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,239999.0
+V95,Ennis,8,2021,New,Household Buyer - Former Owner-Occupier,424500.0
+V95,Ennis,8,2021,New,Household Buyer - Non-Occupier,39725.0
+V95,Ennis,8,2021,Existing,All Buyer Types,212964.0
+V95,Ennis,8,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,211375.0
+V95,Ennis,8,2021,Existing,Household Buyer - Former Owner-Occupier,227281.0
+V95,Ennis,8,2021,Existing,Household Buyer - Non-Occupier,151143.0
+V95,Ennis,9,2021,All Dwelling Statuses,All Buyer Types,273278.0
+V95,Ennis,9,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,214007.0
+V95,Ennis,9,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,305676.0
+V95,Ennis,9,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,233875.0
+V95,Ennis,9,2021,New,All Buyer Types,342722.0
+V95,Ennis,9,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,296705.0
+V95,Ennis,9,2021,New,Household Buyer - Former Owner-Occupier,365730.0
+V95,Ennis,9,2021,New,Household Buyer - Non-Occupier,
+V95,Ennis,9,2021,Existing,All Buyer Types,261704.0
+V95,Ennis,9,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,194923.0
+V95,Ennis,9,2021,Existing,Household Buyer - Former Owner-Occupier,294758.0
+V95,Ennis,9,2021,Existing,Household Buyer - Non-Occupier,233875.0
+V95,Ennis,10,2021,All Dwelling Statuses,All Buyer Types,232554.0
+V95,Ennis,10,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,226640.0
+V95,Ennis,10,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,258545.0
+V95,Ennis,10,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,139500.0
+V95,Ennis,10,2021,New,All Buyer Types,314865.0
+V95,Ennis,10,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,295813.0
+V95,Ennis,10,2021,New,Household Buyer - Former Owner-Occupier,329154.0
+V95,Ennis,10,2021,New,Household Buyer - Non-Occupier,
+V95,Ennis,10,2021,Existing,All Buyer Types,222951.0
+V95,Ennis,10,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,215111.0
+V95,Ennis,10,2021,Existing,Household Buyer - Former Owner-Occupier,249987.0
+V95,Ennis,10,2021,Existing,Household Buyer - Non-Occupier,139500.0
+V95,Ennis,11,2021,All Dwelling Statuses,All Buyer Types,249308.0
+V95,Ennis,11,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,239125.0
+V95,Ennis,11,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,261116.0
+V95,Ennis,11,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,218875.0
+V95,Ennis,11,2021,New,All Buyer Types,346750.0
+V95,Ennis,11,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,285937.0
+V95,Ennis,11,2021,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,11,2021,New,Household Buyer - Non-Occupier,590000.0
+V95,Ennis,11,2021,Existing,All Buyer Types,241695.0
+V95,Ennis,11,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220400.0
+V95,Ennis,11,2021,Existing,Household Buyer - Former Owner-Occupier,261116.0
+V95,Ennis,11,2021,Existing,Household Buyer - Non-Occupier,185136.0
+V95,Ennis,12,2021,All Dwelling Statuses,All Buyer Types,246990.0
+V95,Ennis,12,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,269209.0
+V95,Ennis,12,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,252143.0
+V95,Ennis,12,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,185777.0
+V95,Ennis,12,2021,New,All Buyer Types,264540.0
+V95,Ennis,12,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,265165.0
+V95,Ennis,12,2021,New,Household Buyer - Former Owner-Occupier,268134.0
+V95,Ennis,12,2021,New,Household Buyer - Non-Occupier,235000.0
+V95,Ennis,12,2021,Existing,All Buyer Types,242811.0
+V95,Ennis,12,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,270625.0
+V95,Ennis,12,2021,Existing,Household Buyer - Former Owner-Occupier,248532.0
+V95,Ennis,12,2021,Existing,Household Buyer - Non-Occupier,181675.0
+V95,Ennis,1,2022,All Dwelling Statuses,All Buyer Types,269034.0
+V95,Ennis,1,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,227541.0
+V95,Ennis,1,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,314262.0
+V95,Ennis,1,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,204167.0
+V95,Ennis,1,2022,New,All Buyer Types,314500.0
+V95,Ennis,1,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,290000.0
+V95,Ennis,1,2022,New,Household Buyer - Former Owner-Occupier,322667.0
+V95,Ennis,1,2022,New,Household Buyer - Non-Occupier,
+V95,Ennis,1,2022,Existing,All Buyer Types,264371.0
+V95,Ennis,1,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,221295.0
+V95,Ennis,1,2022,Existing,Household Buyer - Former Owner-Occupier,313001.0
+V95,Ennis,1,2022,Existing,Household Buyer - Non-Occupier,204167.0
+V95,Ennis,2,2022,All Dwelling Statuses,All Buyer Types,278525.0
+V95,Ennis,2,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,255580.0
+V95,Ennis,2,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,298678.0
+V95,Ennis,2,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,242250.0
+V95,Ennis,2,2022,New,All Buyer Types,361307.0
+V95,Ennis,2,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,298522.0
+V95,Ennis,2,2022,New,Household Buyer - Former Owner-Occupier,397453.0
+V95,Ennis,2,2022,New,Household Buyer - Non-Occupier,269999.0
+V95,Ennis,2,2022,Existing,All Buyer Types,253690.0
+V95,Ennis,2,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,247773.0
+V95,Ennis,2,2022,Existing,Household Buyer - Former Owner-Occupier,261638.0
+V95,Ennis,2,2022,Existing,Household Buyer - Non-Occupier,233000.0
+V95,Ennis,3,2022,All Dwelling Statuses,All Buyer Types,255356.0
+V95,Ennis,3,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,272396.0
+V95,Ennis,3,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,298313.0
+V95,Ennis,3,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,155905.0
+V95,Ennis,3,2022,New,All Buyer Types,302895.0
+V95,Ennis,3,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,286959.0
+V95,Ennis,3,2022,New,Household Buyer - Former Owner-Occupier,330784.0
+V95,Ennis,3,2022,New,Household Buyer - Non-Occupier,
+V95,Ennis,3,2022,Existing,All Buyer Types,245299.0
+V95,Ennis,3,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,265600.0
+V95,Ennis,3,2022,Existing,Household Buyer - Former Owner-Occupier,292409.0
+V95,Ennis,3,2022,Existing,Household Buyer - Non-Occupier,155905.0
+V95,Ennis,4,2022,All Dwelling Statuses,All Buyer Types,252104.0
+V95,Ennis,4,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,267766.0
+V95,Ennis,4,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,234980.0
+V95,Ennis,4,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,275224.0
+V95,Ennis,4,2022,New,All Buyer Types,338298.0
+V95,Ennis,4,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,320005.0
+V95,Ennis,4,2022,New,Household Buyer - Former Owner-Occupier,307500.0
+V95,Ennis,4,2022,New,Household Buyer - Non-Occupier,396535.0
+V95,Ennis,4,2022,Existing,All Buyer Types,237738.0
+V95,Ennis,4,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,256571.0
+V95,Ennis,4,2022,Existing,Household Buyer - Former Owner-Occupier,228674.0
+V95,Ennis,4,2022,Existing,Household Buyer - Non-Occupier,226700.0
+V95,Ennis,5,2022,All Dwelling Statuses,All Buyer Types,273080.0
+V95,Ennis,5,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,267558.0
+V95,Ennis,5,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,319000.0
+V95,Ennis,5,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,185956.0
+V95,Ennis,5,2022,New,All Buyer Types,317820.0
+V95,Ennis,5,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,318385.0
+V95,Ennis,5,2022,New,Household Buyer - Former Owner-Occupier,315000.0
+V95,Ennis,5,2022,New,Household Buyer - Non-Occupier,
+V95,Ennis,5,2022,Existing,All Buyer Types,266016.0
+V95,Ennis,5,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,244455.0
+V95,Ennis,5,2022,Existing,Household Buyer - Former Owner-Occupier,319222.0
+V95,Ennis,5,2022,Existing,Household Buyer - Non-Occupier,185956.0
+V95,Ennis,6,2022,All Dwelling Statuses,All Buyer Types,261410.0
+V95,Ennis,6,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,253467.0
+V95,Ennis,6,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,290132.0
+V95,Ennis,6,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,199873.0
+V95,Ennis,6,2022,New,All Buyer Types,323780.0
+V95,Ennis,6,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,262667.0
+V95,Ennis,6,2022,New,Household Buyer - Former Owner-Occupier,337946.0
+V95,Ennis,6,2022,New,Household Buyer - Non-Occupier,361283.0
+V95,Ennis,6,2022,Existing,All Buyer Types,247408.0
+V95,Ennis,6,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,251167.0
+V95,Ennis,6,2022,Existing,Household Buyer - Former Owner-Occupier,281278.0
+V95,Ennis,6,2022,Existing,Household Buyer - Non-Occupier,151450.0
+V95,Ennis,7,2022,All Dwelling Statuses,All Buyer Types,286710.0
+V95,Ennis,7,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,289714.0
+V95,Ennis,7,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,303807.0
+V95,Ennis,7,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,223750.0
+V95,Ennis,7,2022,New,All Buyer Types,335549.0
+V95,Ennis,7,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,354999.0
+V95,Ennis,7,2022,New,Household Buyer - Former Owner-Occupier,325825.0
+V95,Ennis,7,2022,New,Household Buyer - Non-Occupier,
+V95,Ennis,7,2022,Existing,All Buyer Types,279895.0
+V95,Ennis,7,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,278833.0
+V95,Ennis,7,2022,Existing,Household Buyer - Former Owner-Occupier,299978.0
+V95,Ennis,7,2022,Existing,Household Buyer - Non-Occupier,223750.0
+V95,Ennis,8,2022,All Dwelling Statuses,All Buyer Types,273084.0
+V95,Ennis,8,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,256500.0
+V95,Ennis,8,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,287844.0
+V95,Ennis,8,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,106000.0
+V95,Ennis,8,2022,New,All Buyer Types,352205.0
+V95,Ennis,8,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,289000.0
+V95,Ennis,8,2022,New,Household Buyer - Former Owner-Occupier,415410.0
+V95,Ennis,8,2022,New,Household Buyer - Non-Occupier,
+V95,Ennis,8,2022,Existing,All Buyer Types,265891.0
+V95,Ennis,8,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,249278.0
+V95,Ennis,8,2022,Existing,Household Buyer - Former Owner-Occupier,280113.0
+V95,Ennis,8,2022,Existing,Household Buyer - Non-Occupier,106000.0
+V95,Ennis,9,2022,All Dwelling Statuses,All Buyer Types,264622.0
+V95,Ennis,9,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,236654.0
+V95,Ennis,9,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,293374.0
+V95,Ennis,9,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,202250.0
+V95,Ennis,9,2022,New,All Buyer Types,334460.0
+V95,Ennis,9,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,311666.0
+V95,Ennis,9,2022,New,Household Buyer - Former Owner-Occupier,351556.0
+V95,Ennis,9,2022,New,Household Buyer - Non-Occupier,
+V95,Ennis,9,2022,Existing,All Buyer Types,253511.0
+V95,Ennis,9,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,214150.0
+V95,Ennis,9,2022,Existing,Household Buyer - Former Owner-Occupier,284423.0
+V95,Ennis,9,2022,Existing,Household Buyer - Non-Occupier,202250.0
+V95,Ennis,10,2022,All Dwelling Statuses,All Buyer Types,252090.0
+V95,Ennis,10,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,275865.0
+V95,Ennis,10,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,249114.0
+V95,Ennis,10,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,223125.0
+V95,Ennis,10,2022,New,All Buyer Types,292188.0
+V95,Ennis,10,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,307917.0
+V95,Ennis,10,2022,New,Household Buyer - Former Owner-Occupier,245000.0
+V95,Ennis,10,2022,New,Household Buyer - Non-Occupier,
+V95,Ennis,10,2022,Existing,All Buyer Types,248360.0
+V95,Ennis,10,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,266250.0
+V95,Ennis,10,2022,Existing,Household Buyer - Former Owner-Occupier,249278.0
+V95,Ennis,10,2022,Existing,Household Buyer - Non-Occupier,223125.0
+V95,Ennis,11,2022,All Dwelling Statuses,All Buyer Types,255422.0
+V95,Ennis,11,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,247381.0
+V95,Ennis,11,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,273375.0
+V95,Ennis,11,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,222059.0
+V95,Ennis,11,2022,New,All Buyer Types,280681.0
+V95,Ennis,11,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,243750.0
+V95,Ennis,11,2022,New,Household Buyer - Former Owner-Occupier,317613.0
+V95,Ennis,11,2022,New,Household Buyer - Non-Occupier,
+V95,Ennis,11,2022,Existing,All Buyer Types,252576.0
+V95,Ennis,11,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,248235.0
+V95,Ennis,11,2022,Existing,Household Buyer - Former Owner-Occupier,268592.0
+V95,Ennis,11,2022,Existing,Household Buyer - Non-Occupier,222059.0
+V95,Ennis,12,2022,All Dwelling Statuses,All Buyer Types,300778.0
+V95,Ennis,12,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,257028.0
+V95,Ennis,12,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,326497.0
+V95,Ennis,12,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,280278.0
+V95,Ennis,12,2022,New,All Buyer Types,386550.0
+V95,Ennis,12,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,303035.0
+V95,Ennis,12,2022,New,Household Buyer - Former Owner-Occupier,425844.0
+V95,Ennis,12,2022,New,Household Buyer - Non-Occupier,516749.0
+V95,Ennis,12,2022,Existing,All Buyer Types,287300.0
+V95,Ennis,12,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,244921.0
+V95,Ennis,12,2022,Existing,Household Buyer - Former Owner-Occupier,317466.0
+V95,Ennis,12,2022,Existing,Household Buyer - Non-Occupier,212714.0
+V95,Ennis,1,2023,All Dwelling Statuses,All Buyer Types,266643.0
+V95,Ennis,1,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,234357.0
+V95,Ennis,1,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,289396.0
+V95,Ennis,1,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,231750.0
+V95,Ennis,1,2023,New,All Buyer Types,462949.0
+V95,Ennis,1,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,1,2023,New,Household Buyer - Former Owner-Occupier,462949.0
+V95,Ennis,1,2023,New,Household Buyer - Non-Occupier,
+V95,Ennis,1,2023,Existing,All Buyer Types,257295.0
+V95,Ennis,1,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,234357.0
+V95,Ennis,1,2023,Existing,Household Buyer - Former Owner-Occupier,274933.0
+V95,Ennis,1,2023,Existing,Household Buyer - Non-Occupier,231750.0
+V95,Ennis,2,2023,All Dwelling Statuses,All Buyer Types,298824.0
+V95,Ennis,2,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,295400.0
+V95,Ennis,2,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,305805.0
+V95,Ennis,2,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,255667.0
+V95,Ennis,2,2023,New,All Buyer Types,255000.0
+V95,Ennis,2,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,2,2023,New,Household Buyer - Former Owner-Occupier,255000.0
+V95,Ennis,2,2023,New,Household Buyer - Non-Occupier,
+V95,Ennis,2,2023,Existing,All Buyer Types,300390.0
+V95,Ennis,2,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,295400.0
+V95,Ennis,2,2023,Existing,Household Buyer - Former Owner-Occupier,308346.0
+V95,Ennis,2,2023,Existing,Household Buyer - Non-Occupier,255667.0
+V95,Ennis,3,2023,All Dwelling Statuses,All Buyer Types,241380.0
+V95,Ennis,3,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,239639.0
+V95,Ennis,3,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,276190.0
+V95,Ennis,3,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,141429.0
+V95,Ennis,3,2023,New,All Buyer Types,352500.0
+V95,Ennis,3,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,255000.0
+V95,Ennis,3,2023,New,Household Buyer - Former Owner-Occupier,450000.0
+V95,Ennis,3,2023,New,Household Buyer - Non-Occupier,
+V95,Ennis,3,2023,Existing,All Buyer Types,236330.0
+V95,Ennis,3,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,238735.0
+V95,Ennis,3,2023,Existing,Household Buyer - Former Owner-Occupier,267500.0
+V95,Ennis,3,2023,Existing,Household Buyer - Non-Occupier,141429.0
+V95,Ennis,4,2023,All Dwelling Statuses,All Buyer Types,235949.0
+V95,Ennis,4,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,226513.0
+V95,Ennis,4,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,257806.0
+V95,Ennis,4,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,165000.0
+V95,Ennis,4,2023,New,All Buyer Types,
+V95,Ennis,4,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,4,2023,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,4,2023,New,Household Buyer - Non-Occupier,
+V95,Ennis,4,2023,Existing,All Buyer Types,235949.0
+V95,Ennis,4,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,226513.0
+V95,Ennis,4,2023,Existing,Household Buyer - Former Owner-Occupier,257806.0
+V95,Ennis,4,2023,Existing,Household Buyer - Non-Occupier,165000.0
+V95,Ennis,5,2023,All Dwelling Statuses,All Buyer Types,260670.0
+V95,Ennis,5,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,261550.0
+V95,Ennis,5,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,279540.0
+V95,Ennis,5,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,216182.0
+V95,Ennis,5,2023,New,All Buyer Types,352274.0
+V95,Ennis,5,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,329999.0
+V95,Ennis,5,2023,New,Household Buyer - Former Owner-Occupier,374550.0
+V95,Ennis,5,2023,New,Household Buyer - Non-Occupier,
+V95,Ennis,5,2023,Existing,All Buyer Types,257277.0
+V95,Ennis,5,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,257947.0
+V95,Ennis,5,2023,Existing,Household Buyer - Former Owner-Occupier,275581.0
+V95,Ennis,5,2023,Existing,Household Buyer - Non-Occupier,216182.0
+V95,Ennis,6,2023,All Dwelling Statuses,All Buyer Types,281777.0
+V95,Ennis,6,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,249893.0
+V95,Ennis,6,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,301375.0
+V95,Ennis,6,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,279111.0
+V95,Ennis,6,2023,New,All Buyer Types,378667.0
+V95,Ennis,6,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,397500.0
+V95,Ennis,6,2023,New,Household Buyer - Former Owner-Occupier,369250.0
+V95,Ennis,6,2023,New,Household Buyer - Non-Occupier,
+V95,Ennis,6,2023,Existing,All Buyer Types,275170.0
+V95,Ennis,6,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,238538.0
+V95,Ennis,6,2023,Existing,Household Buyer - Former Owner-Occupier,295205.0
+V95,Ennis,6,2023,Existing,Household Buyer - Non-Occupier,279111.0
+V95,Ennis,7,2023,All Dwelling Statuses,All Buyer Types,297105.0
+V95,Ennis,7,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,276752.0
+V95,Ennis,7,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,321760.0
+V95,Ennis,7,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,275929.0
+V95,Ennis,7,2023,New,All Buyer Types,369272.0
+V95,Ennis,7,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,370692.0
+V95,Ennis,7,2023,New,Household Buyer - Former Owner-Occupier,371249.0
+V95,Ennis,7,2023,New,Household Buyer - Non-Occupier,350000.0
+V95,Ennis,7,2023,Existing,All Buyer Types,274768.0
+V95,Ennis,7,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,226651.0
+V95,Ennis,7,2023,Existing,Household Buyer - Former Owner-Occupier,312333.0
+V95,Ennis,7,2023,Existing,Household Buyer - Non-Occupier,263583.0
+V95,Ennis,8,2023,All Dwelling Statuses,All Buyer Types,305318.0
+V95,Ennis,8,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,312500.0
+V95,Ennis,8,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,325407.0
+V95,Ennis,8,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,235769.0
+V95,Ennis,8,2023,New,All Buyer Types,303324.0
+V95,Ennis,8,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,330001.0
+V95,Ennis,8,2023,New,Household Buyer - Former Owner-Occupier,294432.0
+V95,Ennis,8,2023,New,Household Buyer - Non-Occupier,
+V95,Ennis,8,2023,Existing,All Buyer Types,305444.0
+V95,Ennis,8,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,311154.0
+V95,Ennis,8,2023,Existing,Household Buyer - Former Owner-Occupier,327919.0
+V95,Ennis,8,2023,Existing,Household Buyer - Non-Occupier,235769.0
+V95,Ennis,9,2023,All Dwelling Statuses,All Buyer Types,235743.0
+V95,Ennis,9,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,245692.0
+V95,Ennis,9,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,233132.0
+V95,Ennis,9,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,219800.0
+V95,Ennis,9,2023,New,All Buyer Types,390000.0
+V95,Ennis,9,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,390000.0
+V95,Ennis,9,2023,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,9,2023,New,Household Buyer - Non-Occupier,
+V95,Ennis,9,2023,Existing,All Buyer Types,231458.0
+V95,Ennis,9,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,233667.0
+V95,Ennis,9,2023,Existing,Household Buyer - Former Owner-Occupier,233132.0
+V95,Ennis,9,2023,Existing,Household Buyer - Non-Occupier,219800.0
+V95,Ennis,10,2023,All Dwelling Statuses,All Buyer Types,268601.0
+V95,Ennis,10,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,274951.0
+V95,Ennis,10,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,277571.0
+V95,Ennis,10,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,210042.0
+V95,Ennis,10,2023,New,All Buyer Types,296753.0
+V95,Ennis,10,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,296753.0
+V95,Ennis,10,2023,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,10,2023,New,Household Buyer - Non-Occupier,
+V95,Ennis,10,2023,Existing,All Buyer Types,266042.0
+V95,Ennis,10,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,269500.0
+V95,Ennis,10,2023,Existing,Household Buyer - Former Owner-Occupier,277571.0
+V95,Ennis,10,2023,Existing,Household Buyer - Non-Occupier,210042.0
+V95,Ennis,11,2023,All Dwelling Statuses,All Buyer Types,258214.0
+V95,Ennis,11,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,244566.0
+V95,Ennis,11,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,290798.0
+V95,Ennis,11,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,187896.0
+V95,Ennis,11,2023,New,All Buyer Types,244232.0
+V95,Ennis,11,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,298197.0
+V95,Ennis,11,2023,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,11,2023,New,Household Buyer - Non-Occupier,28375.0
+V95,Ennis,11,2023,Existing,All Buyer Types,259670.0
+V95,Ennis,11,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,233840.0
+V95,Ennis,11,2023,Existing,Household Buyer - Former Owner-Occupier,290798.0
+V95,Ennis,11,2023,Existing,Household Buyer - Non-Occupier,219800.0
+V95,Ennis,12,2023,All Dwelling Statuses,All Buyer Types,257131.0
+V95,Ennis,12,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,291464.0
+V95,Ennis,12,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,254162.0
+V95,Ennis,12,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,123621.0
+V95,Ennis,12,2023,New,All Buyer Types,309372.0
+V95,Ennis,12,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,290000.0
+V95,Ennis,12,2023,New,Household Buyer - Former Owner-Occupier,524999.0
+V95,Ennis,12,2023,New,Household Buyer - Non-Occupier,151863.0
+V95,Ennis,12,2023,Existing,All Buyer Types,250433.0
+V95,Ennis,12,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,291864.0
+V95,Ennis,12,2023,Existing,Household Buyer - Former Owner-Occupier,243746.0
+V95,Ennis,12,2023,Existing,Household Buyer - Non-Occupier,109500.0
+V95,Ennis,1,2024,All Dwelling Statuses,All Buyer Types,286873.0
+V95,Ennis,1,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,324079.0
+V95,Ennis,1,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,288529.0
+V95,Ennis,1,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,128667.0
+V95,Ennis,1,2024,New,All Buyer Types,310000.0
+V95,Ennis,1,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,310000.0
+V95,Ennis,1,2024,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,1,2024,New,Household Buyer - Non-Occupier,
+V95,Ennis,1,2024,Existing,All Buyer Types,286127.0
+V95,Ennis,1,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,325359.0
+V95,Ennis,1,2024,Existing,Household Buyer - Former Owner-Occupier,288529.0
+V95,Ennis,1,2024,Existing,Household Buyer - Non-Occupier,128667.0
+V95,Ennis,2,2024,All Dwelling Statuses,All Buyer Types,275348.0
+V95,Ennis,2,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,294829.0
+V95,Ennis,2,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,284626.0
+V95,Ennis,2,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,208438.0
+V95,Ennis,2,2024,New,All Buyer Types,385200.0
+V95,Ennis,2,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,362025.0
+V95,Ennis,2,2024,New,Household Buyer - Former Owner-Occupier,431550.0
+V95,Ennis,2,2024,New,Household Buyer - Non-Occupier,
+V95,Ennis,2,2024,Existing,All Buyer Types,259272.0
+V95,Ennis,2,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,274154.0
+V95,Ennis,2,2024,Existing,Household Buyer - Former Owner-Occupier,269933.0
+V95,Ennis,2,2024,Existing,Household Buyer - Non-Occupier,208438.0
+V95,Ennis,3,2024,All Dwelling Statuses,All Buyer Types,258846.0
+V95,Ennis,3,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,255039.0
+V95,Ennis,3,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,293674.0
+V95,Ennis,3,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,165375.0
+V95,Ennis,3,2024,New,All Buyer Types,437012.0
+V95,Ennis,3,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,387024.0
+V95,Ennis,3,2024,New,Household Buyer - Former Owner-Occupier,487000.0
+V95,Ennis,3,2024,New,Household Buyer - Non-Occupier,
+V95,Ennis,3,2024,Existing,All Buyer Types,241463.0
+V95,Ennis,3,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,233042.0
+V95,Ennis,3,2024,Existing,Household Buyer - Former Owner-Occupier,275262.0
+V95,Ennis,3,2024,Existing,Household Buyer - Non-Occupier,165375.0
+V95,Ennis,4,2024,All Dwelling Statuses,All Buyer Types,271162.0
+V95,Ennis,4,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,285385.0
+V95,Ennis,4,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,306269.0
+V95,Ennis,4,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,191000.0
+V95,Ennis,4,2024,New,All Buyer Types,
+V95,Ennis,4,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+V95,Ennis,4,2024,New,Household Buyer - Former Owner-Occupier,
+V95,Ennis,4,2024,New,Household Buyer - Non-Occupier,
+V95,Ennis,4,2024,Existing,All Buyer Types,271162.0
+V95,Ennis,4,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,285385.0
+V95,Ennis,4,2024,Existing,Household Buyer - Former Owner-Occupier,306269.0
+V95,Ennis,4,2024,Existing,Household Buyer - Non-Occupier,191000.0
+V95,Ennis,5,2024,All Dwelling Statuses,All Buyer Types,280034.0
+V95,Ennis,5,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,278639.0
+V95,Ennis,5,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,275907.0
+V95,Ennis,5,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,298667.0
+V95,Ennis,5,2024,New,All Buyer Types,319525.0
+V95,Ennis,5,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,340000.0
+V95,Ennis,5,2024,New,Household Buyer - Former Owner-Occupier,299050.0
+V95,Ennis,5,2024,New,Household Buyer - Non-Occupier,
+V95,Ennis,5,2024,Existing,All Buyer Types,278198.0
+V95,Ennis,5,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,275029.0
+V95,Ennis,5,2024,Existing,Household Buyer - Former Owner-Occupier,274750.0
+V95,Ennis,5,2024,Existing,Household Buyer - Non-Occupier,298667.0
+V95,Ennis,6,2024,All Dwelling Statuses,All Buyer Types,285539.0
+V95,Ennis,6,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,307208.0
+V95,Ennis,6,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,303371.0
+V95,Ennis,6,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,190625.0
+V95,Ennis,6,2024,New,All Buyer Types,357175.0
+V95,Ennis,6,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,338333.0
+V95,Ennis,6,2024,New,Household Buyer - Former Owner-Occupier,385437.0
+V95,Ennis,6,2024,New,Household Buyer - Non-Occupier,
+V95,Ennis,6,2024,Existing,All Buyer Types,266688.0
+V95,Ennis,6,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,276083.0
+V95,Ennis,6,2024,Existing,Household Buyer - Former Owner-Occupier,289693.0
+V95,Ennis,6,2024,Existing,Household Buyer - Non-Occupier,190625.0
+V95,Ennis,7,2024,All Dwelling Statuses,All Buyer Types,359700.0
+V95,Ennis,7,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,390833.0
+V95,Ennis,7,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,340179.0
+V95,Ennis,7,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,287000.0
+V95,Ennis,7,2024,New,All Buyer Types,387882.0
+V95,Ennis,7,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,383055.0
+V95,Ennis,7,2024,New,Household Buyer - Former Owner-Occupier,402363.0
+V95,Ennis,7,2024,New,Household Buyer - Non-Occupier,
+V95,Ennis,7,2024,Existing,All Buyer Types,341664.0
+V95,Ennis,7,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,402500.0
+V95,Ennis,7,2024,Existing,Household Buyer - Former Owner-Occupier,321046.0
+V95,Ennis,7,2024,Existing,Household Buyer - Non-Occupier,287000.0

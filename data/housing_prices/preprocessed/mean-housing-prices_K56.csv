@@ -1,0 +1,2101 @@
+Routing Key,City,Month,Year,Dwelling Status,Type of Buyer,VALUE
+K56,Rush,1,2010,All Dwelling Statuses,All Buyer Types,327827.0
+K56,Rush,1,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,208154.0
+K56,Rush,1,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,447500.0
+K56,Rush,1,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,1,2010,New,All Buyer Types,208154.0
+K56,Rush,1,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,208154.0
+K56,Rush,1,2010,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,1,2010,New,Household Buyer - Non-Occupier,
+K56,Rush,1,2010,Existing,All Buyer Types,447500.0
+K56,Rush,1,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,1,2010,Existing,Household Buyer - Former Owner-Occupier,447500.0
+K56,Rush,1,2010,Existing,Household Buyer - Non-Occupier,
+K56,Rush,2,2010,All Dwelling Statuses,All Buyer Types,440125.0
+K56,Rush,2,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,2,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,440125.0
+K56,Rush,2,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,2,2010,New,All Buyer Types,440125.0
+K56,Rush,2,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,2,2010,New,Household Buyer - Former Owner-Occupier,440125.0
+K56,Rush,2,2010,New,Household Buyer - Non-Occupier,
+K56,Rush,2,2010,Existing,All Buyer Types,
+K56,Rush,2,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,2,2010,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,2,2010,Existing,Household Buyer - Non-Occupier,
+K56,Rush,3,2010,All Dwelling Statuses,All Buyer Types,343667.0
+K56,Rush,3,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,278000.0
+K56,Rush,3,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,475000.0
+K56,Rush,3,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,3,2010,New,All Buyer Types,
+K56,Rush,3,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2010,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,3,2010,New,Household Buyer - Non-Occupier,
+K56,Rush,3,2010,Existing,All Buyer Types,343667.0
+K56,Rush,3,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,278000.0
+K56,Rush,3,2010,Existing,Household Buyer - Former Owner-Occupier,475000.0
+K56,Rush,3,2010,Existing,Household Buyer - Non-Occupier,
+K56,Rush,4,2010,All Dwelling Statuses,All Buyer Types,445143.0
+K56,Rush,4,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,330285.0
+K56,Rush,4,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,560000.0
+K56,Rush,4,2010,New,All Buyer Types,330285.0
+K56,Rush,4,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2010,New,Household Buyer - Former Owner-Occupier,330285.0
+K56,Rush,4,2010,New,Household Buyer - Non-Occupier,
+K56,Rush,4,2010,Existing,All Buyer Types,560000.0
+K56,Rush,4,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2010,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,4,2010,Existing,Household Buyer - Non-Occupier,560000.0
+K56,Rush,5,2010,All Dwelling Statuses,All Buyer Types,404730.0
+K56,Rush,5,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,337095.0
+K56,Rush,5,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,540000.0
+K56,Rush,5,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,5,2010,New,All Buyer Types,337095.0
+K56,Rush,5,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,337095.0
+K56,Rush,5,2010,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,5,2010,New,Household Buyer - Non-Occupier,
+K56,Rush,5,2010,Existing,All Buyer Types,540000.0
+K56,Rush,5,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,5,2010,Existing,Household Buyer - Former Owner-Occupier,540000.0
+K56,Rush,5,2010,Existing,Household Buyer - Non-Occupier,
+K56,Rush,6,2010,All Dwelling Statuses,All Buyer Types,241313.0
+K56,Rush,6,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,276750.0
+K56,Rush,6,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K56,Rush,6,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,135000.0
+K56,Rush,6,2010,New,All Buyer Types,318625.0
+K56,Rush,6,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,318625.0
+K56,Rush,6,2010,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,6,2010,New,Household Buyer - Non-Occupier,
+K56,Rush,6,2010,Existing,All Buyer Types,164000.0
+K56,Rush,6,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,193000.0
+K56,Rush,6,2010,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,6,2010,Existing,Household Buyer - Non-Occupier,135000.0
+K56,Rush,7,2010,All Dwelling Statuses,All Buyer Types,253100.0
+K56,Rush,7,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,272400.0
+K56,Rush,7,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,240000.0
+K56,Rush,7,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,260000.0
+K56,Rush,7,2010,New,All Buyer Types,272400.0
+K56,Rush,7,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,272400.0
+K56,Rush,7,2010,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,7,2010,New,Household Buyer - Non-Occupier,
+K56,Rush,7,2010,Existing,All Buyer Types,246667.0
+K56,Rush,7,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,7,2010,Existing,Household Buyer - Former Owner-Occupier,240000.0
+K56,Rush,7,2010,Existing,Household Buyer - Non-Occupier,260000.0
+K56,Rush,8,2010,All Dwelling Statuses,All Buyer Types,260833.0
+K56,Rush,8,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+K56,Rush,8,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,253750.0
+K56,Rush,8,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,8,2010,New,All Buyer Types,
+K56,Rush,8,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,8,2010,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,8,2010,New,Household Buyer - Non-Occupier,
+K56,Rush,8,2010,Existing,All Buyer Types,260833.0
+K56,Rush,8,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+K56,Rush,8,2010,Existing,Household Buyer - Former Owner-Occupier,253750.0
+K56,Rush,8,2010,Existing,Household Buyer - Non-Occupier,
+K56,Rush,9,2010,All Dwelling Statuses,All Buyer Types,327500.0
+K56,Rush,9,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+K56,Rush,9,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,480000.0
+K56,Rush,9,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,9,2010,New,All Buyer Types,
+K56,Rush,9,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,9,2010,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,9,2010,New,Household Buyer - Non-Occupier,
+K56,Rush,9,2010,Existing,All Buyer Types,327500.0
+K56,Rush,9,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+K56,Rush,9,2010,Existing,Household Buyer - Former Owner-Occupier,480000.0
+K56,Rush,9,2010,Existing,Household Buyer - Non-Occupier,
+K56,Rush,10,2010,All Dwelling Statuses,All Buyer Types,219500.0
+K56,Rush,10,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,234000.0
+K56,Rush,10,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,200000.0
+K56,Rush,10,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,210000.0
+K56,Rush,10,2010,New,All Buyer Types,234000.0
+K56,Rush,10,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,234000.0
+K56,Rush,10,2010,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,10,2010,New,Household Buyer - Non-Occupier,
+K56,Rush,10,2010,Existing,All Buyer Types,205000.0
+K56,Rush,10,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,10,2010,Existing,Household Buyer - Former Owner-Occupier,200000.0
+K56,Rush,10,2010,Existing,Household Buyer - Non-Occupier,210000.0
+K56,Rush,11,2010,All Dwelling Statuses,All Buyer Types,244250.0
+K56,Rush,11,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,244250.0
+K56,Rush,11,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K56,Rush,11,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,11,2010,New,All Buyer Types,248500.0
+K56,Rush,11,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,248500.0
+K56,Rush,11,2010,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,11,2010,New,Household Buyer - Non-Occupier,
+K56,Rush,11,2010,Existing,All Buyer Types,240000.0
+K56,Rush,11,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,240000.0
+K56,Rush,11,2010,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,11,2010,Existing,Household Buyer - Non-Occupier,
+K56,Rush,12,2010,All Dwelling Statuses,All Buyer Types,271063.0
+K56,Rush,12,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,271063.0
+K56,Rush,12,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K56,Rush,12,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,12,2010,New,All Buyer Types,271063.0
+K56,Rush,12,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,271063.0
+K56,Rush,12,2010,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,12,2010,New,Household Buyer - Non-Occupier,
+K56,Rush,12,2010,Existing,All Buyer Types,
+K56,Rush,12,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,12,2010,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,12,2010,Existing,Household Buyer - Non-Occupier,
+K56,Rush,1,2011,All Dwelling Statuses,All Buyer Types,215000.0
+K56,Rush,1,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,215000.0
+K56,Rush,1,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K56,Rush,1,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,1,2011,New,All Buyer Types,215000.0
+K56,Rush,1,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,215000.0
+K56,Rush,1,2011,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,1,2011,New,Household Buyer - Non-Occupier,
+K56,Rush,1,2011,Existing,All Buyer Types,
+K56,Rush,1,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,1,2011,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,1,2011,Existing,Household Buyer - Non-Occupier,
+K56,Rush,2,2011,All Dwelling Statuses,All Buyer Types,
+K56,Rush,2,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,2,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K56,Rush,2,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,2,2011,New,All Buyer Types,
+K56,Rush,2,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,2,2011,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,2,2011,New,Household Buyer - Non-Occupier,
+K56,Rush,2,2011,Existing,All Buyer Types,
+K56,Rush,2,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,2,2011,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,2,2011,Existing,Household Buyer - Non-Occupier,
+K56,Rush,3,2011,All Dwelling Statuses,All Buyer Types,100000.0
+K56,Rush,3,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+K56,Rush,3,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K56,Rush,3,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,3,2011,New,All Buyer Types,
+K56,Rush,3,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2011,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,3,2011,New,Household Buyer - Non-Occupier,
+K56,Rush,3,2011,Existing,All Buyer Types,100000.0
+K56,Rush,3,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+K56,Rush,3,2011,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,3,2011,Existing,Household Buyer - Non-Occupier,
+K56,Rush,4,2011,All Dwelling Statuses,All Buyer Types,
+K56,Rush,4,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K56,Rush,4,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,4,2011,New,All Buyer Types,
+K56,Rush,4,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2011,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,4,2011,New,Household Buyer - Non-Occupier,
+K56,Rush,4,2011,Existing,All Buyer Types,
+K56,Rush,4,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2011,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,4,2011,Existing,Household Buyer - Non-Occupier,
+K56,Rush,5,2011,All Dwelling Statuses,All Buyer Types,185000.0
+K56,Rush,5,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+K56,Rush,5,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K56,Rush,5,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,180000.0
+K56,Rush,5,2011,New,All Buyer Types,
+K56,Rush,5,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,5,2011,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,5,2011,New,Household Buyer - Non-Occupier,
+K56,Rush,5,2011,Existing,All Buyer Types,185000.0
+K56,Rush,5,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+K56,Rush,5,2011,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,5,2011,Existing,Household Buyer - Non-Occupier,180000.0
+K56,Rush,6,2011,All Dwelling Statuses,All Buyer Types,219267.0
+K56,Rush,6,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,317800.0
+K56,Rush,6,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,170000.0
+K56,Rush,6,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,6,2011,New,All Buyer Types,317800.0
+K56,Rush,6,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,317800.0
+K56,Rush,6,2011,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,6,2011,New,Household Buyer - Non-Occupier,
+K56,Rush,6,2011,Existing,All Buyer Types,170000.0
+K56,Rush,6,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,6,2011,Existing,Household Buyer - Former Owner-Occupier,170000.0
+K56,Rush,6,2011,Existing,Household Buyer - Non-Occupier,
+K56,Rush,7,2011,All Dwelling Statuses,All Buyer Types,309000.0
+K56,Rush,7,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,7,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,309000.0
+K56,Rush,7,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,7,2011,New,All Buyer Types,
+K56,Rush,7,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,7,2011,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,7,2011,New,Household Buyer - Non-Occupier,
+K56,Rush,7,2011,Existing,All Buyer Types,309000.0
+K56,Rush,7,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,7,2011,Existing,Household Buyer - Former Owner-Occupier,309000.0
+K56,Rush,7,2011,Existing,Household Buyer - Non-Occupier,
+K56,Rush,8,2011,All Dwelling Statuses,All Buyer Types,347500.0
+K56,Rush,8,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,8,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,347500.0
+K56,Rush,8,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,8,2011,New,All Buyer Types,
+K56,Rush,8,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,8,2011,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,8,2011,New,Household Buyer - Non-Occupier,
+K56,Rush,8,2011,Existing,All Buyer Types,347500.0
+K56,Rush,8,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,8,2011,Existing,Household Buyer - Former Owner-Occupier,347500.0
+K56,Rush,8,2011,Existing,Household Buyer - Non-Occupier,
+K56,Rush,9,2011,All Dwelling Statuses,All Buyer Types,187000.0
+K56,Rush,9,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,187000.0
+K56,Rush,9,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K56,Rush,9,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,9,2011,New,All Buyer Types,
+K56,Rush,9,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,9,2011,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,9,2011,New,Household Buyer - Non-Occupier,
+K56,Rush,9,2011,Existing,All Buyer Types,187000.0
+K56,Rush,9,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,187000.0
+K56,Rush,9,2011,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,9,2011,Existing,Household Buyer - Non-Occupier,
+K56,Rush,10,2011,All Dwelling Statuses,All Buyer Types,
+K56,Rush,10,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,10,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K56,Rush,10,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,10,2011,New,All Buyer Types,
+K56,Rush,10,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,10,2011,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,10,2011,New,Household Buyer - Non-Occupier,
+K56,Rush,10,2011,Existing,All Buyer Types,
+K56,Rush,10,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,10,2011,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,10,2011,Existing,Household Buyer - Non-Occupier,
+K56,Rush,11,2011,All Dwelling Statuses,All Buyer Types,280000.0
+K56,Rush,11,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+K56,Rush,11,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,340000.0
+K56,Rush,11,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,11,2011,New,All Buyer Types,
+K56,Rush,11,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,11,2011,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,11,2011,New,Household Buyer - Non-Occupier,
+K56,Rush,11,2011,Existing,All Buyer Types,280000.0
+K56,Rush,11,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+K56,Rush,11,2011,Existing,Household Buyer - Former Owner-Occupier,340000.0
+K56,Rush,11,2011,Existing,Household Buyer - Non-Occupier,
+K56,Rush,12,2011,All Dwelling Statuses,All Buyer Types,
+K56,Rush,12,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,12,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K56,Rush,12,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,12,2011,New,All Buyer Types,
+K56,Rush,12,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,12,2011,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,12,2011,New,Household Buyer - Non-Occupier,
+K56,Rush,12,2011,Existing,All Buyer Types,
+K56,Rush,12,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,12,2011,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,12,2011,Existing,Household Buyer - Non-Occupier,
+K56,Rush,1,2012,All Dwelling Statuses,All Buyer Types,
+K56,Rush,1,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,1,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K56,Rush,1,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,1,2012,New,All Buyer Types,
+K56,Rush,1,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,1,2012,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,1,2012,New,Household Buyer - Non-Occupier,
+K56,Rush,1,2012,Existing,All Buyer Types,
+K56,Rush,1,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,1,2012,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,1,2012,Existing,Household Buyer - Non-Occupier,
+K56,Rush,2,2012,All Dwelling Statuses,All Buyer Types,420000.0
+K56,Rush,2,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,2,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,420000.0
+K56,Rush,2,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,2,2012,New,All Buyer Types,
+K56,Rush,2,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,2,2012,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,2,2012,New,Household Buyer - Non-Occupier,
+K56,Rush,2,2012,Existing,All Buyer Types,420000.0
+K56,Rush,2,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,2,2012,Existing,Household Buyer - Former Owner-Occupier,420000.0
+K56,Rush,2,2012,Existing,Household Buyer - Non-Occupier,
+K56,Rush,3,2012,All Dwelling Statuses,All Buyer Types,200000.0
+K56,Rush,3,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K56,Rush,3,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,200000.0
+K56,Rush,3,2012,New,All Buyer Types,
+K56,Rush,3,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2012,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,3,2012,New,Household Buyer - Non-Occupier,
+K56,Rush,3,2012,Existing,All Buyer Types,200000.0
+K56,Rush,3,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2012,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,3,2012,Existing,Household Buyer - Non-Occupier,200000.0
+K56,Rush,4,2012,All Dwelling Statuses,All Buyer Types,175000.0
+K56,Rush,4,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,175000.0
+K56,Rush,4,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,4,2012,New,All Buyer Types,
+K56,Rush,4,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2012,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,4,2012,New,Household Buyer - Non-Occupier,
+K56,Rush,4,2012,Existing,All Buyer Types,175000.0
+K56,Rush,4,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2012,Existing,Household Buyer - Former Owner-Occupier,175000.0
+K56,Rush,4,2012,Existing,Household Buyer - Non-Occupier,
+K56,Rush,5,2012,All Dwelling Statuses,All Buyer Types,
+K56,Rush,5,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,5,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K56,Rush,5,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,5,2012,New,All Buyer Types,
+K56,Rush,5,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,5,2012,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,5,2012,New,Household Buyer - Non-Occupier,
+K56,Rush,5,2012,Existing,All Buyer Types,
+K56,Rush,5,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,5,2012,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,5,2012,Existing,Household Buyer - Non-Occupier,
+K56,Rush,6,2012,All Dwelling Statuses,All Buyer Types,
+K56,Rush,6,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,6,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K56,Rush,6,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,6,2012,New,All Buyer Types,
+K56,Rush,6,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,6,2012,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,6,2012,New,Household Buyer - Non-Occupier,
+K56,Rush,6,2012,Existing,All Buyer Types,
+K56,Rush,6,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,6,2012,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,6,2012,Existing,Household Buyer - Non-Occupier,
+K56,Rush,7,2012,All Dwelling Statuses,All Buyer Types,170430.0
+K56,Rush,7,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,240000.0
+K56,Rush,7,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,124050.0
+K56,Rush,7,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,7,2012,New,All Buyer Types,161075.0
+K56,Rush,7,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+K56,Rush,7,2012,New,Household Buyer - Former Owner-Occupier,102150.0
+K56,Rush,7,2012,New,Household Buyer - Non-Occupier,
+K56,Rush,7,2012,Existing,All Buyer Types,176667.0
+K56,Rush,7,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,260000.0
+K56,Rush,7,2012,Existing,Household Buyer - Former Owner-Occupier,135000.0
+K56,Rush,7,2012,Existing,Household Buyer - Non-Occupier,
+K56,Rush,8,2012,All Dwelling Statuses,All Buyer Types,365000.0
+K56,Rush,8,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,8,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,365000.0
+K56,Rush,8,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,8,2012,New,All Buyer Types,
+K56,Rush,8,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,8,2012,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,8,2012,New,Household Buyer - Non-Occupier,
+K56,Rush,8,2012,Existing,All Buyer Types,365000.0
+K56,Rush,8,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,8,2012,Existing,Household Buyer - Former Owner-Occupier,365000.0
+K56,Rush,8,2012,Existing,Household Buyer - Non-Occupier,
+K56,Rush,9,2012,All Dwelling Statuses,All Buyer Types,253500.0
+K56,Rush,9,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,157000.0
+K56,Rush,9,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,350000.0
+K56,Rush,9,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,9,2012,New,All Buyer Types,
+K56,Rush,9,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,9,2012,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,9,2012,New,Household Buyer - Non-Occupier,
+K56,Rush,9,2012,Existing,All Buyer Types,253500.0
+K56,Rush,9,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,157000.0
+K56,Rush,9,2012,Existing,Household Buyer - Former Owner-Occupier,350000.0
+K56,Rush,9,2012,Existing,Household Buyer - Non-Occupier,
+K56,Rush,10,2012,All Dwelling Statuses,All Buyer Types,204220.0
+K56,Rush,10,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,237661.0
+K56,Rush,10,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,187500.0
+K56,Rush,10,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,10,2012,New,All Buyer Types,237661.0
+K56,Rush,10,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,237661.0
+K56,Rush,10,2012,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,10,2012,New,Household Buyer - Non-Occupier,
+K56,Rush,10,2012,Existing,All Buyer Types,187500.0
+K56,Rush,10,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,10,2012,Existing,Household Buyer - Former Owner-Occupier,187500.0
+K56,Rush,10,2012,Existing,Household Buyer - Non-Occupier,
+K56,Rush,11,2012,All Dwelling Statuses,All Buyer Types,
+K56,Rush,11,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,11,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K56,Rush,11,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,11,2012,New,All Buyer Types,
+K56,Rush,11,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,11,2012,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,11,2012,New,Household Buyer - Non-Occupier,
+K56,Rush,11,2012,Existing,All Buyer Types,
+K56,Rush,11,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,11,2012,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,11,2012,Existing,Household Buyer - Non-Occupier,
+K56,Rush,12,2012,All Dwelling Statuses,All Buyer Types,229265.0
+K56,Rush,12,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,215837.0
+K56,Rush,12,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,252764.0
+K56,Rush,12,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,12,2012,New,All Buyer Types,187322.0
+K56,Rush,12,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,171456.0
+K56,Rush,12,2012,New,Household Buyer - Former Owner-Occupier,219055.0
+K56,Rush,12,2012,New,Household Buyer - Non-Occupier,
+K56,Rush,12,2012,Existing,All Buyer Types,244994.0
+K56,Rush,12,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,233590.0
+K56,Rush,12,2012,Existing,Household Buyer - Former Owner-Occupier,264000.0
+K56,Rush,12,2012,Existing,Household Buyer - Non-Occupier,
+K56,Rush,1,2013,All Dwelling Statuses,All Buyer Types,199000.0
+K56,Rush,1,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,1,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,199000.0
+K56,Rush,1,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,1,2013,New,All Buyer Types,
+K56,Rush,1,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,1,2013,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,1,2013,New,Household Buyer - Non-Occupier,
+K56,Rush,1,2013,Existing,All Buyer Types,199000.0
+K56,Rush,1,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,1,2013,Existing,Household Buyer - Former Owner-Occupier,199000.0
+K56,Rush,1,2013,Existing,Household Buyer - Non-Occupier,
+K56,Rush,2,2013,All Dwelling Statuses,All Buyer Types,142088.0
+K56,Rush,2,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,120750.0
+K56,Rush,2,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,163427.0
+K56,Rush,2,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,2,2013,New,All Buyer Types,163427.0
+K56,Rush,2,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,2,2013,New,Household Buyer - Former Owner-Occupier,163427.0
+K56,Rush,2,2013,New,Household Buyer - Non-Occupier,
+K56,Rush,2,2013,Existing,All Buyer Types,120750.0
+K56,Rush,2,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,120750.0
+K56,Rush,2,2013,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,2,2013,Existing,Household Buyer - Non-Occupier,
+K56,Rush,3,2013,All Dwelling Statuses,All Buyer Types,174903.0
+K56,Rush,3,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,202355.0
+K56,Rush,3,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,145000.0
+K56,Rush,3,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,95000.0
+K56,Rush,3,2013,New,All Buyer Types,217920.0
+K56,Rush,3,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,217920.0
+K56,Rush,3,2013,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,3,2013,New,Household Buyer - Non-Occupier,
+K56,Rush,3,2013,Existing,All Buyer Types,166300.0
+K56,Rush,3,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,197167.0
+K56,Rush,3,2013,Existing,Household Buyer - Former Owner-Occupier,145000.0
+K56,Rush,3,2013,Existing,Household Buyer - Non-Occupier,95000.0
+K56,Rush,4,2013,All Dwelling Statuses,All Buyer Types,124667.0
+K56,Rush,4,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+K56,Rush,4,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,134000.0
+K56,Rush,4,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,40000.0
+K56,Rush,4,2013,New,All Buyer Types,
+K56,Rush,4,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2013,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,4,2013,New,Household Buyer - Non-Occupier,
+K56,Rush,4,2013,Existing,All Buyer Types,124667.0
+K56,Rush,4,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+K56,Rush,4,2013,Existing,Household Buyer - Former Owner-Occupier,134000.0
+K56,Rush,4,2013,Existing,Household Buyer - Non-Occupier,40000.0
+K56,Rush,5,2013,All Dwelling Statuses,All Buyer Types,
+K56,Rush,5,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,5,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K56,Rush,5,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,5,2013,New,All Buyer Types,
+K56,Rush,5,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,5,2013,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,5,2013,New,Household Buyer - Non-Occupier,
+K56,Rush,5,2013,Existing,All Buyer Types,
+K56,Rush,5,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,5,2013,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,5,2013,Existing,Household Buyer - Non-Occupier,
+K56,Rush,6,2013,All Dwelling Statuses,All Buyer Types,142000.0
+K56,Rush,6,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,142000.0
+K56,Rush,6,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K56,Rush,6,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,6,2013,New,All Buyer Types,
+K56,Rush,6,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,6,2013,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,6,2013,New,Household Buyer - Non-Occupier,
+K56,Rush,6,2013,Existing,All Buyer Types,142000.0
+K56,Rush,6,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,142000.0
+K56,Rush,6,2013,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,6,2013,Existing,Household Buyer - Non-Occupier,
+K56,Rush,7,2013,All Dwelling Statuses,All Buyer Types,210129.0
+K56,Rush,7,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+K56,Rush,7,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,222180.0
+K56,Rush,7,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,7,2013,New,All Buyer Types,239950.0
+K56,Rush,7,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,7,2013,New,Household Buyer - Former Owner-Occupier,239950.0
+K56,Rush,7,2013,New,Household Buyer - Non-Occupier,
+K56,Rush,7,2013,Existing,All Buyer Types,198200.0
+K56,Rush,7,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+K56,Rush,7,2013,Existing,Household Buyer - Former Owner-Occupier,210333.0
+K56,Rush,7,2013,Existing,Household Buyer - Non-Occupier,
+K56,Rush,8,2013,All Dwelling Statuses,All Buyer Types,192374.0
+K56,Rush,8,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,185831.0
+K56,Rush,8,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,216103.0
+K56,Rush,8,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,158000.0
+K56,Rush,8,2013,New,All Buyer Types,142868.0
+K56,Rush,8,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,221325.0
+K56,Rush,8,2013,New,Household Buyer - Former Owner-Occupier,64411.0
+K56,Rush,8,2013,New,Household Buyer - Non-Occupier,
+K56,Rush,8,2013,Existing,All Buyer Types,204750.0
+K56,Rush,8,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,174000.0
+K56,Rush,8,2013,Existing,Household Buyer - Former Owner-Occupier,266667.0
+K56,Rush,8,2013,Existing,Household Buyer - Non-Occupier,158000.0
+K56,Rush,9,2013,All Dwelling Statuses,All Buyer Types,175000.0
+K56,Rush,9,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+K56,Rush,9,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K56,Rush,9,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,9,2013,New,All Buyer Types,216000.0
+K56,Rush,9,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,216000.0
+K56,Rush,9,2013,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,9,2013,New,Household Buyer - Non-Occupier,
+K56,Rush,9,2013,Existing,All Buyer Types,134000.0
+K56,Rush,9,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,134000.0
+K56,Rush,9,2013,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,9,2013,Existing,Household Buyer - Non-Occupier,
+K56,Rush,10,2013,All Dwelling Statuses,All Buyer Types,149000.0
+K56,Rush,10,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,187000.0
+K56,Rush,10,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,165000.0
+K56,Rush,10,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,95000.0
+K56,Rush,10,2013,New,All Buyer Types,176000.0
+K56,Rush,10,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,187000.0
+K56,Rush,10,2013,New,Household Buyer - Former Owner-Occupier,165000.0
+K56,Rush,10,2013,New,Household Buyer - Non-Occupier,
+K56,Rush,10,2013,Existing,All Buyer Types,95000.0
+K56,Rush,10,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,10,2013,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,10,2013,Existing,Household Buyer - Non-Occupier,95000.0
+K56,Rush,11,2013,All Dwelling Statuses,All Buyer Types,315000.0
+K56,Rush,11,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,240000.0
+K56,Rush,11,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,390000.0
+K56,Rush,11,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,11,2013,New,All Buyer Types,
+K56,Rush,11,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,11,2013,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,11,2013,New,Household Buyer - Non-Occupier,
+K56,Rush,11,2013,Existing,All Buyer Types,315000.0
+K56,Rush,11,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,240000.0
+K56,Rush,11,2013,Existing,Household Buyer - Former Owner-Occupier,390000.0
+K56,Rush,11,2013,Existing,Household Buyer - Non-Occupier,
+K56,Rush,12,2013,All Dwelling Statuses,All Buyer Types,146633.0
+K56,Rush,12,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,12,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,146633.0
+K56,Rush,12,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,12,2013,New,All Buyer Types,
+K56,Rush,12,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,12,2013,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,12,2013,New,Household Buyer - Non-Occupier,
+K56,Rush,12,2013,Existing,All Buyer Types,146633.0
+K56,Rush,12,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,12,2013,Existing,Household Buyer - Former Owner-Occupier,146633.0
+K56,Rush,12,2013,Existing,Household Buyer - Non-Occupier,
+K56,Rush,1,2014,All Dwelling Statuses,All Buyer Types,218913.0
+K56,Rush,1,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,223483.0
+K56,Rush,1,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,193981.0
+K56,Rush,1,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,280000.0
+K56,Rush,1,2014,New,All Buyer Types,213447.0
+K56,Rush,1,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,199950.0
+K56,Rush,1,2014,New,Household Buyer - Former Owner-Occupier,226943.0
+K56,Rush,1,2014,New,Household Buyer - Non-Occupier,
+K56,Rush,1,2014,Existing,All Buyer Types,221100.0
+K56,Rush,1,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,235250.0
+K56,Rush,1,2014,Existing,Household Buyer - Former Owner-Occupier,177500.0
+K56,Rush,1,2014,Existing,Household Buyer - Non-Occupier,280000.0
+K56,Rush,2,2014,All Dwelling Statuses,All Buyer Types,228250.0
+K56,Rush,2,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+K56,Rush,2,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,306500.0
+K56,Rush,2,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,2,2014,New,All Buyer Types,
+K56,Rush,2,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,2,2014,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,2,2014,New,Household Buyer - Non-Occupier,
+K56,Rush,2,2014,Existing,All Buyer Types,228250.0
+K56,Rush,2,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+K56,Rush,2,2014,Existing,Household Buyer - Former Owner-Occupier,306500.0
+K56,Rush,2,2014,Existing,Household Buyer - Non-Occupier,
+K56,Rush,3,2014,All Dwelling Statuses,All Buyer Types,196377.0
+K56,Rush,3,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,215903.0
+K56,Rush,3,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,157325.0
+K56,Rush,3,2014,New,All Buyer Types,210200.0
+K56,Rush,3,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2014,New,Household Buyer - Former Owner-Occupier,207475.0
+K56,Rush,3,2014,New,Household Buyer - Non-Occupier,215650.0
+K56,Rush,3,2014,Existing,All Buyer Types,182553.0
+K56,Rush,3,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2014,Existing,Household Buyer - Former Owner-Occupier,224330.0
+K56,Rush,3,2014,Existing,Household Buyer - Non-Occupier,99000.0
+K56,Rush,4,2014,All Dwelling Statuses,All Buyer Types,297667.0
+K56,Rush,4,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,213000.0
+K56,Rush,4,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,382333.0
+K56,Rush,4,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,4,2014,New,All Buyer Types,205000.0
+K56,Rush,4,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+K56,Rush,4,2014,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,4,2014,New,Household Buyer - Non-Occupier,
+K56,Rush,4,2014,Existing,All Buyer Types,316200.0
+K56,Rush,4,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,217000.0
+K56,Rush,4,2014,Existing,Household Buyer - Former Owner-Occupier,382333.0
+K56,Rush,4,2014,Existing,Household Buyer - Non-Occupier,
+K56,Rush,5,2014,All Dwelling Statuses,All Buyer Types,239819.0
+K56,Rush,5,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,228877.0
+K56,Rush,5,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,276408.0
+K56,Rush,5,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,75000.0
+K56,Rush,5,2014,New,All Buyer Types,228262.0
+K56,Rush,5,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,223846.0
+K56,Rush,5,2014,New,Household Buyer - Former Owner-Occupier,234150.0
+K56,Rush,5,2014,New,Household Buyer - Non-Occupier,
+K56,Rush,5,2014,Existing,All Buyer Types,256000.0
+K56,Rush,5,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,249000.0
+K56,Rush,5,2014,Existing,Household Buyer - Former Owner-Occupier,318667.0
+K56,Rush,5,2014,Existing,Household Buyer - Non-Occupier,75000.0
+K56,Rush,6,2014,All Dwelling Statuses,All Buyer Types,282472.0
+K56,Rush,6,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,185000.0
+K56,Rush,6,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,322400.0
+K56,Rush,6,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,180303.0
+K56,Rush,6,2014,New,All Buyer Types,
+K56,Rush,6,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,6,2014,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,6,2014,New,Household Buyer - Non-Occupier,
+K56,Rush,6,2014,Existing,All Buyer Types,282472.0
+K56,Rush,6,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,185000.0
+K56,Rush,6,2014,Existing,Household Buyer - Former Owner-Occupier,322400.0
+K56,Rush,6,2014,Existing,Household Buyer - Non-Occupier,180303.0
+K56,Rush,7,2014,All Dwelling Statuses,All Buyer Types,209526.0
+K56,Rush,7,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,162500.0
+K56,Rush,7,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,245242.0
+K56,Rush,7,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,125000.0
+K56,Rush,7,2014,New,All Buyer Types,239705.0
+K56,Rush,7,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,7,2014,New,Household Buyer - Former Owner-Occupier,239705.0
+K56,Rush,7,2014,New,Household Buyer - Non-Occupier,
+K56,Rush,7,2014,Existing,All Buyer Types,199467.0
+K56,Rush,7,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,162500.0
+K56,Rush,7,2014,Existing,Household Buyer - Former Owner-Occupier,248933.0
+K56,Rush,7,2014,Existing,Household Buyer - Non-Occupier,125000.0
+K56,Rush,8,2014,All Dwelling Statuses,All Buyer Types,279994.0
+K56,Rush,8,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,214950.0
+K56,Rush,8,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,351000.0
+K56,Rush,8,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,135000.0
+K56,Rush,8,2014,New,All Buyer Types,219975.0
+K56,Rush,8,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,214950.0
+K56,Rush,8,2014,New,Household Buyer - Former Owner-Occupier,225000.0
+K56,Rush,8,2014,New,Household Buyer - Non-Occupier,
+K56,Rush,8,2014,Existing,All Buyer Types,300000.0
+K56,Rush,8,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,8,2014,Existing,Household Buyer - Former Owner-Occupier,382500.0
+K56,Rush,8,2014,Existing,Household Buyer - Non-Occupier,135000.0
+K56,Rush,9,2014,All Dwelling Statuses,All Buyer Types,283493.0
+K56,Rush,9,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225650.0
+K56,Rush,9,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,340422.0
+K56,Rush,9,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,227250.0
+K56,Rush,9,2014,New,All Buyer Types,235733.0
+K56,Rush,9,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,242475.0
+K56,Rush,9,2014,New,Household Buyer - Former Owner-Occupier,203726.0
+K56,Rush,9,2014,New,Household Buyer - Non-Occupier,261000.0
+K56,Rush,9,2014,Existing,All Buyer Types,319313.0
+K56,Rush,9,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,192000.0
+K56,Rush,9,2014,Existing,Household Buyer - Former Owner-Occupier,395100.0
+K56,Rush,9,2014,Existing,Household Buyer - Non-Occupier,193500.0
+K56,Rush,10,2014,All Dwelling Statuses,All Buyer Types,300824.0
+K56,Rush,10,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,263864.0
+K56,Rush,10,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,323000.0
+K56,Rush,10,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,10,2014,New,All Buyer Types,233296.0
+K56,Rush,10,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,233296.0
+K56,Rush,10,2014,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,10,2014,New,Household Buyer - Non-Occupier,
+K56,Rush,10,2014,Existing,All Buyer Types,323333.0
+K56,Rush,10,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,325000.0
+K56,Rush,10,2014,Existing,Household Buyer - Former Owner-Occupier,323000.0
+K56,Rush,10,2014,Existing,Household Buyer - Non-Occupier,
+K56,Rush,11,2014,All Dwelling Statuses,All Buyer Types,208022.0
+K56,Rush,11,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,204591.0
+K56,Rush,11,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,209737.0
+K56,Rush,11,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,11,2014,New,All Buyer Types,221547.0
+K56,Rush,11,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,220739.0
+K56,Rush,11,2014,New,Household Buyer - Former Owner-Occupier,222625.0
+K56,Rush,11,2014,New,Household Buyer - Non-Occupier,
+K56,Rush,11,2014,Existing,All Buyer Types,196188.0
+K56,Rush,11,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+K56,Rush,11,2014,Existing,Household Buyer - Former Owner-Occupier,204214.0
+K56,Rush,11,2014,Existing,Household Buyer - Non-Occupier,
+K56,Rush,12,2014,All Dwelling Statuses,All Buyer Types,265639.0
+K56,Rush,12,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,249800.0
+K56,Rush,12,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,271962.0
+K56,Rush,12,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,212000.0
+K56,Rush,12,2014,New,All Buyer Types,248357.0
+K56,Rush,12,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,256200.0
+K56,Rush,12,2014,New,Household Buyer - Former Owner-Occupier,244435.0
+K56,Rush,12,2014,New,Household Buyer - Non-Occupier,
+K56,Rush,12,2014,Existing,All Buyer Types,273046.0
+K56,Rush,12,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,237000.0
+K56,Rush,12,2014,Existing,Household Buyer - Former Owner-Occupier,281138.0
+K56,Rush,12,2014,Existing,Household Buyer - Non-Occupier,212000.0
+K56,Rush,1,2015,All Dwelling Statuses,All Buyer Types,254667.0
+K56,Rush,1,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,254000.0
+K56,Rush,1,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,248667.0
+K56,Rush,1,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,265000.0
+K56,Rush,1,2015,New,All Buyer Types,240000.0
+K56,Rush,1,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,240000.0
+K56,Rush,1,2015,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,1,2015,New,Household Buyer - Non-Occupier,
+K56,Rush,1,2015,Existing,All Buyer Types,256500.0
+K56,Rush,1,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,258667.0
+K56,Rush,1,2015,Existing,Household Buyer - Former Owner-Occupier,248667.0
+K56,Rush,1,2015,Existing,Household Buyer - Non-Occupier,265000.0
+K56,Rush,2,2015,All Dwelling Statuses,All Buyer Types,250125.0
+K56,Rush,2,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,271250.0
+K56,Rush,2,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,229000.0
+K56,Rush,2,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,2,2015,New,All Buyer Types,255000.0
+K56,Rush,2,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,255000.0
+K56,Rush,2,2015,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,2,2015,New,Household Buyer - Non-Occupier,
+K56,Rush,2,2015,Existing,All Buyer Types,248500.0
+K56,Rush,2,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,287500.0
+K56,Rush,2,2015,Existing,Household Buyer - Former Owner-Occupier,229000.0
+K56,Rush,2,2015,Existing,Household Buyer - Non-Occupier,
+K56,Rush,3,2015,All Dwelling Statuses,All Buyer Types,271289.0
+K56,Rush,3,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,239500.0
+K56,Rush,3,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,277775.0
+K56,Rush,3,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,306000.0
+K56,Rush,3,2015,New,All Buyer Types,281700.0
+K56,Rush,3,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2015,New,Household Buyer - Former Owner-Occupier,281700.0
+K56,Rush,3,2015,New,Household Buyer - Non-Occupier,
+K56,Rush,3,2015,Existing,All Buyer Types,266083.0
+K56,Rush,3,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,239500.0
+K56,Rush,3,2015,Existing,Household Buyer - Former Owner-Occupier,266000.0
+K56,Rush,3,2015,Existing,Household Buyer - Non-Occupier,306000.0
+K56,Rush,4,2015,All Dwelling Statuses,All Buyer Types,515833.0
+K56,Rush,4,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,260000.0
+K56,Rush,4,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,567000.0
+K56,Rush,4,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,4,2015,New,All Buyer Types,260000.0
+K56,Rush,4,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,260000.0
+K56,Rush,4,2015,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,4,2015,New,Household Buyer - Non-Occupier,
+K56,Rush,4,2015,Existing,All Buyer Types,567000.0
+K56,Rush,4,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2015,Existing,Household Buyer - Former Owner-Occupier,567000.0
+K56,Rush,4,2015,Existing,Household Buyer - Non-Occupier,
+K56,Rush,5,2015,All Dwelling Statuses,All Buyer Types,205250.0
+K56,Rush,5,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225000.0
+K56,Rush,5,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,198667.0
+K56,Rush,5,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,5,2015,New,All Buyer Types,295000.0
+K56,Rush,5,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,5,2015,New,Household Buyer - Former Owner-Occupier,295000.0
+K56,Rush,5,2015,New,Household Buyer - Non-Occupier,
+K56,Rush,5,2015,Existing,All Buyer Types,175333.0
+K56,Rush,5,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,225000.0
+K56,Rush,5,2015,Existing,Household Buyer - Former Owner-Occupier,150500.0
+K56,Rush,5,2015,Existing,Household Buyer - Non-Occupier,
+K56,Rush,6,2015,All Dwelling Statuses,All Buyer Types,311443.0
+K56,Rush,6,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,268367.0
+K56,Rush,6,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,165000.0
+K56,Rush,6,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,880000.0
+K56,Rush,6,2015,New,All Buyer Types,280050.0
+K56,Rush,6,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,280050.0
+K56,Rush,6,2015,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,6,2015,New,Household Buyer - Non-Occupier,
+K56,Rush,6,2015,Existing,All Buyer Types,324000.0
+K56,Rush,6,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+K56,Rush,6,2015,Existing,Household Buyer - Former Owner-Occupier,165000.0
+K56,Rush,6,2015,Existing,Household Buyer - Non-Occupier,880000.0
+K56,Rush,7,2015,All Dwelling Statuses,All Buyer Types,210000.0
+K56,Rush,7,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,212500.0
+K56,Rush,7,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,208333.0
+K56,Rush,7,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,7,2015,New,All Buyer Types,265000.0
+K56,Rush,7,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,260000.0
+K56,Rush,7,2015,New,Household Buyer - Former Owner-Occupier,269999.0
+K56,Rush,7,2015,New,Household Buyer - Non-Occupier,
+K56,Rush,7,2015,Existing,All Buyer Types,173333.0
+K56,Rush,7,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+K56,Rush,7,2015,Existing,Household Buyer - Former Owner-Occupier,177500.0
+K56,Rush,7,2015,Existing,Household Buyer - Non-Occupier,
+K56,Rush,8,2015,All Dwelling Statuses,All Buyer Types,217400.0
+K56,Rush,8,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,236000.0
+K56,Rush,8,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,205000.0
+K56,Rush,8,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,8,2015,New,All Buyer Types,
+K56,Rush,8,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,8,2015,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,8,2015,New,Household Buyer - Non-Occupier,
+K56,Rush,8,2015,Existing,All Buyer Types,217400.0
+K56,Rush,8,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,236000.0
+K56,Rush,8,2015,Existing,Household Buyer - Former Owner-Occupier,205000.0
+K56,Rush,8,2015,Existing,Household Buyer - Non-Occupier,
+K56,Rush,9,2015,All Dwelling Statuses,All Buyer Types,305675.0
+K56,Rush,9,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,156050.0
+K56,Rush,9,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,335600.0
+K56,Rush,9,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,9,2015,New,All Buyer Types,305000.0
+K56,Rush,9,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,9,2015,New,Household Buyer - Former Owner-Occupier,305000.0
+K56,Rush,9,2015,New,Household Buyer - Non-Occupier,
+K56,Rush,9,2015,Existing,All Buyer Types,305810.0
+K56,Rush,9,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,156050.0
+K56,Rush,9,2015,Existing,Household Buyer - Former Owner-Occupier,343250.0
+K56,Rush,9,2015,Existing,Household Buyer - Non-Occupier,
+K56,Rush,10,2015,All Dwelling Statuses,All Buyer Types,223517.0
+K56,Rush,10,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,10,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,223517.0
+K56,Rush,10,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,10,2015,New,All Buyer Types,
+K56,Rush,10,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,10,2015,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,10,2015,New,Household Buyer - Non-Occupier,
+K56,Rush,10,2015,Existing,All Buyer Types,223517.0
+K56,Rush,10,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,10,2015,Existing,Household Buyer - Former Owner-Occupier,223517.0
+K56,Rush,10,2015,Existing,Household Buyer - Non-Occupier,
+K56,Rush,11,2015,All Dwelling Statuses,All Buyer Types,368917.0
+K56,Rush,11,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,11,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,368917.0
+K56,Rush,11,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,11,2015,New,All Buyer Types,305000.0
+K56,Rush,11,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,11,2015,New,Household Buyer - Former Owner-Occupier,305000.0
+K56,Rush,11,2015,New,Household Buyer - Non-Occupier,
+K56,Rush,11,2015,Existing,All Buyer Types,381700.0
+K56,Rush,11,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,11,2015,Existing,Household Buyer - Former Owner-Occupier,381700.0
+K56,Rush,11,2015,Existing,Household Buyer - Non-Occupier,
+K56,Rush,12,2015,All Dwelling Statuses,All Buyer Types,252083.0
+K56,Rush,12,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,243512.0
+K56,Rush,12,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,286366.0
+K56,Rush,12,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,12,2015,New,All Buyer Types,252604.0
+K56,Rush,12,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,241350.0
+K56,Rush,12,2015,New,Household Buyer - Former Owner-Occupier,286366.0
+K56,Rush,12,2015,New,Household Buyer - Non-Occupier,
+K56,Rush,12,2015,Existing,All Buyer Types,250000.0
+K56,Rush,12,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,250000.0
+K56,Rush,12,2015,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,12,2015,Existing,Household Buyer - Non-Occupier,
+K56,Rush,1,2016,All Dwelling Statuses,All Buyer Types,305500.0
+K56,Rush,1,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,1,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,305500.0
+K56,Rush,1,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,1,2016,New,All Buyer Types,
+K56,Rush,1,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,1,2016,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,1,2016,New,Household Buyer - Non-Occupier,
+K56,Rush,1,2016,Existing,All Buyer Types,305500.0
+K56,Rush,1,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,1,2016,Existing,Household Buyer - Former Owner-Occupier,305500.0
+K56,Rush,1,2016,Existing,Household Buyer - Non-Occupier,
+K56,Rush,2,2016,All Dwelling Statuses,All Buyer Types,227500.0
+K56,Rush,2,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,242500.0
+K56,Rush,2,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,217500.0
+K56,Rush,2,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,2,2016,New,All Buyer Types,266250.0
+K56,Rush,2,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,2,2016,New,Household Buyer - Former Owner-Occupier,266250.0
+K56,Rush,2,2016,New,Household Buyer - Non-Occupier,
+K56,Rush,2,2016,Existing,All Buyer Types,201667.0
+K56,Rush,2,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,242500.0
+K56,Rush,2,2016,Existing,Household Buyer - Former Owner-Occupier,120000.0
+K56,Rush,2,2016,Existing,Household Buyer - Non-Occupier,
+K56,Rush,3,2016,All Dwelling Statuses,All Buyer Types,231800.0
+K56,Rush,3,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,198333.0
+K56,Rush,3,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,282000.0
+K56,Rush,3,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,3,2016,New,All Buyer Types,
+K56,Rush,3,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2016,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,3,2016,New,Household Buyer - Non-Occupier,
+K56,Rush,3,2016,Existing,All Buyer Types,231800.0
+K56,Rush,3,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,198333.0
+K56,Rush,3,2016,Existing,Household Buyer - Former Owner-Occupier,282000.0
+K56,Rush,3,2016,Existing,Household Buyer - Non-Occupier,
+K56,Rush,4,2016,All Dwelling Statuses,All Buyer Types,233767.0
+K56,Rush,4,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+K56,Rush,4,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,238520.0
+K56,Rush,4,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,4,2016,New,All Buyer Types,210000.0
+K56,Rush,4,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+K56,Rush,4,2016,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,4,2016,New,Household Buyer - Non-Occupier,
+K56,Rush,4,2016,Existing,All Buyer Types,238520.0
+K56,Rush,4,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2016,Existing,Household Buyer - Former Owner-Occupier,238520.0
+K56,Rush,4,2016,Existing,Household Buyer - Non-Occupier,
+K56,Rush,5,2016,All Dwelling Statuses,All Buyer Types,317375.0
+K56,Rush,5,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,5,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,381833.0
+K56,Rush,5,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,124000.0
+K56,Rush,5,2016,New,All Buyer Types,310000.0
+K56,Rush,5,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,5,2016,New,Household Buyer - Former Owner-Occupier,310000.0
+K56,Rush,5,2016,New,Household Buyer - Non-Occupier,
+K56,Rush,5,2016,Existing,All Buyer Types,319833.0
+K56,Rush,5,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,5,2016,Existing,Household Buyer - Former Owner-Occupier,417750.0
+K56,Rush,5,2016,Existing,Household Buyer - Non-Occupier,124000.0
+K56,Rush,6,2016,All Dwelling Statuses,All Buyer Types,263250.0
+K56,Rush,6,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,247000.0
+K56,Rush,6,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,370000.0
+K56,Rush,6,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,66000.0
+K56,Rush,6,2016,New,All Buyer Types,
+K56,Rush,6,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,6,2016,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,6,2016,New,Household Buyer - Non-Occupier,
+K56,Rush,6,2016,Existing,All Buyer Types,263250.0
+K56,Rush,6,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,247000.0
+K56,Rush,6,2016,Existing,Household Buyer - Former Owner-Occupier,370000.0
+K56,Rush,6,2016,Existing,Household Buyer - Non-Occupier,66000.0
+K56,Rush,7,2016,All Dwelling Statuses,All Buyer Types,275571.0
+K56,Rush,7,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,212800.0
+K56,Rush,7,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,432500.0
+K56,Rush,7,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,7,2016,New,All Buyer Types,280000.0
+K56,Rush,7,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,280000.0
+K56,Rush,7,2016,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,7,2016,New,Household Buyer - Non-Occupier,
+K56,Rush,7,2016,Existing,All Buyer Types,274833.0
+K56,Rush,7,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,196000.0
+K56,Rush,7,2016,Existing,Household Buyer - Former Owner-Occupier,432500.0
+K56,Rush,7,2016,Existing,Household Buyer - Non-Occupier,
+K56,Rush,8,2016,All Dwelling Statuses,All Buyer Types,296579.0
+K56,Rush,8,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,240263.0
+K56,Rush,8,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,371667.0
+K56,Rush,8,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,8,2016,New,All Buyer Types,370350.0
+K56,Rush,8,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,261050.0
+K56,Rush,8,2016,New,Household Buyer - Former Owner-Occupier,425000.0
+K56,Rush,8,2016,New,Household Buyer - Non-Occupier,
+K56,Rush,8,2016,Existing,All Buyer Types,241250.0
+K56,Rush,8,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,233333.0
+K56,Rush,8,2016,Existing,Household Buyer - Former Owner-Occupier,265000.0
+K56,Rush,8,2016,Existing,Household Buyer - Non-Occupier,
+K56,Rush,9,2016,All Dwelling Statuses,All Buyer Types,247278.0
+K56,Rush,9,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,9,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,259188.0
+K56,Rush,9,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,152000.0
+K56,Rush,9,2016,New,All Buyer Types,331000.0
+K56,Rush,9,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,9,2016,New,Household Buyer - Former Owner-Occupier,331000.0
+K56,Rush,9,2016,New,Household Buyer - Non-Occupier,
+K56,Rush,9,2016,Existing,All Buyer Types,223357.0
+K56,Rush,9,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,9,2016,Existing,Household Buyer - Former Owner-Occupier,235250.0
+K56,Rush,9,2016,Existing,Household Buyer - Non-Occupier,152000.0
+K56,Rush,10,2016,All Dwelling Statuses,All Buyer Types,230500.0
+K56,Rush,10,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,211333.0
+K56,Rush,10,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,242000.0
+K56,Rush,10,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,10,2016,New,All Buyer Types,
+K56,Rush,10,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,10,2016,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,10,2016,New,Household Buyer - Non-Occupier,
+K56,Rush,10,2016,Existing,All Buyer Types,230500.0
+K56,Rush,10,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,211333.0
+K56,Rush,10,2016,Existing,Household Buyer - Former Owner-Occupier,242000.0
+K56,Rush,10,2016,Existing,Household Buyer - Non-Occupier,
+K56,Rush,11,2016,All Dwelling Statuses,All Buyer Types,269250.0
+K56,Rush,11,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,11,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,269250.0
+K56,Rush,11,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,11,2016,New,All Buyer Types,
+K56,Rush,11,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,11,2016,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,11,2016,New,Household Buyer - Non-Occupier,
+K56,Rush,11,2016,Existing,All Buyer Types,269250.0
+K56,Rush,11,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,11,2016,Existing,Household Buyer - Former Owner-Occupier,269250.0
+K56,Rush,11,2016,Existing,Household Buyer - Non-Occupier,
+K56,Rush,12,2016,All Dwelling Statuses,All Buyer Types,241600.0
+K56,Rush,12,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,186250.0
+K56,Rush,12,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,278500.0
+K56,Rush,12,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,12,2016,New,All Buyer Types,
+K56,Rush,12,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,12,2016,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,12,2016,New,Household Buyer - Non-Occupier,
+K56,Rush,12,2016,Existing,All Buyer Types,241600.0
+K56,Rush,12,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,186250.0
+K56,Rush,12,2016,Existing,Household Buyer - Former Owner-Occupier,278500.0
+K56,Rush,12,2016,Existing,Household Buyer - Non-Occupier,
+K56,Rush,1,2017,All Dwelling Statuses,All Buyer Types,277286.0
+K56,Rush,1,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+K56,Rush,1,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,301200.0
+K56,Rush,1,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,260000.0
+K56,Rush,1,2017,New,All Buyer Types,
+K56,Rush,1,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,1,2017,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,1,2017,New,Household Buyer - Non-Occupier,
+K56,Rush,1,2017,Existing,All Buyer Types,277286.0
+K56,Rush,1,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+K56,Rush,1,2017,Existing,Household Buyer - Former Owner-Occupier,301200.0
+K56,Rush,1,2017,Existing,Household Buyer - Non-Occupier,260000.0
+K56,Rush,2,2017,All Dwelling Statuses,All Buyer Types,254500.0
+K56,Rush,2,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,258000.0
+K56,Rush,2,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,251875.0
+K56,Rush,2,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,251000.0
+K56,Rush,2,2017,New,All Buyer Types,
+K56,Rush,2,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,2,2017,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,2,2017,New,Household Buyer - Non-Occupier,
+K56,Rush,2,2017,Existing,All Buyer Types,254500.0
+K56,Rush,2,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,258000.0
+K56,Rush,2,2017,Existing,Household Buyer - Former Owner-Occupier,251875.0
+K56,Rush,2,2017,Existing,Household Buyer - Non-Occupier,251000.0
+K56,Rush,3,2017,All Dwelling Statuses,All Buyer Types,445625.0
+K56,Rush,3,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+K56,Rush,3,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,512500.0
+K56,Rush,3,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,3,2017,New,All Buyer Types,245000.0
+K56,Rush,3,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+K56,Rush,3,2017,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,3,2017,New,Household Buyer - Non-Occupier,
+K56,Rush,3,2017,Existing,All Buyer Types,512500.0
+K56,Rush,3,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2017,Existing,Household Buyer - Former Owner-Occupier,512500.0
+K56,Rush,3,2017,Existing,Household Buyer - Non-Occupier,
+K56,Rush,4,2017,All Dwelling Statuses,All Buyer Types,368333.0
+K56,Rush,4,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,345000.0
+K56,Rush,4,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,380000.0
+K56,Rush,4,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,4,2017,New,All Buyer Types,
+K56,Rush,4,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2017,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,4,2017,New,Household Buyer - Non-Occupier,
+K56,Rush,4,2017,Existing,All Buyer Types,368333.0
+K56,Rush,4,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,345000.0
+K56,Rush,4,2017,Existing,Household Buyer - Former Owner-Occupier,380000.0
+K56,Rush,4,2017,Existing,Household Buyer - Non-Occupier,
+K56,Rush,5,2017,All Dwelling Statuses,All Buyer Types,304667.0
+K56,Rush,5,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,265000.0
+K56,Rush,5,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,342667.0
+K56,Rush,5,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,270000.0
+K56,Rush,5,2017,New,All Buyer Types,
+K56,Rush,5,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,5,2017,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,5,2017,New,Household Buyer - Non-Occupier,
+K56,Rush,5,2017,Existing,All Buyer Types,304667.0
+K56,Rush,5,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,265000.0
+K56,Rush,5,2017,Existing,Household Buyer - Former Owner-Occupier,342667.0
+K56,Rush,5,2017,Existing,Household Buyer - Non-Occupier,270000.0
+K56,Rush,6,2017,All Dwelling Statuses,All Buyer Types,344350.0
+K56,Rush,6,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,291000.0
+K56,Rush,6,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,371025.0
+K56,Rush,6,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,6,2017,New,All Buyer Types,374550.0
+K56,Rush,6,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,6,2017,New,Household Buyer - Former Owner-Occupier,374550.0
+K56,Rush,6,2017,New,Household Buyer - Non-Occupier,
+K56,Rush,6,2017,Existing,All Buyer Types,329250.0
+K56,Rush,6,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,291000.0
+K56,Rush,6,2017,Existing,Household Buyer - Former Owner-Occupier,367500.0
+K56,Rush,6,2017,Existing,Household Buyer - Non-Occupier,
+K56,Rush,7,2017,All Dwelling Statuses,All Buyer Types,262000.0
+K56,Rush,7,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,252500.0
+K56,Rush,7,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,265167.0
+K56,Rush,7,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,7,2017,New,All Buyer Types,
+K56,Rush,7,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,7,2017,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,7,2017,New,Household Buyer - Non-Occupier,
+K56,Rush,7,2017,Existing,All Buyer Types,262000.0
+K56,Rush,7,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,252500.0
+K56,Rush,7,2017,Existing,Household Buyer - Former Owner-Occupier,265167.0
+K56,Rush,7,2017,Existing,Household Buyer - Non-Occupier,
+K56,Rush,8,2017,All Dwelling Statuses,All Buyer Types,259571.0
+K56,Rush,8,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,241000.0
+K56,Rush,8,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,267000.0
+K56,Rush,8,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,8,2017,New,All Buyer Types,
+K56,Rush,8,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,8,2017,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,8,2017,New,Household Buyer - Non-Occupier,
+K56,Rush,8,2017,Existing,All Buyer Types,259571.0
+K56,Rush,8,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,241000.0
+K56,Rush,8,2017,Existing,Household Buyer - Former Owner-Occupier,267000.0
+K56,Rush,8,2017,Existing,Household Buyer - Non-Occupier,
+K56,Rush,9,2017,All Dwelling Statuses,All Buyer Types,292000.0
+K56,Rush,9,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+K56,Rush,9,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,286667.0
+K56,Rush,9,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,9,2017,New,All Buyer Types,
+K56,Rush,9,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,9,2017,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,9,2017,New,Household Buyer - Non-Occupier,
+K56,Rush,9,2017,Existing,All Buyer Types,292000.0
+K56,Rush,9,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+K56,Rush,9,2017,Existing,Household Buyer - Former Owner-Occupier,286667.0
+K56,Rush,9,2017,Existing,Household Buyer - Non-Occupier,
+K56,Rush,10,2017,All Dwelling Statuses,All Buyer Types,251700.0
+K56,Rush,10,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,10,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,255250.0
+K56,Rush,10,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,237500.0
+K56,Rush,10,2017,New,All Buyer Types,
+K56,Rush,10,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,10,2017,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,10,2017,New,Household Buyer - Non-Occupier,
+K56,Rush,10,2017,Existing,All Buyer Types,251700.0
+K56,Rush,10,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,10,2017,Existing,Household Buyer - Former Owner-Occupier,255250.0
+K56,Rush,10,2017,Existing,Household Buyer - Non-Occupier,237500.0
+K56,Rush,11,2017,All Dwelling Statuses,All Buyer Types,307083.0
+K56,Rush,11,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,266250.0
+K56,Rush,11,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,350000.0
+K56,Rush,11,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,260000.0
+K56,Rush,11,2017,New,All Buyer Types,
+K56,Rush,11,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,11,2017,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,11,2017,New,Household Buyer - Non-Occupier,
+K56,Rush,11,2017,Existing,All Buyer Types,307083.0
+K56,Rush,11,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,266250.0
+K56,Rush,11,2017,Existing,Household Buyer - Former Owner-Occupier,350000.0
+K56,Rush,11,2017,Existing,Household Buyer - Non-Occupier,260000.0
+K56,Rush,12,2017,All Dwelling Statuses,All Buyer Types,280667.0
+K56,Rush,12,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,274500.0
+K56,Rush,12,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,251667.0
+K56,Rush,12,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,380000.0
+K56,Rush,12,2017,New,All Buyer Types,
+K56,Rush,12,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,12,2017,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,12,2017,New,Household Buyer - Non-Occupier,
+K56,Rush,12,2017,Existing,All Buyer Types,280667.0
+K56,Rush,12,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,274500.0
+K56,Rush,12,2017,Existing,Household Buyer - Former Owner-Occupier,251667.0
+K56,Rush,12,2017,Existing,Household Buyer - Non-Occupier,380000.0
+K56,Rush,1,2018,All Dwelling Statuses,All Buyer Types,295300.0
+K56,Rush,1,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+K56,Rush,1,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,325375.0
+K56,Rush,1,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,1,2018,New,All Buyer Types,
+K56,Rush,1,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,1,2018,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,1,2018,New,Household Buyer - Non-Occupier,
+K56,Rush,1,2018,Existing,All Buyer Types,295300.0
+K56,Rush,1,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+K56,Rush,1,2018,Existing,Household Buyer - Former Owner-Occupier,325375.0
+K56,Rush,1,2018,Existing,Household Buyer - Non-Occupier,
+K56,Rush,2,2018,All Dwelling Statuses,All Buyer Types,382333.0
+K56,Rush,2,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,2,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,381000.0
+K56,Rush,2,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,385000.0
+K56,Rush,2,2018,New,All Buyer Types,
+K56,Rush,2,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,2,2018,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,2,2018,New,Household Buyer - Non-Occupier,
+K56,Rush,2,2018,Existing,All Buyer Types,382333.0
+K56,Rush,2,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,2,2018,Existing,Household Buyer - Former Owner-Occupier,381000.0
+K56,Rush,2,2018,Existing,Household Buyer - Non-Occupier,385000.0
+K56,Rush,3,2018,All Dwelling Statuses,All Buyer Types,212667.0
+K56,Rush,3,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,212667.0
+K56,Rush,3,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,3,2018,New,All Buyer Types,
+K56,Rush,3,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2018,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,3,2018,New,Household Buyer - Non-Occupier,
+K56,Rush,3,2018,Existing,All Buyer Types,212667.0
+K56,Rush,3,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2018,Existing,Household Buyer - Former Owner-Occupier,212667.0
+K56,Rush,3,2018,Existing,Household Buyer - Non-Occupier,
+K56,Rush,4,2018,All Dwelling Statuses,All Buyer Types,339750.0
+K56,Rush,4,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+K56,Rush,4,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,362125.0
+K56,Rush,4,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,4,2018,New,All Buyer Types,
+K56,Rush,4,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2018,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,4,2018,New,Household Buyer - Non-Occupier,
+K56,Rush,4,2018,Existing,All Buyer Types,339750.0
+K56,Rush,4,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+K56,Rush,4,2018,Existing,Household Buyer - Former Owner-Occupier,362125.0
+K56,Rush,4,2018,Existing,Household Buyer - Non-Occupier,
+K56,Rush,5,2018,All Dwelling Statuses,All Buyer Types,287271.0
+K56,Rush,5,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,370000.0
+K56,Rush,5,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,308400.0
+K56,Rush,5,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,193083.0
+K56,Rush,5,2018,New,All Buyer Types,544999.0
+K56,Rush,5,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,5,2018,New,Household Buyer - Former Owner-Occupier,544999.0
+K56,Rush,5,2018,New,Household Buyer - Non-Occupier,
+K56,Rush,5,2018,Existing,All Buyer Types,250452.0
+K56,Rush,5,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,370000.0
+K56,Rush,5,2018,Existing,Household Buyer - Former Owner-Occupier,249250.0
+K56,Rush,5,2018,Existing,Household Buyer - Non-Occupier,193083.0
+K56,Rush,6,2018,All Dwelling Statuses,All Buyer Types,367556.0
+K56,Rush,6,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,215000.0
+K56,Rush,6,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,416286.0
+K56,Rush,6,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,179000.0
+K56,Rush,6,2018,New,All Buyer Types,
+K56,Rush,6,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,6,2018,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,6,2018,New,Household Buyer - Non-Occupier,
+K56,Rush,6,2018,Existing,All Buyer Types,367556.0
+K56,Rush,6,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,215000.0
+K56,Rush,6,2018,Existing,Household Buyer - Former Owner-Occupier,416286.0
+K56,Rush,6,2018,Existing,Household Buyer - Non-Occupier,179000.0
+K56,Rush,7,2018,All Dwelling Statuses,All Buyer Types,337800.0
+K56,Rush,7,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,288000.0
+K56,Rush,7,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,350250.0
+K56,Rush,7,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,7,2018,New,All Buyer Types,589999.0
+K56,Rush,7,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,7,2018,New,Household Buyer - Former Owner-Occupier,589999.0
+K56,Rush,7,2018,New,Household Buyer - Non-Occupier,
+K56,Rush,7,2018,Existing,All Buyer Types,274750.0
+K56,Rush,7,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,288000.0
+K56,Rush,7,2018,Existing,Household Buyer - Former Owner-Occupier,270333.0
+K56,Rush,7,2018,Existing,Household Buyer - Non-Occupier,
+K56,Rush,8,2018,All Dwelling Statuses,All Buyer Types,269667.0
+K56,Rush,8,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,253600.0
+K56,Rush,8,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,350000.0
+K56,Rush,8,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,8,2018,New,All Buyer Types,
+K56,Rush,8,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,8,2018,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,8,2018,New,Household Buyer - Non-Occupier,
+K56,Rush,8,2018,Existing,All Buyer Types,269667.0
+K56,Rush,8,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,253600.0
+K56,Rush,8,2018,Existing,Household Buyer - Former Owner-Occupier,350000.0
+K56,Rush,8,2018,Existing,Household Buyer - Non-Occupier,
+K56,Rush,9,2018,All Dwelling Statuses,All Buyer Types,274714.0
+K56,Rush,9,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,320000.0
+K56,Rush,9,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,256600.0
+K56,Rush,9,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,9,2018,New,All Buyer Types,
+K56,Rush,9,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,9,2018,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,9,2018,New,Household Buyer - Non-Occupier,
+K56,Rush,9,2018,Existing,All Buyer Types,274714.0
+K56,Rush,9,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,320000.0
+K56,Rush,9,2018,Existing,Household Buyer - Former Owner-Occupier,256600.0
+K56,Rush,9,2018,Existing,Household Buyer - Non-Occupier,
+K56,Rush,10,2018,All Dwelling Statuses,All Buyer Types,348917.0
+K56,Rush,10,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,10,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,348917.0
+K56,Rush,10,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,10,2018,New,All Buyer Types,
+K56,Rush,10,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,10,2018,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,10,2018,New,Household Buyer - Non-Occupier,
+K56,Rush,10,2018,Existing,All Buyer Types,348917.0
+K56,Rush,10,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,10,2018,Existing,Household Buyer - Former Owner-Occupier,348917.0
+K56,Rush,10,2018,Existing,Household Buyer - Non-Occupier,
+K56,Rush,11,2018,All Dwelling Statuses,All Buyer Types,292500.0
+K56,Rush,11,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,279333.0
+K56,Rush,11,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,338750.0
+K56,Rush,11,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,147000.0
+K56,Rush,11,2018,New,All Buyer Types,590000.0
+K56,Rush,11,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,11,2018,New,Household Buyer - Former Owner-Occupier,590000.0
+K56,Rush,11,2018,New,Household Buyer - Non-Occupier,
+K56,Rush,11,2018,Existing,All Buyer Types,250000.0
+K56,Rush,11,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,279333.0
+K56,Rush,11,2018,Existing,Household Buyer - Former Owner-Occupier,255000.0
+K56,Rush,11,2018,Existing,Household Buyer - Non-Occupier,147000.0
+K56,Rush,12,2018,All Dwelling Statuses,All Buyer Types,307188.0
+K56,Rush,12,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,255000.0
+K56,Rush,12,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,324583.0
+K56,Rush,12,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,12,2018,New,All Buyer Types,
+K56,Rush,12,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,12,2018,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,12,2018,New,Household Buyer - Non-Occupier,
+K56,Rush,12,2018,Existing,All Buyer Types,307188.0
+K56,Rush,12,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,255000.0
+K56,Rush,12,2018,Existing,Household Buyer - Former Owner-Occupier,324583.0
+K56,Rush,12,2018,Existing,Household Buyer - Non-Occupier,
+K56,Rush,1,2019,All Dwelling Statuses,All Buyer Types,166667.0
+K56,Rush,1,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+K56,Rush,1,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,155000.0
+K56,Rush,1,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,1,2019,New,All Buyer Types,
+K56,Rush,1,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,1,2019,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,1,2019,New,Household Buyer - Non-Occupier,
+K56,Rush,1,2019,Existing,All Buyer Types,166667.0
+K56,Rush,1,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+K56,Rush,1,2019,Existing,Household Buyer - Former Owner-Occupier,155000.0
+K56,Rush,1,2019,Existing,Household Buyer - Non-Occupier,
+K56,Rush,2,2019,All Dwelling Statuses,All Buyer Types,334903.0
+K56,Rush,2,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,384998.0
+K56,Rush,2,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,327747.0
+K56,Rush,2,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,2,2019,New,All Buyer Types,382545.0
+K56,Rush,2,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,384998.0
+K56,Rush,2,2019,New,Household Buyer - Former Owner-Occupier,381932.0
+K56,Rush,2,2019,New,Household Buyer - Non-Occupier,
+K56,Rush,2,2019,Existing,All Buyer Types,255500.0
+K56,Rush,2,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,2,2019,Existing,Household Buyer - Former Owner-Occupier,255500.0
+K56,Rush,2,2019,Existing,Household Buyer - Non-Occupier,
+K56,Rush,3,2019,All Dwelling Statuses,All Buyer Types,359388.0
+K56,Rush,3,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,334939.0
+K56,Rush,3,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,365500.0
+K56,Rush,3,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,3,2019,New,All Buyer Types,334939.0
+K56,Rush,3,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,334939.0
+K56,Rush,3,2019,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,3,2019,New,Household Buyer - Non-Occupier,
+K56,Rush,3,2019,Existing,All Buyer Types,365500.0
+K56,Rush,3,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2019,Existing,Household Buyer - Former Owner-Occupier,365500.0
+K56,Rush,3,2019,Existing,Household Buyer - Non-Occupier,
+K56,Rush,4,2019,All Dwelling Statuses,All Buyer Types,285666.0
+K56,Rush,4,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,399999.0
+K56,Rush,4,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,266333.0
+K56,Rush,4,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,257500.0
+K56,Rush,4,2019,New,All Buyer Types,399999.0
+K56,Rush,4,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,399999.0
+K56,Rush,4,2019,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,4,2019,New,Household Buyer - Non-Occupier,
+K56,Rush,4,2019,Existing,All Buyer Types,262800.0
+K56,Rush,4,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2019,Existing,Household Buyer - Former Owner-Occupier,266333.0
+K56,Rush,4,2019,Existing,Household Buyer - Non-Occupier,257500.0
+K56,Rush,5,2019,All Dwelling Statuses,All Buyer Types,321419.0
+K56,Rush,5,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,292951.0
+K56,Rush,5,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,338500.0
+K56,Rush,5,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,5,2019,New,All Buyer Types,343784.0
+K56,Rush,5,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,333854.0
+K56,Rush,5,2019,New,Household Buyer - Former Owner-Occupier,348749.0
+K56,Rush,5,2019,New,Household Buyer - Non-Occupier,
+K56,Rush,5,2019,Existing,All Buyer Types,308000.0
+K56,Rush,5,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,272500.0
+K56,Rush,5,2019,Existing,Household Buyer - Former Owner-Occupier,331667.0
+K56,Rush,5,2019,Existing,Household Buyer - Non-Occupier,
+K56,Rush,6,2019,All Dwelling Statuses,All Buyer Types,281429.0
+K56,Rush,6,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,6,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,281429.0
+K56,Rush,6,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,6,2019,New,All Buyer Types,
+K56,Rush,6,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,6,2019,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,6,2019,New,Household Buyer - Non-Occupier,
+K56,Rush,6,2019,Existing,All Buyer Types,281429.0
+K56,Rush,6,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,6,2019,Existing,Household Buyer - Former Owner-Occupier,281429.0
+K56,Rush,6,2019,Existing,Household Buyer - Non-Occupier,
+K56,Rush,7,2019,All Dwelling Statuses,All Buyer Types,334244.0
+K56,Rush,7,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,276250.0
+K56,Rush,7,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,344789.0
+K56,Rush,7,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,7,2019,New,All Buyer Types,382035.0
+K56,Rush,7,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,317499.0
+K56,Rush,7,2019,New,Household Buyer - Former Owner-Occupier,398168.0
+K56,Rush,7,2019,New,Household Buyer - Non-Occupier,
+K56,Rush,7,2019,Existing,All Buyer Types,304375.0
+K56,Rush,7,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,235000.0
+K56,Rush,7,2019,Existing,Household Buyer - Former Owner-Occupier,314286.0
+K56,Rush,7,2019,Existing,Household Buyer - Non-Occupier,
+K56,Rush,8,2019,All Dwelling Statuses,All Buyer Types,378396.0
+K56,Rush,8,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,321111.0
+K56,Rush,8,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,412766.0
+K56,Rush,8,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,8,2019,New,All Buyer Types,373571.0
+K56,Rush,8,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,337500.0
+K56,Rush,8,2019,New,Household Buyer - Former Owner-Occupier,400625.0
+K56,Rush,8,2019,New,Household Buyer - Non-Occupier,
+K56,Rush,8,2019,Existing,All Buyer Types,385150.0
+K56,Rush,8,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,288333.0
+K56,Rush,8,2019,Existing,Household Buyer - Former Owner-Occupier,426643.0
+K56,Rush,8,2019,Existing,Household Buyer - Non-Occupier,
+K56,Rush,9,2019,All Dwelling Statuses,All Buyer Types,346456.0
+K56,Rush,9,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,345221.0
+K56,Rush,9,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,342319.0
+K56,Rush,9,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,390080.0
+K56,Rush,9,2019,New,All Buyer Types,346054.0
+K56,Rush,9,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,354925.0
+K56,Rush,9,2019,New,Household Buyer - Former Owner-Occupier,342253.0
+K56,Rush,9,2019,New,Household Buyer - Non-Occupier,
+K56,Rush,9,2019,Existing,All Buyer Types,347460.0
+K56,Rush,9,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,287000.0
+K56,Rush,9,2019,Existing,Household Buyer - Former Owner-Occupier,342504.0
+K56,Rush,9,2019,Existing,Household Buyer - Non-Occupier,390080.0
+K56,Rush,10,2019,All Dwelling Statuses,All Buyer Types,343286.0
+K56,Rush,10,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,360000.0
+K56,Rush,10,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,339000.0
+K56,Rush,10,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,327000.0
+K56,Rush,10,2019,New,All Buyer Types,368750.0
+K56,Rush,10,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,360000.0
+K56,Rush,10,2019,New,Household Buyer - Former Owner-Occupier,377500.0
+K56,Rush,10,2019,New,Household Buyer - Non-Occupier,
+K56,Rush,10,2019,Existing,All Buyer Types,309333.0
+K56,Rush,10,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,10,2019,Existing,Household Buyer - Former Owner-Occupier,300500.0
+K56,Rush,10,2019,Existing,Household Buyer - Non-Occupier,327000.0
+K56,Rush,11,2019,All Dwelling Statuses,All Buyer Types,324920.0
+K56,Rush,11,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,331400.0
+K56,Rush,11,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,320292.0
+K56,Rush,11,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,11,2019,New,All Buyer Types,366009.0
+K56,Rush,11,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,373333.0
+K56,Rush,11,2019,New,Household Buyer - Former Owner-Occupier,355023.0
+K56,Rush,11,2019,New,Household Buyer - Non-Occupier,
+K56,Rush,11,2019,Existing,All Buyer Types,295571.0
+K56,Rush,11,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,268500.0
+K56,Rush,11,2019,Existing,Household Buyer - Former Owner-Occupier,306400.0
+K56,Rush,11,2019,Existing,Household Buyer - Non-Occupier,
+K56,Rush,12,2019,All Dwelling Statuses,All Buyer Types,338179.0
+K56,Rush,12,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,325609.0
+K56,Rush,12,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,350750.0
+K56,Rush,12,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,12,2019,New,All Buyer Types,361235.0
+K56,Rush,12,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,363012.0
+K56,Rush,12,2019,New,Household Buyer - Former Owner-Occupier,358125.0
+K56,Rush,12,2019,New,Household Buyer - Non-Occupier,
+K56,Rush,12,2019,Existing,All Buyer Types,310000.0
+K56,Rush,12,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,238333.0
+K56,Rush,12,2019,Existing,Household Buyer - Former Owner-Occupier,345833.0
+K56,Rush,12,2019,Existing,Household Buyer - Non-Occupier,
+K56,Rush,1,2020,All Dwelling Statuses,All Buyer Types,385500.0
+K56,Rush,1,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,356250.0
+K56,Rush,1,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,444000.0
+K56,Rush,1,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,1,2020,New,All Buyer Types,356250.0
+K56,Rush,1,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,356250.0
+K56,Rush,1,2020,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,1,2020,New,Household Buyer - Non-Occupier,
+K56,Rush,1,2020,Existing,All Buyer Types,444000.0
+K56,Rush,1,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,1,2020,Existing,Household Buyer - Former Owner-Occupier,444000.0
+K56,Rush,1,2020,Existing,Household Buyer - Non-Occupier,
+K56,Rush,2,2020,All Dwelling Statuses,All Buyer Types,460000.0
+K56,Rush,2,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+K56,Rush,2,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,542500.0
+K56,Rush,2,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,2,2020,New,All Buyer Types,
+K56,Rush,2,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,2,2020,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,2,2020,New,Household Buyer - Non-Occupier,
+K56,Rush,2,2020,Existing,All Buyer Types,460000.0
+K56,Rush,2,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+K56,Rush,2,2020,Existing,Household Buyer - Former Owner-Occupier,542500.0
+K56,Rush,2,2020,Existing,Household Buyer - Non-Occupier,
+K56,Rush,3,2020,All Dwelling Statuses,All Buyer Types,353333.0
+K56,Rush,3,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,353333.0
+K56,Rush,3,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,3,2020,New,All Buyer Types,410000.0
+K56,Rush,3,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2020,New,Household Buyer - Former Owner-Occupier,410000.0
+K56,Rush,3,2020,New,Household Buyer - Non-Occupier,
+K56,Rush,3,2020,Existing,All Buyer Types,325000.0
+K56,Rush,3,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2020,Existing,Household Buyer - Former Owner-Occupier,325000.0
+K56,Rush,3,2020,Existing,Household Buyer - Non-Occupier,
+K56,Rush,4,2020,All Dwelling Statuses,All Buyer Types,289000.0
+K56,Rush,4,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,289000.0
+K56,Rush,4,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,4,2020,New,All Buyer Types,
+K56,Rush,4,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2020,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,4,2020,New,Household Buyer - Non-Occupier,
+K56,Rush,4,2020,Existing,All Buyer Types,289000.0
+K56,Rush,4,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2020,Existing,Household Buyer - Former Owner-Occupier,289000.0
+K56,Rush,4,2020,Existing,Household Buyer - Non-Occupier,
+K56,Rush,5,2020,All Dwelling Statuses,All Buyer Types,339250.0
+K56,Rush,5,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,332750.0
+K56,Rush,5,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,367500.0
+K56,Rush,5,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,350000.0
+K56,Rush,5,2020,New,All Buyer Types,402333.0
+K56,Rush,5,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,402333.0
+K56,Rush,5,2020,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,5,2020,New,Household Buyer - Non-Occupier,
+K56,Rush,5,2020,Existing,All Buyer Types,301400.0
+K56,Rush,5,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,263167.0
+K56,Rush,5,2020,Existing,Household Buyer - Former Owner-Occupier,367500.0
+K56,Rush,5,2020,Existing,Household Buyer - Non-Occupier,350000.0
+K56,Rush,6,2020,All Dwelling Statuses,All Buyer Types,330004.0
+K56,Rush,6,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,339787.0
+K56,Rush,6,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,312395.0
+K56,Rush,6,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,6,2020,New,All Buyer Types,351756.0
+K56,Rush,6,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,350073.0
+K56,Rush,6,2020,New,Household Buyer - Former Owner-Occupier,358487.0
+K56,Rush,6,2020,New,Household Buyer - Non-Occupier,
+K56,Rush,6,2020,Existing,All Buyer Types,275625.0
+K56,Rush,6,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,257500.0
+K56,Rush,6,2020,Existing,Household Buyer - Former Owner-Occupier,281667.0
+K56,Rush,6,2020,Existing,Household Buyer - Non-Occupier,
+K56,Rush,7,2020,All Dwelling Statuses,All Buyer Types,324006.0
+K56,Rush,7,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,333250.0
+K56,Rush,7,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,311681.0
+K56,Rush,7,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,7,2020,New,All Buyer Types,340021.0
+K56,Rush,7,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,7,2020,New,Household Buyer - Former Owner-Occupier,340021.0
+K56,Rush,7,2020,New,Household Buyer - Non-Occupier,
+K56,Rush,7,2020,Existing,All Buyer Types,317600.0
+K56,Rush,7,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,333250.0
+K56,Rush,7,2020,Existing,Household Buyer - Former Owner-Occupier,255000.0
+K56,Rush,7,2020,Existing,Household Buyer - Non-Occupier,
+K56,Rush,8,2020,All Dwelling Statuses,All Buyer Types,352675.0
+K56,Rush,8,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,326778.0
+K56,Rush,8,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,378571.0
+K56,Rush,8,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,8,2020,New,All Buyer Types,378490.0
+K56,Rush,8,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,381862.0
+K56,Rush,8,2020,New,Household Buyer - Former Owner-Occupier,365000.0
+K56,Rush,8,2020,New,Household Buyer - Non-Occupier,
+K56,Rush,8,2020,Existing,All Buyer Types,338333.0
+K56,Rush,8,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,253333.0
+K56,Rush,8,2020,Existing,Household Buyer - Former Owner-Occupier,380833.0
+K56,Rush,8,2020,Existing,Household Buyer - Non-Occupier,
+K56,Rush,9,2020,All Dwelling Statuses,All Buyer Types,357375.0
+K56,Rush,9,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,368750.0
+K56,Rush,9,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,323250.0
+K56,Rush,9,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,9,2020,New,All Buyer Types,378750.0
+K56,Rush,9,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,377500.0
+K56,Rush,9,2020,New,Household Buyer - Former Owner-Occupier,385000.0
+K56,Rush,9,2020,New,Household Buyer - Non-Occupier,
+K56,Rush,9,2020,Existing,All Buyer Types,293250.0
+K56,Rush,9,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,325000.0
+K56,Rush,9,2020,Existing,Household Buyer - Former Owner-Occupier,261500.0
+K56,Rush,9,2020,Existing,Household Buyer - Non-Occupier,
+K56,Rush,10,2020,All Dwelling Statuses,All Buyer Types,351214.0
+K56,Rush,10,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,340778.0
+K56,Rush,10,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,370000.0
+K56,Rush,10,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,10,2020,New,All Buyer Types,388000.0
+K56,Rush,10,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,388000.0
+K56,Rush,10,2020,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,10,2020,New,Household Buyer - Non-Occupier,
+K56,Rush,10,2020,Existing,All Buyer Types,330778.0
+K56,Rush,10,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,281750.0
+K56,Rush,10,2020,Existing,Household Buyer - Former Owner-Occupier,370000.0
+K56,Rush,10,2020,Existing,Household Buyer - Non-Occupier,
+K56,Rush,11,2020,All Dwelling Statuses,All Buyer Types,440200.0
+K56,Rush,11,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,11,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,440200.0
+K56,Rush,11,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,11,2020,New,All Buyer Types,
+K56,Rush,11,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,11,2020,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,11,2020,New,Household Buyer - Non-Occupier,
+K56,Rush,11,2020,Existing,All Buyer Types,440200.0
+K56,Rush,11,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,11,2020,Existing,Household Buyer - Former Owner-Occupier,440200.0
+K56,Rush,11,2020,Existing,Household Buyer - Non-Occupier,
+K56,Rush,12,2020,All Dwelling Statuses,All Buyer Types,322846.0
+K56,Rush,12,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,297833.0
+K56,Rush,12,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,353833.0
+K56,Rush,12,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,287000.0
+K56,Rush,12,2020,New,All Buyer Types,420000.0
+K56,Rush,12,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,420000.0
+K56,Rush,12,2020,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,12,2020,New,Household Buyer - Non-Occupier,
+K56,Rush,12,2020,Existing,All Buyer Types,314750.0
+K56,Rush,12,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,273400.0
+K56,Rush,12,2020,Existing,Household Buyer - Former Owner-Occupier,353833.0
+K56,Rush,12,2020,Existing,Household Buyer - Non-Occupier,287000.0
+K56,Rush,1,2021,All Dwelling Statuses,All Buyer Types,287000.0
+K56,Rush,1,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,275667.0
+K56,Rush,1,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,295500.0
+K56,Rush,1,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,1,2021,New,All Buyer Types,
+K56,Rush,1,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,1,2021,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,1,2021,New,Household Buyer - Non-Occupier,
+K56,Rush,1,2021,Existing,All Buyer Types,287000.0
+K56,Rush,1,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,275667.0
+K56,Rush,1,2021,Existing,Household Buyer - Former Owner-Occupier,295500.0
+K56,Rush,1,2021,Existing,Household Buyer - Non-Occupier,
+K56,Rush,2,2021,All Dwelling Statuses,All Buyer Types,388500.0
+K56,Rush,2,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,289750.0
+K56,Rush,2,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,454333.0
+K56,Rush,2,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,2,2021,New,All Buyer Types,
+K56,Rush,2,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,2,2021,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,2,2021,New,Household Buyer - Non-Occupier,
+K56,Rush,2,2021,Existing,All Buyer Types,388500.0
+K56,Rush,2,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,289750.0
+K56,Rush,2,2021,Existing,Household Buyer - Former Owner-Occupier,454333.0
+K56,Rush,2,2021,Existing,Household Buyer - Non-Occupier,
+K56,Rush,3,2021,All Dwelling Statuses,All Buyer Types,296700.0
+K56,Rush,3,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,296700.0
+K56,Rush,3,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,3,2021,New,All Buyer Types,
+K56,Rush,3,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2021,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,3,2021,New,Household Buyer - Non-Occupier,
+K56,Rush,3,2021,Existing,All Buyer Types,296700.0
+K56,Rush,3,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2021,Existing,Household Buyer - Former Owner-Occupier,296700.0
+K56,Rush,3,2021,Existing,Household Buyer - Non-Occupier,
+K56,Rush,4,2021,All Dwelling Statuses,All Buyer Types,
+K56,Rush,4,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+K56,Rush,4,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,4,2021,New,All Buyer Types,
+K56,Rush,4,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2021,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,4,2021,New,Household Buyer - Non-Occupier,
+K56,Rush,4,2021,Existing,All Buyer Types,
+K56,Rush,4,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2021,Existing,Household Buyer - Former Owner-Occupier,
+K56,Rush,4,2021,Existing,Household Buyer - Non-Occupier,
+K56,Rush,5,2021,All Dwelling Statuses,All Buyer Types,308500.0
+K56,Rush,5,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+K56,Rush,5,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,338000.0
+K56,Rush,5,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,5,2021,New,All Buyer Types,
+K56,Rush,5,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,5,2021,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,5,2021,New,Household Buyer - Non-Occupier,
+K56,Rush,5,2021,Existing,All Buyer Types,308500.0
+K56,Rush,5,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+K56,Rush,5,2021,Existing,Household Buyer - Former Owner-Occupier,338000.0
+K56,Rush,5,2021,Existing,Household Buyer - Non-Occupier,
+K56,Rush,6,2021,All Dwelling Statuses,All Buyer Types,342400.0
+K56,Rush,6,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,378000.0
+K56,Rush,6,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,333500.0
+K56,Rush,6,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,6,2021,New,All Buyer Types,
+K56,Rush,6,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,6,2021,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,6,2021,New,Household Buyer - Non-Occupier,
+K56,Rush,6,2021,Existing,All Buyer Types,342400.0
+K56,Rush,6,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,378000.0
+K56,Rush,6,2021,Existing,Household Buyer - Former Owner-Occupier,333500.0
+K56,Rush,6,2021,Existing,Household Buyer - Non-Occupier,
+K56,Rush,7,2021,All Dwelling Statuses,All Buyer Types,458143.0
+K56,Rush,7,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,290000.0
+K56,Rush,7,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,486167.0
+K56,Rush,7,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,7,2021,New,All Buyer Types,
+K56,Rush,7,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,7,2021,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,7,2021,New,Household Buyer - Non-Occupier,
+K56,Rush,7,2021,Existing,All Buyer Types,458143.0
+K56,Rush,7,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,290000.0
+K56,Rush,7,2021,Existing,Household Buyer - Former Owner-Occupier,486167.0
+K56,Rush,7,2021,Existing,Household Buyer - Non-Occupier,
+K56,Rush,8,2021,All Dwelling Statuses,All Buyer Types,369700.0
+K56,Rush,8,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,302500.0
+K56,Rush,8,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,306286.0
+K56,Rush,8,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,948000.0
+K56,Rush,8,2021,New,All Buyer Types,
+K56,Rush,8,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,8,2021,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,8,2021,New,Household Buyer - Non-Occupier,
+K56,Rush,8,2021,Existing,All Buyer Types,369700.0
+K56,Rush,8,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,302500.0
+K56,Rush,8,2021,Existing,Household Buyer - Former Owner-Occupier,306286.0
+K56,Rush,8,2021,Existing,Household Buyer - Non-Occupier,948000.0
+K56,Rush,9,2021,All Dwelling Statuses,All Buyer Types,328333.0
+K56,Rush,9,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,290000.0
+K56,Rush,9,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,438333.0
+K56,Rush,9,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,75000.0
+K56,Rush,9,2021,New,All Buyer Types,
+K56,Rush,9,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,9,2021,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,9,2021,New,Household Buyer - Non-Occupier,
+K56,Rush,9,2021,Existing,All Buyer Types,328333.0
+K56,Rush,9,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,290000.0
+K56,Rush,9,2021,Existing,Household Buyer - Former Owner-Occupier,438333.0
+K56,Rush,9,2021,Existing,Household Buyer - Non-Occupier,75000.0
+K56,Rush,10,2021,All Dwelling Statuses,All Buyer Types,494748.0
+K56,Rush,10,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,302500.0
+K56,Rush,10,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,571647.0
+K56,Rush,10,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,10,2021,New,All Buyer Types,740117.0
+K56,Rush,10,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,10,2021,New,Household Buyer - Former Owner-Occupier,740117.0
+K56,Rush,10,2021,New,Household Buyer - Non-Occupier,
+K56,Rush,10,2021,Existing,All Buyer Types,396600.0
+K56,Rush,10,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,302500.0
+K56,Rush,10,2021,Existing,Household Buyer - Former Owner-Occupier,459333.0
+K56,Rush,10,2021,Existing,Household Buyer - Non-Occupier,
+K56,Rush,11,2021,All Dwelling Statuses,All Buyer Types,385000.0
+K56,Rush,11,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,377667.0
+K56,Rush,11,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,390500.0
+K56,Rush,11,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,11,2021,New,All Buyer Types,385000.0
+K56,Rush,11,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,385000.0
+K56,Rush,11,2021,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,11,2021,New,Household Buyer - Non-Occupier,
+K56,Rush,11,2021,Existing,All Buyer Types,385000.0
+K56,Rush,11,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,374000.0
+K56,Rush,11,2021,Existing,Household Buyer - Former Owner-Occupier,390500.0
+K56,Rush,11,2021,Existing,Household Buyer - Non-Occupier,
+K56,Rush,12,2021,All Dwelling Statuses,All Buyer Types,293071.0
+K56,Rush,12,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,312250.0
+K56,Rush,12,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,338500.0
+K56,Rush,12,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,250000.0
+K56,Rush,12,2021,New,All Buyer Types,
+K56,Rush,12,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,12,2021,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,12,2021,New,Household Buyer - Non-Occupier,
+K56,Rush,12,2021,Existing,All Buyer Types,293071.0
+K56,Rush,12,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,312250.0
+K56,Rush,12,2021,Existing,Household Buyer - Former Owner-Occupier,338500.0
+K56,Rush,12,2021,Existing,Household Buyer - Non-Occupier,250000.0
+K56,Rush,1,2022,All Dwelling Statuses,All Buyer Types,440389.0
+K56,Rush,1,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,294167.0
+K56,Rush,1,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,513500.0
+K56,Rush,1,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,1,2022,New,All Buyer Types,399501.0
+K56,Rush,1,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,399501.0
+K56,Rush,1,2022,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,1,2022,New,Household Buyer - Non-Occupier,
+K56,Rush,1,2022,Existing,All Buyer Types,445500.0
+K56,Rush,1,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,241500.0
+K56,Rush,1,2022,Existing,Household Buyer - Former Owner-Occupier,513500.0
+K56,Rush,1,2022,Existing,Household Buyer - Non-Occupier,
+K56,Rush,2,2022,All Dwelling Statuses,All Buyer Types,353889.0
+K56,Rush,2,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,365000.0
+K56,Rush,2,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,350714.0
+K56,Rush,2,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,2,2022,New,All Buyer Types,410000.0
+K56,Rush,2,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,410000.0
+K56,Rush,2,2022,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,2,2022,New,Household Buyer - Non-Occupier,
+K56,Rush,2,2022,Existing,All Buyer Types,346875.0
+K56,Rush,2,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,320000.0
+K56,Rush,2,2022,Existing,Household Buyer - Former Owner-Occupier,350714.0
+K56,Rush,2,2022,Existing,Household Buyer - Non-Occupier,
+K56,Rush,3,2022,All Dwelling Statuses,All Buyer Types,293200.0
+K56,Rush,3,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,400333.0
+K56,Rush,3,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,132500.0
+K56,Rush,3,2022,New,All Buyer Types,
+K56,Rush,3,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2022,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,3,2022,New,Household Buyer - Non-Occupier,
+K56,Rush,3,2022,Existing,All Buyer Types,293200.0
+K56,Rush,3,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,3,2022,Existing,Household Buyer - Former Owner-Occupier,400333.0
+K56,Rush,3,2022,Existing,Household Buyer - Non-Occupier,132500.0
+K56,Rush,4,2022,All Dwelling Statuses,All Buyer Types,328667.0
+K56,Rush,4,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,387000.0
+K56,Rush,4,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,313500.0
+K56,Rush,4,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,184000.0
+K56,Rush,4,2022,New,All Buyer Types,
+K56,Rush,4,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,4,2022,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,4,2022,New,Household Buyer - Non-Occupier,
+K56,Rush,4,2022,Existing,All Buyer Types,328667.0
+K56,Rush,4,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,387000.0
+K56,Rush,4,2022,Existing,Household Buyer - Former Owner-Occupier,313500.0
+K56,Rush,4,2022,Existing,Household Buyer - Non-Occupier,184000.0
+K56,Rush,5,2022,All Dwelling Statuses,All Buyer Types,373433.0
+K56,Rush,5,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,372389.0
+K56,Rush,5,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,375000.0
+K56,Rush,5,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,5,2022,New,All Buyer Types,375036.0
+K56,Rush,5,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,375059.0
+K56,Rush,5,2022,New,Household Buyer - Former Owner-Occupier,375000.0
+K56,Rush,5,2022,New,Household Buyer - Non-Occupier,
+K56,Rush,5,2022,Existing,All Buyer Types,355000.0
+K56,Rush,5,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,335000.0
+K56,Rush,5,2022,Existing,Household Buyer - Former Owner-Occupier,375000.0
+K56,Rush,5,2022,Existing,Household Buyer - Non-Occupier,
+K56,Rush,6,2022,All Dwelling Statuses,All Buyer Types,357018.0
+K56,Rush,6,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,392500.0
+K56,Rush,6,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,341731.0
+K56,Rush,6,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,297000.0
+K56,Rush,6,2022,New,All Buyer Types,362657.0
+K56,Rush,6,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,382500.0
+K56,Rush,6,2022,New,Household Buyer - Former Owner-Occupier,356043.0
+K56,Rush,6,2022,New,Household Buyer - Non-Occupier,
+K56,Rush,6,2022,Existing,All Buyer Types,352006.0
+K56,Rush,6,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,397500.0
+K56,Rush,6,2022,Existing,Household Buyer - Former Owner-Occupier,320264.0
+K56,Rush,6,2022,Existing,Household Buyer - Non-Occupier,297000.0
+K56,Rush,7,2022,All Dwelling Statuses,All Buyer Types,361387.0
+K56,Rush,7,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,372250.0
+K56,Rush,7,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,345816.0
+K56,Rush,7,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,390000.0
+K56,Rush,7,2022,New,All Buyer Types,388937.0
+K56,Rush,7,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,391715.0
+K56,Rush,7,2022,New,Household Buyer - Former Owner-Occupier,383229.0
+K56,Rush,7,2022,New,Household Buyer - Non-Occupier,390000.0
+K56,Rush,7,2022,Existing,All Buyer Types,285625.0
+K56,Rush,7,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,236000.0
+K56,Rush,7,2022,Existing,Household Buyer - Former Owner-Occupier,302167.0
+K56,Rush,7,2022,Existing,Household Buyer - Non-Occupier,
+K56,Rush,8,2022,All Dwelling Statuses,All Buyer Types,393720.0
+K56,Rush,8,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,360793.0
+K56,Rush,8,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,413476.0
+K56,Rush,8,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,8,2022,New,All Buyer Types,363593.0
+K56,Rush,8,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,360793.0
+K56,Rush,8,2022,New,Household Buyer - Former Owner-Occupier,366952.0
+K56,Rush,8,2022,New,Household Buyer - Non-Occupier,
+K56,Rush,8,2022,Existing,All Buyer Types,460000.0
+K56,Rush,8,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,8,2022,Existing,Household Buyer - Former Owner-Occupier,460000.0
+K56,Rush,8,2022,Existing,Household Buyer - Non-Occupier,
+K56,Rush,9,2022,All Dwelling Statuses,All Buyer Types,352623.0
+K56,Rush,9,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,364375.0
+K56,Rush,9,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,376071.0
+K56,Rush,9,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,270500.0
+K56,Rush,9,2022,New,All Buyer Types,408750.0
+K56,Rush,9,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,382500.0
+K56,Rush,9,2022,New,Household Buyer - Former Owner-Occupier,435000.0
+K56,Rush,9,2022,New,Household Buyer - Non-Occupier,
+K56,Rush,9,2022,Existing,All Buyer Types,340151.0
+K56,Rush,9,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,358333.0
+K56,Rush,9,2022,Existing,Household Buyer - Former Owner-Occupier,361339.0
+K56,Rush,9,2022,Existing,Household Buyer - Non-Occupier,270500.0
+K56,Rush,10,2022,All Dwelling Statuses,All Buyer Types,428625.0
+K56,Rush,10,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,351700.0
+K56,Rush,10,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,483572.0
+K56,Rush,10,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,10,2022,New,All Buyer Types,377500.0
+K56,Rush,10,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,385000.0
+K56,Rush,10,2022,New,Household Buyer - Former Owner-Occupier,370001.0
+K56,Rush,10,2022,New,Household Buyer - Non-Occupier,
+K56,Rush,10,2022,Existing,All Buyer Types,479750.0
+K56,Rush,10,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,301750.0
+K56,Rush,10,2022,Existing,Household Buyer - Former Owner-Occupier,568750.0
+K56,Rush,10,2022,Existing,Household Buyer - Non-Occupier,
+K56,Rush,11,2022,All Dwelling Statuses,All Buyer Types,419994.0
+K56,Rush,11,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,429535.0
+K56,Rush,11,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,413180.0
+K56,Rush,11,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,11,2022,New,All Buyer Types,402326.0
+K56,Rush,11,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,430669.0
+K56,Rush,11,2022,New,Household Buyer - Former Owner-Occupier,379652.0
+K56,Rush,11,2022,New,Household Buyer - Non-Occupier,
+K56,Rush,11,2022,Existing,All Buyer Types,473000.0
+K56,Rush,11,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,425000.0
+K56,Rush,11,2022,Existing,Household Buyer - Former Owner-Occupier,497000.0
+K56,Rush,11,2022,Existing,Household Buyer - Non-Occupier,
+K56,Rush,12,2022,All Dwelling Statuses,All Buyer Types,374500.0
+K56,Rush,12,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,420000.0
+K56,Rush,12,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,363125.0
+K56,Rush,12,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,12,2022,New,All Buyer Types,420001.0
+K56,Rush,12,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,12,2022,New,Household Buyer - Former Owner-Occupier,420001.0
+K56,Rush,12,2022,New,Household Buyer - Non-Occupier,
+K56,Rush,12,2022,Existing,All Buyer Types,344167.0
+K56,Rush,12,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,420000.0
+K56,Rush,12,2022,Existing,Household Buyer - Former Owner-Occupier,306250.0
+K56,Rush,12,2022,Existing,Household Buyer - Non-Occupier,
+K56,Rush,1,2023,All Dwelling Statuses,All Buyer Types,323812.0
+K56,Rush,1,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,265000.0
+K56,Rush,1,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,343417.0
+K56,Rush,1,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,265000.0
+K56,Rush,1,2023,New,All Buyer Types,265000.0
+K56,Rush,1,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,265000.0
+K56,Rush,1,2023,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,1,2023,New,Household Buyer - Non-Occupier,
+K56,Rush,1,2023,Existing,All Buyer Types,332214.0
+K56,Rush,1,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,1,2023,Existing,Household Buyer - Former Owner-Occupier,343417.0
+K56,Rush,1,2023,Existing,Household Buyer - Non-Occupier,265000.0
+K56,Rush,2,2023,All Dwelling Statuses,All Buyer Types,439191.0
+K56,Rush,2,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,371838.0
+K56,Rush,2,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,498125.0
+K56,Rush,2,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,2,2023,New,All Buyer Types,439789.0
+K56,Rush,2,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,427184.0
+K56,Rush,2,2023,New,Household Buyer - Former Owner-Occupier,464999.0
+K56,Rush,2,2023,New,Household Buyer - Non-Occupier,
+K56,Rush,2,2023,Existing,All Buyer Types,439042.0
+K56,Rush,2,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,349700.0
+K56,Rush,2,2023,Existing,Household Buyer - Former Owner-Occupier,502857.0
+K56,Rush,2,2023,Existing,Household Buyer - Non-Occupier,
+K56,Rush,3,2023,All Dwelling Statuses,All Buyer Types,389467.0
+K56,Rush,3,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,386999.0
+K56,Rush,3,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,421170.0
+K56,Rush,3,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,275000.0
+K56,Rush,3,2023,New,All Buyer Types,415434.0
+K56,Rush,3,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,412498.0
+K56,Rush,3,2023,New,Household Buyer - Former Owner-Occupier,427179.0
+K56,Rush,3,2023,New,Household Buyer - Non-Occupier,
+K56,Rush,3,2023,Existing,All Buyer Types,363500.0
+K56,Rush,3,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,285000.0
+K56,Rush,3,2023,Existing,Household Buyer - Former Owner-Occupier,419167.0
+K56,Rush,3,2023,Existing,Household Buyer - Non-Occupier,275000.0
+K56,Rush,4,2023,All Dwelling Statuses,All Buyer Types,419808.0
+K56,Rush,4,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,408643.0
+K56,Rush,4,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,432833.0
+K56,Rush,4,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,4,2023,New,All Buyer Types,412500.0
+K56,Rush,4,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,426875.0
+K56,Rush,4,2023,New,Household Buyer - Former Owner-Occupier,355000.0
+K56,Rush,4,2023,New,Household Buyer - Non-Occupier,
+K56,Rush,4,2023,Existing,All Buyer Types,424375.0
+K56,Rush,4,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,384333.0
+K56,Rush,4,2023,Existing,Household Buyer - Former Owner-Occupier,448400.0
+K56,Rush,4,2023,Existing,Household Buyer - Non-Occupier,
+K56,Rush,5,2023,All Dwelling Statuses,All Buyer Types,392883.0
+K56,Rush,5,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,448750.0
+K56,Rush,5,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,348190.0
+K56,Rush,5,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,5,2023,New,All Buyer Types,458738.0
+K56,Rush,5,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,445000.0
+K56,Rush,5,2023,New,Household Buyer - Former Owner-Occupier,499950.0
+K56,Rush,5,2023,New,Household Buyer - Non-Occupier,
+K56,Rush,5,2023,Existing,All Buyer Types,340200.0
+K56,Rush,5,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,460000.0
+K56,Rush,5,2023,Existing,Household Buyer - Former Owner-Occupier,310250.0
+K56,Rush,5,2023,Existing,Household Buyer - Non-Occupier,
+K56,Rush,6,2023,All Dwelling Statuses,All Buyer Types,424083.0
+K56,Rush,6,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,6,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,424083.0
+K56,Rush,6,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,6,2023,New,All Buyer Types,
+K56,Rush,6,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,6,2023,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,6,2023,New,Household Buyer - Non-Occupier,
+K56,Rush,6,2023,Existing,All Buyer Types,424083.0
+K56,Rush,6,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,6,2023,Existing,Household Buyer - Former Owner-Occupier,424083.0
+K56,Rush,6,2023,Existing,Household Buyer - Non-Occupier,
+K56,Rush,7,2023,All Dwelling Statuses,All Buyer Types,352154.0
+K56,Rush,7,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,380000.0
+K56,Rush,7,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,354100.0
+K56,Rush,7,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,277000.0
+K56,Rush,7,2023,New,All Buyer Types,
+K56,Rush,7,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,7,2023,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,7,2023,New,Household Buyer - Non-Occupier,
+K56,Rush,7,2023,Existing,All Buyer Types,352154.0
+K56,Rush,7,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,380000.0
+K56,Rush,7,2023,Existing,Household Buyer - Former Owner-Occupier,354100.0
+K56,Rush,7,2023,Existing,Household Buyer - Non-Occupier,277000.0
+K56,Rush,8,2023,All Dwelling Statuses,All Buyer Types,376429.0
+K56,Rush,8,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,313500.0
+K56,Rush,8,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,401600.0
+K56,Rush,8,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,8,2023,New,All Buyer Types,
+K56,Rush,8,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,8,2023,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,8,2023,New,Household Buyer - Non-Occupier,
+K56,Rush,8,2023,Existing,All Buyer Types,376429.0
+K56,Rush,8,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,313500.0
+K56,Rush,8,2023,Existing,Household Buyer - Former Owner-Occupier,401600.0
+K56,Rush,8,2023,Existing,Household Buyer - Non-Occupier,
+K56,Rush,9,2023,All Dwelling Statuses,All Buyer Types,416611.0
+K56,Rush,9,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,406190.0
+K56,Rush,9,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,423125.0
+K56,Rush,9,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,9,2023,New,All Buyer Types,506650.0
+K56,Rush,9,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,434975.0
+K56,Rush,9,2023,New,Household Buyer - Former Owner-Occupier,650000.0
+K56,Rush,9,2023,New,Household Buyer - Non-Occupier,
+K56,Rush,9,2023,Existing,All Buyer Types,389600.0
+K56,Rush,9,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,387000.0
+K56,Rush,9,2023,Existing,Household Buyer - Former Owner-Occupier,390714.0
+K56,Rush,9,2023,Existing,Household Buyer - Non-Occupier,
+K56,Rush,10,2023,All Dwelling Statuses,All Buyer Types,476776.0
+K56,Rush,10,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,459765.0
+K56,Rush,10,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,493787.0
+K56,Rush,10,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,10,2023,New,All Buyer Types,491271.0
+K56,Rush,10,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,480941.0
+K56,Rush,10,2023,New,Household Buyer - Former Owner-Occupier,511932.0
+K56,Rush,10,2023,New,Household Buyer - Non-Occupier,
+K56,Rush,10,2023,Existing,All Buyer Types,445714.0
+K56,Rush,10,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,248000.0
+K56,Rush,10,2023,Existing,Household Buyer - Former Owner-Occupier,478667.0
+K56,Rush,10,2023,Existing,Household Buyer - Non-Occupier,
+K56,Rush,11,2023,All Dwelling Statuses,All Buyer Types,405333.0
+K56,Rush,11,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,406600.0
+K56,Rush,11,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,403750.0
+K56,Rush,11,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,11,2023,New,All Buyer Types,439400.0
+K56,Rush,11,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,433001.0
+K56,Rush,11,2023,New,Household Buyer - Former Owner-Occupier,464999.0
+K56,Rush,11,2023,New,Household Buyer - Non-Occupier,
+K56,Rush,11,2023,Existing,All Buyer Types,362750.0
+K56,Rush,11,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,301000.0
+K56,Rush,11,2023,Existing,Household Buyer - Former Owner-Occupier,383333.0
+K56,Rush,11,2023,Existing,Household Buyer - Non-Occupier,
+K56,Rush,12,2023,All Dwelling Statuses,All Buyer Types,389687.0
+K56,Rush,12,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,12,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,389687.0
+K56,Rush,12,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,12,2023,New,All Buyer Types,509999.0
+K56,Rush,12,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,12,2023,New,Household Buyer - Former Owner-Occupier,509999.0
+K56,Rush,12,2023,New,Household Buyer - Non-Occupier,
+K56,Rush,12,2023,Existing,All Buyer Types,349583.0
+K56,Rush,12,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,12,2023,Existing,Household Buyer - Former Owner-Occupier,349583.0
+K56,Rush,12,2023,Existing,Household Buyer - Non-Occupier,
+K56,Rush,1,2024,All Dwelling Statuses,All Buyer Types,323000.0
+K56,Rush,1,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,415000.0
+K56,Rush,1,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,292333.0
+K56,Rush,1,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,1,2024,New,All Buyer Types,
+K56,Rush,1,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,1,2024,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,1,2024,New,Household Buyer - Non-Occupier,
+K56,Rush,1,2024,Existing,All Buyer Types,323000.0
+K56,Rush,1,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,415000.0
+K56,Rush,1,2024,Existing,Household Buyer - Former Owner-Occupier,292333.0
+K56,Rush,1,2024,Existing,Household Buyer - Non-Occupier,
+K56,Rush,2,2024,All Dwelling Statuses,All Buyer Types,355950.0
+K56,Rush,2,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,313333.0
+K56,Rush,2,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,385750.0
+K56,Rush,2,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,305000.0
+K56,Rush,2,2024,New,All Buyer Types,
+K56,Rush,2,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,2,2024,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,2,2024,New,Household Buyer - Non-Occupier,
+K56,Rush,2,2024,Existing,All Buyer Types,355950.0
+K56,Rush,2,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,313333.0
+K56,Rush,2,2024,Existing,Household Buyer - Former Owner-Occupier,385750.0
+K56,Rush,2,2024,Existing,Household Buyer - Non-Occupier,305000.0
+K56,Rush,3,2024,All Dwelling Statuses,All Buyer Types,468500.0
+K56,Rush,3,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,449500.0
+K56,Rush,3,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,485786.0
+K56,Rush,3,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,455500.0
+K56,Rush,3,2024,New,All Buyer Types,484444.0
+K56,Rush,3,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,468125.0
+K56,Rush,3,2024,New,Household Buyer - Former Owner-Occupier,497500.0
+K56,Rush,3,2024,New,Household Buyer - Non-Occupier,
+K56,Rush,3,2024,Existing,All Buyer Types,439800.0
+K56,Rush,3,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,375000.0
+K56,Rush,3,2024,Existing,Household Buyer - Former Owner-Occupier,456500.0
+K56,Rush,3,2024,Existing,Household Buyer - Non-Occupier,455500.0
+K56,Rush,4,2024,All Dwelling Statuses,All Buyer Types,364394.0
+K56,Rush,4,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,436452.0
+K56,Rush,4,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,184250.0
+K56,Rush,4,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,4,2024,New,All Buyer Types,446815.0
+K56,Rush,4,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,446815.0
+K56,Rush,4,2024,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,4,2024,New,Household Buyer - Non-Occupier,
+K56,Rush,4,2024,Existing,All Buyer Types,254500.0
+K56,Rush,4,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,395000.0
+K56,Rush,4,2024,Existing,Household Buyer - Former Owner-Occupier,184250.0
+K56,Rush,4,2024,Existing,Household Buyer - Non-Occupier,
+K56,Rush,5,2024,All Dwelling Statuses,All Buyer Types,390182.0
+K56,Rush,5,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,431500.0
+K56,Rush,5,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,381000.0
+K56,Rush,5,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,5,2024,New,All Buyer Types,
+K56,Rush,5,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+K56,Rush,5,2024,New,Household Buyer - Former Owner-Occupier,
+K56,Rush,5,2024,New,Household Buyer - Non-Occupier,
+K56,Rush,5,2024,Existing,All Buyer Types,390182.0
+K56,Rush,5,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,431500.0
+K56,Rush,5,2024,Existing,Household Buyer - Former Owner-Occupier,381000.0
+K56,Rush,5,2024,Existing,Household Buyer - Non-Occupier,
+K56,Rush,6,2024,All Dwelling Statuses,All Buyer Types,475950.0
+K56,Rush,6,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,425000.0
+K56,Rush,6,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,522786.0
+K56,Rush,6,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,250000.0
+K56,Rush,6,2024,New,All Buyer Types,452499.0
+K56,Rush,6,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,449999.0
+K56,Rush,6,2024,New,Household Buyer - Former Owner-Occupier,453333.0
+K56,Rush,6,2024,New,Household Buyer - Non-Occupier,
+K56,Rush,6,2024,Existing,All Buyer Types,491583.0
+K56,Rush,6,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,400000.0
+K56,Rush,6,2024,Existing,Household Buyer - Former Owner-Occupier,574875.0
+K56,Rush,6,2024,Existing,Household Buyer - Non-Occupier,250000.0
+K56,Rush,7,2024,All Dwelling Statuses,All Buyer Types,453470.0
+K56,Rush,7,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,473750.0
+K56,Rush,7,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,444457.0
+K56,Rush,7,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+K56,Rush,7,2024,New,All Buyer Types,501124.0
+K56,Rush,7,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,503333.0
+K56,Rush,7,2024,New,Household Buyer - Former Owner-Occupier,500019.0
+K56,Rush,7,2024,New,Household Buyer - Non-Occupier,
+K56,Rush,7,2024,Existing,All Buyer Types,346250.0
+K56,Rush,7,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,385000.0
+K56,Rush,7,2024,Existing,Household Buyer - Former Owner-Occupier,333333.0
+K56,Rush,7,2024,Existing,Household Buyer - Non-Occupier,

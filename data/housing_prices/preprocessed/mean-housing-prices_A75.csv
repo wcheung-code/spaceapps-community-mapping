@@ -1,0 +1,2101 @@
+Routing Key,City,Month,Year,Dwelling Status,Type of Buyer,VALUE
+A75,Castleblaney,1,2010,All Dwelling Statuses,All Buyer Types,203750.0
+A75,Castleblaney,1,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,203750.0
+A75,Castleblaney,1,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2010,New,All Buyer Types,182500.0
+A75,Castleblaney,1,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,182500.0
+A75,Castleblaney,1,2010,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2010,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2010,Existing,All Buyer Types,225000.0
+A75,Castleblaney,1,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,225000.0
+A75,Castleblaney,1,2010,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2010,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2010,All Dwelling Statuses,All Buyer Types,101817.0
+A75,Castleblaney,2,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115225.0
+A75,Castleblaney,2,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,75000.0
+A75,Castleblaney,2,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2010,New,All Buyer Types,192950.0
+A75,Castleblaney,2,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,192950.0
+A75,Castleblaney,2,2010,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,2,2010,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2010,Existing,All Buyer Types,56250.0
+A75,Castleblaney,2,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,37500.0
+A75,Castleblaney,2,2010,Existing,Household Buyer - Former Owner-Occupier,75000.0
+A75,Castleblaney,2,2010,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2010,All Dwelling Statuses,All Buyer Types,167500.0
+A75,Castleblaney,3,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,167500.0
+A75,Castleblaney,3,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,3,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2010,New,All Buyer Types,
+A75,Castleblaney,3,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,3,2010,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,3,2010,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2010,Existing,All Buyer Types,167500.0
+A75,Castleblaney,3,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,167500.0
+A75,Castleblaney,3,2010,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,3,2010,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2010,All Dwelling Statuses,All Buyer Types,125000.0
+A75,Castleblaney,4,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+A75,Castleblaney,4,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,4,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2010,New,All Buyer Types,
+A75,Castleblaney,4,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2010,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,4,2010,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2010,Existing,All Buyer Types,125000.0
+A75,Castleblaney,4,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+A75,Castleblaney,4,2010,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,4,2010,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2010,All Dwelling Statuses,All Buyer Types,155088.0
+A75,Castleblaney,5,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+A75,Castleblaney,5,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,230000.0
+A75,Castleblaney,5,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,125177.0
+A75,Castleblaney,5,2010,New,All Buyer Types,125177.0
+A75,Castleblaney,5,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,5,2010,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,5,2010,New,Household Buyer - Non-Occupier,125177.0
+A75,Castleblaney,5,2010,Existing,All Buyer Types,185000.0
+A75,Castleblaney,5,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+A75,Castleblaney,5,2010,Existing,Household Buyer - Former Owner-Occupier,230000.0
+A75,Castleblaney,5,2010,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2010,All Dwelling Statuses,All Buyer Types,150023.0
+A75,Castleblaney,6,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,155000.0
+A75,Castleblaney,6,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,151882.0
+A75,Castleblaney,6,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,145675.0
+A75,Castleblaney,6,2010,New,All Buyer Types,150028.0
+A75,Castleblaney,6,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,155000.0
+A75,Castleblaney,6,2010,New,Household Buyer - Former Owner-Occupier,151882.0
+A75,Castleblaney,6,2010,New,Household Buyer - Non-Occupier,141350.0
+A75,Castleblaney,6,2010,Existing,All Buyer Types,150000.0
+A75,Castleblaney,6,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,6,2010,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,6,2010,Existing,Household Buyer - Non-Occupier,150000.0
+A75,Castleblaney,7,2010,All Dwelling Statuses,All Buyer Types,100000.0
+A75,Castleblaney,7,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,65000.0
+A75,Castleblaney,7,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,135000.0
+A75,Castleblaney,7,2010,New,All Buyer Types,135000.0
+A75,Castleblaney,7,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,7,2010,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2010,New,Household Buyer - Non-Occupier,135000.0
+A75,Castleblaney,7,2010,Existing,All Buyer Types,65000.0
+A75,Castleblaney,7,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,65000.0
+A75,Castleblaney,7,2010,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2010,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2010,All Dwelling Statuses,All Buyer Types,141875.0
+A75,Castleblaney,8,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,141875.0
+A75,Castleblaney,8,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,8,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2010,New,All Buyer Types,141875.0
+A75,Castleblaney,8,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,141875.0
+A75,Castleblaney,8,2010,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,8,2010,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2010,Existing,All Buyer Types,
+A75,Castleblaney,8,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,8,2010,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,8,2010,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2010,All Dwelling Statuses,All Buyer Types,164788.0
+A75,Castleblaney,9,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,164575.0
+A75,Castleblaney,9,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,165000.0
+A75,Castleblaney,9,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2010,New,All Buyer Types,164575.0
+A75,Castleblaney,9,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,164575.0
+A75,Castleblaney,9,2010,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,9,2010,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2010,Existing,All Buyer Types,165000.0
+A75,Castleblaney,9,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,9,2010,Existing,Household Buyer - Former Owner-Occupier,165000.0
+A75,Castleblaney,9,2010,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2010,All Dwelling Statuses,All Buyer Types,242500.0
+A75,Castleblaney,10,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,242500.0
+A75,Castleblaney,10,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,10,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2010,New,All Buyer Types,
+A75,Castleblaney,10,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,10,2010,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,10,2010,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2010,Existing,All Buyer Types,242500.0
+A75,Castleblaney,10,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,242500.0
+A75,Castleblaney,10,2010,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,10,2010,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2010,All Dwelling Statuses,All Buyer Types,118538.0
+A75,Castleblaney,11,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,72500.0
+A75,Castleblaney,11,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,164575.0
+A75,Castleblaney,11,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2010,New,All Buyer Types,164575.0
+A75,Castleblaney,11,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,11,2010,New,Household Buyer - Former Owner-Occupier,164575.0
+A75,Castleblaney,11,2010,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2010,Existing,All Buyer Types,72500.0
+A75,Castleblaney,11,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,72500.0
+A75,Castleblaney,11,2010,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,11,2010,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,12,2010,All Dwelling Statuses,All Buyer Types,97869.0
+A75,Castleblaney,12,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,12,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,161738.0
+A75,Castleblaney,12,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,34000.0
+A75,Castleblaney,12,2010,New,All Buyer Types,161738.0
+A75,Castleblaney,12,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,12,2010,New,Household Buyer - Former Owner-Occupier,161738.0
+A75,Castleblaney,12,2010,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,12,2010,Existing,All Buyer Types,34000.0
+A75,Castleblaney,12,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,12,2010,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,12,2010,Existing,Household Buyer - Non-Occupier,34000.0
+A75,Castleblaney,1,2011,All Dwelling Statuses,All Buyer Types,
+A75,Castleblaney,1,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,1,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2011,New,All Buyer Types,
+A75,Castleblaney,1,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,1,2011,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2011,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2011,Existing,All Buyer Types,
+A75,Castleblaney,1,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,1,2011,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2011,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2011,All Dwelling Statuses,All Buyer Types,127333.0
+A75,Castleblaney,2,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,91999.0
+A75,Castleblaney,2,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,240000.0
+A75,Castleblaney,2,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,50000.0
+A75,Castleblaney,2,2011,New,All Buyer Types,91999.0
+A75,Castleblaney,2,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,91999.0
+A75,Castleblaney,2,2011,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,2,2011,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2011,Existing,All Buyer Types,145000.0
+A75,Castleblaney,2,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,2,2011,Existing,Household Buyer - Former Owner-Occupier,240000.0
+A75,Castleblaney,2,2011,Existing,Household Buyer - Non-Occupier,50000.0
+A75,Castleblaney,3,2011,All Dwelling Statuses,All Buyer Types,
+A75,Castleblaney,3,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,3,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,3,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2011,New,All Buyer Types,
+A75,Castleblaney,3,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,3,2011,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,3,2011,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2011,Existing,All Buyer Types,
+A75,Castleblaney,3,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,3,2011,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,3,2011,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2011,All Dwelling Statuses,All Buyer Types,124350.0
+A75,Castleblaney,4,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,124350.0
+A75,Castleblaney,4,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,4,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2011,New,All Buyer Types,124350.0
+A75,Castleblaney,4,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,124350.0
+A75,Castleblaney,4,2011,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,4,2011,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2011,Existing,All Buyer Types,
+A75,Castleblaney,4,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2011,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,4,2011,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2011,All Dwelling Statuses,All Buyer Types,85643.0
+A75,Castleblaney,5,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,111965.0
+A75,Castleblaney,5,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,33000.0
+A75,Castleblaney,5,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2011,New,All Buyer Types,133930.0
+A75,Castleblaney,5,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,133930.0
+A75,Castleblaney,5,2011,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,5,2011,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2011,Existing,All Buyer Types,61500.0
+A75,Castleblaney,5,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,90000.0
+A75,Castleblaney,5,2011,Existing,Household Buyer - Former Owner-Occupier,33000.0
+A75,Castleblaney,5,2011,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2011,All Dwelling Statuses,All Buyer Types,55000.0
+A75,Castleblaney,6,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,6,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,40000.0
+A75,Castleblaney,6,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,70000.0
+A75,Castleblaney,6,2011,New,All Buyer Types,
+A75,Castleblaney,6,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,6,2011,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,6,2011,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2011,Existing,All Buyer Types,55000.0
+A75,Castleblaney,6,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,6,2011,Existing,Household Buyer - Former Owner-Occupier,40000.0
+A75,Castleblaney,6,2011,Existing,Household Buyer - Non-Occupier,70000.0
+A75,Castleblaney,7,2011,All Dwelling Statuses,All Buyer Types,173001.0
+A75,Castleblaney,7,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,114001.0
+A75,Castleblaney,7,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,202501.0
+A75,Castleblaney,7,2011,New,All Buyer Types,174501.0
+A75,Castleblaney,7,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,114001.0
+A75,Castleblaney,7,2011,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2011,New,Household Buyer - Non-Occupier,235001.0
+A75,Castleblaney,7,2011,Existing,All Buyer Types,170000.0
+A75,Castleblaney,7,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,7,2011,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2011,Existing,Household Buyer - Non-Occupier,170000.0
+A75,Castleblaney,8,2011,All Dwelling Statuses,All Buyer Types,290000.0
+A75,Castleblaney,8,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,8,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,290000.0
+A75,Castleblaney,8,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2011,New,All Buyer Types,
+A75,Castleblaney,8,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,8,2011,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,8,2011,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2011,Existing,All Buyer Types,290000.0
+A75,Castleblaney,8,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,8,2011,Existing,Household Buyer - Former Owner-Occupier,290000.0
+A75,Castleblaney,8,2011,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2011,All Dwelling Statuses,All Buyer Types,
+A75,Castleblaney,9,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,9,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,9,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2011,New,All Buyer Types,
+A75,Castleblaney,9,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,9,2011,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,9,2011,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2011,Existing,All Buyer Types,
+A75,Castleblaney,9,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,9,2011,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,9,2011,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2011,All Dwelling Statuses,All Buyer Types,92500.0
+A75,Castleblaney,10,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,105000.0
+A75,Castleblaney,10,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,80000.0
+A75,Castleblaney,10,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2011,New,All Buyer Types,
+A75,Castleblaney,10,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,10,2011,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,10,2011,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2011,Existing,All Buyer Types,92500.0
+A75,Castleblaney,10,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,105000.0
+A75,Castleblaney,10,2011,Existing,Household Buyer - Former Owner-Occupier,80000.0
+A75,Castleblaney,10,2011,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2011,All Dwelling Statuses,All Buyer Types,130000.0
+A75,Castleblaney,11,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,11,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,130000.0
+A75,Castleblaney,11,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2011,New,All Buyer Types,
+A75,Castleblaney,11,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,11,2011,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,11,2011,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2011,Existing,All Buyer Types,130000.0
+A75,Castleblaney,11,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,11,2011,Existing,Household Buyer - Former Owner-Occupier,130000.0
+A75,Castleblaney,11,2011,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,12,2011,All Dwelling Statuses,All Buyer Types,144500.0
+A75,Castleblaney,12,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+A75,Castleblaney,12,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,149000.0
+A75,Castleblaney,12,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,12,2011,New,All Buyer Types,
+A75,Castleblaney,12,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,12,2011,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,12,2011,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,12,2011,Existing,All Buyer Types,144500.0
+A75,Castleblaney,12,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+A75,Castleblaney,12,2011,Existing,Household Buyer - Former Owner-Occupier,149000.0
+A75,Castleblaney,12,2011,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2012,All Dwelling Statuses,All Buyer Types,102300.0
+A75,Castleblaney,1,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,1,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,102300.0
+A75,Castleblaney,1,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2012,New,All Buyer Types,
+A75,Castleblaney,1,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,1,2012,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2012,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2012,Existing,All Buyer Types,102300.0
+A75,Castleblaney,1,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,1,2012,Existing,Household Buyer - Former Owner-Occupier,102300.0
+A75,Castleblaney,1,2012,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2012,All Dwelling Statuses,All Buyer Types,60000.0
+A75,Castleblaney,2,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,2,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,2,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,60000.0
+A75,Castleblaney,2,2012,New,All Buyer Types,
+A75,Castleblaney,2,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,2,2012,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,2,2012,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2012,Existing,All Buyer Types,60000.0
+A75,Castleblaney,2,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,2,2012,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,2,2012,Existing,Household Buyer - Non-Occupier,60000.0
+A75,Castleblaney,3,2012,All Dwelling Statuses,All Buyer Types,
+A75,Castleblaney,3,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,3,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,3,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2012,New,All Buyer Types,
+A75,Castleblaney,3,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,3,2012,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,3,2012,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2012,Existing,All Buyer Types,
+A75,Castleblaney,3,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,3,2012,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,3,2012,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2012,All Dwelling Statuses,All Buyer Types,
+A75,Castleblaney,4,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,4,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2012,New,All Buyer Types,
+A75,Castleblaney,4,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2012,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,4,2012,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2012,Existing,All Buyer Types,
+A75,Castleblaney,4,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2012,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,4,2012,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2012,All Dwelling Statuses,All Buyer Types,108092.0
+A75,Castleblaney,5,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,130167.0
+A75,Castleblaney,5,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,55250.0
+A75,Castleblaney,5,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,147550.0
+A75,Castleblaney,5,2012,New,All Buyer Types,147550.0
+A75,Castleblaney,5,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,5,2012,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,5,2012,New,Household Buyer - Non-Occupier,147550.0
+A75,Castleblaney,5,2012,Existing,All Buyer Types,100200.0
+A75,Castleblaney,5,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,130167.0
+A75,Castleblaney,5,2012,Existing,Household Buyer - Former Owner-Occupier,55250.0
+A75,Castleblaney,5,2012,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2012,All Dwelling Statuses,All Buyer Types,87500.0
+A75,Castleblaney,6,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+A75,Castleblaney,6,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,75000.0
+A75,Castleblaney,6,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2012,New,All Buyer Types,
+A75,Castleblaney,6,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,6,2012,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,6,2012,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2012,Existing,All Buyer Types,87500.0
+A75,Castleblaney,6,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+A75,Castleblaney,6,2012,Existing,Household Buyer - Former Owner-Occupier,75000.0
+A75,Castleblaney,6,2012,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,7,2012,All Dwelling Statuses,All Buyer Types,140000.0
+A75,Castleblaney,7,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+A75,Castleblaney,7,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,7,2012,New,All Buyer Types,
+A75,Castleblaney,7,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,7,2012,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2012,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,7,2012,Existing,All Buyer Types,140000.0
+A75,Castleblaney,7,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+A75,Castleblaney,7,2012,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2012,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2012,All Dwelling Statuses,All Buyer Types,52500.0
+A75,Castleblaney,8,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,8,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,70000.0
+A75,Castleblaney,8,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,35000.0
+A75,Castleblaney,8,2012,New,All Buyer Types,
+A75,Castleblaney,8,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,8,2012,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,8,2012,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2012,Existing,All Buyer Types,52500.0
+A75,Castleblaney,8,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,8,2012,Existing,Household Buyer - Former Owner-Occupier,70000.0
+A75,Castleblaney,8,2012,Existing,Household Buyer - Non-Occupier,35000.0
+A75,Castleblaney,9,2012,All Dwelling Statuses,All Buyer Types,162501.0
+A75,Castleblaney,9,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,9,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,162501.0
+A75,Castleblaney,9,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2012,New,All Buyer Types,110001.0
+A75,Castleblaney,9,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,9,2012,New,Household Buyer - Former Owner-Occupier,110001.0
+A75,Castleblaney,9,2012,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2012,Existing,All Buyer Types,215000.0
+A75,Castleblaney,9,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,9,2012,Existing,Household Buyer - Former Owner-Occupier,215000.0
+A75,Castleblaney,9,2012,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2012,All Dwelling Statuses,All Buyer Types,54000.0
+A75,Castleblaney,10,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,10,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,54000.0
+A75,Castleblaney,10,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2012,New,All Buyer Types,
+A75,Castleblaney,10,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,10,2012,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,10,2012,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2012,Existing,All Buyer Types,54000.0
+A75,Castleblaney,10,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,10,2012,Existing,Household Buyer - Former Owner-Occupier,54000.0
+A75,Castleblaney,10,2012,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2012,All Dwelling Statuses,All Buyer Types,194000.0
+A75,Castleblaney,11,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,194000.0
+A75,Castleblaney,11,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,11,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2012,New,All Buyer Types,
+A75,Castleblaney,11,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,11,2012,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,11,2012,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2012,Existing,All Buyer Types,194000.0
+A75,Castleblaney,11,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,194000.0
+A75,Castleblaney,11,2012,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,11,2012,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,12,2012,All Dwelling Statuses,All Buyer Types,330000.0
+A75,Castleblaney,12,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,12,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,330000.0
+A75,Castleblaney,12,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,12,2012,New,All Buyer Types,
+A75,Castleblaney,12,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,12,2012,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,12,2012,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,12,2012,Existing,All Buyer Types,330000.0
+A75,Castleblaney,12,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,12,2012,Existing,Household Buyer - Former Owner-Occupier,330000.0
+A75,Castleblaney,12,2012,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2013,All Dwelling Statuses,All Buyer Types,50000.0
+A75,Castleblaney,1,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,50000.0
+A75,Castleblaney,1,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2013,New,All Buyer Types,
+A75,Castleblaney,1,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,1,2013,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2013,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2013,Existing,All Buyer Types,50000.0
+A75,Castleblaney,1,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,50000.0
+A75,Castleblaney,1,2013,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2013,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2013,All Dwelling Statuses,All Buyer Types,
+A75,Castleblaney,2,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,2,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,2,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2013,New,All Buyer Types,
+A75,Castleblaney,2,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,2,2013,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,2,2013,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2013,Existing,All Buyer Types,
+A75,Castleblaney,2,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,2,2013,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,2,2013,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2013,All Dwelling Statuses,All Buyer Types,70140.0
+A75,Castleblaney,3,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,83560.0
+A75,Castleblaney,3,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,144000.0
+A75,Castleblaney,3,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,50000.0
+A75,Castleblaney,3,2013,New,All Buyer Types,127120.0
+A75,Castleblaney,3,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,127120.0
+A75,Castleblaney,3,2013,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,3,2013,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2013,Existing,All Buyer Types,62000.0
+A75,Castleblaney,3,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,40000.0
+A75,Castleblaney,3,2013,Existing,Household Buyer - Former Owner-Occupier,144000.0
+A75,Castleblaney,3,2013,Existing,Household Buyer - Non-Occupier,50000.0
+A75,Castleblaney,4,2013,All Dwelling Statuses,All Buyer Types,108375.0
+A75,Castleblaney,4,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,70000.0
+A75,Castleblaney,4,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,146750.0
+A75,Castleblaney,4,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2013,New,All Buyer Types,146750.0
+A75,Castleblaney,4,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2013,New,Household Buyer - Former Owner-Occupier,146750.0
+A75,Castleblaney,4,2013,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2013,Existing,All Buyer Types,70000.0
+A75,Castleblaney,4,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,70000.0
+A75,Castleblaney,4,2013,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,4,2013,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2013,All Dwelling Statuses,All Buyer Types,36000.0
+A75,Castleblaney,5,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,36000.0
+A75,Castleblaney,5,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,5,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2013,New,All Buyer Types,
+A75,Castleblaney,5,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,5,2013,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,5,2013,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2013,Existing,All Buyer Types,36000.0
+A75,Castleblaney,5,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,36000.0
+A75,Castleblaney,5,2013,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,5,2013,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2013,All Dwelling Statuses,All Buyer Types,96500.0
+A75,Castleblaney,6,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,6,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,96500.0
+A75,Castleblaney,6,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2013,New,All Buyer Types,95000.0
+A75,Castleblaney,6,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,6,2013,New,Household Buyer - Former Owner-Occupier,95000.0
+A75,Castleblaney,6,2013,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2013,Existing,All Buyer Types,98000.0
+A75,Castleblaney,6,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,6,2013,Existing,Household Buyer - Former Owner-Occupier,98000.0
+A75,Castleblaney,6,2013,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,7,2013,All Dwelling Statuses,All Buyer Types,56775.0
+A75,Castleblaney,7,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,32500.0
+A75,Castleblaney,7,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,64867.0
+A75,Castleblaney,7,2013,New,All Buyer Types,
+A75,Castleblaney,7,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,7,2013,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2013,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,7,2013,Existing,All Buyer Types,56775.0
+A75,Castleblaney,7,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,32500.0
+A75,Castleblaney,7,2013,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2013,Existing,Household Buyer - Non-Occupier,64867.0
+A75,Castleblaney,8,2013,All Dwelling Statuses,All Buyer Types,106256.0
+A75,Castleblaney,8,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+A75,Castleblaney,8,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,8,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,92511.0
+A75,Castleblaney,8,2013,New,All Buyer Types,
+A75,Castleblaney,8,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,8,2013,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,8,2013,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2013,Existing,All Buyer Types,106256.0
+A75,Castleblaney,8,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+A75,Castleblaney,8,2013,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,8,2013,Existing,Household Buyer - Non-Occupier,92511.0
+A75,Castleblaney,9,2013,All Dwelling Statuses,All Buyer Types,125000.0
+A75,Castleblaney,9,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+A75,Castleblaney,9,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,9,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2013,New,All Buyer Types,125000.0
+A75,Castleblaney,9,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+A75,Castleblaney,9,2013,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,9,2013,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2013,Existing,All Buyer Types,
+A75,Castleblaney,9,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,9,2013,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,9,2013,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2013,All Dwelling Statuses,All Buyer Types,122627.0
+A75,Castleblaney,10,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,10,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,122627.0
+A75,Castleblaney,10,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2013,New,All Buyer Types,139068.0
+A75,Castleblaney,10,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,10,2013,New,Household Buyer - Former Owner-Occupier,139068.0
+A75,Castleblaney,10,2013,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2013,Existing,All Buyer Types,111667.0
+A75,Castleblaney,10,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,10,2013,Existing,Household Buyer - Former Owner-Occupier,111667.0
+A75,Castleblaney,10,2013,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2013,All Dwelling Statuses,All Buyer Types,49757.0
+A75,Castleblaney,11,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,49194.0
+A75,Castleblaney,11,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,56950.0
+A75,Castleblaney,11,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,46088.0
+A75,Castleblaney,11,2013,New,All Buyer Types,48738.0
+A75,Castleblaney,11,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,49194.0
+A75,Castleblaney,11,2013,New,Household Buyer - Former Owner-Occupier,56950.0
+A75,Castleblaney,11,2013,New,Household Buyer - Non-Occupier,39158.0
+A75,Castleblaney,11,2013,Existing,All Buyer Types,59950.0
+A75,Castleblaney,11,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,11,2013,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,11,2013,Existing,Household Buyer - Non-Occupier,59950.0
+A75,Castleblaney,12,2013,All Dwelling Statuses,All Buyer Types,76751.0
+A75,Castleblaney,12,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,109833.0
+A75,Castleblaney,12,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,85338.0
+A75,Castleblaney,12,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,45500.0
+A75,Castleblaney,12,2013,New,All Buyer Types,112500.0
+A75,Castleblaney,12,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,124999.0
+A75,Castleblaney,12,2013,New,Household Buyer - Former Owner-Occupier,100000.0
+A75,Castleblaney,12,2013,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,12,2013,Existing,All Buyer Types,67814.0
+A75,Castleblaney,12,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,102250.0
+A75,Castleblaney,12,2013,Existing,Household Buyer - Former Owner-Occupier,78006.0
+A75,Castleblaney,12,2013,Existing,Household Buyer - Non-Occupier,45500.0
+A75,Castleblaney,1,2014,All Dwelling Statuses,All Buyer Types,262000.0
+A75,Castleblaney,1,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,1,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,262000.0
+A75,Castleblaney,1,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2014,New,All Buyer Types,
+A75,Castleblaney,1,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,1,2014,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2014,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2014,Existing,All Buyer Types,262000.0
+A75,Castleblaney,1,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,1,2014,Existing,Household Buyer - Former Owner-Occupier,262000.0
+A75,Castleblaney,1,2014,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2014,All Dwelling Statuses,All Buyer Types,114963.0
+A75,Castleblaney,2,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,145000.0
+A75,Castleblaney,2,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,84925.0
+A75,Castleblaney,2,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2014,New,All Buyer Types,84925.0
+A75,Castleblaney,2,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,2,2014,New,Household Buyer - Former Owner-Occupier,84925.0
+A75,Castleblaney,2,2014,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2014,Existing,All Buyer Types,145000.0
+A75,Castleblaney,2,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,145000.0
+A75,Castleblaney,2,2014,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,2,2014,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2014,All Dwelling Statuses,All Buyer Types,109007.0
+A75,Castleblaney,3,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,63000.0
+A75,Castleblaney,3,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,155018.0
+A75,Castleblaney,3,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,86000.0
+A75,Castleblaney,3,2014,New,All Buyer Types,160035.0
+A75,Castleblaney,3,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,3,2014,New,Household Buyer - Former Owner-Occupier,160035.0
+A75,Castleblaney,3,2014,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2014,Existing,All Buyer Types,96250.0
+A75,Castleblaney,3,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,63000.0
+A75,Castleblaney,3,2014,Existing,Household Buyer - Former Owner-Occupier,150000.0
+A75,Castleblaney,3,2014,Existing,Household Buyer - Non-Occupier,86000.0
+A75,Castleblaney,4,2014,All Dwelling Statuses,All Buyer Types,34125.0
+A75,Castleblaney,4,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,4,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,34125.0
+A75,Castleblaney,4,2014,New,All Buyer Types,
+A75,Castleblaney,4,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2014,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,4,2014,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2014,Existing,All Buyer Types,34125.0
+A75,Castleblaney,4,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2014,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,4,2014,Existing,Household Buyer - Non-Occupier,34125.0
+A75,Castleblaney,5,2014,All Dwelling Statuses,All Buyer Types,186250.0
+A75,Castleblaney,5,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+A75,Castleblaney,5,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,247500.0
+A75,Castleblaney,5,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2014,New,All Buyer Types,125000.0
+A75,Castleblaney,5,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+A75,Castleblaney,5,2014,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,5,2014,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2014,Existing,All Buyer Types,247500.0
+A75,Castleblaney,5,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,5,2014,Existing,Household Buyer - Former Owner-Occupier,247500.0
+A75,Castleblaney,5,2014,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2014,All Dwelling Statuses,All Buyer Types,75013.0
+A75,Castleblaney,6,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,96688.0
+A75,Castleblaney,6,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,6,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,42500.0
+A75,Castleblaney,6,2014,New,All Buyer Types,156063.0
+A75,Castleblaney,6,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,156063.0
+A75,Castleblaney,6,2014,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,6,2014,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2014,Existing,All Buyer Types,54750.0
+A75,Castleblaney,6,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,67000.0
+A75,Castleblaney,6,2014,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,6,2014,Existing,Household Buyer - Non-Occupier,42500.0
+A75,Castleblaney,7,2014,All Dwelling Statuses,All Buyer Types,82100.0
+A75,Castleblaney,7,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,93500.0
+A75,Castleblaney,7,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,88250.0
+A75,Castleblaney,7,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,47000.0
+A75,Castleblaney,7,2014,New,All Buyer Types,
+A75,Castleblaney,7,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,7,2014,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2014,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,7,2014,Existing,All Buyer Types,82100.0
+A75,Castleblaney,7,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,93500.0
+A75,Castleblaney,7,2014,Existing,Household Buyer - Former Owner-Occupier,88250.0
+A75,Castleblaney,7,2014,Existing,Household Buyer - Non-Occupier,47000.0
+A75,Castleblaney,8,2014,All Dwelling Statuses,All Buyer Types,107429.0
+A75,Castleblaney,8,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,166000.0
+A75,Castleblaney,8,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,105000.0
+A75,Castleblaney,8,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,52500.0
+A75,Castleblaney,8,2014,New,All Buyer Types,
+A75,Castleblaney,8,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,8,2014,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,8,2014,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2014,Existing,All Buyer Types,107429.0
+A75,Castleblaney,8,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,166000.0
+A75,Castleblaney,8,2014,Existing,Household Buyer - Former Owner-Occupier,105000.0
+A75,Castleblaney,8,2014,Existing,Household Buyer - Non-Occupier,52500.0
+A75,Castleblaney,9,2014,All Dwelling Statuses,All Buyer Types,130000.0
+A75,Castleblaney,9,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+A75,Castleblaney,9,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,137500.0
+A75,Castleblaney,9,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2014,New,All Buyer Types,85000.0
+A75,Castleblaney,9,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,9,2014,New,Household Buyer - Former Owner-Occupier,85000.0
+A75,Castleblaney,9,2014,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2014,Existing,All Buyer Types,152500.0
+A75,Castleblaney,9,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+A75,Castleblaney,9,2014,Existing,Household Buyer - Former Owner-Occupier,190000.0
+A75,Castleblaney,9,2014,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2014,All Dwelling Statuses,All Buyer Types,95863.0
+A75,Castleblaney,10,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,119633.0
+A75,Castleblaney,10,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,104200.0
+A75,Castleblaney,10,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,51250.0
+A75,Castleblaney,10,2014,New,All Buyer Types,119633.0
+A75,Castleblaney,10,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,119633.0
+A75,Castleblaney,10,2014,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,10,2014,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2014,Existing,All Buyer Types,89071.0
+A75,Castleblaney,10,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,10,2014,Existing,Household Buyer - Former Owner-Occupier,104200.0
+A75,Castleblaney,10,2014,Existing,Household Buyer - Non-Occupier,51250.0
+A75,Castleblaney,11,2014,All Dwelling Statuses,All Buyer Types,80809.0
+A75,Castleblaney,11,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,99333.0
+A75,Castleblaney,11,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,53023.0
+A75,Castleblaney,11,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2014,New,All Buyer Types,76045.0
+A75,Castleblaney,11,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,11,2014,New,Household Buyer - Former Owner-Occupier,76045.0
+A75,Castleblaney,11,2014,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2014,Existing,All Buyer Types,82000.0
+A75,Castleblaney,11,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,99333.0
+A75,Castleblaney,11,2014,Existing,Household Buyer - Former Owner-Occupier,30000.0
+A75,Castleblaney,11,2014,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,12,2014,All Dwelling Statuses,All Buyer Types,120500.0
+A75,Castleblaney,12,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,81250.0
+A75,Castleblaney,12,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,177500.0
+A75,Castleblaney,12,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,85000.0
+A75,Castleblaney,12,2014,New,All Buyer Types,
+A75,Castleblaney,12,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,12,2014,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,12,2014,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,12,2014,Existing,All Buyer Types,120500.0
+A75,Castleblaney,12,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,81250.0
+A75,Castleblaney,12,2014,Existing,Household Buyer - Former Owner-Occupier,177500.0
+A75,Castleblaney,12,2014,Existing,Household Buyer - Non-Occupier,85000.0
+A75,Castleblaney,1,2015,All Dwelling Statuses,All Buyer Types,96333.0
+A75,Castleblaney,1,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,74000.0
+A75,Castleblaney,1,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,107500.0
+A75,Castleblaney,1,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2015,New,All Buyer Types,
+A75,Castleblaney,1,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,1,2015,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2015,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2015,Existing,All Buyer Types,96333.0
+A75,Castleblaney,1,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,74000.0
+A75,Castleblaney,1,2015,Existing,Household Buyer - Former Owner-Occupier,107500.0
+A75,Castleblaney,1,2015,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2015,All Dwelling Statuses,All Buyer Types,100500.0
+A75,Castleblaney,2,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,2,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,175000.0
+A75,Castleblaney,2,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,26000.0
+A75,Castleblaney,2,2015,New,All Buyer Types,
+A75,Castleblaney,2,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,2,2015,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,2,2015,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2015,Existing,All Buyer Types,100500.0
+A75,Castleblaney,2,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,2,2015,Existing,Household Buyer - Former Owner-Occupier,175000.0
+A75,Castleblaney,2,2015,Existing,Household Buyer - Non-Occupier,26000.0
+A75,Castleblaney,3,2015,All Dwelling Statuses,All Buyer Types,81583.0
+A75,Castleblaney,3,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,101000.0
+A75,Castleblaney,3,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,67167.0
+A75,Castleblaney,3,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,86000.0
+A75,Castleblaney,3,2015,New,All Buyer Types,81750.0
+A75,Castleblaney,3,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,3,2015,New,Household Buyer - Former Owner-Occupier,81750.0
+A75,Castleblaney,3,2015,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2015,Existing,All Buyer Types,81500.0
+A75,Castleblaney,3,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,101000.0
+A75,Castleblaney,3,2015,Existing,Household Buyer - Former Owner-Occupier,38000.0
+A75,Castleblaney,3,2015,Existing,Household Buyer - Non-Occupier,86000.0
+A75,Castleblaney,4,2015,All Dwelling Statuses,All Buyer Types,131458.0
+A75,Castleblaney,4,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,121750.0
+A75,Castleblaney,4,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,145500.0
+A75,Castleblaney,4,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,85000.0
+A75,Castleblaney,4,2015,New,All Buyer Types,121750.0
+A75,Castleblaney,4,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,121750.0
+A75,Castleblaney,4,2015,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,4,2015,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2015,Existing,All Buyer Types,133400.0
+A75,Castleblaney,4,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2015,Existing,Household Buyer - Former Owner-Occupier,145500.0
+A75,Castleblaney,4,2015,Existing,Household Buyer - Non-Occupier,85000.0
+A75,Castleblaney,5,2015,All Dwelling Statuses,All Buyer Types,114969.0
+A75,Castleblaney,5,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,129998.0
+A75,Castleblaney,5,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,115600.0
+A75,Castleblaney,5,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,105875.0
+A75,Castleblaney,5,2015,New,All Buyer Types,125874.0
+A75,Castleblaney,5,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,129998.0
+A75,Castleblaney,5,2015,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,5,2015,New,Household Buyer - Non-Occupier,121750.0
+A75,Castleblaney,5,2015,Existing,All Buyer Types,111333.0
+A75,Castleblaney,5,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,5,2015,Existing,Household Buyer - Former Owner-Occupier,115600.0
+A75,Castleblaney,5,2015,Existing,Household Buyer - Non-Occupier,90000.0
+A75,Castleblaney,6,2015,All Dwelling Statuses,All Buyer Types,122880.0
+A75,Castleblaney,6,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,106450.0
+A75,Castleblaney,6,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,141250.0
+A75,Castleblaney,6,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,119000.0
+A75,Castleblaney,6,2015,New,All Buyer Types,90800.0
+A75,Castleblaney,6,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,90800.0
+A75,Castleblaney,6,2015,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,6,2015,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2015,Existing,All Buyer Types,126444.0
+A75,Castleblaney,6,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,111667.0
+A75,Castleblaney,6,2015,Existing,Household Buyer - Former Owner-Occupier,141250.0
+A75,Castleblaney,6,2015,Existing,Household Buyer - Non-Occupier,119000.0
+A75,Castleblaney,7,2015,All Dwelling Statuses,All Buyer Types,91000.0
+A75,Castleblaney,7,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,75000.0
+A75,Castleblaney,7,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,150000.0
+A75,Castleblaney,7,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,48000.0
+A75,Castleblaney,7,2015,New,All Buyer Types,
+A75,Castleblaney,7,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,7,2015,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2015,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,7,2015,Existing,All Buyer Types,91000.0
+A75,Castleblaney,7,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,75000.0
+A75,Castleblaney,7,2015,Existing,Household Buyer - Former Owner-Occupier,150000.0
+A75,Castleblaney,7,2015,Existing,Household Buyer - Non-Occupier,48000.0
+A75,Castleblaney,8,2015,All Dwelling Statuses,All Buyer Types,112156.0
+A75,Castleblaney,8,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,80250.0
+A75,Castleblaney,8,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,167640.0
+A75,Castleblaney,8,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,65000.0
+A75,Castleblaney,8,2015,New,All Buyer Types,107640.0
+A75,Castleblaney,8,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,107000.0
+A75,Castleblaney,8,2015,New,Household Buyer - Former Owner-Occupier,108279.0
+A75,Castleblaney,8,2015,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2015,Existing,All Buyer Types,115167.0
+A75,Castleblaney,8,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,53500.0
+A75,Castleblaney,8,2015,Existing,Household Buyer - Former Owner-Occupier,227000.0
+A75,Castleblaney,8,2015,Existing,Household Buyer - Non-Occupier,65000.0
+A75,Castleblaney,9,2015,All Dwelling Statuses,All Buyer Types,131326.0
+A75,Castleblaney,9,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,86260.0
+A75,Castleblaney,9,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,179750.0
+A75,Castleblaney,9,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,81782.0
+A75,Castleblaney,9,2015,New,All Buyer Types,88202.0
+A75,Castleblaney,9,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,86260.0
+A75,Castleblaney,9,2015,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,9,2015,New,Household Buyer - Non-Occupier,89173.0
+A75,Castleblaney,9,2015,Existing,All Buyer Types,157200.0
+A75,Castleblaney,9,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,9,2015,Existing,Household Buyer - Former Owner-Occupier,179750.0
+A75,Castleblaney,9,2015,Existing,Household Buyer - Non-Occupier,67000.0
+A75,Castleblaney,10,2015,All Dwelling Statuses,All Buyer Types,95600.0
+A75,Castleblaney,10,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,62000.0
+A75,Castleblaney,10,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,113333.0
+A75,Castleblaney,10,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,76000.0
+A75,Castleblaney,10,2015,New,All Buyer Types,
+A75,Castleblaney,10,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,10,2015,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,10,2015,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2015,Existing,All Buyer Types,95600.0
+A75,Castleblaney,10,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,62000.0
+A75,Castleblaney,10,2015,Existing,Household Buyer - Former Owner-Occupier,113333.0
+A75,Castleblaney,10,2015,Existing,Household Buyer - Non-Occupier,76000.0
+A75,Castleblaney,11,2015,All Dwelling Statuses,All Buyer Types,134400.0
+A75,Castleblaney,11,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,193750.0
+A75,Castleblaney,11,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,160000.0
+A75,Castleblaney,11,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,62250.0
+A75,Castleblaney,11,2015,New,All Buyer Types,
+A75,Castleblaney,11,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,11,2015,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,11,2015,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2015,Existing,All Buyer Types,134400.0
+A75,Castleblaney,11,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,193750.0
+A75,Castleblaney,11,2015,Existing,Household Buyer - Former Owner-Occupier,160000.0
+A75,Castleblaney,11,2015,Existing,Household Buyer - Non-Occupier,62250.0
+A75,Castleblaney,12,2015,All Dwelling Statuses,All Buyer Types,80569.0
+A75,Castleblaney,12,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,62500.0
+A75,Castleblaney,12,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,117864.0
+A75,Castleblaney,12,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,33661.0
+A75,Castleblaney,12,2015,New,All Buyer Types,32915.0
+A75,Castleblaney,12,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,12,2015,New,Household Buyer - Former Owner-Occupier,35185.0
+A75,Castleblaney,12,2015,New,Household Buyer - Non-Occupier,30645.0
+A75,Castleblaney,12,2015,Existing,All Buyer Types,90100.0
+A75,Castleblaney,12,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,62500.0
+A75,Castleblaney,12,2015,Existing,Household Buyer - Former Owner-Occupier,134400.0
+A75,Castleblaney,12,2015,Existing,Household Buyer - Non-Occupier,34667.0
+A75,Castleblaney,1,2016,All Dwelling Statuses,All Buyer Types,118000.0
+A75,Castleblaney,1,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,1,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,149000.0
+A75,Castleblaney,1,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,25000.0
+A75,Castleblaney,1,2016,New,All Buyer Types,
+A75,Castleblaney,1,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,1,2016,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2016,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2016,Existing,All Buyer Types,118000.0
+A75,Castleblaney,1,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,1,2016,Existing,Household Buyer - Former Owner-Occupier,149000.0
+A75,Castleblaney,1,2016,Existing,Household Buyer - Non-Occupier,25000.0
+A75,Castleblaney,2,2016,All Dwelling Statuses,All Buyer Types,87700.0
+A75,Castleblaney,2,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,137250.0
+A75,Castleblaney,2,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,34000.0
+A75,Castleblaney,2,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,65000.0
+A75,Castleblaney,2,2016,New,All Buyer Types,
+A75,Castleblaney,2,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,2,2016,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,2,2016,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2016,Existing,All Buyer Types,87700.0
+A75,Castleblaney,2,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,137250.0
+A75,Castleblaney,2,2016,Existing,Household Buyer - Former Owner-Occupier,34000.0
+A75,Castleblaney,2,2016,Existing,Household Buyer - Non-Occupier,65000.0
+A75,Castleblaney,3,2016,All Dwelling Statuses,All Buyer Types,100429.0
+A75,Castleblaney,3,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+A75,Castleblaney,3,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,77000.0
+A75,Castleblaney,3,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,115667.0
+A75,Castleblaney,3,2016,New,All Buyer Types,
+A75,Castleblaney,3,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,3,2016,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,3,2016,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2016,Existing,All Buyer Types,100429.0
+A75,Castleblaney,3,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+A75,Castleblaney,3,2016,Existing,Household Buyer - Former Owner-Occupier,77000.0
+A75,Castleblaney,3,2016,Existing,Household Buyer - Non-Occupier,115667.0
+A75,Castleblaney,4,2016,All Dwelling Statuses,All Buyer Types,110857.0
+A75,Castleblaney,4,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,142400.0
+A75,Castleblaney,4,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,32000.0
+A75,Castleblaney,4,2016,New,All Buyer Types,
+A75,Castleblaney,4,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2016,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,4,2016,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2016,Existing,All Buyer Types,110857.0
+A75,Castleblaney,4,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2016,Existing,Household Buyer - Former Owner-Occupier,142400.0
+A75,Castleblaney,4,2016,Existing,Household Buyer - Non-Occupier,32000.0
+A75,Castleblaney,5,2016,All Dwelling Statuses,All Buyer Types,120800.0
+A75,Castleblaney,5,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,60000.0
+A75,Castleblaney,5,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,179000.0
+A75,Castleblaney,5,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,121667.0
+A75,Castleblaney,5,2016,New,All Buyer Types,
+A75,Castleblaney,5,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,5,2016,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,5,2016,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2016,Existing,All Buyer Types,120800.0
+A75,Castleblaney,5,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,60000.0
+A75,Castleblaney,5,2016,Existing,Household Buyer - Former Owner-Occupier,179000.0
+A75,Castleblaney,5,2016,Existing,Household Buyer - Non-Occupier,121667.0
+A75,Castleblaney,6,2016,All Dwelling Statuses,All Buyer Types,148438.0
+A75,Castleblaney,6,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,260000.0
+A75,Castleblaney,6,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,139500.0
+A75,Castleblaney,6,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,115000.0
+A75,Castleblaney,6,2016,New,All Buyer Types,
+A75,Castleblaney,6,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,6,2016,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,6,2016,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2016,Existing,All Buyer Types,148438.0
+A75,Castleblaney,6,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,260000.0
+A75,Castleblaney,6,2016,Existing,Household Buyer - Former Owner-Occupier,139500.0
+A75,Castleblaney,6,2016,Existing,Household Buyer - Non-Occupier,115000.0
+A75,Castleblaney,7,2016,All Dwelling Statuses,All Buyer Types,95000.0
+A75,Castleblaney,7,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,7,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,95000.0
+A75,Castleblaney,7,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,7,2016,New,All Buyer Types,
+A75,Castleblaney,7,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,7,2016,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2016,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,7,2016,Existing,All Buyer Types,95000.0
+A75,Castleblaney,7,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,7,2016,Existing,Household Buyer - Former Owner-Occupier,95000.0
+A75,Castleblaney,7,2016,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2016,All Dwelling Statuses,All Buyer Types,51667.0
+A75,Castleblaney,8,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,8,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,95000.0
+A75,Castleblaney,8,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,30000.0
+A75,Castleblaney,8,2016,New,All Buyer Types,
+A75,Castleblaney,8,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,8,2016,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,8,2016,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2016,Existing,All Buyer Types,51667.0
+A75,Castleblaney,8,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,8,2016,Existing,Household Buyer - Former Owner-Occupier,95000.0
+A75,Castleblaney,8,2016,Existing,Household Buyer - Non-Occupier,30000.0
+A75,Castleblaney,9,2016,All Dwelling Statuses,All Buyer Types,131667.0
+A75,Castleblaney,9,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,96000.0
+A75,Castleblaney,9,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,158000.0
+A75,Castleblaney,9,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,146667.0
+A75,Castleblaney,9,2016,New,All Buyer Types,
+A75,Castleblaney,9,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,9,2016,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,9,2016,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2016,Existing,All Buyer Types,131667.0
+A75,Castleblaney,9,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,96000.0
+A75,Castleblaney,9,2016,Existing,Household Buyer - Former Owner-Occupier,158000.0
+A75,Castleblaney,9,2016,Existing,Household Buyer - Non-Occupier,146667.0
+A75,Castleblaney,10,2016,All Dwelling Statuses,All Buyer Types,251000.0
+A75,Castleblaney,10,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,240000.0
+A75,Castleblaney,10,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,262000.0
+A75,Castleblaney,10,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2016,New,All Buyer Types,240000.0
+A75,Castleblaney,10,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,240000.0
+A75,Castleblaney,10,2016,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,10,2016,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2016,Existing,All Buyer Types,262000.0
+A75,Castleblaney,10,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,10,2016,Existing,Household Buyer - Former Owner-Occupier,262000.0
+A75,Castleblaney,10,2016,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2016,All Dwelling Statuses,All Buyer Types,150640.0
+A75,Castleblaney,11,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,265600.0
+A75,Castleblaney,11,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,95000.0
+A75,Castleblaney,11,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,32000.0
+A75,Castleblaney,11,2016,New,All Buyer Types,363200.0
+A75,Castleblaney,11,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,363200.0
+A75,Castleblaney,11,2016,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,11,2016,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2016,Existing,All Buyer Types,97500.0
+A75,Castleblaney,11,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,168000.0
+A75,Castleblaney,11,2016,Existing,Household Buyer - Former Owner-Occupier,95000.0
+A75,Castleblaney,11,2016,Existing,Household Buyer - Non-Occupier,32000.0
+A75,Castleblaney,12,2016,All Dwelling Statuses,All Buyer Types,146583.0
+A75,Castleblaney,12,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,158900.0
+A75,Castleblaney,12,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,12,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,85000.0
+A75,Castleblaney,12,2016,New,All Buyer Types,
+A75,Castleblaney,12,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,12,2016,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,12,2016,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,12,2016,Existing,All Buyer Types,146583.0
+A75,Castleblaney,12,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,158900.0
+A75,Castleblaney,12,2016,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,12,2016,Existing,Household Buyer - Non-Occupier,85000.0
+A75,Castleblaney,1,2017,All Dwelling Statuses,All Buyer Types,129900.0
+A75,Castleblaney,1,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,207500.0
+A75,Castleblaney,1,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,67500.0
+A75,Castleblaney,1,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,83500.0
+A75,Castleblaney,1,2017,New,All Buyer Types,
+A75,Castleblaney,1,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,1,2017,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2017,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2017,Existing,All Buyer Types,129900.0
+A75,Castleblaney,1,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,207500.0
+A75,Castleblaney,1,2017,Existing,Household Buyer - Former Owner-Occupier,67500.0
+A75,Castleblaney,1,2017,Existing,Household Buyer - Non-Occupier,83500.0
+A75,Castleblaney,2,2017,All Dwelling Statuses,All Buyer Types,135750.0
+A75,Castleblaney,2,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+A75,Castleblaney,2,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,136500.0
+A75,Castleblaney,2,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,75000.0
+A75,Castleblaney,2,2017,New,All Buyer Types,
+A75,Castleblaney,2,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,2,2017,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,2,2017,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2017,Existing,All Buyer Types,135750.0
+A75,Castleblaney,2,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+A75,Castleblaney,2,2017,Existing,Household Buyer - Former Owner-Occupier,136500.0
+A75,Castleblaney,2,2017,Existing,Household Buyer - Non-Occupier,75000.0
+A75,Castleblaney,3,2017,All Dwelling Statuses,All Buyer Types,124125.0
+A75,Castleblaney,3,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,63500.0
+A75,Castleblaney,3,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,189000.0
+A75,Castleblaney,3,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,55000.0
+A75,Castleblaney,3,2017,New,All Buyer Types,
+A75,Castleblaney,3,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,3,2017,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,3,2017,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2017,Existing,All Buyer Types,124125.0
+A75,Castleblaney,3,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,63500.0
+A75,Castleblaney,3,2017,Existing,Household Buyer - Former Owner-Occupier,189000.0
+A75,Castleblaney,3,2017,Existing,Household Buyer - Non-Occupier,55000.0
+A75,Castleblaney,4,2017,All Dwelling Statuses,All Buyer Types,165000.0
+A75,Castleblaney,4,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,165000.0
+A75,Castleblaney,4,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2017,New,All Buyer Types,
+A75,Castleblaney,4,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2017,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,4,2017,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2017,Existing,All Buyer Types,165000.0
+A75,Castleblaney,4,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2017,Existing,Household Buyer - Former Owner-Occupier,165000.0
+A75,Castleblaney,4,2017,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2017,All Dwelling Statuses,All Buyer Types,107083.0
+A75,Castleblaney,5,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,114333.0
+A75,Castleblaney,5,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,123750.0
+A75,Castleblaney,5,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,52000.0
+A75,Castleblaney,5,2017,New,All Buyer Types,
+A75,Castleblaney,5,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,5,2017,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,5,2017,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2017,Existing,All Buyer Types,107083.0
+A75,Castleblaney,5,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,114333.0
+A75,Castleblaney,5,2017,Existing,Household Buyer - Former Owner-Occupier,123750.0
+A75,Castleblaney,5,2017,Existing,Household Buyer - Non-Occupier,52000.0
+A75,Castleblaney,6,2017,All Dwelling Statuses,All Buyer Types,101370.0
+A75,Castleblaney,6,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,159000.0
+A75,Castleblaney,6,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,186850.0
+A75,Castleblaney,6,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,68714.0
+A75,Castleblaney,6,2017,New,All Buyer Types,
+A75,Castleblaney,6,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,6,2017,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,6,2017,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2017,Existing,All Buyer Types,101370.0
+A75,Castleblaney,6,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,159000.0
+A75,Castleblaney,6,2017,Existing,Household Buyer - Former Owner-Occupier,186850.0
+A75,Castleblaney,6,2017,Existing,Household Buyer - Non-Occupier,68714.0
+A75,Castleblaney,7,2017,All Dwelling Statuses,All Buyer Types,88125.0
+A75,Castleblaney,7,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+A75,Castleblaney,7,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,67500.0
+A75,Castleblaney,7,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,7,2017,New,All Buyer Types,
+A75,Castleblaney,7,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,7,2017,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2017,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,7,2017,Existing,All Buyer Types,88125.0
+A75,Castleblaney,7,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+A75,Castleblaney,7,2017,Existing,Household Buyer - Former Owner-Occupier,67500.0
+A75,Castleblaney,7,2017,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2017,All Dwelling Statuses,All Buyer Types,140000.0
+A75,Castleblaney,8,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,8,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,150000.0
+A75,Castleblaney,8,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,130000.0
+A75,Castleblaney,8,2017,New,All Buyer Types,
+A75,Castleblaney,8,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,8,2017,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,8,2017,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2017,Existing,All Buyer Types,140000.0
+A75,Castleblaney,8,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,8,2017,Existing,Household Buyer - Former Owner-Occupier,150000.0
+A75,Castleblaney,8,2017,Existing,Household Buyer - Non-Occupier,130000.0
+A75,Castleblaney,9,2017,All Dwelling Statuses,All Buyer Types,135333.0
+A75,Castleblaney,9,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+A75,Castleblaney,9,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,133286.0
+A75,Castleblaney,9,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,90000.0
+A75,Castleblaney,9,2017,New,All Buyer Types,
+A75,Castleblaney,9,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,9,2017,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,9,2017,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2017,Existing,All Buyer Types,135333.0
+A75,Castleblaney,9,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,195000.0
+A75,Castleblaney,9,2017,Existing,Household Buyer - Former Owner-Occupier,133286.0
+A75,Castleblaney,9,2017,Existing,Household Buyer - Non-Occupier,90000.0
+A75,Castleblaney,10,2017,All Dwelling Statuses,All Buyer Types,104375.0
+A75,Castleblaney,10,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,25000.0
+A75,Castleblaney,10,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,152750.0
+A75,Castleblaney,10,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,88071.0
+A75,Castleblaney,10,2017,New,All Buyer Types,267000.0
+A75,Castleblaney,10,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,10,2017,New,Household Buyer - Former Owner-Occupier,267000.0
+A75,Castleblaney,10,2017,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2017,Existing,All Buyer Types,89591.0
+A75,Castleblaney,10,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,25000.0
+A75,Castleblaney,10,2017,Existing,Household Buyer - Former Owner-Occupier,114667.0
+A75,Castleblaney,10,2017,Existing,Household Buyer - Non-Occupier,88071.0
+A75,Castleblaney,11,2017,All Dwelling Statuses,All Buyer Types,98926.0
+A75,Castleblaney,11,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,107315.0
+A75,Castleblaney,11,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,93333.0
+A75,Castleblaney,11,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2017,New,All Buyer Types,127630.0
+A75,Castleblaney,11,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,127630.0
+A75,Castleblaney,11,2017,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,11,2017,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2017,Existing,All Buyer Types,91750.0
+A75,Castleblaney,11,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,87000.0
+A75,Castleblaney,11,2017,Existing,Household Buyer - Former Owner-Occupier,93333.0
+A75,Castleblaney,11,2017,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,12,2017,All Dwelling Statuses,All Buyer Types,224625.0
+A75,Castleblaney,12,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,302500.0
+A75,Castleblaney,12,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,198667.0
+A75,Castleblaney,12,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,12,2017,New,All Buyer Types,
+A75,Castleblaney,12,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,12,2017,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,12,2017,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,12,2017,Existing,All Buyer Types,224625.0
+A75,Castleblaney,12,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,302500.0
+A75,Castleblaney,12,2017,Existing,Household Buyer - Former Owner-Occupier,198667.0
+A75,Castleblaney,12,2017,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2018,All Dwelling Statuses,All Buyer Types,185000.0
+A75,Castleblaney,1,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+A75,Castleblaney,1,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,170000.0
+A75,Castleblaney,1,2018,New,All Buyer Types,
+A75,Castleblaney,1,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,1,2018,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2018,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2018,Existing,All Buyer Types,185000.0
+A75,Castleblaney,1,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+A75,Castleblaney,1,2018,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2018,Existing,Household Buyer - Non-Occupier,170000.0
+A75,Castleblaney,2,2018,All Dwelling Statuses,All Buyer Types,154250.0
+A75,Castleblaney,2,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,2,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,231500.0
+A75,Castleblaney,2,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,77000.0
+A75,Castleblaney,2,2018,New,All Buyer Types,
+A75,Castleblaney,2,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,2,2018,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,2,2018,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2018,Existing,All Buyer Types,154250.0
+A75,Castleblaney,2,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,2,2018,Existing,Household Buyer - Former Owner-Occupier,231500.0
+A75,Castleblaney,2,2018,Existing,Household Buyer - Non-Occupier,77000.0
+A75,Castleblaney,3,2018,All Dwelling Statuses,All Buyer Types,125667.0
+A75,Castleblaney,3,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,3,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,250000.0
+A75,Castleblaney,3,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,63500.0
+A75,Castleblaney,3,2018,New,All Buyer Types,
+A75,Castleblaney,3,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,3,2018,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,3,2018,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2018,Existing,All Buyer Types,125667.0
+A75,Castleblaney,3,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,3,2018,Existing,Household Buyer - Former Owner-Occupier,250000.0
+A75,Castleblaney,3,2018,Existing,Household Buyer - Non-Occupier,63500.0
+A75,Castleblaney,4,2018,All Dwelling Statuses,All Buyer Types,347500.0
+A75,Castleblaney,4,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+A75,Castleblaney,4,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,450000.0
+A75,Castleblaney,4,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2018,New,All Buyer Types,
+A75,Castleblaney,4,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2018,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,4,2018,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2018,Existing,All Buyer Types,347500.0
+A75,Castleblaney,4,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+A75,Castleblaney,4,2018,Existing,Household Buyer - Former Owner-Occupier,450000.0
+A75,Castleblaney,4,2018,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2018,All Dwelling Statuses,All Buyer Types,120350.0
+A75,Castleblaney,5,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,191375.0
+A75,Castleblaney,5,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,58000.0
+A75,Castleblaney,5,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,80500.0
+A75,Castleblaney,5,2018,New,All Buyer Types,
+A75,Castleblaney,5,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,5,2018,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,5,2018,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2018,Existing,All Buyer Types,120350.0
+A75,Castleblaney,5,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,191375.0
+A75,Castleblaney,5,2018,Existing,Household Buyer - Former Owner-Occupier,58000.0
+A75,Castleblaney,5,2018,Existing,Household Buyer - Non-Occupier,80500.0
+A75,Castleblaney,6,2018,All Dwelling Statuses,All Buyer Types,139886.0
+A75,Castleblaney,6,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,6,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,123333.0
+A75,Castleblaney,6,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,189545.0
+A75,Castleblaney,6,2018,New,All Buyer Types,189545.0
+A75,Castleblaney,6,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,6,2018,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,6,2018,New,Household Buyer - Non-Occupier,189545.0
+A75,Castleblaney,6,2018,Existing,All Buyer Types,123333.0
+A75,Castleblaney,6,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,6,2018,Existing,Household Buyer - Former Owner-Occupier,123333.0
+A75,Castleblaney,6,2018,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,7,2018,All Dwelling Statuses,All Buyer Types,83333.0
+A75,Castleblaney,7,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,7,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,100000.0
+A75,Castleblaney,7,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,75000.0
+A75,Castleblaney,7,2018,New,All Buyer Types,
+A75,Castleblaney,7,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,7,2018,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2018,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,7,2018,Existing,All Buyer Types,83333.0
+A75,Castleblaney,7,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,7,2018,Existing,Household Buyer - Former Owner-Occupier,100000.0
+A75,Castleblaney,7,2018,Existing,Household Buyer - Non-Occupier,75000.0
+A75,Castleblaney,8,2018,All Dwelling Statuses,All Buyer Types,121958.0
+A75,Castleblaney,8,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,142000.0
+A75,Castleblaney,8,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,184375.0
+A75,Castleblaney,8,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,73667.0
+A75,Castleblaney,8,2018,New,All Buyer Types,
+A75,Castleblaney,8,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,8,2018,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,8,2018,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2018,Existing,All Buyer Types,121958.0
+A75,Castleblaney,8,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,142000.0
+A75,Castleblaney,8,2018,Existing,Household Buyer - Former Owner-Occupier,184375.0
+A75,Castleblaney,8,2018,Existing,Household Buyer - Non-Occupier,73667.0
+A75,Castleblaney,9,2018,All Dwelling Statuses,All Buyer Types,190250.0
+A75,Castleblaney,9,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+A75,Castleblaney,9,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,180333.0
+A75,Castleblaney,9,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2018,New,All Buyer Types,
+A75,Castleblaney,9,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,9,2018,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,9,2018,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2018,Existing,All Buyer Types,190250.0
+A75,Castleblaney,9,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+A75,Castleblaney,9,2018,Existing,Household Buyer - Former Owner-Occupier,180333.0
+A75,Castleblaney,9,2018,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2018,All Dwelling Statuses,All Buyer Types,109778.0
+A75,Castleblaney,10,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,127667.0
+A75,Castleblaney,10,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,109000.0
+A75,Castleblaney,10,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,60000.0
+A75,Castleblaney,10,2018,New,All Buyer Types,
+A75,Castleblaney,10,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,10,2018,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,10,2018,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2018,Existing,All Buyer Types,109778.0
+A75,Castleblaney,10,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,127667.0
+A75,Castleblaney,10,2018,Existing,Household Buyer - Former Owner-Occupier,109000.0
+A75,Castleblaney,10,2018,Existing,Household Buyer - Non-Occupier,60000.0
+A75,Castleblaney,11,2018,All Dwelling Statuses,All Buyer Types,123500.0
+A75,Castleblaney,11,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,126000.0
+A75,Castleblaney,11,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,80000.0
+A75,Castleblaney,11,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,162000.0
+A75,Castleblaney,11,2018,New,All Buyer Types,
+A75,Castleblaney,11,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,11,2018,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,11,2018,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2018,Existing,All Buyer Types,123500.0
+A75,Castleblaney,11,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,126000.0
+A75,Castleblaney,11,2018,Existing,Household Buyer - Former Owner-Occupier,80000.0
+A75,Castleblaney,11,2018,Existing,Household Buyer - Non-Occupier,162000.0
+A75,Castleblaney,12,2018,All Dwelling Statuses,All Buyer Types,99574.0
+A75,Castleblaney,12,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,158000.0
+A75,Castleblaney,12,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,96500.0
+A75,Castleblaney,12,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,82148.0
+A75,Castleblaney,12,2018,New,All Buyer Types,60722.0
+A75,Castleblaney,12,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,12,2018,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,12,2018,New,Household Buyer - Non-Occupier,60722.0
+A75,Castleblaney,12,2018,Existing,All Buyer Types,119000.0
+A75,Castleblaney,12,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,158000.0
+A75,Castleblaney,12,2018,Existing,Household Buyer - Former Owner-Occupier,96500.0
+A75,Castleblaney,12,2018,Existing,Household Buyer - Non-Occupier,125000.0
+A75,Castleblaney,1,2019,All Dwelling Statuses,All Buyer Types,141000.0
+A75,Castleblaney,1,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,70000.0
+A75,Castleblaney,1,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,212000.0
+A75,Castleblaney,1,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2019,New,All Buyer Types,
+A75,Castleblaney,1,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,1,2019,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2019,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2019,Existing,All Buyer Types,141000.0
+A75,Castleblaney,1,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,70000.0
+A75,Castleblaney,1,2019,Existing,Household Buyer - Former Owner-Occupier,212000.0
+A75,Castleblaney,1,2019,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2019,All Dwelling Statuses,All Buyer Types,117600.0
+A75,Castleblaney,2,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115250.0
+A75,Castleblaney,2,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,2,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,127000.0
+A75,Castleblaney,2,2019,New,All Buyer Types,
+A75,Castleblaney,2,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,2,2019,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,2,2019,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2019,Existing,All Buyer Types,117600.0
+A75,Castleblaney,2,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115250.0
+A75,Castleblaney,2,2019,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,2,2019,Existing,Household Buyer - Non-Occupier,127000.0
+A75,Castleblaney,3,2019,All Dwelling Statuses,All Buyer Types,126333.0
+A75,Castleblaney,3,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+A75,Castleblaney,3,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,133250.0
+A75,Castleblaney,3,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,50000.0
+A75,Castleblaney,3,2019,New,All Buyer Types,
+A75,Castleblaney,3,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,3,2019,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,3,2019,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2019,Existing,All Buyer Types,126333.0
+A75,Castleblaney,3,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+A75,Castleblaney,3,2019,Existing,Household Buyer - Former Owner-Occupier,133250.0
+A75,Castleblaney,3,2019,Existing,Household Buyer - Non-Occupier,50000.0
+A75,Castleblaney,4,2019,All Dwelling Statuses,All Buyer Types,128850.0
+A75,Castleblaney,4,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,114000.0
+A75,Castleblaney,4,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,136357.0
+A75,Castleblaney,4,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,110000.0
+A75,Castleblaney,4,2019,New,All Buyer Types,113500.0
+A75,Castleblaney,4,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2019,New,Household Buyer - Former Owner-Occupier,113500.0
+A75,Castleblaney,4,2019,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2019,Existing,All Buyer Types,130556.0
+A75,Castleblaney,4,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,114000.0
+A75,Castleblaney,4,2019,Existing,Household Buyer - Former Owner-Occupier,140167.0
+A75,Castleblaney,4,2019,Existing,Household Buyer - Non-Occupier,110000.0
+A75,Castleblaney,5,2019,All Dwelling Statuses,All Buyer Types,143750.0
+A75,Castleblaney,5,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,156667.0
+A75,Castleblaney,5,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,5,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,105000.0
+A75,Castleblaney,5,2019,New,All Buyer Types,
+A75,Castleblaney,5,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,5,2019,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,5,2019,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2019,Existing,All Buyer Types,143750.0
+A75,Castleblaney,5,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,156667.0
+A75,Castleblaney,5,2019,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,5,2019,Existing,Household Buyer - Non-Occupier,105000.0
+A75,Castleblaney,6,2019,All Dwelling Statuses,All Buyer Types,91500.0
+A75,Castleblaney,6,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,133000.0
+A75,Castleblaney,6,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,6,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,50000.0
+A75,Castleblaney,6,2019,New,All Buyer Types,
+A75,Castleblaney,6,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,6,2019,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,6,2019,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2019,Existing,All Buyer Types,91500.0
+A75,Castleblaney,6,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,133000.0
+A75,Castleblaney,6,2019,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,6,2019,Existing,Household Buyer - Non-Occupier,50000.0
+A75,Castleblaney,7,2019,All Dwelling Statuses,All Buyer Types,200667.0
+A75,Castleblaney,7,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+A75,Castleblaney,7,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,275000.0
+A75,Castleblaney,7,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,158000.0
+A75,Castleblaney,7,2019,New,All Buyer Types,
+A75,Castleblaney,7,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,7,2019,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2019,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,7,2019,Existing,All Buyer Types,200667.0
+A75,Castleblaney,7,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+A75,Castleblaney,7,2019,Existing,Household Buyer - Former Owner-Occupier,275000.0
+A75,Castleblaney,7,2019,Existing,Household Buyer - Non-Occupier,158000.0
+A75,Castleblaney,8,2019,All Dwelling Statuses,All Buyer Types,176000.0
+A75,Castleblaney,8,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,202000.0
+A75,Castleblaney,8,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,150000.0
+A75,Castleblaney,8,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2019,New,All Buyer Types,
+A75,Castleblaney,8,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,8,2019,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,8,2019,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2019,Existing,All Buyer Types,176000.0
+A75,Castleblaney,8,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,202000.0
+A75,Castleblaney,8,2019,Existing,Household Buyer - Former Owner-Occupier,150000.0
+A75,Castleblaney,8,2019,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2019,All Dwelling Statuses,All Buyer Types,159500.0
+A75,Castleblaney,9,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,149000.0
+A75,Castleblaney,9,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,210750.0
+A75,Castleblaney,9,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,67500.0
+A75,Castleblaney,9,2019,New,All Buyer Types,
+A75,Castleblaney,9,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,9,2019,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,9,2019,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2019,Existing,All Buyer Types,159500.0
+A75,Castleblaney,9,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,149000.0
+A75,Castleblaney,9,2019,Existing,Household Buyer - Former Owner-Occupier,210750.0
+A75,Castleblaney,9,2019,Existing,Household Buyer - Non-Occupier,67500.0
+A75,Castleblaney,10,2019,All Dwelling Statuses,All Buyer Types,160131.0
+A75,Castleblaney,10,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,204480.0
+A75,Castleblaney,10,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,180000.0
+A75,Castleblaney,10,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,61500.0
+A75,Castleblaney,10,2019,New,All Buyer Types,199420.0
+A75,Castleblaney,10,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,199420.0
+A75,Castleblaney,10,2019,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,10,2019,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2019,Existing,All Buyer Types,153583.0
+A75,Castleblaney,10,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,206167.0
+A75,Castleblaney,10,2019,Existing,Household Buyer - Former Owner-Occupier,180000.0
+A75,Castleblaney,10,2019,Existing,Household Buyer - Non-Occupier,61500.0
+A75,Castleblaney,11,2019,All Dwelling Statuses,All Buyer Types,87708.0
+A75,Castleblaney,11,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+A75,Castleblaney,11,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,11,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,78385.0
+A75,Castleblaney,11,2019,New,All Buyer Types,
+A75,Castleblaney,11,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,11,2019,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,11,2019,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2019,Existing,All Buyer Types,87708.0
+A75,Castleblaney,11,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+A75,Castleblaney,11,2019,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,11,2019,Existing,Household Buyer - Non-Occupier,78385.0
+A75,Castleblaney,12,2019,All Dwelling Statuses,All Buyer Types,213562.0
+A75,Castleblaney,12,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,213250.0
+A75,Castleblaney,12,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,245167.0
+A75,Castleblaney,12,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,120000.0
+A75,Castleblaney,12,2019,New,All Buyer Types,229000.0
+A75,Castleblaney,12,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,229000.0
+A75,Castleblaney,12,2019,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,12,2019,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,12,2019,Existing,All Buyer Types,204300.0
+A75,Castleblaney,12,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,166000.0
+A75,Castleblaney,12,2019,Existing,Household Buyer - Former Owner-Occupier,245167.0
+A75,Castleblaney,12,2019,Existing,Household Buyer - Non-Occupier,120000.0
+A75,Castleblaney,1,2020,All Dwelling Statuses,All Buyer Types,149381.0
+A75,Castleblaney,1,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,148885.0
+A75,Castleblaney,1,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,205500.0
+A75,Castleblaney,1,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,94500.0
+A75,Castleblaney,1,2020,New,All Buyer Types,62425.0
+A75,Castleblaney,1,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,62425.0
+A75,Castleblaney,1,2020,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2020,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2020,Existing,All Buyer Types,160250.0
+A75,Castleblaney,1,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,170500.0
+A75,Castleblaney,1,2020,Existing,Household Buyer - Former Owner-Occupier,205500.0
+A75,Castleblaney,1,2020,Existing,Household Buyer - Non-Occupier,94500.0
+A75,Castleblaney,2,2020,All Dwelling Statuses,All Buyer Types,117600.0
+A75,Castleblaney,2,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,111500.0
+A75,Castleblaney,2,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,121667.0
+A75,Castleblaney,2,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2020,New,All Buyer Types,
+A75,Castleblaney,2,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,2,2020,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,2,2020,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2020,Existing,All Buyer Types,117600.0
+A75,Castleblaney,2,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,111500.0
+A75,Castleblaney,2,2020,Existing,Household Buyer - Former Owner-Occupier,121667.0
+A75,Castleblaney,2,2020,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2020,All Dwelling Statuses,All Buyer Types,163018.0
+A75,Castleblaney,3,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,88530.0
+A75,Castleblaney,3,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,195936.0
+A75,Castleblaney,3,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,40000.0
+A75,Castleblaney,3,2020,New,All Buyer Types,185573.0
+A75,Castleblaney,3,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,88530.0
+A75,Castleblaney,3,2020,New,Household Buyer - Former Owner-Occupier,282615.0
+A75,Castleblaney,3,2020,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2020,Existing,All Buyer Types,155500.0
+A75,Castleblaney,3,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,3,2020,Existing,Household Buyer - Former Owner-Occupier,178600.0
+A75,Castleblaney,3,2020,Existing,Household Buyer - Non-Occupier,40000.0
+A75,Castleblaney,4,2020,All Dwelling Statuses,All Buyer Types,190333.0
+A75,Castleblaney,4,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225000.0
+A75,Castleblaney,4,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,173000.0
+A75,Castleblaney,4,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2020,New,All Buyer Types,
+A75,Castleblaney,4,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2020,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,4,2020,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2020,Existing,All Buyer Types,190333.0
+A75,Castleblaney,4,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,225000.0
+A75,Castleblaney,4,2020,Existing,Household Buyer - Former Owner-Occupier,173000.0
+A75,Castleblaney,4,2020,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2020,All Dwelling Statuses,All Buyer Types,219972.0
+A75,Castleblaney,5,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+A75,Castleblaney,5,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,229958.0
+A75,Castleblaney,5,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2020,New,All Buyer Types,259915.0
+A75,Castleblaney,5,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,5,2020,New,Household Buyer - Former Owner-Occupier,259915.0
+A75,Castleblaney,5,2020,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2020,Existing,All Buyer Types,200000.0
+A75,Castleblaney,5,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+A75,Castleblaney,5,2020,Existing,Household Buyer - Former Owner-Occupier,200000.0
+A75,Castleblaney,5,2020,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2020,All Dwelling Statuses,All Buyer Types,131750.0
+A75,Castleblaney,6,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,6,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,149000.0
+A75,Castleblaney,6,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+A75,Castleblaney,6,2020,New,All Buyer Types,
+A75,Castleblaney,6,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,6,2020,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,6,2020,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2020,Existing,All Buyer Types,131750.0
+A75,Castleblaney,6,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,6,2020,Existing,Household Buyer - Former Owner-Occupier,149000.0
+A75,Castleblaney,6,2020,Existing,Household Buyer - Non-Occupier,80000.0
+A75,Castleblaney,7,2020,All Dwelling Statuses,All Buyer Types,173600.0
+A75,Castleblaney,7,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,182000.0
+A75,Castleblaney,7,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197000.0
+A75,Castleblaney,7,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,110000.0
+A75,Castleblaney,7,2020,New,All Buyer Types,249000.0
+A75,Castleblaney,7,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,249000.0
+A75,Castleblaney,7,2020,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2020,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,7,2020,Existing,All Buyer Types,154750.0
+A75,Castleblaney,7,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+A75,Castleblaney,7,2020,Existing,Household Buyer - Former Owner-Occupier,197000.0
+A75,Castleblaney,7,2020,Existing,Household Buyer - Non-Occupier,110000.0
+A75,Castleblaney,8,2020,All Dwelling Statuses,All Buyer Types,126000.0
+A75,Castleblaney,8,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,174000.0
+A75,Castleblaney,8,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,145000.0
+A75,Castleblaney,8,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,40000.0
+A75,Castleblaney,8,2020,New,All Buyer Types,
+A75,Castleblaney,8,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,8,2020,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,8,2020,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2020,Existing,All Buyer Types,126000.0
+A75,Castleblaney,8,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,174000.0
+A75,Castleblaney,8,2020,Existing,Household Buyer - Former Owner-Occupier,145000.0
+A75,Castleblaney,8,2020,Existing,Household Buyer - Non-Occupier,40000.0
+A75,Castleblaney,9,2020,All Dwelling Statuses,All Buyer Types,179400.0
+A75,Castleblaney,9,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,189250.0
+A75,Castleblaney,9,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,140000.0
+A75,Castleblaney,9,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2020,New,All Buyer Types,
+A75,Castleblaney,9,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,9,2020,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,9,2020,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2020,Existing,All Buyer Types,179400.0
+A75,Castleblaney,9,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,189250.0
+A75,Castleblaney,9,2020,Existing,Household Buyer - Former Owner-Occupier,140000.0
+A75,Castleblaney,9,2020,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2020,All Dwelling Statuses,All Buyer Types,179295.0
+A75,Castleblaney,10,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,216500.0
+A75,Castleblaney,10,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,104885.0
+A75,Castleblaney,10,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2020,New,All Buyer Types,172384.0
+A75,Castleblaney,10,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,228999.0
+A75,Castleblaney,10,2020,New,Household Buyer - Former Owner-Occupier,115770.0
+A75,Castleblaney,10,2020,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2020,Existing,All Buyer Types,182750.0
+A75,Castleblaney,10,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,212333.0
+A75,Castleblaney,10,2020,Existing,Household Buyer - Former Owner-Occupier,94000.0
+A75,Castleblaney,10,2020,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2020,All Dwelling Statuses,All Buyer Types,175073.0
+A75,Castleblaney,11,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,231113.0
+A75,Castleblaney,11,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,233454.0
+A75,Castleblaney,11,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,79333.0
+A75,Castleblaney,11,2020,New,All Buyer Types,258196.0
+A75,Castleblaney,11,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,242226.0
+A75,Castleblaney,11,2020,New,Household Buyer - Former Owner-Occupier,266181.0
+A75,Castleblaney,11,2020,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2020,Existing,All Buyer Types,125200.0
+A75,Castleblaney,11,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+A75,Castleblaney,11,2020,Existing,Household Buyer - Former Owner-Occupier,168000.0
+A75,Castleblaney,11,2020,Existing,Household Buyer - Non-Occupier,79333.0
+A75,Castleblaney,12,2020,All Dwelling Statuses,All Buyer Types,192556.0
+A75,Castleblaney,12,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,82500.0
+A75,Castleblaney,12,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,219600.0
+A75,Castleblaney,12,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,235000.0
+A75,Castleblaney,12,2020,New,All Buyer Types,
+A75,Castleblaney,12,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,12,2020,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,12,2020,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,12,2020,Existing,All Buyer Types,192556.0
+A75,Castleblaney,12,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,82500.0
+A75,Castleblaney,12,2020,Existing,Household Buyer - Former Owner-Occupier,219600.0
+A75,Castleblaney,12,2020,Existing,Household Buyer - Non-Occupier,235000.0
+A75,Castleblaney,1,2021,All Dwelling Statuses,All Buyer Types,249075.0
+A75,Castleblaney,1,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,297000.0
+A75,Castleblaney,1,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,153225.0
+A75,Castleblaney,1,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2021,New,All Buyer Types,153225.0
+A75,Castleblaney,1,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,1,2021,New,Household Buyer - Former Owner-Occupier,153225.0
+A75,Castleblaney,1,2021,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2021,Existing,All Buyer Types,297000.0
+A75,Castleblaney,1,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,297000.0
+A75,Castleblaney,1,2021,Existing,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2021,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2021,All Dwelling Statuses,All Buyer Types,197250.0
+A75,Castleblaney,2,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,269500.0
+A75,Castleblaney,2,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,124999.0
+A75,Castleblaney,2,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2021,New,All Buyer Types,176999.0
+A75,Castleblaney,2,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,229000.0
+A75,Castleblaney,2,2021,New,Household Buyer - Former Owner-Occupier,124999.0
+A75,Castleblaney,2,2021,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2021,Existing,All Buyer Types,217500.0
+A75,Castleblaney,2,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,310000.0
+A75,Castleblaney,2,2021,Existing,Household Buyer - Former Owner-Occupier,125000.0
+A75,Castleblaney,2,2021,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2021,All Dwelling Statuses,All Buyer Types,178714.0
+A75,Castleblaney,3,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,3,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,182200.0
+A75,Castleblaney,3,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,170000.0
+A75,Castleblaney,3,2021,New,All Buyer Types,345000.0
+A75,Castleblaney,3,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,3,2021,New,Household Buyer - Former Owner-Occupier,345000.0
+A75,Castleblaney,3,2021,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2021,Existing,All Buyer Types,151000.0
+A75,Castleblaney,3,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,3,2021,Existing,Household Buyer - Former Owner-Occupier,141500.0
+A75,Castleblaney,3,2021,Existing,Household Buyer - Non-Occupier,170000.0
+A75,Castleblaney,4,2021,All Dwelling Statuses,All Buyer Types,193000.0
+A75,Castleblaney,4,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,45000.0
+A75,Castleblaney,4,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,242333.0
+A75,Castleblaney,4,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2021,New,All Buyer Types,315000.0
+A75,Castleblaney,4,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2021,New,Household Buyer - Former Owner-Occupier,315000.0
+A75,Castleblaney,4,2021,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2021,Existing,All Buyer Types,152333.0
+A75,Castleblaney,4,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,45000.0
+A75,Castleblaney,4,2021,Existing,Household Buyer - Former Owner-Occupier,206000.0
+A75,Castleblaney,4,2021,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2021,All Dwelling Statuses,All Buyer Types,202874.0
+A75,Castleblaney,5,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,282615.0
+A75,Castleblaney,5,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,212500.0
+A75,Castleblaney,5,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,75000.0
+A75,Castleblaney,5,2021,New,All Buyer Types,282615.0
+A75,Castleblaney,5,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,282615.0
+A75,Castleblaney,5,2021,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,5,2021,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2021,Existing,All Buyer Types,189583.0
+A75,Castleblaney,5,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,5,2021,Existing,Household Buyer - Former Owner-Occupier,212500.0
+A75,Castleblaney,5,2021,Existing,Household Buyer - Non-Occupier,75000.0
+A75,Castleblaney,6,2021,All Dwelling Statuses,All Buyer Types,185125.0
+A75,Castleblaney,6,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,228667.0
+A75,Castleblaney,6,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,158750.0
+A75,Castleblaney,6,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,160000.0
+A75,Castleblaney,6,2021,New,All Buyer Types,251667.0
+A75,Castleblaney,6,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,253001.0
+A75,Castleblaney,6,2021,New,Household Buyer - Former Owner-Occupier,249000.0
+A75,Castleblaney,6,2021,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2021,Existing,All Buyer Types,145200.0
+A75,Castleblaney,6,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,180000.0
+A75,Castleblaney,6,2021,Existing,Household Buyer - Former Owner-Occupier,128667.0
+A75,Castleblaney,6,2021,Existing,Household Buyer - Non-Occupier,160000.0
+A75,Castleblaney,7,2021,All Dwelling Statuses,All Buyer Types,215138.0
+A75,Castleblaney,7,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,185000.0
+A75,Castleblaney,7,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,244193.0
+A75,Castleblaney,7,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,100000.0
+A75,Castleblaney,7,2021,New,All Buyer Types,293965.0
+A75,Castleblaney,7,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,7,2021,New,Household Buyer - Former Owner-Occupier,293965.0
+A75,Castleblaney,7,2021,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,7,2021,Existing,All Buyer Types,202000.0
+A75,Castleblaney,7,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,185000.0
+A75,Castleblaney,7,2021,Existing,Household Buyer - Former Owner-Occupier,231750.0
+A75,Castleblaney,7,2021,Existing,Household Buyer - Non-Occupier,100000.0
+A75,Castleblaney,8,2021,All Dwelling Statuses,All Buyer Types,157300.0
+A75,Castleblaney,8,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+A75,Castleblaney,8,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,228250.0
+A75,Castleblaney,8,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,110000.0
+A75,Castleblaney,8,2021,New,All Buyer Types,
+A75,Castleblaney,8,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,8,2021,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,8,2021,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2021,Existing,All Buyer Types,157300.0
+A75,Castleblaney,8,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+A75,Castleblaney,8,2021,Existing,Household Buyer - Former Owner-Occupier,228250.0
+A75,Castleblaney,8,2021,Existing,Household Buyer - Non-Occupier,110000.0
+A75,Castleblaney,9,2021,All Dwelling Statuses,All Buyer Types,126071.0
+A75,Castleblaney,9,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,153000.0
+A75,Castleblaney,9,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,118167.0
+A75,Castleblaney,9,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,111000.0
+A75,Castleblaney,9,2021,New,All Buyer Types,
+A75,Castleblaney,9,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,9,2021,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,9,2021,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2021,Existing,All Buyer Types,126071.0
+A75,Castleblaney,9,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,153000.0
+A75,Castleblaney,9,2021,Existing,Household Buyer - Former Owner-Occupier,118167.0
+A75,Castleblaney,9,2021,Existing,Household Buyer - Non-Occupier,111000.0
+A75,Castleblaney,10,2021,All Dwelling Statuses,All Buyer Types,215873.0
+A75,Castleblaney,10,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,139000.0
+A75,Castleblaney,10,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,256331.0
+A75,Castleblaney,10,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,50000.0
+A75,Castleblaney,10,2021,New,All Buyer Types,104988.0
+A75,Castleblaney,10,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,10,2021,New,Household Buyer - Former Owner-Occupier,104988.0
+A75,Castleblaney,10,2021,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2021,Existing,All Buyer Types,231714.0
+A75,Castleblaney,10,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,139000.0
+A75,Castleblaney,10,2021,Existing,Household Buyer - Former Owner-Occupier,286600.0
+A75,Castleblaney,10,2021,Existing,Household Buyer - Non-Occupier,50000.0
+A75,Castleblaney,11,2021,All Dwelling Statuses,All Buyer Types,143444.0
+A75,Castleblaney,11,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,155000.0
+A75,Castleblaney,11,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,154000.0
+A75,Castleblaney,11,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,105000.0
+A75,Castleblaney,11,2021,New,All Buyer Types,
+A75,Castleblaney,11,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,11,2021,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,11,2021,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2021,Existing,All Buyer Types,143444.0
+A75,Castleblaney,11,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,155000.0
+A75,Castleblaney,11,2021,Existing,Household Buyer - Former Owner-Occupier,154000.0
+A75,Castleblaney,11,2021,Existing,Household Buyer - Non-Occupier,105000.0
+A75,Castleblaney,12,2021,All Dwelling Statuses,All Buyer Types,158800.0
+A75,Castleblaney,12,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,142967.0
+A75,Castleblaney,12,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,269667.0
+A75,Castleblaney,12,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,40000.0
+A75,Castleblaney,12,2021,New,All Buyer Types,90800.0
+A75,Castleblaney,12,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,90800.0
+A75,Castleblaney,12,2021,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,12,2021,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,12,2021,Existing,All Buyer Types,165600.0
+A75,Castleblaney,12,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,153400.0
+A75,Castleblaney,12,2021,Existing,Household Buyer - Former Owner-Occupier,269667.0
+A75,Castleblaney,12,2021,Existing,Household Buyer - Non-Occupier,40000.0
+A75,Castleblaney,1,2022,All Dwelling Statuses,All Buyer Types,192000.0
+A75,Castleblaney,1,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,246833.0
+A75,Castleblaney,1,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,140000.0
+A75,Castleblaney,1,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,79500.0
+A75,Castleblaney,1,2022,New,All Buyer Types,
+A75,Castleblaney,1,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,1,2022,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2022,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2022,Existing,All Buyer Types,192000.0
+A75,Castleblaney,1,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,246833.0
+A75,Castleblaney,1,2022,Existing,Household Buyer - Former Owner-Occupier,140000.0
+A75,Castleblaney,1,2022,Existing,Household Buyer - Non-Occupier,79500.0
+A75,Castleblaney,2,2022,All Dwelling Statuses,All Buyer Types,187500.0
+A75,Castleblaney,2,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,2,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,187500.0
+A75,Castleblaney,2,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2022,New,All Buyer Types,
+A75,Castleblaney,2,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,2,2022,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,2,2022,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2022,Existing,All Buyer Types,187500.0
+A75,Castleblaney,2,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,2,2022,Existing,Household Buyer - Former Owner-Occupier,187500.0
+A75,Castleblaney,2,2022,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2022,All Dwelling Statuses,All Buyer Types,132500.0
+A75,Castleblaney,3,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,92500.0
+A75,Castleblaney,3,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,315000.0
+A75,Castleblaney,3,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,30000.0
+A75,Castleblaney,3,2022,New,All Buyer Types,
+A75,Castleblaney,3,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,3,2022,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,3,2022,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2022,Existing,All Buyer Types,132500.0
+A75,Castleblaney,3,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,92500.0
+A75,Castleblaney,3,2022,Existing,Household Buyer - Former Owner-Occupier,315000.0
+A75,Castleblaney,3,2022,Existing,Household Buyer - Non-Occupier,30000.0
+A75,Castleblaney,4,2022,All Dwelling Statuses,All Buyer Types,106743.0
+A75,Castleblaney,4,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,105750.0
+A75,Castleblaney,4,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,107167.0
+A75,Castleblaney,4,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,107100.0
+A75,Castleblaney,4,2022,New,All Buyer Types,
+A75,Castleblaney,4,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2022,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,4,2022,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2022,Existing,All Buyer Types,106743.0
+A75,Castleblaney,4,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,105750.0
+A75,Castleblaney,4,2022,Existing,Household Buyer - Former Owner-Occupier,107167.0
+A75,Castleblaney,4,2022,Existing,Household Buyer - Non-Occupier,107100.0
+A75,Castleblaney,5,2022,All Dwelling Statuses,All Buyer Types,204583.0
+A75,Castleblaney,5,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,273000.0
+A75,Castleblaney,5,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,216600.0
+A75,Castleblaney,5,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,93333.0
+A75,Castleblaney,5,2022,New,All Buyer Types,
+A75,Castleblaney,5,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,5,2022,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,5,2022,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2022,Existing,All Buyer Types,204583.0
+A75,Castleblaney,5,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,273000.0
+A75,Castleblaney,5,2022,Existing,Household Buyer - Former Owner-Occupier,216600.0
+A75,Castleblaney,5,2022,Existing,Household Buyer - Non-Occupier,93333.0
+A75,Castleblaney,6,2022,All Dwelling Statuses,All Buyer Types,182850.0
+A75,Castleblaney,6,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,218000.0
+A75,Castleblaney,6,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,180500.0
+A75,Castleblaney,6,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,136000.0
+A75,Castleblaney,6,2022,New,All Buyer Types,
+A75,Castleblaney,6,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,6,2022,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,6,2022,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2022,Existing,All Buyer Types,182850.0
+A75,Castleblaney,6,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,218000.0
+A75,Castleblaney,6,2022,Existing,Household Buyer - Former Owner-Occupier,180500.0
+A75,Castleblaney,6,2022,Existing,Household Buyer - Non-Occupier,136000.0
+A75,Castleblaney,7,2022,All Dwelling Statuses,All Buyer Types,190143.0
+A75,Castleblaney,7,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+A75,Castleblaney,7,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,195000.0
+A75,Castleblaney,7,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,173000.0
+A75,Castleblaney,7,2022,New,All Buyer Types,
+A75,Castleblaney,7,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,7,2022,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2022,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,7,2022,Existing,All Buyer Types,190143.0
+A75,Castleblaney,7,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+A75,Castleblaney,7,2022,Existing,Household Buyer - Former Owner-Occupier,195000.0
+A75,Castleblaney,7,2022,Existing,Household Buyer - Non-Occupier,173000.0
+A75,Castleblaney,8,2022,All Dwelling Statuses,All Buyer Types,218600.0
+A75,Castleblaney,8,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165333.0
+A75,Castleblaney,8,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,298500.0
+A75,Castleblaney,8,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2022,New,All Buyer Types,
+A75,Castleblaney,8,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,8,2022,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,8,2022,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2022,Existing,All Buyer Types,218600.0
+A75,Castleblaney,8,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165333.0
+A75,Castleblaney,8,2022,Existing,Household Buyer - Former Owner-Occupier,298500.0
+A75,Castleblaney,8,2022,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2022,All Dwelling Statuses,All Buyer Types,150250.0
+A75,Castleblaney,9,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,123333.0
+A75,Castleblaney,9,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,161667.0
+A75,Castleblaney,9,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,173500.0
+A75,Castleblaney,9,2022,New,All Buyer Types,
+A75,Castleblaney,9,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,9,2022,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,9,2022,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2022,Existing,All Buyer Types,150250.0
+A75,Castleblaney,9,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,123333.0
+A75,Castleblaney,9,2022,Existing,Household Buyer - Former Owner-Occupier,161667.0
+A75,Castleblaney,9,2022,Existing,Household Buyer - Non-Occupier,173500.0
+A75,Castleblaney,10,2022,All Dwelling Statuses,All Buyer Types,228833.0
+A75,Castleblaney,10,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,315000.0
+A75,Castleblaney,10,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,300333.0
+A75,Castleblaney,10,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,78500.0
+A75,Castleblaney,10,2022,New,All Buyer Types,
+A75,Castleblaney,10,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,10,2022,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,10,2022,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2022,Existing,All Buyer Types,228833.0
+A75,Castleblaney,10,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,315000.0
+A75,Castleblaney,10,2022,Existing,Household Buyer - Former Owner-Occupier,300333.0
+A75,Castleblaney,10,2022,Existing,Household Buyer - Non-Occupier,78500.0
+A75,Castleblaney,11,2022,All Dwelling Statuses,All Buyer Types,228038.0
+A75,Castleblaney,11,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,141875.0
+A75,Castleblaney,11,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,266333.0
+A75,Castleblaney,11,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2022,New,All Buyer Types,
+A75,Castleblaney,11,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,11,2022,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,11,2022,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2022,Existing,All Buyer Types,228038.0
+A75,Castleblaney,11,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,141875.0
+A75,Castleblaney,11,2022,Existing,Household Buyer - Former Owner-Occupier,266333.0
+A75,Castleblaney,11,2022,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,12,2022,All Dwelling Statuses,All Buyer Types,231231.0
+A75,Castleblaney,12,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,220957.0
+A75,Castleblaney,12,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,245375.0
+A75,Castleblaney,12,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,190000.0
+A75,Castleblaney,12,2022,New,All Buyer Types,269837.0
+A75,Castleblaney,12,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,271140.0
+A75,Castleblaney,12,2022,New,Household Buyer - Former Owner-Occupier,267667.0
+A75,Castleblaney,12,2022,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,12,2022,Existing,All Buyer Types,192625.0
+A75,Castleblaney,12,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,95500.0
+A75,Castleblaney,12,2022,Existing,Household Buyer - Former Owner-Occupier,232000.0
+A75,Castleblaney,12,2022,Existing,Household Buyer - Non-Occupier,190000.0
+A75,Castleblaney,1,2023,All Dwelling Statuses,All Buyer Types,215439.0
+A75,Castleblaney,1,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,242544.0
+A75,Castleblaney,1,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,188333.0
+A75,Castleblaney,1,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2023,New,All Buyer Types,272631.0
+A75,Castleblaney,1,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,272631.0
+A75,Castleblaney,1,2023,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2023,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2023,Existing,All Buyer Types,204000.0
+A75,Castleblaney,1,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,227500.0
+A75,Castleblaney,1,2023,Existing,Household Buyer - Former Owner-Occupier,188333.0
+A75,Castleblaney,1,2023,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2023,All Dwelling Statuses,All Buyer Types,274750.0
+A75,Castleblaney,2,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,273500.0
+A75,Castleblaney,2,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,385000.0
+A75,Castleblaney,2,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,56750.0
+A75,Castleblaney,2,2023,New,All Buyer Types,280583.0
+A75,Castleblaney,2,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,265000.0
+A75,Castleblaney,2,2023,New,Household Buyer - Former Owner-Occupier,520000.0
+A75,Castleblaney,2,2023,New,Household Buyer - Non-Occupier,56750.0
+A75,Castleblaney,2,2023,Existing,All Buyer Types,266000.0
+A75,Castleblaney,2,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,282000.0
+A75,Castleblaney,2,2023,Existing,Household Buyer - Former Owner-Occupier,250000.0
+A75,Castleblaney,2,2023,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2023,All Dwelling Statuses,All Buyer Types,198915.0
+A75,Castleblaney,3,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,197581.0
+A75,Castleblaney,3,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,182600.0
+A75,Castleblaney,3,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,229667.0
+A75,Castleblaney,3,2023,New,All Buyer Types,270949.0
+A75,Castleblaney,3,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,272415.0
+A75,Castleblaney,3,2023,New,Household Buyer - Former Owner-Occupier,268499.0
+A75,Castleblaney,3,2023,New,Household Buyer - Non-Occupier,269000.0
+A75,Castleblaney,3,2023,Existing,All Buyer Types,166173.0
+A75,Castleblaney,3,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,152680.0
+A75,Castleblaney,3,2023,Existing,Household Buyer - Former Owner-Occupier,161125.0
+A75,Castleblaney,3,2023,Existing,Household Buyer - Non-Occupier,210000.0
+A75,Castleblaney,4,2023,All Dwelling Statuses,All Buyer Types,200469.0
+A75,Castleblaney,4,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,202945.0
+A75,Castleblaney,4,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,265750.0
+A75,Castleblaney,4,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,60000.0
+A75,Castleblaney,4,2023,New,All Buyer Types,264640.0
+A75,Castleblaney,4,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,264640.0
+A75,Castleblaney,4,2023,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,4,2023,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2023,Existing,All Buyer Types,174800.0
+A75,Castleblaney,4,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,141250.0
+A75,Castleblaney,4,2023,Existing,Household Buyer - Former Owner-Occupier,265750.0
+A75,Castleblaney,4,2023,Existing,Household Buyer - Non-Occupier,60000.0
+A75,Castleblaney,5,2023,All Dwelling Statuses,All Buyer Types,190571.0
+A75,Castleblaney,5,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,265000.0
+A75,Castleblaney,5,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178167.0
+A75,Castleblaney,5,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2023,New,All Buyer Types,
+A75,Castleblaney,5,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,5,2023,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,5,2023,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2023,Existing,All Buyer Types,190571.0
+A75,Castleblaney,5,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,265000.0
+A75,Castleblaney,5,2023,Existing,Household Buyer - Former Owner-Occupier,178167.0
+A75,Castleblaney,5,2023,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2023,All Dwelling Statuses,All Buyer Types,189286.0
+A75,Castleblaney,6,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,145000.0
+A75,Castleblaney,6,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,217500.0
+A75,Castleblaney,6,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,155000.0
+A75,Castleblaney,6,2023,New,All Buyer Types,
+A75,Castleblaney,6,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,6,2023,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,6,2023,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2023,Existing,All Buyer Types,189286.0
+A75,Castleblaney,6,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,145000.0
+A75,Castleblaney,6,2023,Existing,Household Buyer - Former Owner-Occupier,217500.0
+A75,Castleblaney,6,2023,Existing,Household Buyer - Non-Occupier,155000.0
+A75,Castleblaney,7,2023,All Dwelling Statuses,All Buyer Types,179583.0
+A75,Castleblaney,7,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,219167.0
+A75,Castleblaney,7,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,167500.0
+A75,Castleblaney,7,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,85000.0
+A75,Castleblaney,7,2023,New,All Buyer Types,269000.0
+A75,Castleblaney,7,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,269000.0
+A75,Castleblaney,7,2023,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2023,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,7,2023,Existing,All Buyer Types,161700.0
+A75,Castleblaney,7,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,194250.0
+A75,Castleblaney,7,2023,Existing,Household Buyer - Former Owner-Occupier,167500.0
+A75,Castleblaney,7,2023,Existing,Household Buyer - Non-Occupier,85000.0
+A75,Castleblaney,8,2023,All Dwelling Statuses,All Buyer Types,229500.0
+A75,Castleblaney,8,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,289500.0
+A75,Castleblaney,8,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,206750.0
+A75,Castleblaney,8,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,155000.0
+A75,Castleblaney,8,2023,New,All Buyer Types,
+A75,Castleblaney,8,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,8,2023,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,8,2023,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,8,2023,Existing,All Buyer Types,229500.0
+A75,Castleblaney,8,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,289500.0
+A75,Castleblaney,8,2023,Existing,Household Buyer - Former Owner-Occupier,206750.0
+A75,Castleblaney,8,2023,Existing,Household Buyer - Non-Occupier,155000.0
+A75,Castleblaney,9,2023,All Dwelling Statuses,All Buyer Types,208000.0
+A75,Castleblaney,9,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,208333.0
+A75,Castleblaney,9,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,229000.0
+A75,Castleblaney,9,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,165000.0
+A75,Castleblaney,9,2023,New,All Buyer Types,
+A75,Castleblaney,9,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,9,2023,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,9,2023,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,9,2023,Existing,All Buyer Types,208000.0
+A75,Castleblaney,9,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,208333.0
+A75,Castleblaney,9,2023,Existing,Household Buyer - Former Owner-Occupier,229000.0
+A75,Castleblaney,9,2023,Existing,Household Buyer - Non-Occupier,165000.0
+A75,Castleblaney,10,2023,All Dwelling Statuses,All Buyer Types,201000.0
+A75,Castleblaney,10,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,187000.0
+A75,Castleblaney,10,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,238400.0
+A75,Castleblaney,10,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,56000.0
+A75,Castleblaney,10,2023,New,All Buyer Types,
+A75,Castleblaney,10,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,10,2023,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,10,2023,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,10,2023,Existing,All Buyer Types,201000.0
+A75,Castleblaney,10,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,187000.0
+A75,Castleblaney,10,2023,Existing,Household Buyer - Former Owner-Occupier,238400.0
+A75,Castleblaney,10,2023,Existing,Household Buyer - Non-Occupier,56000.0
+A75,Castleblaney,11,2023,All Dwelling Statuses,All Buyer Types,156000.0
+A75,Castleblaney,11,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+A75,Castleblaney,11,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,138333.0
+A75,Castleblaney,11,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,195000.0
+A75,Castleblaney,11,2023,New,All Buyer Types,
+A75,Castleblaney,11,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,11,2023,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,11,2023,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,11,2023,Existing,All Buyer Types,156000.0
+A75,Castleblaney,11,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,170000.0
+A75,Castleblaney,11,2023,Existing,Household Buyer - Former Owner-Occupier,138333.0
+A75,Castleblaney,11,2023,Existing,Household Buyer - Non-Occupier,195000.0
+A75,Castleblaney,12,2023,All Dwelling Statuses,All Buyer Types,222854.0
+A75,Castleblaney,12,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,243084.0
+A75,Castleblaney,12,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,266667.0
+A75,Castleblaney,12,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,115000.0
+A75,Castleblaney,12,2023,New,All Buyer Types,317126.0
+A75,Castleblaney,12,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,317126.0
+A75,Castleblaney,12,2023,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,12,2023,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,12,2023,Existing,All Buyer Types,204000.0
+A75,Castleblaney,12,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,95000.0
+A75,Castleblaney,12,2023,Existing,Household Buyer - Former Owner-Occupier,266667.0
+A75,Castleblaney,12,2023,Existing,Household Buyer - Non-Occupier,115000.0
+A75,Castleblaney,1,2024,All Dwelling Statuses,All Buyer Types,266375.0
+A75,Castleblaney,1,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,218750.0
+A75,Castleblaney,1,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,560000.0
+A75,Castleblaney,1,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,232000.0
+A75,Castleblaney,1,2024,New,All Buyer Types,
+A75,Castleblaney,1,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,1,2024,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,1,2024,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,1,2024,Existing,All Buyer Types,266375.0
+A75,Castleblaney,1,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,218750.0
+A75,Castleblaney,1,2024,Existing,Household Buyer - Former Owner-Occupier,560000.0
+A75,Castleblaney,1,2024,Existing,Household Buyer - Non-Occupier,232000.0
+A75,Castleblaney,2,2024,All Dwelling Statuses,All Buyer Types,209397.0
+A75,Castleblaney,2,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,231666.0
+A75,Castleblaney,2,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,186545.0
+A75,Castleblaney,2,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,234000.0
+A75,Castleblaney,2,2024,New,All Buyer Types,314999.0
+A75,Castleblaney,2,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,314999.0
+A75,Castleblaney,2,2024,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,2,2024,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,2,2024,Existing,All Buyer Types,194311.0
+A75,Castleblaney,2,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+A75,Castleblaney,2,2024,Existing,Household Buyer - Former Owner-Occupier,186545.0
+A75,Castleblaney,2,2024,Existing,Household Buyer - Non-Occupier,234000.0
+A75,Castleblaney,3,2024,All Dwelling Statuses,All Buyer Types,375000.0
+A75,Castleblaney,3,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,248333.0
+A75,Castleblaney,3,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,470000.0
+A75,Castleblaney,3,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2024,New,All Buyer Types,315000.0
+A75,Castleblaney,3,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,315000.0
+A75,Castleblaney,3,2024,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,3,2024,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,3,2024,Existing,All Buyer Types,385000.0
+A75,Castleblaney,3,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,215000.0
+A75,Castleblaney,3,2024,Existing,Household Buyer - Former Owner-Occupier,470000.0
+A75,Castleblaney,3,2024,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,4,2024,All Dwelling Statuses,All Buyer Types,234313.0
+A75,Castleblaney,4,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,206000.0
+A75,Castleblaney,4,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,319252.0
+A75,Castleblaney,4,2024,New,All Buyer Types,319252.0
+A75,Castleblaney,4,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2024,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,4,2024,New,Household Buyer - Non-Occupier,319252.0
+A75,Castleblaney,4,2024,Existing,All Buyer Types,206000.0
+A75,Castleblaney,4,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,4,2024,Existing,Household Buyer - Former Owner-Occupier,206000.0
+A75,Castleblaney,4,2024,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2024,All Dwelling Statuses,All Buyer Types,185959.0
+A75,Castleblaney,5,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,61000.0
+A75,Castleblaney,5,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,223688.0
+A75,Castleblaney,5,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,160000.0
+A75,Castleblaney,5,2024,New,All Buyer Types,319252.0
+A75,Castleblaney,5,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,5,2024,New,Household Buyer - Former Owner-Occupier,319252.0
+A75,Castleblaney,5,2024,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,5,2024,Existing,All Buyer Types,159300.0
+A75,Castleblaney,5,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,61000.0
+A75,Castleblaney,5,2024,Existing,Household Buyer - Former Owner-Occupier,191833.0
+A75,Castleblaney,5,2024,Existing,Household Buyer - Non-Occupier,160000.0
+A75,Castleblaney,6,2024,All Dwelling Statuses,All Buyer Types,266250.0
+A75,Castleblaney,6,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,285000.0
+A75,Castleblaney,6,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,210000.0
+A75,Castleblaney,6,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2024,New,All Buyer Types,
+A75,Castleblaney,6,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,6,2024,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,6,2024,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,6,2024,Existing,All Buyer Types,266250.0
+A75,Castleblaney,6,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,285000.0
+A75,Castleblaney,6,2024,Existing,Household Buyer - Former Owner-Occupier,210000.0
+A75,Castleblaney,6,2024,Existing,Household Buyer - Non-Occupier,
+A75,Castleblaney,7,2024,All Dwelling Statuses,All Buyer Types,174000.0
+A75,Castleblaney,7,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,265000.0
+A75,Castleblaney,7,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,188000.0
+A75,Castleblaney,7,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,55000.0
+A75,Castleblaney,7,2024,New,All Buyer Types,
+A75,Castleblaney,7,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+A75,Castleblaney,7,2024,New,Household Buyer - Former Owner-Occupier,
+A75,Castleblaney,7,2024,New,Household Buyer - Non-Occupier,
+A75,Castleblaney,7,2024,Existing,All Buyer Types,174000.0
+A75,Castleblaney,7,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,265000.0
+A75,Castleblaney,7,2024,Existing,Household Buyer - Former Owner-Occupier,188000.0
+A75,Castleblaney,7,2024,Existing,Household Buyer - Non-Occupier,55000.0
