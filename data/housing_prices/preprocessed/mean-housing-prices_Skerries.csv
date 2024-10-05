@@ -1,0 +1,2101 @@
+,Eircode,Month,Year,Dwelling Status,Type of Buyer,VALUE
+300,K34,1,2010,All Dwelling Statuses,All Buyer Types,328684.0
+301,K34,1,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,253211.0
+302,K34,1,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,379000.0
+303,K34,1,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+860,K34,1,2010,New,All Buyer Types,281421.0
+861,K34,1,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,281421.0
+862,K34,1,2010,New,Household Buyer - Former Owner-Occupier,
+863,K34,1,2010,New,Household Buyer - Non-Occupier,
+1420,K34,1,2010,Existing,All Buyer Types,340500.0
+1421,K34,1,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,225000.0
+1422,K34,1,2010,Existing,Household Buyer - Former Owner-Occupier,379000.0
+1423,K34,1,2010,Existing,Household Buyer - Non-Occupier,
+1980,K34,2,2010,All Dwelling Statuses,All Buyer Types,435000.0
+1981,K34,2,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,600000.0
+1982,K34,2,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,270000.0
+1983,K34,2,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+2540,K34,2,2010,New,All Buyer Types,
+2541,K34,2,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+2542,K34,2,2010,New,Household Buyer - Former Owner-Occupier,
+2543,K34,2,2010,New,Household Buyer - Non-Occupier,
+3100,K34,2,2010,Existing,All Buyer Types,435000.0
+3101,K34,2,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,600000.0
+3102,K34,2,2010,Existing,Household Buyer - Former Owner-Occupier,270000.0
+3103,K34,2,2010,Existing,Household Buyer - Non-Occupier,
+3660,K34,3,2010,All Dwelling Statuses,All Buyer Types,472686.0
+3661,K34,3,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+3662,K34,3,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,472686.0
+3663,K34,3,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+4220,K34,3,2010,New,All Buyer Types,472686.0
+4221,K34,3,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+4222,K34,3,2010,New,Household Buyer - Former Owner-Occupier,472686.0
+4223,K34,3,2010,New,Household Buyer - Non-Occupier,
+4780,K34,3,2010,Existing,All Buyer Types,
+4781,K34,3,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+4782,K34,3,2010,Existing,Household Buyer - Former Owner-Occupier,
+4783,K34,3,2010,Existing,Household Buyer - Non-Occupier,
+5340,K34,4,2010,All Dwelling Statuses,All Buyer Types,268567.0
+5341,K34,4,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,238468.0
+5342,K34,4,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,315305.0
+5343,K34,4,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,173500.0
+5900,K34,4,2010,New,All Buyer Types,264545.0
+5901,K34,4,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,252703.0
+5902,K34,4,2010,New,Household Buyer - Former Owner-Occupier,288231.0
+5903,K34,4,2010,New,Household Buyer - Non-Occupier,
+6460,K34,4,2010,Existing,All Buyer Types,270075.0
+6461,K34,4,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+6462,K34,4,2010,Existing,Household Buyer - Former Owner-Occupier,320720.0
+6463,K34,4,2010,Existing,Household Buyer - Non-Occupier,173500.0
+7020,K34,5,2010,All Dwelling Statuses,All Buyer Types,355286.0
+7021,K34,5,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,273000.0
+7022,K34,5,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,572500.0
+7023,K34,5,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,250000.0
+7580,K34,5,2010,New,All Buyer Types,
+7581,K34,5,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+7582,K34,5,2010,New,Household Buyer - Former Owner-Occupier,
+7583,K34,5,2010,New,Household Buyer - Non-Occupier,
+8140,K34,5,2010,Existing,All Buyer Types,355286.0
+8141,K34,5,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,273000.0
+8142,K34,5,2010,Existing,Household Buyer - Former Owner-Occupier,572500.0
+8143,K34,5,2010,Existing,Household Buyer - Non-Occupier,250000.0
+8700,K34,6,2010,All Dwelling Statuses,All Buyer Types,241500.0
+8701,K34,6,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,266667.0
+8702,K34,6,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,262333.0
+8703,K34,6,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,172500.0
+9260,K34,6,2010,New,All Buyer Types,230667.0
+9261,K34,6,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,250000.0
+9262,K34,6,2010,New,Household Buyer - Former Owner-Occupier,247000.0
+9263,K34,6,2010,New,Household Buyer - Non-Occupier,195000.0
+9820,K34,6,2010,Existing,All Buyer Types,248000.0
+9821,K34,6,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+9822,K34,6,2010,Existing,Household Buyer - Former Owner-Occupier,270000.0
+9823,K34,6,2010,Existing,Household Buyer - Non-Occupier,150000.0
+10380,K34,7,2010,All Dwelling Statuses,All Buyer Types,302300.0
+10381,K34,7,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,311525.0
+10382,K34,7,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,290000.0
+10383,K34,7,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+10940,K34,7,2010,New,All Buyer Types,374550.0
+10941,K34,7,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,374550.0
+10942,K34,7,2010,New,Household Buyer - Former Owner-Occupier,
+10943,K34,7,2010,New,Household Buyer - Non-Occupier,
+11500,K34,7,2010,Existing,All Buyer Types,273400.0
+11501,K34,7,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,248500.0
+11502,K34,7,2010,Existing,Household Buyer - Former Owner-Occupier,290000.0
+11503,K34,7,2010,Existing,Household Buyer - Non-Occupier,
+12060,K34,8,2010,All Dwelling Statuses,All Buyer Types,520775.0
+12061,K34,8,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,290392.0
+12062,K34,8,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,866350.0
+12063,K34,8,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+12620,K34,8,2010,New,All Buyer Types,346175.0
+12621,K34,8,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,346175.0
+12622,K34,8,2010,New,Household Buyer - Former Owner-Occupier,
+12623,K34,8,2010,New,Household Buyer - Non-Occupier,
+13180,K34,8,2010,Existing,All Buyer Types,564425.0
+13181,K34,8,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,262500.0
+13182,K34,8,2010,Existing,Household Buyer - Former Owner-Occupier,866350.0
+13183,K34,8,2010,Existing,Household Buyer - Non-Occupier,
+13740,K34,9,2010,All Dwelling Statuses,All Buyer Types,342013.0
+13741,K34,9,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,365000.0
+13742,K34,9,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,330519.0
+13743,K34,9,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+14300,K34,9,2010,New,All Buyer Types,366038.0
+14301,K34,9,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+14302,K34,9,2010,New,Household Buyer - Former Owner-Occupier,366038.0
+14303,K34,9,2010,New,Household Buyer - Non-Occupier,
+14860,K34,9,2010,Existing,All Buyer Types,330000.0
+14861,K34,9,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,365000.0
+14862,K34,9,2010,Existing,Household Buyer - Former Owner-Occupier,295000.0
+14863,K34,9,2010,Existing,Household Buyer - Non-Occupier,
+15420,K34,10,2010,All Dwelling Statuses,All Buyer Types,464225.0
+15421,K34,10,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,346175.0
+15422,K34,10,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,503575.0
+15423,K34,10,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+15980,K34,10,2010,New,All Buyer Types,355951.0
+15981,K34,10,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,346175.0
+15982,K34,10,2010,New,Household Buyer - Former Owner-Occupier,365726.0
+15983,K34,10,2010,New,Household Buyer - Non-Occupier,
+16540,K34,10,2010,Existing,All Buyer Types,572500.0
+16541,K34,10,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+16542,K34,10,2010,Existing,Household Buyer - Former Owner-Occupier,572500.0
+16543,K34,10,2010,Existing,Household Buyer - Non-Occupier,
+17100,K34,11,2010,All Dwelling Statuses,All Buyer Types,398750.0
+17101,K34,11,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,277500.0
+17102,K34,11,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,520000.0
+17103,K34,11,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+17660,K34,11,2010,New,All Buyer Types,
+17661,K34,11,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+17662,K34,11,2010,New,Household Buyer - Former Owner-Occupier,
+17663,K34,11,2010,New,Household Buyer - Non-Occupier,
+18220,K34,11,2010,Existing,All Buyer Types,398750.0
+18221,K34,11,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,277500.0
+18222,K34,11,2010,Existing,Household Buyer - Former Owner-Occupier,520000.0
+18223,K34,11,2010,Existing,Household Buyer - Non-Occupier,
+18780,K34,12,2010,All Dwelling Statuses,All Buyer Types,294113.0
+18781,K34,12,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+18782,K34,12,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,365725.0
+18783,K34,12,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,280000.0
+19340,K34,12,2010,New,All Buyer Types,250483.0
+19341,K34,12,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+19342,K34,12,2010,New,Household Buyer - Former Owner-Occupier,306450.0
+19343,K34,12,2010,New,Household Buyer - Non-Occupier,280000.0
+19900,K34,12,2010,Existing,All Buyer Types,425000.0
+19901,K34,12,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+19902,K34,12,2010,Existing,Household Buyer - Former Owner-Occupier,425000.0
+19903,K34,12,2010,Existing,Household Buyer - Non-Occupier,
+20460,K34,1,2011,All Dwelling Statuses,All Buyer Types,229333.0
+20461,K34,1,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,229333.0
+20462,K34,1,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+20463,K34,1,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+21020,K34,1,2011,New,All Buyer Types,265000.0
+21021,K34,1,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,265000.0
+21022,K34,1,2011,New,Household Buyer - Former Owner-Occupier,
+21023,K34,1,2011,New,Household Buyer - Non-Occupier,
+21580,K34,1,2011,Existing,All Buyer Types,211500.0
+21581,K34,1,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,211500.0
+21582,K34,1,2011,Existing,Household Buyer - Former Owner-Occupier,
+21583,K34,1,2011,Existing,Household Buyer - Non-Occupier,
+22140,K34,2,2011,All Dwelling Statuses,All Buyer Types,303340.0
+22141,K34,2,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,291567.0
+22142,K34,2,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,321000.0
+22143,K34,2,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+22700,K34,2,2011,New,All Buyer Types,312000.0
+22701,K34,2,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+22702,K34,2,2011,New,Household Buyer - Former Owner-Occupier,312000.0
+22703,K34,2,2011,New,Household Buyer - Non-Occupier,
+23260,K34,2,2011,Existing,All Buyer Types,301175.0
+23261,K34,2,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,291567.0
+23262,K34,2,2011,Existing,Household Buyer - Former Owner-Occupier,330000.0
+23263,K34,2,2011,Existing,Household Buyer - Non-Occupier,
+23820,K34,3,2011,All Dwelling Statuses,All Buyer Types,277500.0
+23821,K34,3,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,290000.0
+23822,K34,3,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+23823,K34,3,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,265000.0
+24380,K34,3,2011,New,All Buyer Types,
+24381,K34,3,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+24382,K34,3,2011,New,Household Buyer - Former Owner-Occupier,
+24383,K34,3,2011,New,Household Buyer - Non-Occupier,
+24940,K34,3,2011,Existing,All Buyer Types,277500.0
+24941,K34,3,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,290000.0
+24942,K34,3,2011,Existing,Household Buyer - Former Owner-Occupier,
+24943,K34,3,2011,Existing,Household Buyer - Non-Occupier,265000.0
+25500,K34,4,2011,All Dwelling Statuses,All Buyer Types,356750.0
+25501,K34,4,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,232000.0
+25502,K34,4,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,457500.0
+25503,K34,4,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,280000.0
+26060,K34,4,2011,New,All Buyer Types,280000.0
+26061,K34,4,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+26062,K34,4,2011,New,Household Buyer - Former Owner-Occupier,
+26063,K34,4,2011,New,Household Buyer - Non-Occupier,280000.0
+26620,K34,4,2011,Existing,All Buyer Types,382333.0
+26621,K34,4,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,232000.0
+26622,K34,4,2011,Existing,Household Buyer - Former Owner-Occupier,457500.0
+26623,K34,4,2011,Existing,Household Buyer - Non-Occupier,
+27180,K34,5,2011,All Dwelling Statuses,All Buyer Types,246667.0
+27181,K34,5,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+27182,K34,5,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,235000.0
+27183,K34,5,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,252500.0
+27740,K34,5,2011,New,All Buyer Types,265000.0
+27741,K34,5,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+27742,K34,5,2011,New,Household Buyer - Former Owner-Occupier,
+27743,K34,5,2011,New,Household Buyer - Non-Occupier,265000.0
+28300,K34,5,2011,Existing,All Buyer Types,237500.0
+28301,K34,5,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+28302,K34,5,2011,Existing,Household Buyer - Former Owner-Occupier,235000.0
+28303,K34,5,2011,Existing,Household Buyer - Non-Occupier,240000.0
+28860,K34,6,2011,All Dwelling Statuses,All Buyer Types,203500.0
+28861,K34,6,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,203500.0
+28862,K34,6,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+28863,K34,6,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+29420,K34,6,2011,New,All Buyer Types,152000.0
+29421,K34,6,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,152000.0
+29422,K34,6,2011,New,Household Buyer - Former Owner-Occupier,
+29423,K34,6,2011,New,Household Buyer - Non-Occupier,
+29980,K34,6,2011,Existing,All Buyer Types,255000.0
+29981,K34,6,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,255000.0
+29982,K34,6,2011,Existing,Household Buyer - Former Owner-Occupier,
+29983,K34,6,2011,Existing,Household Buyer - Non-Occupier,
+30540,K34,7,2011,All Dwelling Statuses,All Buyer Types,700000.0
+30541,K34,7,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+30542,K34,7,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,700000.0
+30543,K34,7,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+31100,K34,7,2011,New,All Buyer Types,
+31101,K34,7,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+31102,K34,7,2011,New,Household Buyer - Former Owner-Occupier,
+31103,K34,7,2011,New,Household Buyer - Non-Occupier,
+31660,K34,7,2011,Existing,All Buyer Types,700000.0
+31661,K34,7,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+31662,K34,7,2011,Existing,Household Buyer - Former Owner-Occupier,700000.0
+31663,K34,7,2011,Existing,Household Buyer - Non-Occupier,
+32220,K34,8,2011,All Dwelling Statuses,All Buyer Types,296571.0
+32221,K34,8,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,237500.0
+32222,K34,8,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,354000.0
+32223,K34,8,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,185000.0
+32780,K34,8,2011,New,All Buyer Types,
+32781,K34,8,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+32782,K34,8,2011,New,Household Buyer - Former Owner-Occupier,
+32783,K34,8,2011,New,Household Buyer - Non-Occupier,
+33340,K34,8,2011,Existing,All Buyer Types,296571.0
+33341,K34,8,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,237500.0
+33342,K34,8,2011,Existing,Household Buyer - Former Owner-Occupier,354000.0
+33343,K34,8,2011,Existing,Household Buyer - Non-Occupier,185000.0
+33900,K34,9,2011,All Dwelling Statuses,All Buyer Types,275914.0
+33901,K34,9,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,287155.0
+33902,K34,9,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,272167.0
+33903,K34,9,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+34460,K34,9,2011,New,All Buyer Types,287155.0
+34461,K34,9,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,287155.0
+34462,K34,9,2011,New,Household Buyer - Former Owner-Occupier,
+34463,K34,9,2011,New,Household Buyer - Non-Occupier,
+35020,K34,9,2011,Existing,All Buyer Types,272167.0
+35021,K34,9,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+35022,K34,9,2011,Existing,Household Buyer - Former Owner-Occupier,272167.0
+35023,K34,9,2011,Existing,Household Buyer - Non-Occupier,
+35580,K34,10,2011,All Dwelling Statuses,All Buyer Types,417333.0
+35581,K34,10,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+35582,K34,10,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,491000.0
+35583,K34,10,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,270000.0
+36140,K34,10,2011,New,All Buyer Types,270000.0
+36141,K34,10,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+36142,K34,10,2011,New,Household Buyer - Former Owner-Occupier,
+36143,K34,10,2011,New,Household Buyer - Non-Occupier,270000.0
+36700,K34,10,2011,Existing,All Buyer Types,491000.0
+36701,K34,10,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+36702,K34,10,2011,Existing,Household Buyer - Former Owner-Occupier,491000.0
+36703,K34,10,2011,Existing,Household Buyer - Non-Occupier,
+37260,K34,11,2011,All Dwelling Statuses,All Buyer Types,331500.0
+37261,K34,11,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,333000.0
+37262,K34,11,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,331000.0
+37263,K34,11,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+37820,K34,11,2011,New,All Buyer Types,
+37821,K34,11,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+37822,K34,11,2011,New,Household Buyer - Former Owner-Occupier,
+37823,K34,11,2011,New,Household Buyer - Non-Occupier,
+38380,K34,11,2011,Existing,All Buyer Types,331500.0
+38381,K34,11,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,333000.0
+38382,K34,11,2011,Existing,Household Buyer - Former Owner-Occupier,331000.0
+38383,K34,11,2011,Existing,Household Buyer - Non-Occupier,
+38940,K34,12,2011,All Dwelling Statuses,All Buyer Types,246167.0
+38941,K34,12,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,235500.0
+38942,K34,12,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,248000.0
+38943,K34,12,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,255000.0
+39500,K34,12,2011,New,All Buyer Types,261333.0
+39501,K34,12,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,261000.0
+39502,K34,12,2011,New,Household Buyer - Former Owner-Occupier,263000.0
+39503,K34,12,2011,New,Household Buyer - Non-Occupier,260000.0
+40060,K34,12,2011,Existing,All Buyer Types,231000.0
+40061,K34,12,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+40062,K34,12,2011,Existing,Household Buyer - Former Owner-Occupier,233000.0
+40063,K34,12,2011,Existing,Household Buyer - Non-Occupier,250000.0
+40620,K34,1,2012,All Dwelling Statuses,All Buyer Types,345000.0
+40621,K34,1,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+40622,K34,1,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,345000.0
+40623,K34,1,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+41180,K34,1,2012,New,All Buyer Types,
+41181,K34,1,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+41182,K34,1,2012,New,Household Buyer - Former Owner-Occupier,
+41183,K34,1,2012,New,Household Buyer - Non-Occupier,
+41740,K34,1,2012,Existing,All Buyer Types,345000.0
+41741,K34,1,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+41742,K34,1,2012,Existing,Household Buyer - Former Owner-Occupier,345000.0
+41743,K34,1,2012,Existing,Household Buyer - Non-Occupier,
+42300,K34,2,2012,All Dwelling Statuses,All Buyer Types,397500.0
+42301,K34,2,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+42302,K34,2,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,436250.0
+42303,K34,2,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,320000.0
+42860,K34,2,2012,New,All Buyer Types,
+42861,K34,2,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+42862,K34,2,2012,New,Household Buyer - Former Owner-Occupier,
+42863,K34,2,2012,New,Household Buyer - Non-Occupier,
+43420,K34,2,2012,Existing,All Buyer Types,397500.0
+43421,K34,2,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+43422,K34,2,2012,Existing,Household Buyer - Former Owner-Occupier,436250.0
+43423,K34,2,2012,Existing,Household Buyer - Non-Occupier,320000.0
+43980,K34,3,2012,All Dwelling Statuses,All Buyer Types,293000.0
+43981,K34,3,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+43982,K34,3,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+43983,K34,3,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,293000.0
+44540,K34,3,2012,New,All Buyer Types,
+44541,K34,3,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+44542,K34,3,2012,New,Household Buyer - Former Owner-Occupier,
+44543,K34,3,2012,New,Household Buyer - Non-Occupier,
+45100,K34,3,2012,Existing,All Buyer Types,293000.0
+45101,K34,3,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+45102,K34,3,2012,Existing,Household Buyer - Former Owner-Occupier,
+45103,K34,3,2012,Existing,Household Buyer - Non-Occupier,293000.0
+45660,K34,4,2012,All Dwelling Statuses,All Buyer Types,203500.0
+45661,K34,4,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+45662,K34,4,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,203500.0
+45663,K34,4,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+46220,K34,4,2012,New,All Buyer Types,
+46221,K34,4,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+46222,K34,4,2012,New,Household Buyer - Former Owner-Occupier,
+46223,K34,4,2012,New,Household Buyer - Non-Occupier,
+46780,K34,4,2012,Existing,All Buyer Types,203500.0
+46781,K34,4,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+46782,K34,4,2012,Existing,Household Buyer - Former Owner-Occupier,203500.0
+46783,K34,4,2012,Existing,Household Buyer - Non-Occupier,
+47340,K34,5,2012,All Dwelling Statuses,All Buyer Types,281833.0
+47341,K34,5,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,249000.0
+47342,K34,5,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,298250.0
+47343,K34,5,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+47900,K34,5,2012,New,All Buyer Types,238000.0
+47901,K34,5,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,238000.0
+47902,K34,5,2012,New,Household Buyer - Former Owner-Occupier,
+47903,K34,5,2012,New,Household Buyer - Non-Occupier,
+48460,K34,5,2012,Existing,All Buyer Types,290600.0
+48461,K34,5,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,260000.0
+48462,K34,5,2012,Existing,Household Buyer - Former Owner-Occupier,298250.0
+48463,K34,5,2012,Existing,Household Buyer - Non-Occupier,
+49020,K34,6,2012,All Dwelling Statuses,All Buyer Types,285019.0
+49021,K34,6,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+49022,K34,6,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,292565.0
+49023,K34,6,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,272400.0
+49580,K34,6,2012,New,All Buyer Types,223365.0
+49581,K34,6,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+49582,K34,6,2012,New,Household Buyer - Former Owner-Occupier,198848.0
+49583,K34,6,2012,New,Household Buyer - Non-Occupier,272400.0
+50140,K34,6,2012,Existing,All Buyer Types,377500.0
+50141,K34,6,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+50142,K34,6,2012,Existing,Household Buyer - Former Owner-Occupier,480000.0
+50143,K34,6,2012,Existing,Household Buyer - Non-Occupier,
+50700,K34,7,2012,All Dwelling Statuses,All Buyer Types,243464.0
+50701,K34,7,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,238333.0
+50702,K34,7,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,246050.0
+50703,K34,7,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,233000.0
+51260,K34,7,2012,New,All Buyer Types,174333.0
+51261,K34,7,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,219999.0
+51262,K34,7,2012,New,Household Buyer - Former Owner-Occupier,151500.0
+51263,K34,7,2012,New,Household Buyer - Non-Occupier,
+51820,K34,7,2012,Existing,All Buyer Types,262318.0
+51821,K34,7,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,247500.0
+51822,K34,7,2012,Existing,Household Buyer - Former Owner-Occupier,269688.0
+51823,K34,7,2012,Existing,Household Buyer - Non-Occupier,233000.0
+52380,K34,8,2012,All Dwelling Statuses,All Buyer Types,257917.0
+52381,K34,8,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,270001.0
+52382,K34,8,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,255500.0
+52383,K34,8,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+52940,K34,8,2012,New,All Buyer Types,270001.0
+52941,K34,8,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,270001.0
+52942,K34,8,2012,New,Household Buyer - Former Owner-Occupier,
+52943,K34,8,2012,New,Household Buyer - Non-Occupier,
+53500,K34,8,2012,Existing,All Buyer Types,255500.0
+53501,K34,8,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+53502,K34,8,2012,Existing,Household Buyer - Former Owner-Occupier,255500.0
+53503,K34,8,2012,Existing,Household Buyer - Non-Occupier,
+54060,K34,9,2012,All Dwelling Statuses,All Buyer Types,201241.0
+54061,K34,9,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+54062,K34,9,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,200985.0
+54063,K34,9,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,201667.0
+54620,K34,9,2012,New,All Buyer Types,177642.0
+54621,K34,9,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+54622,K34,9,2012,New,Household Buyer - Former Owner-Occupier,177642.0
+54623,K34,9,2012,New,Household Buyer - Non-Occupier,
+55180,K34,9,2012,Existing,All Buyer Types,215400.0
+55181,K34,9,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+55182,K34,9,2012,Existing,Household Buyer - Former Owner-Occupier,236000.0
+55183,K34,9,2012,Existing,Household Buyer - Non-Occupier,201667.0
+55740,K34,10,2012,All Dwelling Statuses,All Buyer Types,238592.0
+55741,K34,10,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,224333.0
+55742,K34,10,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,242870.0
+55743,K34,10,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+56300,K34,10,2012,New,All Buyer Types,
+56301,K34,10,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+56302,K34,10,2012,New,Household Buyer - Former Owner-Occupier,
+56303,K34,10,2012,New,Household Buyer - Non-Occupier,
+56860,K34,10,2012,Existing,All Buyer Types,238592.0
+56861,K34,10,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,224333.0
+56862,K34,10,2012,Existing,Household Buyer - Former Owner-Occupier,242870.0
+56863,K34,10,2012,Existing,Household Buyer - Non-Occupier,
+57420,K34,11,2012,All Dwelling Statuses,All Buyer Types,347714.0
+57421,K34,11,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+57422,K34,11,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,402000.0
+57423,K34,11,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,290500.0
+57980,K34,11,2012,New,All Buyer Types,240000.0
+57981,K34,11,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+57982,K34,11,2012,New,Household Buyer - Former Owner-Occupier,240000.0
+57983,K34,11,2012,New,Household Buyer - Non-Occupier,
+58540,K34,11,2012,Existing,All Buyer Types,365667.0
+58541,K34,11,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+58542,K34,11,2012,Existing,Household Buyer - Former Owner-Occupier,456000.0
+58543,K34,11,2012,Existing,Household Buyer - Non-Occupier,290500.0
+59100,K34,12,2012,All Dwelling Statuses,All Buyer Types,283912.0
+59101,K34,12,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,228361.0
+59102,K34,12,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,381125.0
+59103,K34,12,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+59660,K34,12,2012,New,All Buyer Types,212264.0
+59661,K34,12,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,212264.0
+59662,K34,12,2012,New,Household Buyer - Former Owner-Occupier,
+59663,K34,12,2012,New,Household Buyer - Non-Occupier,
+60220,K34,12,2012,Existing,All Buyer Types,299833.0
+60221,K34,12,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,234800.0
+60222,K34,12,2012,Existing,Household Buyer - Former Owner-Occupier,381125.0
+60223,K34,12,2012,Existing,Household Buyer - Non-Occupier,
+60780,K34,1,2013,All Dwelling Statuses,All Buyer Types,231000.0
+60781,K34,1,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+60782,K34,1,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,252000.0
+60783,K34,1,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,210000.0
+61340,K34,1,2013,New,All Buyer Types,
+61341,K34,1,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+61342,K34,1,2013,New,Household Buyer - Former Owner-Occupier,
+61343,K34,1,2013,New,Household Buyer - Non-Occupier,
+61900,K34,1,2013,Existing,All Buyer Types,231000.0
+61901,K34,1,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+61902,K34,1,2013,Existing,Household Buyer - Former Owner-Occupier,252000.0
+61903,K34,1,2013,Existing,Household Buyer - Non-Occupier,210000.0
+62460,K34,2,2013,All Dwelling Statuses,All Buyer Types,309800.0
+62461,K34,2,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+62462,K34,2,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,347250.0
+62463,K34,2,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+63020,K34,2,2013,New,All Buyer Types,363000.0
+63021,K34,2,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+63022,K34,2,2013,New,Household Buyer - Former Owner-Occupier,363000.0
+63023,K34,2,2013,New,Household Buyer - Non-Occupier,
+63580,K34,2,2013,Existing,All Buyer Types,296500.0
+63581,K34,2,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+63582,K34,2,2013,Existing,Household Buyer - Former Owner-Occupier,342000.0
+63583,K34,2,2013,Existing,Household Buyer - Non-Occupier,
+64140,K34,3,2013,All Dwelling Statuses,All Buyer Types,266086.0
+64141,K34,3,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,214533.0
+64142,K34,3,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,348000.0
+64143,K34,3,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,175000.0
+64700,K34,3,2013,New,All Buyer Types,215650.0
+64701,K34,3,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,215650.0
+64702,K34,3,2013,New,Household Buyer - Former Owner-Occupier,
+64703,K34,3,2013,New,Household Buyer - Non-Occupier,
+65260,K34,3,2013,Existing,All Buyer Types,274492.0
+65261,K34,3,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,213975.0
+65262,K34,3,2013,Existing,Household Buyer - Former Owner-Occupier,348000.0
+65263,K34,3,2013,Existing,Household Buyer - Non-Occupier,175000.0
+65820,K34,4,2013,All Dwelling Statuses,All Buyer Types,341967.0
+65821,K34,4,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,256800.0
+65822,K34,4,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,359000.0
+65823,K34,4,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+66380,K34,4,2013,New,All Buyer Types,
+66381,K34,4,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+66382,K34,4,2013,New,Household Buyer - Former Owner-Occupier,
+66383,K34,4,2013,New,Household Buyer - Non-Occupier,
+66940,K34,4,2013,Existing,All Buyer Types,341967.0
+66941,K34,4,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,256800.0
+66942,K34,4,2013,Existing,Household Buyer - Former Owner-Occupier,359000.0
+66943,K34,4,2013,Existing,Household Buyer - Non-Occupier,
+67500,K34,5,2013,All Dwelling Statuses,All Buyer Types,252067.0
+67501,K34,5,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+67502,K34,5,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,252067.0
+67503,K34,5,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+68060,K34,5,2013,New,All Buyer Types,
+68061,K34,5,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+68062,K34,5,2013,New,Household Buyer - Former Owner-Occupier,
+68063,K34,5,2013,New,Household Buyer - Non-Occupier,
+68620,K34,5,2013,Existing,All Buyer Types,252067.0
+68621,K34,5,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+68622,K34,5,2013,Existing,Household Buyer - Former Owner-Occupier,252067.0
+68623,K34,5,2013,Existing,Household Buyer - Non-Occupier,
+69180,K34,6,2013,All Dwelling Statuses,All Buyer Types,304000.0
+69181,K34,6,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,359999.0
+69182,K34,6,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,290000.0
+69183,K34,6,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+69740,K34,6,2013,New,All Buyer Types,359999.0
+69741,K34,6,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,359999.0
+69742,K34,6,2013,New,Household Buyer - Former Owner-Occupier,
+69743,K34,6,2013,New,Household Buyer - Non-Occupier,
+70300,K34,6,2013,Existing,All Buyer Types,290000.0
+70301,K34,6,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+70302,K34,6,2013,Existing,Household Buyer - Former Owner-Occupier,290000.0
+70303,K34,6,2013,Existing,Household Buyer - Non-Occupier,
+70860,K34,7,2013,All Dwelling Statuses,All Buyer Types,248491.0
+70861,K34,7,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,189000.0
+70862,K34,7,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,261625.0
+70863,K34,7,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,206000.0
+71420,K34,7,2013,New,All Buyer Types,141875.0
+71421,K34,7,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+71422,K34,7,2013,New,Household Buyer - Former Owner-Occupier,141875.0
+71423,K34,7,2013,New,Household Buyer - Non-Occupier,
+71980,K34,7,2013,Existing,All Buyer Types,256692.0
+71981,K34,7,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,189000.0
+71982,K34,7,2013,Existing,Household Buyer - Former Owner-Occupier,273600.0
+71983,K34,7,2013,Existing,Household Buyer - Non-Occupier,206000.0
+72540,K34,8,2013,All Dwelling Statuses,All Buyer Types,292879.0
+72541,K34,8,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,178000.0
+72542,K34,8,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,378111.0
+72543,K34,8,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,139094.0
+73100,K34,8,2013,New,All Buyer Types,246344.0
+73101,K34,8,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+73102,K34,8,2013,New,Household Buyer - Former Owner-Occupier,365000.0
+73103,K34,8,2013,New,Household Buyer - Non-Occupier,127688.0
+73660,K34,8,2013,Existing,All Buyer Types,300038.0
+73661,K34,8,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,178000.0
+73662,K34,8,2013,Existing,Household Buyer - Former Owner-Occupier,379750.0
+73663,K34,8,2013,Existing,Household Buyer - Non-Occupier,150500.0
+74220,K34,9,2013,All Dwelling Statuses,All Buyer Types,278701.0
+74221,K34,9,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,420000.0
+74222,K34,9,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,247333.0
+74223,K34,9,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,325611.0
+74780,K34,9,2013,New,All Buyer Types,
+74781,K34,9,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+74782,K34,9,2013,New,Household Buyer - Former Owner-Occupier,
+74783,K34,9,2013,New,Household Buyer - Non-Occupier,
+75340,K34,9,2013,Existing,All Buyer Types,278701.0
+75341,K34,9,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,420000.0
+75342,K34,9,2013,Existing,Household Buyer - Former Owner-Occupier,247333.0
+75343,K34,9,2013,Existing,Household Buyer - Non-Occupier,325611.0
+75900,K34,10,2013,All Dwelling Statuses,All Buyer Types,399937.0
+75901,K34,10,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,361674.0
+75902,K34,10,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,419069.0
+75903,K34,10,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+76460,K34,10,2013,New,All Buyer Types,386312.0
+76461,K34,10,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,358348.0
+76462,K34,10,2013,New,Household Buyer - Former Owner-Occupier,414275.0
+76463,K34,10,2013,New,Household Buyer - Non-Occupier,
+77020,K34,10,2013,Existing,All Buyer Types,406750.0
+77021,K34,10,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,365000.0
+77022,K34,10,2013,Existing,Household Buyer - Former Owner-Occupier,420667.0
+77023,K34,10,2013,Existing,Household Buyer - Non-Occupier,
+77580,K34,11,2013,All Dwelling Statuses,All Buyer Types,356928.0
+77581,K34,11,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,360138.0
+77582,K34,11,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,356125.0
+77583,K34,11,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+78140,K34,11,2013,New,All Buyer Types,414275.0
+78141,K34,11,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,414275.0
+78142,K34,11,2013,New,Household Buyer - Former Owner-Occupier,
+78143,K34,11,2013,New,Household Buyer - Non-Occupier,
+78700,K34,11,2013,Existing,All Buyer Types,350556.0
+78701,K34,11,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,306000.0
+78702,K34,11,2013,Existing,Household Buyer - Former Owner-Occupier,356125.0
+78703,K34,11,2013,Existing,Household Buyer - Non-Occupier,
+79260,K34,12,2013,All Dwelling Statuses,All Buyer Types,277106.0
+79261,K34,12,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,258750.0
+79262,K34,12,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,294882.0
+79263,K34,12,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,155000.0
+79820,K34,12,2013,New,All Buyer Types,
+79821,K34,12,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+79822,K34,12,2013,New,Household Buyer - Former Owner-Occupier,
+79823,K34,12,2013,New,Household Buyer - Non-Occupier,
+80380,K34,12,2013,Existing,All Buyer Types,277106.0
+80381,K34,12,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,258750.0
+80382,K34,12,2013,Existing,Household Buyer - Former Owner-Occupier,294882.0
+80383,K34,12,2013,Existing,Household Buyer - Non-Occupier,155000.0
+80940,K34,1,2014,All Dwelling Statuses,All Buyer Types,279916.0
+80941,K34,1,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+80942,K34,1,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,281699.0
+80943,K34,1,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,271000.0
+81500,K34,1,2014,New,All Buyer Types,350494.0
+81501,K34,1,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+81502,K34,1,2014,New,Household Buyer - Former Owner-Occupier,350494.0
+81503,K34,1,2014,New,Household Buyer - Non-Occupier,
+82060,K34,1,2014,Existing,All Buyer Types,265800.0
+82061,K34,1,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+82062,K34,1,2014,Existing,Household Buyer - Former Owner-Occupier,264500.0
+82063,K34,1,2014,Existing,Household Buyer - Non-Occupier,271000.0
+82620,K34,2,2014,All Dwelling Statuses,All Buyer Types,286938.0
+82621,K34,2,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,241000.0
+82622,K34,2,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,293500.0
+82623,K34,2,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+83180,K34,2,2014,New,All Buyer Types,370000.0
+83181,K34,2,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+83182,K34,2,2014,New,Household Buyer - Former Owner-Occupier,370000.0
+83183,K34,2,2014,New,Household Buyer - Non-Occupier,
+83740,K34,2,2014,Existing,All Buyer Types,275071.0
+83741,K34,2,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,241000.0
+83742,K34,2,2014,Existing,Household Buyer - Former Owner-Occupier,280750.0
+83743,K34,2,2014,Existing,Household Buyer - Non-Occupier,
+84300,K34,3,2014,All Dwelling Statuses,All Buyer Types,317571.0
+84301,K34,3,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,282500.0
+84302,K34,3,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,323417.0
+84303,K34,3,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+84860,K34,3,2014,New,All Buyer Types,385000.0
+84861,K34,3,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+84862,K34,3,2014,New,Household Buyer - Former Owner-Occupier,385000.0
+84863,K34,3,2014,New,Household Buyer - Non-Occupier,
+85420,K34,3,2014,Existing,All Buyer Types,312385.0
+85421,K34,3,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,282500.0
+85422,K34,3,2014,Existing,Household Buyer - Former Owner-Occupier,317818.0
+85423,K34,3,2014,Existing,Household Buyer - Non-Occupier,
+85980,K34,4,2014,All Dwelling Statuses,All Buyer Types,356667.0
+85981,K34,4,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,186000.0
+85982,K34,4,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,405429.0
+85983,K34,4,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+86540,K34,4,2014,New,All Buyer Types,385000.0
+86541,K34,4,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+86542,K34,4,2014,New,Household Buyer - Former Owner-Occupier,385000.0
+86543,K34,4,2014,New,Household Buyer - Non-Occupier,
+87100,K34,4,2014,Existing,All Buyer Types,353125.0
+87101,K34,4,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,186000.0
+87102,K34,4,2014,Existing,Household Buyer - Former Owner-Occupier,408833.0
+87103,K34,4,2014,Existing,Household Buyer - Non-Occupier,
+87660,K34,5,2014,All Dwelling Statuses,All Buyer Types,296583.0
+87661,K34,5,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,400000.0
+87662,K34,5,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,317444.0
+87663,K34,5,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,151000.0
+88220,K34,5,2014,New,All Buyer Types,385000.0
+88221,K34,5,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+88222,K34,5,2014,New,Household Buyer - Former Owner-Occupier,385000.0
+88223,K34,5,2014,New,Household Buyer - Non-Occupier,
+88780,K34,5,2014,Existing,All Buyer Types,288545.0
+88781,K34,5,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,400000.0
+88782,K34,5,2014,Existing,Household Buyer - Former Owner-Occupier,309000.0
+88783,K34,5,2014,Existing,Household Buyer - Non-Occupier,151000.0
+89340,K34,6,2014,All Dwelling Statuses,All Buyer Types,267667.0
+89341,K34,6,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,347500.0
+89342,K34,6,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,239000.0
+89343,K34,6,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,252667.0
+89900,K34,6,2014,New,All Buyer Types,390000.0
+89901,K34,6,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+89902,K34,6,2014,New,Household Buyer - Former Owner-Occupier,385000.0
+89903,K34,6,2014,New,Household Buyer - Non-Occupier,395000.0
+90460,K34,6,2014,Existing,All Buyer Types,232714.0
+90461,K34,6,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,347500.0
+90462,K34,6,2014,Existing,Household Buyer - Former Owner-Occupier,190333.0
+90463,K34,6,2014,Existing,Household Buyer - Non-Occupier,181500.0
+91020,K34,7,2014,All Dwelling Statuses,All Buyer Types,264008.0
+91021,K34,7,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,236250.0
+91022,K34,7,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,277887.0
+91023,K34,7,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+91580,K34,7,2014,New,All Buyer Types,273275.0
+91581,K34,7,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+91582,K34,7,2014,New,Household Buyer - Former Owner-Occupier,271549.0
+91583,K34,7,2014,New,Household Buyer - Non-Occupier,
+92140,K34,7,2014,Existing,All Buyer Types,259375.0
+92141,K34,7,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,197500.0
+92142,K34,7,2014,Existing,Household Buyer - Former Owner-Occupier,280000.0
+92143,K34,7,2014,Existing,Household Buyer - Non-Occupier,
+92700,K34,8,2014,All Dwelling Statuses,All Buyer Types,309141.0
+92701,K34,8,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,316666.0
+92702,K34,8,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,335933.0
+92703,K34,8,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,256400.0
+93260,K34,8,2014,New,All Buyer Types,203464.0
+93261,K34,8,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,274999.0
+93262,K34,8,2014,New,Household Buyer - Former Owner-Occupier,167697.0
+93263,K34,8,2014,New,Household Buyer - Non-Occupier,
+93820,K34,8,2014,Existing,All Buyer Types,331786.0
+93821,K34,8,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,337500.0
+93822,K34,8,2014,Existing,Household Buyer - Former Owner-Occupier,384000.0
+93823,K34,8,2014,Existing,Household Buyer - Non-Occupier,256400.0
+94380,K34,9,2014,All Dwelling Statuses,All Buyer Types,324504.0
+94381,K34,9,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,388500.0
+94382,K34,9,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,312694.0
+94383,K34,9,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,275750.0
+94940,K34,9,2014,New,All Buyer Types,281775.0
+94941,K34,9,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+94942,K34,9,2014,New,Household Buyer - Former Owner-Occupier,281775.0
+94943,K34,9,2014,New,Household Buyer - Non-Occupier,
+95500,K34,9,2014,Existing,All Buyer Types,332273.0
+95501,K34,9,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,388500.0
+95502,K34,9,2014,Existing,Household Buyer - Former Owner-Occupier,323000.0
+95503,K34,9,2014,Existing,Household Buyer - Non-Occupier,275750.0
+96060,K34,10,2014,All Dwelling Statuses,All Buyer Types,343029.0
+96061,K34,10,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,252300.0
+96062,K34,10,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,464000.0
+96063,K34,10,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+96620,K34,10,2014,New,All Buyer Types,231500.0
+96621,K34,10,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,231500.0
+96622,K34,10,2014,New,Household Buyer - Former Owner-Occupier,
+96623,K34,10,2014,New,Household Buyer - Non-Occupier,
+97180,K34,10,2014,Existing,All Buyer Types,426675.0
+97181,K34,10,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,314700.0
+97182,K34,10,2014,Existing,Household Buyer - Former Owner-Occupier,464000.0
+97183,K34,10,2014,Existing,Household Buyer - Non-Occupier,
+97740,K34,11,2014,All Dwelling Statuses,All Buyer Types,328214.0
+97741,K34,11,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,373333.0
+97742,K34,11,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,294375.0
+97743,K34,11,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,
+98300,K34,11,2014,New,All Buyer Types,267250.0
+98301,K34,11,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+98302,K34,11,2014,New,Household Buyer - Former Owner-Occupier,267250.0
+98303,K34,11,2014,New,Household Buyer - Non-Occupier,
+98860,K34,11,2014,Existing,All Buyer Types,352600.0
+98861,K34,11,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,373333.0
+98862,K34,11,2014,Existing,Household Buyer - Former Owner-Occupier,321500.0
+98863,K34,11,2014,Existing,Household Buyer - Non-Occupier,
+99420,K34,12,2014,All Dwelling Statuses,All Buyer Types,414659.0
+99421,K34,12,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+99422,K34,12,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,478031.0
+99423,K34,12,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,288500.0
+99980,K34,12,2014,New,All Buyer Types,269500.0
+99981,K34,12,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+99982,K34,12,2014,New,Household Buyer - Former Owner-Occupier,269500.0
+99983,K34,12,2014,New,Household Buyer - Non-Occupier,
+100540,K34,12,2014,Existing,All Buyer Types,469094.0
+100541,K34,12,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+100542,K34,12,2014,Existing,Household Buyer - Former Owner-Occupier,603150.0
+100543,K34,12,2014,Existing,Household Buyer - Non-Occupier,288500.0
+101100,K34,1,2015,All Dwelling Statuses,All Buyer Types,355383.0
+101101,K34,1,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,323413.0
+101102,K34,1,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,363375.0
+101103,K34,1,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+101660,K34,1,2015,New,All Buyer Types,302163.0
+101661,K34,1,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,334825.0
+101662,K34,1,2015,New,Household Buyer - Former Owner-Occupier,269500.0
+101663,K34,1,2015,New,Household Buyer - Non-Occupier,
+102220,K34,1,2015,Existing,All Buyer Types,368688.0
+102221,K34,1,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,312000.0
+102222,K34,1,2015,Existing,Household Buyer - Former Owner-Occupier,376786.0
+102223,K34,1,2015,Existing,Household Buyer - Non-Occupier,
+102780,K34,2,2015,All Dwelling Statuses,All Buyer Types,395833.0
+102781,K34,2,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+102782,K34,2,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,391786.0
+102783,K34,2,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,410000.0
+103340,K34,2,2015,New,All Buyer Types,295000.0
+103341,K34,2,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+103342,K34,2,2015,New,Household Buyer - Former Owner-Occupier,295000.0
+103343,K34,2,2015,New,Household Buyer - Non-Occupier,
+103900,K34,2,2015,Existing,All Buyer Types,408438.0
+103901,K34,2,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+103902,K34,2,2015,Existing,Household Buyer - Former Owner-Occupier,407917.0
+103903,K34,2,2015,Existing,Household Buyer - Non-Occupier,410000.0
+104460,K34,3,2015,All Dwelling Statuses,All Buyer Types,364400.0
+104461,K34,3,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,330000.0
+104462,K34,3,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,401500.0
+104463,K34,3,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,287500.0
+105020,K34,3,2015,New,All Buyer Types,287500.0
+105021,K34,3,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+105022,K34,3,2015,New,Household Buyer - Former Owner-Occupier,287500.0
+105023,K34,3,2015,New,Household Buyer - Non-Occupier,287500.0
+105580,K34,3,2015,Existing,All Buyer Types,415667.0
+105581,K34,3,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,330000.0
+105582,K34,3,2015,Existing,Household Buyer - Former Owner-Occupier,458500.0
+105583,K34,3,2015,Existing,Household Buyer - Non-Occupier,
+106140,K34,4,2015,All Dwelling Statuses,All Buyer Types,305714.0
+106141,K34,4,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+106142,K34,4,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,305714.0
+106143,K34,4,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+106700,K34,4,2015,New,All Buyer Types,295000.0
+106701,K34,4,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+106702,K34,4,2015,New,Household Buyer - Former Owner-Occupier,295000.0
+106703,K34,4,2015,New,Household Buyer - Non-Occupier,
+107260,K34,4,2015,Existing,All Buyer Types,307500.0
+107261,K34,4,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+107262,K34,4,2015,Existing,Household Buyer - Former Owner-Occupier,307500.0
+107263,K34,4,2015,Existing,Household Buyer - Non-Occupier,
+107820,K34,5,2015,All Dwelling Statuses,All Buyer Types,293909.0
+107821,K34,5,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,248500.0
+107822,K34,5,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,361500.0
+107823,K34,5,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,183000.0
+108380,K34,5,2015,New,All Buyer Types,335000.0
+108381,K34,5,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,335000.0
+108382,K34,5,2015,New,Household Buyer - Former Owner-Occupier,
+108383,K34,5,2015,New,Household Buyer - Non-Occupier,
+108940,K34,5,2015,Existing,All Buyer Types,289800.0
+108941,K34,5,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,226875.0
+108942,K34,5,2015,Existing,Household Buyer - Former Owner-Occupier,361500.0
+108943,K34,5,2015,Existing,Household Buyer - Non-Occupier,183000.0
+109500,K34,6,2015,All Dwelling Statuses,All Buyer Types,346550.0
+109501,K34,6,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,287000.0
+109502,K34,6,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,386250.0
+109503,K34,6,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+110060,K34,6,2015,New,All Buyer Types,325000.0
+110061,K34,6,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,328333.0
+110062,K34,6,2015,New,Household Buyer - Former Owner-Occupier,315000.0
+110063,K34,6,2015,New,Household Buyer - Non-Occupier,
+110620,K34,6,2015,Existing,All Buyer Types,360917.0
+110621,K34,6,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,163000.0
+110622,K34,6,2015,Existing,Household Buyer - Former Owner-Occupier,400500.0
+110623,K34,6,2015,Existing,Household Buyer - Non-Occupier,
+111180,K34,7,2015,All Dwelling Statuses,All Buyer Types,358468.0
+111181,K34,7,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,358000.0
+111182,K34,7,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,328370.0
+111183,K34,7,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,510363.0
+111740,K34,7,2015,New,All Buyer Types,361393.0
+111741,K34,7,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,318333.0
+111742,K34,7,2015,New,Household Buyer - Former Owner-Occupier,327640.0
+111743,K34,7,2015,New,Household Buyer - Non-Occupier,510363.0
+112300,K34,7,2015,Existing,All Buyer Types,354813.0
+112301,K34,7,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,397667.0
+112302,K34,7,2015,Existing,Household Buyer - Former Owner-Occupier,329100.0
+112303,K34,7,2015,Existing,Household Buyer - Non-Occupier,
+112860,K34,8,2015,All Dwelling Statuses,All Buyer Types,300526.0
+112861,K34,8,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,345000.0
+112862,K34,8,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,278289.0
+112863,K34,8,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+113420,K34,8,2015,New,All Buyer Types,319077.0
+113421,K34,8,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+113422,K34,8,2015,New,Household Buyer - Former Owner-Occupier,319077.0
+113423,K34,8,2015,New,Household Buyer - Non-Occupier,
+113980,K34,8,2015,Existing,All Buyer Types,291250.0
+113981,K34,8,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,345000.0
+113982,K34,8,2015,Existing,Household Buyer - Former Owner-Occupier,237500.0
+113983,K34,8,2015,Existing,Household Buyer - Non-Occupier,
+114540,K34,9,2015,All Dwelling Statuses,All Buyer Types,294500.0
+114541,K34,9,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,327500.0
+114542,K34,9,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,272500.0
+114543,K34,9,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+115100,K34,9,2015,New,All Buyer Types,326667.0
+115101,K34,9,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,327500.0
+115102,K34,9,2015,New,Household Buyer - Former Owner-Occupier,325000.0
+115103,K34,9,2015,New,Household Buyer - Non-Occupier,
+115660,K34,9,2015,Existing,All Buyer Types,246250.0
+115661,K34,9,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+115662,K34,9,2015,Existing,Household Buyer - Former Owner-Occupier,246250.0
+115663,K34,9,2015,Existing,Household Buyer - Non-Occupier,
+116220,K34,10,2015,All Dwelling Statuses,All Buyer Types,259336.0
+116221,K34,10,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,310000.0
+116222,K34,10,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,239070.0
+116223,K34,10,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,
+116780,K34,10,2015,New,All Buyer Types,307175.0
+116781,K34,10,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+116782,K34,10,2015,New,Household Buyer - Former Owner-Occupier,307175.0
+116783,K34,10,2015,New,Household Buyer - Non-Occupier,
+117340,K34,10,2015,Existing,All Buyer Types,240200.0
+117341,K34,10,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,310000.0
+117342,K34,10,2015,Existing,Household Buyer - Former Owner-Occupier,193667.0
+117343,K34,10,2015,Existing,Household Buyer - Non-Occupier,
+117900,K34,11,2015,All Dwelling Statuses,All Buyer Types,426754.0
+117901,K34,11,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,310000.0
+117902,K34,11,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,523299.0
+117903,K34,11,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,311125.0
+118460,K34,11,2015,New,All Buyer Types,321598.0
+118461,K34,11,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+118462,K34,11,2015,New,Household Buyer - Former Owner-Occupier,359795.0
+118463,K34,11,2015,New,Household Buyer - Non-Occupier,302500.0
+119020,K34,11,2015,Existing,All Buyer Types,466188.0
+119021,K34,11,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,310000.0
+119022,K34,11,2015,Existing,Household Buyer - Former Owner-Occupier,556000.0
+119023,K34,11,2015,Existing,Household Buyer - Non-Occupier,319750.0
+119580,K34,12,2015,All Dwelling Statuses,All Buyer Types,329294.0
+119581,K34,12,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,361000.0
+119582,K34,12,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,343750.0
+119583,K34,12,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,195000.0
+120140,K34,12,2015,New,All Buyer Types,362143.0
+120141,K34,12,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+120142,K34,12,2015,New,Household Buyer - Former Owner-Occupier,362143.0
+120143,K34,12,2015,New,Household Buyer - Non-Occupier,
+120700,K34,12,2015,Existing,All Buyer Types,306300.0
+120701,K34,12,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,361000.0
+120702,K34,12,2015,Existing,Household Buyer - Former Owner-Occupier,318000.0
+120703,K34,12,2015,Existing,Household Buyer - Non-Occupier,195000.0
+121260,K34,1,2016,All Dwelling Statuses,All Buyer Types,337250.0
+121261,K34,1,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,340000.0
+121262,K34,1,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,344000.0
+121263,K34,1,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,310000.0
+121820,K34,1,2016,New,All Buyer Types,355000.0
+121821,K34,1,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,368333.0
+121822,K34,1,2016,New,Household Buyer - Former Owner-Occupier,315000.0
+121823,K34,1,2016,New,Household Buyer - Non-Occupier,
+122380,K34,1,2016,Existing,All Buyer Types,319500.0
+122381,K34,1,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,297500.0
+122382,K34,1,2016,Existing,Household Buyer - Former Owner-Occupier,373000.0
+122383,K34,1,2016,Existing,Household Buyer - Non-Occupier,310000.0
+122940,K34,2,2016,All Dwelling Statuses,All Buyer Types,391292.0
+122941,K34,2,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,389708.0
+122942,K34,2,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,436500.0
+122943,K34,2,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,170000.0
+123500,K34,2,2016,New,All Buyer Types,389708.0
+123501,K34,2,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,389708.0
+123502,K34,2,2016,New,Household Buyer - Former Owner-Occupier,
+123503,K34,2,2016,New,Household Buyer - Non-Occupier,
+124060,K34,2,2016,Existing,All Buyer Types,392083.0
+124061,K34,2,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+124062,K34,2,2016,Existing,Household Buyer - Former Owner-Occupier,436500.0
+124063,K34,2,2016,Existing,Household Buyer - Non-Occupier,170000.0
+124620,K34,3,2016,All Dwelling Statuses,All Buyer Types,416833.0
+124621,K34,3,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,423500.0
+124622,K34,3,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,393000.0
+124623,K34,3,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,475000.0
+125180,K34,3,2016,New,All Buyer Types,475000.0
+125181,K34,3,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+125182,K34,3,2016,New,Household Buyer - Former Owner-Occupier,
+125183,K34,3,2016,New,Household Buyer - Non-Occupier,475000.0
+125740,K34,3,2016,Existing,All Buyer Types,405200.0
+125741,K34,3,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,423500.0
+125742,K34,3,2016,Existing,Household Buyer - Former Owner-Occupier,393000.0
+125743,K34,3,2016,Existing,Household Buyer - Non-Occupier,
+126300,K34,4,2016,All Dwelling Statuses,All Buyer Types,316614.0
+126301,K34,4,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,374797.0
+126302,K34,4,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,365700.0
+126303,K34,4,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,137833.0
+126860,K34,4,2016,New,All Buyer Types,324662.0
+126861,K34,4,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,324493.0
+126862,K34,4,2016,New,Household Buyer - Former Owner-Occupier,324999.0
+126863,K34,4,2016,New,Household Buyer - Non-Occupier,
+127420,K34,4,2016,Existing,All Buyer Types,314200.0
+127421,K34,4,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,408333.0
+127422,K34,4,2016,Existing,Household Buyer - Former Owner-Occupier,375875.0
+127423,K34,4,2016,Existing,Household Buyer - Non-Occupier,137833.0
+127980,K34,5,2016,All Dwelling Statuses,All Buyer Types,304911.0
+127981,K34,5,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,291278.0
+127982,K34,5,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,314000.0
+127983,K34,5,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+128540,K34,5,2016,New,All Buyer Types,330019.0
+128541,K34,5,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,310056.0
+128542,K34,5,2016,New,Household Buyer - Former Owner-Occupier,340000.0
+128543,K34,5,2016,New,Household Buyer - Non-Occupier,
+129100,K34,5,2016,Existing,All Buyer Types,267250.0
+129101,K34,5,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,272500.0
+129102,K34,5,2016,Existing,Household Buyer - Former Owner-Occupier,262000.0
+129103,K34,5,2016,Existing,Household Buyer - Non-Occupier,
+129660,K34,6,2016,All Dwelling Statuses,All Buyer Types,283708.0
+129661,K34,6,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,295667.0
+129662,K34,6,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,301428.0
+129663,K34,6,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,203750.0
+130220,K34,6,2016,New,All Buyer Types,303889.0
+130221,K34,6,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,312500.0
+130222,K34,6,2016,New,Household Buyer - Former Owner-Occupier,301428.0
+130223,K34,6,2016,New,Household Buyer - Non-Occupier,
+130780,K34,6,2016,Existing,All Buyer Types,223167.0
+130781,K34,6,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,262000.0
+130782,K34,6,2016,Existing,Household Buyer - Former Owner-Occupier,
+130783,K34,6,2016,Existing,Household Buyer - Non-Occupier,203750.0
+131340,K34,7,2016,All Dwelling Statuses,All Buyer Types,371914.0
+131341,K34,7,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,341000.0
+131342,K34,7,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,375778.0
+131343,K34,7,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+131900,K34,7,2016,New,All Buyer Types,352995.0
+131901,K34,7,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,370000.0
+131902,K34,7,2016,New,Household Buyer - Former Owner-Occupier,351106.0
+131903,K34,7,2016,New,Household Buyer - Non-Occupier,
+132460,K34,7,2016,Existing,All Buyer Types,395563.0
+132461,K34,7,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,312000.0
+132462,K34,7,2016,Existing,Household Buyer - Former Owner-Occupier,407500.0
+132463,K34,7,2016,Existing,Household Buyer - Non-Occupier,
+133020,K34,8,2016,All Dwelling Statuses,All Buyer Types,347458.0
+133021,K34,8,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+133022,K34,8,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,362450.0
+133023,K34,8,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,272500.0
+133580,K34,8,2016,New,All Buyer Types,373333.0
+133581,K34,8,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+133582,K34,8,2016,New,Household Buyer - Former Owner-Occupier,373333.0
+133583,K34,8,2016,New,Household Buyer - Non-Occupier,
+134140,K34,8,2016,Existing,All Buyer Types,338833.0
+134141,K34,8,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+134142,K34,8,2016,Existing,Household Buyer - Former Owner-Occupier,357786.0
+134143,K34,8,2016,Existing,Household Buyer - Non-Occupier,272500.0
+134700,K34,9,2016,All Dwelling Statuses,All Buyer Types,359028.0
+134701,K34,9,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,365000.0
+134702,K34,9,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,367115.0
+134703,K34,9,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,230000.0
+135260,K34,9,2016,New,All Buyer Types,375714.0
+135261,K34,9,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,361667.0
+135262,K34,9,2016,New,Household Buyer - Former Owner-Occupier,386250.0
+135263,K34,9,2016,New,Household Buyer - Non-Occupier,
+135820,K34,9,2016,Existing,All Buyer Types,348409.0
+135821,K34,9,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,375000.0
+135822,K34,9,2016,Existing,Household Buyer - Former Owner-Occupier,358611.0
+135823,K34,9,2016,Existing,Household Buyer - Non-Occupier,230000.0
+136380,K34,10,2016,All Dwelling Statuses,All Buyer Types,368950.0
+136381,K34,10,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,382151.0
+136382,K34,10,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,344500.0
+136383,K34,10,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,422500.0
+136940,K34,10,2016,New,All Buyer Types,363863.0
+136941,K34,10,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,415227.0
+136942,K34,10,2016,New,Household Buyer - Former Owner-Occupier,312500.0
+136943,K34,10,2016,New,Household Buyer - Non-Occupier,
+137500,K34,10,2016,Existing,All Buyer Types,371857.0
+137501,K34,10,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,316000.0
+137502,K34,10,2016,Existing,Household Buyer - Former Owner-Occupier,360500.0
+137503,K34,10,2016,Existing,Household Buyer - Non-Occupier,422500.0
+138060,K34,11,2016,All Dwelling Statuses,All Buyer Types,343402.0
+138061,K34,11,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,346663.0
+138062,K34,11,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,342512.0
+138063,K34,11,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+138620,K34,11,2016,New,All Buyer Types,345498.0
+138621,K34,11,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,322495.0
+138622,K34,11,2016,New,Household Buyer - Former Owner-Occupier,357000.0
+138623,K34,11,2016,New,Household Buyer - Non-Occupier,
+139180,K34,11,2016,Existing,All Buyer Types,341829.0
+139181,K34,11,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,395000.0
+139182,K34,11,2016,Existing,Household Buyer - Former Owner-Occupier,334233.0
+139183,K34,11,2016,Existing,Household Buyer - Non-Occupier,
+139740,K34,12,2016,All Dwelling Statuses,All Buyer Types,347050.0
+139741,K34,12,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,392417.0
+139742,K34,12,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,343944.0
+139743,K34,12,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,222333.0
+140300,K34,12,2016,New,All Buyer Types,389318.0
+140301,K34,12,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,406679.0
+140302,K34,12,2016,New,Household Buyer - Former Owner-Occupier,369064.0
+140303,K34,12,2016,New,Household Buyer - Non-Occupier,
+140860,K34,12,2016,Existing,All Buyer Types,292100.0
+140861,K34,12,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,342500.0
+140862,K34,12,2016,Existing,Household Buyer - Former Owner-Occupier,313800.0
+140863,K34,12,2016,Existing,Household Buyer - Non-Occupier,222333.0
+141420,K34,1,2017,All Dwelling Statuses,All Buyer Types,322634.0
+141421,K34,1,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+141422,K34,1,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,383196.0
+141423,K34,1,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,189400.0
+141980,K34,1,2017,New,All Buyer Types,331025.0
+141981,K34,1,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+141982,K34,1,2017,New,Household Buyer - Former Owner-Occupier,331025.0
+141983,K34,1,2017,New,Household Buyer - Non-Occupier,
+142540,K34,1,2017,Existing,All Buyer Types,317600.0
+142541,K34,1,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+142542,K34,1,2017,Existing,Household Buyer - Former Owner-Occupier,445800.0
+142543,K34,1,2017,Existing,Household Buyer - Non-Occupier,189400.0
+143100,K34,2,2017,All Dwelling Statuses,All Buyer Types,337436.0
+143101,K34,2,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,334500.0
+143102,K34,2,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,339198.0
+143103,K34,2,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+143660,K34,2,2017,New,All Buyer Types,349998.0
+143661,K34,2,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,390000.0
+143662,K34,2,2017,New,Household Buyer - Former Owner-Occupier,325997.0
+143663,K34,2,2017,New,Household Buyer - Non-Occupier,
+144220,K34,2,2017,Existing,All Buyer Types,324875.0
+144221,K34,2,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,279000.0
+144222,K34,2,2017,Existing,Household Buyer - Former Owner-Occupier,352400.0
+144223,K34,2,2017,Existing,Household Buyer - Non-Occupier,
+144780,K34,3,2017,All Dwelling Statuses,All Buyer Types,338581.0
+144781,K34,3,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,285989.0
+144782,K34,3,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,349100.0
+144783,K34,3,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+145340,K34,3,2017,New,All Buyer Types,324996.0
+145341,K34,3,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,314984.0
+145342,K34,3,2017,New,Household Buyer - Former Owner-Occupier,328333.0
+145343,K34,3,2017,New,Household Buyer - Non-Occupier,
+145900,K34,3,2017,Existing,All Buyer Types,349450.0
+145901,K34,3,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,228000.0
+145902,K34,3,2017,Existing,Household Buyer - Former Owner-Occupier,362944.0
+145903,K34,3,2017,Existing,Household Buyer - Non-Occupier,
+146460,K34,4,2017,All Dwelling Statuses,All Buyer Types,309361.0
+146461,K34,4,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,320259.0
+146462,K34,4,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,308155.0
+146463,K34,4,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,250000.0
+147020,K34,4,2017,New,All Buyer Types,320055.0
+147021,K34,4,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,323911.0
+147022,K34,4,2017,New,Household Buyer - Former Owner-Occupier,300775.0
+147023,K34,4,2017,New,Household Buyer - Non-Occupier,
+147580,K34,4,2017,Existing,All Buyer Types,298667.0
+147581,K34,4,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,302000.0
+147582,K34,4,2017,Existing,Household Buyer - Former Owner-Occupier,310000.0
+147583,K34,4,2017,Existing,Household Buyer - Non-Occupier,250000.0
+148140,K34,5,2017,All Dwelling Statuses,All Buyer Types,319639.0
+148141,K34,5,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,380000.0
+148142,K34,5,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,315279.0
+148143,K34,5,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,240000.0
+148700,K34,5,2017,New,All Buyer Types,330279.0
+148701,K34,5,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,342500.0
+148702,K34,5,2017,New,Household Buyer - Former Owner-Occupier,322131.0
+148703,K34,5,2017,New,Household Buyer - Non-Occupier,
+149260,K34,5,2017,Existing,All Buyer Types,309000.0
+149261,K34,5,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,455000.0
+149262,K34,5,2017,Existing,Household Buyer - Former Owner-Occupier,305000.0
+149263,K34,5,2017,Existing,Household Buyer - Non-Occupier,240000.0
+149820,K34,6,2017,All Dwelling Statuses,All Buyer Types,444559.0
+149821,K34,6,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,377500.0
+149822,K34,6,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,486500.0
+149823,K34,6,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,239000.0
+150380,K34,6,2017,New,All Buyer Types,354285.0
+150381,K34,6,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,390000.0
+150382,K34,6,2017,New,Household Buyer - Former Owner-Occupier,348333.0
+150383,K34,6,2017,New,Household Buyer - Non-Occupier,
+150940,K34,6,2017,Existing,All Buyer Types,507750.0
+150941,K34,6,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,365000.0
+150942,K34,6,2017,Existing,Household Buyer - Former Owner-Occupier,604929.0
+150943,K34,6,2017,Existing,Household Buyer - Non-Occupier,239000.0
+151500,K34,7,2017,All Dwelling Statuses,All Buyer Types,308741.0
+151501,K34,7,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,304910.0
+151502,K34,7,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,332559.0
+151503,K34,7,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,163500.0
+152060,K34,7,2017,New,All Buyer Types,340635.0
+152061,K34,7,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,352275.0
+152062,K34,7,2017,New,Household Buyer - Former Owner-Occupier,334815.0
+152063,K34,7,2017,New,Household Buyer - Non-Occupier,
+152620,K34,7,2017,Existing,All Buyer Types,295071.0
+152621,K34,7,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,273333.0
+152622,K34,7,2017,Existing,Household Buyer - Former Owner-Occupier,331556.0
+152623,K34,7,2017,Existing,Household Buyer - Non-Occupier,163500.0
+153180,K34,8,2017,All Dwelling Statuses,All Buyer Types,333887.0
+153181,K34,8,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,332343.0
+153182,K34,8,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,341000.0
+153183,K34,8,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,298000.0
+153740,K34,8,2017,New,All Buyer Types,337609.0
+153741,K34,8,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,339511.0
+153742,K34,8,2017,New,Household Buyer - Former Owner-Occupier,329999.0
+153743,K34,8,2017,New,Household Buyer - Non-Occupier,
+154300,K34,8,2017,Existing,All Buyer Types,328571.0
+154301,K34,8,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,275000.0
+154302,K34,8,2017,Existing,Household Buyer - Former Owner-Occupier,345400.0
+154303,K34,8,2017,Existing,Household Buyer - Non-Occupier,298000.0
+154860,K34,9,2017,All Dwelling Statuses,All Buyer Types,381901.0
+154861,K34,9,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,358045.0
+154862,K34,9,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,401781.0
+154863,K34,9,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,282500.0
+155420,K34,9,2017,New,All Buyer Types,370786.0
+155421,K34,9,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,360056.0
+155422,K34,9,2017,New,Household Buyer - Former Owner-Occupier,380624.0
+155423,K34,9,2017,New,Household Buyer - Non-Occupier,334999.0
+155980,K34,9,2017,Existing,All Buyer Types,396350.0
+155981,K34,9,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,350000.0
+155982,K34,9,2017,Existing,Household Buyer - Former Owner-Occupier,422938.0
+155983,K34,9,2017,Existing,Household Buyer - Non-Occupier,230000.0
+156540,K34,10,2017,All Dwelling Statuses,All Buyer Types,424076.0
+156541,K34,10,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,348333.0
+156542,K34,10,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,529166.0
+156543,K34,10,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,248000.0
+157100,K34,10,2017,New,All Buyer Types,364999.0
+157101,K34,10,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,357499.0
+157102,K34,10,2017,New,Household Buyer - Former Owner-Occupier,372499.0
+157103,K34,10,2017,New,Household Buyer - Non-Occupier,
+157660,K34,10,2017,Existing,All Buyer Types,518600.0
+157661,K34,10,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,330000.0
+157662,K34,10,2017,Existing,Household Buyer - Former Owner-Occupier,842500.0
+157663,K34,10,2017,Existing,Household Buyer - Non-Occupier,248000.0
+158220,K34,11,2017,All Dwelling Statuses,All Buyer Types,446414.0
+158221,K34,11,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,319999.0
+158222,K34,11,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,456139.0
+158223,K34,11,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+158780,K34,11,2017,New,All Buyer Types,347050.0
+158781,K34,11,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,319999.0
+158782,K34,11,2017,New,Household Buyer - Former Owner-Occupier,352461.0
+158783,K34,11,2017,New,Household Buyer - Non-Occupier,
+159340,K34,11,2017,Existing,All Buyer Types,520938.0
+159341,K34,11,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+159342,K34,11,2017,Existing,Household Buyer - Former Owner-Occupier,520938.0
+159343,K34,11,2017,Existing,Household Buyer - Non-Occupier,
+159900,K34,12,2017,All Dwelling Statuses,All Buyer Types,440853.0
+159901,K34,12,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,430000.0
+159902,K34,12,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,442404.0
+159903,K34,12,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,
+160460,K34,12,2017,New,All Buyer Types,395096.0
+160461,K34,12,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,430000.0
+160462,K34,12,2017,New,Household Buyer - Former Owner-Occupier,388115.0
+160463,K34,12,2017,New,Household Buyer - Non-Occupier,
+161020,K34,12,2017,Existing,All Buyer Types,578125.0
+161021,K34,12,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+161022,K34,12,2017,Existing,Household Buyer - Former Owner-Occupier,578125.0
+161023,K34,12,2017,Existing,Household Buyer - Non-Occupier,
+161580,K34,1,2018,All Dwelling Statuses,All Buyer Types,475705.0
+161581,K34,1,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,394999.0
+161582,K34,1,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,443342.0
+161583,K34,1,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,567333.0
+162140,K34,1,2018,New,All Buyer Types,458010.0
+162141,K34,1,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,394999.0
+162142,K34,1,2018,New,Household Buyer - Former Owner-Occupier,398350.0
+162143,K34,1,2018,New,Household Buyer - Non-Occupier,699999.0
+162700,K34,1,2018,Existing,All Buyer Types,493400.0
+162701,K34,1,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+162702,K34,1,2018,Existing,Household Buyer - Former Owner-Occupier,488333.0
+162703,K34,1,2018,Existing,Household Buyer - Non-Occupier,501000.0
+163260,K34,2,2018,All Dwelling Statuses,All Buyer Types,349700.0
+163261,K34,2,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,362500.0
+163262,K34,2,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,346855.0
+163263,K34,2,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+163820,K34,2,2018,New,All Buyer Types,337299.0
+163821,K34,2,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,369999.0
+163822,K34,2,2018,New,Household Buyer - Former Owner-Occupier,326399.0
+163823,K34,2,2018,New,Household Buyer - Non-Occupier,
+164380,K34,2,2018,Existing,All Buyer Types,356786.0
+164381,K34,2,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,355000.0
+164382,K34,2,2018,Existing,Household Buyer - Former Owner-Occupier,357083.0
+164383,K34,2,2018,Existing,Household Buyer - Non-Occupier,
+164940,K34,3,2018,All Dwelling Statuses,All Buyer Types,396694.0
+164941,K34,3,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,439249.0
+164942,K34,3,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,370250.0
+164943,K34,3,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,332252.0
+165500,K34,3,2018,New,All Buyer Types,344833.0
+165501,K34,3,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,351999.0
+165502,K34,3,2018,New,Household Buyer - Former Owner-Occupier,343625.0
+165503,K34,3,2018,New,Household Buyer - Non-Occupier,299499.0
+166060,K34,3,2018,Existing,All Buyer Types,500418.0
+166061,K34,3,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,1050000.0
+166062,K34,3,2018,Existing,Household Buyer - Former Owner-Occupier,396875.0
+166063,K34,3,2018,Existing,Household Buyer - Non-Occupier,365005.0
+166620,K34,4,2018,All Dwelling Statuses,All Buyer Types,433522.0
+166621,K34,4,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,431999.0
+166622,K34,4,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,537187.0
+166623,K34,4,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,230000.0
+167180,K34,4,2018,New,All Buyer Types,373392.0
+167181,K34,4,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,344998.0
+167182,K34,4,2018,New,Household Buyer - Former Owner-Occupier,411249.0
+167183,K34,4,2018,New,Household Buyer - Non-Occupier,
+167740,K34,4,2018,Existing,All Buyer Types,538750.0
+167741,K34,4,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,780000.0
+167742,K34,4,2018,Existing,Household Buyer - Former Owner-Occupier,915000.0
+167743,K34,4,2018,Existing,Household Buyer - Non-Occupier,230000.0
+168300,K34,5,2018,All Dwelling Statuses,All Buyer Types,361539.0
+168301,K34,5,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,325705.0
+168302,K34,5,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,378262.0
+168303,K34,5,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+168860,K34,5,2018,New,All Buyer Types,311297.0
+168861,K34,5,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,330823.0
+168862,K34,5,2018,New,Household Buyer - Former Owner-Occupier,294561.0
+168863,K34,5,2018,New,Household Buyer - Non-Occupier,
+169420,K34,5,2018,Existing,All Buyer Types,434111.0
+169421,K34,5,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+169422,K34,5,2018,Existing,Household Buyer - Former Owner-Occupier,451500.0
+169423,K34,5,2018,Existing,Household Buyer - Non-Occupier,
+169980,K34,6,2018,All Dwelling Statuses,All Buyer Types,485150.0
+169981,K34,6,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,368749.0
+169982,K34,6,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,557258.0
+169983,K34,6,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,445999.0
+170540,K34,6,2018,New,All Buyer Types,390142.0
+170541,K34,6,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,361666.0
+170542,K34,6,2018,New,Household Buyer - Former Owner-Occupier,399999.0
+170543,K34,6,2018,New,Household Buyer - Non-Occupier,445999.0
+171100,K34,6,2018,Existing,All Buyer Types,618162.0
+171101,K34,6,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,390000.0
+171102,K34,6,2018,Existing,Household Buyer - Former Owner-Occupier,675203.0
+171103,K34,6,2018,Existing,Household Buyer - Non-Occupier,
+171660,K34,7,2018,All Dwelling Statuses,All Buyer Types,385257.0
+171661,K34,7,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,370499.0
+171662,K34,7,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,393455.0
+171663,K34,7,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+172220,K34,7,2018,New,All Buyer Types,421666.0
+172221,K34,7,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,396666.0
+172222,K34,7,2018,New,Household Buyer - Former Owner-Occupier,446666.0
+172223,K34,7,2018,New,Household Buyer - Non-Occupier,
+172780,K34,7,2018,Existing,All Buyer Types,357950.0
+172781,K34,7,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,331250.0
+172782,K34,7,2018,Existing,Household Buyer - Former Owner-Occupier,366850.0
+172783,K34,7,2018,Existing,Household Buyer - Non-Occupier,
+173340,K34,8,2018,All Dwelling Statuses,All Buyer Types,549352.0
+173341,K34,8,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,420907.0
+173342,K34,8,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,592167.0
+173343,K34,8,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+173900,K34,8,2018,New,All Buyer Types,420907.0
+173901,K34,8,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,420907.0
+173902,K34,8,2018,New,Household Buyer - Former Owner-Occupier,
+173903,K34,8,2018,New,Household Buyer - Non-Occupier,
+174460,K34,8,2018,Existing,All Buyer Types,592167.0
+174461,K34,8,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+174462,K34,8,2018,Existing,Household Buyer - Former Owner-Occupier,592167.0
+174463,K34,8,2018,Existing,Household Buyer - Non-Occupier,
+175020,K34,9,2018,All Dwelling Statuses,All Buyer Types,432666.0
+175021,K34,9,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,417500.0
+175022,K34,9,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,440250.0
+175023,K34,9,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+175580,K34,9,2018,New,All Buyer Types,406999.0
+175581,K34,9,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,399999.0
+175582,K34,9,2018,New,Household Buyer - Former Owner-Occupier,411666.0
+175583,K34,9,2018,New,Household Buyer - Non-Occupier,
+176140,K34,9,2018,Existing,All Buyer Types,445500.0
+176141,K34,9,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,429167.0
+176142,K34,9,2018,Existing,Household Buyer - Former Owner-Occupier,452500.0
+176143,K34,9,2018,Existing,Household Buyer - Non-Occupier,
+176700,K34,10,2018,All Dwelling Statuses,All Buyer Types,424656.0
+176701,K34,10,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,381250.0
+176702,K34,10,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,431334.0
+176703,K34,10,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+177260,K34,10,2018,New,All Buyer Types,369056.0
+177261,K34,10,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,381250.0
+177262,K34,10,2018,New,Household Buyer - Former Owner-Occupier,362959.0
+177263,K34,10,2018,New,Household Buyer - Non-Occupier,
+177820,K34,10,2018,Existing,All Buyer Types,461722.0
+177821,K34,10,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+177822,K34,10,2018,Existing,Household Buyer - Former Owner-Occupier,461722.0
+177823,K34,10,2018,Existing,Household Buyer - Non-Occupier,
+178380,K34,11,2018,All Dwelling Statuses,All Buyer Types,434480.0
+178381,K34,11,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,388000.0
+178382,K34,11,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,532950.0
+178383,K34,11,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,273000.0
+178940,K34,11,2018,New,All Buyer Types,344199.0
+178941,K34,11,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,311666.0
+178942,K34,11,2018,New,Household Buyer - Former Owner-Occupier,441798.0
+178943,K34,11,2018,New,Household Buyer - Non-Occupier,
+179500,K34,11,2018,Existing,All Buyer Types,494667.0
+179501,K34,11,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,502500.0
+179502,K34,11,2018,Existing,Household Buyer - Former Owner-Occupier,563333.0
+179503,K34,11,2018,Existing,Household Buyer - Non-Occupier,273000.0
+180060,K34,12,2018,All Dwelling Statuses,All Buyer Types,436679.0
+180061,K34,12,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,468425.0
+180062,K34,12,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,442302.0
+180063,K34,12,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,406750.0
+180620,K34,12,2018,New,All Buyer Types,373373.0
+180621,K34,12,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,351850.0
+180622,K34,12,2018,New,Household Buyer - Former Owner-Occupier,378754.0
+180623,K34,12,2018,New,Household Buyer - Non-Occupier,
+181180,K34,12,2018,Existing,All Buyer Types,465455.0
+181181,K34,12,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,585000.0
+181182,K34,12,2018,Existing,Household Buyer - Former Owner-Occupier,484667.0
+181183,K34,12,2018,Existing,Household Buyer - Non-Occupier,406750.0
+181740,K34,1,2019,All Dwelling Statuses,All Buyer Types,356900.0
+181741,K34,1,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,434999.0
+181742,K34,1,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,357125.0
+181743,K34,1,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,277000.0
+182300,K34,1,2019,New,All Buyer Types,387499.0
+182301,K34,1,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,434999.0
+182302,K34,1,2019,New,Household Buyer - Former Owner-Occupier,339998.0
+182303,K34,1,2019,New,Household Buyer - Non-Occupier,
+182860,K34,1,2019,Existing,All Buyer Types,349250.0
+182861,K34,1,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+182862,K34,1,2019,Existing,Household Buyer - Former Owner-Occupier,359571.0
+182863,K34,1,2019,Existing,Household Buyer - Non-Occupier,277000.0
+183420,K34,2,2019,All Dwelling Statuses,All Buyer Types,394737.0
+183421,K34,2,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,380000.0
+183422,K34,2,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,414695.0
+183423,K34,2,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,313167.0
+183980,K34,2,2019,New,All Buyer Types,412861.0
+183981,K34,2,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,380000.0
+183982,K34,2,2019,New,Household Buyer - Former Owner-Occupier,418338.0
+183983,K34,2,2019,New,Household Buyer - Non-Occupier,
+184540,K34,2,2019,Existing,All Buyer Types,382050.0
+184541,K34,2,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+184542,K34,2,2019,Existing,Household Buyer - Former Owner-Occupier,411571.0
+184543,K34,2,2019,Existing,Household Buyer - Non-Occupier,313167.0
+185100,K34,3,2019,All Dwelling Statuses,All Buyer Types,394167.0
+185101,K34,3,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,475000.0
+185102,K34,3,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,418750.0
+185103,K34,3,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,280000.0
+185660,K34,3,2019,New,All Buyer Types,522500.0
+185661,K34,3,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+185662,K34,3,2019,New,Household Buyer - Former Owner-Occupier,522500.0
+185663,K34,3,2019,New,Household Buyer - Non-Occupier,
+186220,K34,3,2019,Existing,All Buyer Types,357500.0
+186221,K34,3,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,475000.0
+186222,K34,3,2019,Existing,Household Buyer - Former Owner-Occupier,366875.0
+186223,K34,3,2019,Existing,Household Buyer - Non-Occupier,280000.0
+186780,K34,4,2019,All Dwelling Statuses,All Buyer Types,346318.0
+186781,K34,4,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,365272.0
+186782,K34,4,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,312000.0
+186783,K34,4,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,323775.0
+187340,K34,4,2019,New,All Buyer Types,340863.0
+187341,K34,4,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,349408.0
+187342,K34,4,2019,New,Household Buyer - Former Owner-Occupier,
+187343,K34,4,2019,New,Household Buyer - Non-Occupier,323775.0
+187900,K34,4,2019,Existing,All Buyer Types,354500.0
+187901,K34,4,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,397000.0
+187902,K34,4,2019,Existing,Household Buyer - Former Owner-Occupier,312000.0
+187903,K34,4,2019,Existing,Household Buyer - Non-Occupier,
+188460,K34,5,2019,All Dwelling Statuses,All Buyer Types,506080.0
+188461,K34,5,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,399389.0
+188462,K34,5,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,525479.0
+188463,K34,5,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+189020,K34,5,2019,New,All Buyer Types,487261.0
+189021,K34,5,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,399389.0
+189022,K34,5,2019,New,Household Buyer - Former Owner-Occupier,575133.0
+189023,K34,5,2019,New,Household Buyer - Non-Occupier,
+189580,K34,5,2019,Existing,All Buyer Types,514444.0
+189581,K34,5,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+189582,K34,5,2019,Existing,Household Buyer - Former Owner-Occupier,514444.0
+189583,K34,5,2019,Existing,Household Buyer - Non-Occupier,
+190140,K34,6,2019,All Dwelling Statuses,All Buyer Types,368030.0
+190141,K34,6,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,479999.0
+190142,K34,6,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,371243.0
+190143,K34,6,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,240000.0
+190700,K34,6,2019,New,All Buyer Types,455000.0
+190701,K34,6,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,479999.0
+190702,K34,6,2019,New,Household Buyer - Former Owner-Occupier,430000.0
+190703,K34,6,2019,New,Household Buyer - Non-Occupier,
+191260,K34,6,2019,Existing,All Buyer Types,333243.0
+191261,K34,6,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+191262,K34,6,2019,Existing,Household Buyer - Former Owner-Occupier,356553.0
+191263,K34,6,2019,Existing,Household Buyer - Non-Occupier,240000.0
+191820,K34,7,2019,All Dwelling Statuses,All Buyer Types,456936.0
+191821,K34,7,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,379166.0
+191822,K34,7,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,497868.0
+191823,K34,7,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,240000.0
+192380,K34,7,2019,New,All Buyer Types,392758.0
+192381,K34,7,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,350000.0
+192382,K34,7,2019,New,Household Buyer - Former Owner-Occupier,414137.0
+192383,K34,7,2019,New,Household Buyer - Non-Occupier,
+192940,K34,7,2019,Existing,All Buyer Types,499722.0
+192941,K34,7,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,437500.0
+192942,K34,7,2019,Existing,Household Buyer - Former Owner-Occupier,545714.0
+192943,K34,7,2019,Existing,Household Buyer - Non-Occupier,240000.0
+193500,K34,8,2019,All Dwelling Statuses,All Buyer Types,524469.0
+193501,K34,8,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,438750.0
+193502,K34,8,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,519060.0
+193503,K34,8,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,750000.0
+194060,K34,8,2019,New,All Buyer Types,445000.0
+194061,K34,8,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+194062,K34,8,2019,New,Household Buyer - Former Owner-Occupier,445000.0
+194063,K34,8,2019,New,Household Buyer - Non-Occupier,
+194620,K34,8,2019,Existing,All Buyer Types,538918.0
+194621,K34,8,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,438750.0
+194622,K34,8,2019,Existing,Household Buyer - Former Owner-Occupier,537575.0
+194623,K34,8,2019,Existing,Household Buyer - Non-Occupier,750000.0
+195180,K34,9,2019,All Dwelling Statuses,All Buyer Types,452333.0
+195181,K34,9,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,295500.0
+195182,K34,9,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,530750.0
+195183,K34,9,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+195740,K34,9,2019,New,All Buyer Types,
+195741,K34,9,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+195742,K34,9,2019,New,Household Buyer - Former Owner-Occupier,
+195743,K34,9,2019,New,Household Buyer - Non-Occupier,
+196300,K34,9,2019,Existing,All Buyer Types,452333.0
+196301,K34,9,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,295500.0
+196302,K34,9,2019,Existing,Household Buyer - Former Owner-Occupier,530750.0
+196303,K34,9,2019,Existing,Household Buyer - Non-Occupier,
+196860,K34,10,2019,All Dwelling Statuses,All Buyer Types,442533.0
+196861,K34,10,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,376000.0
+196862,K34,10,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,466667.0
+196863,K34,10,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,286000.0
+197420,K34,10,2019,New,All Buyer Types,375000.0
+197421,K34,10,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+197422,K34,10,2019,New,Household Buyer - Former Owner-Occupier,375000.0
+197423,K34,10,2019,New,Household Buyer - Non-Occupier,
+197980,K34,10,2019,Existing,All Buyer Types,447357.0
+197981,K34,10,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,376000.0
+197982,K34,10,2019,Existing,Household Buyer - Former Owner-Occupier,475000.0
+197983,K34,10,2019,Existing,Household Buyer - Non-Occupier,286000.0
+198540,K34,11,2019,All Dwelling Statuses,All Buyer Types,488859.0
+198541,K34,11,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,441611.0
+198542,K34,11,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,562667.0
+198543,K34,11,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,235000.0
+199100,K34,11,2019,New,All Buyer Types,374963.0
+199101,K34,11,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,374945.0
+199102,K34,11,2019,New,Household Buyer - Former Owner-Occupier,374999.0
+199103,K34,11,2019,New,Household Buyer - Non-Occupier,
+199660,K34,11,2019,Existing,All Buyer Types,506842.0
+199661,K34,11,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,463833.0
+199662,K34,11,2019,Existing,Household Buyer - Former Owner-Occupier,579727.0
+199663,K34,11,2019,Existing,Household Buyer - Non-Occupier,235000.0
+200220,K34,12,2019,All Dwelling Statuses,All Buyer Types,452547.0
+200221,K34,12,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,337250.0
+200222,K34,12,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,471763.0
+200223,K34,12,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+200780,K34,12,2019,New,All Buyer Types,404250.0
+200781,K34,12,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,337250.0
+200782,K34,12,2019,New,Household Buyer - Former Owner-Occupier,471249.0
+200783,K34,12,2019,New,Household Buyer - Non-Occupier,
+201340,K34,12,2019,Existing,All Buyer Types,471866.0
+201341,K34,12,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+201342,K34,12,2019,Existing,Household Buyer - Former Owner-Occupier,471866.0
+201343,K34,12,2019,Existing,Household Buyer - Non-Occupier,
+201900,K34,1,2020,All Dwelling Statuses,All Buyer Types,404875.0
+201901,K34,1,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+201902,K34,1,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,404875.0
+201903,K34,1,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+202460,K34,1,2020,New,All Buyer Types,
+202461,K34,1,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+202462,K34,1,2020,New,Household Buyer - Former Owner-Occupier,
+202463,K34,1,2020,New,Household Buyer - Non-Occupier,
+203020,K34,1,2020,Existing,All Buyer Types,404875.0
+203021,K34,1,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+203022,K34,1,2020,Existing,Household Buyer - Former Owner-Occupier,404875.0
+203023,K34,1,2020,Existing,Household Buyer - Non-Occupier,
+203580,K34,2,2020,All Dwelling Statuses,All Buyer Types,407200.0
+203581,K34,2,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+203582,K34,2,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,407200.0
+203583,K34,2,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+204140,K34,2,2020,New,All Buyer Types,470000.0
+204141,K34,2,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+204142,K34,2,2020,New,Household Buyer - Former Owner-Occupier,470000.0
+204143,K34,2,2020,New,Household Buyer - Non-Occupier,
+204700,K34,2,2020,Existing,All Buyer Types,386267.0
+204701,K34,2,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+204702,K34,2,2020,Existing,Household Buyer - Former Owner-Occupier,386267.0
+204703,K34,2,2020,Existing,Household Buyer - Non-Occupier,
+205260,K34,3,2020,All Dwelling Statuses,All Buyer Types,371167.0
+205261,K34,3,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,403000.0
+205262,K34,3,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,410714.0
+205263,K34,3,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,62500.0
+205820,K34,3,2020,New,All Buyer Types,
+205821,K34,3,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+205822,K34,3,2020,New,Household Buyer - Former Owner-Occupier,
+205823,K34,3,2020,New,Household Buyer - Non-Occupier,
+206380,K34,3,2020,Existing,All Buyer Types,371167.0
+206381,K34,3,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,403000.0
+206382,K34,3,2020,Existing,Household Buyer - Former Owner-Occupier,410714.0
+206383,K34,3,2020,Existing,Household Buyer - Non-Occupier,62500.0
+206940,K34,4,2020,All Dwelling Statuses,All Buyer Types,549333.0
+206941,K34,4,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+206942,K34,4,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,549333.0
+206943,K34,4,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+207500,K34,4,2020,New,All Buyer Types,
+207501,K34,4,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+207502,K34,4,2020,New,Household Buyer - Former Owner-Occupier,
+207503,K34,4,2020,New,Household Buyer - Non-Occupier,
+208060,K34,4,2020,Existing,All Buyer Types,549333.0
+208061,K34,4,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+208062,K34,4,2020,Existing,Household Buyer - Former Owner-Occupier,549333.0
+208063,K34,4,2020,Existing,Household Buyer - Non-Occupier,
+208620,K34,5,2020,All Dwelling Statuses,All Buyer Types,405161.0
+208621,K34,5,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,630000.0
+208622,K34,5,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,373042.0
+208623,K34,5,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+209180,K34,5,2020,New,All Buyer Types,630000.0
+209181,K34,5,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,630000.0
+209182,K34,5,2020,New,Household Buyer - Former Owner-Occupier,
+209183,K34,5,2020,New,Household Buyer - Non-Occupier,
+209740,K34,5,2020,Existing,All Buyer Types,373042.0
+209741,K34,5,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+209742,K34,5,2020,Existing,Household Buyer - Former Owner-Occupier,373042.0
+209743,K34,5,2020,Existing,Household Buyer - Non-Occupier,
+210300,K34,6,2020,All Dwelling Statuses,All Buyer Types,361000.0
+210301,K34,6,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+210302,K34,6,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,361000.0
+210303,K34,6,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+210860,K34,6,2020,New,All Buyer Types,
+210861,K34,6,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+210862,K34,6,2020,New,Household Buyer - Former Owner-Occupier,
+210863,K34,6,2020,New,Household Buyer - Non-Occupier,
+211420,K34,6,2020,Existing,All Buyer Types,361000.0
+211421,K34,6,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+211422,K34,6,2020,Existing,Household Buyer - Former Owner-Occupier,361000.0
+211423,K34,6,2020,Existing,Household Buyer - Non-Occupier,
+211980,K34,7,2020,All Dwelling Statuses,All Buyer Types,353750.0
+211981,K34,7,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+211982,K34,7,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,353750.0
+211983,K34,7,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+212540,K34,7,2020,New,All Buyer Types,
+212541,K34,7,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+212542,K34,7,2020,New,Household Buyer - Former Owner-Occupier,
+212543,K34,7,2020,New,Household Buyer - Non-Occupier,
+213100,K34,7,2020,Existing,All Buyer Types,353750.0
+213101,K34,7,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+213102,K34,7,2020,Existing,Household Buyer - Former Owner-Occupier,353750.0
+213103,K34,7,2020,Existing,Household Buyer - Non-Occupier,
+213660,K34,8,2020,All Dwelling Statuses,All Buyer Types,262667.0
+213661,K34,8,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+213662,K34,8,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,262667.0
+213663,K34,8,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+214220,K34,8,2020,New,All Buyer Types,
+214221,K34,8,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+214222,K34,8,2020,New,Household Buyer - Former Owner-Occupier,
+214223,K34,8,2020,New,Household Buyer - Non-Occupier,
+214780,K34,8,2020,Existing,All Buyer Types,262667.0
+214781,K34,8,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+214782,K34,8,2020,Existing,Household Buyer - Former Owner-Occupier,262667.0
+214783,K34,8,2020,Existing,Household Buyer - Non-Occupier,
+215340,K34,9,2020,All Dwelling Statuses,All Buyer Types,451500.0
+215341,K34,9,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,700000.0
+215342,K34,9,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,265333.0
+215343,K34,9,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,761500.0
+215900,K34,9,2020,New,All Buyer Types,
+215901,K34,9,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+215902,K34,9,2020,New,Household Buyer - Former Owner-Occupier,
+215903,K34,9,2020,New,Household Buyer - Non-Occupier,
+216460,K34,9,2020,Existing,All Buyer Types,451500.0
+216461,K34,9,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,700000.0
+216462,K34,9,2020,Existing,Household Buyer - Former Owner-Occupier,265333.0
+216463,K34,9,2020,Existing,Household Buyer - Non-Occupier,761500.0
+217020,K34,10,2020,All Dwelling Statuses,All Buyer Types,402258.0
+217021,K34,10,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,462125.0
+217022,K34,10,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,378311.0
+217023,K34,10,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+217580,K34,10,2020,New,All Buyer Types,418053.0
+217581,K34,10,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+217582,K34,10,2020,New,Household Buyer - Former Owner-Occupier,418053.0
+217583,K34,10,2020,New,Household Buyer - Non-Occupier,
+218140,K34,10,2020,Existing,All Buyer Types,399625.0
+218141,K34,10,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,462125.0
+218142,K34,10,2020,Existing,Household Buyer - Former Owner-Occupier,368375.0
+218143,K34,10,2020,Existing,Household Buyer - Non-Occupier,
+218700,K34,11,2020,All Dwelling Statuses,All Buyer Types,464583.0
+218701,K34,11,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,475000.0
+218702,K34,11,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,459375.0
+218703,K34,11,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+219260,K34,11,2020,New,All Buyer Types,
+219261,K34,11,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+219262,K34,11,2020,New,Household Buyer - Former Owner-Occupier,
+219263,K34,11,2020,New,Household Buyer - Non-Occupier,
+219820,K34,11,2020,Existing,All Buyer Types,464583.0
+219821,K34,11,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,475000.0
+219822,K34,11,2020,Existing,Household Buyer - Former Owner-Occupier,459375.0
+219823,K34,11,2020,Existing,Household Buyer - Non-Occupier,
+220380,K34,12,2020,All Dwelling Statuses,All Buyer Types,385157.0
+220381,K34,12,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,281000.0
+220382,K34,12,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,425000.0
+220383,K34,12,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,421863.0
+220940,K34,12,2020,New,All Buyer Types,
+220941,K34,12,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+220942,K34,12,2020,New,Household Buyer - Former Owner-Occupier,
+220943,K34,12,2020,New,Household Buyer - Non-Occupier,
+221500,K34,12,2020,Existing,All Buyer Types,385157.0
+221501,K34,12,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,281000.0
+221502,K34,12,2020,Existing,Household Buyer - Former Owner-Occupier,425000.0
+221503,K34,12,2020,Existing,Household Buyer - Non-Occupier,421863.0
+222060,K34,1,2021,All Dwelling Statuses,All Buyer Types,529538.0
+222061,K34,1,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+222062,K34,1,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,529538.0
+222063,K34,1,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+222620,K34,1,2021,New,All Buyer Types,
+222621,K34,1,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+222622,K34,1,2021,New,Household Buyer - Former Owner-Occupier,
+222623,K34,1,2021,New,Household Buyer - Non-Occupier,
+223180,K34,1,2021,Existing,All Buyer Types,529538.0
+223181,K34,1,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+223182,K34,1,2021,Existing,Household Buyer - Former Owner-Occupier,529538.0
+223183,K34,1,2021,Existing,Household Buyer - Non-Occupier,
+223740,K34,2,2021,All Dwelling Statuses,All Buyer Types,498250.0
+223741,K34,2,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,520000.0
+223742,K34,2,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,496437.0
+223743,K34,2,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+224300,K34,2,2021,New,All Buyer Types,712500.0
+224301,K34,2,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+224302,K34,2,2021,New,Household Buyer - Former Owner-Occupier,712500.0
+224303,K34,2,2021,New,Household Buyer - Non-Occupier,
+224860,K34,2,2021,Existing,All Buyer Types,459295.0
+224861,K34,2,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,520000.0
+224862,K34,2,2021,Existing,Household Buyer - Former Owner-Occupier,453225.0
+224863,K34,2,2021,Existing,Household Buyer - Non-Occupier,
+225420,K34,3,2021,All Dwelling Statuses,All Buyer Types,421650.0
+225421,K34,3,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,370000.0
+225422,K34,3,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,427389.0
+225423,K34,3,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+225980,K34,3,2021,New,All Buyer Types,
+225981,K34,3,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+225982,K34,3,2021,New,Household Buyer - Former Owner-Occupier,
+225983,K34,3,2021,New,Household Buyer - Non-Occupier,
+226540,K34,3,2021,Existing,All Buyer Types,421650.0
+226541,K34,3,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,370000.0
+226542,K34,3,2021,Existing,Household Buyer - Former Owner-Occupier,427389.0
+226543,K34,3,2021,Existing,Household Buyer - Non-Occupier,
+227100,K34,4,2021,All Dwelling Statuses,All Buyer Types,313333.0
+227101,K34,4,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,285000.0
+227102,K34,4,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,319000.0
+227103,K34,4,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+227660,K34,4,2021,New,All Buyer Types,
+227661,K34,4,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+227662,K34,4,2021,New,Household Buyer - Former Owner-Occupier,
+227663,K34,4,2021,New,Household Buyer - Non-Occupier,
+228220,K34,4,2021,Existing,All Buyer Types,313333.0
+228221,K34,4,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,285000.0
+228222,K34,4,2021,Existing,Household Buyer - Former Owner-Occupier,319000.0
+228223,K34,4,2021,Existing,Household Buyer - Non-Occupier,
+228780,K34,5,2021,All Dwelling Statuses,All Buyer Types,391219.0
+228781,K34,5,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,318000.0
+228782,K34,5,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,415625.0
+228783,K34,5,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+229340,K34,5,2021,New,All Buyer Types,360062.0
+229341,K34,5,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,254999.0
+229342,K34,5,2021,New,Household Buyer - Former Owner-Occupier,395083.0
+229343,K34,5,2021,New,Household Buyer - Non-Occupier,
+229900,K34,5,2021,Existing,All Buyer Types,422375.0
+229901,K34,5,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,381000.0
+229902,K34,5,2021,Existing,Household Buyer - Former Owner-Occupier,436167.0
+229903,K34,5,2021,Existing,Household Buyer - Non-Occupier,
+230460,K34,6,2021,All Dwelling Statuses,All Buyer Types,497555.0
+230461,K34,6,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,359999.0
+230462,K34,6,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,516624.0
+230463,K34,6,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,330000.0
+231020,K34,6,2021,New,All Buyer Types,320662.0
+231021,K34,6,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,359999.0
+231022,K34,6,2021,New,Household Buyer - Former Owner-Occupier,300994.0
+231023,K34,6,2021,New,Household Buyer - Non-Occupier,
+231580,K34,6,2021,Existing,All Buyer Types,532933.0
+231581,K34,6,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+231582,K34,6,2021,Existing,Household Buyer - Former Owner-Occupier,547429.0
+231583,K34,6,2021,Existing,Household Buyer - Non-Occupier,330000.0
+232140,K34,7,2021,All Dwelling Statuses,All Buyer Types,596615.0
+232141,K34,7,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,321250.0
+232142,K34,7,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,646682.0
+232143,K34,7,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+232700,K34,7,2021,New,All Buyer Types,345000.0
+232701,K34,7,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,345000.0
+232702,K34,7,2021,New,Household Buyer - Former Owner-Occupier,
+232703,K34,7,2021,New,Household Buyer - Non-Occupier,
+233260,K34,7,2021,Existing,All Buyer Types,617583.0
+233261,K34,7,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,297500.0
+233262,K34,7,2021,Existing,Household Buyer - Former Owner-Occupier,646682.0
+233263,K34,7,2021,Existing,Household Buyer - Non-Occupier,
+233820,K34,8,2021,All Dwelling Statuses,All Buyer Types,454429.0
+233821,K34,8,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,495000.0
+233822,K34,8,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,459200.0
+233823,K34,8,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,390000.0
+234380,K34,8,2021,New,All Buyer Types,
+234381,K34,8,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+234382,K34,8,2021,New,Household Buyer - Former Owner-Occupier,
+234383,K34,8,2021,New,Household Buyer - Non-Occupier,
+234940,K34,8,2021,Existing,All Buyer Types,454429.0
+234941,K34,8,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,495000.0
+234942,K34,8,2021,Existing,Household Buyer - Former Owner-Occupier,459200.0
+234943,K34,8,2021,Existing,Household Buyer - Non-Occupier,390000.0
+235500,K34,9,2021,All Dwelling Statuses,All Buyer Types,522588.0
+235501,K34,9,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,312500.0
+235502,K34,9,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,550600.0
+235503,K34,9,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+236060,K34,9,2021,New,All Buyer Types,480000.0
+236061,K34,9,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,312500.0
+236062,K34,9,2021,New,Household Buyer - Former Owner-Occupier,814999.0
+236063,K34,9,2021,New,Household Buyer - Non-Occupier,
+236620,K34,9,2021,Existing,All Buyer Types,531714.0
+236621,K34,9,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+236622,K34,9,2021,Existing,Household Buyer - Former Owner-Occupier,531714.0
+236623,K34,9,2021,Existing,Household Buyer - Non-Occupier,
+237180,K34,10,2021,All Dwelling Statuses,All Buyer Types,470147.0
+237181,K34,10,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,405250.0
+237182,K34,10,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,509708.0
+237183,K34,10,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,255000.0
+237740,K34,10,2021,New,All Buyer Types,337500.0
+237741,K34,10,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,345000.0
+237742,K34,10,2021,New,Household Buyer - Former Owner-Occupier,375000.0
+237743,K34,10,2021,New,Household Buyer - Non-Occupier,255000.0
+238300,K34,10,2021,Existing,All Buyer Types,510962.0
+238301,K34,10,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,425333.0
+238302,K34,10,2021,Existing,Household Buyer - Former Owner-Occupier,536650.0
+238303,K34,10,2021,Existing,Household Buyer - Non-Occupier,
+238860,K34,11,2021,All Dwelling Statuses,All Buyer Types,473889.0
+238861,K34,11,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+238862,K34,11,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,523571.0
+238863,K34,11,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+239420,K34,11,2021,New,All Buyer Types,290000.0
+239421,K34,11,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+239422,K34,11,2021,New,Household Buyer - Former Owner-Occupier,269999.0
+239423,K34,11,2021,New,Household Buyer - Non-Occupier,
+239980,K34,11,2021,Existing,All Buyer Types,565833.0
+239981,K34,11,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+239982,K34,11,2021,Existing,Household Buyer - Former Owner-Occupier,565833.0
+239983,K34,11,2021,Existing,Household Buyer - Non-Occupier,
+240540,K34,12,2021,All Dwelling Statuses,All Buyer Types,448491.0
+240541,K34,12,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,265001.0
+240542,K34,12,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,514185.0
+240543,K34,12,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,376000.0
+241100,K34,12,2021,New,All Buyer Types,313642.0
+241101,K34,12,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,265001.0
+241102,K34,12,2021,New,Household Buyer - Former Owner-Occupier,337962.0
+241103,K34,12,2021,New,Household Buyer - Non-Occupier,
+241660,K34,12,2021,Existing,All Buyer Types,529400.0
+241661,K34,12,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+241662,K34,12,2021,Existing,Household Buyer - Former Owner-Occupier,631667.0
+241663,K34,12,2021,Existing,Household Buyer - Non-Occupier,376000.0
+242220,K34,1,2022,All Dwelling Statuses,All Buyer Types,473077.0
+242221,K34,1,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,386000.0
+242222,K34,1,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,489778.0
+242223,K34,1,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,485000.0
+242780,K34,1,2022,New,All Buyer Types,343333.0
+242781,K34,1,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,335000.0
+242782,K34,1,2022,New,Household Buyer - Former Owner-Occupier,347500.0
+242783,K34,1,2022,New,Household Buyer - Non-Occupier,
+243340,K34,1,2022,Existing,All Buyer Types,512000.0
+243341,K34,1,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,437000.0
+243342,K34,1,2022,Existing,Household Buyer - Former Owner-Occupier,530429.0
+243343,K34,1,2022,Existing,Household Buyer - Non-Occupier,485000.0
+243900,K34,2,2022,All Dwelling Statuses,All Buyer Types,564000.0
+243901,K34,2,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,640000.0
+243902,K34,2,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,623500.0
+243903,K34,2,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,250000.0
+244460,K34,2,2022,New,All Buyer Types,
+244461,K34,2,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+244462,K34,2,2022,New,Household Buyer - Former Owner-Occupier,
+244463,K34,2,2022,New,Household Buyer - Non-Occupier,
+245020,K34,2,2022,Existing,All Buyer Types,564000.0
+245021,K34,2,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,640000.0
+245022,K34,2,2022,Existing,Household Buyer - Former Owner-Occupier,623500.0
+245023,K34,2,2022,Existing,Household Buyer - Non-Occupier,250000.0
+245580,K34,3,2022,All Dwelling Statuses,All Buyer Types,382982.0
+245581,K34,3,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+245582,K34,3,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,424970.0
+245583,K34,3,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,320001.0
+246140,K34,3,2022,New,All Buyer Types,316228.0
+246141,K34,3,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+246142,K34,3,2022,New,Household Buyer - Former Owner-Occupier,312455.0
+246143,K34,3,2022,New,Household Buyer - Non-Occupier,320001.0
+246700,K34,3,2022,Existing,All Buyer Types,650000.0
+246701,K34,3,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+246702,K34,3,2022,Existing,Household Buyer - Former Owner-Occupier,650000.0
+246703,K34,3,2022,Existing,Household Buyer - Non-Occupier,
+247260,K34,4,2022,All Dwelling Statuses,All Buyer Types,387200.0
+247261,K34,4,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,356666.0
+247262,K34,4,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,394500.0
+247263,K34,4,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,435000.0
+247820,K34,4,2022,New,All Buyer Types,320000.0
+247821,K34,4,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,320000.0
+247822,K34,4,2022,New,Household Buyer - Former Owner-Occupier,
+247823,K34,4,2022,New,Household Buyer - Non-Occupier,
+248380,K34,4,2022,Existing,All Buyer Types,404000.0
+248381,K34,4,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,430000.0
+248382,K34,4,2022,Existing,Household Buyer - Former Owner-Occupier,394500.0
+248383,K34,4,2022,Existing,Household Buyer - Non-Occupier,435000.0
+248940,K34,5,2022,All Dwelling Statuses,All Buyer Types,451483.0
+248941,K34,5,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,453750.0
+248942,K34,5,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,451135.0
+248943,K34,5,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+249500,K34,5,2022,New,All Buyer Types,363833.0
+249501,K34,5,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,451500.0
+249502,K34,5,2022,New,Household Buyer - Former Owner-Occupier,320000.0
+249503,K34,5,2022,New,Household Buyer - Non-Occupier,
+250060,K34,5,2022,Existing,All Buyer Types,473396.0
+250061,K34,5,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,456000.0
+250062,K34,5,2022,Existing,Household Buyer - Former Owner-Occupier,474977.0
+250063,K34,5,2022,Existing,Household Buyer - Non-Occupier,
+250620,K34,6,2022,All Dwelling Statuses,All Buyer Types,432650.0
+250621,K34,6,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,379999.0
+250622,K34,6,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,550000.0
+250623,K34,6,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,291200.0
+251180,K34,6,2022,New,All Buyer Types,322499.0
+251181,K34,6,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,322499.0
+251182,K34,6,2022,New,Household Buyer - Former Owner-Occupier,
+251183,K34,6,2022,New,Household Buyer - Non-Occupier,
+251740,K34,6,2022,Existing,All Buyer Types,469367.0
+251741,K34,6,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,437500.0
+251742,K34,6,2022,Existing,Household Buyer - Former Owner-Occupier,550000.0
+251743,K34,6,2022,Existing,Household Buyer - Non-Occupier,291200.0
+252300,K34,7,2022,All Dwelling Statuses,All Buyer Types,496300.0
+252301,K34,7,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+252302,K34,7,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,578214.0
+252303,K34,7,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,305167.0
+252860,K34,7,2022,New,All Buyer Types,
+252861,K34,7,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+252862,K34,7,2022,New,Household Buyer - Former Owner-Occupier,
+252863,K34,7,2022,New,Household Buyer - Non-Occupier,
+253420,K34,7,2022,Existing,All Buyer Types,496300.0
+253421,K34,7,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+253422,K34,7,2022,Existing,Household Buyer - Former Owner-Occupier,578214.0
+253423,K34,7,2022,Existing,Household Buyer - Non-Occupier,305167.0
+253980,K34,8,2022,All Dwelling Statuses,All Buyer Types,529375.0
+253981,K34,8,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,595000.0
+253982,K34,8,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,544737.0
+253983,K34,8,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,106250.0
+254540,K34,8,2022,New,All Buyer Types,407500.0
+254541,K34,8,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+254542,K34,8,2022,New,Household Buyer - Former Owner-Occupier,407500.0
+254543,K34,8,2022,New,Household Buyer - Non-Occupier,
+255100,K34,8,2022,Existing,All Buyer Types,541563.0
+255101,K34,8,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,595000.0
+255102,K34,8,2022,Existing,Household Buyer - Former Owner-Occupier,560882.0
+255103,K34,8,2022,Existing,Household Buyer - Non-Occupier,106250.0
+255660,K34,9,2022,All Dwelling Statuses,All Buyer Types,457667.0
+255661,K34,9,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,466752.0
+255662,K34,9,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,479286.0
+255663,K34,9,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,270000.0
+256220,K34,9,2022,New,All Buyer Types,333336.0
+256221,K34,9,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,365005.0
+256222,K34,9,2022,New,Household Buyer - Former Owner-Occupier,
+256223,K34,9,2022,New,Household Buyer - Non-Occupier,270000.0
+256780,K34,9,2022,Existing,All Buyer Types,499111.0
+256781,K34,9,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,568500.0
+256782,K34,9,2022,Existing,Household Buyer - Former Owner-Occupier,479286.0
+256783,K34,9,2022,Existing,Household Buyer - Non-Occupier,
+257340,K34,10,2022,All Dwelling Statuses,All Buyer Types,538983.0
+257341,K34,10,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,612500.0
+257342,K34,10,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,521678.0
+257343,K34,10,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,565000.0
+257900,K34,10,2022,New,All Buyer Types,414275.0
+257901,K34,10,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+257902,K34,10,2022,New,Household Buyer - Former Owner-Occupier,414275.0
+257903,K34,10,2022,New,Household Buyer - Non-Occupier,
+258460,K34,10,2022,Existing,All Buyer Types,549375.0
+258461,K34,10,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,612500.0
+258462,K34,10,2022,Existing,Household Buyer - Former Owner-Occupier,533611.0
+258463,K34,10,2022,Existing,Household Buyer - Non-Occupier,565000.0
+259020,K34,11,2022,All Dwelling Statuses,All Buyer Types,408778.0
+259021,K34,11,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,420000.0
+259022,K34,11,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,445454.0
+259023,K34,11,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,195833.0
+259580,K34,11,2022,New,All Buyer Types,352500.0
+259581,K34,11,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,405000.0
+259582,K34,11,2022,New,Household Buyer - Former Owner-Occupier,335000.0
+259583,K34,11,2022,New,Household Buyer - Non-Occupier,
+260140,K34,11,2022,Existing,All Buyer Types,429242.0
+260141,K34,11,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,435000.0
+260142,K34,11,2022,Existing,Household Buyer - Former Owner-Occupier,486875.0
+260143,K34,11,2022,Existing,Household Buyer - Non-Occupier,195833.0
+260700,K34,12,2022,All Dwelling Statuses,All Buyer Types,495294.0
+260701,K34,12,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,466250.0
+260702,K34,12,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,504231.0
+260703,K34,12,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+261260,K34,12,2022,New,All Buyer Types,459000.0
+261261,K34,12,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+261262,K34,12,2022,New,Household Buyer - Former Owner-Occupier,459000.0
+261263,K34,12,2022,New,Household Buyer - Non-Occupier,
+261820,K34,12,2022,Existing,All Buyer Types,510417.0
+261821,K34,12,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,466250.0
+261822,K34,12,2022,Existing,Household Buyer - Former Owner-Occupier,532500.0
+261823,K34,12,2022,Existing,Household Buyer - Non-Occupier,
+262380,K34,1,2023,All Dwelling Statuses,All Buyer Types,459347.0
+262381,K34,1,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,526557.0
+262382,K34,1,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,436944.0
+262383,K34,1,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+262940,K34,1,2023,New,All Buyer Types,344360.0
+262941,K34,1,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,373720.0
+262942,K34,1,2023,New,Household Buyer - Former Owner-Occupier,315000.0
+262943,K34,1,2023,New,Household Buyer - Non-Occupier,
+263500,K34,1,2023,Existing,All Buyer Types,482345.0
+263501,K34,1,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,602975.0
+263502,K34,1,2023,Existing,Household Buyer - Former Owner-Occupier,452188.0
+263503,K34,1,2023,Existing,Household Buyer - Non-Occupier,
+264060,K34,2,2023,All Dwelling Statuses,All Buyer Types,525000.0
+264061,K34,2,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,487500.0
+264062,K34,2,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,540000.0
+264063,K34,2,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+264620,K34,2,2023,New,All Buyer Types,405000.0
+264621,K34,2,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,405000.0
+264622,K34,2,2023,New,Household Buyer - Former Owner-Occupier,
+264623,K34,2,2023,New,Household Buyer - Non-Occupier,
+265180,K34,2,2023,Existing,All Buyer Types,545000.0
+265181,K34,2,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,570000.0
+265182,K34,2,2023,Existing,Household Buyer - Former Owner-Occupier,540000.0
+265183,K34,2,2023,Existing,Household Buyer - Non-Occupier,
+265740,K34,3,2023,All Dwelling Statuses,All Buyer Types,658121.0
+265741,K34,3,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,492500.0
+265742,K34,3,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,713328.0
+265743,K34,3,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+266300,K34,3,2023,New,All Buyer Types,359984.0
+266301,K34,3,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,315000.0
+266302,K34,3,2023,New,Household Buyer - Former Owner-Occupier,404968.0
+266303,K34,3,2023,New,Household Buyer - Non-Occupier,
+266860,K34,3,2023,Existing,All Buyer Types,757500.0
+266861,K34,3,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,670000.0
+266862,K34,3,2023,Existing,Household Buyer - Former Owner-Occupier,775000.0
+266863,K34,3,2023,Existing,Household Buyer - Non-Occupier,
+267420,K34,4,2023,All Dwelling Statuses,All Buyer Types,516105.0
+267421,K34,4,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,335052.0
+267422,K34,4,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,536222.0
+267423,K34,4,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+267980,K34,4,2023,New,All Buyer Types,377526.0
+267981,K34,4,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,335052.0
+267982,K34,4,2023,New,Household Buyer - Former Owner-Occupier,420000.0
+267983,K34,4,2023,New,Household Buyer - Non-Occupier,
+268540,K34,4,2023,Existing,All Buyer Types,550750.0
+268541,K34,4,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+268542,K34,4,2023,Existing,Household Buyer - Former Owner-Occupier,550750.0
+268543,K34,4,2023,Existing,Household Buyer - Non-Occupier,
+269100,K34,5,2023,All Dwelling Statuses,All Buyer Types,613286.0
+269101,K34,5,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,415000.0
+269102,K34,5,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,646333.0
+269103,K34,5,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+269660,K34,5,2023,New,All Buyer Types,415000.0
+269661,K34,5,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,415000.0
+269662,K34,5,2023,New,Household Buyer - Former Owner-Occupier,
+269663,K34,5,2023,New,Household Buyer - Non-Occupier,
+270220,K34,5,2023,Existing,All Buyer Types,646333.0
+270221,K34,5,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+270222,K34,5,2023,Existing,Household Buyer - Former Owner-Occupier,646333.0
+270223,K34,5,2023,Existing,Household Buyer - Non-Occupier,
+270780,K34,6,2023,All Dwelling Statuses,All Buyer Types,494808.0
+270781,K34,6,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+270782,K34,6,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,541136.0
+270783,K34,6,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,240000.0
+271340,K34,6,2023,New,All Buyer Types,420000.0
+271341,K34,6,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+271342,K34,6,2023,New,Household Buyer - Former Owner-Occupier,420000.0
+271343,K34,6,2023,New,Household Buyer - Non-Occupier,
+271900,K34,6,2023,Existing,All Buyer Types,501042.0
+271901,K34,6,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+271902,K34,6,2023,Existing,Household Buyer - Former Owner-Occupier,553250.0
+271903,K34,6,2023,Existing,Household Buyer - Non-Occupier,240000.0
+272460,K34,7,2023,All Dwelling Statuses,All Buyer Types,425278.0
+272461,K34,7,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,485000.0
+272462,K34,7,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,410000.0
+272463,K34,7,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,460000.0
+273020,K34,7,2023,New,All Buyer Types,475000.0
+273021,K34,7,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,367500.0
+273022,K34,7,2023,New,Household Buyer - Former Owner-Occupier,582500.0
+273023,K34,7,2023,New,Household Buyer - Non-Occupier,
+273580,K34,7,2023,Existing,All Buyer Types,411071.0
+273581,K34,7,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,720000.0
+273582,K34,7,2023,Existing,Household Buyer - Former Owner-Occupier,381250.0
+273583,K34,7,2023,Existing,Household Buyer - Non-Occupier,460000.0
+274140,K34,8,2023,All Dwelling Statuses,All Buyer Types,536000.0
+274141,K34,8,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,415000.0
+274142,K34,8,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,572300.0
+274143,K34,8,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+274700,K34,8,2023,New,All Buyer Types,350000.0
+274701,K34,8,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,362500.0
+274702,K34,8,2023,New,Household Buyer - Former Owner-Occupier,324999.0
+274703,K34,8,2023,New,Household Buyer - Non-Occupier,
+275260,K34,8,2023,Existing,All Buyer Types,591800.0
+275261,K34,8,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,520000.0
+275262,K34,8,2023,Existing,Household Buyer - Former Owner-Occupier,599778.0
+275263,K34,8,2023,Existing,Household Buyer - Non-Occupier,
+275820,K34,9,2023,All Dwelling Statuses,All Buyer Types,537375.0
+275821,K34,9,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,452667.0
+275822,K34,9,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,582500.0
+275823,K34,9,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,250000.0
+276380,K34,9,2023,New,All Buyer Types,420000.0
+276381,K34,9,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,420000.0
+276382,K34,9,2023,New,Household Buyer - Former Owner-Occupier,
+276383,K34,9,2023,New,Household Buyer - Non-Occupier,
+276940,K34,9,2023,Existing,All Buyer Types,545200.0
+276941,K34,9,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,469000.0
+276942,K34,9,2023,Existing,Household Buyer - Former Owner-Occupier,582500.0
+276943,K34,9,2023,Existing,Household Buyer - Non-Occupier,250000.0
+277500,K34,10,2023,All Dwelling Statuses,All Buyer Types,534117.0
+277501,K34,10,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,490000.0
+277502,K34,10,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,540419.0
+277503,K34,10,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+278060,K34,10,2023,New,All Buyer Types,
+278061,K34,10,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+278062,K34,10,2023,New,Household Buyer - Former Owner-Occupier,
+278063,K34,10,2023,New,Household Buyer - Non-Occupier,
+278620,K34,10,2023,Existing,All Buyer Types,534117.0
+278621,K34,10,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,490000.0
+278622,K34,10,2023,Existing,Household Buyer - Former Owner-Occupier,540419.0
+278623,K34,10,2023,Existing,Household Buyer - Non-Occupier,
+279180,K34,11,2023,All Dwelling Statuses,All Buyer Types,448000.0
+279181,K34,11,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,313500.0
+279182,K34,11,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,486429.0
+279183,K34,11,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+279740,K34,11,2023,New,All Buyer Types,
+279741,K34,11,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+279742,K34,11,2023,New,Household Buyer - Former Owner-Occupier,
+279743,K34,11,2023,New,Household Buyer - Non-Occupier,
+280300,K34,11,2023,Existing,All Buyer Types,448000.0
+280301,K34,11,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,313500.0
+280302,K34,11,2023,Existing,Household Buyer - Former Owner-Occupier,486429.0
+280303,K34,11,2023,Existing,Household Buyer - Non-Occupier,
+280860,K34,12,2023,All Dwelling Statuses,All Buyer Types,491923.0
+280861,K34,12,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,505000.0
+280862,K34,12,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,492000.0
+280863,K34,12,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,465000.0
+281420,K34,12,2023,New,All Buyer Types,
+281421,K34,12,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+281422,K34,12,2023,New,Household Buyer - Former Owner-Occupier,
+281423,K34,12,2023,New,Household Buyer - Non-Occupier,
+281980,K34,12,2023,Existing,All Buyer Types,491923.0
+281981,K34,12,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,505000.0
+281982,K34,12,2023,Existing,Household Buyer - Former Owner-Occupier,492000.0
+281983,K34,12,2023,Existing,Household Buyer - Non-Occupier,465000.0
+282540,K34,1,2024,All Dwelling Statuses,All Buyer Types,427500.0
+282541,K34,1,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+282542,K34,1,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,427500.0
+282543,K34,1,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+283100,K34,1,2024,New,All Buyer Types,
+283101,K34,1,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+283102,K34,1,2024,New,Household Buyer - Former Owner-Occupier,
+283103,K34,1,2024,New,Household Buyer - Non-Occupier,
+283660,K34,1,2024,Existing,All Buyer Types,427500.0
+283661,K34,1,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+283662,K34,1,2024,Existing,Household Buyer - Former Owner-Occupier,427500.0
+283663,K34,1,2024,Existing,Household Buyer - Non-Occupier,
+284220,K34,2,2024,All Dwelling Statuses,All Buyer Types,528273.0
+284221,K34,2,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,503000.0
+284222,K34,2,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,549333.0
+284223,K34,2,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+284780,K34,2,2024,New,All Buyer Types,
+284781,K34,2,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+284782,K34,2,2024,New,Household Buyer - Former Owner-Occupier,
+284783,K34,2,2024,New,Household Buyer - Non-Occupier,
+285340,K34,2,2024,Existing,All Buyer Types,528273.0
+285341,K34,2,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,503000.0
+285342,K34,2,2024,Existing,Household Buyer - Former Owner-Occupier,549333.0
+285343,K34,2,2024,Existing,Household Buyer - Non-Occupier,
+285900,K34,3,2024,All Dwelling Statuses,All Buyer Types,566250.0
+285901,K34,3,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+285902,K34,3,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,485000.0
+285903,K34,3,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,810000.0
+286460,K34,3,2024,New,All Buyer Types,
+286461,K34,3,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+286462,K34,3,2024,New,Household Buyer - Former Owner-Occupier,
+286463,K34,3,2024,New,Household Buyer - Non-Occupier,
+287020,K34,3,2024,Existing,All Buyer Types,566250.0
+287021,K34,3,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+287022,K34,3,2024,Existing,Household Buyer - Former Owner-Occupier,485000.0
+287023,K34,3,2024,Existing,Household Buyer - Non-Occupier,810000.0
+287580,K34,4,2024,All Dwelling Statuses,All Buyer Types,497583.0
+287581,K34,4,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+287582,K34,4,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,417100.0
+287583,K34,4,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,900000.0
+288140,K34,4,2024,New,All Buyer Types,
+288141,K34,4,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+288142,K34,4,2024,New,Household Buyer - Former Owner-Occupier,
+288143,K34,4,2024,New,Household Buyer - Non-Occupier,
+288700,K34,4,2024,Existing,All Buyer Types,497583.0
+288701,K34,4,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+288702,K34,4,2024,Existing,Household Buyer - Former Owner-Occupier,417100.0
+288703,K34,4,2024,Existing,Household Buyer - Non-Occupier,900000.0
+289260,K34,5,2024,All Dwelling Statuses,All Buyer Types,370000.0
+289261,K34,5,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,375000.0
+289262,K34,5,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,365000.0
+289263,K34,5,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+289820,K34,5,2024,New,All Buyer Types,
+289821,K34,5,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+289822,K34,5,2024,New,Household Buyer - Former Owner-Occupier,
+289823,K34,5,2024,New,Household Buyer - Non-Occupier,
+290380,K34,5,2024,Existing,All Buyer Types,370000.0
+290381,K34,5,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,375000.0
+290382,K34,5,2024,Existing,Household Buyer - Former Owner-Occupier,365000.0
+290383,K34,5,2024,Existing,Household Buyer - Non-Occupier,
+290940,K34,6,2024,All Dwelling Statuses,All Buyer Types,476050.0
+290941,K34,6,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,413500.0
+290942,K34,6,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,491688.0
+290943,K34,6,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+291500,K34,6,2024,New,All Buyer Types,
+291501,K34,6,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+291502,K34,6,2024,New,Household Buyer - Former Owner-Occupier,
+291503,K34,6,2024,New,Household Buyer - Non-Occupier,
+292060,K34,6,2024,Existing,All Buyer Types,476050.0
+292061,K34,6,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,413500.0
+292062,K34,6,2024,Existing,Household Buyer - Former Owner-Occupier,491688.0
+292063,K34,6,2024,Existing,Household Buyer - Non-Occupier,
+292620,K34,7,2024,All Dwelling Statuses,All Buyer Types,587833.0
+292621,K34,7,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+292622,K34,7,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,587833.0
+292623,K34,7,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,
+293180,K34,7,2024,New,All Buyer Types,
+293181,K34,7,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+293182,K34,7,2024,New,Household Buyer - Former Owner-Occupier,
+293183,K34,7,2024,New,Household Buyer - Non-Occupier,
+293740,K34,7,2024,Existing,All Buyer Types,587833.0
+293741,K34,7,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+293742,K34,7,2024,Existing,Household Buyer - Former Owner-Occupier,587833.0
+293743,K34,7,2024,Existing,Household Buyer - Non-Occupier,

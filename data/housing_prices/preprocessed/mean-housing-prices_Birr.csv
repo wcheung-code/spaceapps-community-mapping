@@ -1,0 +1,2101 @@
+,Eircode,Month,Year,Dwelling Status,Type of Buyer,VALUE
+428,R42,1,2010,All Dwelling Statuses,All Buyer Types,55000.0
+429,R42,1,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+430,R42,1,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+431,R42,1,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,55000.0
+988,R42,1,2010,New,All Buyer Types,
+989,R42,1,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+990,R42,1,2010,New,Household Buyer - Former Owner-Occupier,
+991,R42,1,2010,New,Household Buyer - Non-Occupier,
+1548,R42,1,2010,Existing,All Buyer Types,55000.0
+1549,R42,1,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+1550,R42,1,2010,Existing,Household Buyer - Former Owner-Occupier,
+1551,R42,1,2010,Existing,Household Buyer - Non-Occupier,55000.0
+2108,R42,2,2010,All Dwelling Statuses,All Buyer Types,318500.0
+2109,R42,2,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+2110,R42,2,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,390250.0
+2111,R42,2,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,175000.0
+2668,R42,2,2010,New,All Buyer Types,
+2669,R42,2,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+2670,R42,2,2010,New,Household Buyer - Former Owner-Occupier,
+2671,R42,2,2010,New,Household Buyer - Non-Occupier,
+3228,R42,2,2010,Existing,All Buyer Types,318500.0
+3229,R42,2,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+3230,R42,2,2010,Existing,Household Buyer - Former Owner-Occupier,390250.0
+3231,R42,2,2010,Existing,Household Buyer - Non-Occupier,175000.0
+3788,R42,3,2010,All Dwelling Statuses,All Buyer Types,161950.0
+3789,R42,3,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,161950.0
+3790,R42,3,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+3791,R42,3,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+4348,R42,3,2010,New,All Buyer Types,158900.0
+4349,R42,3,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,158900.0
+4350,R42,3,2010,New,Household Buyer - Former Owner-Occupier,
+4351,R42,3,2010,New,Household Buyer - Non-Occupier,
+4908,R42,3,2010,Existing,All Buyer Types,165000.0
+4909,R42,3,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+4910,R42,3,2010,Existing,Household Buyer - Former Owner-Occupier,
+4911,R42,3,2010,Existing,Household Buyer - Non-Occupier,
+5468,R42,4,2010,All Dwelling Statuses,All Buyer Types,161658.0
+5469,R42,4,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,161658.0
+5470,R42,4,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+5471,R42,4,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+6028,R42,4,2010,New,All Buyer Types,161658.0
+6029,R42,4,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,161658.0
+6030,R42,4,2010,New,Household Buyer - Former Owner-Occupier,
+6031,R42,4,2010,New,Household Buyer - Non-Occupier,
+6588,R42,4,2010,Existing,All Buyer Types,
+6589,R42,4,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+6590,R42,4,2010,Existing,Household Buyer - Former Owner-Occupier,
+6591,R42,4,2010,Existing,Household Buyer - Non-Occupier,
+7148,R42,5,2010,All Dwelling Statuses,All Buyer Types,145931.0
+7149,R42,5,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,266725.0
+7150,R42,5,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,50000.0
+7151,R42,5,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,137643.0
+7708,R42,5,2010,New,All Buyer Types,193218.0
+7709,R42,5,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,266725.0
+7710,R42,5,2010,New,Household Buyer - Former Owner-Occupier,
+7711,R42,5,2010,New,Household Buyer - Non-Occupier,156464.0
+8268,R42,5,2010,Existing,All Buyer Types,75000.0
+8269,R42,5,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+8270,R42,5,2010,Existing,Household Buyer - Former Owner-Occupier,50000.0
+8271,R42,5,2010,Existing,Household Buyer - Non-Occupier,100000.0
+8828,R42,6,2010,All Dwelling Statuses,All Buyer Types,125369.0
+8829,R42,6,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+8830,R42,6,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,142281.0
+8831,R42,6,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+9388,R42,6,2010,New,All Buyer Types,157695.0
+9389,R42,6,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+9390,R42,6,2010,New,Household Buyer - Former Owner-Occupier,157695.0
+9391,R42,6,2010,New,Household Buyer - Non-Occupier,
+9948,R42,6,2010,Existing,All Buyer Types,117287.0
+9949,R42,6,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+9950,R42,6,2010,Existing,Household Buyer - Former Owner-Occupier,134574.0
+9951,R42,6,2010,Existing,Household Buyer - Non-Occupier,
+10508,R42,7,2010,All Dwelling Statuses,All Buyer Types,219654.0
+10509,R42,7,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,192642.0
+10510,R42,7,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,322500.0
+10511,R42,7,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,95000.0
+11068,R42,7,2010,New,All Buyer Types,201463.0
+11069,R42,7,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,201463.0
+11070,R42,7,2010,New,Household Buyer - Former Owner-Occupier,
+11071,R42,7,2010,New,Household Buyer - Non-Occupier,
+11628,R42,7,2010,Existing,All Buyer Types,228750.0
+11629,R42,7,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+11630,R42,7,2010,Existing,Household Buyer - Former Owner-Occupier,322500.0
+11631,R42,7,2010,Existing,Household Buyer - Non-Occupier,95000.0
+12188,R42,8,2010,All Dwelling Statuses,All Buyer Types,181913.0
+12189,R42,8,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,149949.0
+12190,R42,8,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,201750.0
+12191,R42,8,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,172730.0
+12748,R42,8,2010,New,All Buyer Types,198300.0
+12749,R42,8,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,149949.0
+12750,R42,8,2010,New,Household Buyer - Former Owner-Occupier,231625.0
+12751,R42,8,2010,New,Household Buyer - Non-Occupier,180000.0
+13308,R42,8,2010,Existing,All Buyer Types,160063.0
+13309,R42,8,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+13310,R42,8,2010,Existing,Household Buyer - Former Owner-Occupier,142000.0
+13311,R42,8,2010,Existing,Household Buyer - Non-Occupier,169095.0
+13868,R42,9,2010,All Dwelling Statuses,All Buyer Types,166731.0
+13869,R42,9,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,137597.0
+13870,R42,9,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,225000.0
+13871,R42,9,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+14428,R42,9,2010,New,All Buyer Types,170193.0
+14429,R42,9,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,170193.0
+14430,R42,9,2010,New,Household Buyer - Former Owner-Occupier,
+14431,R42,9,2010,New,Household Buyer - Non-Occupier,
+14988,R42,9,2010,Existing,All Buyer Types,165000.0
+14989,R42,9,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,105000.0
+14990,R42,9,2010,Existing,Household Buyer - Former Owner-Occupier,225000.0
+14991,R42,9,2010,Existing,Household Buyer - Non-Occupier,
+15548,R42,10,2010,All Dwelling Statuses,All Buyer Types,161740.0
+15549,R42,10,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,145225.0
+15550,R42,10,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,175433.0
+15551,R42,10,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,140000.0
+16108,R42,10,2010,New,All Buyer Types,147170.0
+16109,R42,10,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,149949.0
+16110,R42,10,2010,New,Household Buyer - Former Owner-Occupier,149366.0
+16111,R42,10,2010,New,Household Buyer - Non-Occupier,140000.0
+16668,R42,10,2010,Existing,All Buyer Types,181167.0
+16669,R42,10,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140500.0
+16670,R42,10,2010,Existing,Household Buyer - Former Owner-Occupier,201500.0
+16671,R42,10,2010,Existing,Household Buyer - Non-Occupier,
+17228,R42,11,2010,All Dwelling Statuses,All Buyer Types,230545.0
+17229,R42,11,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,271089.0
+17230,R42,11,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,190000.0
+17231,R42,11,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+17788,R42,11,2010,New,All Buyer Types,271089.0
+17789,R42,11,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,271089.0
+17790,R42,11,2010,New,Household Buyer - Former Owner-Occupier,
+17791,R42,11,2010,New,Household Buyer - Non-Occupier,
+18348,R42,11,2010,Existing,All Buyer Types,190000.0
+18349,R42,11,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+18350,R42,11,2010,Existing,Household Buyer - Former Owner-Occupier,190000.0
+18351,R42,11,2010,Existing,Household Buyer - Non-Occupier,
+18908,R42,12,2010,All Dwelling Statuses,All Buyer Types,128750.0
+18909,R42,12,2010,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,128750.0
+18910,R42,12,2010,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+18911,R42,12,2010,All Dwelling Statuses,Household Buyer - Non-Occupier,
+19468,R42,12,2010,New,All Buyer Types,
+19469,R42,12,2010,New,Household Buyer - First-Time Buyer Owner-Occupier,
+19470,R42,12,2010,New,Household Buyer - Former Owner-Occupier,
+19471,R42,12,2010,New,Household Buyer - Non-Occupier,
+20028,R42,12,2010,Existing,All Buyer Types,128750.0
+20029,R42,12,2010,Existing,Household Buyer - First-Time Buyer Owner-Occupier,128750.0
+20030,R42,12,2010,Existing,Household Buyer - Former Owner-Occupier,
+20031,R42,12,2010,Existing,Household Buyer - Non-Occupier,
+20588,R42,1,2011,All Dwelling Statuses,All Buyer Types,155833.0
+20589,R42,1,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,155833.0
+20590,R42,1,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+20591,R42,1,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+21148,R42,1,2011,New,All Buyer Types,
+21149,R42,1,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+21150,R42,1,2011,New,Household Buyer - Former Owner-Occupier,
+21151,R42,1,2011,New,Household Buyer - Non-Occupier,
+21708,R42,1,2011,Existing,All Buyer Types,155833.0
+21709,R42,1,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,155833.0
+21710,R42,1,2011,Existing,Household Buyer - Former Owner-Occupier,
+21711,R42,1,2011,Existing,Household Buyer - Non-Occupier,
+22268,R42,2,2011,All Dwelling Statuses,All Buyer Types,141731.0
+22269,R42,2,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,141731.0
+22270,R42,2,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+22271,R42,2,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+22828,R42,2,2011,New,All Buyer Types,170193.0
+22829,R42,2,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,170193.0
+22830,R42,2,2011,New,Household Buyer - Former Owner-Occupier,
+22831,R42,2,2011,New,Household Buyer - Non-Occupier,
+23388,R42,2,2011,Existing,All Buyer Types,127500.0
+23389,R42,2,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,127500.0
+23390,R42,2,2011,Existing,Household Buyer - Former Owner-Occupier,
+23391,R42,2,2011,Existing,Household Buyer - Non-Occupier,
+23948,R42,3,2011,All Dwelling Statuses,All Buyer Types,129983.0
+23949,R42,3,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,152475.0
+23950,R42,3,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,85000.0
+23951,R42,3,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+24508,R42,3,2011,New,All Buyer Types,149950.0
+24509,R42,3,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,149950.0
+24510,R42,3,2011,New,Household Buyer - Former Owner-Occupier,
+24511,R42,3,2011,New,Household Buyer - Non-Occupier,
+25068,R42,3,2011,Existing,All Buyer Types,120000.0
+25069,R42,3,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,155000.0
+25070,R42,3,2011,Existing,Household Buyer - Former Owner-Occupier,85000.0
+25071,R42,3,2011,Existing,Household Buyer - Non-Occupier,
+25628,R42,4,2011,All Dwelling Statuses,All Buyer Types,103375.0
+25629,R42,4,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,87500.0
+25630,R42,4,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,119250.0
+25631,R42,4,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+26188,R42,4,2011,New,All Buyer Types,
+26189,R42,4,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+26190,R42,4,2011,New,Household Buyer - Former Owner-Occupier,
+26191,R42,4,2011,New,Household Buyer - Non-Occupier,
+26748,R42,4,2011,Existing,All Buyer Types,103375.0
+26749,R42,4,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,87500.0
+26750,R42,4,2011,Existing,Household Buyer - Former Owner-Occupier,119250.0
+26751,R42,4,2011,Existing,Household Buyer - Non-Occupier,
+27308,R42,5,2011,All Dwelling Statuses,All Buyer Types,100000.0
+27309,R42,5,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+27310,R42,5,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,100000.0
+27311,R42,5,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+27868,R42,5,2011,New,All Buyer Types,
+27869,R42,5,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+27870,R42,5,2011,New,Household Buyer - Former Owner-Occupier,
+27871,R42,5,2011,New,Household Buyer - Non-Occupier,
+28428,R42,5,2011,Existing,All Buyer Types,100000.0
+28429,R42,5,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+28430,R42,5,2011,Existing,Household Buyer - Former Owner-Occupier,100000.0
+28431,R42,5,2011,Existing,Household Buyer - Non-Occupier,
+28988,R42,6,2011,All Dwelling Statuses,All Buyer Types,120000.0
+28989,R42,6,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+28990,R42,6,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,120000.0
+28991,R42,6,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+29548,R42,6,2011,New,All Buyer Types,
+29549,R42,6,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+29550,R42,6,2011,New,Household Buyer - Former Owner-Occupier,
+29551,R42,6,2011,New,Household Buyer - Non-Occupier,
+30108,R42,6,2011,Existing,All Buyer Types,120000.0
+30109,R42,6,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+30110,R42,6,2011,Existing,Household Buyer - Former Owner-Occupier,120000.0
+30111,R42,6,2011,Existing,Household Buyer - Non-Occupier,
+30668,R42,7,2011,All Dwelling Statuses,All Buyer Types,60000.0
+30669,R42,7,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+30670,R42,7,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,60000.0
+30671,R42,7,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,
+31228,R42,7,2011,New,All Buyer Types,
+31229,R42,7,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+31230,R42,7,2011,New,Household Buyer - Former Owner-Occupier,
+31231,R42,7,2011,New,Household Buyer - Non-Occupier,
+31788,R42,7,2011,Existing,All Buyer Types,60000.0
+31789,R42,7,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+31790,R42,7,2011,Existing,Household Buyer - Former Owner-Occupier,60000.0
+31791,R42,7,2011,Existing,Household Buyer - Non-Occupier,
+32348,R42,8,2011,All Dwelling Statuses,All Buyer Types,133181.0
+32349,R42,8,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+32350,R42,8,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,144977.0
+32351,R42,8,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,86000.0
+32908,R42,8,2011,New,All Buyer Types,
+32909,R42,8,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+32910,R42,8,2011,New,Household Buyer - Former Owner-Occupier,
+32911,R42,8,2011,New,Household Buyer - Non-Occupier,
+33468,R42,8,2011,Existing,All Buyer Types,133181.0
+33469,R42,8,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+33470,R42,8,2011,Existing,Household Buyer - Former Owner-Occupier,144977.0
+33471,R42,8,2011,Existing,Household Buyer - Non-Occupier,86000.0
+34028,R42,9,2011,All Dwelling Statuses,All Buyer Types,143500.0
+34029,R42,9,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+34030,R42,9,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,190000.0
+34031,R42,9,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,84000.0
+34588,R42,9,2011,New,All Buyer Types,
+34589,R42,9,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+34590,R42,9,2011,New,Household Buyer - Former Owner-Occupier,
+34591,R42,9,2011,New,Household Buyer - Non-Occupier,
+35148,R42,9,2011,Existing,All Buyer Types,143500.0
+35149,R42,9,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+35150,R42,9,2011,Existing,Household Buyer - Former Owner-Occupier,190000.0
+35151,R42,9,2011,Existing,Household Buyer - Non-Occupier,84000.0
+35708,R42,10,2011,All Dwelling Statuses,All Buyer Types,122500.0
+35709,R42,10,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+35710,R42,10,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+35711,R42,10,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+36268,R42,10,2011,New,All Buyer Types,165000.0
+36269,R42,10,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+36270,R42,10,2011,New,Household Buyer - Former Owner-Occupier,
+36271,R42,10,2011,New,Household Buyer - Non-Occupier,
+36828,R42,10,2011,Existing,All Buyer Types,80000.0
+36829,R42,10,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+36830,R42,10,2011,Existing,Household Buyer - Former Owner-Occupier,
+36831,R42,10,2011,Existing,Household Buyer - Non-Occupier,80000.0
+37388,R42,11,2011,All Dwelling Statuses,All Buyer Types,71500.0
+37389,R42,11,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,80000.0
+37390,R42,11,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,85000.0
+37391,R42,11,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,60500.0
+37948,R42,11,2011,New,All Buyer Types,
+37949,R42,11,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+37950,R42,11,2011,New,Household Buyer - Former Owner-Occupier,
+37951,R42,11,2011,New,Household Buyer - Non-Occupier,
+38508,R42,11,2011,Existing,All Buyer Types,71500.0
+38509,R42,11,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,80000.0
+38510,R42,11,2011,Existing,Household Buyer - Former Owner-Occupier,85000.0
+38511,R42,11,2011,Existing,Household Buyer - Non-Occupier,60500.0
+39068,R42,12,2011,All Dwelling Statuses,All Buyer Types,130238.0
+39069,R42,12,2011,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100333.0
+39070,R42,12,2011,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,207213.0
+39071,R42,12,2011,All Dwelling Statuses,Household Buyer - Non-Occupier,66000.0
+39628,R42,12,2011,New,All Buyer Types,289425.0
+39629,R42,12,2011,New,Household Buyer - First-Time Buyer Owner-Occupier,
+39630,R42,12,2011,New,Household Buyer - Former Owner-Occupier,289425.0
+39631,R42,12,2011,New,Household Buyer - Non-Occupier,
+40188,R42,12,2011,Existing,All Buyer Types,98400.0
+40189,R42,12,2011,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100333.0
+40190,R42,12,2011,Existing,Household Buyer - Former Owner-Occupier,125000.0
+40191,R42,12,2011,Existing,Household Buyer - Non-Occupier,66000.0
+40748,R42,1,2012,All Dwelling Statuses,All Buyer Types,120375.0
+40749,R42,1,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,57500.0
+40750,R42,1,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,84000.0
+40751,R42,1,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,170000.0
+41308,R42,1,2012,New,All Buyer Types,
+41309,R42,1,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+41310,R42,1,2012,New,Household Buyer - Former Owner-Occupier,
+41311,R42,1,2012,New,Household Buyer - Non-Occupier,
+41868,R42,1,2012,Existing,All Buyer Types,120375.0
+41869,R42,1,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,57500.0
+41870,R42,1,2012,Existing,Household Buyer - Former Owner-Occupier,84000.0
+41871,R42,1,2012,Existing,Household Buyer - Non-Occupier,170000.0
+42428,R42,2,2012,All Dwelling Statuses,All Buyer Types,171167.0
+42429,R42,2,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,104000.0
+42430,R42,2,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,222500.0
+42431,R42,2,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,159333.0
+42988,R42,2,2012,New,All Buyer Types,
+42989,R42,2,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+42990,R42,2,2012,New,Household Buyer - Former Owner-Occupier,
+42991,R42,2,2012,New,Household Buyer - Non-Occupier,
+43548,R42,2,2012,Existing,All Buyer Types,171167.0
+43549,R42,2,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,104000.0
+43550,R42,2,2012,Existing,Household Buyer - Former Owner-Occupier,222500.0
+43551,R42,2,2012,Existing,Household Buyer - Non-Occupier,159333.0
+44108,R42,3,2012,All Dwelling Statuses,All Buyer Types,182852.0
+44109,R42,3,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,140703.0
+44110,R42,3,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,225000.0
+44111,R42,3,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+44668,R42,3,2012,New,All Buyer Types,140703.0
+44669,R42,3,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,140703.0
+44670,R42,3,2012,New,Household Buyer - Former Owner-Occupier,
+44671,R42,3,2012,New,Household Buyer - Non-Occupier,
+45228,R42,3,2012,Existing,All Buyer Types,225000.0
+45229,R42,3,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+45230,R42,3,2012,Existing,Household Buyer - Former Owner-Occupier,225000.0
+45231,R42,3,2012,Existing,Household Buyer - Non-Occupier,
+45788,R42,4,2012,All Dwelling Statuses,All Buyer Types,
+45789,R42,4,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+45790,R42,4,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+45791,R42,4,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,
+46348,R42,4,2012,New,All Buyer Types,
+46349,R42,4,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+46350,R42,4,2012,New,Household Buyer - Former Owner-Occupier,
+46351,R42,4,2012,New,Household Buyer - Non-Occupier,
+46908,R42,4,2012,Existing,All Buyer Types,
+46909,R42,4,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+46910,R42,4,2012,Existing,Household Buyer - Former Owner-Occupier,
+46911,R42,4,2012,Existing,Household Buyer - Non-Occupier,
+47468,R42,5,2012,All Dwelling Statuses,All Buyer Types,106437.0
+47469,R42,5,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,128500.0
+47470,R42,5,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,114515.0
+47471,R42,5,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,30000.0
+48028,R42,5,2012,New,All Buyer Types,129560.0
+48029,R42,5,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+48030,R42,5,2012,New,Household Buyer - Former Owner-Occupier,129560.0
+48031,R42,5,2012,New,Household Buyer - Non-Occupier,
+48588,R42,5,2012,Existing,All Buyer Types,102583.0
+48589,R42,5,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,128500.0
+48590,R42,5,2012,Existing,Household Buyer - Former Owner-Occupier,109500.0
+48591,R42,5,2012,Existing,Household Buyer - Non-Occupier,30000.0
+49148,R42,6,2012,All Dwelling Statuses,All Buyer Types,92578.0
+49149,R42,6,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,91444.0
+49150,R42,6,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,120000.0
+49151,R42,6,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+49708,R42,6,2012,New,All Buyer Types,150388.0
+49709,R42,6,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,150388.0
+49710,R42,6,2012,New,Household Buyer - Former Owner-Occupier,
+49711,R42,6,2012,New,Household Buyer - Non-Occupier,
+50268,R42,6,2012,Existing,All Buyer Types,78125.0
+50269,R42,6,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,32500.0
+50270,R42,6,2012,Existing,Household Buyer - Former Owner-Occupier,120000.0
+50271,R42,6,2012,Existing,Household Buyer - Non-Occupier,80000.0
+50828,R42,7,2012,All Dwelling Statuses,All Buyer Types,133800.0
+50829,R42,7,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+50830,R42,7,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,149000.0
+50831,R42,7,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,62000.0
+51388,R42,7,2012,New,All Buyer Types,
+51389,R42,7,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+51390,R42,7,2012,New,Household Buyer - Former Owner-Occupier,
+51391,R42,7,2012,New,Household Buyer - Non-Occupier,
+51948,R42,7,2012,Existing,All Buyer Types,133800.0
+51949,R42,7,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+51950,R42,7,2012,Existing,Household Buyer - Former Owner-Occupier,149000.0
+51951,R42,7,2012,Existing,Household Buyer - Non-Occupier,62000.0
+52508,R42,8,2012,All Dwelling Statuses,All Buyer Types,156063.0
+52509,R42,8,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+52510,R42,8,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,190000.0
+52511,R42,8,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,170158.0
+53068,R42,8,2012,New,All Buyer Types,115316.0
+53069,R42,8,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+53070,R42,8,2012,New,Household Buyer - Former Owner-Occupier,
+53071,R42,8,2012,New,Household Buyer - Non-Occupier,115316.0
+53628,R42,8,2012,Existing,All Buyer Types,166250.0
+53629,R42,8,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+53630,R42,8,2012,Existing,Household Buyer - Former Owner-Occupier,190000.0
+53631,R42,8,2012,Existing,Household Buyer - Non-Occupier,225000.0
+54188,R42,9,2012,All Dwelling Statuses,All Buyer Types,104260.0
+54189,R42,9,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,90800.0
+54190,R42,9,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,131833.0
+54191,R42,9,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,35000.0
+54748,R42,9,2012,New,All Buyer Types,90800.0
+54749,R42,9,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,90800.0
+54750,R42,9,2012,New,Household Buyer - Former Owner-Occupier,
+54751,R42,9,2012,New,Household Buyer - Non-Occupier,
+55308,R42,9,2012,Existing,All Buyer Types,107625.0
+55309,R42,9,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+55310,R42,9,2012,Existing,Household Buyer - Former Owner-Occupier,131833.0
+55311,R42,9,2012,Existing,Household Buyer - Non-Occupier,35000.0
+55868,R42,10,2012,All Dwelling Statuses,All Buyer Types,72366.0
+55869,R42,10,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,73500.0
+55870,R42,10,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,90000.0
+55871,R42,10,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,44782.0
+56428,R42,10,2012,New,All Buyer Types,42563.0
+56429,R42,10,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+56430,R42,10,2012,New,Household Buyer - Former Owner-Occupier,
+56431,R42,10,2012,New,Household Buyer - Non-Occupier,42563.0
+56988,R42,10,2012,Existing,All Buyer Types,77333.0
+56989,R42,10,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,73500.0
+56990,R42,10,2012,Existing,Household Buyer - Former Owner-Occupier,90000.0
+56991,R42,10,2012,Existing,Household Buyer - Non-Occupier,47000.0
+57548,R42,11,2012,All Dwelling Statuses,All Buyer Types,136071.0
+57549,R42,11,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+57550,R42,11,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,147000.0
+57551,R42,11,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,108750.0
+58108,R42,11,2012,New,All Buyer Types,
+58109,R42,11,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,
+58110,R42,11,2012,New,Household Buyer - Former Owner-Occupier,
+58111,R42,11,2012,New,Household Buyer - Non-Occupier,
+58668,R42,11,2012,Existing,All Buyer Types,136071.0
+58669,R42,11,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+58670,R42,11,2012,Existing,Household Buyer - Former Owner-Occupier,147000.0
+58671,R42,11,2012,Existing,Household Buyer - Non-Occupier,108750.0
+59228,R42,12,2012,All Dwelling Statuses,All Buyer Types,114160.0
+59229,R42,12,2012,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,106933.0
+59230,R42,12,2012,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,160000.0
+59231,R42,12,2012,All Dwelling Statuses,Household Buyer - Non-Occupier,90000.0
+59788,R42,12,2012,New,All Buyer Types,90800.0
+59789,R42,12,2012,New,Household Buyer - First-Time Buyer Owner-Occupier,90800.0
+59790,R42,12,2012,New,Household Buyer - Former Owner-Occupier,
+59791,R42,12,2012,New,Household Buyer - Non-Occupier,
+60348,R42,12,2012,Existing,All Buyer Types,120000.0
+60349,R42,12,2012,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+60350,R42,12,2012,Existing,Household Buyer - Former Owner-Occupier,160000.0
+60351,R42,12,2012,Existing,Household Buyer - Non-Occupier,90000.0
+60908,R42,1,2013,All Dwelling Statuses,All Buyer Types,
+60909,R42,1,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+60910,R42,1,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+60911,R42,1,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+61468,R42,1,2013,New,All Buyer Types,
+61469,R42,1,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+61470,R42,1,2013,New,Household Buyer - Former Owner-Occupier,
+61471,R42,1,2013,New,Household Buyer - Non-Occupier,
+62028,R42,1,2013,Existing,All Buyer Types,
+62029,R42,1,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+62030,R42,1,2013,Existing,Household Buyer - Former Owner-Occupier,
+62031,R42,1,2013,Existing,Household Buyer - Non-Occupier,
+62588,R42,2,2013,All Dwelling Statuses,All Buyer Types,70606.0
+62589,R42,2,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,98023.0
+62590,R42,2,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,65800.0
+62591,R42,2,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,35000.0
+63148,R42,2,2013,New,All Buyer Types,76045.0
+63149,R42,2,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,76045.0
+63150,R42,2,2013,New,Household Buyer - Former Owner-Occupier,
+63151,R42,2,2013,New,Household Buyer - Non-Occupier,
+63708,R42,2,2013,Existing,All Buyer Types,69700.0
+63709,R42,2,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+63710,R42,2,2013,Existing,Household Buyer - Former Owner-Occupier,65800.0
+63711,R42,2,2013,Existing,Household Buyer - Non-Occupier,35000.0
+64268,R42,3,2013,All Dwelling Statuses,All Buyer Types,143167.0
+64269,R42,3,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+64270,R42,3,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,170250.0
+64271,R42,3,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,28000.0
+64828,R42,3,2013,New,All Buyer Types,
+64829,R42,3,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+64830,R42,3,2013,New,Household Buyer - Former Owner-Occupier,
+64831,R42,3,2013,New,Household Buyer - Non-Occupier,
+65388,R42,3,2013,Existing,All Buyer Types,143167.0
+65389,R42,3,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+65390,R42,3,2013,Existing,Household Buyer - Former Owner-Occupier,170250.0
+65391,R42,3,2013,Existing,Household Buyer - Non-Occupier,28000.0
+65948,R42,4,2013,All Dwelling Statuses,All Buyer Types,143120.0
+65949,R42,4,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,75000.0
+65950,R42,4,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,188533.0
+65951,R42,4,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+66508,R42,4,2013,New,All Buyer Types,68100.0
+66509,R42,4,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+66510,R42,4,2013,New,Household Buyer - Former Owner-Occupier,68100.0
+66511,R42,4,2013,New,Household Buyer - Non-Occupier,
+67068,R42,4,2013,Existing,All Buyer Types,161875.0
+67069,R42,4,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,75000.0
+67070,R42,4,2013,Existing,Household Buyer - Former Owner-Occupier,248750.0
+67071,R42,4,2013,Existing,Household Buyer - Non-Occupier,
+67628,R42,5,2013,All Dwelling Statuses,All Buyer Types,98350.0
+67629,R42,5,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+67630,R42,5,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,130500.0
+67631,R42,5,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,34050.0
+68188,R42,5,2013,New,All Buyer Types,34050.0
+68189,R42,5,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+68190,R42,5,2013,New,Household Buyer - Former Owner-Occupier,
+68191,R42,5,2013,New,Household Buyer - Non-Occupier,34050.0
+68748,R42,5,2013,Existing,All Buyer Types,130500.0
+68749,R42,5,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+68750,R42,5,2013,Existing,Household Buyer - Former Owner-Occupier,130500.0
+68751,R42,5,2013,Existing,Household Buyer - Non-Occupier,
+69308,R42,6,2013,All Dwelling Statuses,All Buyer Types,87667.0
+69309,R42,6,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+69310,R42,6,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,70000.0
+69311,R42,6,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,43000.0
+69868,R42,6,2013,New,All Buyer Types,
+69869,R42,6,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+69870,R42,6,2013,New,Household Buyer - Former Owner-Occupier,
+69871,R42,6,2013,New,Household Buyer - Non-Occupier,
+70428,R42,6,2013,Existing,All Buyer Types,87667.0
+70429,R42,6,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+70430,R42,6,2013,Existing,Household Buyer - Former Owner-Occupier,70000.0
+70431,R42,6,2013,Existing,Household Buyer - Non-Occupier,43000.0
+70988,R42,7,2013,All Dwelling Statuses,All Buyer Types,112080.0
+70989,R42,7,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,60000.0
+70990,R42,7,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,135111.0
+70991,R42,7,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,32000.0
+71548,R42,7,2013,New,All Buyer Types,
+71549,R42,7,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+71550,R42,7,2013,New,Household Buyer - Former Owner-Occupier,
+71551,R42,7,2013,New,Household Buyer - Non-Occupier,
+72108,R42,7,2013,Existing,All Buyer Types,112080.0
+72109,R42,7,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,60000.0
+72110,R42,7,2013,Existing,Household Buyer - Former Owner-Occupier,135111.0
+72111,R42,7,2013,Existing,Household Buyer - Non-Occupier,32000.0
+72668,R42,8,2013,All Dwelling Statuses,All Buyer Types,143769.0
+72669,R42,8,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+72670,R42,8,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,148038.0
+72671,R42,8,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,139500.0
+73228,R42,8,2013,New,All Buyer Types,51075.0
+73229,R42,8,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+73230,R42,8,2013,New,Household Buyer - Former Owner-Occupier,51075.0
+73231,R42,8,2013,New,Household Buyer - Non-Occupier,
+73788,R42,8,2013,Existing,All Buyer Types,174667.0
+73789,R42,8,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+73790,R42,8,2013,Existing,Household Buyer - Former Owner-Occupier,245000.0
+73791,R42,8,2013,Existing,Household Buyer - Non-Occupier,139500.0
+74348,R42,9,2013,All Dwelling Statuses,All Buyer Types,87800.0
+74349,R42,9,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,66333.0
+74350,R42,9,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,105800.0
+74351,R42,9,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,75000.0
+74908,R42,9,2013,New,All Buyer Types,
+74909,R42,9,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+74910,R42,9,2013,New,Household Buyer - Former Owner-Occupier,
+74911,R42,9,2013,New,Household Buyer - Non-Occupier,
+75468,R42,9,2013,Existing,All Buyer Types,87800.0
+75469,R42,9,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,66333.0
+75470,R42,9,2013,Existing,Household Buyer - Former Owner-Occupier,105800.0
+75471,R42,9,2013,Existing,Household Buyer - Non-Occupier,75000.0
+76028,R42,10,2013,All Dwelling Statuses,All Buyer Types,125840.0
+76029,R42,10,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+76030,R42,10,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,122067.0
+76031,R42,10,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,131500.0
+76588,R42,10,2013,New,All Buyer Types,136200.0
+76589,R42,10,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+76590,R42,10,2013,New,Household Buyer - Former Owner-Occupier,136200.0
+76591,R42,10,2013,New,Household Buyer - Non-Occupier,
+77148,R42,10,2013,Existing,All Buyer Types,123250.0
+77149,R42,10,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+77150,R42,10,2013,Existing,Household Buyer - Former Owner-Occupier,115000.0
+77151,R42,10,2013,Existing,Household Buyer - Non-Occupier,131500.0
+77708,R42,11,2013,All Dwelling Statuses,All Buyer Types,54585.0
+77709,R42,11,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,60167.0
+77710,R42,11,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,46213.0
+77711,R42,11,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,
+78268,R42,11,2013,New,All Buyer Types,62425.0
+78269,R42,11,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+78270,R42,11,2013,New,Household Buyer - Former Owner-Occupier,62425.0
+78271,R42,11,2013,New,Household Buyer - Non-Occupier,
+78828,R42,11,2013,Existing,All Buyer Types,52625.0
+78829,R42,11,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,60167.0
+78830,R42,11,2013,Existing,Household Buyer - Former Owner-Occupier,30000.0
+78831,R42,11,2013,Existing,Household Buyer - Non-Occupier,
+79388,R42,12,2013,All Dwelling Statuses,All Buyer Types,109573.0
+79389,R42,12,2013,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,96000.0
+79390,R42,12,2013,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,192000.0
+79391,R42,12,2013,All Dwelling Statuses,Household Buyer - Non-Occupier,39725.0
+79948,R42,12,2013,New,All Buyer Types,39725.0
+79949,R42,12,2013,New,Household Buyer - First-Time Buyer Owner-Occupier,
+79950,R42,12,2013,New,Household Buyer - Former Owner-Occupier,
+79951,R42,12,2013,New,Household Buyer - Non-Occupier,39725.0
+80508,R42,12,2013,Existing,All Buyer Types,117333.0
+80509,R42,12,2013,Existing,Household Buyer - First-Time Buyer Owner-Occupier,96000.0
+80510,R42,12,2013,Existing,Household Buyer - Former Owner-Occupier,192000.0
+80511,R42,12,2013,Existing,Household Buyer - Non-Occupier,
+81068,R42,1,2014,All Dwelling Statuses,All Buyer Types,86583.0
+81069,R42,1,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,65750.0
+81070,R42,1,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,114333.0
+81071,R42,1,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,45000.0
+81628,R42,1,2014,New,All Buyer Types,
+81629,R42,1,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+81630,R42,1,2014,New,Household Buyer - Former Owner-Occupier,
+81631,R42,1,2014,New,Household Buyer - Non-Occupier,
+82188,R42,1,2014,Existing,All Buyer Types,86583.0
+82189,R42,1,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,65750.0
+82190,R42,1,2014,Existing,Household Buyer - Former Owner-Occupier,114333.0
+82191,R42,1,2014,Existing,Household Buyer - Non-Occupier,45000.0
+82748,R42,2,2014,All Dwelling Statuses,All Buyer Types,106000.0
+82749,R42,2,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+82750,R42,2,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,125500.0
+82751,R42,2,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,28000.0
+83308,R42,2,2014,New,All Buyer Types,
+83309,R42,2,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+83310,R42,2,2014,New,Household Buyer - Former Owner-Occupier,
+83311,R42,2,2014,New,Household Buyer - Non-Occupier,
+83868,R42,2,2014,Existing,All Buyer Types,106000.0
+83869,R42,2,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+83870,R42,2,2014,Existing,Household Buyer - Former Owner-Occupier,125500.0
+83871,R42,2,2014,Existing,Household Buyer - Non-Occupier,28000.0
+84428,R42,3,2014,All Dwelling Statuses,All Buyer Types,135018.0
+84429,R42,3,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,191250.0
+84430,R42,3,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,131156.0
+84431,R42,3,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,38000.0
+84988,R42,3,2014,New,All Buyer Types,170250.0
+84989,R42,3,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+84990,R42,3,2014,New,Household Buyer - Former Owner-Occupier,170250.0
+84991,R42,3,2014,New,Household Buyer - Non-Occupier,
+85548,R42,3,2014,Existing,All Buyer Types,132308.0
+85549,R42,3,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,191250.0
+85550,R42,3,2014,Existing,Household Buyer - Former Owner-Occupier,125571.0
+85551,R42,3,2014,Existing,Household Buyer - Non-Occupier,38000.0
+86108,R42,4,2014,All Dwelling Statuses,All Buyer Types,91625.0
+86109,R42,4,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+86110,R42,4,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,91000.0
+86111,R42,4,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,42500.0
+86668,R42,4,2014,New,All Buyer Types,42500.0
+86669,R42,4,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+86670,R42,4,2014,New,Household Buyer - Former Owner-Occupier,
+86671,R42,4,2014,New,Household Buyer - Non-Occupier,42500.0
+87228,R42,4,2014,Existing,All Buyer Types,108000.0
+87229,R42,4,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+87230,R42,4,2014,Existing,Household Buyer - Former Owner-Occupier,91000.0
+87231,R42,4,2014,Existing,Household Buyer - Non-Occupier,
+87788,R42,5,2014,All Dwelling Statuses,All Buyer Types,86167.0
+87789,R42,5,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,62333.0
+87790,R42,5,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,170000.0
+87791,R42,5,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+88348,R42,5,2014,New,All Buyer Types,
+88349,R42,5,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+88350,R42,5,2014,New,Household Buyer - Former Owner-Occupier,
+88351,R42,5,2014,New,Household Buyer - Non-Occupier,
+88908,R42,5,2014,Existing,All Buyer Types,86167.0
+88909,R42,5,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,62333.0
+88910,R42,5,2014,Existing,Household Buyer - Former Owner-Occupier,170000.0
+88911,R42,5,2014,Existing,Household Buyer - Non-Occupier,80000.0
+89468,R42,6,2014,All Dwelling Statuses,All Buyer Types,82000.0
+89469,R42,6,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,105000.0
+89470,R42,6,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,79600.0
+89471,R42,6,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,48000.0
+90028,R42,6,2014,New,All Buyer Types,
+90029,R42,6,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+90030,R42,6,2014,New,Household Buyer - Former Owner-Occupier,
+90031,R42,6,2014,New,Household Buyer - Non-Occupier,
+90588,R42,6,2014,Existing,All Buyer Types,82000.0
+90589,R42,6,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,105000.0
+90590,R42,6,2014,Existing,Household Buyer - Former Owner-Occupier,79600.0
+90591,R42,6,2014,Existing,Household Buyer - Non-Occupier,48000.0
+91148,R42,7,2014,All Dwelling Statuses,All Buyer Types,118837.0
+91149,R42,7,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+91150,R42,7,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,105414.0
+91151,R42,7,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,143000.0
+91708,R42,7,2014,New,All Buyer Types,84862.0
+91709,R42,7,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+91710,R42,7,2014,New,Household Buyer - Former Owner-Occupier,84862.0
+91711,R42,7,2014,New,Household Buyer - Non-Occupier,
+92268,R42,7,2014,Existing,All Buyer Types,124500.0
+92269,R42,7,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+92270,R42,7,2014,Existing,Household Buyer - Former Owner-Occupier,111286.0
+92271,R42,7,2014,Existing,Household Buyer - Non-Occupier,143000.0
+92828,R42,8,2014,All Dwelling Statuses,All Buyer Types,200000.0
+92829,R42,8,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+92830,R42,8,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,248333.0
+92831,R42,8,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,151667.0
+93388,R42,8,2014,New,All Buyer Types,
+93389,R42,8,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+93390,R42,8,2014,New,Household Buyer - Former Owner-Occupier,
+93391,R42,8,2014,New,Household Buyer - Non-Occupier,
+93948,R42,8,2014,Existing,All Buyer Types,200000.0
+93949,R42,8,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+93950,R42,8,2014,Existing,Household Buyer - Former Owner-Occupier,248333.0
+93951,R42,8,2014,Existing,Household Buyer - Non-Occupier,151667.0
+94508,R42,9,2014,All Dwelling Statuses,All Buyer Types,117620.0
+94509,R42,9,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,60000.0
+94510,R42,9,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,156033.0
+94511,R42,9,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,60000.0
+95068,R42,9,2014,New,All Buyer Types,68100.0
+95069,R42,9,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+95070,R42,9,2014,New,Household Buyer - Former Owner-Occupier,68100.0
+95071,R42,9,2014,New,Household Buyer - Non-Occupier,
+95628,R42,9,2014,Existing,All Buyer Types,130000.0
+95629,R42,9,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,60000.0
+95630,R42,9,2014,Existing,Household Buyer - Former Owner-Occupier,200000.0
+95631,R42,9,2014,Existing,Household Buyer - Non-Occupier,60000.0
+96188,R42,10,2014,All Dwelling Statuses,All Buyer Types,70679.0
+96189,R42,10,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+96190,R42,10,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,46019.0
+96191,R42,10,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,120000.0
+96748,R42,10,2014,New,All Buyer Types,51075.0
+96749,R42,10,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+96750,R42,10,2014,New,Household Buyer - Former Owner-Occupier,51075.0
+96751,R42,10,2014,New,Household Buyer - Non-Occupier,
+97308,R42,10,2014,Existing,All Buyer Types,74600.0
+97309,R42,10,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+97310,R42,10,2014,Existing,Household Buyer - Former Owner-Occupier,44333.0
+97311,R42,10,2014,Existing,Household Buyer - Non-Occupier,120000.0
+97868,R42,11,2014,All Dwelling Statuses,All Buyer Types,124697.0
+97869,R42,11,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,169252.0
+97870,R42,11,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,124667.0
+97871,R42,11,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,58000.0
+98428,R42,11,2014,New,All Buyer Types,130756.0
+98429,R42,11,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,130756.0
+98430,R42,11,2014,New,Household Buyer - Former Owner-Occupier,
+98431,R42,11,2014,New,Household Buyer - Non-Occupier,
+98988,R42,11,2014,Existing,All Buyer Types,124231.0
+98989,R42,11,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,188500.0
+98990,R42,11,2014,Existing,Household Buyer - Former Owner-Occupier,124667.0
+98991,R42,11,2014,Existing,Household Buyer - Non-Occupier,58000.0
+99548,R42,12,2014,All Dwelling Statuses,All Buyer Types,99227.0
+99549,R42,12,2014,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,125667.0
+99550,R42,12,2014,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,71000.0
+99551,R42,12,2014,All Dwelling Statuses,Household Buyer - Non-Occupier,119833.0
+100108,R42,12,2014,New,All Buyer Types,
+100109,R42,12,2014,New,Household Buyer - First-Time Buyer Owner-Occupier,
+100110,R42,12,2014,New,Household Buyer - Former Owner-Occupier,
+100111,R42,12,2014,New,Household Buyer - Non-Occupier,
+100668,R42,12,2014,Existing,All Buyer Types,99227.0
+100669,R42,12,2014,Existing,Household Buyer - First-Time Buyer Owner-Occupier,125667.0
+100670,R42,12,2014,Existing,Household Buyer - Former Owner-Occupier,71000.0
+100671,R42,12,2014,Existing,Household Buyer - Non-Occupier,119833.0
+101228,R42,1,2015,All Dwelling Statuses,All Buyer Types,97894.0
+101229,R42,1,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,133333.0
+101230,R42,1,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,25000.0
+101231,R42,1,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,89538.0
+101788,R42,1,2015,New,All Buyer Types,
+101789,R42,1,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+101790,R42,1,2015,New,Household Buyer - Former Owner-Occupier,
+101791,R42,1,2015,New,Household Buyer - Non-Occupier,
+102348,R42,1,2015,Existing,All Buyer Types,97894.0
+102349,R42,1,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,133333.0
+102350,R42,1,2015,Existing,Household Buyer - Former Owner-Occupier,25000.0
+102351,R42,1,2015,Existing,Household Buyer - Non-Occupier,89538.0
+102908,R42,2,2015,All Dwelling Statuses,All Buyer Types,74286.0
+102909,R42,2,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,101667.0
+102910,R42,2,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,25000.0
+102911,R42,2,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,63333.0
+103468,R42,2,2015,New,All Buyer Types,
+103469,R42,2,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+103470,R42,2,2015,New,Household Buyer - Former Owner-Occupier,
+103471,R42,2,2015,New,Household Buyer - Non-Occupier,
+104028,R42,2,2015,Existing,All Buyer Types,74286.0
+104029,R42,2,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,101667.0
+104030,R42,2,2015,Existing,Household Buyer - Former Owner-Occupier,25000.0
+104031,R42,2,2015,Existing,Household Buyer - Non-Occupier,63333.0
+104588,R42,3,2015,All Dwelling Statuses,All Buyer Types,83438.0
+104589,R42,3,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+104590,R42,3,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,74500.0
+104591,R42,3,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,73500.0
+105148,R42,3,2015,New,All Buyer Types,70000.0
+105149,R42,3,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+105150,R42,3,2015,New,Household Buyer - Former Owner-Occupier,
+105151,R42,3,2015,New,Household Buyer - Non-Occupier,70000.0
+105708,R42,3,2015,Existing,All Buyer Types,85357.0
+105709,R42,3,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+105710,R42,3,2015,Existing,Household Buyer - Former Owner-Occupier,74500.0
+105711,R42,3,2015,Existing,Household Buyer - Non-Occupier,74667.0
+106268,R42,4,2015,All Dwelling Statuses,All Buyer Types,109512.0
+106269,R42,4,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+106270,R42,4,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,155000.0
+106271,R42,4,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,64025.0
+106828,R42,4,2015,New,All Buyer Types,
+106829,R42,4,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+106830,R42,4,2015,New,Household Buyer - Former Owner-Occupier,
+106831,R42,4,2015,New,Household Buyer - Non-Occupier,
+107388,R42,4,2015,Existing,All Buyer Types,109512.0
+107389,R42,4,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+107390,R42,4,2015,Existing,Household Buyer - Former Owner-Occupier,155000.0
+107391,R42,4,2015,Existing,Household Buyer - Non-Occupier,64025.0
+107948,R42,5,2015,All Dwelling Statuses,All Buyer Types,106668.0
+107949,R42,5,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+107950,R42,5,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,133753.0
+107951,R42,5,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,52500.0
+108508,R42,5,2015,New,All Buyer Types,
+108509,R42,5,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+108510,R42,5,2015,New,Household Buyer - Former Owner-Occupier,
+108511,R42,5,2015,New,Household Buyer - Non-Occupier,
+109068,R42,5,2015,Existing,All Buyer Types,106668.0
+109069,R42,5,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+109070,R42,5,2015,Existing,Household Buyer - Former Owner-Occupier,133753.0
+109071,R42,5,2015,Existing,Household Buyer - Non-Occupier,52500.0
+109628,R42,6,2015,All Dwelling Statuses,All Buyer Types,112944.0
+109629,R42,6,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,97500.0
+109630,R42,6,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,118625.0
+109631,R42,6,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,115667.0
+110188,R42,6,2015,New,All Buyer Types,
+110189,R42,6,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+110190,R42,6,2015,New,Household Buyer - Former Owner-Occupier,
+110191,R42,6,2015,New,Household Buyer - Non-Occupier,
+110748,R42,6,2015,Existing,All Buyer Types,112944.0
+110749,R42,6,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,97500.0
+110750,R42,6,2015,Existing,Household Buyer - Former Owner-Occupier,118625.0
+110751,R42,6,2015,Existing,Household Buyer - Non-Occupier,115667.0
+111308,R42,7,2015,All Dwelling Statuses,All Buyer Types,90333.0
+111309,R42,7,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,80667.0
+111310,R42,7,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,92500.0
+111311,R42,7,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,115000.0
+111868,R42,7,2015,New,All Buyer Types,
+111869,R42,7,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+111870,R42,7,2015,New,Household Buyer - Former Owner-Occupier,
+111871,R42,7,2015,New,Household Buyer - Non-Occupier,
+112428,R42,7,2015,Existing,All Buyer Types,90333.0
+112429,R42,7,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,80667.0
+112430,R42,7,2015,Existing,Household Buyer - Former Owner-Occupier,92500.0
+112431,R42,7,2015,Existing,Household Buyer - Non-Occupier,115000.0
+112988,R42,8,2015,All Dwelling Statuses,All Buyer Types,112083.0
+112989,R42,8,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,67000.0
+112990,R42,8,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,126375.0
+112991,R42,8,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,100000.0
+113548,R42,8,2015,New,All Buyer Types,
+113549,R42,8,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+113550,R42,8,2015,New,Household Buyer - Former Owner-Occupier,
+113551,R42,8,2015,New,Household Buyer - Non-Occupier,
+114108,R42,8,2015,Existing,All Buyer Types,112083.0
+114109,R42,8,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,67000.0
+114110,R42,8,2015,Existing,Household Buyer - Former Owner-Occupier,126375.0
+114111,R42,8,2015,Existing,Household Buyer - Non-Occupier,100000.0
+114668,R42,9,2015,All Dwelling Statuses,All Buyer Types,108167.0
+114669,R42,9,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,126667.0
+114670,R42,9,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,117750.0
+114671,R42,9,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,61250.0
+115228,R42,9,2015,New,All Buyer Types,
+115229,R42,9,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+115230,R42,9,2015,New,Household Buyer - Former Owner-Occupier,
+115231,R42,9,2015,New,Household Buyer - Non-Occupier,
+115788,R42,9,2015,Existing,All Buyer Types,108167.0
+115789,R42,9,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,126667.0
+115790,R42,9,2015,Existing,Household Buyer - Former Owner-Occupier,117750.0
+115791,R42,9,2015,Existing,Household Buyer - Non-Occupier,61250.0
+116348,R42,10,2015,All Dwelling Statuses,All Buyer Types,117750.0
+116349,R42,10,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+116350,R42,10,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,131167.0
+116351,R42,10,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,55000.0
+116908,R42,10,2015,New,All Buyer Types,
+116909,R42,10,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+116910,R42,10,2015,New,Household Buyer - Former Owner-Occupier,
+116911,R42,10,2015,New,Household Buyer - Non-Occupier,
+117468,R42,10,2015,Existing,All Buyer Types,117750.0
+117469,R42,10,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+117470,R42,10,2015,Existing,Household Buyer - Former Owner-Occupier,131167.0
+117471,R42,10,2015,Existing,Household Buyer - Non-Occupier,55000.0
+118028,R42,11,2015,All Dwelling Statuses,All Buyer Types,108294.0
+118029,R42,11,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,112500.0
+118030,R42,11,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,109230.0
+118031,R42,11,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,101750.0
+118588,R42,11,2015,New,All Buyer Types,102150.0
+118589,R42,11,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+118590,R42,11,2015,New,Household Buyer - Former Owner-Occupier,102150.0
+118591,R42,11,2015,New,Household Buyer - Non-Occupier,
+119148,R42,11,2015,Existing,All Buyer Types,109063.0
+119149,R42,11,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,112500.0
+119150,R42,11,2015,Existing,Household Buyer - Former Owner-Occupier,111000.0
+119151,R42,11,2015,Existing,Household Buyer - Non-Occupier,101750.0
+119708,R42,12,2015,All Dwelling Statuses,All Buyer Types,149853.0
+119709,R42,12,2015,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,272500.0
+119710,R42,12,2015,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,128273.0
+119711,R42,12,2015,All Dwelling Statuses,Household Buyer - Non-Occupier,147875.0
+120268,R42,12,2015,New,All Buyer Types,
+120269,R42,12,2015,New,Household Buyer - First-Time Buyer Owner-Occupier,
+120270,R42,12,2015,New,Household Buyer - Former Owner-Occupier,
+120271,R42,12,2015,New,Household Buyer - Non-Occupier,
+120828,R42,12,2015,Existing,All Buyer Types,149853.0
+120829,R42,12,2015,Existing,Household Buyer - First-Time Buyer Owner-Occupier,272500.0
+120830,R42,12,2015,Existing,Household Buyer - Former Owner-Occupier,128273.0
+120831,R42,12,2015,Existing,Household Buyer - Non-Occupier,147875.0
+121388,R42,1,2016,All Dwelling Statuses,All Buyer Types,75278.0
+121389,R42,1,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+121390,R42,1,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,147150.0
+121391,R42,1,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,51320.0
+121948,R42,1,2016,New,All Buyer Types,83990.0
+121949,R42,1,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+121950,R42,1,2016,New,Household Buyer - Former Owner-Occupier,204300.0
+121951,R42,1,2016,New,Household Buyer - Non-Occupier,53913.0
+122508,R42,1,2016,Existing,All Buyer Types,60757.0
+122509,R42,1,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+122510,R42,1,2016,Existing,Household Buyer - Former Owner-Occupier,90000.0
+122511,R42,1,2016,Existing,Household Buyer - Non-Occupier,46135.0
+123068,R42,2,2016,All Dwelling Statuses,All Buyer Types,107500.0
+123069,R42,2,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+123070,R42,2,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,85000.0
+123071,R42,2,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+123628,R42,2,2016,New,All Buyer Types,
+123629,R42,2,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+123630,R42,2,2016,New,Household Buyer - Former Owner-Occupier,
+123631,R42,2,2016,New,Household Buyer - Non-Occupier,
+124188,R42,2,2016,Existing,All Buyer Types,107500.0
+124189,R42,2,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+124190,R42,2,2016,Existing,Household Buyer - Former Owner-Occupier,85000.0
+124191,R42,2,2016,Existing,Household Buyer - Non-Occupier,
+124748,R42,3,2016,All Dwelling Statuses,All Buyer Types,79673.0
+124749,R42,3,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,61250.0
+124750,R42,3,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,146400.0
+124751,R42,3,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,47181.0
+125308,R42,3,2016,New,All Buyer Types,48238.0
+125309,R42,3,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+125310,R42,3,2016,New,Household Buyer - Former Owner-Occupier,
+125311,R42,3,2016,New,Household Buyer - Non-Occupier,48238.0
+125868,R42,3,2016,Existing,All Buyer Types,92771.0
+125869,R42,3,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,61250.0
+125870,R42,3,2016,Existing,Household Buyer - Former Owner-Occupier,146400.0
+125871,R42,3,2016,Existing,Household Buyer - Non-Occupier,45418.0
+126428,R42,4,2016,All Dwelling Statuses,All Buyer Types,117682.0
+126429,R42,4,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+126430,R42,4,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,161000.0
+126431,R42,4,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,47125.0
+126988,R42,4,2016,New,All Buyer Types,
+126989,R42,4,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+126990,R42,4,2016,New,Household Buyer - Former Owner-Occupier,
+126991,R42,4,2016,New,Household Buyer - Non-Occupier,
+127548,R42,4,2016,Existing,All Buyer Types,117682.0
+127549,R42,4,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,140000.0
+127550,R42,4,2016,Existing,Household Buyer - Former Owner-Occupier,161000.0
+127551,R42,4,2016,Existing,Household Buyer - Non-Occupier,47125.0
+128108,R42,5,2016,All Dwelling Statuses,All Buyer Types,159643.0
+128109,R42,5,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,255000.0
+128110,R42,5,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,112875.0
+128111,R42,5,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,156000.0
+128668,R42,5,2016,New,All Buyer Types,
+128669,R42,5,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+128670,R42,5,2016,New,Household Buyer - Former Owner-Occupier,
+128671,R42,5,2016,New,Household Buyer - Non-Occupier,
+129228,R42,5,2016,Existing,All Buyer Types,159643.0
+129229,R42,5,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,255000.0
+129230,R42,5,2016,Existing,Household Buyer - Former Owner-Occupier,112875.0
+129231,R42,5,2016,Existing,Household Buyer - Non-Occupier,156000.0
+129788,R42,6,2016,All Dwelling Statuses,All Buyer Types,90100.0
+129789,R42,6,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,112200.0
+129790,R42,6,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,91500.0
+129791,R42,6,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,52333.0
+130348,R42,6,2016,New,All Buyer Types,
+130349,R42,6,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+130350,R42,6,2016,New,Household Buyer - Former Owner-Occupier,
+130351,R42,6,2016,New,Household Buyer - Non-Occupier,
+130908,R42,6,2016,Existing,All Buyer Types,90100.0
+130909,R42,6,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,112200.0
+130910,R42,6,2016,Existing,Household Buyer - Former Owner-Occupier,91500.0
+130911,R42,6,2016,Existing,Household Buyer - Non-Occupier,52333.0
+131468,R42,7,2016,All Dwelling Statuses,All Buyer Types,101483.0
+131469,R42,7,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,109000.0
+131470,R42,7,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,106333.0
+131471,R42,7,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,79416.0
+132028,R42,7,2016,New,All Buyer Types,49662.0
+132029,R42,7,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+132030,R42,7,2016,New,Household Buyer - Former Owner-Occupier,
+132031,R42,7,2016,New,Household Buyer - Non-Occupier,49662.0
+132588,R42,7,2016,Existing,All Buyer Types,104211.0
+132589,R42,7,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,109000.0
+132590,R42,7,2016,Existing,Household Buyer - Former Owner-Occupier,106333.0
+132591,R42,7,2016,Existing,Household Buyer - Non-Occupier,89333.0
+133148,R42,8,2016,All Dwelling Statuses,All Buyer Types,84305.0
+133149,R42,8,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+133150,R42,8,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,153000.0
+133151,R42,8,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,54284.0
+133708,R42,8,2016,New,All Buyer Types,57318.0
+133709,R42,8,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+133710,R42,8,2016,New,Household Buyer - Former Owner-Occupier,
+133711,R42,8,2016,New,Household Buyer - Non-Occupier,57318.0
+134268,R42,8,2016,Existing,All Buyer Types,95100.0
+134269,R42,8,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+134270,R42,8,2016,Existing,Household Buyer - Former Owner-Occupier,153000.0
+134271,R42,8,2016,Existing,Household Buyer - Non-Occupier,51250.0
+134828,R42,9,2016,All Dwelling Statuses,All Buyer Types,117469.0
+134829,R42,9,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,82500.0
+134830,R42,9,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178000.0
+134831,R42,9,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,89556.0
+135388,R42,9,2016,New,All Buyer Types,79450.0
+135389,R42,9,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+135390,R42,9,2016,New,Household Buyer - Former Owner-Occupier,
+135391,R42,9,2016,New,Household Buyer - Non-Occupier,79450.0
+135948,R42,9,2016,Existing,All Buyer Types,119706.0
+135949,R42,9,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,82500.0
+135950,R42,9,2016,Existing,Household Buyer - Former Owner-Occupier,178000.0
+135951,R42,9,2016,Existing,Household Buyer - Non-Occupier,91000.0
+136508,R42,10,2016,All Dwelling Statuses,All Buyer Types,108936.0
+136509,R42,10,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,56878.0
+136510,R42,10,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,121950.0
+136511,R42,10,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,
+137068,R42,10,2016,New,All Buyer Types,181600.0
+137069,R42,10,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+137070,R42,10,2016,New,Household Buyer - Former Owner-Occupier,181600.0
+137071,R42,10,2016,New,Household Buyer - Non-Occupier,
+137628,R42,10,2016,Existing,All Buyer Types,100862.0
+137629,R42,10,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,56878.0
+137630,R42,10,2016,Existing,Household Buyer - Former Owner-Occupier,113429.0
+137631,R42,10,2016,Existing,Household Buyer - Non-Occupier,
+138188,R42,11,2016,All Dwelling Statuses,All Buyer Types,92714.0
+138189,R42,11,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,122000.0
+138190,R42,11,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,107500.0
+138191,R42,11,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,48500.0
+138748,R42,11,2016,New,All Buyer Types,
+138749,R42,11,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+138750,R42,11,2016,New,Household Buyer - Former Owner-Occupier,
+138751,R42,11,2016,New,Household Buyer - Non-Occupier,
+139308,R42,11,2016,Existing,All Buyer Types,92714.0
+139309,R42,11,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,122000.0
+139310,R42,11,2016,Existing,Household Buyer - Former Owner-Occupier,107500.0
+139311,R42,11,2016,Existing,Household Buyer - Non-Occupier,48500.0
+139868,R42,12,2016,All Dwelling Statuses,All Buyer Types,106389.0
+139869,R42,12,2016,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,69500.0
+139870,R42,12,2016,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,149125.0
+139871,R42,12,2016,All Dwelling Statuses,Household Buyer - Non-Occupier,74000.0
+140428,R42,12,2016,New,All Buyer Types,113500.0
+140429,R42,12,2016,New,Household Buyer - First-Time Buyer Owner-Occupier,
+140430,R42,12,2016,New,Household Buyer - Former Owner-Occupier,113500.0
+140431,R42,12,2016,New,Household Buyer - Non-Occupier,
+140988,R42,12,2016,Existing,All Buyer Types,105500.0
+140989,R42,12,2016,Existing,Household Buyer - First-Time Buyer Owner-Occupier,69500.0
+140990,R42,12,2016,Existing,Household Buyer - Former Owner-Occupier,161000.0
+140991,R42,12,2016,Existing,Household Buyer - Non-Occupier,74000.0
+141548,R42,1,2017,All Dwelling Statuses,All Buyer Types,102600.0
+141549,R42,1,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+141550,R42,1,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,113250.0
+141551,R42,1,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,60000.0
+142108,R42,1,2017,New,All Buyer Types,
+142109,R42,1,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+142110,R42,1,2017,New,Household Buyer - Former Owner-Occupier,
+142111,R42,1,2017,New,Household Buyer - Non-Occupier,
+142668,R42,1,2017,Existing,All Buyer Types,102600.0
+142669,R42,1,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+142670,R42,1,2017,Existing,Household Buyer - Former Owner-Occupier,113250.0
+142671,R42,1,2017,Existing,Household Buyer - Non-Occupier,60000.0
+143228,R42,2,2017,All Dwelling Statuses,All Buyer Types,72900.0
+143229,R42,2,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,70000.0
+143230,R42,2,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,66333.0
+143231,R42,2,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+143788,R42,2,2017,New,All Buyer Types,
+143789,R42,2,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+143790,R42,2,2017,New,Household Buyer - Former Owner-Occupier,
+143791,R42,2,2017,New,Household Buyer - Non-Occupier,
+144348,R42,2,2017,Existing,All Buyer Types,72900.0
+144349,R42,2,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,70000.0
+144350,R42,2,2017,Existing,Household Buyer - Former Owner-Occupier,66333.0
+144351,R42,2,2017,Existing,Household Buyer - Non-Occupier,80000.0
+144908,R42,3,2017,All Dwelling Statuses,All Buyer Types,110750.0
+144909,R42,3,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+144910,R42,3,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,110167.0
+144911,R42,3,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,60000.0
+145468,R42,3,2017,New,All Buyer Types,
+145469,R42,3,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+145470,R42,3,2017,New,Household Buyer - Former Owner-Occupier,
+145471,R42,3,2017,New,Household Buyer - Non-Occupier,
+146028,R42,3,2017,Existing,All Buyer Types,110750.0
+146029,R42,3,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+146030,R42,3,2017,Existing,Household Buyer - Former Owner-Occupier,110167.0
+146031,R42,3,2017,Existing,Household Buyer - Non-Occupier,60000.0
+146588,R42,4,2017,All Dwelling Statuses,All Buyer Types,116400.0
+146589,R42,4,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+146590,R42,4,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,129571.0
+146591,R42,4,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,53500.0
+147148,R42,4,2017,New,All Buyer Types,
+147149,R42,4,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+147150,R42,4,2017,New,Household Buyer - Former Owner-Occupier,
+147151,R42,4,2017,New,Household Buyer - Non-Occupier,
+147708,R42,4,2017,Existing,All Buyer Types,116400.0
+147709,R42,4,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,150000.0
+147710,R42,4,2017,Existing,Household Buyer - Former Owner-Occupier,129571.0
+147711,R42,4,2017,Existing,Household Buyer - Non-Occupier,53500.0
+148268,R42,5,2017,All Dwelling Statuses,All Buyer Types,97667.0
+148269,R42,5,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,92500.0
+148270,R42,5,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,116200.0
+148271,R42,5,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,56500.0
+148828,R42,5,2017,New,All Buyer Types,
+148829,R42,5,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+148830,R42,5,2017,New,Household Buyer - Former Owner-Occupier,
+148831,R42,5,2017,New,Household Buyer - Non-Occupier,
+149388,R42,5,2017,Existing,All Buyer Types,97667.0
+149389,R42,5,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,92500.0
+149390,R42,5,2017,Existing,Household Buyer - Former Owner-Occupier,116200.0
+149391,R42,5,2017,Existing,Household Buyer - Non-Occupier,56500.0
+149948,R42,6,2017,All Dwelling Statuses,All Buyer Types,150906.0
+149949,R42,6,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,158874.0
+149950,R42,6,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,170778.0
+149951,R42,6,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,80667.0
+150508,R42,6,2017,New,All Buyer Types,155495.0
+150509,R42,6,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,155495.0
+150510,R42,6,2017,New,Household Buyer - Former Owner-Occupier,
+150511,R42,6,2017,New,Household Buyer - Non-Occupier,
+151068,R42,6,2017,Existing,All Buyer Types,150600.0
+151069,R42,6,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+151070,R42,6,2017,Existing,Household Buyer - Former Owner-Occupier,170778.0
+151071,R42,6,2017,Existing,Household Buyer - Non-Occupier,80667.0
+151628,R42,7,2017,All Dwelling Statuses,All Buyer Types,113068.0
+151629,R42,7,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,142724.0
+151630,R42,7,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,126556.0
+151631,R42,7,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,52833.0
+152188,R42,7,2017,New,All Buyer Types,137448.0
+152189,R42,7,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,137448.0
+152190,R42,7,2017,New,Household Buyer - Former Owner-Occupier,
+152191,R42,7,2017,New,Household Buyer - Non-Occupier,
+152748,R42,7,2017,Existing,All Buyer Types,111192.0
+152749,R42,7,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,148000.0
+152750,R42,7,2017,Existing,Household Buyer - Former Owner-Occupier,126556.0
+152751,R42,7,2017,Existing,Household Buyer - Non-Occupier,52833.0
+153308,R42,8,2017,All Dwelling Statuses,All Buyer Types,150333.0
+153309,R42,8,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+153310,R42,8,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,168400.0
+153311,R42,8,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,60000.0
+153868,R42,8,2017,New,All Buyer Types,
+153869,R42,8,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+153870,R42,8,2017,New,Household Buyer - Former Owner-Occupier,
+153871,R42,8,2017,New,Household Buyer - Non-Occupier,
+154428,R42,8,2017,Existing,All Buyer Types,150333.0
+154429,R42,8,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+154430,R42,8,2017,Existing,Household Buyer - Former Owner-Occupier,168400.0
+154431,R42,8,2017,Existing,Household Buyer - Non-Occupier,60000.0
+154988,R42,9,2017,All Dwelling Statuses,All Buyer Types,163408.0
+154989,R42,9,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225333.0
+154990,R42,9,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,232500.0
+154991,R42,9,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,70980.0
+155548,R42,9,2017,New,All Buyer Types,
+155549,R42,9,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+155550,R42,9,2017,New,Household Buyer - Former Owner-Occupier,
+155551,R42,9,2017,New,Household Buyer - Non-Occupier,
+156108,R42,9,2017,Existing,All Buyer Types,163408.0
+156109,R42,9,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,225333.0
+156110,R42,9,2017,Existing,Household Buyer - Former Owner-Occupier,232500.0
+156111,R42,9,2017,Existing,Household Buyer - Non-Occupier,70980.0
+156668,R42,10,2017,All Dwelling Statuses,All Buyer Types,102096.0
+156669,R42,10,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,118600.0
+156670,R42,10,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,102278.0
+156671,R42,10,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,88069.0
+157228,R42,10,2017,New,All Buyer Types,105427.0
+157229,R42,10,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,112500.0
+157230,R42,10,2017,New,Household Buyer - Former Owner-Occupier,125000.0
+157231,R42,10,2017,New,Household Buyer - Non-Occupier,98683.0
+157788,R42,10,2017,Existing,All Buyer Types,99875.0
+157789,R42,10,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,122667.0
+157790,R42,10,2017,Existing,Household Buyer - Former Owner-Occupier,99438.0
+157791,R42,10,2017,Existing,Household Buyer - Non-Occupier,35000.0
+158348,R42,11,2017,All Dwelling Statuses,All Buyer Types,125750.0
+158349,R42,11,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,176333.0
+158350,R42,11,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,147333.0
+158351,R42,11,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,69500.0
+158908,R42,11,2017,New,All Buyer Types,
+158909,R42,11,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+158910,R42,11,2017,New,Household Buyer - Former Owner-Occupier,
+158911,R42,11,2017,New,Household Buyer - Non-Occupier,
+159468,R42,11,2017,Existing,All Buyer Types,125750.0
+159469,R42,11,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,176333.0
+159470,R42,11,2017,Existing,Household Buyer - Former Owner-Occupier,147333.0
+159471,R42,11,2017,Existing,Household Buyer - Non-Occupier,69500.0
+160028,R42,12,2017,All Dwelling Statuses,All Buyer Types,111788.0
+160029,R42,12,2017,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,98167.0
+160030,R42,12,2017,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,156150.0
+160031,R42,12,2017,All Dwelling Statuses,Household Buyer - Non-Occupier,75600.0
+160588,R42,12,2017,New,All Buyer Types,
+160589,R42,12,2017,New,Household Buyer - First-Time Buyer Owner-Occupier,
+160590,R42,12,2017,New,Household Buyer - Former Owner-Occupier,
+160591,R42,12,2017,New,Household Buyer - Non-Occupier,
+161148,R42,12,2017,Existing,All Buyer Types,111788.0
+161149,R42,12,2017,Existing,Household Buyer - First-Time Buyer Owner-Occupier,98167.0
+161150,R42,12,2017,Existing,Household Buyer - Former Owner-Occupier,156150.0
+161151,R42,12,2017,Existing,Household Buyer - Non-Occupier,75600.0
+161708,R42,1,2018,All Dwelling Statuses,All Buyer Types,189250.0
+161709,R42,1,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,78000.0
+161710,R42,1,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,521500.0
+161711,R42,1,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,78600.0
+162268,R42,1,2018,New,All Buyer Types,
+162269,R42,1,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+162270,R42,1,2018,New,Household Buyer - Former Owner-Occupier,
+162271,R42,1,2018,New,Household Buyer - Non-Occupier,
+162828,R42,1,2018,Existing,All Buyer Types,189250.0
+162829,R42,1,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,78000.0
+162830,R42,1,2018,Existing,Household Buyer - Former Owner-Occupier,521500.0
+162831,R42,1,2018,Existing,Household Buyer - Non-Occupier,78600.0
+163388,R42,2,2018,All Dwelling Statuses,All Buyer Types,127410.0
+163389,R42,2,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,137500.0
+163390,R42,2,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,161857.0
+163391,R42,2,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,40307.0
+163948,R42,2,2018,New,All Buyer Types,28460.0
+163949,R42,2,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+163950,R42,2,2018,New,Household Buyer - Former Owner-Occupier,
+163951,R42,2,2018,New,Household Buyer - Non-Occupier,28460.0
+164508,R42,2,2018,Existing,All Buyer Types,147200.0
+164509,R42,2,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,137500.0
+164510,R42,2,2018,Existing,Household Buyer - Former Owner-Occupier,161857.0
+164511,R42,2,2018,Existing,Household Buyer - Non-Occupier,64000.0
+165068,R42,3,2018,All Dwelling Statuses,All Buyer Types,120500.0
+165069,R42,3,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,110250.0
+165070,R42,3,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,125625.0
+165071,R42,3,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+165628,R42,3,2018,New,All Buyer Types,
+165629,R42,3,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+165630,R42,3,2018,New,Household Buyer - Former Owner-Occupier,
+165631,R42,3,2018,New,Household Buyer - Non-Occupier,
+166188,R42,3,2018,Existing,All Buyer Types,120500.0
+166189,R42,3,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,110250.0
+166190,R42,3,2018,Existing,Household Buyer - Former Owner-Occupier,125625.0
+166191,R42,3,2018,Existing,Household Buyer - Non-Occupier,
+166748,R42,4,2018,All Dwelling Statuses,All Buyer Types,177556.0
+166749,R42,4,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,152000.0
+166750,R42,4,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,240250.0
+166751,R42,4,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,121250.0
+167308,R42,4,2018,New,All Buyer Types,
+167309,R42,4,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+167310,R42,4,2018,New,Household Buyer - Former Owner-Occupier,
+167311,R42,4,2018,New,Household Buyer - Non-Occupier,
+167868,R42,4,2018,Existing,All Buyer Types,177556.0
+167869,R42,4,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,152000.0
+167870,R42,4,2018,Existing,Household Buyer - Former Owner-Occupier,240250.0
+167871,R42,4,2018,Existing,Household Buyer - Non-Occupier,121250.0
+168428,R42,5,2018,All Dwelling Statuses,All Buyer Types,163500.0
+168429,R42,5,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+168430,R42,5,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,167500.0
+168431,R42,5,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,165000.0
+168988,R42,5,2018,New,All Buyer Types,
+168989,R42,5,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+168990,R42,5,2018,New,Household Buyer - Former Owner-Occupier,
+168991,R42,5,2018,New,Household Buyer - Non-Occupier,
+169548,R42,5,2018,Existing,All Buyer Types,163500.0
+169549,R42,5,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+169550,R42,5,2018,Existing,Household Buyer - Former Owner-Occupier,167500.0
+169551,R42,5,2018,Existing,Household Buyer - Non-Occupier,165000.0
+170108,R42,6,2018,All Dwelling Statuses,All Buyer Types,116167.0
+170109,R42,6,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,136833.0
+170110,R42,6,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,131667.0
+170111,R42,6,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,80000.0
+170668,R42,6,2018,New,All Buyer Types,
+170669,R42,6,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+170670,R42,6,2018,New,Household Buyer - Former Owner-Occupier,
+170671,R42,6,2018,New,Household Buyer - Non-Occupier,
+171228,R42,6,2018,Existing,All Buyer Types,116167.0
+171229,R42,6,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,136833.0
+171230,R42,6,2018,Existing,Household Buyer - Former Owner-Occupier,131667.0
+171231,R42,6,2018,Existing,Household Buyer - Non-Occupier,80000.0
+171788,R42,7,2018,All Dwelling Statuses,All Buyer Types,128796.0
+171789,R42,7,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,185000.0
+171790,R42,7,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,147083.0
+171791,R42,7,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,95610.0
+172348,R42,7,2018,New,All Buyer Types,34050.0
+172349,R42,7,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+172350,R42,7,2018,New,Household Buyer - Former Owner-Occupier,
+172351,R42,7,2018,New,Household Buyer - Non-Occupier,34050.0
+172908,R42,7,2018,Existing,All Buyer Types,137409.0
+172909,R42,7,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,185000.0
+172910,R42,7,2018,Existing,Household Buyer - Former Owner-Occupier,147083.0
+172911,R42,7,2018,Existing,Household Buyer - Non-Occupier,111000.0
+173468,R42,8,2018,All Dwelling Statuses,All Buyer Types,163545.0
+173469,R42,8,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,196500.0
+173470,R42,8,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,168714.0
+173471,R42,8,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,112500.0
+174028,R42,8,2018,New,All Buyer Types,
+174029,R42,8,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+174030,R42,8,2018,New,Household Buyer - Former Owner-Occupier,
+174031,R42,8,2018,New,Household Buyer - Non-Occupier,
+174588,R42,8,2018,Existing,All Buyer Types,163545.0
+174589,R42,8,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,196500.0
+174590,R42,8,2018,Existing,Household Buyer - Former Owner-Occupier,168714.0
+174591,R42,8,2018,Existing,Household Buyer - Non-Occupier,112500.0
+175148,R42,9,2018,All Dwelling Statuses,All Buyer Types,128972.0
+175149,R42,9,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,30000.0
+175150,R42,9,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,178333.0
+175151,R42,9,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,112602.0
+175708,R42,9,2018,New,All Buyer Types,48805.0
+175709,R42,9,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+175710,R42,9,2018,New,Household Buyer - Former Owner-Occupier,
+175711,R42,9,2018,New,Household Buyer - Non-Occupier,48805.0
+176268,R42,9,2018,Existing,All Buyer Types,142333.0
+176269,R42,9,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,30000.0
+176270,R42,9,2018,Existing,Household Buyer - Former Owner-Occupier,178333.0
+176271,R42,9,2018,Existing,Household Buyer - Non-Occupier,144500.0
+176828,R42,10,2018,All Dwelling Statuses,All Buyer Types,122259.0
+176829,R42,10,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,144000.0
+176830,R42,10,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,104867.0
+176831,R42,10,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,
+177388,R42,10,2018,New,All Buyer Types,
+177389,R42,10,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+177390,R42,10,2018,New,Household Buyer - Former Owner-Occupier,
+177391,R42,10,2018,New,Household Buyer - Non-Occupier,
+177948,R42,10,2018,Existing,All Buyer Types,122259.0
+177949,R42,10,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,144000.0
+177950,R42,10,2018,Existing,Household Buyer - Former Owner-Occupier,104867.0
+177951,R42,10,2018,Existing,Household Buyer - Non-Occupier,
+178508,R42,11,2018,All Dwelling Statuses,All Buyer Types,165588.0
+178509,R42,11,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,133500.0
+178510,R42,11,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,200727.0
+178511,R42,11,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,85000.0
+179068,R42,11,2018,New,All Buyer Types,
+179069,R42,11,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+179070,R42,11,2018,New,Household Buyer - Former Owner-Occupier,
+179071,R42,11,2018,New,Household Buyer - Non-Occupier,
+179628,R42,11,2018,Existing,All Buyer Types,165588.0
+179629,R42,11,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,133500.0
+179630,R42,11,2018,Existing,Household Buyer - Former Owner-Occupier,200727.0
+179631,R42,11,2018,Existing,Household Buyer - Non-Occupier,85000.0
+180188,R42,12,2018,All Dwelling Statuses,All Buyer Types,141577.0
+180189,R42,12,2018,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+180190,R42,12,2018,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,138417.0
+180191,R42,12,2018,All Dwelling Statuses,Household Buyer - Non-Occupier,170000.0
+180748,R42,12,2018,New,All Buyer Types,
+180749,R42,12,2018,New,Household Buyer - First-Time Buyer Owner-Occupier,
+180750,R42,12,2018,New,Household Buyer - Former Owner-Occupier,
+180751,R42,12,2018,New,Household Buyer - Non-Occupier,
+181308,R42,12,2018,Existing,All Buyer Types,141577.0
+181309,R42,12,2018,Existing,Household Buyer - First-Time Buyer Owner-Occupier,125000.0
+181310,R42,12,2018,Existing,Household Buyer - Former Owner-Occupier,138417.0
+181311,R42,12,2018,Existing,Household Buyer - Non-Occupier,170000.0
+181868,R42,1,2019,All Dwelling Statuses,All Buyer Types,116100.0
+181869,R42,1,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,142500.0
+181870,R42,1,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,
+181871,R42,1,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,109500.0
+182428,R42,1,2019,New,All Buyer Types,
+182429,R42,1,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+182430,R42,1,2019,New,Household Buyer - Former Owner-Occupier,
+182431,R42,1,2019,New,Household Buyer - Non-Occupier,
+182988,R42,1,2019,Existing,All Buyer Types,116100.0
+182989,R42,1,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,142500.0
+182990,R42,1,2019,Existing,Household Buyer - Former Owner-Occupier,
+182991,R42,1,2019,Existing,Household Buyer - Non-Occupier,109500.0
+183548,R42,2,2019,All Dwelling Statuses,All Buyer Types,122125.0
+183549,R42,2,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,185583.0
+183550,R42,2,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,93250.0
+183551,R42,2,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,97167.0
+184108,R42,2,2019,New,All Buyer Types,226750.0
+184109,R42,2,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,226750.0
+184110,R42,2,2019,New,Household Buyer - Former Owner-Occupier,
+184111,R42,2,2019,New,Household Buyer - Non-Occupier,
+184668,R42,2,2019,Existing,All Buyer Types,110500.0
+184669,R42,2,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+184670,R42,2,2019,Existing,Household Buyer - Former Owner-Occupier,93250.0
+184671,R42,2,2019,Existing,Household Buyer - Non-Occupier,97167.0
+185228,R42,3,2019,All Dwelling Statuses,All Buyer Types,287875.0
+185229,R42,3,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,129000.0
+185230,R42,3,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,437500.0
+185231,R42,3,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,147500.0
+185788,R42,3,2019,New,All Buyer Types,
+185789,R42,3,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+185790,R42,3,2019,New,Household Buyer - Former Owner-Occupier,
+185791,R42,3,2019,New,Household Buyer - Non-Occupier,
+186348,R42,3,2019,Existing,All Buyer Types,287875.0
+186349,R42,3,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,129000.0
+186350,R42,3,2019,Existing,Household Buyer - Former Owner-Occupier,437500.0
+186351,R42,3,2019,Existing,Household Buyer - Non-Occupier,147500.0
+186908,R42,4,2019,All Dwelling Statuses,All Buyer Types,127889.0
+186909,R42,4,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+186910,R42,4,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,123875.0
+186911,R42,4,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+187468,R42,4,2019,New,All Buyer Types,169500.0
+187469,R42,4,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+187470,R42,4,2019,New,Household Buyer - Former Owner-Occupier,169500.0
+187471,R42,4,2019,New,Household Buyer - Non-Occupier,
+188028,R42,4,2019,Existing,All Buyer Types,116000.0
+188029,R42,4,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+188030,R42,4,2019,Existing,Household Buyer - Former Owner-Occupier,108667.0
+188031,R42,4,2019,Existing,Household Buyer - Non-Occupier,
+188588,R42,5,2019,All Dwelling Statuses,All Buyer Types,115606.0
+188589,R42,5,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100833.0
+188590,R42,5,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,136999.0
+188591,R42,5,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,73333.0
+189148,R42,5,2019,New,All Buyer Types,199989.0
+189149,R42,5,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+189150,R42,5,2019,New,Household Buyer - Former Owner-Occupier,199989.0
+189151,R42,5,2019,New,Household Buyer - Non-Occupier,
+189708,R42,5,2019,Existing,All Buyer Types,109115.0
+189709,R42,5,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100833.0
+189710,R42,5,2019,Existing,Household Buyer - Former Owner-Occupier,128000.0
+189711,R42,5,2019,Existing,Household Buyer - Non-Occupier,73333.0
+190268,R42,6,2019,All Dwelling Statuses,All Buyer Types,137528.0
+190269,R42,6,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+190270,R42,6,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,254375.0
+190271,R42,6,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,81800.0
+190828,R42,6,2019,New,All Buyer Types,
+190829,R42,6,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+190830,R42,6,2019,New,Household Buyer - Former Owner-Occupier,
+190831,R42,6,2019,New,Household Buyer - Non-Occupier,
+191388,R42,6,2019,Existing,All Buyer Types,137528.0
+191389,R42,6,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,160000.0
+191390,R42,6,2019,Existing,Household Buyer - Former Owner-Occupier,254375.0
+191391,R42,6,2019,Existing,Household Buyer - Non-Occupier,81800.0
+191948,R42,7,2019,All Dwelling Statuses,All Buyer Types,152540.0
+191949,R42,7,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,166667.0
+191950,R42,7,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,146486.0
+191951,R42,7,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,
+192508,R42,7,2019,New,All Buyer Types,
+192509,R42,7,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+192510,R42,7,2019,New,Household Buyer - Former Owner-Occupier,
+192511,R42,7,2019,New,Household Buyer - Non-Occupier,
+193068,R42,7,2019,Existing,All Buyer Types,152540.0
+193069,R42,7,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,166667.0
+193070,R42,7,2019,Existing,Household Buyer - Former Owner-Occupier,146486.0
+193071,R42,7,2019,Existing,Household Buyer - Non-Occupier,
+193628,R42,8,2019,All Dwelling Statuses,All Buyer Types,172812.0
+193629,R42,8,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+193630,R42,8,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,204617.0
+193631,R42,8,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,92500.0
+194188,R42,8,2019,New,All Buyer Types,244050.0
+194189,R42,8,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+194190,R42,8,2019,New,Household Buyer - Former Owner-Occupier,244050.0
+194191,R42,8,2019,New,Household Buyer - Non-Occupier,
+194748,R42,8,2019,Existing,All Buyer Types,166875.0
+194749,R42,8,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,110000.0
+194750,R42,8,2019,Existing,Household Buyer - Former Owner-Occupier,199688.0
+194751,R42,8,2019,Existing,Household Buyer - Non-Occupier,92500.0
+195308,R42,9,2019,All Dwelling Statuses,All Buyer Types,119846.0
+195309,R42,9,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,106300.0
+195310,R42,9,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,168250.0
+195311,R42,9,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,88375.0
+195868,R42,9,2019,New,All Buyer Types,102500.0
+195869,R42,9,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,102500.0
+195870,R42,9,2019,New,Household Buyer - Former Owner-Occupier,
+195871,R42,9,2019,New,Household Buyer - Non-Occupier,
+196428,R42,9,2019,Existing,All Buyer Types,121292.0
+196429,R42,9,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,107250.0
+196430,R42,9,2019,Existing,Household Buyer - Former Owner-Occupier,168250.0
+196431,R42,9,2019,Existing,Household Buyer - Non-Occupier,88375.0
+196988,R42,10,2019,All Dwelling Statuses,All Buyer Types,171100.0
+196989,R42,10,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,177900.0
+196990,R42,10,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,171333.0
+196991,R42,10,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,135000.0
+197548,R42,10,2019,New,All Buyer Types,
+197549,R42,10,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+197550,R42,10,2019,New,Household Buyer - Former Owner-Occupier,
+197551,R42,10,2019,New,Household Buyer - Non-Occupier,
+198108,R42,10,2019,Existing,All Buyer Types,171100.0
+198109,R42,10,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,177900.0
+198110,R42,10,2019,Existing,Household Buyer - Former Owner-Occupier,171333.0
+198111,R42,10,2019,Existing,Household Buyer - Non-Occupier,135000.0
+198668,R42,11,2019,All Dwelling Statuses,All Buyer Types,143350.0
+198669,R42,11,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+198670,R42,11,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,155583.0
+198671,R42,11,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,85000.0
+199228,R42,11,2019,New,All Buyer Types,
+199229,R42,11,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+199230,R42,11,2019,New,Household Buyer - Former Owner-Occupier,
+199231,R42,11,2019,New,Household Buyer - Non-Occupier,
+199788,R42,11,2019,Existing,All Buyer Types,143350.0
+199789,R42,11,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,165000.0
+199790,R42,11,2019,Existing,Household Buyer - Former Owner-Occupier,155583.0
+199791,R42,11,2019,Existing,Household Buyer - Non-Occupier,85000.0
+200348,R42,12,2019,All Dwelling Statuses,All Buyer Types,116105.0
+200349,R42,12,2019,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,123000.0
+200350,R42,12,2019,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,124000.0
+200351,R42,12,2019,All Dwelling Statuses,Household Buyer - Non-Occupier,75333.0
+200908,R42,12,2019,New,All Buyer Types,
+200909,R42,12,2019,New,Household Buyer - First-Time Buyer Owner-Occupier,
+200910,R42,12,2019,New,Household Buyer - Former Owner-Occupier,
+200911,R42,12,2019,New,Household Buyer - Non-Occupier,
+201468,R42,12,2019,Existing,All Buyer Types,116105.0
+201469,R42,12,2019,Existing,Household Buyer - First-Time Buyer Owner-Occupier,123000.0
+201470,R42,12,2019,Existing,Household Buyer - Former Owner-Occupier,124000.0
+201471,R42,12,2019,Existing,Household Buyer - Non-Occupier,75333.0
+202028,R42,1,2020,All Dwelling Statuses,All Buyer Types,161600.0
+202029,R42,1,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+202030,R42,1,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,172000.0
+202031,R42,1,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+202588,R42,1,2020,New,All Buyer Types,
+202589,R42,1,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+202590,R42,1,2020,New,Household Buyer - Former Owner-Occupier,
+202591,R42,1,2020,New,Household Buyer - Non-Occupier,
+203148,R42,1,2020,Existing,All Buyer Types,161600.0
+203149,R42,1,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+203150,R42,1,2020,Existing,Household Buyer - Former Owner-Occupier,172000.0
+203151,R42,1,2020,Existing,Household Buyer - Non-Occupier,
+203708,R42,2,2020,All Dwelling Statuses,All Buyer Types,150219.0
+203709,R42,2,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,149892.0
+203710,R42,2,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,158300.0
+203711,R42,2,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,131000.0
+204268,R42,2,2020,New,All Buyer Types,
+204269,R42,2,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+204270,R42,2,2020,New,Household Buyer - Former Owner-Occupier,
+204271,R42,2,2020,New,Household Buyer - Non-Occupier,
+204828,R42,2,2020,Existing,All Buyer Types,150219.0
+204829,R42,2,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,149892.0
+204830,R42,2,2020,Existing,Household Buyer - Former Owner-Occupier,158300.0
+204831,R42,2,2020,Existing,Household Buyer - Non-Occupier,131000.0
+205388,R42,3,2020,All Dwelling Statuses,All Buyer Types,185560.0
+205389,R42,3,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,178500.0
+205390,R42,3,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,192620.0
+205391,R42,3,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+205948,R42,3,2020,New,All Buyer Types,267860.0
+205949,R42,3,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+205950,R42,3,2020,New,Household Buyer - Former Owner-Occupier,267860.0
+205951,R42,3,2020,New,Household Buyer - Non-Occupier,
+206508,R42,3,2020,Existing,All Buyer Types,169100.0
+206509,R42,3,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,178500.0
+206510,R42,3,2020,Existing,Household Buyer - Former Owner-Occupier,155000.0
+206511,R42,3,2020,Existing,Household Buyer - Non-Occupier,
+207068,R42,4,2020,All Dwelling Statuses,All Buyer Types,161303.0
+207069,R42,4,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,215562.0
+207070,R42,4,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,139600.0
+207071,R42,4,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+207628,R42,4,2020,New,All Buyer Types,275124.0
+207629,R42,4,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,275124.0
+207630,R42,4,2020,New,Household Buyer - Former Owner-Occupier,
+207631,R42,4,2020,New,Household Buyer - Non-Occupier,
+208188,R42,4,2020,Existing,All Buyer Types,142333.0
+208189,R42,4,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,156000.0
+208190,R42,4,2020,Existing,Household Buyer - Former Owner-Occupier,139600.0
+208191,R42,4,2020,Existing,Household Buyer - Non-Occupier,
+208748,R42,5,2020,All Dwelling Statuses,All Buyer Types,135813.0
+208749,R42,5,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+208750,R42,5,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,154417.0
+208751,R42,5,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,60000.0
+209308,R42,5,2020,New,All Buyer Types,
+209309,R42,5,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+209310,R42,5,2020,New,Household Buyer - Former Owner-Occupier,
+209311,R42,5,2020,New,Household Buyer - Non-Occupier,
+209868,R42,5,2020,Existing,All Buyer Types,135813.0
+209869,R42,5,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,100000.0
+209870,R42,5,2020,Existing,Household Buyer - Former Owner-Occupier,154417.0
+209871,R42,5,2020,Existing,Household Buyer - Non-Occupier,60000.0
+210428,R42,6,2020,All Dwelling Statuses,All Buyer Types,96300.0
+210429,R42,6,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,138250.0
+210430,R42,6,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,68333.0
+210431,R42,6,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+210988,R42,6,2020,New,All Buyer Types,
+210989,R42,6,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+210990,R42,6,2020,New,Household Buyer - Former Owner-Occupier,
+210991,R42,6,2020,New,Household Buyer - Non-Occupier,
+211548,R42,6,2020,Existing,All Buyer Types,96300.0
+211549,R42,6,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,138250.0
+211550,R42,6,2020,Existing,Household Buyer - Former Owner-Occupier,68333.0
+211551,R42,6,2020,Existing,Household Buyer - Non-Occupier,
+212108,R42,7,2020,All Dwelling Statuses,All Buyer Types,152436.0
+212109,R42,7,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,209700.0
+212110,R42,7,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,166833.0
+212111,R42,7,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,73575.0
+212668,R42,7,2020,New,All Buyer Types,
+212669,R42,7,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+212670,R42,7,2020,New,Household Buyer - Former Owner-Occupier,
+212671,R42,7,2020,New,Household Buyer - Non-Occupier,
+213228,R42,7,2020,Existing,All Buyer Types,152436.0
+213229,R42,7,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,209700.0
+213230,R42,7,2020,Existing,Household Buyer - Former Owner-Occupier,166833.0
+213231,R42,7,2020,Existing,Household Buyer - Non-Occupier,73575.0
+213788,R42,8,2020,All Dwelling Statuses,All Buyer Types,84938.0
+213789,R42,8,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,72500.0
+213790,R42,8,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,109250.0
+213791,R42,8,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,48750.0
+214348,R42,8,2020,New,All Buyer Types,
+214349,R42,8,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+214350,R42,8,2020,New,Household Buyer - Former Owner-Occupier,
+214351,R42,8,2020,New,Household Buyer - Non-Occupier,
+214908,R42,8,2020,Existing,All Buyer Types,84938.0
+214909,R42,8,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,72500.0
+214910,R42,8,2020,Existing,Household Buyer - Former Owner-Occupier,109250.0
+214911,R42,8,2020,Existing,Household Buyer - Non-Occupier,48750.0
+215468,R42,9,2020,All Dwelling Statuses,All Buyer Types,136667.0
+215469,R42,9,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,159000.0
+215470,R42,9,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,132200.0
+215471,R42,9,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,
+216028,R42,9,2020,New,All Buyer Types,
+216029,R42,9,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+216030,R42,9,2020,New,Household Buyer - Former Owner-Occupier,
+216031,R42,9,2020,New,Household Buyer - Non-Occupier,
+216588,R42,9,2020,Existing,All Buyer Types,136667.0
+216589,R42,9,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,159000.0
+216590,R42,9,2020,Existing,Household Buyer - Former Owner-Occupier,132200.0
+216591,R42,9,2020,Existing,Household Buyer - Non-Occupier,
+217148,R42,10,2020,All Dwelling Statuses,All Buyer Types,165242.0
+217149,R42,10,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,235000.0
+217150,R42,10,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,194610.0
+217151,R42,10,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,60000.0
+217708,R42,10,2020,New,All Buyer Types,271662.0
+217709,R42,10,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+217710,R42,10,2020,New,Household Buyer - Former Owner-Occupier,271662.0
+217711,R42,10,2020,New,Household Buyer - Non-Occupier,
+218268,R42,10,2020,Existing,All Buyer Types,154600.0
+218269,R42,10,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,235000.0
+218270,R42,10,2020,Existing,Household Buyer - Former Owner-Occupier,179200.0
+218271,R42,10,2020,Existing,Household Buyer - Non-Occupier,60000.0
+218828,R42,11,2020,All Dwelling Statuses,All Buyer Types,149767.0
+218829,R42,11,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,164286.0
+218830,R42,11,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,179900.0
+218831,R42,11,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,65667.0
+219388,R42,11,2020,New,All Buyer Types,
+219389,R42,11,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,
+219390,R42,11,2020,New,Household Buyer - Former Owner-Occupier,
+219391,R42,11,2020,New,Household Buyer - Non-Occupier,
+219948,R42,11,2020,Existing,All Buyer Types,149767.0
+219949,R42,11,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,164286.0
+219950,R42,11,2020,Existing,Household Buyer - Former Owner-Occupier,179900.0
+219951,R42,11,2020,Existing,Household Buyer - Non-Occupier,65667.0
+220508,R42,12,2020,All Dwelling Statuses,All Buyer Types,150937.0
+220509,R42,12,2020,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,152667.0
+220510,R42,12,2020,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,197125.0
+220511,R42,12,2020,All Dwelling Statuses,Household Buyer - Non-Occupier,76000.0
+221068,R42,12,2020,New,All Buyer Types,245000.0
+221069,R42,12,2020,New,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+221070,R42,12,2020,New,Household Buyer - Former Owner-Occupier,
+221071,R42,12,2020,New,Household Buyer - Non-Occupier,
+221628,R42,12,2020,Existing,All Buyer Types,144667.0
+221629,R42,12,2020,Existing,Household Buyer - First-Time Buyer Owner-Occupier,106500.0
+221630,R42,12,2020,Existing,Household Buyer - Former Owner-Occupier,197125.0
+221631,R42,12,2020,Existing,Household Buyer - Non-Occupier,76000.0
+222188,R42,1,2021,All Dwelling Statuses,All Buyer Types,149917.0
+222189,R42,1,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,190000.0
+222190,R42,1,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,139833.0
+222191,R42,1,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,100000.0
+222748,R42,1,2021,New,All Buyer Types,245000.0
+222749,R42,1,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+222750,R42,1,2021,New,Household Buyer - Former Owner-Occupier,
+222751,R42,1,2021,New,Household Buyer - Non-Occupier,
+223308,R42,1,2021,Existing,All Buyer Types,130900.0
+223309,R42,1,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,135000.0
+223310,R42,1,2021,Existing,Household Buyer - Former Owner-Occupier,139833.0
+223311,R42,1,2021,Existing,Household Buyer - Non-Occupier,100000.0
+223868,R42,2,2021,All Dwelling Statuses,All Buyer Types,179077.0
+223869,R42,2,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,208000.0
+223870,R42,2,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,168643.0
+223871,R42,2,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,107500.0
+224428,R42,2,2021,New,All Buyer Types,
+224429,R42,2,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+224430,R42,2,2021,New,Household Buyer - Former Owner-Occupier,
+224431,R42,2,2021,New,Household Buyer - Non-Occupier,
+224988,R42,2,2021,Existing,All Buyer Types,179077.0
+224989,R42,2,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,208000.0
+224990,R42,2,2021,Existing,Household Buyer - Former Owner-Occupier,168643.0
+224991,R42,2,2021,Existing,Household Buyer - Non-Occupier,107500.0
+225548,R42,3,2021,All Dwelling Statuses,All Buyer Types,196813.0
+225549,R42,3,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,241333.0
+225550,R42,3,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,181972.0
+225551,R42,3,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,
+226108,R42,3,2021,New,All Buyer Types,
+226109,R42,3,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+226110,R42,3,2021,New,Household Buyer - Former Owner-Occupier,
+226111,R42,3,2021,New,Household Buyer - Non-Occupier,
+226668,R42,3,2021,Existing,All Buyer Types,196813.0
+226669,R42,3,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,241333.0
+226670,R42,3,2021,Existing,Household Buyer - Former Owner-Occupier,181972.0
+226671,R42,3,2021,Existing,Household Buyer - Non-Occupier,
+227228,R42,4,2021,All Dwelling Statuses,All Buyer Types,159429.0
+227229,R42,4,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,162333.0
+227230,R42,4,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,185833.0
+227231,R42,4,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,126000.0
+227788,R42,4,2021,New,All Buyer Types,
+227789,R42,4,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+227790,R42,4,2021,New,Household Buyer - Former Owner-Occupier,
+227791,R42,4,2021,New,Household Buyer - Non-Occupier,
+228348,R42,4,2021,Existing,All Buyer Types,159429.0
+228349,R42,4,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,162333.0
+228350,R42,4,2021,Existing,Household Buyer - Former Owner-Occupier,185833.0
+228351,R42,4,2021,Existing,Household Buyer - Non-Occupier,126000.0
+228908,R42,5,2021,All Dwelling Statuses,All Buyer Types,157700.0
+228909,R42,5,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,85000.0
+228910,R42,5,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,173125.0
+228911,R42,5,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,107000.0
+229468,R42,5,2021,New,All Buyer Types,
+229469,R42,5,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+229470,R42,5,2021,New,Household Buyer - Former Owner-Occupier,
+229471,R42,5,2021,New,Household Buyer - Non-Occupier,
+230028,R42,5,2021,Existing,All Buyer Types,157700.0
+230029,R42,5,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,85000.0
+230030,R42,5,2021,Existing,Household Buyer - Former Owner-Occupier,173125.0
+230031,R42,5,2021,Existing,Household Buyer - Non-Occupier,107000.0
+230588,R42,6,2021,All Dwelling Statuses,All Buyer Types,136083.0
+230589,R42,6,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,136500.0
+230590,R42,6,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,155000.0
+230591,R42,6,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,104000.0
+231148,R42,6,2021,New,All Buyer Types,
+231149,R42,6,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+231150,R42,6,2021,New,Household Buyer - Former Owner-Occupier,
+231151,R42,6,2021,New,Household Buyer - Non-Occupier,
+231708,R42,6,2021,Existing,All Buyer Types,136083.0
+231709,R42,6,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,136500.0
+231710,R42,6,2021,Existing,Household Buyer - Former Owner-Occupier,155000.0
+231711,R42,6,2021,Existing,Household Buyer - Non-Occupier,104000.0
+232268,R42,7,2021,All Dwelling Statuses,All Buyer Types,143654.0
+232269,R42,7,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,138333.0
+232270,R42,7,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,152188.0
+232271,R42,7,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,117500.0
+232828,R42,7,2021,New,All Buyer Types,
+232829,R42,7,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+232830,R42,7,2021,New,Household Buyer - Former Owner-Occupier,
+232831,R42,7,2021,New,Household Buyer - Non-Occupier,
+233388,R42,7,2021,Existing,All Buyer Types,143654.0
+233389,R42,7,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,138333.0
+233390,R42,7,2021,Existing,Household Buyer - Former Owner-Occupier,152188.0
+233391,R42,7,2021,Existing,Household Buyer - Non-Occupier,117500.0
+233948,R42,8,2021,All Dwelling Statuses,All Buyer Types,198308.0
+233949,R42,8,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,220783.0
+233950,R42,8,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,218750.0
+233951,R42,8,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,90000.0
+234508,R42,8,2021,New,All Buyer Types,257349.0
+234509,R42,8,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,257349.0
+234510,R42,8,2021,New,Household Buyer - Former Owner-Occupier,
+234511,R42,8,2021,New,Household Buyer - Non-Occupier,
+235068,R42,8,2021,Existing,All Buyer Types,186500.0
+235069,R42,8,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,202500.0
+235070,R42,8,2021,Existing,Household Buyer - Former Owner-Occupier,218750.0
+235071,R42,8,2021,Existing,Household Buyer - Non-Occupier,90000.0
+235628,R42,9,2021,All Dwelling Statuses,All Buyer Types,201563.0
+235629,R42,9,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,231250.0
+235630,R42,9,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,275000.0
+235631,R42,9,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,108333.0
+236188,R42,9,2021,New,All Buyer Types,
+236189,R42,9,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+236190,R42,9,2021,New,Household Buyer - Former Owner-Occupier,
+236191,R42,9,2021,New,Household Buyer - Non-Occupier,
+236748,R42,9,2021,Existing,All Buyer Types,201563.0
+236749,R42,9,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,231250.0
+236750,R42,9,2021,Existing,Household Buyer - Former Owner-Occupier,275000.0
+236751,R42,9,2021,Existing,Household Buyer - Non-Occupier,108333.0
+237308,R42,10,2021,All Dwelling Statuses,All Buyer Types,169278.0
+237309,R42,10,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+237310,R42,10,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,203357.0
+237311,R42,10,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,50000.0
+237868,R42,10,2021,New,All Buyer Types,
+237869,R42,10,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+237870,R42,10,2021,New,Household Buyer - Former Owner-Occupier,
+237871,R42,10,2021,New,Household Buyer - Non-Occupier,
+238428,R42,10,2021,Existing,All Buyer Types,169278.0
+238429,R42,10,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+238430,R42,10,2021,Existing,Household Buyer - Former Owner-Occupier,203357.0
+238431,R42,10,2021,Existing,Household Buyer - Non-Occupier,50000.0
+238988,R42,11,2021,All Dwelling Statuses,All Buyer Types,203799.0
+238989,R42,11,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,199500.0
+238990,R42,11,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,235413.0
+238991,R42,11,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,117000.0
+239548,R42,11,2021,New,All Buyer Types,258643.0
+239549,R42,11,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,
+239550,R42,11,2021,New,Household Buyer - Former Owner-Occupier,258643.0
+239551,R42,11,2021,New,Household Buyer - Non-Occupier,
+240108,R42,11,2021,Existing,All Buyer Types,198026.0
+240109,R42,11,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,199500.0
+240110,R42,11,2021,Existing,Household Buyer - Former Owner-Occupier,231542.0
+240111,R42,11,2021,Existing,Household Buyer - Non-Occupier,117000.0
+240668,R42,12,2021,All Dwelling Statuses,All Buyer Types,174109.0
+240669,R42,12,2021,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,197833.0
+240670,R42,12,2021,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,171679.0
+240671,R42,12,2021,All Dwelling Statuses,Household Buyer - Non-Occupier,138000.0
+241228,R42,12,2021,New,All Buyer Types,245000.0
+241229,R42,12,2021,New,Household Buyer - First-Time Buyer Owner-Occupier,245000.0
+241230,R42,12,2021,New,Household Buyer - Former Owner-Occupier,
+241231,R42,12,2021,New,Household Buyer - Non-Occupier,
+241788,R42,12,2021,Existing,All Buyer Types,170886.0
+241789,R42,12,2021,Existing,Household Buyer - First-Time Buyer Owner-Occupier,188400.0
+241790,R42,12,2021,Existing,Household Buyer - Former Owner-Occupier,171679.0
+241791,R42,12,2021,Existing,Household Buyer - Non-Occupier,138000.0
+242348,R42,1,2022,All Dwelling Statuses,All Buyer Types,253157.0
+242349,R42,1,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,278285.0
+242350,R42,1,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,251429.0
+242351,R42,1,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,215000.0
+242908,R42,1,2022,New,All Buyer Types,
+242909,R42,1,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+242910,R42,1,2022,New,Household Buyer - Former Owner-Occupier,
+242911,R42,1,2022,New,Household Buyer - Non-Occupier,
+243468,R42,1,2022,Existing,All Buyer Types,253157.0
+243469,R42,1,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,278285.0
+243470,R42,1,2022,Existing,Household Buyer - Former Owner-Occupier,251429.0
+243471,R42,1,2022,Existing,Household Buyer - Non-Occupier,215000.0
+244028,R42,2,2022,All Dwelling Statuses,All Buyer Types,210665.0
+244029,R42,2,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,242500.0
+244030,R42,2,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,221756.0
+244031,R42,2,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,25000.0
+244588,R42,2,2022,New,All Buyer Types,295157.0
+244589,R42,2,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,285000.0
+244590,R42,2,2022,New,Household Buyer - Former Owner-Occupier,305315.0
+244591,R42,2,2022,New,Household Buyer - Non-Occupier,
+245148,R42,2,2022,Existing,All Buyer Types,196583.0
+245149,R42,2,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,200000.0
+245150,R42,2,2022,Existing,Household Buyer - Former Owner-Occupier,213400.0
+245151,R42,2,2022,Existing,Household Buyer - Non-Occupier,25000.0
+245708,R42,3,2022,All Dwelling Statuses,All Buyer Types,168000.0
+245709,R42,3,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+245710,R42,3,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,151167.0
+245711,R42,3,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,155000.0
+246268,R42,3,2022,New,All Buyer Types,
+246269,R42,3,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+246270,R42,3,2022,New,Household Buyer - Former Owner-Occupier,
+246271,R42,3,2022,New,Household Buyer - Non-Occupier,
+246828,R42,3,2022,Existing,All Buyer Types,168000.0
+246829,R42,3,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,295000.0
+246830,R42,3,2022,Existing,Household Buyer - Former Owner-Occupier,151167.0
+246831,R42,3,2022,Existing,Household Buyer - Non-Occupier,155000.0
+247388,R42,4,2022,All Dwelling Statuses,All Buyer Types,243477.0
+247389,R42,4,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,240500.0
+247390,R42,4,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,244594.0
+247391,R42,4,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+247948,R42,4,2022,New,All Buyer Types,284999.0
+247949,R42,4,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,284999.0
+247950,R42,4,2022,New,Household Buyer - Former Owner-Occupier,
+247951,R42,4,2022,New,Household Buyer - Non-Occupier,
+248508,R42,4,2022,Existing,All Buyer Types,239325.0
+248509,R42,4,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,218250.0
+248510,R42,4,2022,Existing,Household Buyer - Former Owner-Occupier,244594.0
+248511,R42,4,2022,Existing,Household Buyer - Non-Occupier,
+249068,R42,5,2022,All Dwelling Statuses,All Buyer Types,178750.0
+249069,R42,5,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,225833.0
+249070,R42,5,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,150500.0
+249071,R42,5,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,
+249628,R42,5,2022,New,All Buyer Types,340500.0
+249629,R42,5,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,340500.0
+249630,R42,5,2022,New,Household Buyer - Former Owner-Occupier,
+249631,R42,5,2022,New,Household Buyer - Non-Occupier,
+250188,R42,5,2022,Existing,All Buyer Types,155643.0
+250189,R42,5,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,168500.0
+250190,R42,5,2022,Existing,Household Buyer - Former Owner-Occupier,150500.0
+250191,R42,5,2022,Existing,Household Buyer - Non-Occupier,
+250748,R42,6,2022,All Dwelling Statuses,All Buyer Types,217846.0
+250749,R42,6,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,228000.0
+250750,R42,6,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,218000.0
+250751,R42,6,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,166000.0
+251308,R42,6,2022,New,All Buyer Types,297500.0
+251309,R42,6,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,297500.0
+251310,R42,6,2022,New,Household Buyer - Former Owner-Occupier,
+251311,R42,6,2022,New,Household Buyer - Non-Occupier,
+251868,R42,6,2022,Existing,All Buyer Types,203364.0
+251869,R42,6,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,181667.0
+251870,R42,6,2022,Existing,Household Buyer - Former Owner-Occupier,218000.0
+251871,R42,6,2022,Existing,Household Buyer - Non-Occupier,166000.0
+252428,R42,7,2022,All Dwelling Statuses,All Buyer Types,203515.0
+252429,R42,7,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,249569.0
+252430,R42,7,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,216889.0
+252431,R42,7,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,142600.0
+252988,R42,7,2022,New,All Buyer Types,280388.0
+252989,R42,7,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,300775.0
+252990,R42,7,2022,New,Household Buyer - Former Owner-Occupier,260000.0
+252991,R42,7,2022,New,Household Buyer - Non-Occupier,
+253548,R42,7,2022,Existing,All Buyer Types,193906.0
+253549,R42,7,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,232500.0
+253550,R42,7,2022,Existing,Household Buyer - Former Owner-Occupier,211500.0
+253551,R42,7,2022,Existing,Household Buyer - Non-Occupier,142600.0
+254108,R42,8,2022,All Dwelling Statuses,All Buyer Types,199700.0
+254109,R42,8,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+254110,R42,8,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,226286.0
+254111,R42,8,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,137667.0
+254668,R42,8,2022,New,All Buyer Types,
+254669,R42,8,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+254670,R42,8,2022,New,Household Buyer - Former Owner-Occupier,
+254671,R42,8,2022,New,Household Buyer - Non-Occupier,
+255228,R42,8,2022,Existing,All Buyer Types,199700.0
+255229,R42,8,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+255230,R42,8,2022,Existing,Household Buyer - Former Owner-Occupier,226286.0
+255231,R42,8,2022,Existing,Household Buyer - Non-Occupier,137667.0
+255788,R42,9,2022,All Dwelling Statuses,All Buyer Types,166500.0
+255789,R42,9,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,205000.0
+255790,R42,9,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,166067.0
+255791,R42,9,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,117333.0
+256348,R42,9,2022,New,All Buyer Types,292500.0
+256349,R42,9,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,292500.0
+256350,R42,9,2022,New,Household Buyer - Former Owner-Occupier,
+256351,R42,9,2022,New,Household Buyer - Non-Occupier,
+256908,R42,9,2022,Existing,All Buyer Types,153900.0
+256909,R42,9,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,117500.0
+256910,R42,9,2022,Existing,Household Buyer - Former Owner-Occupier,166067.0
+256911,R42,9,2022,Existing,Household Buyer - Non-Occupier,117333.0
+257468,R42,10,2022,All Dwelling Statuses,All Buyer Types,165737.0
+257469,R42,10,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,189333.0
+257470,R42,10,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,184909.0
+257471,R42,10,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,109400.0
+258028,R42,10,2022,New,All Buyer Types,285000.0
+258029,R42,10,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,285000.0
+258030,R42,10,2022,New,Household Buyer - Former Owner-Occupier,
+258031,R42,10,2022,New,Household Buyer - Non-Occupier,
+258588,R42,10,2022,Existing,All Buyer Types,159111.0
+258589,R42,10,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,141500.0
+258590,R42,10,2022,Existing,Household Buyer - Former Owner-Occupier,184909.0
+258591,R42,10,2022,Existing,Household Buyer - Non-Occupier,109400.0
+259148,R42,11,2022,All Dwelling Statuses,All Buyer Types,226926.0
+259149,R42,11,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+259150,R42,11,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,198838.0
+259151,R42,11,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,217271.0
+259708,R42,11,2022,New,All Buyer Types,374550.0
+259709,R42,11,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+259710,R42,11,2022,New,Household Buyer - Former Owner-Occupier,363200.0
+259711,R42,11,2022,New,Household Buyer - Non-Occupier,385900.0
+260268,R42,11,2022,Existing,All Buyer Types,209559.0
+260269,R42,11,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,300000.0
+260270,R42,11,2022,Existing,Household Buyer - Former Owner-Occupier,175357.0
+260271,R42,11,2022,Existing,Household Buyer - Non-Occupier,189167.0
+260828,R42,12,2022,All Dwelling Statuses,All Buyer Types,163100.0
+260829,R42,12,2022,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,164250.0
+260830,R42,12,2022,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,184667.0
+260831,R42,12,2022,All Dwelling Statuses,Household Buyer - Non-Occupier,140000.0
+261388,R42,12,2022,New,All Buyer Types,
+261389,R42,12,2022,New,Household Buyer - First-Time Buyer Owner-Occupier,
+261390,R42,12,2022,New,Household Buyer - Former Owner-Occupier,
+261391,R42,12,2022,New,Household Buyer - Non-Occupier,
+261948,R42,12,2022,Existing,All Buyer Types,163100.0
+261949,R42,12,2022,Existing,Household Buyer - First-Time Buyer Owner-Occupier,164250.0
+261950,R42,12,2022,Existing,Household Buyer - Former Owner-Occupier,184667.0
+261951,R42,12,2022,Existing,Household Buyer - Non-Occupier,140000.0
+262508,R42,1,2023,All Dwelling Statuses,All Buyer Types,177926.0
+262509,R42,1,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,162640.0
+262510,R42,1,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,216079.0
+262511,R42,1,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,122000.0
+263068,R42,1,2023,New,All Buyer Types,363768.0
+263069,R42,1,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,290560.0
+263070,R42,1,2023,New,Household Buyer - Former Owner-Occupier,436975.0
+263071,R42,1,2023,New,Household Buyer - Non-Occupier,
+263628,R42,1,2023,Existing,All Buyer Types,144136.0
+263629,R42,1,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,120000.0
+263630,R42,1,2023,Existing,Household Buyer - Former Owner-Occupier,171900.0
+263631,R42,1,2023,Existing,Household Buyer - Non-Occupier,122000.0
+264188,R42,2,2023,All Dwelling Statuses,All Buyer Types,215400.0
+264189,R42,2,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+264190,R42,2,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,241125.0
+264191,R42,2,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,95000.0
+264748,R42,2,2023,New,All Buyer Types,
+264749,R42,2,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+264750,R42,2,2023,New,Household Buyer - Former Owner-Occupier,
+264751,R42,2,2023,New,Household Buyer - Non-Occupier,
+265308,R42,2,2023,Existing,All Buyer Types,215400.0
+265309,R42,2,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,130000.0
+265310,R42,2,2023,Existing,Household Buyer - Former Owner-Occupier,241125.0
+265311,R42,2,2023,Existing,Household Buyer - Non-Occupier,95000.0
+265868,R42,3,2023,All Dwelling Statuses,All Buyer Types,140000.0
+265869,R42,3,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,164750.0
+265870,R42,3,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,163200.0
+265871,R42,3,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,32500.0
+266428,R42,3,2023,New,All Buyer Types,
+266429,R42,3,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+266430,R42,3,2023,New,Household Buyer - Former Owner-Occupier,
+266431,R42,3,2023,New,Household Buyer - Non-Occupier,
+266988,R42,3,2023,Existing,All Buyer Types,140000.0
+266989,R42,3,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,164750.0
+266990,R42,3,2023,Existing,Household Buyer - Former Owner-Occupier,163200.0
+266991,R42,3,2023,Existing,Household Buyer - Non-Occupier,32500.0
+267548,R42,4,2023,All Dwelling Statuses,All Buyer Types,193905.0
+267549,R42,4,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,167183.0
+267550,R42,4,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,205357.0
+267551,R42,4,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,
+268108,R42,4,2023,New,All Buyer Types,147550.0
+268109,R42,4,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,147550.0
+268110,R42,4,2023,New,Household Buyer - Former Owner-Occupier,
+268111,R42,4,2023,New,Household Buyer - Non-Occupier,
+268668,R42,4,2023,Existing,All Buyer Types,199056.0
+268669,R42,4,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,177000.0
+268670,R42,4,2023,Existing,Household Buyer - Former Owner-Occupier,205357.0
+268671,R42,4,2023,Existing,Household Buyer - Non-Occupier,
+269228,R42,5,2023,All Dwelling Statuses,All Buyer Types,185324.0
+269229,R42,5,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,193500.0
+269230,R42,5,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,212000.0
+269231,R42,5,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,91667.0
+269788,R42,5,2023,New,All Buyer Types,
+269789,R42,5,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+269790,R42,5,2023,New,Household Buyer - Former Owner-Occupier,
+269791,R42,5,2023,New,Household Buyer - Non-Occupier,
+270348,R42,5,2023,Existing,All Buyer Types,185324.0
+270349,R42,5,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,193500.0
+270350,R42,5,2023,Existing,Household Buyer - Former Owner-Occupier,212000.0
+270351,R42,5,2023,Existing,Household Buyer - Non-Occupier,91667.0
+270908,R42,6,2023,All Dwelling Statuses,All Buyer Types,200643.0
+270909,R42,6,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,159125.0
+270910,R42,6,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,223333.0
+270911,R42,6,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,162500.0
+271468,R42,6,2023,New,All Buyer Types,
+271469,R42,6,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+271470,R42,6,2023,New,Household Buyer - Former Owner-Occupier,
+271471,R42,6,2023,New,Household Buyer - Non-Occupier,
+272028,R42,6,2023,Existing,All Buyer Types,200643.0
+272029,R42,6,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,159125.0
+272030,R42,6,2023,Existing,Household Buyer - Former Owner-Occupier,223333.0
+272031,R42,6,2023,Existing,Household Buyer - Non-Occupier,162500.0
+272588,R42,7,2023,All Dwelling Statuses,All Buyer Types,210286.0
+272589,R42,7,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,161000.0
+272590,R42,7,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,232375.0
+272591,R42,7,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,280000.0
+273148,R42,7,2023,New,All Buyer Types,
+273149,R42,7,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+273150,R42,7,2023,New,Household Buyer - Former Owner-Occupier,
+273151,R42,7,2023,New,Household Buyer - Non-Occupier,
+273708,R42,7,2023,Existing,All Buyer Types,210286.0
+273709,R42,7,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,161000.0
+273710,R42,7,2023,Existing,Household Buyer - Former Owner-Occupier,232375.0
+273711,R42,7,2023,Existing,Household Buyer - Non-Occupier,280000.0
+274268,R42,8,2023,All Dwelling Statuses,All Buyer Types,209149.0
+274269,R42,8,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+274270,R42,8,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,230809.0
+274271,R42,8,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,135000.0
+274828,R42,8,2023,New,All Buyer Types,
+274829,R42,8,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+274830,R42,8,2023,New,Household Buyer - Former Owner-Occupier,
+274831,R42,8,2023,New,Household Buyer - Non-Occupier,
+275388,R42,8,2023,Existing,All Buyer Types,209149.0
+275389,R42,8,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,175000.0
+275390,R42,8,2023,Existing,Household Buyer - Former Owner-Occupier,230809.0
+275391,R42,8,2023,Existing,Household Buyer - Non-Occupier,135000.0
+275948,R42,9,2023,All Dwelling Statuses,All Buyer Types,197563.0
+275949,R42,9,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,187000.0
+275950,R42,9,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,238375.0
+275951,R42,9,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,66000.0
+276508,R42,9,2023,New,All Buyer Types,
+276509,R42,9,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+276510,R42,9,2023,New,Household Buyer - Former Owner-Occupier,
+276511,R42,9,2023,New,Household Buyer - Non-Occupier,
+277068,R42,9,2023,Existing,All Buyer Types,197563.0
+277069,R42,9,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,187000.0
+277070,R42,9,2023,Existing,Household Buyer - Former Owner-Occupier,238375.0
+277071,R42,9,2023,Existing,Household Buyer - Non-Occupier,66000.0
+277628,R42,10,2023,All Dwelling Statuses,All Buyer Types,183190.0
+277629,R42,10,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+277630,R42,10,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,215625.0
+277631,R42,10,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,87761.0
+278188,R42,10,2023,New,All Buyer Types,
+278189,R42,10,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+278190,R42,10,2023,New,Household Buyer - Former Owner-Occupier,
+278191,R42,10,2023,New,Household Buyer - Non-Occupier,
+278748,R42,10,2023,Existing,All Buyer Types,183190.0
+278749,R42,10,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,210000.0
+278750,R42,10,2023,Existing,Household Buyer - Former Owner-Occupier,215625.0
+278751,R42,10,2023,Existing,Household Buyer - Non-Occupier,87761.0
+279308,R42,11,2023,All Dwelling Statuses,All Buyer Types,293832.0
+279309,R42,11,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,173000.0
+279310,R42,11,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,256831.0
+279311,R42,11,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,513333.0
+279868,R42,11,2023,New,All Buyer Types,215650.0
+279869,R42,11,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+279870,R42,11,2023,New,Household Buyer - Former Owner-Occupier,215650.0
+279871,R42,11,2023,New,Household Buyer - Non-Occupier,
+280428,R42,11,2023,Existing,All Buyer Types,299846.0
+280429,R42,11,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,173000.0
+280430,R42,11,2023,Existing,Household Buyer - Former Owner-Occupier,262714.0
+280431,R42,11,2023,Existing,Household Buyer - Non-Occupier,513333.0
+280988,R42,12,2023,All Dwelling Statuses,All Buyer Types,170167.0
+280989,R42,12,2023,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+280990,R42,12,2023,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,175889.0
+280991,R42,12,2023,All Dwelling Statuses,Household Buyer - Non-Occupier,153000.0
+281548,R42,12,2023,New,All Buyer Types,
+281549,R42,12,2023,New,Household Buyer - First-Time Buyer Owner-Occupier,
+281550,R42,12,2023,New,Household Buyer - Former Owner-Occupier,
+281551,R42,12,2023,New,Household Buyer - Non-Occupier,
+282108,R42,12,2023,Existing,All Buyer Types,170167.0
+282109,R42,12,2023,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+282110,R42,12,2023,Existing,Household Buyer - Former Owner-Occupier,175889.0
+282111,R42,12,2023,Existing,Household Buyer - Non-Occupier,153000.0
+282668,R42,1,2024,All Dwelling Statuses,All Buyer Types,192400.0
+282669,R42,1,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+282670,R42,1,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,188167.0
+282671,R42,1,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,135000.0
+283228,R42,1,2024,New,All Buyer Types,
+283229,R42,1,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+283230,R42,1,2024,New,Household Buyer - Former Owner-Occupier,
+283231,R42,1,2024,New,Household Buyer - Non-Occupier,
+283788,R42,1,2024,Existing,All Buyer Types,192400.0
+283789,R42,1,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,220000.0
+283790,R42,1,2024,Existing,Household Buyer - Former Owner-Occupier,188167.0
+283791,R42,1,2024,Existing,Household Buyer - Non-Occupier,135000.0
+284348,R42,2,2024,All Dwelling Statuses,All Buyer Types,129125.0
+284349,R42,2,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,151500.0
+284350,R42,2,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,85000.0
+284351,R42,2,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,128500.0
+284908,R42,2,2024,New,All Buyer Types,
+284909,R42,2,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+284910,R42,2,2024,New,Household Buyer - Former Owner-Occupier,
+284911,R42,2,2024,New,Household Buyer - Non-Occupier,
+285468,R42,2,2024,Existing,All Buyer Types,129125.0
+285469,R42,2,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,151500.0
+285470,R42,2,2024,Existing,Household Buyer - Former Owner-Occupier,85000.0
+285471,R42,2,2024,Existing,Household Buyer - Non-Occupier,128500.0
+286028,R42,3,2024,All Dwelling Statuses,All Buyer Types,241364.0
+286029,R42,3,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,265000.0
+286030,R42,3,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,277429.0
+286031,R42,3,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,91500.0
+286588,R42,3,2024,New,All Buyer Types,322000.0
+286589,R42,3,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+286590,R42,3,2024,New,Household Buyer - Former Owner-Occupier,322000.0
+286591,R42,3,2024,New,Household Buyer - Non-Occupier,
+287148,R42,3,2024,Existing,All Buyer Types,233300.0
+287149,R42,3,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,265000.0
+287150,R42,3,2024,Existing,Household Buyer - Former Owner-Occupier,270000.0
+287151,R42,3,2024,Existing,Household Buyer - Non-Occupier,91500.0
+287708,R42,4,2024,All Dwelling Statuses,All Buyer Types,229213.0
+287709,R42,4,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,233750.0
+287710,R42,4,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,249497.0
+287711,R42,4,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,139000.0
+288268,R42,4,2024,New,All Buyer Types,209975.0
+288269,R42,4,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+288270,R42,4,2024,New,Household Buyer - Former Owner-Occupier,209975.0
+288271,R42,4,2024,New,Household Buyer - Non-Occupier,
+288828,R42,4,2024,Existing,All Buyer Types,230692.0
+288829,R42,4,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,233750.0
+288830,R42,4,2024,Existing,Household Buyer - Former Owner-Occupier,255143.0
+288831,R42,4,2024,Existing,Household Buyer - Non-Occupier,139000.0
+289388,R42,5,2024,All Dwelling Statuses,All Buyer Types,249385.0
+289389,R42,5,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,347500.0
+289390,R42,5,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,224857.0
+289391,R42,5,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,139000.0
+289948,R42,5,2024,New,All Buyer Types,
+289949,R42,5,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+289950,R42,5,2024,New,Household Buyer - Former Owner-Occupier,
+289951,R42,5,2024,New,Household Buyer - Non-Occupier,
+290508,R42,5,2024,Existing,All Buyer Types,249385.0
+290509,R42,5,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,347500.0
+290510,R42,5,2024,Existing,Household Buyer - Former Owner-Occupier,224857.0
+290511,R42,5,2024,Existing,Household Buyer - Non-Occupier,139000.0
+291068,R42,6,2024,All Dwelling Statuses,All Buyer Types,222125.0
+291069,R42,6,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+291070,R42,6,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,258389.0
+291071,R42,6,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,110000.0
+291628,R42,6,2024,New,All Buyer Types,
+291629,R42,6,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+291630,R42,6,2024,New,Household Buyer - Former Owner-Occupier,
+291631,R42,6,2024,New,Household Buyer - Non-Occupier,
+292188,R42,6,2024,Existing,All Buyer Types,222125.0
+292189,R42,6,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,115000.0
+292190,R42,6,2024,Existing,Household Buyer - Former Owner-Occupier,258389.0
+292191,R42,6,2024,Existing,Household Buyer - Non-Occupier,110000.0
+292748,R42,7,2024,All Dwelling Statuses,All Buyer Types,202875.0
+292749,R42,7,2024,All Dwelling Statuses,Household Buyer - First-Time Buyer Owner-Occupier,
+292750,R42,7,2024,All Dwelling Statuses,Household Buyer - Former Owner-Occupier,219714.0
+292751,R42,7,2024,All Dwelling Statuses,Household Buyer - Non-Occupier,85000.0
+293308,R42,7,2024,New,All Buyer Types,
+293309,R42,7,2024,New,Household Buyer - First-Time Buyer Owner-Occupier,
+293310,R42,7,2024,New,Household Buyer - Former Owner-Occupier,
+293311,R42,7,2024,New,Household Buyer - Non-Occupier,
+293868,R42,7,2024,Existing,All Buyer Types,202875.0
+293869,R42,7,2024,Existing,Household Buyer - First-Time Buyer Owner-Occupier,
+293870,R42,7,2024,Existing,Household Buyer - Former Owner-Occupier,219714.0
+293871,R42,7,2024,Existing,Household Buyer - Non-Occupier,85000.0
