@@ -24,7 +24,8 @@ $ python3 data/housing_prices/scripts/generate_mean_housing_prices.py data/housi
 
 2) Search `New Dwelling Completion`
 
-3) 
+3) Choose the following filters:
+![image](https://github.com/user-attachments/assets/34c09158-9327-4999-9027-1efeb150d17e)
 
 4) Add downloaded dataset to `data/completed_new_dwellings/raw` folder.
 
