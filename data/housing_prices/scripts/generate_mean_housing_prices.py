@@ -18,4 +18,4 @@ for eircode_output, _df in raw_df.groupby('Eircode Output'):
     final.append(_final)
 
 final = pd.concat(final)
-final.to_csv(f"./data/housing_prices/preprocessed/mean-housing-prices.csv", index=False)
+final.to_csv("./data/housing_prices/preprocessed/mean-housing-prices.csv", index=False)
