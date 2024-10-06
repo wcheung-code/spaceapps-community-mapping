@@ -71,7 +71,6 @@ canvas {
 	padding: 0 1rem;
 	border-bottom: 1px solid gainsboro;
 	border-radius: 10px;
-	/* overflow: hidden; */
 }
 
 #modal-header span {

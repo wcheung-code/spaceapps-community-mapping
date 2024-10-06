@@ -23,7 +23,7 @@ export class IrelandScene extends Scene {
 
 		this.#visuals = new Visuals();
 
-		// this.#visuals.initVisuals(this.getScene());
+		this.#visuals.initVisuals(this.getScene());
 	}
 
 	render() {

@@ -44,7 +44,7 @@ export class Scene {
 		this.#camera.upperRadiusLimit = options.upperRadiusLimit;
 		this.#camera.lowerRadiusLimit = options.lowerRadiusLimit;
 		this.#camera.lowerBetaLimit = 0;
-		this.#camera.upperBetaLimit = Math.PI / 2.1;
+		this.#camera.upperBetaLimit = Math.PI / 2.2;
 		this.#camera.radius = options.upperRadiusLimit
 		// This attaches the camera to the canvas
 		this.#camera.attachControl(this.#canvas, true);
@@ -64,7 +64,7 @@ export class Scene {
 			if(divisionIndex !== this.#currentZoomIndex) {
 				const difference = this.#currentZoomIndex < divisionIndex ? 1 : 11;
 				this.#currentZoomIndex = divisionIndex;
-
+				console.log("zooming");
 				window.dispatchEvent(new CustomEvent("zoom-by-sliding", { bubbles: true, detail: difference }));
 			}
 		}
