@@ -14,9 +14,9 @@ export class Controls {
 					clearInterval(timer);
 					console.log('found');
 
-					const bk = query?.querySelector(".bk-clearfix");
-					bk.style.width = "100%";
-					bk.style.height = "100%";
+					// const bk = query?.querySelector(".bk-clearfix");
+					// bk.style.width = "100%";
+					// bk.style.height = "100%";
 
 					query?.querySelector("iframe").style.width = "100%";
 					query?.querySelector("iframe").style.height = "100%";
