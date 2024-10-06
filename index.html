@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang = "en">
+	<head>
+		<meta charset = "UTF-8">
+		<meta name = "viewport" content = "width=device-width, initial-scale=1.0">
+		<link rel = "stylesheet" href = "css/map.css">
+		<script src = "https://cdn.babylonjs.com/babylon.js" defer></script>
+		<script src = "https://cdn.babylonjs.com/materialsLibrary/babylon.waterMaterial.js" defer></script>
+		<script src = "js/index.js" type = "module" defer></script>
+		<title>Document</title>
+	</head>
+	<body>
+		<canvas id = "canvas"></canvas>
+
+		<button id = "switch-maps">Switch maps</button>
+
+		<input type = "checkbox" name = "hide-contents" id = "hide-contents">
+		<div id = "modal">
+			<div id = "modal-header">
+				<span>Minimap</span>
+				<label id = "arrow-toggle" for = "hide-contents">🞃</label>
+			</div>
+			<div id = "modal-contents">
+				<iframe src = "visualizations/housing_prices/ie_housing_crisis.html" frameborder = "0" scrolling = "no"></iframe>
+			</div>
+		</div>
+	</body>
+</html>
