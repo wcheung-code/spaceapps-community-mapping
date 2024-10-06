@@ -8,7 +8,7 @@ from branca.colormap import LinearColormap
 from jinja2 import Template
 
 from bokeh.layouts import column, row
-from bokeh.models import Span, Slider,  ColumnDataSource, DateSlider, LinearAxis
+from bokeh.models import CustomJS, Span, Slider,  ColumnDataSource, DateSlider, LinearAxis
 from bokeh.models.ranges import Range1d
 from bokeh.plotting import figure, show, output_file, save
 from bokeh.models import Div
@@ -399,7 +399,7 @@ if __name__ == '__main__':
     p = figure(width=1000, height=500, x_axis_type='datetime',
             x_axis_label="Year",
             y_axis_label="Average Price of House in Ireland",
-            extra_y_ranges = {"twiny": Range1d(start=0, end=11000)},
+            extra_y_ranges = {"twiny": Range1d(start=0, end=15000)},
             styles = {'top': '600px'})
     p.left[0].formatter.use_scientific = False
     p.line('date', 'value', source=source, line_width=2, legend_label='Average House Price', color = '#FF7F0E')
@@ -411,8 +411,14 @@ if __name__ == '__main__':
     vline = Span(location=0, dimension='height', line_color='black', line_dash='dashed', line_width=0.5)
     p.renderers.extend([vline])
 
-    sv = DateSlider(width = 1000, start=min(dates), end=max(dates), value=min(dates), step=1, margin=10, format = '%b %Y', styles = {'top': '575px'})
+    sv = DateSlider(width = 760, start=min(dates), end=max(dates), value=min(dates), step=1, margin=10, format = '%b %Y', styles = {'top': '575px', 'left': '100px'})
     sv.js_link('value', vline, 'location')
+
+    sv.js_on_change(
+        'value',
+        CustomJS(code="""       
+            console.log(this.value)
+        """))
     p.legend.location = "bottom_right"
 
     housing_crisis_map = Div(
