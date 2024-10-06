@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import geopandas as gpd
 
-from branca.colormap import linear 
+from branca.colormap import LinearColormap 
 from jinja2 import Template
 
 import folium
@@ -251,7 +251,7 @@ if __name__ == "__main__":
         except ValueError:
             continue
 
-    cmap = linear.PuRd_09.scale(min_color, max_color)
+    cmap = LinearColormap(colors = ('#FFFFFF', '#008000')).scale(min_color, max_color)
 
     def norm(x):
         return (x - x.min()) / (x.max() - x.min())
