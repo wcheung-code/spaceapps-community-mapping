@@ -18,8 +18,8 @@ export class Controls {
 					// bk.style.width = "100%";
 					// bk.style.height = "100%";
 
-					query?.querySelector("iframe").style.width = "100%";
-					query?.querySelector("iframe").style.height = "100%";
+					// query?.querySelector("iframe").style.width = "100%";
+					// query?.querySelector("iframe").style.height = "100%";
 
 					this.#iframeEvents(query?.querySelector("iframe"));
 				}
